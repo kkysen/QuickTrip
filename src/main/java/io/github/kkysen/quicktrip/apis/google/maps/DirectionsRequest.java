@@ -1,4 +1,4 @@
-package io.github.kkysen.quicktrip.google.maps;
+package io.github.kkysen.quicktrip.apis.google.maps;
 
 
 /**

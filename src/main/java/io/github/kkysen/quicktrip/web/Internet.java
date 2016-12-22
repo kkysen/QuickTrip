@@ -70,15 +70,19 @@ public class Internet {
         suppressedExceptions = false;
     }
     
+    public static Reader getBufferedReader(String url) throws IOException {
+        return new BufferedReader(new InputStreamReader(new URL(url).openStream()));
+    }
+    
     /**
      * reads the html of a website and returns it as a String
      * 
-     * @param url URL of the website to be read
+     * @param url url of the website to be read
      * @return a String of the html of the website
      * @throws IOException an IOException
      */
-    public static String read(final URL url) throws IOException {
-        final BufferedReader reader = new BufferedReader(new InputStreamReader(url.openStream()));
+    public static String getString(final String url) throws IOException {
+        final BufferedReader reader = getBufferedReader(url);
         final StringBuilder sb = new StringBuilder();
         String line;
         while ((line = reader.readLine()) != null) {

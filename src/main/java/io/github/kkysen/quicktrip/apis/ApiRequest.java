@@ -1,5 +1,10 @@
 public abstract class ApiRequest<T> {
     
+    private static final Map<String, String> id2pathMap = new ConcurrentHashMap<>();
+    static {
+        
+    }
+    
     private String apiKey;
     private String baseUrl;
     private Properties query;
@@ -40,11 +45,11 @@ public abstract class ApiRequest<T> {
     }
     
     private Reader getCachedRequestReader() {
-        
+        return Files.newBufferedReader(Paths.get(id2pathMap.get(id)));
     }
     
     private boolean isCached() {
-        
+        return id2pathMap.containsKey(id);
     }
     
     public T get() {

@@ -1,18 +1,28 @@
 public abstract class ApiRequest<T> {
     
-    private static final Map<String, String> id2pathMap = new ConcurrentHashMap<>();
-    static {
-        
+    private static final String CACHE_DIRECTORY = "";
+    private static final String ID_CACHE = CACHE_DIRECTORY + "IDs.txt";
+    private static final String CACHE_SEP = ",";
+    
+    private static Map<String, String> getIdCache() {
+        return Files.lines(ID_CACHE)
+            .map(line -> line.split(CACHE_SEP))
+            .collect(Collectors.toConcurrentMap(
+                lineParts -> lineParts[0],
+                lineParts -> lineParts[1]
+            ));
     }
     
-    private String apiKey;
-    private String baseUrl;
-    private Properties query;
-    private String url;
+    private static final Map<String, String> idCache = getIdCache();
     
-    private T request;
+    private final String apiKey;
+    private final String baseUrl;
+    private final Properties query;
+    private final String url;
     
     private String id;
+    
+    private T request;
     
     protected abstract String getApiKey();
     
@@ -21,6 +31,12 @@ public abstract class ApiRequest<T> {
     protected abstract Properties getQuery();
     
     protected abstract Class<?> getJsonClass();
+    
+    private void addApiKey() {
+        if (!apiKey.isEmpty()) {
+            query.setProperty("key", apiKey);
+        }
+    }
     
     private String assembleUrl() {
         StringJoiner url = new StringJoiner("&", baseUrl + '?', "");
@@ -33,8 +49,7 @@ public abstract class ApiRequest<T> {
     public ApiRequest() {
         apiKey = getApiKey();
         query = getQuery();
-        query.setProperty("key", apiKey);
-        
+        addApiKey();
         url = assembleUrl();
     }
     
@@ -45,11 +60,11 @@ public abstract class ApiRequest<T> {
     }
     
     private Reader getCachedRequestReader() {
-        return Files.newBufferedReader(Paths.get(id2pathMap.get(id)));
+        return Files.newBufferedReader(Paths.get(idCache.get(id)));
     }
     
     private boolean isCached() {
-        return id2pathMap.containsKey(id);
+        return idCache.containsKey(id);
     }
     
     public T get() {

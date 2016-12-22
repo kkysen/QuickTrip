@@ -50,7 +50,7 @@ public abstract class ApiRequest<T> {
         return url.toString();
     }
     
-    public ApiRequest() {
+    protected ApiRequest() {
         apiKey = getApiKey();
         query = getQuery();
         addApiKey();

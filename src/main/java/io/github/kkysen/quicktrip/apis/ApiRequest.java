@@ -5,7 +5,7 @@ public abstract class ApiRequest<T> {
     private Properties query;
     private String url;
     
-    private T jsonRequest;
+    private T request;
     
     private String id;
     
@@ -33,12 +33,31 @@ public abstract class ApiRequest<T> {
         url = assembleUrl();
     }
     
-    private void request() {
+    protected abstract T parseRequest(Reader reader);
+    
+    private Reader getHttpRequestReader() {
+        return Internet.getBufferedReader(url);
+    }
+    
+    private Reader getCachedRequestReader() {
+        
+    }
+    
+    private boolean isCached() {
         
     }
     
     public T get() {
-        
+        if (request == null) {
+            Reader requestReader;
+            if (isCached()) {
+                requestReader = getCachedRequestReader();
+            } else {
+                requestReader = getHttpRequestReader();
+            }
+            request = parseRequest(requestReader);
+        }
+        return request;
     }
     
 }

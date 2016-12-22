@@ -70,8 +70,12 @@ public class Internet {
         suppressedExceptions = false;
     }
     
-    public static Reader getBufferedReader(String url) throws IOException {
-        return new BufferedReader(new InputStreamReader(new URL(url).openStream()));
+    public static InputStreamReader getInputStreamReader(final String url) throws IOException {
+        return new InputStreamReader(new URL(url).openStream());
+    }
+    
+    public static BufferedReader getBufferedReader(final String url) throws IOException {
+        return new BufferedReader(getInputStreamReader(url));
     }
     
     /**

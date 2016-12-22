@@ -24,6 +24,10 @@ public abstract class ApiRequest<T> {
     
     private T request;
     
+    protected String getApiKeyQueryName() {
+        return "key";
+    }
+    
     protected abstract String getApiKey();
     
     protected abstract String getBaseUrl();
@@ -34,7 +38,7 @@ public abstract class ApiRequest<T> {
     
     private void addApiKey() {
         if (!apiKey.isEmpty()) {
-            query.setProperty("key", apiKey);
+            query.setProperty(getApiKeyQueryName(), apiKey);
         }
     }
     

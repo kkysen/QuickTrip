@@ -1,4 +1,4 @@
-package io.github.kkysen.quicktrip.util.reflect;
+package io.github.kkysen.quicktrip.reflect;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Modifier;

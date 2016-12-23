@@ -1,4 +1,4 @@
-package io.github.kkysen.quicktrip.util.annotations;
+package io.github.kkysen.quicktrip.reflect.annotations;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.AnnotatedElement;

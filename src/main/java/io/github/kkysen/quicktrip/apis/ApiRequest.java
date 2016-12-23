@@ -49,6 +49,7 @@ public abstract class ApiRequest<R> {
     
     private String id;
     
+    protected final Class<? extends R> pojoClass;
     private R request;
     
     protected String getApiKeyQueryName() {
@@ -61,7 +62,7 @@ public abstract class ApiRequest<R> {
     
     protected abstract Map<String, String> getQuery();
     
-    protected abstract Class<?> getJsonClass();
+    protected abstract Class<? extends R> getPojoClass();
     
     private void addApiKey() {
         if (!apiKey.isEmpty()) {
@@ -83,9 +84,10 @@ public abstract class ApiRequest<R> {
         query = getQuery();
         addApiKey();
         url = assembleUrl();
+        pojoClass = getPojoClass();
     }
     
-    protected abstract R parseRequest(Reader reader, Class<? extends R> pojo);
+    protected abstract R parseRequest(Reader reader);
     
     private Reader getHttpRequestReader() throws IOException {
         return Internet.getInputStreamReader(url);
@@ -99,7 +101,7 @@ public abstract class ApiRequest<R> {
         return requestCache.containsKey(id);
     }
     
-    public R get(final Class<? extends R> pojo) throws IOException {
+    public R get() throws IOException {
         if (request == null) {
             Reader requestReader;
             if (isCached()) {
@@ -107,7 +109,7 @@ public abstract class ApiRequest<R> {
             } else {
                 requestReader = getHttpRequestReader();
             }
-            request = parseRequest(requestReader, pojo);
+            request = parseRequest(requestReader);
         }
         return request;
     }

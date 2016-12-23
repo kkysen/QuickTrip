@@ -15,8 +15,8 @@ public abstract class JsonApiRequest<R> extends ApiRequest<R> {
     private static final Gson gson = new Gson();
     
     @Override
-    protected R parseRequest(final Reader reader, final Class<? extends R> pojo) {
-        return gson.fromJson(reader, pojo);
+    protected R parseRequest(final Reader reader) {
+        return gson.fromJson(reader, pojoClass);
     }
     
 }

@@ -1,9 +1,11 @@
 ### Team Members
 Khyber Sen
+
 Stanley Lin
 
 ### Team Name
-// TODO
+
+SenSational TraveLin
 
 # Project Title
 QuickTrip: An All-in-One Trip Planner

@@ -30,6 +30,7 @@ public class Waypoint {
     private String id;
     
     @SerializedName("types")
-    private List<WaypointType> types;
+    private List<String> types;
+    //private List<WaypointType> types;
     
 }

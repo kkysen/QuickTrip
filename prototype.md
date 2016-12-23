@@ -14,7 +14,7 @@ QuickTrip: An All-in-One Trip Planner
 // TODO
 
 ### 2. Critical Features
-// TODO
+Get road and directions, rental cars, ...
 
 ### 3. Features to Be Added Later
 // TODO

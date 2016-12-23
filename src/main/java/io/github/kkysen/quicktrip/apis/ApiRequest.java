@@ -172,7 +172,7 @@ public abstract class ApiRequest<R> {
         return requestCache.containsKey(id);
     }
     
-    // FIXME
+    // FIXME read BufferedReader twice not working
     private void cache(final BufferedReader reader) throws IOException {
         final Path path = Paths.get(CACHE_DIRECTORY, MyFiles.fixFileName(url));
         requestCache.put(id, path.toString());
@@ -180,6 +180,8 @@ public abstract class ApiRequest<R> {
         MyFiles.write(path, reader);
         reader.reset();
     }
+    
+    // FIXME have correct file ext, either .json or .xml probably
     
     public R get() throws IOException {
         if (url == null) {

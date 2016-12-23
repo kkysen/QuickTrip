@@ -160,7 +160,7 @@ public abstract class ApiRequest<R> {
     
     protected abstract R parseRequest(Reader reader);
     
-    private BufferedReader getHttpRequestReader() throws IOException {
+    protected BufferedReader getHttpRequestReader() throws IOException {
         return new BufferedReader(Internet.getInputStreamReader(url));
     }
     

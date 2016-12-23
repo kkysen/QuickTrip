@@ -1,5 +1,7 @@
 package io.github.kkysen.quicktrip.io;
 
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.IOException;
 import java.nio.charset.Charset;
@@ -34,6 +36,14 @@ public class MyFiles {
     
     public static void write(final Path path, final String contents) throws IOException {
         Files.write(path, contents.getBytes(CHARSET));
+    }
+    
+    public static void write(final Path path, final BufferedReader reader) throws IOException {
+        final BufferedWriter writer = Files.newBufferedWriter(path);
+        String line;
+        while ((line = reader.readLine()) != null) {
+            writer.write(line);
+        }
     }
     
     public static <T> void write(final Path path, final Iterable<T> iter) throws IOException {

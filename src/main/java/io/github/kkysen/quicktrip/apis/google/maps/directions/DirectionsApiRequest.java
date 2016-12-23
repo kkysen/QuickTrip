@@ -5,6 +5,8 @@ import io.github.kkysen.quicktrip.apis.google.maps.GoogleMapsApiRequest;
 
 import java.util.Map;
 
+import com.google.gson.GsonBuilder;
+
 import lombok.RequiredArgsConstructor;
 
 // dummy class for now
@@ -53,6 +55,7 @@ public class DirectionsApiRequest extends GoogleMapsApiRequest<Directions> {
                 "",
                 "");
         final Directions directions = request.get();
+        System.out.println(new GsonBuilder().setPrettyPrinting().create().toJson(directions));
     }
     
 }

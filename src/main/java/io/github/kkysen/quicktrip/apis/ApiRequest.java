@@ -31,8 +31,8 @@ import java.util.stream.Stream;
  */
 public abstract class ApiRequest<R> {
     
-    private static final String CACHE_DIRECTORY = ""; // FIXME
-    private static final String REQUEST_CACHE_PATH = CACHE_DIRECTORY + "IDs.txt";
+    private static final String CACHE_DIRECTORY = "src/main/resources/apiCache/";
+    private static final String REQUEST_CACHE_PATH = CACHE_DIRECTORY + "requestCache.txt";
     private static final String CACHE_SEP = ",";  // FIXME
     
     private static Stream<String> getRequestCacheLines() {
@@ -60,10 +60,11 @@ public abstract class ApiRequest<R> {
         public QueryEncoder() {}
         
         @Override
-        public String put(final String name, final String value) {
+        public String put(final String name, String value) {
             String oldValue;
             try {
-                oldValue = URLEncoder.encode(value, "UTF-8");
+                value = URLEncoder.encode(value, "UTF-8");
+                oldValue = super.put(name, value);
             } catch (final UnsupportedEncodingException e) {
                 throw new RuntimeException(e);
             }
@@ -86,7 +87,7 @@ public abstract class ApiRequest<R> {
     
     private final Map<String, String> query = new QueryEncoder();
     
-    private final String url;
+    private String url;
     
     private String id;
     
@@ -100,7 +101,7 @@ public abstract class ApiRequest<R> {
     protected abstract String getApiKey();
     
     protected abstract String getBaseUrl();
-    
+        
     /**
      * uses reflection to find all the @QueryFields and adds them to the query
      * (QueryEncoder)
@@ -113,12 +114,16 @@ public abstract class ApiRequest<R> {
             return queryField == null || !queryField.encode();
         });
         final Map<Field, Object> queryEntries = Reflect.getFieldEntries(queryFields, this);
+        //System.out.println(queryEntries);
         for (final Field queryField : queryEntries.keySet()) {
+            //System.out.println(queryField.getName());
             final String queryValue = queryEntries.get(queryField).toString();
+            //System.out.println(queryValue);
             if (!queryValue.isEmpty()) {
                 query.put(queryField.getName(), queryValue);
             }
         }
+        query.forEach((k, v) -> System.out.println(k + "=" + v));
     }
     
     /**
@@ -142,11 +147,15 @@ public abstract class ApiRequest<R> {
     protected ApiRequest() {
         apiKey = getApiKey();
         baseUrl = getBaseUrl();
+        pojoClass = getPojoClass();
+    }
+    
+    private void setQueryAndUrl() {
         reflectQuery();
         addApiKey();
         modifyQuery(query);
         url = baseUrl + query.toString();
-        pojoClass = getPojoClass();
+        id = url;
     }
     
     protected abstract R parseRequest(Reader reader);
@@ -165,18 +174,23 @@ public abstract class ApiRequest<R> {
     
     private void cache(final BufferedReader reader) throws IOException {
         final Path path = Paths.get(CACHE_DIRECTORY, MyFiles.fixFileName(url));
+        requestCache.put(id, path.toString());
+        reader.mark(1000); // FIXME
         MyFiles.write(path, reader);
         reader.reset();
     }
     
     public R get() throws IOException {
+        if (url == null) {
+            setQueryAndUrl();
+        }
         if (request == null) {
             Reader requestReader;
             if (isCached()) {
                 requestReader = getCachedRequestReader();
             } else {
                 requestReader = getHttpRequestReader();
-                cache((BufferedReader) requestReader);
+                //cache((BufferedReader) requestReader);
             }
             request = parseRequest(requestReader);
         }

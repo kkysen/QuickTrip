@@ -112,7 +112,9 @@ public abstract class ApiRequest<R> {
         final Map<Field, Object> queryEntries = Reflect.getFieldEntries(queryFields, this);
         for (final Field queryField : queryEntries.keySet()) {
             final String queryValue = queryEntries.get(queryField).toString();
-            query.put(queryField.getName(), queryValue);
+            if (!queryValue.isEmpty()) {
+                query.put(queryField.getName(), queryValue);
+            }
         }
     }
     

@@ -12,7 +12,7 @@ import com.google.gson.Gson;
  */
 public abstract class JsonApiRequest<R> extends ApiRequest<R> {
     
-    private static final Gson gson = new Gson();
+    private static final Gson gson = new Gson(); // FIXME
     
     @Override
     protected R parseRequest(final Reader reader) {

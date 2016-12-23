@@ -7,6 +7,7 @@ import java.io.InputStreamReader;
 import java.io.Reader;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.util.HashMap;
 import java.util.Map;
 import java.util.StringJoiner;
 import java.util.stream.Collectors;
@@ -44,7 +45,7 @@ public abstract class ApiRequest<R> {
     
     private final String apiKey;
     private final String baseUrl;
-    private final Map<String, String> query;
+    private final Map<String, String> query = new HashMap<>();
     private final String url;
     
     private String id;
@@ -60,7 +61,7 @@ public abstract class ApiRequest<R> {
     
     protected abstract String getBaseUrl();
     
-    protected abstract Map<String, String> getQuery();
+    protected abstract Map<String, String> getQuery(Map<String, String> query);
     
     protected abstract Class<? extends R> getPojoClass();
     
@@ -81,7 +82,7 @@ public abstract class ApiRequest<R> {
     protected ApiRequest() {
         apiKey = getApiKey();
         baseUrl = getBaseUrl();
-        query = getQuery();
+        getQuery(query);
         addApiKey();
         url = assembleUrl();
         pojoClass = getPojoClass();

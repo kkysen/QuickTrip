@@ -1,9 +1,11 @@
 package io.github.kkysen.quicktrip.apis;
 
+import io.github.kkysen.quicktrip.io.MyFiles;
 import io.github.kkysen.quicktrip.reflect.Reflect;
 import io.github.kkysen.quicktrip.reflect.annotations.AnnotationUtils;
 import io.github.kkysen.quicktrip.web.Internet;
 
+import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.Reader;
@@ -11,6 +13,7 @@ import java.io.UnsupportedEncodingException;
 import java.lang.reflect.Field;
 import java.net.URLEncoder;
 import java.nio.file.Files;
+import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.HashMap;
 import java.util.List;
@@ -148,11 +151,11 @@ public abstract class ApiRequest<R> {
     
     protected abstract R parseRequest(Reader reader);
     
-    private Reader getHttpRequestReader() throws IOException {
-        return Internet.getInputStreamReader(url);
+    private BufferedReader getHttpRequestReader() throws IOException {
+        return Internet.getBufferedReader(url);
     }
     
-    private Reader getCachedRequestReader() throws IOException {
+    private InputStreamReader getCachedRequestReader() throws IOException {
         return new InputStreamReader(Files.newInputStream(Paths.get(requestCache.get(id))));
     }
     
@@ -160,8 +163,10 @@ public abstract class ApiRequest<R> {
         return requestCache.containsKey(id);
     }
     
-    private boolean cache(final Reader reader) {
-        
+    private void cache(final BufferedReader reader) throws IOException {
+        final Path path = Paths.get(CACHE_DIRECTORY, MyFiles.fixFileName(url));
+        MyFiles.write(path, reader);
+        reader.reset();
     }
     
     public R get() throws IOException {
@@ -171,7 +176,7 @@ public abstract class ApiRequest<R> {
                 requestReader = getCachedRequestReader();
             } else {
                 requestReader = getHttpRequestReader();
-                cache(requestReader);
+                cache((BufferedReader) requestReader);
             }
             request = parseRequest(requestReader);
         }

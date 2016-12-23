@@ -161,7 +161,7 @@ public abstract class ApiRequest<R> {
     protected abstract R parseRequest(Reader reader);
     
     private BufferedReader getHttpRequestReader() throws IOException {
-        return Internet.getBufferedReader(url);
+        return new BufferedReader(Internet.getInputStreamReader(url));
     }
     
     private InputStreamReader getCachedRequestReader() throws IOException {
@@ -172,6 +172,7 @@ public abstract class ApiRequest<R> {
         return requestCache.containsKey(id);
     }
     
+    // FIXME
     private void cache(final BufferedReader reader) throws IOException {
         final Path path = Paths.get(CACHE_DIRECTORY, MyFiles.fixFileName(url));
         requestCache.put(id, path.toString());
@@ -186,13 +187,17 @@ public abstract class ApiRequest<R> {
         }
         if (request == null) {
             Reader requestReader;
-            if (isCached()) {
+            final boolean isCached = isCached();
+            if (isCached) {
                 requestReader = getCachedRequestReader();
             } else {
                 requestReader = getHttpRequestReader();
                 //cache((BufferedReader) requestReader);
             }
             request = parseRequest(requestReader);
+            if (isCached()) {
+                
+            }
         }
         return request;
     }

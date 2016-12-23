@@ -1,8 +1,11 @@
 package io.github.kkysen.quicktrip.apis.google.maps.directions;
 
+import io.github.kkysen.quicktrip.apis.QueryField;
 import io.github.kkysen.quicktrip.apis.google.maps.GoogleMapsApiRequest;
 
 import java.util.Map;
+
+import lombok.RequiredArgsConstructor;
 
 // dummy class for now
 // will become a JSON POJO
@@ -12,12 +15,19 @@ import java.util.Map;
  * 
  * @author Khyber Sen
  */
+@RequiredArgsConstructor
 public class DirectionsApiRequest extends GoogleMapsApiRequest<Directions> {
     
-    public DirectionsApiRequest(final String origin, final String destination, final String mode, final String waypoints,
-            final String departureTime, final String arrivalTime) {
-        
-    }
+    // FIXME
+    // these are Strings for now just so I can work on the rest
+    // should be changed to appropriate types later
+    // and QueryField#encode set to false if they are weird non-string good formatty types
+    private final @QueryField String origin;
+    private final @QueryField String destination;
+    private final @QueryField String mode;
+    private final @QueryField String waypoints;
+    private final @QueryField String departureTime;
+    private final @QueryField String arrivalTime;
     
     @Override
     protected String getRequestType() {
@@ -25,7 +35,7 @@ public class DirectionsApiRequest extends GoogleMapsApiRequest<Directions> {
     }
     
     @Override
-    protected Map<String, String> getQuery(final Map<String, String> query) {
+    protected void modifyQuery(final Map<String, String> query) {
         
     }
     

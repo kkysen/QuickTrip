@@ -16,7 +16,7 @@ import java.util.StringJoiner;
  * @author Khyber Sen
  * @param <T> type
  */
-public class Type<T> {
+class Type<T> {
     
     private static final String SEP = "=";
     

@@ -44,4 +44,15 @@ public class DirectionsApiRequest extends GoogleMapsApiRequest<Directions> {
         return Directions.class;
     }
     
+    public static void main(final String[] args) throws Exception {
+        final DirectionsApiRequest request = new DirectionsApiRequest(
+                "75 9th Ave, New York, NY",
+                "MetLife Stadium Dr East Rutherford, NJ 0703",
+                "driving",
+                "",
+                "",
+                "");
+        final Directions directions = request.get();
+    }
+    
 }

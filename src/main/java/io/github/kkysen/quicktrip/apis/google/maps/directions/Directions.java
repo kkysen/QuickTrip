@@ -1,6 +1,7 @@
 package io.github.kkysen.quicktrip.apis.google.maps.directions;
 
 import io.github.kkysen.quicktrip.apis.Json;
+import io.github.kkysen.quicktrip.reflect.Reflect;
 
 import java.util.List;
 
@@ -31,5 +32,10 @@ public class Directions {
     
     @SerializedName("status")
     private String status;
+    
+    @Override
+    public String toString() {
+        return Reflect.toString(this);
+    }
     
 }

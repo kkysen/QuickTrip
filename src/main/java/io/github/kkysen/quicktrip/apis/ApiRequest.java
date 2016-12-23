@@ -1,7 +1,7 @@
 package io.github.kkysen.quicktrip.apis;
 
-import io.github.kkysen.quicktrip.util.annotations.AnnotationUtils;
-import io.github.kkysen.quicktrip.util.reflect.Reflect;
+import io.github.kkysen.quicktrip.reflect.Reflect;
+import io.github.kkysen.quicktrip.reflect.annotations.AnnotationUtils;
 import io.github.kkysen.quicktrip.web.Internet;
 
 import java.io.IOException;
@@ -160,6 +160,10 @@ public abstract class ApiRequest<R> {
         return requestCache.containsKey(id);
     }
     
+    private boolean cache(final Reader reader) {
+        
+    }
+    
     public R get() throws IOException {
         if (request == null) {
             Reader requestReader;
@@ -167,6 +171,7 @@ public abstract class ApiRequest<R> {
                 requestReader = getCachedRequestReader();
             } else {
                 requestReader = getHttpRequestReader();
+                cache(requestReader);
             }
             request = parseRequest(requestReader);
         }

@@ -21,15 +21,15 @@ import lombok.Setter;
 @AllArgsConstructor
 @Getter
 @Setter
-public class Directions {
+public class Waypoint {
     
-    @SerializedName("geocoded_waypoints")
-    private List<Waypoint> waypoints;
-    
-    @SerializedName("routes")
-    private List<Route> routes;
-    
-    @SerializedName("status")
+    @SerializedName("geocoder_staus")
     private String status;
+    
+    @SerializedName("place_id")
+    private String id;
+    
+    @SerializedName("types")
+    private List<WaypointType> types;
     
 }

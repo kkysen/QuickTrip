@@ -2,8 +2,6 @@ package io.github.kkysen.quicktrip.apis.google.maps.directions;
 
 import io.github.kkysen.quicktrip.apis.Json;
 
-import java.util.List;
-
 import com.google.gson.annotations.SerializedName;
 
 import lombok.AllArgsConstructor;
@@ -21,15 +19,12 @@ import lombok.Setter;
 @AllArgsConstructor
 @Getter
 @Setter
-public class Directions {
+public class Bounds {
     
-    @SerializedName("geocoded_waypoints")
-    private List<Waypoint> waypoints;
+    @SerializedName("northeast")
+    private LatLng northEast;
     
-    @SerializedName("routes")
-    private List<Route> routes;
-    
-    @SerializedName("status")
-    private String status;
+    @SerializedName("southwest")
+    private LatLng southWest;
     
 }

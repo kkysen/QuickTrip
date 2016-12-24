@@ -141,6 +141,14 @@ public class MyFiles {
         Files.createDirectory(dir);
     }
     
+    public static boolean createFileIfNonExists(final Path path) throws IOException {
+        if (Files.exists(path)) {
+            return false;
+        }
+        Files.createFile(path);
+        return true;
+    }
+    
     public static void main(final String[] args) throws Exception {
         final Path path = Paths.get("C:/Users/kkyse/Desktop/lit", "stories");
         createDirectoryOverwriting(path);

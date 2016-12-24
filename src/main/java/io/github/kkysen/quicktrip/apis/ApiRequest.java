@@ -176,10 +176,21 @@ public abstract class ApiRequest<R> {
         }
         
         private RequestCache(final Path url2id, final Path id2path) {
+            // creates cache files if they don't exist
+            try {
+                MyFiles.createFileIfNonExists(url2id);
+            } catch (final IOException e1) {
+                throw new RuntimeException(e1);
+            }
+            try {
+                MyFiles.createFileIfNonExists(id2path);
+            } catch (final IOException e2) {
+                throw new RuntimeException(e2);
+            }
             try {
                 load(url2id, id2path);
-            } catch (final IOException e) {
-                throw new RuntimeException(e);
+            } catch (final IOException e3) {
+                throw new RuntimeException(e3);
             }
         }
         

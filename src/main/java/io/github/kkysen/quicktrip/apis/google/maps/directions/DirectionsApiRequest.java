@@ -3,6 +3,7 @@ package io.github.kkysen.quicktrip.apis.google.maps.directions;
 import io.github.kkysen.quicktrip.apis.QueryField;
 import io.github.kkysen.quicktrip.apis.google.maps.GoogleMapsApiRequest;
 
+import java.nio.file.Path;
 import java.util.Map;
 
 import com.google.gson.GsonBuilder;
@@ -44,6 +45,11 @@ public class DirectionsApiRequest extends GoogleMapsApiRequest<Directions> {
     @Override
     protected Class<? extends Directions> getPojoClass() {
         return Directions.class;
+    }
+    
+    @Override
+    protected Path getRelativePath() {
+        return super.getRelativePath().resolve("maps");
     }
     
     public static void main(final String[] args) throws Exception {

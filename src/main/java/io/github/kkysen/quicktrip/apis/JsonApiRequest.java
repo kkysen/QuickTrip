@@ -1,6 +1,9 @@
 package io.github.kkysen.quicktrip.apis;
 
+import java.io.BufferedReader;
 import java.io.Reader;
+import java.net.HttpURLConnection;
+import java.net.URL;
 
 import com.google.gson.Gson;
 
@@ -16,8 +19,8 @@ public abstract class JsonApiRequest<R> extends ApiRequest<R> {
     
     // FIXME put in Internet class
     @Override
-    protected BufferedReader getHttpRequestReader(String url) {
-        HttpURLConnection urlCon = (HttpURLConnection) new URL(url).openConnection();
+    protected BufferedReader getHttpRequestReader(final String url) {
+        final HttpURLConnection urlCon = (HttpURLConnection) new URL(url).openConnection();
         urlCon.setRequestProperty("Content-Type", "application/json; charset=UTF-8");
         urlCon.setRequestProperty("Accept", "application/json");
         // FIXME unfinished
@@ -26,6 +29,11 @@ public abstract class JsonApiRequest<R> extends ApiRequest<R> {
     @Override
     protected R parseRequest(final Reader reader) {
         return gson.fromJson(reader, pojoClass);
+    }
+    
+    @Override
+    protected String prettify(final R request) {
+        return gson.toJson(request, pojoClass);
     }
     
 }

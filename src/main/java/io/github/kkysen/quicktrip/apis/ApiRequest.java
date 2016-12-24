@@ -24,6 +24,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.StringJoiner;
+import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * 
@@ -69,11 +70,11 @@ public abstract class ApiRequest<R> {
             return fileNameEncoder.encodeToString(hashed);
         }
         
-        private Map<String, String> url2id;
-        private Map<String, Path> id2path;
+        private final Map<String, String> url2id = new ConcurrentHashMap<>();
+        private final Map<String, Path> id2path = new ConcurrentHashMap<>();
         
-        private Map<Path, String> path2id;
-        private Map<String, String> id2url;
+        private final Map<Path, String> path2id = new ConcurrentHashMap<>();
+        private final Map<String, String> id2url = new ConcurrentHashMap<>();
         
         private void put(final String url, final String id, final Path path) {
             if (url2id.containsKey(url)) {

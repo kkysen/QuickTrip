@@ -179,11 +179,14 @@ public abstract class ApiRequest<R> {
             // creates cache files if they don't exist
             try {
                 MyFiles.createFileIfNonExists(url2id);
+                MyFiles.createFileIfNonExists(id2path);
             } catch (final IOException e1) {
                 throw new RuntimeException(e1);
             }
+            // writes 0 to both of them for cache loading/parsing
             try {
-                MyFiles.createFileIfNonExists(id2path);
+                MyFiles.write(url2id, "0");
+                MyFiles.write(id2path, "0");
             } catch (final IOException e2) {
                 throw new RuntimeException(e2);
             }

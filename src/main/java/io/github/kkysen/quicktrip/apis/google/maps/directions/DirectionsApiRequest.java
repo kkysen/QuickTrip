@@ -49,7 +49,7 @@ public class DirectionsApiRequest extends GoogleMapsApiRequest<Directions> {
     
     @Override
     protected Path getRelativePath() {
-        return super.getRelativePath().resolve("maps");
+        return super.getRelativePath().resolve("directions");
     }
     
     public static void main(final String[] args) throws Exception {

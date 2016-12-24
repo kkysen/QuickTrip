@@ -47,10 +47,10 @@ public abstract class ApiRequest<R> {
         
         private static final String SEP = ",";
         
-        private static final MessageDigest sha256;
+        private static final MessageDigest sha128;
         static {
             try {
-                sha256 = MessageDigest.getInstance("SHA-256");
+                sha128 = MessageDigest.getInstance("SHA-1");
             } catch (final NoSuchAlgorithmException e) {
                 throw new RuntimeException(e);
             }
@@ -59,9 +59,9 @@ public abstract class ApiRequest<R> {
         private static final Base64.Encoder fileNameEncoder = Base64.getUrlEncoder();
         
         private static String hashToBase64(final String s) {
-            sha256.update(s.getBytes(Constants.CHARSET));
-            final byte[] hashed = sha256.digest();
-            sha256.reset();
+            sha128.update(s.getBytes(Constants.CHARSET));
+            final byte[] hashed = sha128.digest();
+            sha128.reset();
             return fileNameEncoder.encodeToString(hashed);
         }
         

@@ -203,6 +203,7 @@ public abstract class ApiRequest<R> {
         }
         
         private static <K, V> void save(final Path path, final Map<K, V> cache) throws IOException {
+            Files.createFile(path);
             final BufferedWriter writer = Files.newBufferedWriter(path, Constants.CHARSET);
             writer.write(String.valueOf(cache.size()));
             writer.newLine();
@@ -371,6 +372,7 @@ public abstract class ApiRequest<R> {
         requestCache.put(this); // in case normal cache not called yet
         final Path path = requestCache.getPrettyPath(url);
         // may potentially overwrite existing prettied cache, b/c not tracked by requestCache
+        Files.createFile(path);
         MyFiles.write(path, prettify(request));
     }
         

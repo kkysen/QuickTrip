@@ -17,6 +17,11 @@ public abstract class JsonApiRequest<R> extends ApiRequest<R> {
     
     private static final Gson gson = new Gson(); // FIXME
     
+    @Override
+    protected String getFileExtension() {
+        return "json";
+    }
+    
     // FIXME put in Internet class
     @Override
     protected BufferedReader getHttpRequestReader(final String url) {

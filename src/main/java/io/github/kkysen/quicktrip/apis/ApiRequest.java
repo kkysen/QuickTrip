@@ -90,7 +90,8 @@ public abstract class ApiRequest<R> {
         public void put(final ApiRequest<?> request) {
             final String url = request.url;
             final String id = hashToBase64(url);
-            final Path path = Paths.get(CACHE_DIR, request.getRelativePath().toString(), id);
+            final String fileName = id + "." + request.getFileExtension();
+            final Path path = Paths.get(CACHE_DIR, request.getRelativePath().toString(), fileName);
             put(url, id, path);
         }
         
@@ -263,6 +264,8 @@ public abstract class ApiRequest<R> {
     
     protected abstract Path getRelativePath();
     
+    protected abstract String getFileExtension();
+    
     protected String getApiKeyQueryName() {
         return "key";
     }
@@ -328,6 +331,8 @@ public abstract class ApiRequest<R> {
     
     protected abstract R parseRequest(Reader reader);
     
+    protected abstract String prettify(R request);
+    
     protected BufferedReader getHttpRequestReader() throws IOException {
         return new BufferedReader(Internet.getInputStreamReader(url));
     }
@@ -347,17 +352,13 @@ public abstract class ApiRequest<R> {
         return Files.newBufferedReader(path, Constants.CHARSET);
     }
     
-    protected abstract String prettify(R request);
-    
     private void prettyCache() throws IOException {
         requestCache.put(this); // in case normal cache not called yet
         final Path path = requestCache.getPrettyPath(url);
         // may potentially overwrite existing prettied cache, b/c not tracked by requestCache
         MyFiles.write(path, prettify(request));
     }
-    
-    // FIXME have correct file ext, either .json or .xml probably
-    
+        
     public R get() throws IOException {
         if (url == null) {
             setQueryAndUrl();

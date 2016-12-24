@@ -1,11 +1,12 @@
 package io.github.kkysen.quicktrip.io;
 
+import io.github.kkysen.quicktrip.Constants;
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.IOException;
 import java.nio.charset.Charset;
-import java.nio.charset.StandardCharsets;
 import java.nio.file.DirectoryStream;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -25,7 +26,7 @@ import org.apache.commons.io.FileUtils;
  */
 public class MyFiles {
     
-    private static final Charset CHARSET = StandardCharsets.UTF_8;
+    private static final Charset CHARSET = Constants.CHARSET;
     private static final String ILLEGAL_FILE_CHARS = 
             "\\\\" + "/" + "\\?" + "%" + "\\*"
             + ":" + "\\|" + "\"" + "<" + ">";

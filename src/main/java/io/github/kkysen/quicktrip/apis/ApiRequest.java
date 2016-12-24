@@ -34,7 +34,7 @@ import java.util.StringJoiner;
  */
 public abstract class ApiRequest<R> {
     
-    private static final boolean CACHE_PRETTIED = true;
+    private static final boolean SHOULD_CACHE_PRETTIED = true;
     
     private static final String CACHE_DIR = "src/main/resources/apiCache/";
     private static final String PRETTY_CACHE_DIR = CACHE_DIR + "prettied/";
@@ -249,6 +249,8 @@ public abstract class ApiRequest<R> {
         Runtime.getRuntime().addShutdownHook(SAVE_ON_EXIT);
     }
     
+    private final boolean shouldCachePrettied = SHOULD_CACHE_PRETTIED;
+    
     private final String apiKey;
     private final String baseUrl;
     
@@ -331,20 +333,27 @@ public abstract class ApiRequest<R> {
     }
     
     private InputStreamReader getCachedRequestReader() throws IOException {
-        return new InputStreamReader(Files.newInputStream(Paths.get(requestCache.get(id))));
+        return new InputStreamReader(Files.newInputStream(requestCache.getPath(url)));
     }
     
     private boolean isCached() {
         return requestCache.containsUrl(url);
     }
     
-    // FIXME read BufferedReader twice not working
-    private void cache(final BufferedReader reader) throws IOException {
+    private BufferedReader cache(final BufferedReader reader) throws IOException {
         requestCache.put(this);
         final Path path = requestCache.getPath(url);
-        reader.mark(1000); // FIXME
         MyFiles.write(path, reader);
-        reader.reset();
+        return Files.newBufferedReader(path, Constants.CHARSET);
+    }
+    
+    protected abstract String prettify(R request);
+    
+    private void prettyCache() throws IOException {
+        requestCache.put(this); // in case normal cache not called yet
+        final Path path = requestCache.getPrettyPath(url);
+        // may potentially overwrite existing prettied cache, b/c not tracked by requestCache
+        MyFiles.write(path, prettify(request));
     }
     
     // FIXME have correct file ext, either .json or .xml probably
@@ -360,12 +369,11 @@ public abstract class ApiRequest<R> {
                 requestReader = getCachedRequestReader();
             } else {
                 requestReader = getHttpRequestReader();
-                // FIXME
-                //cache((BufferedReader) requestReader);
+                requestReader = cache((BufferedReader) requestReader);
             }
             request = parseRequest(requestReader);
-            if (isCached()) {
-                // FIXME
+            if (shouldCachePrettied) {
+                prettyCache();
             }
         }
         return request;

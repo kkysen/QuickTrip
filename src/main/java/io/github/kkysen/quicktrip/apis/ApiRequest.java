@@ -36,14 +36,18 @@ public abstract class ApiRequest<R> {
     
     private static final boolean CACHE_PRETTIED = true;
     
-    private static final String CACHE_DIRECTORY = "src/main/resources/apiCache/";
-    private static final String REQUEST_CACHE_PATH = CACHE_DIRECTORY + "requestCache.txt";
-    private static final String CACHE_SEP = ",";  // FIXME
+    private static final String CACHE_DIR = "src/main/resources/apiCache/";
+    private static final String PRETTY_CACHE_DIR = CACHE_DIR + "prettied/";
     
+    /**
+     * 
+     * 
+     * @author Khyber Sen
+     */
     private static final class RequestCache {
         
-        private static final Path URL_2_ID_PATH = Paths.get(CACHE_DIRECTORY, "url2id.csv");
-        private static final Path ID_2_PATH_PATH = Paths.get(CACHE_DIRECTORY, "id2path.csv");
+        private static final Path URL_2_ID_PATH = Paths.get(CACHE_DIR, "url2id.csv");
+        private static final Path ID_2_PATH_PATH = Paths.get(CACHE_DIR, "id2path.csv");
         
         private static final String SEP = ",";
         
@@ -72,6 +76,10 @@ public abstract class ApiRequest<R> {
         private Map<String, String> id2url;
         
         private void put(final String url, final String id, final Path path) {
+            if (url2id.containsKey(url)) {
+                return;
+            }
+            
             url2id.put(url, id);
             id2path.put(id, path);
             
@@ -82,7 +90,7 @@ public abstract class ApiRequest<R> {
         public void put(final ApiRequest<?> request) {
             final String url = request.url;
             final String id = hashToBase64(url);
-            final Path path = Paths.get(CACHE_DIRECTORY, request.getRelativePath().toString(), id);
+            final Path path = Paths.get(CACHE_DIR, request.getRelativePath().toString(), id);
             put(url, id, path);
         }
         
@@ -94,6 +102,19 @@ public abstract class ApiRequest<R> {
                 final String url = idOrUrl;
                 return id2path.get(url2id.get(url));
             }
+        }
+        
+        /**
+         * @param idOrUrl id or url of ApiRequest
+         * @return the prettied (formatted) path of the API response. If the
+         *         prettied response was never cached, which is possible, then
+         *         the prettied path doesn't exist, so null is returned.
+         */
+        public Path getPrettyPath(final String idOrUrl) {
+            final String path = getPath(idOrUrl).toString();
+            final String relativePath = path.substring(CACHE_DIR.length());
+            final Path prettyPath = Paths.get(PRETTY_CACHE_DIR, relativePath);
+            return Files.exists(prettyPath) ? prettyPath : null;
         }
         
         public String getId(final String url) {
@@ -128,7 +149,7 @@ public abstract class ApiRequest<R> {
             if (idFromUrl2id != idFromId2path) {
                 throw new IllegalArgumentException(
                         "IDs do not match: (line " + index + 1 + ") "
-                        + idFromUrl2id + " != " + idFromId2path);
+                                + idFromUrl2id + " != " + idFromId2path);
             }
             final String url = url2idLineParts[0];
             final String id = idFromUrl2id;
@@ -138,13 +159,14 @@ public abstract class ApiRequest<R> {
         
         private void load(final Path url2id, final Path id2path) throws IOException {
             final BufferedReader url2idReader = Files.newBufferedReader(url2id, Constants.CHARSET);
-            final BufferedReader id2pathReader = Files.newBufferedReader(id2path, Constants.CHARSET);
+            final BufferedReader id2pathReader = Files.newBufferedReader(id2path,
+                    Constants.CHARSET);
             final int numUrl2ids = Integer.parseInt(url2idReader.readLine());
             final int numId2paths = Integer.parseInt(id2pathReader.readLine());
             if (numUrl2ids != numId2paths) {
                 throw new IllegalArgumentException(
                         "url2id and id2path caches have different numbers of cached requests; "
-                        + "url2id: " + numUrl2ids + ", id2path: " + numId2paths);
+                                + "url2id: " + numUrl2ids + ", id2path: " + numId2paths);
             }
             final int numRequests = numUrl2ids;
             for (int i = 0; i < numRequests; i++) {

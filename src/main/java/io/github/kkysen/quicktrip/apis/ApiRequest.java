@@ -1,11 +1,13 @@
 package io.github.kkysen.quicktrip.apis;
 
+import io.github.kkysen.quicktrip.Constants;
 import io.github.kkysen.quicktrip.io.MyFiles;
 import io.github.kkysen.quicktrip.reflect.Reflect;
 import io.github.kkysen.quicktrip.reflect.annotations.AnnotationUtils;
 import io.github.kkysen.quicktrip.web.Internet;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.Reader;
@@ -15,12 +17,13 @@ import java.net.URLEncoder;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.security.MessageDigest;
+import java.security.NoSuchAlgorithmException;
+import java.util.Base64;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.StringJoiner;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 /**
  * 
@@ -31,29 +34,164 @@ import java.util.stream.Stream;
  */
 public abstract class ApiRequest<R> {
     
+    private static final boolean CACHE_PRETTIED = true;
+    
     private static final String CACHE_DIRECTORY = "src/main/resources/apiCache/";
     private static final String REQUEST_CACHE_PATH = CACHE_DIRECTORY + "requestCache.txt";
     private static final String CACHE_SEP = ",";  // FIXME
     
-    private static Stream<String> getRequestCacheLines() {
-        try {
-            return Files.lines(Paths.get(REQUEST_CACHE_PATH));
-        } catch (final IOException e) {
-            throw new RuntimeException(e);
+    private static final class RequestCache {
+        
+        private static final Path URL_2_ID_PATH = Paths.get(CACHE_DIRECTORY, "url2id.csv");
+        private static final Path ID_2_PATH_PATH = Paths.get(CACHE_DIRECTORY, "id2path.csv");
+        
+        private static final String SEP = ",";
+        
+        private static final MessageDigest sha256;
+        static {
+            try {
+                sha256 = MessageDigest.getInstance("SHA-256");
+            } catch (final NoSuchAlgorithmException e) {
+                throw new RuntimeException(e);
+            }
         }
+        
+        private static final Base64.Encoder fileNameEncoder = Base64.getUrlEncoder();
+        
+        private static String hashToBase64(final String s) {
+            sha256.update(s.getBytes(Constants.CHARSET));
+            final byte[] hashed = sha256.digest();
+            sha256.reset();
+            return fileNameEncoder.encodeToString(hashed);
+        }
+        
+        private Map<String, String> url2id;
+        private Map<String, Path> id2path;
+        
+        private Map<Path, String> path2id;
+        private Map<String, String> id2url;
+        
+        private void put(final String url, final String id, final Path path) {
+            url2id.put(url, id);
+            id2path.put(id, path);
+            
+            path2id.put(path, id);
+            id2url.put(id, url);
+        }
+        
+        public void put(final ApiRequest<?> request) {
+            final String url = request.url;
+            final String id = hashToBase64(url);
+            final Path path = Paths.get(CACHE_DIRECTORY, request.getRelativePath().toString(), id);
+            put(url, id, path);
+        }
+        
+        public Path getPath(final String idOrUrl) {
+            if (idOrUrl.indexOf('/') == -1) {
+                final String id = idOrUrl;
+                return id2path.get(id);
+            } else {
+                final String url = idOrUrl;
+                return id2path.get(url2id.get(url));
+            }
+        }
+        
+        public String getId(final String url) {
+            return url2id.get(url);
+        }
+        
+        public String getUrl(final String id) {
+            return id2url.get(id);
+        }
+        
+        public String getUrl(final Path path) {
+            return getUrl(path2id.get(path));
+        }
+        
+        public boolean containsUrl(final String url) {
+            return url2id.containsKey(url);
+        }
+        
+        public boolean containsId(final String id) {
+            return id2path.containsKey(id);
+        }
+        
+        public boolean containsPath(final Path path) {
+            return path2id.containsKey(path);
+        }
+        
+        private void loadLine(final String url2idLine, final String id2pathLine, final int index) {
+            final String[] url2idLineParts = url2idLine.split(SEP);
+            final String[] id2pathLineParts = id2pathLine.split(SEP);
+            final String idFromUrl2id = url2idLineParts[1];
+            final String idFromId2path = id2pathLineParts[0];
+            if (idFromUrl2id != idFromId2path) {
+                throw new IllegalArgumentException(
+                        "IDs do not match: (line " + index + 1 + ") "
+                        + idFromUrl2id + " != " + idFromId2path);
+            }
+            final String url = url2idLineParts[0];
+            final String id = idFromUrl2id;
+            final Path path = Paths.get(id2pathLineParts[1]);
+            put(url, id, path);
+        }
+        
+        private void load(final Path url2id, final Path id2path) throws IOException {
+            final BufferedReader url2idReader = Files.newBufferedReader(url2id, Constants.CHARSET);
+            final BufferedReader id2pathReader = Files.newBufferedReader(id2path, Constants.CHARSET);
+            final int numUrl2ids = Integer.parseInt(url2idReader.readLine());
+            final int numId2paths = Integer.parseInt(id2pathReader.readLine());
+            if (numUrl2ids != numId2paths) {
+                throw new IllegalArgumentException(
+                        "url2id and id2path caches have different numbers of cached requests; "
+                        + "url2id: " + numUrl2ids + ", id2path: " + numId2paths);
+            }
+            final int numRequests = numUrl2ids;
+            for (int i = 0; i < numRequests; i++) {
+                loadLine(url2idReader.readLine(), id2pathReader.readLine(), i);
+            }
+        }
+        
+        private RequestCache(final Path url2id, final Path id2path) {
+            try {
+                load(url2id, id2path);
+            } catch (final IOException e) {
+                throw new RuntimeException(e);
+            }
+        }
+        
+        public RequestCache() {
+            this(URL_2_ID_PATH, ID_2_PATH_PATH);
+        }
+        
+        private static <K, V> void save(final Path path, final Map<K, V> cache) throws IOException {
+            final BufferedWriter writer = Files.newBufferedWriter(path, Constants.CHARSET);
+            writer.write(String.valueOf(cache.size()));
+            writer.newLine();
+            for (final K key : cache.keySet()) {
+                writer.write(key.toString());
+                writer.write(SEP);
+                writer.write(cache.get(key).toString());
+                writer.newLine();
+            }
+        }
+        
+        private void save(final Path url2idPath, final Path id2pathPath) throws IOException {
+            save(url2idPath, url2id);
+            save(id2pathPath, id2path);
+        }
+        
+        public void save() {
+            try {
+                save(URL_2_ID_PATH, ID_2_PATH_PATH);
+            } catch (final IOException e) {
+                throw new RuntimeException(e);
+            }
+        }
+        
     }
     
-    private static Map<String, String> getRequestCache() {
-        return getRequestCacheLines()
-                .map(line -> line.split(CACHE_SEP))
-                .collect(Collectors.toConcurrentMap(
-                        lineParts -> lineParts[0],
-                        lineParts -> lineParts[1]));
-    }
-    
-    private static final Map<String, String> requestCache = getRequestCache();
-    
-    private static class QueryEncoder extends HashMap<String, String> {
+    private static final class QueryEncoder extends HashMap<String, String> {
         
         private static final long serialVersionUID = 3055592436293901045L;
         
@@ -82,6 +220,13 @@ public abstract class ApiRequest<R> {
         
     }
     
+    private static final RequestCache requestCache = new RequestCache();
+    private static final Thread SAVE_ON_EXIT = new Thread(requestCache::save);
+    static {
+        // will save cache on exit as long as JVM shuts down w/o internal JVM error
+        Runtime.getRuntime().addShutdownHook(SAVE_ON_EXIT);
+    }
+    
     private final String apiKey;
     private final String baseUrl;
     
@@ -89,10 +234,10 @@ public abstract class ApiRequest<R> {
     
     private String url;
     
-    private String id;
-    
     protected final Class<? extends R> pojoClass;
     private R request;
+    
+    protected abstract Path getRelativePath();
     
     protected String getApiKeyQueryName() {
         return "key";
@@ -101,7 +246,7 @@ public abstract class ApiRequest<R> {
     protected abstract String getApiKey();
     
     protected abstract String getBaseUrl();
-        
+    
     /**
      * uses reflection to find all the @QueryFields and adds them to the query
      * (QueryEncoder)
@@ -155,7 +300,6 @@ public abstract class ApiRequest<R> {
         addApiKey();
         modifyQuery(query);
         url = baseUrl + query.toString();
-        id = url;
     }
     
     protected abstract R parseRequest(Reader reader);
@@ -169,13 +313,13 @@ public abstract class ApiRequest<R> {
     }
     
     private boolean isCached() {
-        return requestCache.containsKey(id);
+        return requestCache.containsUrl(url);
     }
     
     // FIXME read BufferedReader twice not working
     private void cache(final BufferedReader reader) throws IOException {
-        final Path path = Paths.get(CACHE_DIRECTORY, MyFiles.fixFileName(url));
-        requestCache.put(id, path.toString());
+        requestCache.put(this);
+        final Path path = requestCache.getPath(url);
         reader.mark(1000); // FIXME
         MyFiles.write(path, reader);
         reader.reset();
@@ -194,11 +338,12 @@ public abstract class ApiRequest<R> {
                 requestReader = getCachedRequestReader();
             } else {
                 requestReader = getHttpRequestReader();
+                // FIXME
                 //cache((BufferedReader) requestReader);
             }
             request = parseRequest(requestReader);
             if (isCached()) {
-                
+                // FIXME
             }
         }
         return request;

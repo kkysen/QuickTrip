@@ -1,18 +1,19 @@
 ### Team Members
 Khyber Sen
 Stanley Lin
-<br><br><br>
+<br><br>
 
 ### Team Name
 SenSational TraveLin
-###  
+<br><br>
 
 # Project Title
 QuickTrip: An All-in-One Trip Planner
-###  
+<br><br>
 
 ### 1. Project Idea: Ultimate Goal
 An application to assist in trip planning. Recommends hotels, flights, rental cars, directions, restaurants, and events to do based on user input. It scrapes information from the Google Maps and TripAdvisor, Travelocity, etc. APIs and plans the optimal trip, start to finish, all costs included, based on some minimal user input, with the option to tune parameters and filter results.
+<br><br>
   
 ### 2. Critical Features
 __Input__
@@ -35,14 +36,16 @@ __Output__
 - cost
 - option to see detailed itinerary
 - option to see directions (maybe embedded Google Maps or just text directions)
-  
+<br><br>
+
 ### 3. Features to Be Added Later
 - other modes of transportation besides driving (i.e. trains, planes, rental cars, buses, and other public transportation)
 - if flying (ships, too) is added, allow for transoceanic travel
 - add in things to do in itinerary
 - add in places to eat in itinerary
 - while the program is searching, prompt the user to see if certain optimizations are to their liking, or allow them to select certain areas to focus the optimization on
-  
+<br><br>
+
 ### 4. Development Stages
 1. set up API connectons with API keys
 2. decide what information from API responses are needed
@@ -52,6 +55,7 @@ __Output__
 6. use simulated annealing or something similar to find the optimal set of hotels within the budget
 7. output the data in the GUI
 8. set up the input GUI and parse the input
-  
+<br><br>
+
 ### 5. Diagrams of Features
 // TODO

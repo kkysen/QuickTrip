@@ -3,12 +3,10 @@ Khyber Sen
 Stanley Lin
 <br><br>
 
-### Team Name
-SenSational TraveLin
+### Team Name: SenSational TraveLin
 <br><br>
 
-# Project Title
-QuickTrip: An All-in-One Trip Planner
+# Project Title: QuickTrip: An All-in-One Trip Planner
 <br><br>
 
 ### 1. Project Idea: Ultimate Goal

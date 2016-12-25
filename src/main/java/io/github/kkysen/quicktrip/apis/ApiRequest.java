@@ -249,7 +249,7 @@ public abstract class ApiRequest<R> {
     
     private final Map<String, String> query = new QueryEncoder();
     
-    private String url;
+    protected String url;
     
     protected final Class<? extends R> pojoClass;
     private R request;

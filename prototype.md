@@ -23,7 +23,7 @@ __Input__
 
 __Output__
 - Itinerary Overview  
-   __Each Destination_
+      __Each Destination_
   - hotel logo
   - hotel name
   - hotel location (address)

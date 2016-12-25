@@ -1,0 +1,156 @@
+{
+  "geocoded_waypoints": [
+    {
+      "place_id": "ChIJyYfhZ79ZwokRMtXcL6CYxkA",
+      "types": [
+        "premise"
+      ]
+    },
+    {
+      "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "place_id": "ChIJzX26Z3z4wokRuQKK9R9bMuc",
+      "types": [
+        "route"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 41.7740521,
+          "lng": -74.00584719999999
+        },
+        "southwest": {
+          "lat": 37.7928009,
+          "lng": -122.3837541
+        }
+      },
+      "legs": [
+        {
+          "distance": {},
+          "duration": {},
+          "start_address": "75 9th Ave, New York, NY 10011, USA",
+          "start_location": {
+            "lat": 40.7428759,
+            "lng": -74.00584719999999
+          },
+          "end_address": "San Francisco, CA, USA",
+          "end_location": {
+            "lat": 37.7749901,
+            "lng": -122.4194926
+          },
+          "steps": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "distance": {},
+          "duration": {},
+          "start_address": "San Francisco, CA, USA",
+          "start_location": {
+            "lat": 37.7749901,
+            "lng": -122.4194926
+          },
+          "end_address": "MetLife Stadium Dr, East Rutherford, NJ 07073, USA",
+          "end_location": {
+            "lat": 40.81431130000001,
+            "lng": -74.0726147
+          },
+          "steps": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "overview_polyline": {},
+      "summary": "I-80 W",
+      "warnings": [],
+      "waypoint_order": [
+        0
+      ]
+    }
+  ],
+  "status": "OK"
+}

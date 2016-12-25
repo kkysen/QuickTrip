@@ -3,6 +3,7 @@ package io.github.kkysen.quicktrip.apis;
 import java.io.Reader;
 
 import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 
 /**
  * 
@@ -13,6 +14,7 @@ import com.google.gson.Gson;
 public abstract class JsonApiRequest<R> extends ApiRequest<R> {
     
     private static final Gson gson = new Gson(); // FIXME
+    private static final Gson prettyGson = new GsonBuilder().setPrettyPrinting().create();
     
     @Override
     protected String getFileExtension() {
@@ -35,7 +37,7 @@ public abstract class JsonApiRequest<R> extends ApiRequest<R> {
     
     @Override
     protected String prettify(final R request) {
-        return gson.toJson(request, pojoClass);
+        return prettyGson.toJson(request, pojoClass);
     }
     
 }

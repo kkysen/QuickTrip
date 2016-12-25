@@ -44,7 +44,9 @@ public class MyFiles {
         String line;
         while ((line = reader.readLine()) != null) {
             writer.write(line);
+            writer.newLine();
         }
+        writer.close();
     }
     
     public static <T> void write(final Path path, final Iterable<T> iter) throws IOException {

@@ -1,0 +1,65 @@
+{
+  "geocoded_waypoints": [
+    {
+      "place_id": "ChIJX4VAKvxawokRo_eOlBzI5CI",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "place_id": "ChIJ7dE81z72wokRRpcuPj8DS68",
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 40.81766289999999,
+          "lng": -73.9597112
+        },
+        "southwest": {
+          "lat": 40.6716071,
+          "lng": -74.0156997
+        }
+      },
+      "legs": [
+        {
+          "distance": {},
+          "duration": {},
+          "start_address": "296 6th St, Brooklyn, NY 11215, USA",
+          "start_location": {
+            "lat": 40.6716071,
+            "lng": -73.98606
+          },
+          "end_address": "15 Claremont Ave, New York, NY 10027, USA",
+          "end_location": {
+            "lat": 40.8089453,
+            "lng": -73.9645343
+          },
+          "steps": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "overview_polyline": {},
+      "summary": "NY-9A N",
+      "warnings": [],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}

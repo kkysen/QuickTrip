@@ -7,7 +7,6 @@ import io.github.kkysen.quicktrip.reflect.annotations.AnnotationUtils;
 import io.github.kkysen.quicktrip.web.Internet;
 
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.Reader;
@@ -23,8 +22,12 @@ import java.util.Base64;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 import java.util.StringJoiner;
 import java.util.concurrent.ConcurrentHashMap;
+
+import lombok.Getter;
+import lombok.RequiredArgsConstructor;
 
 /**
  * 
@@ -40,15 +43,9 @@ public abstract class ApiRequest<R> {
     private static final String CACHE_DIR = "src/main/resources/apiCache/";
     private static final String PRETTY_CACHE_DIR = CACHE_DIR + "prettied/";
     
-    /**
-     * 
-     * 
-     * @author Khyber Sen
-     */
-    private static final class RequestCache {
+    public static final class RequestCache {
         
-        private static final Path URL_2_ID_PATH = Paths.get(CACHE_DIR, "url2id.csv");
-        private static final Path ID_2_PATH_PATH = Paths.get(CACHE_DIR, "id2path.csv");
+        private static final Path REQUEST_CACHE_PATH = Paths.get(CACHE_DIR, "requestCache.csv");
         
         private static final String SEP = ",";
         
@@ -70,11 +67,28 @@ public abstract class ApiRequest<R> {
             return fileNameEncoder.encodeToString(hashed);
         }
         
+        @RequiredArgsConstructor
+        @Getter
+        private static class Entry {
+            
+            private final String url;
+            private final String id;
+            private final Path path;
+            
+            @Override
+            public String toString() {
+                return url + "," + id + "," + path;
+            }
+            
+        }
+        
         private final Map<String, String> url2id = new ConcurrentHashMap<>();
         private final Map<String, Path> id2path = new ConcurrentHashMap<>();
         
         private final Map<Path, String> path2id = new ConcurrentHashMap<>();
         private final Map<String, String> id2url = new ConcurrentHashMap<>();
+        
+        private final Set<Entry> entries = ConcurrentHashMap.newKeySet();
         
         private void put(final String url, final String id, final Path path) {
             if (url2id.containsKey(url)) {
@@ -86,6 +100,8 @@ public abstract class ApiRequest<R> {
             
             path2id.put(path, id);
             id2url.put(id, url);
+            
+            entries.add(new Entry(url, id, path));
         }
         
         public void put(final ApiRequest<?> request) {
@@ -94,6 +110,15 @@ public abstract class ApiRequest<R> {
             final String fileName = id + "." + request.getFileExtension();
             final Path path = Paths.get(CACHE_DIR, request.getRelativePath().toString(), fileName);
             put(url, id, path);
+        }
+        
+        public Set<Entry> entrySet() {
+            return entries;
+        }
+
+        @Override
+        public String toString() {
+            return entries.toString();
         }
         
         public Path getPath(final String idOrUrl) {
@@ -115,8 +140,7 @@ public abstract class ApiRequest<R> {
         public Path getPrettyPath(final String idOrUrl) {
             final String path = getPath(idOrUrl).toString();
             final String relativePath = path.substring(CACHE_DIR.length());
-            final Path prettyPath = Paths.get(PRETTY_CACHE_DIR, relativePath);
-            return Files.exists(prettyPath) ? prettyPath : null;
+            return Paths.get(PRETTY_CACHE_DIR, relativePath);
         }
         
         public String getId(final String url) {
@@ -143,86 +167,38 @@ public abstract class ApiRequest<R> {
             return path2id.containsKey(path);
         }
         
-        private void loadLine(final String url2idLine, final String id2pathLine, final int index) {
-            final String[] url2idLineParts = url2idLine.split(SEP);
-            final String[] id2pathLineParts = id2pathLine.split(SEP);
-            final String idFromUrl2id = url2idLineParts[1];
-            final String idFromId2path = id2pathLineParts[0];
-            if (idFromUrl2id != idFromId2path) {
-                throw new IllegalArgumentException(
-                        "IDs do not match: (line " + index + 1 + ") "
-                                + idFromUrl2id + " != " + idFromId2path);
-            }
-            final String url = url2idLineParts[0];
-            final String id = idFromUrl2id;
-            final Path path = Paths.get(id2pathLineParts[1]);
-            put(url, id, path);
+        private void load(final Path path) throws IOException {
+            MyFiles.readLines(path).forEach(line -> {
+                final String[] lineParts = line.split(SEP);
+                put(lineParts[0], lineParts[1], Paths.get(lineParts[2]));
+            });
         }
         
-        private void load(final Path url2id, final Path id2path) throws IOException {
-            final BufferedReader url2idReader = Files.newBufferedReader(url2id, Constants.CHARSET);
-            final BufferedReader id2pathReader = Files.newBufferedReader(id2path,
-                    Constants.CHARSET);
-            final int numUrl2ids = Integer.parseInt(url2idReader.readLine());
-            final int numId2paths = Integer.parseInt(id2pathReader.readLine());
-            if (numUrl2ids != numId2paths) {
-                throw new IllegalArgumentException(
-                        "url2id and id2path caches have different numbers of cached requests; "
-                                + "url2id: " + numUrl2ids + ", id2path: " + numId2paths);
-            }
-            final int numRequests = numUrl2ids;
-            for (int i = 0; i < numRequests; i++) {
-                loadLine(url2idReader.readLine(), id2pathReader.readLine(), i);
-            }
-        }
-        
-        private RequestCache(final Path url2id, final Path id2path) {
+        private RequestCache(final Path path) {
             // creates cache files if they don't exist
             try {
-                MyFiles.createFileIfNonExists(url2id);
-                MyFiles.createFileIfNonExists(id2path);
+                MyFiles.createFileIfNonExists(path);
             } catch (final IOException e1) {
                 throw new RuntimeException(e1);
             }
-            // writes 0 to both of them for cache loading/parsing
             try {
-                MyFiles.write(url2id, "0");
-                MyFiles.write(id2path, "0");
-            } catch (final IOException e2) {
-                throw new RuntimeException(e2);
-            }
-            try {
-                load(url2id, id2path);
-            } catch (final IOException e3) {
-                throw new RuntimeException(e3);
+                load(path);
+            } catch (final IOException e) {
+                throw new RuntimeException(e);
             }
         }
         
         public RequestCache() {
-            this(URL_2_ID_PATH, ID_2_PATH_PATH);
+            this(REQUEST_CACHE_PATH);
         }
         
-        private static <K, V> void save(final Path path, final Map<K, V> cache) throws IOException {
-            Files.createFile(path);
-            final BufferedWriter writer = Files.newBufferedWriter(path, Constants.CHARSET);
-            writer.write(String.valueOf(cache.size()));
-            writer.newLine();
-            for (final K key : cache.keySet()) {
-                writer.write(key.toString());
-                writer.write(SEP);
-                writer.write(cache.get(key).toString());
-                writer.newLine();
-            }
-        }
-        
-        private void save(final Path url2idPath, final Path id2pathPath) throws IOException {
-            save(url2idPath, url2id);
-            save(id2pathPath, id2path);
+        private void save(final Path path) throws IOException {
+            MyFiles.write(path, entries);
         }
         
         public void save() {
             try {
-                save(URL_2_ID_PATH, ID_2_PATH_PATH);
+                save(REQUEST_CACHE_PATH);
             } catch (final IOException e) {
                 throw new RuntimeException(e);
             }
@@ -302,16 +278,12 @@ public abstract class ApiRequest<R> {
             return queryField == null || !queryField.encode();
         });
         final Map<Field, Object> queryEntries = Reflect.getFieldEntries(queryFields, this);
-        //System.out.println(queryEntries);
         for (final Field queryField : queryEntries.keySet()) {
-            //System.out.println(queryField.getName());
             final String queryValue = queryEntries.get(queryField).toString();
-            //System.out.println(queryValue);
             if (!queryValue.isEmpty()) {
                 query.put(queryField.getName(), queryValue);
             }
         }
-        query.forEach((k, v) -> System.out.println(k + "=" + v));
     }
     
     /**
@@ -364,6 +336,7 @@ public abstract class ApiRequest<R> {
     private BufferedReader cache(final BufferedReader reader) throws IOException {
         requestCache.put(this);
         final Path path = requestCache.getPath(url);
+        //Files.createFile(path);
         MyFiles.write(path, reader);
         return Files.newBufferedReader(path, Constants.CHARSET);
     }
@@ -371,8 +344,9 @@ public abstract class ApiRequest<R> {
     private void prettyCache() throws IOException {
         requestCache.put(this); // in case normal cache not called yet
         final Path path = requestCache.getPrettyPath(url);
-        // may potentially overwrite existing prettied cache, b/c not tracked by requestCache
-        Files.createFile(path);
+        if (Files.exists(path)) {
+            return;
+        }
         MyFiles.write(path, prettify(request));
     }
         
@@ -382,8 +356,7 @@ public abstract class ApiRequest<R> {
         }
         if (request == null) {
             Reader requestReader;
-            final boolean isCached = isCached();
-            if (isCached) {
+            if (isCached()) {
                 requestReader = getCachedRequestReader();
             } else {
                 requestReader = getHttpRequestReader();

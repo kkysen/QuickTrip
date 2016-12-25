@@ -6,8 +6,6 @@ import io.github.kkysen.quicktrip.apis.google.maps.GoogleMapsApiRequest;
 import java.nio.file.Path;
 import java.util.Map;
 
-import com.google.gson.GsonBuilder;
-
 import lombok.RequiredArgsConstructor;
 
 // dummy class for now
@@ -53,15 +51,33 @@ public class DirectionsApiRequest extends GoogleMapsApiRequest<Directions> {
     }
     
     public static void main(final String[] args) throws Exception {
-        final DirectionsApiRequest request = new DirectionsApiRequest(
+        final DirectionsApiRequest request1 = new DirectionsApiRequest(
                 "75 9th Ave, New York, NY",
                 "MetLife Stadium Dr East Rutherford, NJ 0703",
                 "driving",
                 "",
                 "",
                 "");
-        final Directions directions = request.get();
-        System.out.println(new GsonBuilder().setPrettyPrinting().create().toJson(directions));
+        request1.get();
+        
+        final DirectionsApiRequest request2 = new DirectionsApiRequest(
+                "296 6th St, Brooklyn, NY",
+                "15 Claremont Ave, New York, NY",
+                "driving",
+                "",
+                "",
+                "");
+        request2.get();
+        
+        final DirectionsApiRequest request3 = new DirectionsApiRequest(
+                "75 9th Ave, New York, NY",
+                "MetLife Stadium Dr East Rutherford, NJ 0703",
+                "driving",
+                "optimize:true|San Francisco,+CA",
+                "",
+                "");
+        request3.get();
+        //System.out.println(new GsonBuilder().setPrettyPrinting().create().toJson(directions));
     }
     
 }

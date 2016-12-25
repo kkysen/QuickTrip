@@ -18,7 +18,7 @@ import com.google.gson.GsonBuilder;
  */
 public abstract class JsonApiRequest<R> extends ApiRequest<R> {
     
-    private static final Gson gson = new Gson(); // FIXME
+    private static final Gson plainGson = new Gson();
     private static final Gson prettyGson = new GsonBuilder().setPrettyPrinting().create();
     
     @Override
@@ -39,7 +39,7 @@ public abstract class JsonApiRequest<R> extends ApiRequest<R> {
     
     @Override
     protected R parseRequest(final Reader reader) {
-        return gson.fromJson(reader, pojoClass);
+        return plainGson.fromJson(reader, pojoClass);
     }
     
     @Override

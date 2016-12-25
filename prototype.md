@@ -23,13 +23,13 @@ __Input__
 
 __Output__
 - Itinerary Overview  
-  ..__Each Destination
-  ..* hotel logo
-  ..- hotel name
-  ..- hotel location (address)
-  ..- mode of transportation (will begin with only driving)
-  ..- number of days
-  ..- dates (perhaps on a calendar)
+  __Each Destination
+  - hotel logo
+  - hotel name
+  - hotel location (address)
+  - mode of transportation (will begin with only driving)
+  - number of days
+  - dates (perhaps on a calendar)
 - cost
 - option to see detailed itinerary
 - option to see directions (maybe embedded Google Maps or just text directions)

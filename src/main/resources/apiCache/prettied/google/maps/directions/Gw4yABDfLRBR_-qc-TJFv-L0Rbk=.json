@@ -1,0 +1,363 @@
+{
+  "geocoded_waypoints": [
+    {
+      "place_id": "ChIJX4VAKvxawokRo_eOlBzI5CI",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "place_id": "ChIJd7zN_thz54gRnr-lPAaywwo",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "place_id": "ChIJLwPMoJm1RIYRetVp1EtGm10",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "place_id": "ChIJVTPokywQkFQRmtVEaUZlJRA",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "place_id": "ChIJ7dE81z72wokRRpcuPj8DS68",
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 47.6954229,
+          "lng": -73.9645343
+        },
+        "southwest": {
+          "lat": 28.5361649,
+          "lng": -123.3691802
+        }
+      },
+      "legs": [
+        {
+          "distance": {},
+          "duration": {},
+          "start_address": "296 6th St, Brooklyn, NY 11215, USA",
+          "start_location": {
+            "lat": 40.6716071,
+            "lng": -73.98606
+          },
+          "end_address": "Orlando, FL, USA",
+          "end_location": {
+            "lat": 28.5383218,
+            "lng": -81.37924129999999
+          },
+          "steps": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "distance": {},
+          "duration": {},
+          "start_address": "Orlando, FL, USA",
+          "start_location": {
+            "lat": 28.5383218,
+            "lng": -81.37924129999999
+          },
+          "end_address": "Austin, TX, USA",
+          "end_location": {
+            "lat": 30.2671663,
+            "lng": -97.7431141
+          },
+          "steps": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "distance": {},
+          "duration": {},
+          "start_address": "Austin, TX, USA",
+          "start_location": {
+            "lat": 30.2671663,
+            "lng": -97.7431141
+          },
+          "end_address": "Los Angeles, CA, USA",
+          "end_location": {
+            "lat": 34.052353,
+            "lng": -118.2435703
+          },
+          "steps": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "distance": {},
+          "duration": {},
+          "start_address": "Los Angeles, CA, USA",
+          "start_location": {
+            "lat": 34.052353,
+            "lng": -118.2435703
+          },
+          "end_address": "San Francisco, CA, USA",
+          "end_location": {
+            "lat": 37.7749526,
+            "lng": -122.4192942
+          },
+          "steps": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "distance": {},
+          "duration": {},
+          "start_address": "San Francisco, CA, USA",
+          "start_location": {
+            "lat": 37.7749526,
+            "lng": -122.4192942
+          },
+          "end_address": "Seattle, WA, USA",
+          "end_location": {
+            "lat": 47.6063683,
+            "lng": -122.3322218
+          },
+          "steps": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "distance": {},
+          "duration": {},
+          "start_address": "Seattle, WA, USA",
+          "start_location": {
+            "lat": 47.6063683,
+            "lng": -122.3322218
+          },
+          "end_address": "Chicago, IL, USA",
+          "end_location": {
+            "lat": 41.8781139,
+            "lng": -87.6297872
+          },
+          "steps": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "distance": {},
+          "duration": {},
+          "start_address": "Chicago, IL, USA",
+          "start_location": {
+            "lat": 41.8781139,
+            "lng": -87.6297872
+          },
+          "end_address": "15 Claremont Ave, New York, NY 10027, USA",
+          "end_location": {
+            "lat": 40.8089453,
+            "lng": -73.9645343
+          },
+          "steps": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "overview_polyline": {},
+      "summary": "I-95 S",
+      "warnings": [],
+      "waypoint_order": [
+        4,
+        3,
+        2,
+        0,
+        1,
+        5
+      ]
+    }
+  ],
+  "status": "OK"
+}

@@ -22,9 +22,9 @@ __Input__
 - approximate budget
 
 __Output__
-- Itinerary Overview
-  ..__Each Destination__
-  ..- hotel logo
+- Itinerary Overview  
+  ..__Each Destination
+  ..* hotel logo
   ..- hotel name
   ..- hotel location (address)
   ..- mode of transportation (will begin with only driving)

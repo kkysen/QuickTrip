@@ -26,4 +26,6 @@ public @interface QueryField {
     
     public boolean encode() default true;
     
+    public String name() default "";
+    
 }

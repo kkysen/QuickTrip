@@ -269,14 +269,24 @@ public abstract class ApiRequest<R> {
     private void reflectQuery() {
         final List<Field> queryFields = Reflect.getInstanceVars(this);
         // filter out fields that are not QueryFields or have encode = false
+        final Map<Field, QueryField> field2annotation = new HashMap<>();
         queryFields.removeIf(field -> {
             final QueryField queryField = AnnotationUtils.getAnnotation(field, QueryField.class);
-            return queryField == null || !queryField.encode();
+            final boolean shouldRemove = queryField == null || !queryField.encode();
+            if (!shouldRemove) {
+                field2annotation.put(field, queryField);
+            }
+            return shouldRemove;
         });
         final Map<Field, Object> queryEntries = Reflect.getFieldEntries(queryFields, this);
         for (final Field queryField : queryEntries.keySet()) {
             final String queryValue = queryEntries.get(queryField).toString();
             if (!queryValue.isEmpty()) {
+                final QueryField annotation = field2annotation.get(queryField);
+                String name = annotation.name();
+                if (name.isEmpty()) {
+                    name = queryField.getName();
+                }
                 query.put(queryField.getName(), queryValue);
             }
         }

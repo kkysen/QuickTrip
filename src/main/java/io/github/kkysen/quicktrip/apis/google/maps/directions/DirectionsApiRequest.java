@@ -24,6 +24,9 @@ public class DirectionsApiRequest extends GoogleMapsApiRequest<Directions> {
     // these are Strings for now just so I can work on the rest
     // should be changed to appropriate types later
     // and QueryField#encode set to false if they are weird non-string good formatty types
+    
+    // FIXME
+    // must add correct query field names for some of these
     private final @QueryField String origin;
     private final @QueryField String destination;
     private final @QueryField String mode;

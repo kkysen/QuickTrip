@@ -115,7 +115,7 @@ public abstract class ApiRequest<R> {
         public Set<Entry> entrySet() {
             return entries;
         }
-
+        
         @Override
         public String toString() {
             return entries.toString();
@@ -254,10 +254,6 @@ public abstract class ApiRequest<R> {
     protected final Class<? extends R> pojoClass;
     private R request;
     
-    protected abstract Path getRelativePath();
-    
-    protected abstract String getFileExtension();
-    
     protected String getApiKeyQueryName() {
         return "key";
     }
@@ -295,6 +291,10 @@ public abstract class ApiRequest<R> {
      *            key added
      */
     protected void modifyQuery(final Map<String, String> query) {}
+    
+    protected abstract Path getRelativePath();
+    
+    protected abstract String getFileExtension();
     
     protected abstract Class<? extends R> getPojoClass();
     
@@ -349,7 +349,7 @@ public abstract class ApiRequest<R> {
         }
         MyFiles.write(path, prettify(request));
     }
-        
+    
     public R get() throws IOException {
         if (url == null) {
             setQueryAndUrl();

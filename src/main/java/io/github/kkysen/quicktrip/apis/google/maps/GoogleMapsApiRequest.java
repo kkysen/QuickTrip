@@ -13,6 +13,7 @@ public abstract class GoogleMapsApiRequest<R> extends GoogleApiRequest<R> {
         return URL.replace("$REQUEST_TYPE", getRequestType());
     }
     
+    // should be overriden
     @Override
     protected Path getRelativePath() {
         return super.getRelativePath().resolve("maps");

@@ -5,7 +5,6 @@ import io.github.kkysen.quicktrip.apis.JsonApiRequest;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-
 /**
  * 
  * 
@@ -20,6 +19,7 @@ public abstract class GoogleApiRequest<R> extends JsonApiRequest<R> {
         return API_KEY;
     }
     
+    // should be overriden
     @Override
     protected Path getRelativePath() {
         return Paths.get("google");

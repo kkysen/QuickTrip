@@ -24,7 +24,7 @@ public class QuickTrip extends Application {
         
         final Scene scene = new Scene(root, 300, 250);
         
-        primaryStage.setTitle("Hello World!");
+        primaryStage.setTitle("Quick Trip");
         primaryStage.setScene(scene);
         primaryStage.show();
     }

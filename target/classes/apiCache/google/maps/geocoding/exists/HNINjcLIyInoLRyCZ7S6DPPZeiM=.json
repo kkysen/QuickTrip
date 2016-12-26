@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "296",
+               "short_name" : "296",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "6th Street",
+               "short_name" : "6th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Park Slope",
+               "short_name" : "Park Slope",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11215",
+               "short_name" : "11215",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3206",
+               "short_name" : "3206",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "296 6th St, Brooklyn, NY 11215, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.67142399999999,
+               "lng" : -73.98621399999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6727729802915,
+                  "lng" : -73.98486501970849
+               },
+               "southwest" : {
+                  "lat" : 40.6700750197085,
+                  "lng" : -73.9875629802915
+               }
+            }
+         },
+         "place_id" : "ChIJX4VAKvxawokRo_eOlBzI5CI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

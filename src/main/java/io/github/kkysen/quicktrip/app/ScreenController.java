@@ -5,6 +5,8 @@ import java.util.Map;
 
 import org.reflections.Reflections;
 
+import lombok.Getter;
+
 import javafx.scene.Scene;
 
 /**
@@ -16,6 +18,7 @@ public class ScreenController {
     
     private final Map<Class<? extends Screen>, Screen> screens = new HashMap<>();
     private final Scene scene;
+    private @Getter Class<? extends Screen> currentScreen;
     
     private void addAllScenesInAppPackage() {
         final Reflections reflections = new Reflections("io.github.kkysen.quicktrip.app");
@@ -37,11 +40,13 @@ public class ScreenController {
         screens.put(screenClass, screen);
     }
     
+    public Screen get(final Class<? extends Screen> screenClass) {
+        return screens.get(screenClass);
+    }
+    
     public void load(final Class<? extends Screen> screenClass) {
-        final Screen screen = screens.get(screenClass);
-        if (screen != null) {
-            scene.setRoot(screen.getPane());
-        }
+        scene.setRoot(get(screenClass).getPane());
+        currentScreen = screenClass;
     }
     
 }

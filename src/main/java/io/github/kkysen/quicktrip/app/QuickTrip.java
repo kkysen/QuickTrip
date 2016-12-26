@@ -14,6 +14,8 @@ public class QuickTrip extends Application {
     
     static final String TITLE = "Quick Trip";
     
+    static final String SEARCH_ARGS_PATH = "searchArgs.json";
+    
     private Stage stage;
     
     private static final Pane ROOT = new Pane();

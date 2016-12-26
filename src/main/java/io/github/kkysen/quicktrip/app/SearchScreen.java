@@ -3,17 +3,19 @@ package io.github.kkysen.quicktrip.app;
 import static io.github.kkysen.quicktrip.app.QuickTrip.SCREENS;
 
 import io.github.kkysen.quicktrip.apis.google.geocoding.exists.AddressExistsRequest;
+import io.github.kkysen.quicktrip.io.MyFiles;
 
 import java.io.IOException;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
+
+import com.google.gson.Gson;
 
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
-import javafx.scene.control.Alert;
-import javafx.scene.control.Alert.AlertType;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
@@ -33,13 +35,129 @@ public class SearchScreen implements Screen {
     
     private final TextField origin;
     private final TextField startDate;
-    private final TextField dest;
+    private final DestField dest;
     private final TextField numDests;
-    private final List<TextField> dests = new ArrayList<>();
+    private final List<DestField> destFields = new ArrayList<>();
     private final TextField numPeople;
     private final TextField budget;
     private final Button searchBtn;
     private final Button backBtn;
+    
+    private static String quote(final Object o) {
+        return '"' + o.toString() + '"';
+    }
+    
+    private void nonExistentAddressError(final String address) throws InputError {
+        final String error = "Nonexistent Address";
+        final String msg = quote(address) + " does not exist.";
+        throw new InputError(error, msg);
+    }
+    
+    private void validateAddress(final TextField address) throws InputError {
+        final String addressText = address.getText();
+        try {
+            if (!AddressExistsRequest.exists(addressText)) {
+                nonExistentAddressError(addressText);
+            }
+        } catch (final IOException e) {
+            throw new RuntimeException(e);
+        }
+    }
+    
+    /**
+     * 
+     * 
+     * @author Khyber Sen
+     */
+    private class DestField {
+        
+        private final int destNum;
+        private final Label label;
+        private final TextField address;
+        private final TextField numDays;
+        
+        private void addToGrid() {
+            grid.add(label, 0, rowIndex);
+            grid.add(address, 1, rowIndex);
+            grid.add(numDays, 2, rowIndex);
+            rowIndex++;
+        }
+        
+        public DestField(final int destNum) {
+            this.destNum = destNum;
+            
+            String labelText = "Destination";
+            // if destNum = 0, don't add destNum to label
+            if (destNum != 0) {
+                labelText += " " + destNum;
+            }
+            
+            label = new Label(labelText);
+            
+            address = new TextField();
+            
+            numDays = new TextField();
+            
+            destFields.add(this);
+            addToGrid();
+        }
+        
+        /**
+         * makes an error dialog if the address does not exist
+         * 
+         * @throws InputError
+         */
+        private void validateAddress() throws InputError {
+            SearchScreen.this.validateAddress(address);
+        }
+        
+        private void invalidNumDaysError(final String numDays) throws InputError {
+            final String error = "Invalid Number of Days";
+            final String msg = quote(numDays) + " is not a valid number of days. "
+                    + "It must be a whole number.";
+            throw new InputError(error, msg);
+        }
+        
+        private void validateNumDays() throws InputError {
+            final String numDaysText = numDays.getText();
+            int numDays;
+            try {
+                numDays = Integer.parseInt(numDaysText);
+            } catch (final NumberFormatException e) {
+                invalidNumDaysError(numDaysText);
+                return;
+            }
+            if (numDays < 1) {
+                invalidNumDaysError(numDaysText);
+            }
+        }
+        
+        /**
+         * validates input (i.e. error dialog if invalid)
+         * should be called before {@link #serialize()}
+         * 
+         * @throws InputError
+         * 
+         * @see #serialize()
+         */
+        public void validate() throws InputError {
+            validateAddress();
+            validateNumDays();
+        }
+        
+        /**
+         * serializes this into a Json Pojo
+         * should be called after {@link #validate()}
+         * 
+         * @see #validate()
+         * 
+         * @return Json Pojo Destination for serialization
+         */
+        public Destination serialize() {
+            return new Destination(address.getText(), Integer.parseInt(numDays.getText()));
+        }
+        
+    }
     
     private void setupGrid() {
         grid.setAlignment(Pos.CENTER);
@@ -80,25 +198,17 @@ public class SearchScreen implements Screen {
     
     private void addDests(final int numDests) {
         for (int destNum = 0; destNum < numDests; destNum++) {
-            dests.add(addLabeledInputField("Destination " + (destNum + 1)));
+            destFields.add(new DestField(destNum + 1));
         }
     }
     
-    private void errorDialog(final String error, final String msg) {
-        final Alert alert = new Alert(AlertType.ERROR);
-        alert.setTitle(error);
-        alert.setHeaderText(msg);
-        alert.setContentText(msg);
-        alert.showAndWait();
-    }
-    
-    private void numDestsError() {
+    private void numDestsError() throws InputError {
         final String error = "Invalid Number of Destinations";
         final String msg = "You must enter a whole number less than or equal to 100";
-        errorDialog(error, msg);
+        throw new InputError(error, msg);
     }
     
-    private void makeMoreDests() {
+    private void tryMakeMoreDests() throws InputError {
         final String numDestsStr = numDests.getText();
         if (numDestsStr.isEmpty()) {
             return;
@@ -113,12 +223,12 @@ public class SearchScreen implements Screen {
         }
         
         if (numDests == 1) {
-            if (dests.size() == 1) {
+            if (destFields.size() == 1) {
                 return; // nothing changes
             }
-            dests.remove(0);
-            grid.getChildren().removeAll(dests);
-            dests.add(dest);
+            destFields.remove(0);
+            grid.getChildren().removeAll(destFields);
+            destFields.add(dest);
         }
         
         if (numDests < 1 || numDests > 100) {
@@ -127,49 +237,85 @@ public class SearchScreen implements Screen {
         }
         
         final int oldRowIndex = rowIndex;
-        rowIndex = GridPane.getRowIndex(dests.get(0));
+        rowIndex = GridPane.getRowIndex(destFields.get(0).address);
         final int numRowsAfterDests = oldRowIndex - rowIndex;
         
         grid.getChildren().remove(dest);
-        dests.clear();
+        destFields.clear();
         addDests(numDests);
         
         rowIndex += numRowsAfterDests;
     }
     
-    private void nonExistentAddressError(final String address) {
-        final String error = "Nonexistent Address";
-        final String msg = "\"" + address + "\" does not exist";
-        errorDialog(error, msg);
+    private void makeMoreDests() {
+        try {
+            tryMakeMoreDests();
+        } catch (final InputError e) {
+            e.getErrorDialog().showAndWait();
+            return;
+        }
     }
     
-    /**
-     * @param addressField TextField containing the address
-     * @return address String if it exists, null if it does not
-     */
-    private String validateAddress(final TextField addressField) {
-        final String address = addressField.getText();
+    private String serializeOrigin() throws InputError {
+        validateAddress(origin);
+        return origin.getText();
+    }
+    
+    private String serializeStartDate() {
+        // FIXME
+        return startDate.getText();
+    }
+    
+    private List<Destination> serializeDests() throws InputError {
+        for (final DestField destField : destFields) {
+            destField.validate();
+        }
+        final List<Destination> serializedDests = new ArrayList<>();
+        destFields.forEach(dest -> serializedDests.add(dest.serialize()));
+        return serializedDests;
+    }
+    
+    private int serializeNumPeople() {
+        return Integer.parseInt(numPeople.getText());
+    }
+    
+    private int serializeBudget() {
+        return Integer.parseInt(budget.getText());
+    }
+    
+    private void trySerializeSearchArgs() throws InputError {
+        final String origin = serializeOrigin();
+        final String startDate = serializeStartDate();
+        final List<Destination> dests = serializeDests();
+        final int numPeople = serializeNumPeople();
+        final int budget = serializeBudget();
+        final SearchArgs searchArgs = new SearchArgs(origin, startDate, dests, budget, numPeople);
+        final String json = new Gson().toJson(searchArgs);
         try {
-            if (AddressExistsRequest.exists(address)) {
-                return address;
-            }
+            MyFiles.write(Paths.get(QuickTrip.SEARCH_ARGS_PATH), json);
         } catch (final IOException e) {
             throw new RuntimeException(e);
         }
-        nonExistentAddressError(address);
-        return null;
     }
     
     private void serializeSearchArgs() {
-        final String originAddress = validateAddress(origin);
-        if (originAddress == null) {
-            return;
+        try {
+            trySerializeSearchArgs();
+        } catch (final InputError e) {
+            e.getErrorDialog().showAndWait();
+            return; // stop serialization
         }
-        
-        final List<Destination> validatedDests = new ArrayList<>();
-        for (final TextField dest : dests) {
-            final String destA
-        }
+    }
+    
+    public void search() {
+        serializeSearchArgs();
+        // switch to SearchingScreen while ItineraryScreen loads
+        SCREENS.load(SearchingScreen.class);
+        final ItineraryScreen itineraryScreen = (ItineraryScreen) SCREENS
+                .get(ItineraryScreen.class);
+        itineraryScreen.load();
+        // when ItineraryScreen is finished loading, switch to it
+        SCREENS.load(ItineraryScreen.class);
     }
     
     public SearchScreen() {
@@ -181,8 +327,8 @@ public class SearchScreen implements Screen {
         startDate = addLabeledInputField("Start Date");
         rowIndex++;
         
-        dest = addLabeledInputField("Destination");
-        dests.add(dest);
+        dest = new DestField(0);
+        destFields.add(dest);
         rowIndex++;
         
         numDests = addButtonedInputField("Number of Destinations", event -> makeMoreDests());
@@ -191,7 +337,7 @@ public class SearchScreen implements Screen {
         
         budget = addLabeledInputField("Budget");
         
-        searchBtn = addButton("Search", 0, event -> SCREENS.load(ItineraryScreen.class));
+        searchBtn = addButton("Search", 0, event -> search());
         rowIndex++;
         
         backBtn = addButton("Back", 0, event -> SCREENS.load(WelcomeScreen.class));

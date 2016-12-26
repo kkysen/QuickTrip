@@ -25,7 +25,7 @@ public class AddressExistsOnly {
     private String status;
     
     public boolean exists() {
-        return status.equals("ZERO_RESULTS");
+        return !status.equals("ZERO_RESULTS");
     }
     
 }

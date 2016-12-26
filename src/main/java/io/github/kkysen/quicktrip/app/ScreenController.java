@@ -1,9 +1,11 @@
 package io.github.kkysen.quicktrip.app;
 
 import java.util.HashMap;
+import java.util.Map;
+
+import org.reflections.Reflections;
 
 import javafx.scene.Scene;
-import javafx.scene.layout.Pane;
 
 /**
  * 
@@ -12,25 +14,33 @@ import javafx.scene.layout.Pane;
  */
 public class ScreenController {
     
-    private final HashMap<String, Pane> screenMap = new HashMap<>();
+    private final Map<Class<? extends Screen>, Screen> screens = new HashMap<>();
     private final Scene scene;
+    
+    private void addAllScenesInAppPackage() {
+        final Reflections reflections = new Reflections("io.github.kkysen.quicktrip.app");
+        reflections.getSubTypesOf(Screen.class).forEach(this::add);
+    }
     
     public ScreenController(final Scene scene) {
         this.scene = scene;
+        addAllScenesInAppPackage();
     }
     
-    public void addScreen(final String name, final Pane pane) {
-        screenMap.put(name, pane);
+    public void add(final Class<? extends Screen> screenClass) {
+        Screen screen;
+        try {
+            screen = screenClass.newInstance();
+        } catch (InstantiationException | IllegalAccessException e) {
+            throw new RuntimeException(e); // shouldn't happen
+        }
+        screens.put(screenClass, screen);
     }
     
-    public void removeScreen(final String name) {
-        screenMap.remove(name);
-    }
-    
-    public void loadScreen(final String name) {
-        final Pane pane = screenMap.get(name);
-        if (pane != null) {
-            scene.setRoot(pane);
+    public void load(final Class<? extends Screen> screenClass) {
+        final Screen screen = screens.get(screenClass);
+        if (screen != null) {
+            scene.setRoot(screen.getPane());
         }
     }
     

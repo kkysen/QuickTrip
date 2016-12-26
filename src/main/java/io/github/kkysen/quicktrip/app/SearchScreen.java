@@ -2,6 +2,9 @@ package io.github.kkysen.quicktrip.app;
 
 import static io.github.kkysen.quicktrip.app.QuickTrip.SCREENS;
 
+import io.github.kkysen.quicktrip.apis.google.geocoding.exists.AddressExistsRequest;
+
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -132,6 +135,41 @@ public class SearchScreen implements Screen {
         addDests(numDests);
         
         rowIndex += numRowsAfterDests;
+    }
+    
+    private void nonExistentAddressError(final String address) {
+        final String error = "Nonexistent Address";
+        final String msg = "\"" + address + "\" does not exist";
+        errorDialog(error, msg);
+    }
+    
+    /**
+     * @param addressField TextField containing the address
+     * @return address String if it exists, null if it does not
+     */
+    private String validateAddress(final TextField addressField) {
+        final String address = addressField.getText();
+        try {
+            if (AddressExistsRequest.exists(address)) {
+                return address;
+            }
+        } catch (final IOException e) {
+            throw new RuntimeException(e);
+        }
+        nonExistentAddressError(address);
+        return null;
+    }
+    
+    private void serializeSearchArgs() {
+        final String originAddress = validateAddress(origin);
+        if (originAddress == null) {
+            return;
+        }
+        
+        final List<Destination> validatedDests = new ArrayList<>();
+        for (final TextField dest : dests) {
+            final String destA
+        }
     }
     
     public SearchScreen() {

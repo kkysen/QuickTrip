@@ -12,6 +12,14 @@ public class ItineraryScreen implements Screen {
     
     private final GridPane grid = new GridPane();
     
+    private void deserializeSearchArgs() {
+        
+    }
+    
+    public ItineraryScreen() {
+        
+    }
+    
     @Override
     public Pane getPane() {
         return grid;

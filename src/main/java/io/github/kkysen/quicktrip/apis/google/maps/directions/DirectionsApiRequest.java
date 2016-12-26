@@ -2,6 +2,7 @@ package io.github.kkysen.quicktrip.apis.google.maps.directions;
 
 import io.github.kkysen.quicktrip.apis.QueryField;
 import io.github.kkysen.quicktrip.apis.google.maps.GoogleMapsApiRequest;
+import io.github.kkysen.quicktrip.apis.google.maps.directions.response.Directions;
 
 import java.io.IOException;
 import java.nio.file.Path;

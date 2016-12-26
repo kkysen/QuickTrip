@@ -20,10 +20,10 @@ import javafx.stage.Stage;
  * 
  * @author Khyber Sen
  */
-public class QuickTrip extends Application {
+public class QuickTripOld extends Application {
     
-    private static final String TITLE = "Quick Trip";
-    
+    static final String TITLE = "Quick Trip";
+        
     private TextField createDestination(final int destNum, final GridPane grid, final int rowIndex) {
         final Label destLabel = new Label("Destination " + destNum);
         grid.add(destLabel, 0, rowIndex);
@@ -46,35 +46,37 @@ public class QuickTrip extends Application {
     @Override
     public void start(final Stage primaryStage) {
         
-        final GridPane grid = new GridPane();
-        grid.setAlignment(Pos.CENTER);
-        grid.setHgap(10);
-        grid.setVgap(10);
-        grid.setPadding(new Insets(25, 25, 25, 25));
+//        final GridPane grid = new GridPane();
+//        grid.setAlignment(Pos.CENTER);
+//        grid.setHgap(10);
+//        grid.setVgap(10);
+//        grid.setPadding(new Insets(25, 25, 25, 25));
+//        
+//        final Scene scene = new Scene(grid, 300, 250);
+//        
+//        
+//        final Text welcomeMsg = new Text("Welcome to " + TITLE);
+//        welcomeMsg.setFont(Font.font("Tahoma", FontWeight.NORMAL, 20));
+//        grid.add(welcomeMsg, 0, 0, 2, 1);
+//        
+//        final Label originLabel = new Label("Origin");
+//        grid.add(originLabel, 0, 1);
+//        
+//        final TextField origin = new TextField();
+//        grid.add(origin, 1, 1);
+//        
+////        final Label destinationLabel = new Label("Destination");
+////        grid.add(destinationLabel, 0, 2);
+////        
+////        final TextField destination = new TextField();
+////        grid.add(destination, 1, 2);
+//        
+//        final List<TextField> destinations = createDestinations(5, grid, 2);
         
-        final Scene scene = new Scene(grid, 300, 250);
+        final Scene scene = new WelcomePage().toScene();
         
         primaryStage.setTitle(TITLE);
         primaryStage.setScene(scene);
-        
-        final Text welcomeMsg = new Text("Welcome to " + TITLE);
-        welcomeMsg.setFont(Font.font("Tahoma", FontWeight.NORMAL, 20));
-        grid.add(welcomeMsg, 0, 0, 2, 1);
-        
-        final Label originLabel = new Label("Origin");
-        grid.add(originLabel, 0, 1);
-        
-        final TextField origin = new TextField();
-        grid.add(origin, 1, 1);
-        
-//        final Label destinationLabel = new Label("Destination");
-//        grid.add(destinationLabel, 0, 2);
-//        
-//        final TextField destination = new TextField();
-//        grid.add(destination, 1, 2);
-        
-        final List<TextField> destinations = createDestinations(5, grid, 2);
-        
         primaryStage.show();
     }
     

@@ -1,4 +1,4 @@
-package io.github.kkysen.quicktrip.core;
+package io.github.kkysen.quicktrip.app;
 
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;

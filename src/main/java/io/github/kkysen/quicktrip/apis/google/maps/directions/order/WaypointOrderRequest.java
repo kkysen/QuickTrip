@@ -8,6 +8,7 @@ import io.github.kkysen.quicktrip.apis.google.maps.directions.order.response.Way
 import java.io.IOException;
 import java.nio.file.Path;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 import java.util.StringJoiner;
@@ -76,6 +77,32 @@ public class WaypointOrderRequest<E> extends GoogleMapsApiRequest<WaypointOrderO
     public static <E> List<E> orderedDestinations(final String origin, final List<E> destinations,
             final Function<E, String> addressExtractor) throws IOException {
         return new WaypointOrderRequest<E>(origin, destinations, addressExtractor).orderedDestinations();
+    }
+    
+    public static void main(final String[] args) throws IOException {
+        final String[] dests = {
+//            "Albuquerque, New Mexico",
+//            "Augusta, Maine",
+            "San Diego, California",
+            "Orlando, Florida",
+            "Seattle, Washington",
+            "San Antonio, Texas",
+            "Brooklyn, New York",
+            "Los Angeles, California",
+//            "Boston, Massachusetts",
+//            "Phoenix, Arizona",
+//            "Philadelphia, Pennsylvania",
+//            "Portland, Oregon",
+//            "Tampa Bay, Florida",
+//            "Denver, Colorado",
+//            "Chicago, Illinois",
+//            "San Francisco, California"
+        };
+        
+        final String origin = "296 6th St, Brooklyn, NY";
+        final List<String> destinations = new ArrayList<>(Arrays.asList(dests));
+        final Function<String, String> addressExtractor = Function.identity();
+        orderedDestinations(origin, destinations, addressExtractor).forEach(System.out::println);
     }
     
 }

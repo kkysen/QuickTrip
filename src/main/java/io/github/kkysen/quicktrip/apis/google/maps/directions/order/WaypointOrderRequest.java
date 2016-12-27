@@ -8,9 +8,10 @@ import io.github.kkysen.quicktrip.apis.google.maps.directions.order.response.Way
 import java.io.IOException;
 import java.nio.file.Path;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
+import java.util.StringJoiner;
+import java.util.function.Function;
 
 import lombok.RequiredArgsConstructor;
 
@@ -18,12 +19,14 @@ import lombok.RequiredArgsConstructor;
  * 
  * 
  * @author Khyber Sen
+ * @param <E> Destination class containing the String address
  */
 @RequiredArgsConstructor
-public class WaypointOrderRequest extends GoogleMapsApiRequest<WaypointOrderOnlyDirections> {
+public class WaypointOrderRequest<E> extends GoogleMapsApiRequest<WaypointOrderOnlyDirections> {
     
     private final @QueryField String origin;
-    private final @QueryField(encode = false) List<String> destinations;
+    private final @QueryField(encode = false) List<E> destinations;
+    private final Function<E, String> addressExtractor;
     
     @Override
     protected String getRequestType() {
@@ -43,41 +46,36 @@ public class WaypointOrderRequest extends GoogleMapsApiRequest<WaypointOrderOnly
     @Override
     protected void modifyQuery(final Map<String, String> query) {
         super.modifyQuery(query);
-        final String waypoints = "optimize:true|" + String.join("|", destinations);
+        final StringJoiner sj = new StringJoiner("|");
+        sj.add("optimize:true");
+        for (final E dest : destinations) {
+            sj.add(addressExtractor.apply(dest));
+        }
+        final String waypoints = sj.toString();
         query.put("waypoints", waypoints);
         
         query.put("destination", origin);
     }
     
-    public List<String> orderedDestinations() throws IOException {
-        final List<String> orderedDestinations = new ArrayList<>(destinations.size());
+    private List<Integer> destinationOrder() throws IOException {
         final WaypointOrderOnlyDirections response = get();
         if (response == null) {
             throw new GoogleMapsDirectionsException(url);
         }
-        for (final int orderedIndex : get().waypointOrder()) {
+        return response.waypointOrder();
+    }
+    
+    public List<E> orderedDestinations() throws IOException {
+        final List<E> orderedDestinations = new ArrayList<>(destinations.size());
+        for (final int orderedIndex : destinationOrder()) {
             orderedDestinations.add(destinations.get(orderedIndex));
         }
         return orderedDestinations;
     }
     
-    public static List<String> orderedDestinations(final String origin,
-            final List<String> destinations) throws IOException {
-        return new WaypointOrderRequest(origin, destinations).orderedDestinations();
-    }
-    
-    public static void main(final String[] args) throws IOException {
-        final List<String> destinations = new ArrayList<>(Arrays.asList(
-                "San Francisco, CA",
-                "Seattle, WA",
-                "Los Angeles, CA",
-                "Austin, TX",
-                "Orlando, FL",
-                "Chicago, IL",
-                "Montreal, Canada"
-                ));
-        final String origin = "296 6th St, Brooklyn, NY";
-        orderedDestinations(origin, destinations).forEach(System.out::println);
+    public static <E> List<E> orderedDestinations(final String origin, final List<E> destinations,
+            final Function<E, String> addressExtractor) throws IOException {
+        return new WaypointOrderRequest<E>(origin, destinations, addressExtractor).orderedDestinations();
     }
     
 }

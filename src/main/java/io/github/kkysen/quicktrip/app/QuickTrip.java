@@ -27,7 +27,7 @@ public class QuickTrip extends Application {
         stage = primaryStage;
         stage.setTitle(TITLE);
         stage.setScene(SCENE);
-        stage.setMaximized(true);
+        //stage.setMaximized(true);
         SCREENS.load(WelcomeScreen.class);
         stage.show();
     }

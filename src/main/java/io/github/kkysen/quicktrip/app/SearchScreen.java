@@ -55,6 +55,9 @@ public class SearchScreen implements Screen {
     
     private void validateAddress(final TextField address) throws InputError {
         final String addressText = address.getText();
+        if (addressText.isEmpty()) {
+            throw new InputError("No Address", "Please enter an address");
+        }
         try {
             if (!AddressExistsRequest.exists(addressText)) {
                 nonExistentAddressError(addressText);
@@ -275,15 +278,45 @@ public class SearchScreen implements Screen {
         return serializedDests;
     }
     
-    private int serializeNumPeople() {
-        return Integer.parseInt(numPeople.getText());
+    private void invalidNumPeopleError() throws InputError {
+        final String error = "Invalid Number of People";
+        final String msg = "You must enter a whole number.";
+        throw new InputError(error, msg);
     }
     
-    private int serializeBudget() {
-        return Integer.parseInt(budget.getText());
+    private int serializeNumPeople() throws InputError {
+        int numPeople = 0;
+        try {
+            numPeople = Integer.parseInt(this.numPeople.getText());
+        } catch (final NumberFormatException e) {
+            invalidNumPeopleError();
+        }
+        if (numPeople < 1) {
+            invalidNumPeopleError();
+        }
+        return numPeople;
     }
     
-    private void trySerializeSearchArgs() throws InputError {
+    private void invalidBudgetError() throws InputError {
+        final String error = "Invalid Budget";
+        final String msg = "You must enter a whole number.";
+        throw new InputError(error, msg);
+    }
+    
+    private int serializeBudget() throws InputError {
+        int budget = 0;
+        try {
+            budget = Integer.parseInt(this.budget.getText());
+        } catch (final NumberFormatException e) {
+            invalidBudgetError();
+        }
+        if (budget < 1) {
+            invalidBudgetError();
+        }
+        return budget;
+    }
+    
+    private void serializeSearchArgs() throws InputError {
         final String origin = serializeOrigin();
         final String startDate = serializeStartDate();
         final List<Destination> dests = serializeDests();
@@ -298,17 +331,13 @@ public class SearchScreen implements Screen {
         }
     }
     
-    private void serializeSearchArgs() {
+    public void search() {
         try {
-            trySerializeSearchArgs();
+            serializeSearchArgs();
         } catch (final InputError e) {
             e.getErrorDialog().showAndWait();
             return; // stop serialization
         }
-    }
-    
-    public void search() {
-        serializeSearchArgs();
         // switch to SearchingScreen while ItineraryScreen loads
         SCREENS.load(SearchingScreen.class);
         final ItineraryScreen itineraryScreen = (ItineraryScreen) SCREENS
@@ -328,7 +357,6 @@ public class SearchScreen implements Screen {
         rowIndex++;
         
         dest = new DestField(0);
-        destFields.add(dest);
         rowIndex++;
         
         numDests = addButtonedInputField("Number of Destinations", event -> makeMoreDests());

@@ -27,11 +27,11 @@ public class WelcomeScreen implements Screen {
     
     public WelcomeScreen() {
         final Text welcomeMsg = new Text("Welcome to " + QuickTrip.TITLE);
-        welcomeMsg.setFont(Font.font("Tahoma", FontWeight.NORMAL, 100));
+        welcomeMsg.setFont(Font.font("Tahoma", FontWeight.NORMAL, 72));
         
         final Button startBtn = new Button("Start Planning Your Trip");
         startBtn.setAlignment(Pos.CENTER);
-        startBtn.setFont(Font.font(50));
+        startBtn.setFont(Font.font(48));
         
         startBtn.setOnAction(event -> SCREENS.load(SearchScreen.class));
         

@@ -35,6 +35,9 @@ public class AddressExistsRequest extends GoogleMapsApiRequest<AddressExistsOnly
     }
     
     public static boolean exists(final String address) throws IOException {
+        if (address.isEmpty()) {
+            return false;
+        }
         return new AddressExistsRequest(address).get().exists();
     }
     

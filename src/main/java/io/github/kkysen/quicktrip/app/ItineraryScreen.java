@@ -9,8 +9,6 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.google.gson.Gson;
-
 import lombok.RequiredArgsConstructor;
 
 import javafx.scene.layout.GridPane;
@@ -34,7 +32,7 @@ public class ItineraryScreen implements Screen {
         } catch (final IOException e) {
             throw new RuntimeException(e);
         }
-        return new Gson().fromJson(json, SearchArgs.class);
+        return QuickTrip.GSON.fromJson(json, SearchArgs.class);
     }
     
     public ItineraryScreen() {
@@ -58,14 +56,15 @@ public class ItineraryScreen implements Screen {
                         searchArgs.getDestinations(),
                         io.github.kkysen.quicktrip.app.Destination::getAddress);
         final List<Destination> dests = new ArrayList<>(orderedDestinations.size());
-        final LocalDate startDate = LocalDate.parse(searchArgs.getDate());
-        for ()
+        final LocalDate startDate = searchArgs.getDate();
+        //for ()
+        return null;
     }
     
     public void load() {
         searchArgs = deserializeSearchArgs();
         
-        final LocalDate startDate = LocalDate.parse(searchArgs.getDate());
+        final LocalDate startDate = searchArgs.getDate();
         
         final List<String> destinations = new ArrayList<>();
     }

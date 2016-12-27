@@ -1,22 +1,20 @@
 package io.github.kkysen.quicktrip.app;
 
-import static io.github.kkysen.quicktrip.app.QuickTrip.SCREENS;
-
 import io.github.kkysen.quicktrip.apis.google.geocoding.exists.AddressExistsRequest;
 import io.github.kkysen.quicktrip.io.MyFiles;
 
 import java.io.IOException;
 import java.nio.file.Paths;
+import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
-
-import com.google.gson.Gson;
 
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.control.Button;
+import javafx.scene.control.DatePicker;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.GridPane;
@@ -34,12 +32,12 @@ public class SearchScreen implements Screen {
     private int rowIndex = 0;
     
     private final TextField origin;
-    private final TextField startDate;
+    private final DatePicker startDate;
     private final DestField dest;
-    private final TextField numDests;
+    private final WholeNumberField numDests;
     private final List<DestField> destFields = new ArrayList<>();
-    private final TextField numPeople;
-    private final TextField budget;
+    private final WholeNumberField numPeople;
+    private final WholeNumberField budget;
     private final Button searchBtn;
     private final Button backBtn;
     
@@ -77,7 +75,7 @@ public class SearchScreen implements Screen {
         private final int destNum;
         private final Label label;
         private final TextField address;
-        private final TextField numDays;
+        private final WholeNumberField numDays;
         
         private void addToGrid() {
             grid.add(label, 0, rowIndex);
@@ -99,7 +97,7 @@ public class SearchScreen implements Screen {
             
             address = new TextField();
             
-            numDays = new TextField();
+            numDays = new WholeNumberField(365);
             
             destFields.add(this);
             addToGrid();
@@ -264,9 +262,10 @@ public class SearchScreen implements Screen {
         return origin.getText();
     }
     
-    private String serializeStartDate() {
+    private LocalDate serializeStartDate() {
         // FIXME
-        return startDate.getText();
+        //return startDate.getText();
+        return startDate.getValue();
     }
     
     private List<Destination> serializeDests() throws InputError {
@@ -318,12 +317,12 @@ public class SearchScreen implements Screen {
     
     private void serializeSearchArgs() throws InputError {
         final String origin = serializeOrigin();
-        final String startDate = serializeStartDate();
+        final LocalDate startDate = serializeStartDate();
         final List<Destination> dests = serializeDests();
         final int numPeople = serializeNumPeople();
         final int budget = serializeBudget();
         final SearchArgs searchArgs = new SearchArgs(origin, startDate, dests, budget, numPeople);
-        final String json = new Gson().toJson(searchArgs);
+        final String json = QuickTrip.GSON.toJson(searchArgs);
         try {
             MyFiles.write(Paths.get(QuickTrip.SEARCH_ARGS_PATH), json);
         } catch (final IOException e) {
@@ -339,12 +338,25 @@ public class SearchScreen implements Screen {
             return; // stop serialization
         }
         // switch to SearchingScreen while ItineraryScreen loads
-        SCREENS.load(SearchingScreen.class);
-        final ItineraryScreen itineraryScreen = (ItineraryScreen) SCREENS
-                .get(ItineraryScreen.class);
+        QuickTrip.SCREENS.load(SearchingScreen.class);
+        final ItineraryScreen itineraryScreen = //
+                (ItineraryScreen) QuickTrip.SCREENS.get(ItineraryScreen.class);
         itineraryScreen.load();
         // when ItineraryScreen is finished loading, switch to it
-        SCREENS.load(ItineraryScreen.class);
+        QuickTrip.SCREENS.load(ItineraryScreen.class);
+    }
+    
+    private WholeNumberField addWholeNumberField(final String name, final long max) {
+        final Label label = new Label(name);
+        final WholeNumberField input = new WholeNumberField(max);
+        grid.add(label, 0, rowIndex);
+        grid.add(input, 1, rowIndex);
+        rowIndex++;
+        return input;
+    }
+    
+    private WholeNumberField addWholeNumberField(final String name) {
+        return addWholeNumberField(name, Long.MAX_VALUE);
     }
     
     public SearchScreen() {
@@ -353,22 +365,34 @@ public class SearchScreen implements Screen {
         origin = addLabeledInputField("Origin");
         rowIndex++;
         
-        startDate = addLabeledInputField("Start Date");
+//        startDate = addLabeledInputField("Start Date");
+//        rowIndex++;
+        final Label startDateLabel = new Label("Start Date");
+        startDate = new DatePicker(LocalDate.now());
+        grid.add(startDateLabel, 0, rowIndex);
+        grid.add(startDate, 1, rowIndex);
         rowIndex++;
         
         dest = new DestField(0);
         rowIndex++;
         
-        numDests = addButtonedInputField("Number of Destinations", event -> makeMoreDests());
+        final Button moreDestsBtn = new Button("Number of Destinations");
+        moreDestsBtn.setOnAction(event -> makeMoreDests());
+        numDests = new WholeNumberField(23);
+        grid.add(moreDestsBtn, 0, rowIndex);
+        grid.add(numDests, 1, rowIndex);
+        rowIndex++;
         
-        numPeople = addLabeledInputField("Number of People");
+        //numDests = addButtonedInputField("Number of Destinations", event -> makeMoreDests());
         
-        budget = addLabeledInputField("Budget");
+        numPeople = addWholeNumberField("Number of People");
+        
+        budget = addWholeNumberField("Budget");
         
         searchBtn = addButton("Search", 0, event -> search());
         rowIndex++;
         
-        backBtn = addButton("Back", 0, event -> SCREENS.load(WelcomeScreen.class));
+        backBtn = addButton("Back", 0, event -> QuickTrip.SCREENS.load(WelcomeScreen.class));
     }
     
     @Override

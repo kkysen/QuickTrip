@@ -13,6 +13,7 @@ import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
+import javafx.scene.Node;
 import javafx.scene.control.Button;
 import javafx.scene.control.DatePicker;
 import javafx.scene.control.Label;
@@ -28,9 +29,8 @@ import javafx.scene.layout.Pane;
 public class SearchScreen implements Screen {
     
     private final GridPane grid = new GridPane();
-    
-    private int rowIndex = 0;
-    
+    private final GridRows rows = new GridRows(grid);
+        
     private final TextField origin;
     private final DatePicker startDate;
     private final DestField dest;
@@ -77,13 +77,6 @@ public class SearchScreen implements Screen {
         private final TextField address;
         private final WholeNumberField numDays;
         
-        private void addToGrid() {
-            grid.add(label, 0, rowIndex);
-            grid.add(address, 1, rowIndex);
-            grid.add(numDays, 2, rowIndex);
-            rowIndex++;
-        }
-        
         public DestField(final int destNum) {
             this.destNum = destNum;
             
@@ -100,7 +93,14 @@ public class SearchScreen implements Screen {
             numDays = new WholeNumberField(365);
             
             destFields.add(this);
-            addToGrid();
+        }
+        
+        public void addToGrid() {
+            rows.add(label, address, numDays);
+        }
+        
+        public Node[] toNodeArray() {
+            return new Node[] {label, address, numDays};
         }
         
         /**
@@ -167,40 +167,18 @@ public class SearchScreen implements Screen {
         grid.setPadding(new Insets(25, 25, 25, 25));
     }
     
-    private TextField addTextField(final int columnIndex) {
-        final TextField text = new TextField();
-        grid.add(text, columnIndex, rowIndex);
-        return text;
-    }
-    
     private TextField addLabeledInputField(final String name) {
         final Label label = new Label(name);
-        grid.add(label, 0, rowIndex);
-        final TextField text = addTextField(1);
-        rowIndex++;
+        final TextField text = new TextField();
+        rows.add(label, text);
         return text;
     }
     
-    private Button addButton(final String name, final int columnIndex,
+    private Button createButton(final String name, final int columnIndex,
             final EventHandler<ActionEvent> onAction) {
         final Button btn = new Button(name);
         btn.setOnAction(onAction);
-        grid.add(btn, columnIndex, rowIndex);
         return btn;
-    }
-    
-    private TextField addButtonedInputField(final String name,
-            final EventHandler<ActionEvent> onAction) {
-        addButton(name, 0, onAction);
-        final TextField text = addTextField(1);
-        rowIndex++;
-        return text;
-    }
-    
-    private void addDests(final int numDests) {
-        for (int destNum = 0; destNum < numDests; destNum++) {
-            destFields.add(new DestField(destNum + 1));
-        }
     }
     
     private void numDestsError() throws InputError {
@@ -223,29 +201,40 @@ public class SearchScreen implements Screen {
             return;
         }
         
-        if (numDests == 1) {
-            if (destFields.size() == 1) {
-                return; // nothing changes
-            }
-            destFields.remove(0);
-            grid.getChildren().removeAll(destFields);
-            destFields.add(dest);
-        }
-        
         if (numDests < 1 || numDests > 100) {
             numDestsError();
             return;
         }
         
-        final int oldRowIndex = rowIndex;
-        rowIndex = GridPane.getRowIndex(destFields.get(0).address);
-        final int numRowsAfterDests = oldRowIndex - rowIndex;
+        if (numDests == destFields.size()) {
+            return; // nothing changes
+        }
         
-        grid.getChildren().remove(dest);
-        destFields.clear();
-        addDests(numDests);
+        final int numToRemove = destFields.size() - numDests;
+        if (numToRemove > 0) {
+            final int fromRowIndex = GridPane
+                    .getRowIndex(destFields.get(destFields.size() - numToRemove).address);
+            rows.removeRange(fromRowIndex, fromRowIndex + numToRemove);
+            if (destFields.size() == 1) {
+                destFields.set(0, dest);
+                rows.add(fromRowIndex, dest.toNodeArray());
+            }
+            return;
+        }
         
-        rowIndex += numRowsAfterDests;
+        final DestField lastDest = destFields.get(destFields.size() - 1);
+        final int lastDestNum = lastDest.destNum;
+        final int fromRowIndex = GridPane.getRowIndex(lastDest.address);
+        int numToAdd = -numToRemove;
+        if (destFields.size() == 1) {
+            destFields.remove(0);
+            numToAdd++;
+        }
+        final List<Node[]> destFieldsToAdd = new ArrayList<>(numToAdd);
+        for (int i = 0; i < numToAdd; i++) {
+            destFieldsToAdd.add(new DestField(i + lastDestNum).toNodeArray());
+        }
+        rows.addAll(fromRowIndex, destFieldsToAdd);
     }
     
     private void makeMoreDests() {
@@ -349,9 +338,7 @@ public class SearchScreen implements Screen {
     private WholeNumberField addWholeNumberField(final String name, final long max) {
         final Label label = new Label(name);
         final WholeNumberField input = new WholeNumberField(max);
-        grid.add(label, 0, rowIndex);
-        grid.add(input, 1, rowIndex);
-        rowIndex++;
+        rows.add(label, input);
         return input;
     }
     
@@ -363,25 +350,20 @@ public class SearchScreen implements Screen {
         setupGrid();
         
         origin = addLabeledInputField("Origin");
-        rowIndex++;
         
-//        startDate = addLabeledInputField("Start Date");
-//        rowIndex++;
+        //        startDate = addLabeledInputField("Start Date");
+        //        rowIndex++;
         final Label startDateLabel = new Label("Start Date");
         startDate = new DatePicker(LocalDate.now());
-        grid.add(startDateLabel, 0, rowIndex);
-        grid.add(startDate, 1, rowIndex);
-        rowIndex++;
+        rows.add(startDateLabel, startDate);
         
         dest = new DestField(0);
-        rowIndex++;
+        dest.addToGrid();
         
         final Button moreDestsBtn = new Button("Number of Destinations");
         moreDestsBtn.setOnAction(event -> makeMoreDests());
         numDests = new WholeNumberField(23);
-        grid.add(moreDestsBtn, 0, rowIndex);
-        grid.add(numDests, 1, rowIndex);
-        rowIndex++;
+        rows.add(moreDestsBtn, numDests);
         
         //numDests = addButtonedInputField("Number of Destinations", event -> makeMoreDests());
         
@@ -389,10 +371,11 @@ public class SearchScreen implements Screen {
         
         budget = addWholeNumberField("Budget");
         
-        searchBtn = addButton("Search", 0, event -> search());
-        rowIndex++;
+        searchBtn = createButton("Search", 0, event -> search());
+        rows.add(searchBtn);
         
-        backBtn = addButton("Back", 0, event -> QuickTrip.SCREENS.load(WelcomeScreen.class));
+        backBtn = createButton("Back", 0, event -> QuickTrip.SCREENS.load(WelcomeScreen.class));
+        rows.add(backBtn);
     }
     
     @Override

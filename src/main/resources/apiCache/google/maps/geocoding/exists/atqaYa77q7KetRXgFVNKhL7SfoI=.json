@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bronx",
+               "short_name" : "Bronx",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bronx, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.9175771,
+                  "lng" : -73.74806
+               },
+               "southwest" : {
+                  "lat" : 40.7857429,
+                  "lng" : -73.933808
+               }
+            },
+            "location" : {
+               "lat" : 40.8447819,
+               "lng" : -73.8648268
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9175771,
+                  "lng" : -73.74806
+               },
+               "southwest" : {
+                  "lat" : 40.7857429,
+                  "lng" : -73.933808
+               }
+            }
+         },
+         "place_id" : "ChIJsXxpOlWLwokRd1zxj6dDblU",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      }
+   ],
+   "status" : "OK"
+}

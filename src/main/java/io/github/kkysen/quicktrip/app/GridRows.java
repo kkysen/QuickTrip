@@ -5,6 +5,7 @@ import java.util.Arrays;
 import java.util.Collection;
 import java.util.Iterator;
 import java.util.List;
+import java.util.stream.Collectors;
 
 import javafx.collections.ObservableList;
 import javafx.scene.Node;
@@ -27,8 +28,18 @@ public class GridRows {
     }
     
     private void addGridRow(final int rowIndex, final Node... children) {
-        System.out.println(rowIndex + ": " + Arrays.toString(children));
-        grid.addRow(rowIndex, children);
+//        System.out.println(rowIndex + ": " + Arrays.toString(children));
+        //remove(children);
+//        for (final Node child : children) {
+//            child.setOnMouseClicked(event -> {
+//                System.out.println("\n" + child + "\n");
+//                rows.forEach(nodes -> System.out.println(Arrays.toString(nodes)));
+//            });
+//        }
+        //grid.addRow(rowIndex, children);
+        for (int i = 0; i < children.length; i++) {
+            grid.add(children[i], i, rowIndex);
+        }
     }
     
     public void add(final Node... children) {
@@ -45,7 +56,7 @@ public class GridRows {
     public void addAll(final int index, final Collection<Node[]> nodeColl) {
         final int shift = nodeColl.size();
         final int end = index + shift;
-        for (int i = end - 1; i >= index; i--) {
+        for (int i = index; i < end; i++) {
             final Node[] children = rows.get(i);
             remove(children);
             addGridRow(i + shift, children);
@@ -61,9 +72,6 @@ public class GridRows {
     public List<Node[]> removeRange(final int from, final int to) {
         final List<Node[]> removed = rows.subList(from, to);
         removed.forEach(this::remove);
-        for (int i = from; i < to; i++) {
-            addGridRow(i - from, rows.get(i));
-        }
         size -= to - from;
         final List<Node[]> removedCopy = new ArrayList<>(removed);
         removed.clear();
@@ -92,6 +100,17 @@ public class GridRows {
             return children;
         }
         return removeRange(rowIndex, rowIndex + 1).get(0);
+    }
+    
+    public void clear() {
+        childList.clear();
+        rows.clear();
+        size = 0;
+    }
+    
+    @Override
+    public String toString() {
+        return rows.parallelStream().map(Arrays::toString).collect(Collectors.joining("\n"));
     }
     
 }

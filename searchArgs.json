@@ -1,1 +1,1 @@
-{"origin":"Brooklyn","date":"","destinations":[{"address":"Manhattan","numDays":5}],"budget":500,"numPeople":5}
+{"origin":"Brooklyn","date":"2016-12-27","destinations":[{"address":"Manhattan","numDays":2},{"address":"Queens","numDays":3},{"address":"Staten Island","numDays":4},{"address":"The Bronx","numDays":5},{"address":"Boston","numDays":6}],"budget":500,"numPeople":5}

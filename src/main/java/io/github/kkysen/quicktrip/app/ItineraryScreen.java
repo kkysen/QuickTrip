@@ -2,6 +2,7 @@ package io.github.kkysen.quicktrip.app;
 
 import io.github.kkysen.quicktrip.apis.google.maps.directions.order.WaypointOrderRequest;
 import io.github.kkysen.quicktrip.io.MyFiles;
+import io.github.kkysen.quicktrip.optimization.simulatedAnnealing.SimulatedAnnealer;
 
 import java.io.IOException;
 import java.nio.file.Paths;
@@ -23,8 +24,11 @@ public class ItineraryScreen implements Screen {
     
     private SearchArgs searchArgs;
     
+    private int numPeople;
+    private int budget;
     private LocalDate startDate;
     private List<Destination> destinations;
+    private List<Hotel> hotels;
     
     private SearchArgs deserializeSearchArgs() {
         String json;
@@ -40,54 +44,41 @@ public class ItineraryScreen implements Screen {
         
     }
     
-    private class Destination {
-        
-        private final String address;
-        private final int numDays;
-        private final LocalDate startDate;
-        private final LocalDate endDate;
-        
-        public Destination(final io.github.kkysen.quicktrip.app.Destination noDateDest,
-                final LocalDate startDate, final LocalDate endDate) {
-            address = noDateDest.getAddress();
-            numDays = noDateDest.getNumDays();
-            this.startDate = startDate;
-            this.endDate = endDate;
-        }
-        
-        public List<Hotel> possibleHotels() {
-            
-        }
-        
-    }
-    
     private List<Destination> orderDestinations() {
-        List<io.github.kkysen.quicktrip.app.Destination> orderedDestinations;
+        List<NoDateDestination> orderedDestinations;
         try {
             orderedDestinations = WaypointOrderRequest.orderedDestinations(
                     searchArgs.getOrigin(),
                     searchArgs.getDestinations(),
-                    io.github.kkysen.quicktrip.app.Destination::getAddress);
+                    NoDateDestination::getAddress);
         } catch (final IOException e) {
             throw new RuntimeException(e);
         }
         final List<Destination> dests = new ArrayList<>(orderedDestinations.size());
         int numDaysSinceStart = 0;
-        for (final io.github.kkysen.quicktrip.app.Destination noDateDest : orderedDestinations) {
+        for (final NoDateDestination noDateDest : orderedDestinations) {
             final LocalDate startDate = this.startDate.plusDays(numDaysSinceStart);
             numDaysSinceStart += noDateDest.getNumDays();
             final LocalDate endDate = this.startDate.plusDays(numDaysSinceStart);
-            dests.add(new Destination(noDateDest, startDate, endDate));
+            dests.add(new Destination(noDateDest, startDate, endDate, numPeople));
         }
         return dests;
     }
     
+    private List<Hotel> getOptimalHotels() {
+        final Hotels hotels = new Hotels(destinations, budget);
+        final SimulatedAnnealer<Hotels> annealer = new SimulatedAnnealer<>(hotels); // FIXME add tuning args
+        annealer.search(); // FIXME add numIters
+        return annealer.getMinState().getHotels();
+    }
+    
     public void load() {
         searchArgs = deserializeSearchArgs();
-        
+        numPeople = searchArgs.getNumPeople();
+        budget = searchArgs.getBudget();
         startDate = searchArgs.getDate();
-        
         destinations = orderDestinations();
+        hotels = getOptimalHotels();
     }
     
     @Override

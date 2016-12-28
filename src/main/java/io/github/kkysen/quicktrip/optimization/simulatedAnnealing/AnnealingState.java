@@ -7,7 +7,7 @@ package io.github.kkysen.quicktrip.optimization.simulatedAnnealing;
  */
 public interface AnnealingState extends Cloneable {
     
-    public void step();
+    public void perturb();
     
     public void undo();
     

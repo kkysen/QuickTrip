@@ -83,7 +83,7 @@ public class SearchScreen implements Screen {
         public DestField(final int destNum) {
             this.destNum = destNum;
             
-            String labelText = "Destination";
+            String labelText = "NoDateDestination";
             // if destNum = 0, don't add destNum to label
             if (destNum != 0) {
                 labelText += " " + destNum;
@@ -155,10 +155,10 @@ public class SearchScreen implements Screen {
          * 
          * @see #validate()
          * 
-         * @return Json Pojo Destination for serialization
+         * @return Json Pojo NoDateDestination for serialization
          */
-        public Destination serialize() {
-            return new Destination(address.getText(), Integer.parseInt(numDays.getText()));
+        public NoDateDestination serialize() {
+            return new NoDateDestination(address.getText(), Integer.parseInt(numDays.getText()));
         }
 
         @Override
@@ -292,11 +292,11 @@ public class SearchScreen implements Screen {
         return startDate.getValue();
     }
     
-    private List<Destination> serializeDests() throws InputError {
+    private List<NoDateDestination> serializeDests() throws InputError {
         for (final DestField destField : destFields) {
             destField.validate();
         }
-        final List<Destination> serializedDests = new ArrayList<>();
+        final List<NoDateDestination> serializedDests = new ArrayList<>();
         destFields.forEach(dest -> serializedDests.add(dest.serialize()));
         return serializedDests;
     }
@@ -342,7 +342,7 @@ public class SearchScreen implements Screen {
     private void serializeSearchArgs() throws InputError {
         final String origin = serializeOrigin();
         final LocalDate startDate = serializeStartDate();
-        final List<Destination> dests = serializeDests();
+        final List<NoDateDestination> dests = serializeDests();
         final int numPeople = serializeNumPeople();
         final int budget = serializeBudget();
         final SearchArgs searchArgs = new SearchArgs(origin, startDate, dests, budget, numPeople);

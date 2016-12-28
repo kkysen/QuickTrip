@@ -2,23 +2,25 @@ package io.github.kkysen.quicktrip.optimization.simulatedAnnealing;
 
 import java.util.Random;
 
+import lombok.Getter;
+
 /**
  * 
  * 
  * @author Khyber Sen
  */
-public class SimulatedAnnealer {
+public class SimulatedAnnealer<T extends AnnealingState> {
     
     private static Random random = new Random();
     private final AnnealingState state;
     private double energy;
     public AnnealingState minState;
-    public double minEnergy;
+    public @Getter double minEnergy;
     private double nextEnergy;
     private double temperature;
     private final double decayRate;
     
-    public SimulatedAnnealer(final AnnealingState initState, final double initTemp, final double decayRate) {
+    public SimulatedAnnealer(final T initState, final double initTemp, final double decayRate) {
         state = initState;
         energy = initState.energy();
         minState = state.clone();
@@ -27,7 +29,7 @@ public class SimulatedAnnealer {
         this.decayRate = decayRate;
     }
     
-    public SimulatedAnnealer(final AnnealingState initState) {
+    public SimulatedAnnealer(final T initState) {
         this(initState, 1, .99999);
     }
     
@@ -35,10 +37,10 @@ public class SimulatedAnnealer {
         return random.nextDouble() < Math.exp((energy - nextEnergy) / temperature);
     }
     
-    public SimulatedAnnealer search(final int numIters) {
+    public SimulatedAnnealer<T> search(final int numIters) {
         for (int i = 0; i < numIters; i++) {
             //if (i % 100000 == 0) {System.out.println(minEnergy + "\t" + energy);
-            state.step();
+            state.perturb();
             nextEnergy = state.energy();
             if (nextEnergy <= energy || metropolis()) {
                 energy = nextEnergy;
@@ -54,7 +56,7 @@ public class SimulatedAnnealer {
         return this;
     }
     
-    public SimulatedAnnealer search() {
+    public SimulatedAnnealer<T> search() {
         return search(1000000);
     }
     
@@ -63,8 +65,13 @@ public class SimulatedAnnealer {
         return "SimulatedAnnealer [minState=" + minState + ", minEnergy=" + minEnergy + "]";
     }
 
-    public SimulatedAnnealer search(final int base, final int index) {
+    public SimulatedAnnealer<T> search(final int base, final int index) {
         return search((int) Math.pow(base, index));
+    }
+    
+    @SuppressWarnings("unchecked")
+    public T getMinState() {
+        return (T) minState;
     }
     
     public static void main(final String[] args) {

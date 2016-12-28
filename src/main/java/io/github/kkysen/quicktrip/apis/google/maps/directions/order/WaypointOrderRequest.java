@@ -20,7 +20,7 @@ import lombok.RequiredArgsConstructor;
  * 
  * 
  * @author Khyber Sen
- * @param <E> Destination class containing the String address
+ * @param <E> NoDateDestination class containing the String address
  */
 @RequiredArgsConstructor
 public class WaypointOrderRequest<E> extends GoogleMapsApiRequest<WaypointOrderOnlyDirections> {

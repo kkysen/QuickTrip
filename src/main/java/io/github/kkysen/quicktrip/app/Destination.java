@@ -3,6 +3,9 @@ package io.github.kkysen.quicktrip.app;
 import java.time.LocalDate;
 import java.util.List;
 
+import lombok.Getter;
+
+@Getter
 public class Destination {
     
     private final String address;

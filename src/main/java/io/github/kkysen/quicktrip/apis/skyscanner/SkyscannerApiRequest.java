@@ -1,6 +1,6 @@
 package io.github.kkysen.quicktrip.apis.skyscanner;
 
-import io.github.kkysen.quicktrip.apis.JsonApiRequest;
+import io.github.kkysen.quicktrip.apis.JsonRequest;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -11,7 +11,7 @@ import java.util.List;
  * 
  * @author Khyber Sen
  */
-public abstract class SkyscannerApiRequest<R> extends JsonApiRequest<R> {
+public abstract class SkyscannerApiRequest<R> extends JsonRequest<R> {
     
     // FIXME not sure if API key is different for flights, hotels, etc. or just one key for everything
     //private static final String API_KEY = "st671638446256855850209861703997";

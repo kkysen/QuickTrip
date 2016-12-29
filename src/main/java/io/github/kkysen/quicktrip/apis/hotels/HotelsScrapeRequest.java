@@ -12,6 +12,7 @@ import java.util.stream.Collectors;
 
 import org.jsoup.nodes.Document;
 
+import lombok.AccessLevel;
 import lombok.RequiredArgsConstructor;
 
 /**
@@ -19,8 +20,8 @@ import lombok.RequiredArgsConstructor;
  * 
  * @author Khyber Sen
  */
-@RequiredArgsConstructor
-public class HotelsScrapeRequest extends RenderedHtmlRequest<List<Hotel>> {
+@RequiredArgsConstructor(access = AccessLevel.PRIVATE)
+public class HotelsScrapeRequest extends RenderedHtmlRequest<List<io.github.kkysen.quicktrip.app.Hotel>> {
     
     private static final String BASE_URL = "https://www.hotels.com/search.do";
     
@@ -72,8 +73,10 @@ public class HotelsScrapeRequest extends RenderedHtmlRequest<List<Hotel>> {
     
     @SuppressWarnings("unchecked")
     @Override
-    protected Class<? extends List<Hotel>> getPojoClass() {
-        return (Class<List<Hotel>>) (Class<?>) List.class;
+    protected Class<? extends List<io.github.kkysen.quicktrip.app.Hotel>> getPojoClass() {
+        return (Class<? extends List<io.github.kkysen.quicktrip.app.Hotel>>) (Class<?>) List.class;
+        // FIXME not sure if this works
+        //return (Class<? extends List<io.github.kkysen.quicktrip.app.Hotel>>) new TypeToken<List<Hotel>>(){}.getRawType();
     }
     
     @Override
@@ -87,7 +90,7 @@ public class HotelsScrapeRequest extends RenderedHtmlRequest<List<Hotel>> {
     }
     
     @Override
-    protected List<Hotel> parseHtml(final Document doc) {
+    protected List<io.github.kkysen.quicktrip.app.Hotel> parseHtml(final Document doc) {
         return doc.getElementsByClass("hotel-wrap")
                 .parallelStream()
                 .map(Hotel::new)

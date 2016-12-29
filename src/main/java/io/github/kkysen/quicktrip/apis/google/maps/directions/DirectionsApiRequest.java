@@ -57,7 +57,7 @@ public class DirectionsApiRequest extends GoogleMapsApiRequest<Directions> {
     
     public static Directions request(final String origin, final String destination, final String mode,
             final String waypoints, final String departureTime, final String arrivalTime) throws IOException {
-        return new DirectionsApiRequest(origin, destination, mode, waypoints, departureTime, arrivalTime).get();
+        return new DirectionsApiRequest(origin, destination, mode, waypoints, departureTime, arrivalTime).getReponse();
     }
     
     public static void main(final String[] args) throws Exception {

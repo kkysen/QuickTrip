@@ -33,7 +33,7 @@ import lombok.RequiredArgsConstructor;
  * 
  * 
  * @author Khyber Sen
- * @param <R> type of POJO representing the API request response, presumably a
+ * @param <R> type of POJO representing the API response response, presumably a
  *            JSON one
  */
 public abstract class ApiRequest<R> {
@@ -252,7 +252,7 @@ public abstract class ApiRequest<R> {
     protected String url;
     
     protected final Class<? extends R> pojoClass;
-    private R request;
+    private R response;
     
     protected String getApiKeyQueryName() {
         return "key";
@@ -357,27 +357,28 @@ public abstract class ApiRequest<R> {
         if (Files.exists(path)) {
             return;
         }
-        MyFiles.write(path, prettify(request));
+        MyFiles.write(path, prettify(response));
     }
     
-    public R get() throws IOException {
+    public R getReponse() throws IOException {
         if (url == null) {
             setQueryAndUrl();
         }
-        if (request == null) {
-            Reader requestReader;
+        if (response == null) {
             if (isCached()) {
-                requestReader = getCachedRequestReader();
+                response = parseFromFile(requestCache.getPath(url));
             } else {
-                requestReader = getHttpRequestReader();
-                requestReader = cache((BufferedReader) requestReader);
-            }
-            request = parseRequest(requestReader);
-            if (shouldCachePrettied) {
-                prettyCache();
+                response = parseFromUrl(url);
+                cache(response);
             }
         }
-        return request;
+        return response;
     }
+    
+    protected abstract parseFromFile(Path path);
+    
+    protected abstract parseFromUrl(String url);
+    
+    protected abstract cache(R response);
     
 }

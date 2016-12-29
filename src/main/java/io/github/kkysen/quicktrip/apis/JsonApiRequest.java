@@ -22,7 +22,7 @@ public abstract class JsonApiRequest<R> extends ApiRequest<R> {
     private static final Gson prettyGson = new GsonBuilder().setPrettyPrinting().create();
     
     @Override
-    protected String getFileExtension() {
+    protected final String getFileExtension() {
         return "json";
     }
     

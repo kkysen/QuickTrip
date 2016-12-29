@@ -15,7 +15,7 @@ public abstract class GoogleApiRequest<R> extends JsonApiRequest<R> {
     private static final String API_KEY = "AIzaSyBrc16mMFU7w8Hyo7nFD6ny5SjeOapkY9Q";
     
     @Override
-    protected String getApiKey() {
+    protected final String getApiKey() {
         return API_KEY;
     }
     

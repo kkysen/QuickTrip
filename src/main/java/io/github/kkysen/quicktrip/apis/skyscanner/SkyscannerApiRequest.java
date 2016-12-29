@@ -34,7 +34,7 @@ public abstract class SkyscannerApiRequest<R> extends JsonApiRequest<R> {
     }
     
     @Override
-    protected String getBaseUrl() {
+    protected final String getBaseUrl() {
         return BASE_URL + String.join("/", getUrlPathParts());
     }
     

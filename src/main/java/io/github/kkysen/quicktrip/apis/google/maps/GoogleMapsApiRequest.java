@@ -9,7 +9,7 @@ public abstract class GoogleMapsApiRequest<R> extends GoogleApiRequest<R> {
     private static final String URL = "https://maps.googleapis.com/maps/api/$REQUEST_TYPE/json";
     
     @Override
-    protected String getBaseUrl() {
+    protected final String getBaseUrl() {
         return URL.replace("$REQUEST_TYPE", getRequestType());
     }
     

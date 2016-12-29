@@ -40,8 +40,8 @@ public class WaypointOrderRequest<E> extends GoogleMapsApiRequest<WaypointOrderO
     }
     
     @Override
-    protected Path getRelativePath() {
-        return super.getRelativePath().resolve("directions").resolve("order");
+    protected Path getRelativeCachePath() {
+        return super.getRelativeCachePath().resolve("directions").resolve("order");
     }
     
     @Override

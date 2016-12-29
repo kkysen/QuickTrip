@@ -51,8 +51,8 @@ public class DirectionsApiRequest extends GoogleMapsApiRequest<Directions> {
     }
     
     @Override
-    protected Path getRelativePath() {
-        return super.getRelativePath().resolve("directions");
+    protected Path getRelativeCachePath() {
+        return super.getRelativeCachePath().resolve("directions");
     }
     
     public static Directions request(final String origin, final String destination, final String mode,

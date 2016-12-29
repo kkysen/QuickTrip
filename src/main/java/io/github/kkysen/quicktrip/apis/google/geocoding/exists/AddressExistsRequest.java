@@ -30,8 +30,8 @@ public class AddressExistsRequest extends GoogleMapsApiRequest<AddressExistsOnly
     }
     
     @Override
-    protected Path getRelativePath() {
-        return super.getRelativePath().resolve("geocoding").resolve("exists");
+    protected Path getRelativeCachePath() {
+        return super.getRelativeCachePath().resolve("geocoding").resolve("exists");
     }
     
     public static boolean exists(final String address) throws IOException {

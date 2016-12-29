@@ -23,7 +23,7 @@ public abstract class SkyscannerApiRequest<R> extends JsonRequest<R> {
     
     // should be overriden
     @Override
-    protected Path getRelativePath() {
+    protected Path getRelativeCachePath() {
         return Paths.get("skyscanner");
     }
     

@@ -100,7 +100,7 @@ public abstract class ApiRequest<R> {
             final String url = request.url;
             final String id = hashToBase64(url);
             final String fileName = id + "." + request.getFileExtension();
-            final Path path = Paths.get(CACHE_DIR, request.getRelativePath().toString(), fileName);
+            final Path path = Paths.get(CACHE_DIR, request.getRelativeCachePath().toString(), fileName);
             put(url, id, path);
         }
         
@@ -280,7 +280,7 @@ public abstract class ApiRequest<R> {
      */
     protected void modifyQuery(final Map<String, String> query) {}
     
-    protected abstract Path getRelativePath();
+    protected abstract Path getRelativeCachePath();
     
     protected abstract String getFileExtension();
     

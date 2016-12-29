@@ -15,8 +15,8 @@ public abstract class GoogleMapsApiRequest<R> extends GoogleApiRequest<R> {
     
     // should be overriden
     @Override
-    protected Path getRelativePath() {
-        return super.getRelativePath().resolve("maps");
+    protected Path getRelativeCachePath() {
+        return super.getRelativeCachePath().resolve("maps");
     }
     
     protected abstract String getRequestType();

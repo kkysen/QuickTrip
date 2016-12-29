@@ -24,14 +24,19 @@ public class Destination {
     
     private final List<Hotel> possibleHotels = new ArrayList<>();
     
-    public Destination(final NoDateDestination noDateDest, final LocalDate startDate,
+    private Destination(final String address, final int numDays, final LocalDate startDate,
             final LocalDate endDate, final int numPeople) {
-        address = noDateDest.getAddress();
-        numDays = noDateDest.getNumDays();
+        this.address = address;
+        this.numDays = numDays;
         this.startDate = startDate;
         this.endDate = endDate;
         this.numPeople = numPeople;
         numRooms = (int) Math.ceil((double) numPeople / numPeoplePerRoom);
+    }
+    
+    public Destination(final NoDateDestination noDateDest, final LocalDate startDate,
+            final LocalDate endDate, final int numPeople) {
+        this(noDateDest.getAddress(), noDateDest.getNumDays(), startDate, endDate, numPeople);
     }
     
     private void addHotelsRequest(final ApiRequest<List<Hotel>> request) {

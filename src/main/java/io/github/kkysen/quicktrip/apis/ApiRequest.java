@@ -21,6 +21,7 @@ import java.util.Set;
 import java.util.StringJoiner;
 import java.util.concurrent.ConcurrentHashMap;
 
+import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 
@@ -227,7 +228,7 @@ public abstract class ApiRequest<R> {
     
     private final Map<String, String> query = new QueryEncoder();
     
-    private @Getter String url;
+    private @Getter(AccessLevel.PROTECTED) String url;
     
     protected final Class<? extends R> pojoClass;
     private R response;

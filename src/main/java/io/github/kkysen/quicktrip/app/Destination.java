@@ -1,6 +1,11 @@
 package io.github.kkysen.quicktrip.app;
 
+import io.github.kkysen.quicktrip.apis.ApiRequest;
+import io.github.kkysen.quicktrip.apis.hotels.HotelsScrapeRequest;
+
+import java.io.IOException;
 import java.time.LocalDate;
+import java.util.ArrayList;
 import java.util.List;
 
 import lombok.Getter;
@@ -17,6 +22,8 @@ public class Destination {
     private final int numPeople;
     private final int numRooms;
     
+    private final List<Hotel> possibleHotels = new ArrayList<>();
+    
     public Destination(final NoDateDestination noDateDest, final LocalDate startDate,
             final LocalDate endDate, final int numPeople) {
         address = noDateDest.getAddress();
@@ -27,8 +34,17 @@ public class Destination {
         numRooms = (int) Math.ceil((double) numPeople / numPeoplePerRoom);
     }
     
+    private void addHotelsRequest(final ApiRequest<List<Hotel>> request) {
+        try {
+            possibleHotels.addAll(request.getReponse());
+        } catch (final IOException e) {
+            // don't add any hotels
+        }
+    }
+    
     public List<Hotel> possibleHotels() {
-        return null; // FIXME
+        addHotelsRequest(new HotelsScrapeRequest(this));
+        return possibleHotels;
     }
     
 }

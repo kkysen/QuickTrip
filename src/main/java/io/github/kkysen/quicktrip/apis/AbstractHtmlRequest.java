@@ -20,4 +20,20 @@ public abstract class AbstractHtmlRequest<R> extends AbstractJsonRequest<R> {
     
     protected abstract R parseHtml(final Document doc);
     
+    /**
+     * not used
+     */
+    @Override
+    protected final String getApiKey() {
+        return "";
+    }
+    
+    /**
+     * not used
+     */
+    @Override
+    protected final String getApiKeyQueryName() {
+        return super.getApiKeyQueryName();
+    }
+    
 }

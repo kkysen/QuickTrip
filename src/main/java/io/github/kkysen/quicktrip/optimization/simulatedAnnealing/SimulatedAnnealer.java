@@ -73,11 +73,4 @@ public class SimulatedAnnealer<T extends AnnealingState> {
         return (T) minState;
     }
     
-    public static void main(final String[] args) {
-        //        final SimulatedAnnealer annealer = new SimulatedAnnealer(new Rastrigin(1000, 1000));
-        //        for (int i = 0; i < 10; i++) {
-        //            System.out.println(annealer.search());
-        //        }
-    }
-    
 }

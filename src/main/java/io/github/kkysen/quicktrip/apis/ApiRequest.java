@@ -365,20 +365,21 @@ public abstract class ApiRequest<R> {
             setQueryAndUrl();
         }
         if (response == null) {
+            final Path cachePath = requestCache.getPath(url);
             if (isCached()) {
-                response = parseFromFile(requestCache.getPath(url));
+                response = parseFromFile(cachePath);
             } else {
                 response = parseFromUrl(url);
-                cache(response);
+                cache(cachePath, response);
             }
         }
         return response;
     }
     
-    protected abstract parseFromFile(Path path);
+    protected abstract R parseFromFile(Path path) throws IOException;
     
-    protected abstract parseFromUrl(String url);
+    protected abstract R parseFromUrl(String url) throws IOException;
     
-    protected abstract cache(R response);
+    protected abstract void cache(Path path, R response) throws IOException;
     
 }

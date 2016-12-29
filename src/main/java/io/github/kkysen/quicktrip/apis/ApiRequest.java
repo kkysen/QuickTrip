@@ -4,16 +4,11 @@ import io.github.kkysen.quicktrip.Constants;
 import io.github.kkysen.quicktrip.io.MyFiles;
 import io.github.kkysen.quicktrip.reflect.Reflect;
 import io.github.kkysen.quicktrip.reflect.annotations.AnnotationUtils;
-import io.github.kkysen.quicktrip.web.Internet;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.Reader;
 import java.io.UnsupportedEncodingException;
 import java.lang.reflect.Field;
 import java.net.URLEncoder;
-import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.security.MessageDigest;
@@ -37,9 +32,7 @@ import lombok.RequiredArgsConstructor;
  *            JSON one
  */
 public abstract class ApiRequest<R> {
-    
-    private static final boolean SHOULD_CACHE_PRETTIED = true;
-    
+        
     private static final String CACHE_DIR = "src/main/resources/apiCache/";
     private static final String PRETTY_CACHE_DIR = CACHE_DIR + "prettied/";
     
@@ -129,18 +122,6 @@ public abstract class ApiRequest<R> {
                 final String url = idOrUrl;
                 return id2path.get(url2id.get(url));
             }
-        }
-        
-        /**
-         * @param idOrUrl id or url of ApiRequest
-         * @return the prettied (formatted) path of the API response. If the
-         *         prettied response was never cached, which is possible, then
-         *         the prettied path doesn't exist, so null is returned.
-         */
-        public Path getPrettyPath(final String idOrUrl) {
-            final String path = getPath(idOrUrl).toString();
-            final String relativePath = path.substring(CACHE_DIR.length());
-            return Paths.get(PRETTY_CACHE_DIR, relativePath);
         }
         
         public String getId(final String url) {
@@ -241,9 +222,7 @@ public abstract class ApiRequest<R> {
         // will save cache on exit as long as JVM shuts down w/o internal JVM error
         Runtime.getRuntime().addShutdownHook(SAVE_ON_EXIT);
     }
-    
-    private final boolean shouldCachePrettied = SHOULD_CACHE_PRETTIED;
-    
+        
     private final String apiKey;
     private final String baseUrl;
     
@@ -326,39 +305,15 @@ public abstract class ApiRequest<R> {
         modifyQuery(query);
         url = baseUrl + query.toString();
     }
-    
-    protected abstract R parseRequest(Reader reader);
-    
-    protected abstract String prettify(R request);
-    
-    protected BufferedReader getHttpRequestReader() throws IOException {
-        return new BufferedReader(Internet.getInputStreamReader(url));
-    }
-    
-    private InputStreamReader getCachedRequestReader() throws IOException {
-        return new InputStreamReader(Files.newInputStream(requestCache.getPath(url)));
-    }
-    
     private boolean isCached() {
         return requestCache.containsUrl(url);
     }
     
-    private BufferedReader cache(final BufferedReader reader) throws IOException {
-        requestCache.put(this);
-        final Path path = requestCache.getPath(url);
-        //Files.createFile(path);
-        MyFiles.write(path, reader);
-        return Files.newBufferedReader(path, Constants.CHARSET);
-    }
+    protected abstract R parseFromFile(Path path) throws IOException;
     
-    private void prettyCache() throws IOException {
-        requestCache.put(this); // in case normal cache not called yet
-        final Path path = requestCache.getPrettyPath(url);
-        if (Files.exists(path)) {
-            return;
-        }
-        MyFiles.write(path, prettify(response));
-    }
+    protected abstract R parseFromUrl(String url) throws IOException;
+    
+    protected abstract void cache(Path path, R response) throws IOException;
     
     public R getReponse() throws IOException {
         if (url == null) {
@@ -375,11 +330,5 @@ public abstract class ApiRequest<R> {
         }
         return response;
     }
-    
-    protected abstract R parseFromFile(Path path) throws IOException;
-    
-    protected abstract R parseFromUrl(String url) throws IOException;
-    
-    protected abstract void cache(Path path, R response) throws IOException;
     
 }

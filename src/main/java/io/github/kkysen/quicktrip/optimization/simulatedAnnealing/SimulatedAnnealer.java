@@ -37,7 +37,7 @@ public class SimulatedAnnealer<T extends AnnealingState> {
         return random.nextDouble() < Math.exp((energy - nextEnergy) / temperature);
     }
     
-    public SimulatedAnnealer<T> search(final int numIters) {
+    public void search(final int numIters) {
         for (int i = 0; i < numIters; i++) {
             //if (i % 100000 == 0) {System.out.println(minEnergy + "\t" + energy);
             state.perturb();
@@ -53,20 +53,19 @@ public class SimulatedAnnealer<T extends AnnealingState> {
             }
             temperature *= decayRate;
         }
-        return this;
     }
     
-    public SimulatedAnnealer<T> search() {
-        return search(1000000);
+    public void search() {
+        search(1000000);
     }
     
     @Override
     public String toString() {
         return "SimulatedAnnealer [minState=" + minState + ", minEnergy=" + minEnergy + "]";
     }
-
-    public SimulatedAnnealer<T> search(final int base, final int index) {
-        return search((int) Math.pow(base, index));
+    
+    public void search(final int base, final int index) {
+        search((int) Math.pow(base, index));
     }
     
     @SuppressWarnings("unchecked")
@@ -75,10 +74,10 @@ public class SimulatedAnnealer<T extends AnnealingState> {
     }
     
     public static void main(final String[] args) {
-//        final SimulatedAnnealer annealer = new SimulatedAnnealer(new Rastrigin(1000, 1000));
-//        for (int i = 0; i < 10; i++) {
-//            System.out.println(annealer.search());
-//        }
+        //        final SimulatedAnnealer annealer = new SimulatedAnnealer(new Rastrigin(1000, 1000));
+        //        for (int i = 0; i < 10; i++) {
+        //            System.out.println(annealer.search());
+        //        }
     }
     
 }

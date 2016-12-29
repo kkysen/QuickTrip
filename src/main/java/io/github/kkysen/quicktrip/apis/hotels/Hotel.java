@@ -2,12 +2,15 @@ package io.github.kkysen.quicktrip.apis.hotels;
 
 import org.jsoup.nodes.Element;
 
+import lombok.Getter;
+
 /**
  * 
  * 
  * @author Khyber Sen
  */
-public class Hotel {
+@Getter
+public class Hotel implements io.github.kkysen.quicktrip.app.Hotel {
     
     private final int price;
     private final String name;

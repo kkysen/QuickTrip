@@ -61,7 +61,7 @@ public class WaypointOrderRequest<E> extends GoogleMapsApiRequest<WaypointOrderO
     private List<Integer> destinationOrder() throws IOException {
         final WaypointOrderOnlyDirections response = getReponse();
         if (response == null) {
-            throw new GoogleMapsDirectionsException(url);
+            throw new GoogleMapsDirectionsException(getUrl());
         }
         return response.waypointOrder();
     }

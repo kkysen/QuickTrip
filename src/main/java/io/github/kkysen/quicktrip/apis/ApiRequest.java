@@ -34,7 +34,6 @@ import lombok.RequiredArgsConstructor;
 public abstract class ApiRequest<R> {
         
     private static final String CACHE_DIR = "src/main/resources/apiCache/";
-    private static final String PRETTY_CACHE_DIR = CACHE_DIR + "prettied/";
     
     public static final class RequestCache {
         
@@ -228,7 +227,7 @@ public abstract class ApiRequest<R> {
     
     private final Map<String, String> query = new QueryEncoder();
     
-    protected String url;
+    private @Getter String url;
     
     protected final Class<? extends R> pojoClass;
     private R response;
@@ -315,7 +314,7 @@ public abstract class ApiRequest<R> {
     
     protected abstract void cache(Path path, R response) throws IOException;
     
-    public R getReponse() throws IOException {
+    public final R getReponse() throws IOException {
         if (url == null) {
             setQueryAndUrl();
         }

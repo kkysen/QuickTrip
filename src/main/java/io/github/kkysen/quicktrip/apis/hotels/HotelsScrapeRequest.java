@@ -54,7 +54,7 @@ public class HotelsScrapeRequest extends RenderedHtmlRequest<List<Hotel>> {
             addQuery(room + "children", "0"); // not dealing w/ children yet
         }
         // if odd numPeople, last room should have only 1 adult
-        if ((numRooms & 1) == 1) {
+        if ((numPeople & 1) == 1) {
             addQuery("room-" + (numRooms - 1) + "-adults", "1");
         }
     }

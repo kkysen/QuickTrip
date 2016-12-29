@@ -13,6 +13,8 @@ public class Hotels implements AnnealingState {
     // these never change, so not cloned
     private final int size;
     private final List<List<Hotel>> pools;
+    private final List<Integer> numDays;
+    private final double maxRating;
     private final int budget;
     
     private final List<Hotel> hotels;
@@ -24,9 +26,15 @@ public class Hotels implements AnnealingState {
         this.budget = budget;
         size = dests.size();
         pools = new ArrayList<>(size);
+        numDays = new ArrayList<>(size);
+        int totalDays = 0;
         for (final Destination dest : dests) {
             pools.add(dest.possibleHotels());
+            final int singleNumDays = dest.getNumDays();
+            numDays.add(singleNumDays);
+            totalDays += singleNumDays;
         }
+        maxRating = totalDays * 5;
         hotels = new ArrayList<>(size);
         for (final List<Hotel> pool : pools) {
             hotels.add(pool.get(random.nextInt(pool.size())));
@@ -36,6 +44,8 @@ public class Hotels implements AnnealingState {
     private Hotels(final Hotels other) {
         size = other.size;
         pools = other.pools;
+        numDays = other.numDays;
+        maxRating = other.maxRating;
         budget = other.budget;
         hotels = new ArrayList<>(other.hotels);
         prevHotel = other.prevHotel;
@@ -55,11 +65,39 @@ public class Hotels implements AnnealingState {
         prevHotel = null; // free mem
     }
     
+    private int totalPrice() {
+        int totalPrice = 0;
+        for (int i = 0; i < size; i++) {
+            totalPrice += hotels.get(i).getPrice() * numDays.get(i);
+        }
+        return totalPrice;
+    }
+    
+    private double priceEnergy() {
+        double priceDiff = totalPrice() - budget;
+        if (priceDiff > 0) {
+            priceDiff = Math.exp(priceDiff);
+        }
+        return priceDiff;
+    }
+    
+    private double totalRating() {
+        int totalRating = 0;
+        for (int i = 0; i < size; i++) {
+            totalRating += hotels.get(i).getRating() * numDays.get(i);
+        }
+        return totalRating;
+    }
+    
+    private double ratingEnergy() {
+        final double ratingDiff = totalRating() - maxRating;
+        return - Math.exp(- ratingDiff);
+    }
+    
     @Override
     public double energy() {
-        // TODO Auto-generated method stub
-        return 0;
-        // FIXME
+        return priceEnergy() * ratingEnergy();
+        // FIXME I have no idea if this is good
     }
     
     @Override

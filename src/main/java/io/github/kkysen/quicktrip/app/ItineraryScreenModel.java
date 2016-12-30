@@ -10,25 +10,24 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-import javafx.scene.layout.GridPane;
-import javafx.scene.layout.Pane;
+import lombok.Getter;
 
 /**
  * 
  * 
  * @author Khyber Sen
  */
-public class ItineraryScreen implements Screen {
+public class ItineraryScreenModel {
     
-    private final GridPane grid = new GridPane();
+    private final List<NoDateDestination> noDateDests;
     
-    private SearchArgs searchArgs;
-    
-    private int numPeople;
-    private int budget;
-    private LocalDate startDate;
-    private List<Destination> destinations;
-    private List<Hotel> hotels;
+    private @Getter final int numPeople;
+    private @Getter final int budget;
+    private @Getter final LocalDate startDate;
+    private @Getter final String origin;
+    private @Getter final List<Destination> destinations;
+    private @Getter final List<Hotel> hotels;
+    private @Getter final int cost;
     
     private SearchArgs deserializeSearchArgs() {
         String json;
@@ -40,17 +39,11 @@ public class ItineraryScreen implements Screen {
         return QuickTrip.GSON.fromJson(json, SearchArgs.class);
     }
     
-    public ItineraryScreen() {
-        
-    }
-    
     private List<Destination> orderDestinations() {
         List<NoDateDestination> orderedDestinations;
         try {
-            orderedDestinations = WaypointOrderRequest.orderedDestinations(
-                    searchArgs.getOrigin(),
-                    searchArgs.getDestinations(),
-                    NoDateDestination::getAddress);
+            orderedDestinations = WaypointOrderRequest
+                    .orderedDestinations(origin, noDateDests, NoDateDestination::getAddress);
         } catch (final IOException e) {
             throw new RuntimeException(e);
         }
@@ -65,29 +58,29 @@ public class ItineraryScreen implements Screen {
         return dests;
     }
     
-    private List<Hotel> getOptimalHotels() {
+    private Hotels findOptimalHotels() {
         System.out.println("scraping hotels");
-        final Hotels hotels = new Hotels(destinations, budget);
+        final Hotels originalHotels = new Hotels(destinations, budget);
         System.out.println("annealing");
-        final SimulatedAnnealer<Hotels> annealer = new SimulatedAnnealer<>(hotels); // FIXME add tuning args
+        final SimulatedAnnealer<Hotels> annealer = new SimulatedAnnealer<>(originalHotels); // FIXME add tuning args
         annealer.search(); // FIXME add numIters
-        System.out.println(annealer.getMinState().totalPrice());
-        return annealer.getMinState().getHotels();
+        return annealer.getMinState();
     }
     
-    public void load() {
-        searchArgs = deserializeSearchArgs();
+    public ItineraryScreenModel() {
+        final SearchArgs searchArgs = deserializeSearchArgs();
         numPeople = searchArgs.getNumPeople();
         budget = searchArgs.getBudget();
         startDate = searchArgs.getDate();
+        origin = searchArgs.getOrigin();
+        noDateDests = searchArgs.getDestinations();
+        
         destinations = orderDestinations();
-        hotels = getOptimalHotels();
+        
+        final Hotels optimalHotels = findOptimalHotels();
+        cost = optimalHotels.totalPrice();
+        hotels = optimalHotels.getHotels();
         hotels.forEach(System.out::println);
-    }
-    
-    @Override
-    public Pane getPane() {
-        return grid;
     }
     
 }

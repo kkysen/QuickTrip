@@ -9,6 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import lombok.Getter;
+import lombok.Setter;
 
 @Getter
 public class Destination {
@@ -23,6 +24,8 @@ public class Destination {
     private final int numRooms;
     
     private final List<Hotel> possibleHotels = new ArrayList<>();
+    
+    private @Setter Hotel hotel;
     
     private Destination(final String address, final int numDays, final LocalDate startDate,
             final LocalDate endDate, final int numPeople) {
@@ -47,9 +50,8 @@ public class Destination {
         }
     }
     
-    public List<Hotel> getPossibleHotels() {
+    public void addHotelsHotelsScrapeRequest() {
         addHotelsRequest(new HotelsHotelsScrapeRequest(this));
-        return possibleHotels;
     }
     
     public static void main(final String[] args) {

@@ -2,6 +2,7 @@ package io.github.kkysen.quicktrip.apis.hotels;
 
 import io.github.kkysen.quicktrip.apis.RenderedHtmlRequest;
 import io.github.kkysen.quicktrip.app.Destination;
+import io.github.kkysen.quicktrip.app.Hotel;
 
 import java.lang.reflect.Type;
 import java.nio.file.Path;
@@ -24,7 +25,7 @@ import lombok.RequiredArgsConstructor;
  * @author Khyber Sen
  */
 @RequiredArgsConstructor(access = AccessLevel.PRIVATE)
-public class HotelsScrapeRequest extends RenderedHtmlRequest<List<io.github.kkysen.quicktrip.app.Hotel>> {
+public class HotelsHotelsScrapeRequest extends RenderedHtmlRequest<List<Hotel>> {
     
     private static final String BASE_URL = "https://www.hotels.com/search.do";
     
@@ -36,7 +37,7 @@ public class HotelsScrapeRequest extends RenderedHtmlRequest<List<io.github.kkys
     
     private Map<String, String> query;
     
-    public HotelsScrapeRequest(final Destination dest) {
+    public HotelsHotelsScrapeRequest(final Destination dest) {
         this(
                 dest.getAddress(), 
                 dest.getStartDate(), 
@@ -75,16 +76,16 @@ public class HotelsScrapeRequest extends RenderedHtmlRequest<List<io.github.kkys
     }
     
     @Override
-    protected Class<? extends List<io.github.kkysen.quicktrip.app.Hotel>> getPojoClass() {
+    protected Class<? extends List<Hotel>> getPojoClass() {
         //return (Class<? extends List<io.github.kkysen.quicktrip.app.Hotel>>) (Class<?>) List.class;
-        // FIXME does not work, Hotel generic type unknown
-        //return (Class<? extends List<io.github.kkysen.quicktrip.app.Hotel>>) new TypeToken<List<Hotel>>(){}.getRawType();
+        // FIXME does not work, HotelsHotel generic type unknown
+        //return (Class<? extends List<io.github.kkysen.quicktrip.app.Hotel>>) new TypeToken<List<HotelsHotel>>(){}.getRawType();
         return null;
     }
     
     @Override
     protected Type getPojoType() {
-        return new TypeToken<List<Hotel>>(){}.getType();
+        return new TypeToken<List<HotelsHotel>>(){}.getType();
     }
     
     @Override
@@ -98,12 +99,12 @@ public class HotelsScrapeRequest extends RenderedHtmlRequest<List<io.github.kkys
     }
     
     @Override
-    protected List<io.github.kkysen.quicktrip.app.Hotel> parseHtml(final Document doc) {
+    protected List<Hotel> parseHtml(final Document doc) {
         return doc.getElementsByClass("hotel-wrap")
                 .parallelStream()
                 .map(hotelWrapElem -> {
                     try {
-                        return new Hotel(hotelWrapElem);
+                        return new HotelsHotel(hotelWrapElem);
                     } catch (final MissingHotelInformationException e) {
                         return null;
                     }

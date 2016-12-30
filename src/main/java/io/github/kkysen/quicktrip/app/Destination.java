@@ -1,7 +1,7 @@
 package io.github.kkysen.quicktrip.app;
 
 import io.github.kkysen.quicktrip.apis.ApiRequest;
-import io.github.kkysen.quicktrip.apis.hotels.HotelsScrapeRequest;
+import io.github.kkysen.quicktrip.apis.hotels.HotelsHotelsScrapeRequest;
 
 import java.io.IOException;
 import java.time.LocalDate;
@@ -48,7 +48,7 @@ public class Destination {
     }
     
     public List<Hotel> getPossibleHotels() {
-        addHotelsRequest(new HotelsScrapeRequest(this));
+        addHotelsRequest(new HotelsHotelsScrapeRequest(this));
         return possibleHotels;
     }
     

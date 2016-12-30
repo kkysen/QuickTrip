@@ -1,5 +1,7 @@
 package io.github.kkysen.quicktrip.apis.hotels;
 
+import io.github.kkysen.quicktrip.app.Hotel;
+
 import org.jsoup.nodes.Element;
 
 import lombok.Getter;
@@ -10,7 +12,7 @@ import lombok.Getter;
  * @author Khyber Sen
  */
 @Getter
-public class Hotel implements io.github.kkysen.quicktrip.app.Hotel {
+public class HotelsHotel implements Hotel {
     
     private final int price;
     private final String name;
@@ -58,7 +60,7 @@ public class Hotel implements io.github.kkysen.quicktrip.app.Hotel {
         return style.substring(22, style.length() - 3);
     }
     
-    public Hotel(final Element hotelWrap) throws MissingHotelInformationException {
+    public HotelsHotel(final Element hotelWrap) throws MissingHotelInformationException {
         try {
             price = parsePrice(hotelWrap);
             final Element descriptionHCardRespModule = //
@@ -78,7 +80,7 @@ public class Hotel implements io.github.kkysen.quicktrip.app.Hotel {
     
     @Override
     public String toString() {
-        return "Hotel [price=" + price + ", name=" + name + ", address=" + address + ", distance="
+        return "HotelsHotel [price=" + price + ", name=" + name + ", address=" + address + ", distance="
                 + distance + ", rating=" + rating + ", imgUrl=" + imgUrl + "]";
     }
     

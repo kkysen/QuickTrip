@@ -8,10 +8,15 @@ import java.util.ArrayList;
 import java.util.Currency;
 import java.util.List;
 
+/**
+ * 
+ * 
+ * @author Stanley Lin
+ */
 public class HotelPricesApiRequest extends SkyscannerApiRequest<HotelResponse> {
     
     private final String mMarket;
-    private final Currency mCurrency;
+    private final String mCurrency;
     private final String mLocale;
     private final String mEntityId;	//Note: can use lat long w/ this
     private final ZonedDateTime mCheckIn;
@@ -19,10 +24,14 @@ public class HotelPricesApiRequest extends SkyscannerApiRequest<HotelResponse> {
     private final int mGuests;
     private final int mRooms;
     
-    public HotelPricesApiRequest(final String mMarket, final String mCurrency, final String mLocale, final String mEntityId,
+    /*
+     *Currency.getInstance(Locale.US).getCurrencyCode() 
+     * 
+     * */
+    public HotelPricesApiRequest(final String mMarket, final Currency mCurrency, final String mLocale, final String mEntityId,
             final ZonedDateTime mCheckIn, final ZonedDateTime mCheckOut, final int mGuests, final int mRooms) {
         this.mMarket = mMarket;
-        this.mCurrency = mCurrency;
+        this.mCurrency = mCurrency.getCurrencyCode();
         this.mLocale = mLocale;
         this.mEntityId = mEntityId;
         this.mCheckIn = mCheckIn;

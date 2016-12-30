@@ -20,13 +20,10 @@ public class Hotel implements io.github.kkysen.quicktrip.app.Hotel {
     private final String imgUrl;
     
     private static int parsePrice(final Element hotelWrap) {
-        return hotelWrap
-                .getElementsByClass("pricing-resp-module")
-                .get(0)
-                .text()
-                .chars()
-                .filter(Character::isDigit)
-                .reduce(0, (a, b) -> a * 10 + b);
+        final String priceStr = hotelWrap.getElementsByClass("pricing").get(0)
+                .getElementsByClass("price").get(0).text();
+        final String[] prices = priceStr.split("\\p{Sc}"); // split on any currency symbol
+        return Integer.parseInt(prices[prices.length - 1]);
     }
     
     private static String parseName(final Element descriptionHCardRespModule) {
@@ -39,7 +36,7 @@ public class Hotel implements io.github.kkysen.quicktrip.app.Hotel {
     
     private static double parseDistance(final Element detailsRespModule) {
         final Element locationInfoRespModuleDistanceSortApplied = detailsRespModule
-                .getElementsByClass("location-info resp-module distance-sort-applied").get(0);
+                .getElementsByClass("location-info").get(0);
         final String distanceStr = //
                 locationInfoRespModuleDistanceSortApplied.getElementsByTag("ul").get(0).text();
         final int endIndex = distanceStr.indexOf(" miles");
@@ -47,7 +44,7 @@ public class Hotel implements io.github.kkysen.quicktrip.app.Hotel {
     }
     
     private static double parseRating(final Element detailsRespModule) {
-        if (detailsRespModule.getElementsByClass("reviews-box resp-module").size() == 0) {
+        if (detailsRespModule.getElementsByClass("reviews-box").size() == 0) {
             return 0; // no rating provided
         }
         final String ratingStr = detailsRespModule.getElementsByClass("ta-logo").get(0).text();
@@ -61,17 +58,28 @@ public class Hotel implements io.github.kkysen.quicktrip.app.Hotel {
         return style.substring(22, style.length() - 3);
     }
     
-    public Hotel(final Element hotelWrap) {
-        price = parsePrice(hotelWrap);
-        final Element descriptionHCardRespModule = //
-                hotelWrap.getElementsByClass("description h-card resp-module").get(0);
-        name = parseName(descriptionHCardRespModule);
-        address = parseAddress(descriptionHCardRespModule);
-        final Element detailsRespModule =  //
-                descriptionHCardRespModule.getElementsByClass("details resp-module").get(0);
-        distance = parseDistance(detailsRespModule);
-        rating = parseRating(detailsRespModule);
-        imgUrl = parseImgUrl(descriptionHCardRespModule);
+    public Hotel(final Element hotelWrap) throws MissingHotelInformationException {
+        try {
+            price = parsePrice(hotelWrap);
+            final Element descriptionHCardRespModule = //
+                    hotelWrap.getElementsByClass("description").get(0);
+            name = parseName(descriptionHCardRespModule);
+            address = parseAddress(descriptionHCardRespModule);
+            final Element detailsRespModule =  //
+                    descriptionHCardRespModule.getElementsByClass("details").get(0);
+            distance = parseDistance(detailsRespModule);
+            rating = parseRating(detailsRespModule);
+            imgUrl = parseImgUrl(descriptionHCardRespModule);
+        } catch (final IndexOutOfBoundsException e) {
+            e.printStackTrace();
+            throw new MissingHotelInformationException(e);
+        }
+    }
+    
+    @Override
+    public String toString() {
+        return "Hotel [price=" + price + ", name=" + name + ", address=" + address + ", distance="
+                + distance + ", rating=" + rating + ", imgUrl=" + imgUrl + "]";
     }
     
 }

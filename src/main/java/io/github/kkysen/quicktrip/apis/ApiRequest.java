@@ -8,7 +8,9 @@ import io.github.kkysen.quicktrip.reflect.annotations.AnnotationUtils;
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.lang.reflect.Field;
+import java.lang.reflect.Type;
 import java.net.URLEncoder;
+import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.security.MessageDigest;
@@ -31,6 +33,12 @@ import lombok.RequiredArgsConstructor;
  * @author Khyber Sen
  * @param <R> type of POJO representing the API response response, presumably a
  *            JSON one
+ */
+/**
+ * 
+ * 
+ * @author Khyber Sen
+ * @param <R>
  */
 public abstract class ApiRequest<R> {
         
@@ -120,7 +128,11 @@ public abstract class ApiRequest<R> {
                 return id2path.get(id);
             } else {
                 final String url = idOrUrl;
-                return id2path.get(url2id.get(url));
+                final String id = url2id.get(url);
+                if (id == null) {
+                    return null;
+                }
+                return id2path.get(id);
             }
         }
         
@@ -149,7 +161,9 @@ public abstract class ApiRequest<R> {
         }
         
         private void load(final Path path) throws IOException {
-            MyFiles.readLines(path).forEach(line -> {
+            Files.lines(path)
+            .filter(line -> !line.isEmpty())
+            .forEach(line -> {
                 final String[] lineParts = line.split(SEP);
                 put(lineParts[0], lineParts[1], Paths.get(lineParts[2]));
             });
@@ -230,7 +244,22 @@ public abstract class ApiRequest<R> {
     
     private @Getter(AccessLevel.PROTECTED) String url;
     
+    protected abstract Class<? extends R> getPojoClass();
+    
+    
+    /**
+     * If getPojoClass does not work because of generics, return null.
+     * Then override this and return the Type.
+     * 
+     * @return POJO Type
+     */
+    protected Type getPojoType() {
+        return null;
+    }
+    
     protected final Class<? extends R> pojoClass;
+    protected final Type pojoType;
+    
     private R response;
     
     protected String getApiKeyQueryName() {
@@ -285,8 +314,6 @@ public abstract class ApiRequest<R> {
     
     protected abstract String getFileExtension();
     
-    protected abstract Class<? extends R> getPojoClass();
-    
     private void addApiKey() {
         if (!apiKey.isEmpty()) {
             query.put(getApiKeyQueryName(), apiKey);
@@ -297,6 +324,7 @@ public abstract class ApiRequest<R> {
         apiKey = getApiKey();
         baseUrl = getBaseUrl();
         pojoClass = getPojoClass();
+        pojoType = getPojoType();
     }
     
     private void setQueryAndUrl() {
@@ -320,11 +348,13 @@ public abstract class ApiRequest<R> {
             setQueryAndUrl();
         }
         if (response == null) {
-            final Path cachePath = requestCache.getPath(url);
             if (isCached()) {
+                final Path cachePath = requestCache.getPath(url);
                 response = parseFromFile(cachePath);
             } else {
                 response = parseFromUrl(url);
+                requestCache.put(this);
+                final Path cachePath = requestCache.getPath(url);
                 cache(cachePath, response);
             }
         }

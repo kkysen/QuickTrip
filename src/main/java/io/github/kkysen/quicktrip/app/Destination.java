@@ -47,9 +47,22 @@ public class Destination {
         }
     }
     
-    public List<Hotel> possibleHotels() {
+    public List<Hotel> getPossibleHotels() {
         addHotelsRequest(new HotelsScrapeRequest(this));
         return possibleHotels;
+    }
+    
+    public static void main(final String[] args) {
+        final long start = System.currentTimeMillis();
+        final Destination dest = new Destination("Brooklyn, NY", 5, LocalDate.parse("2016-12-31"), LocalDate.parse("2017-01-02"), 2);
+        //dest.possibleHotels().forEach(System.out::println);
+        final List<Hotel> hotels = dest.getPossibleHotels();
+        System.out.println(hotels.get(0));
+        for (final Hotel hotel : dest.getPossibleHotels()) {
+            System.out.println(hotel);
+        }
+        final long elapsed = System.currentTimeMillis() - start;
+        System.out.println(elapsed / 1000.0);
     }
     
 }

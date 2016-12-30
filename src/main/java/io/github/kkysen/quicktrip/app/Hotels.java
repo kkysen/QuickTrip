@@ -28,8 +28,9 @@ public class Hotels implements AnnealingState {
         pools = new ArrayList<>(size);
         numDays = new ArrayList<>(size);
         int totalDays = 0;
+        // getPossibleHotels takes a while, so did it parallel
+        dests.parallelStream().map(Destination::getPossibleHotels).forEach(pools::add);
         for (final Destination dest : dests) {
-            pools.add(dest.possibleHotels());
             final int singleNumDays = dest.getNumDays();
             numDays.add(singleNumDays);
             totalDays += singleNumDays;
@@ -65,7 +66,7 @@ public class Hotels implements AnnealingState {
         prevHotel = null; // free mem
     }
     
-    private int totalPrice() {
+    public int totalPrice() {
         int totalPrice = 0;
         for (int i = 0; i < size; i++) {
             totalPrice += hotels.get(i).getPrice() * numDays.get(i);
@@ -81,7 +82,7 @@ public class Hotels implements AnnealingState {
         return priceDiff;
     }
     
-    private double totalRating() {
+    public double totalRating() {
         int totalRating = 0;
         for (int i = 0; i < size; i++) {
             totalRating += hotels.get(i).getRating() * numDays.get(i);

@@ -3,6 +3,7 @@ package io.github.kkysen.quicktrip.apis.hotels;
 import io.github.kkysen.quicktrip.apis.RenderedHtmlRequest;
 import io.github.kkysen.quicktrip.app.Destination;
 
+import java.lang.reflect.Type;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.time.LocalDate;
@@ -11,6 +12,8 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 import org.jsoup.nodes.Document;
+
+import com.google.gson.reflect.TypeToken;
 
 import lombok.AccessLevel;
 import lombok.RequiredArgsConstructor;
@@ -71,12 +74,17 @@ public class HotelsScrapeRequest extends RenderedHtmlRequest<List<io.github.kkys
         query.put("sort-order", "DISTANCE_FROM_LANDMARK");
     }
     
-    @SuppressWarnings("unchecked")
     @Override
     protected Class<? extends List<io.github.kkysen.quicktrip.app.Hotel>> getPojoClass() {
-        return (Class<? extends List<io.github.kkysen.quicktrip.app.Hotel>>) (Class<?>) List.class;
-        // FIXME not sure if this works
+        //return (Class<? extends List<io.github.kkysen.quicktrip.app.Hotel>>) (Class<?>) List.class;
+        // FIXME does not work, Hotel generic type unknown
         //return (Class<? extends List<io.github.kkysen.quicktrip.app.Hotel>>) new TypeToken<List<Hotel>>(){}.getRawType();
+        return null;
+    }
+    
+    @Override
+    protected Type getPojoType() {
+        return new TypeToken<List<Hotel>>(){}.getType();
     }
     
     @Override
@@ -93,7 +101,14 @@ public class HotelsScrapeRequest extends RenderedHtmlRequest<List<io.github.kkys
     protected List<io.github.kkysen.quicktrip.app.Hotel> parseHtml(final Document doc) {
         return doc.getElementsByClass("hotel-wrap")
                 .parallelStream()
-                .map(Hotel::new)
+                .map(hotelWrapElem -> {
+                    try {
+                        return new Hotel(hotelWrapElem);
+                    } catch (final MissingHotelInformationException e) {
+                        return null;
+                    }
+                })
+                .filter(hotel -> hotel != null)
                 .collect(Collectors.toList());
     }
     

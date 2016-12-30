@@ -83,7 +83,7 @@ public class SearchScreen implements Screen {
         public DestField(final int destNum) {
             this.destNum = destNum;
             
-            String labelText = "NoDateDestination";
+            String labelText = "Destination";
             // if destNum = 0, don't add destNum to label
             if (destNum != 0) {
                 labelText += " " + destNum;
@@ -354,6 +354,14 @@ public class SearchScreen implements Screen {
         }
     }
     
+    private void loadItineraryScreen() {
+        final ItineraryScreen itineraryScreen = //
+                (ItineraryScreen) QuickTrip.SCREENS.get(ItineraryScreen.class);
+        itineraryScreen.load();
+        // when ItineraryScreen is finished loading, switch to it
+        QuickTrip.SCREENS.load(ItineraryScreen.class);
+    }
+    
     public void search() {
         try {
             serializeSearchArgs();
@@ -363,11 +371,7 @@ public class SearchScreen implements Screen {
         }
         // switch to SearchingScreen while ItineraryScreen loads
         QuickTrip.SCREENS.load(SearchingScreen.class);
-        final ItineraryScreen itineraryScreen = //
-                (ItineraryScreen) QuickTrip.SCREENS.get(ItineraryScreen.class);
-        itineraryScreen.load();
-        // when ItineraryScreen is finished loading, switch to it
-        QuickTrip.SCREENS.load(ItineraryScreen.class);
+        new Thread(this::loadItineraryScreen).run();
     }
     
     private WholeNumberField addWholeNumberField(final String name, final long max) {

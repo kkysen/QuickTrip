@@ -66,9 +66,12 @@ public class ItineraryScreen implements Screen {
     }
     
     private List<Hotel> getOptimalHotels() {
+        System.out.println("scraping hotels");
         final Hotels hotels = new Hotels(destinations, budget);
+        System.out.println("annealing");
         final SimulatedAnnealer<Hotels> annealer = new SimulatedAnnealer<>(hotels); // FIXME add tuning args
         annealer.search(); // FIXME add numIters
+        System.out.println(annealer.getMinState().totalPrice());
         return annealer.getMinState().getHotels();
     }
     
@@ -79,6 +82,7 @@ public class ItineraryScreen implements Screen {
         startDate = searchArgs.getDate();
         destinations = orderDestinations();
         hotels = getOptimalHotels();
+        hotels.forEach(System.out::println);
     }
     
     @Override

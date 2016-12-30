@@ -25,6 +25,9 @@ public abstract class AbstractJsonRequest<R> extends ApiRequest<R> {
     }
     
     protected final R parseFromReader(final Reader reader) {
+        if (pojoClass == null) {
+            return GSON.fromJson(reader, pojoType);
+        }
         return GSON.fromJson(reader, pojoClass);
     }
     

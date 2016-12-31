@@ -43,6 +43,7 @@ public class SearchScreen implements Screen {
     private Button searchBtn;
     private Button backBtn;
     private Button resetBtn;
+    private Button lastSearchBtn;
     
     private static String quote(final Object o) {
         return '"' + o.toString() + '"';
@@ -362,6 +363,12 @@ public class SearchScreen implements Screen {
         QuickTrip.SCREENS.load(ItineraryScreenController.class);
     }
     
+    public void noSerializeSearch() {
+        // switch to SearchingScreen while ItineraryScreen loads
+        QuickTrip.SCREENS.load(SearchingScreen.class);
+        new Thread(this::loadItineraryScreen).run();
+    }
+    
     public void search() {
         try {
             serializeSearchArgs();
@@ -369,9 +376,7 @@ public class SearchScreen implements Screen {
             e.getErrorDialog().showAndWait();
             return; // stop serialization
         }
-        // switch to SearchingScreen while ItineraryScreen loads
-        QuickTrip.SCREENS.load(SearchingScreen.class);
-        new Thread(this::loadItineraryScreen).run();
+        noSerializeSearch();
     }
     
     private WholeNumberField addWholeNumberField(final String name, final long max) {
@@ -421,6 +426,9 @@ public class SearchScreen implements Screen {
             reset();
         });
         rows.add(backBtn);
+        
+        lastSearchBtn = createButton("Last Search", 0, event -> noSerializeSearch());
+        rows.add(lastSearchBtn);
     }
     
     public SearchScreen() {

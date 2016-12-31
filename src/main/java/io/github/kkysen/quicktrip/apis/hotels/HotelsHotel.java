@@ -5,15 +5,20 @@ import io.github.kkysen.quicktrip.app.Hotel;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+import lombok.AccessLevel;
 import lombok.Getter;
+import lombok.RequiredArgsConstructor;
 
 /**
  * 
  * 
  * @author Khyber Sen
  */
+@RequiredArgsConstructor(access = AccessLevel.PRIVATE)
 @Getter
 public class HotelsHotel implements Hotel {
+    
+    public static final HotelsHotel DUMMY = new HotelsHotel(1000, "", "", 0, 0, "");
     
     private final int price;
     private final String name;
@@ -42,7 +47,7 @@ public class HotelsHotel implements Hotel {
                 .getElementsByClass("location-info").get(0);
         final String distanceStr = //
                 locationInfoRespModuleDistanceSortApplied.getElementsByTag("ul").get(0).text();
-        final int endIndex = distanceStr.indexOf(" miles");
+        final int endIndex = distanceStr.indexOf(" mile");
         return Double.parseDouble(distanceStr.substring(0, endIndex));
     }
     
@@ -50,9 +55,9 @@ public class HotelsHotel implements Hotel {
         if (detailsRespModule.getElementsByClass("reviews-box").size() == 0) {
             return 0; // no rating provided
         }
-        Elements taLogos = detailsRespModule.getElementsByClass("ta-logo");
+        final Elements taLogos = detailsRespModule.getElementsByClass("ta-logo");
         if (taLogos.size() == 0) {
-            String ratingStr = detailsRespModule.getElementsByClass("guest-rating-value").get(0).text();
+            final String ratingStr = detailsRespModule.getElementsByClass("guest-rating-value").get(0).text();
             return Double.parseDouble(ratingStr.substring(0, 3));
         }
         final String ratingStr = taLogos.get(0).text();

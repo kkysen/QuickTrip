@@ -1,5 +1,6 @@
 package io.github.kkysen.quicktrip.app;
 
+import io.github.kkysen.quicktrip.apis.hotels.HotelsHotel;
 import io.github.kkysen.quicktrip.optimization.simulatedAnnealing.AnnealingState;
 
 import java.util.ArrayList;
@@ -29,7 +30,19 @@ public class Hotels implements AnnealingState {
         numDays = new ArrayList<>(size);
         int totalDays = 0;
         // getPossibleHotels takes a while, so did it parallel
-        dests.parallelStream().map(Destination::getPossibleHotels).forEach(pools::add);
+        dests.parallelStream()
+                .peek(Destination::addHotelsHotelsScrapeRequest)
+                .map(Destination::getPossibleHotels)
+                .forEach(pools::add);
+        
+        // FIXME idk why this is happening
+        // check for empty pools
+        for (final List<Hotel> pool : pools) {
+            if (pool.size() == 0) {
+                pool.add(HotelsHotel.DUMMY);
+            }
+        }
+        
         for (final Destination dest : dests) {
             final int singleNumDays = dest.getNumDays();
             numDays.add(singleNumDays);
@@ -92,7 +105,7 @@ public class Hotels implements AnnealingState {
     
     private double ratingEnergy() {
         final double ratingDiff = totalRating() - maxRating;
-        return - Math.exp(- ratingDiff);
+        return -Math.exp(-ratingDiff);
     }
     
     @Override

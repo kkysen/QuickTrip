@@ -45,7 +45,7 @@ import lombok.RequiredArgsConstructor;
  * @param <R>
  */
 public abstract class ApiRequest<R> {
-        
+    
     private static final String CACHE_DIR = "src/main/resources/apiCache/";
     
     public static final class RequestCache {
@@ -118,7 +118,8 @@ public abstract class ApiRequest<R> {
             final String url = request.url;
             final String id = hashToBase64(url);
             final String fileName = id + "." + request.getFileExtension();
-            final Path path = Paths.get(CACHE_DIR, request.getRelativeCachePath().toString(), fileName);
+            final Path path = Paths.get(CACHE_DIR, request.getRelativeCachePath().toString(),
+                    fileName);
             put(Instant.now(), url, id, path);
         }
         
@@ -171,15 +172,15 @@ public abstract class ApiRequest<R> {
         
         private void load(final Path path) throws IOException {
             Files.lines(path)
-            .filter(line -> !line.isEmpty())
-            .forEach(line -> {
-                final String[] lineParts = line.split(SEP);
-                final Instant time = Instant.parse(lineParts[0]);
-                final String url = lineParts[1];
-                final String id = lineParts[2];
-                final Path requestPath = Paths.get(lineParts[3]);
-                put(time, url, id, requestPath);
-            });
+                    .filter(line -> !line.isEmpty())
+                    .forEach(line -> {
+                        final String[] lineParts = line.split(SEP);
+                        final Instant time = Instant.parse(lineParts[0]);
+                        final String url = lineParts[1];
+                        final String id = lineParts[2];
+                        final Path requestPath = Paths.get(lineParts[3]);
+                        put(time, url, id, requestPath);
+                    });
         }
         
         private RequestCache(final Path path) {
@@ -247,7 +248,7 @@ public abstract class ApiRequest<R> {
         // will save cache on exit as long as JVM shuts down w/o internal JVM error
         Runtime.getRuntime().addShutdownHook(SAVE_ON_EXIT);
     }
-        
+    
     private final String apiKey;
     private final String baseUrl;
     
@@ -256,7 +257,6 @@ public abstract class ApiRequest<R> {
     private @Getter(AccessLevel.PROTECTED) String url;
     
     protected abstract Class<? extends R> getPojoClass();
-    
     
     /**
      * If getPojoClass does not work because of generics, return null.
@@ -345,6 +345,7 @@ public abstract class ApiRequest<R> {
         modifyQuery(query);
         url = baseUrl + query.toString();
     }
+    
     private boolean isCached() {
         return requestCache.containsUrl(url);
     }

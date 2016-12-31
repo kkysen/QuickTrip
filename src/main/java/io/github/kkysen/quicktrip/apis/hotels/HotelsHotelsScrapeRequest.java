@@ -1,6 +1,6 @@
 package io.github.kkysen.quicktrip.apis.hotels;
 
-import io.github.kkysen.quicktrip.apis.HtmlRequest;
+import io.github.kkysen.quicktrip.apis.RenderedHtmlRequest;
 import io.github.kkysen.quicktrip.app.Destination;
 import io.github.kkysen.quicktrip.app.Hotel;
 

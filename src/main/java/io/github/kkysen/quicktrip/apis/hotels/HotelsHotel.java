@@ -3,6 +3,7 @@ package io.github.kkysen.quicktrip.apis.hotels;
 import io.github.kkysen.quicktrip.app.Hotel;
 
 import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
 
 import lombok.Getter;
 
@@ -49,7 +50,12 @@ public class HotelsHotel implements Hotel {
         if (detailsRespModule.getElementsByClass("reviews-box").size() == 0) {
             return 0; // no rating provided
         }
-        final String ratingStr = detailsRespModule.getElementsByClass("ta-logo").get(0).text();
+        Elements taLogos = detailsRespModule.getElementsByClass("ta-logo");
+        if (taLogos.size() == 0) {
+            String ratingStr = detailsRespModule.getElementsByClass("guest-rating-value").get(0).text();
+            return Double.parseDouble(ratingStr.substring(0, 3));
+        }
+        final String ratingStr = taLogos.get(0).text();
         final int startIndex = ratingStr.lastIndexOf(' ') + 1;
         return Double.parseDouble(ratingStr.substring(startIndex));
     }
@@ -73,6 +79,7 @@ public class HotelsHotel implements Hotel {
             rating = parseRating(detailsRespModule);
             imgUrl = parseImgUrl(descriptionHCardRespModule);
         } catch (final IndexOutOfBoundsException e) {
+            System.out.println(hotelWrap);
             e.printStackTrace();
             throw new MissingHotelInformationException(e);
         }

@@ -17,6 +17,7 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.Base64;
 import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
@@ -202,7 +203,7 @@ public abstract class ApiRequest<R> {
         
     }
     
-    private static final class QueryEncoder extends HashMap<String, String> {
+    private static final class QueryEncoder extends LinkedHashMap<String, String> {
         
         private static final long serialVersionUID = 3055592436293901045L;
         

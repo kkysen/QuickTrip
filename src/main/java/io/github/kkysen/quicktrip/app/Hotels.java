@@ -6,6 +6,7 @@ import io.github.kkysen.quicktrip.optimization.simulatedAnnealing.AnnealingState
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
+import java.util.stream.IntStream;
 
 public class Hotels implements AnnealingState {
     
@@ -29,16 +30,27 @@ public class Hotels implements AnnealingState {
         pools = new ArrayList<>(size);
         numDays = new ArrayList<>(size);
         int totalDays = 0;
+        
         // getPossibleHotels takes a while, so did it parallel
-        dests.parallelStream()
-                .peek(Destination::addHotelsHotelsScrapeRequest)
-                .map(Destination::getPossibleHotels)
-                .forEach(pools::add);
+        // b/c parallel, order won't be defined it use dests::add
+        // therefore must make IntStream of indices and use pools.set(i, hotels)
+        for (int i = 0; i < size; i++) {
+            pools.add(null);
+        }
+        IntStream.range(0, dests.size())
+                .parallel()
+                .forEach(i -> {
+                    final Destination dest = dests.get(i);
+                    dest.addHotelsHotelsScrapeRequest();
+                    pools.set(i, dest.getPossibleHotels());
+                });
         
         // FIXME idk why this is happening
         // check for empty pools
-        for (final List<Hotel> pool : pools) {
+        for (int i = 0; i < size; i++) {
+            final List<Hotel> pool = pools.get(i);
             if (pool.size() == 0) {
+                System.err.println("no hotels found for " + dests.get(i));
                 pool.add(HotelsHotel.DUMMY);
             }
         }

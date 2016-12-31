@@ -1,10 +1,12 @@
 package io.github.kkysen.quicktrip.app;
 
+import io.github.kkysen.quicktrip.apis.hotels.HotelsHotel;
 import io.github.kkysen.quicktrip.optimization.simulatedAnnealing.AnnealingState;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
+import java.util.stream.IntStream;
 
 public class Hotels implements AnnealingState {
     
@@ -28,8 +30,32 @@ public class Hotels implements AnnealingState {
         pools = new ArrayList<>(size);
         numDays = new ArrayList<>(size);
         int totalDays = 0;
+        
+        // getPossibleHotels takes a while, so did it parallel
+        // b/c parallel, order won't be defined it use dests::add
+        // therefore must make IntStream of indices and use pools.set(i, hotels)
+        for (int i = 0; i < size; i++) {
+            pools.add(null);
+        }
+        IntStream.range(0, dests.size())
+                .parallel()
+                .forEach(i -> {
+                    final Destination dest = dests.get(i);
+                    dest.addHotelsHotelsScrapeRequest();
+                    pools.set(i, dest.getPossibleHotels());
+                });
+        
+        // FIXME idk why this is happening
+        // check for empty pools
+        for (int i = 0; i < size; i++) {
+            final List<Hotel> pool = pools.get(i);
+            if (pool.size() == 0) {
+                System.err.println("no hotels found for " + dests.get(i));
+                pool.add(HotelsHotel.DUMMY);
+            }
+        }
+        
         for (final Destination dest : dests) {
-            pools.add(dest.possibleHotels());
             final int singleNumDays = dest.getNumDays();
             numDays.add(singleNumDays);
             totalDays += singleNumDays;
@@ -65,7 +91,7 @@ public class Hotels implements AnnealingState {
         prevHotel = null; // free mem
     }
     
-    private int totalPrice() {
+    public int totalPrice() {
         int totalPrice = 0;
         for (int i = 0; i < size; i++) {
             totalPrice += hotels.get(i).getPrice() * numDays.get(i);
@@ -81,7 +107,7 @@ public class Hotels implements AnnealingState {
         return priceDiff;
     }
     
-    private double totalRating() {
+    public double totalRating() {
         int totalRating = 0;
         for (int i = 0; i < size; i++) {
             totalRating += hotels.get(i).getRating() * numDays.get(i);
@@ -91,7 +117,7 @@ public class Hotels implements AnnealingState {
     
     private double ratingEnergy() {
         final double ratingDiff = totalRating() - maxRating;
-        return - Math.exp(- ratingDiff);
+        return -Math.exp(-ratingDiff);
     }
     
     @Override

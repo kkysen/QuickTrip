@@ -1,0 +1,82 @@
+[
+  {
+    "price": 102,
+    "name": "Best Western Plus Longbranch Hotel \u0026 Convention Center",
+    "address": "90 Twixt Town Rd Ne, Cedar Rapids, IA, 52402 United States",
+    "distance": 3.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2400/2339/b55e2663_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Quality Inn North",
+    "address": "4747 1st Ave SE, Cedar Rapids, IA, 52402 United States",
+    "distance": 3.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3000/2925/2925_73_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "Mainstay Suites Cedar Rapids",
+    "address": "5145 Rockwell Dr Ne, Cedar Rapids, IA, 52402 United States",
+    "distance": 4.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/890700/890636/890636_135_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Quality Inn at Collins Road",
+    "address": "5055 Rockwell Dr Ne, Cedar Rapids, IA, 52402 United States",
+    "distance": 4.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17900/17838/17838_96_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Homewood Suites by Hilton Cedar Rapids-North",
+    "address": "1140 Park Pl Ne, Cedar Rapids, IA, 52402 United States",
+    "distance": 4.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3650000/3649300/3649295/3649295_38_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Hampton Inn \u0026 Suites Cedar Rapids - North",
+    "address": "1130 Park Place NE, Cedar Rapids, IA, 52402 United States",
+    "distance": 4.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2360000/2351500/2351483/31b66c56_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Marriott Cedar Rapids",
+    "address": "1200 Collins Rd Ne, Cedar Rapids, IA, 52402 United States",
+    "distance": 4.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25800/25704/1bbbda2d_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "La Quinta Inn \u0026 Suites Cedar Rapids",
+    "address": "1220 Park Pl, Cedar Rapids, IA, 52402 United States",
+    "distance": 4.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/560000/554800/554715/d68c0d70_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Holiday Inn Express Cedar Rapids (Collins Rd)",
+    "address": "1230 Collins Rd NE, Cedar Rapids, IA, 52402 United States",
+    "distance": 4.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42100/42060/1da6c855_l.jpg"
+  },
+  {
+    "price": 147,
+    "name": "Residence Inn Cedar Rapids",
+    "address": "1900 Dodge Rd Ne, Cedar Rapids, IA, 52402 United States",
+    "distance": 5.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/63000/62989/62989_135_l.jpg"
+  }
+]

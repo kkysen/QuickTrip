@@ -1,0 +1,18 @@
+[
+  {
+    "price": 105,
+    "name": "Candlewood Suites Nederland",
+    "address": "2125 Highway 69 N, Nederland, TX, 77627 United States",
+    "distance": 1.3,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1570000/1567300/1567246/1567246_87_l.jpg"
+  },
+  {
+    "price": 49,
+    "name": "Airport Inn",
+    "address": "200 N Memorial Freeway, Nederland, TX, 77627 United States",
+    "distance": 1.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8080000/8077500/8077432/8077432_24_l.jpg"
+  }
+]

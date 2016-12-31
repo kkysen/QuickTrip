@@ -1,0 +1,82 @@
+[
+  {
+    "price": 62,
+    "name": "Ramada Washington",
+    "address": "1170 W Chestnut St, Washington, PA, 15301 United States",
+    "distance": 1.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11000/10980/cf252fd9_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Days Inn Washington",
+    "address": "1370 West Chestnut St, Washington, PA, 15301 United States",
+    "distance": 1.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5700/5698/5698_111_l.jpg"
+  },
+  {
+    "price": 57,
+    "name": "Americas Best Value Inn \u0026 Suites",
+    "address": "1385 West Chestnut Street, Washington, PA, 15301 United States",
+    "distance": 1.1,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/564000/563950/563950_46_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Red Roof Inn Washington, PA",
+    "address": "1399 West Chestnut Street, Washington, PA, 15301 United States",
+    "distance": 1.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26500/26462/0732990f_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Comfort Inn \u0026 Suites",
+    "address": "2110 North Franklin Drive, Washington, PA, 15301 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1650000/1644700/1644619/1644619_36_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Suburban Extended Stay Hotel",
+    "address": "975 Sheffield Street, Washington, PA, 15301 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12380000/12370700/12370675/12370675_4_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Motel 6 Washington PA",
+    "address": "1283 Motel 6 Dr, Washington, PA, 15301 United States",
+    "distance": 1.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/996200/996197/996197_19_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Hampton Inn Washington",
+    "address": "119 Murtland Ave, Washington, PA, 15301 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/34500/34431/34431_63_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "SpringHill Suites by Marriott Pittsburgh Washington",
+    "address": "16 Trinity Point Drive, Washington, PA, 15301 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/340000/330600/330586/d8cba227_l.jpg"
+  },
+  {
+    "price": 82,
+    "name": "Courtyard by Marriott Pittsburgh Washington/Meadow Lands",
+    "address": "1800 Tanger Blvd, Washington, PA, 15301 United States",
+    "distance": 4.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4350000/4342300/4342201/467e5f60_l.jpg"
+  }
+]

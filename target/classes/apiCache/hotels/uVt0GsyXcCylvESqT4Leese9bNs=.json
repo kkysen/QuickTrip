@@ -1,0 +1,82 @@
+[
+  {
+    "price": 104,
+    "name": "Holiday Inn Southgate (Detroit-South)",
+    "address": "17201 Northline Road, Southgate, MI, 48195 United States",
+    "distance": 3.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2600/2508/8cde714b_l.jpg"
+  },
+  {
+    "price": 141,
+    "name": "Holiday Inn Express \u0026 Suites Southgate - Detroit Area",
+    "address": "13333 Heritage Center Dr, Southgate, MI, 48195 United States",
+    "distance": 3.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16710000/16700200/16700164/c41f3b8e_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Motel 6 Detroit - Southgate",
+    "address": "18777 Northline Rd, Southgate, MI, 48195 United States",
+    "distance": 3.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/690000/687800/687711/12a323dd_l.jpg"
+  },
+  {
+    "price": 124,
+    "name": "Hampton Inn Detroit/Southgate",
+    "address": "13555 Prechter Blvd, Southgate, MI, 48195 United States",
+    "distance": 3.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6920000/6916400/6916396/607880ef_l.jpg"
+  },
+  {
+    "price": 94,
+    "name": "Comfort Suites Southgate",
+    "address": "18950 Northline Rd, Southgate, MI, 48195 United States",
+    "distance": 3.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/796300/796229/796229_75_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "La Quinta Inn Detroit/Southgate",
+    "address": "12888 Reeck Rd, (782), Southgate, MI, 48195 United States",
+    "distance": 3.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/50000/49999/2f491244_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Red Roof Inn \u0026 Suites Detroit - Lincoln Park",
+    "address": "1805 John A. Papalas, Lincoln Park, MI, 48146 United States",
+    "distance": 3.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/890800/890750/890750_60_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Super 8 Taylor Detroit Area",
+    "address": "15101 Huron St, Taylor, MI, 48180 United States",
+    "distance": 3.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459600/459580/459580_62_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Red Roof Inn Detroit Southwest - Taylor",
+    "address": "21230 Eureka Road, Taylor, MI, 48180 United States",
+    "distance": 4.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/800/762/a57c166a_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Red Roof Inn \u0026 Suites Detroit - Melvindale",
+    "address": "17600 Dix Rd, Melvindale, MI, 48122 United States",
+    "distance": 5.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1210000/1209400/1209375/1209375_93_l.jpg"
+  }
+]

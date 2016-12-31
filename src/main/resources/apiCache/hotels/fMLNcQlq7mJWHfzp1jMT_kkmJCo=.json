@@ -1,0 +1,34 @@
+[
+  {
+    "price": 159,
+    "name": "Lancaster Inn and Suites",
+    "address": "1475 Lancaster Road, Manheim, PA, 17545 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/327500/327428/327428_84_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Hampton Inn Manheim",
+    "address": "2764 Lebanon Rd, Manheim, PA, 17545 United States",
+    "distance": 4.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/300000/297200/297144/17d18046_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "Comfort Inn \u0026 Suites Manheim - Lebanon",
+    "address": "2845 Lebanon Rd, Manheim, PA, 17545 United States",
+    "distance": 5.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/869100/869041/869041_17_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "PA Dutch Country RV Resort - Caravan Park",
+    "address": "185 Lehman Road, Manheim, PA, 17545 United States",
+    "distance": 5.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9130000/9126600/9126571/9126571_19_l.jpg"
+  }
+]

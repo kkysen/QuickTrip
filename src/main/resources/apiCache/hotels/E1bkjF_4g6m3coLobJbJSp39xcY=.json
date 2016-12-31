@@ -1,0 +1,50 @@
+[
+  {
+    "price": 100,
+    "name": "Rodeway Inn Sonora",
+    "address": "128 S Green St, Sonora, CA, 95370 United States",
+    "distance": 0.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5550000/5542400/5542372/5542372_33_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Gunn House Hotel",
+    "address": "286 S. Washington Street\u0026nbsp;, Sonora, CA, 95370 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10950000/10940400/10940335/10940335_23_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "INNS Of California Sonora",
+    "address": "350 S Washington Street, Sonora, CA, 95370 United States",
+    "distance": 0.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1140000/1140000/1139934/1139934_23_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Sonora Gold Lodge",
+    "address": "480 West Stockton Street, Sonora, CA, 95370 United States",
+    "distance": 0.6,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2650000/2649500/2649459/2649459_9_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Aladdin Inn",
+    "address": "14260 Mono Way, Sonora, CA, 95370 United States",
+    "distance": 2.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9680000/9674400/9674303/9674303_33_l.jpg"
+  },
+  {
+    "price": 140,
+    "name": "Lazy Z Resort",
+    "address": "22732 Middlecamp Rd., Sonora, CA, 95383 United States",
+    "distance": 7.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2800000/2794400/2794357/2794357_21_l.jpg"
+  }
+]

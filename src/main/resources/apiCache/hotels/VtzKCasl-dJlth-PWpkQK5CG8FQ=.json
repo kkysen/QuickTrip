@@ -1,0 +1,82 @@
+[
+  {
+    "price": 68,
+    "name": "Super 8 Dixon / UC Davis",
+    "address": "2500 Plaza Ct, Dixon, CA, 95620 United States",
+    "distance": 8.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/903600/903578/903578_99_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Motel 6 Dixon",
+    "address": "1480 Ary Lane, Dixon, CA, 95620 United States",
+    "distance": 8.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/328900/328837/328837_113_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Best Western Plus Dixon Davis",
+    "address": "1345 Commercial Way, Dixon, CA, 95620 United States",
+    "distance": 8.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13500/13405/0271a02e_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Country Inn \u0026 Suites By Carlson, Dixon, CA - UC Davis Area",
+    "address": "155 Dorset Drive, Dixon, CA, 95620 United States",
+    "distance": 8.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3040000/3036600/3036589/3036589_85_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Quality Inn And Suites",
+    "address": "1050 Orange Dr, Vacaville, CA, 95687 United States",
+    "distance": 9.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1580000/1571800/1571725/f81a4327_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Extended Stay America Sacramento - Vacaville",
+    "address": "799 Orange Dr, Vacaville, CA, 95687 United States",
+    "distance": 10.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/880000/872100/872028/872028_47_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Motel 6 Vacaville",
+    "address": "107 Lawrence Dr, Vacaville, CA, 95687 United States",
+    "distance": 11.0,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/996300/996285/996285_139_l.jpg"
+  },
+  {
+    "price": 96,
+    "name": "Comfort Suites Vacaville",
+    "address": "191 Lawrence Dr, Vacaville, CA, 95687 United States",
+    "distance": 11.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2130000/2126900/2126841/2126841_41_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Fairfield Inn By Marriott Vacaville",
+    "address": "370 Orange Dr, Vacaville, CA, 95687 United States",
+    "distance": 11.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/423700/423614/4f90017e_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Vacaville",
+    "address": "151 Lawrence Dr, Vacaville, CA, 95687 United States",
+    "distance": 11.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/909500/909454/909454_182_l.jpg"
+  }
+]

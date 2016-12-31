@@ -1,0 +1,82 @@
+[
+  {
+    "price": 209,
+    "name": "Days Inn Daytona Beach Downtown",
+    "address": "544 South Ridgewood Ave., Exit 261-A to US 92 EAST, Daytona Beach, FL, 32114 United States",
+    "distance": 0.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/890300/890220/890220_101_l.jpg"
+  },
+  {
+    "price": 300,
+    "name": "Ocean Jewels Club",
+    "address": "935 S Atlantic Ave, Daytona Beach, FL, 32118 United States",
+    "distance": 1.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28100/28090/28090_5_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Boardwalk Inn and Suites",
+    "address": "301 S Atlantic Avenue, Daytona Beach, FL, 32118 United States",
+    "distance": 1.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1060000/1059000/1058935/c97dc509_l.jpg"
+  },
+  {
+    "price": 500,
+    "name": "Host Inn",
+    "address": "315 Bellevue Avenue, Daytona Beach, FL, 32114 United States",
+    "distance": 1.1,
+    "rating": 1.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1380000/1377700/1377615/1377615_4_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Daytona Inn Beach Resort",
+    "address": "219 S Atlantic Ave, Daytona Beach, FL, 32118 United States",
+    "distance": 1.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41600/41552/41552_85_l.jpg"
+  },
+  {
+    "price": 500,
+    "name": "Royal Inn",
+    "address": "810 S. Ridgewood Ave, Daytona Beach, FL, 32114 United States",
+    "distance": 1.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1420000/1418300/1418204/1418204_1_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "Mayan Inn Daytona Beach",
+    "address": "103 S Ocean Ave, Daytona Beach, FL, 32118 United States",
+    "distance": 1.2,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15500/15453/15453_39_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Sunrise Inn Daytona",
+    "address": "1503 S Atlantic Ave, Daytona Beach, FL, 32118 United States",
+    "distance": 1.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1840000/1832400/1832348/fffc51f6_l.jpg"
+  },
+  {
+    "price": 161,
+    "name": "Nautilus Inn",
+    "address": "1515 S Atlantic Ave, Daytona Beach, FL, 32118 United States",
+    "distance": 1.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1570000/1568500/1568483/1568483_48_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Econo Lodge Oceanfront",
+    "address": "1601 S Atlantic Ave, Daytona Beach, FL, 32118 United States",
+    "distance": 1.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1410000/1401500/1401401/1401401_20_l.jpg"
+  }
+]

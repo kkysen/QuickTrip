@@ -1,0 +1,82 @@
+[
+  {
+    "price": 95,
+    "name": "Super 8 North Bergen NJ NYC Area",
+    "address": "2800 Columbia Ave, North Bergen, NJ, 07047 United States",
+    "distance": 0.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856100/856099/856099_122_l.jpg"
+  },
+  {
+    "price": 120,
+    "name": "Holiday Inn Express North Bergen Lincoln Tunnel",
+    "address": "2600 Tonnelle Ave, North Bergen, NJ, 07047 United States",
+    "distance": 0.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1130000/1120200/1120107/1120107_156_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Meadowlands View Hotel",
+    "address": "2750 Tonnelle Avenue, North Bergen, NJ, 07047 United States",
+    "distance": 0.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18800/18712/18712_137_l.jpg"
+  },
+  {
+    "price": 200,
+    "name": "Sheraton Lincoln Harbor Hotel",
+    "address": "500 Harbor Boulevard, Weehawken, NJ, 07086 United States",
+    "distance": 0.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11400/11325/11325_168_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Howard Johnson North Bergen",
+    "address": "1300 Tonnelle Ave, North Bergen, NJ, 07047 United States",
+    "distance": 0.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/970000/967300/967211/967211_99_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Comfort Suites North Bergen",
+    "address": "1200 Tonnelle Ave, North Bergen, NJ, 07047 United States",
+    "distance": 0.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/914300/914269/914269_111_l.jpg"
+  },
+  {
+    "price": 202,
+    "name": "Dharma Home Suites Hoboken at Novia",
+    "address": "1414 Grand Street, Hoboken, NJ, 07030 United States",
+    "distance": 0.9,
+    "rating": 4.6,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11280000/11270100/11270068/11270068_135_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "Travelodge Jersey City",
+    "address": "881 Tonnele Ave, Jersey City, NJ, 07307 United States",
+    "distance": 1.2,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15200000/15193600/15193593/457bf45a_l.jpg"
+  },
+  {
+    "price": 142,
+    "name": "Extended Stay America - Secaucus - New York City Area",
+    "address": "1 Plaza Drive, Secaucus, NJ, 07094 United States",
+    "distance": 1.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/450000/448500/448447/448447_56_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Hilton Garden Inn Secaucus/Meadowlands",
+    "address": "875 State Route 3 East Service Road, Secaucus, NJ, 07094 United States",
+    "distance": 1.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17900/17873/17873_77_l.jpg"
+  }
+]

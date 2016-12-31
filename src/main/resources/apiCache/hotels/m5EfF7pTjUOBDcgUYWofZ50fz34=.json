@@ -1,0 +1,82 @@
+[
+  {
+    "price": 102,
+    "name": "Fairfield Inn by Marriott Richmond",
+    "address": "9797 Us Route 40 W, New Paris, OH, 45347 United States",
+    "distance": 8.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/52900/52875/52875_26_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Best Western Classic Inn",
+    "address": "533 W Eaton Pike, Richmond, IN, 47374 United States",
+    "distance": 9.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/260000/251600/251530/251530_148_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Holiday Inn Richmond",
+    "address": "6000 National Rd E, Richmond, IN, 47374 United States",
+    "distance": 9.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5260000/5259300/5259255/5259255_57_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Days Inn Richmond IN",
+    "address": "5775 National Rd E, Richmond, IN, 47374 United States",
+    "distance": 9.3,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/796900/796880/796880_50_l.jpg"
+  },
+  {
+    "price": 46,
+    "name": "Motel 6 Richmond, IN",
+    "address": "6030 National Road East, Richmond, IN, 47374 United States",
+    "distance": 9.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50200/50102/50102_41_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Hampton Inn \u0026 Suites Richmond",
+    "address": "455 Commerce Rd, Richmond, IN, 47374 United States",
+    "distance": 9.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1600000/1590100/1590037/1590037_69_l.jpg"
+  },
+  {
+    "price": 155,
+    "name": "Hueston Woods Lodge \u0026 Conference Center",
+    "address": "5201 Lodge Road, College Corner, OH, 45003 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1200000/1191300/1191251/1191251_59_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Comfort Inn Richmond",
+    "address": "912 Mendleson Dr, Richmond, IN, 47374 United States",
+    "distance": 14.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4400/4345/4345_43_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Liberty Motel",
+    "address": "303 N Main St., Liberty, IN, 47353 United States",
+    "distance": 15.0,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16080000/16072500/16072497/fcade2fe_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Dayton West - Brookville",
+    "address": "95 N Parkview Dr, Brookville, OH, 45309 United States",
+    "distance": 16.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/792000/791902/791902_292_l.jpg"
+  }
+]

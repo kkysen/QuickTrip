@@ -1,0 +1,82 @@
+[
+  {
+    "price": 138,
+    "name": "Residence Inn by Marriott Bangor",
+    "address": "22 Bass Park Boulevard, Bangor, ME, 04401 United States",
+    "distance": 0.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11460000/11451300/11451255/11451255_30_l.jpg"
+  },
+  {
+    "price": 168,
+    "name": "Hollywood Casino Bangor",
+    "address": "500 Main Street, Bangor, ME, 04401 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18100/18053/18053_48_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Vacationland Inn \u0026 Conference Center",
+    "address": "453 Wilson Street, Brewer, ME, 04412 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2740000/2733300/2733268/2733268_26_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "TownePlace Suites by Marriott Bangor",
+    "address": "240 Sylvan Rd, Bangor, ME, 04401 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8340000/8340000/8339935/8339935_10_l.jpg"
+  },
+  {
+    "price": 182,
+    "name": "Courtyard by Marriott Bangor",
+    "address": "236 Sylvan Road, Bangor, ME, 04401 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2200000/2190300/2190272/2190272_30_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Rodeway Inn",
+    "address": "327 Odlin Road, Exit 182B off I-95, Bangor, ME, 04401 United States",
+    "distance": 2.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40400/40351/40351_72_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Howard Johnson Inn - Bangor",
+    "address": "336 Odlin Rd, Bangor, ME, 04401 United States",
+    "distance": 2.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8200/8141/ac4fd29e_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "Ramada Inn Bangor",
+    "address": "357 Odlin Rd, Bangor, ME, 04401 United States",
+    "distance": 2.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17500/17476/917eed91_l.jpg"
+  },
+  {
+    "price": 132,
+    "name": "Fairfield Inn By Marriott Bangor",
+    "address": "300 Odlin Rd, Bangor, ME, 04401 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18200/18131/5643c33b_l.jpg"
+  },
+  {
+    "price": 128,
+    "name": "Four Points by Sheraton Bangor Airport",
+    "address": "308 Godfrey Blvd, Bangor, ME, 04401 United States",
+    "distance": 2.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25600/25550/25550_91_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 229,
+    "name": "Millennium Biltmore Hotel Los Angeles",
+    "address": "506 S Grand Ave, Los Angeles, CA, 90071 United States",
+    "distance": 0.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25800/25715/25715_87_l.jpg"
+  },
+  {
+    "price": 313,
+    "name": "Hilton Checkers",
+    "address": "535 South Grand Avenue, Los Angeles, CA, 90071 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26700/26663/26663_58_l.jpg"
+  },
+  {
+    "price": 269,
+    "name": "The Standard Downtown LA",
+    "address": "550 S Flower St, Los Angeles, CA, 90071 United States",
+    "distance": 0.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/890000/887000/886918/b90e737f_l.jpg"
+  },
+  {
+    "price": 319,
+    "name": "The Westin Bonaventure Hotel and Suites, Los Angeles",
+    "address": "404 S Figueroa St, Los Angeles, CA, 90071 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11400/11376/11376_227_l.jpg"
+  },
+  {
+    "price": 324,
+    "name": "Sheraton Grand Los Angeles",
+    "address": "711 S Hope St, Los Angeles, CA, 90017 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17500/17422/6954a231_l.jpg"
+  },
+  {
+    "price": 241,
+    "name": "The LA Hotel Downtown",
+    "address": "333 S Figueroa St, Los Angeles, CA, 90071 United States",
+    "distance": 0.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11200/11172/11172_104_l.jpg"
+  },
+  {
+    "price": 242,
+    "name": "Omni Los Angeles Hotel at California Plaza",
+    "address": "251 S Olive St, Los Angeles, CA, 90012 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18600/18595/18595_103_l.jpg"
+  },
+  {
+    "price": 249,
+    "name": "Sunshine Suites at 616 St. Paul",
+    "address": "616/609 St. Paul Avenue, Los Angeles, CA, 90017 United States",
+    "distance": 0.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6850000/6846700/6846624/6846624_85_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "The Milner Hotel",
+    "address": "813 S Flower St, Los Angeles, CA, 90017 United States",
+    "distance": 0.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2400/2312/2312_24_l.jpg"
+  },
+  {
+    "price": 219,
+    "name": "O Hotel",
+    "address": "819 S Flower St, Los Angeles, CA, 90017 United States",
+    "distance": 0.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1670000/1662600/1662522/1662522_133_l.jpg"
+  }
+]

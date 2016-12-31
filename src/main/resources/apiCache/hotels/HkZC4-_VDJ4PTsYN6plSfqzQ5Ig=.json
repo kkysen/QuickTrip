@@ -1,0 +1,82 @@
+[
+  {
+    "price": 68,
+    "name": "Knights Inn Atlantic City",
+    "address": "500 N Albany Ave, Atlantic City, NJ, 08401 United States",
+    "distance": 1.6,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/427500/427466/4d6b3a78_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Downbeach Inn",
+    "address": "3601 Pacific Ave, Atlantic City, NJ, 08401 United States",
+    "distance": 1.7,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15620000/15611300/15611236/b9a1ffcb_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Rodeway Inn Oceanview",
+    "address": "3200 Pacific Avenue, Atlantic City, NJ, 08401 United States",
+    "distance": 1.9,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1120000/1111500/1111428/1111428_129_l.jpg"
+  },
+  {
+    "price": 300,
+    "name": "Skyline Inn Atlantic City",
+    "address": "1600 N. Albany Ave., Atlantic City, NJ, 08401 United States",
+    "distance": 1.9,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1200000/1193300/1193277/1193277_28_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Quality Inn Flamingo",
+    "address": "3101 Pacific Ave, Atlantic City, NJ, 08401 United States",
+    "distance": 1.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1770000/1764400/1764325/1764325_33_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Bayview Inn and Suites",
+    "address": "1630 North Albany Ave, Atlantic City, NJ, 08401 United States",
+    "distance": 2.0,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13480000/13472600/13472569/13472569_1_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Econo Lodge Beach Block",
+    "address": "3001 Pacific Ave, Atlantic City, NJ, 08401 United States",
+    "distance": 2.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4500/4490/4490_73_l.jpg"
+  },
+  {
+    "price": 600,
+    "name": "Days Inn Atlantic City Oceanfront Boardwalk",
+    "address": "3000 Boardwalk At Morris Ave, Atlantic City, NJ, 08401 United States",
+    "distance": 2.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26700/26671/26671_94_l.jpg"
+  },
+  {
+    "price": 212,
+    "name": "TRYP by Wyndham Atlantic City",
+    "address": "101 S Iowa Avenue, Atlantic City, NJ, 08401 United States",
+    "distance": 2.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1510000/1504800/1504798/1504798_23_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Ramada West Atlantic City",
+    "address": "8037 Black Horse Pike, Pleasantville, NJ, 08232 United States",
+    "distance": 2.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10900/10865/10865_233_l.jpg"
+  }
+]

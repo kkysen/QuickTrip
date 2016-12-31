@@ -1,0 +1,34 @@
+[
+  {
+    "price": 69,
+    "name": "Smart Choice Inn and Suites",
+    "address": "1305 E Bridge St, Redwood Falls, MN, 56283 United States",
+    "distance": 2.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459800/459762/459762_10_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "Redwood Lodge",
+    "address": "1382 E Bridge St, Redwood Falls, MN, 56283 United States",
+    "distance": 2.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2900/2849/2849_25_l.jpg"
+  },
+  {
+    "price": 82,
+    "name": "Americas Best Value Inn-Morton/Redwood Falls",
+    "address": "400 Kokesch Drive, Morton, MN, 56270 United States",
+    "distance": 7.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2780000/2774600/2774540/2774540_70_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Springfield",
+    "address": "502 E Rock Street, Springfield, MN, 56087 United States",
+    "distance": 22.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1180000/1180000/1179924/1179924_38_l.jpg"
+  }
+]

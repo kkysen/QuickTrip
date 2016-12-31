@@ -1,0 +1,18 @@
+[
+  {
+    "price": 184,
+    "name": "Inn at Great Neck, BW Premier Collection",
+    "address": "30 Cutter Mill Road, Great Neck, NY, 11021 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11980000/11971800/11971755/11971755_61_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "The Andrew Hotel",
+    "address": "75 N Station Plaza, Great Neck, NY, 11021 United States",
+    "distance": 1.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/670000/663500/663477/2cd8e715_l.jpg"
+  }
+]

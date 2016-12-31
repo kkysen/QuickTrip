@@ -1,0 +1,82 @@
+[
+  {
+    "price": 62,
+    "name": "La Quinta Inn Terrell",
+    "address": "1614 Highway 34 S, Terrell, TX, 75160 United States",
+    "distance": 1.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43000/42983/9531889f_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Baymont Inn \u0026 Suites Terrell",
+    "address": "1604 State Hwy 34 South, Terrell, TX, 75160 United States",
+    "distance": 1.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/899700/899605/899605_100_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Quality Inn \u0026 Suites Terrell",
+    "address": "103 Mira Place, Terrell, TX, 75160 United States",
+    "distance": 1.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/440000/431200/431164/431164_111_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Terrell",
+    "address": "300 Tanger Dr, Terrell, TX, 75160 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1690000/1683700/1683613/2c4066d8_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Super 8 Terrell",
+    "address": "1705 Highway 34 South, I-20 \u0026 Hwy 34 South, Terrell, TX, 75160 United States",
+    "distance": 1.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856200/856135/9fa7d099_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Best Western La Hacienda Inn",
+    "address": "200 E Highway 175, Kaufman, TX, 75142 United States",
+    "distance": 11.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/903300/903238/903238_125_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Days Inn Canton",
+    "address": "17299 S I-20 Hwy 19, Canton, TX, 75103 United States",
+    "distance": 27.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2000/1972/1972_98_l.jpg"
+  },
+  {
+    "price": 48,
+    "name": "Motel 6 Canton TX",
+    "address": "3001 N Trade Days Blvd, Canton, TX, 75103 United States",
+    "distance": 27.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/110000/105000/104952/104952_6_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Quality Inn \u0026 Suites Canton",
+    "address": "2406 North Trade Days Boulevard, Canton, TX, 75103 United States",
+    "distance": 27.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/127000/126985/126985_16_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Best Western Canton Inn",
+    "address": "2251 N Trade Days Boulevard, Canton, TX, 75103 United States",
+    "distance": 27.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19000/18958/18958_82_l.jpg"
+  }
+]

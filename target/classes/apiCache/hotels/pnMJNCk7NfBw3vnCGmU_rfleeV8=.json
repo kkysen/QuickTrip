@@ -1,0 +1,82 @@
+[
+  {
+    "price": 151,
+    "name": "SpringHill Suites by Marriott Cleveland/Solon",
+    "address": "30100 Aurora Rd, Solon, OH, 44139 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/980000/977100/977007/977007_81_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Quality Inn and Suites",
+    "address": "23303 Oakwood Commons Dr, Oakwood Village, OH, 44146 United States",
+    "distance": 2.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/55300/55228/55228_160_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Hampton Inn Cleveland-Solon",
+    "address": "6035 Enterprise Pkwy, Solon, OH, 44139 United States",
+    "distance": 2.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/64600/64510/64510_95_l.jpg"
+  },
+  {
+    "price": 136,
+    "name": "Homewood Suites ClevelandSolon",
+    "address": "6085 Enterprise Pkwy, Solon, OH, 44139 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/892100/892009/d4fd3263_l.jpg"
+  },
+  {
+    "price": 178,
+    "name": "Cleveland Marriott East",
+    "address": "26300 Harvard Rd, Beachwood, OH, 44122 United States",
+    "distance": 3.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1160000/1156000/1155987/1155987_170_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Aloft Beachwood",
+    "address": "1010 Eaton Blvd, Beachwood, OH, 44122 United States",
+    "distance": 3.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6620000/6617300/6617258/6617258_48_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Extended Stay America - Cleveland - Beachwood",
+    "address": "3820 Orange Pl, Beachwood, OH, 44122 United States",
+    "distance": 4.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/880000/878500/878473/878473_12_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Hampton Inn \u0026 Suites Cleveland-Beachwood",
+    "address": "3840 Orange Pl, Beachwood, OH, 44122 United States",
+    "distance": 4.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1110000/1100600/1100589/1100589_74_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Super 8 Beachwood / Cleveland Area",
+    "address": "3795 Orange Pl, Beachwood, OH, 44122 United States",
+    "distance": 4.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23900/23892/23892_146_l.jpg"
+  },
+  {
+    "price": 156,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Cleveland Beachwood",
+    "address": "3750 Orange Pl, Beachwood, OH, 44122 United States",
+    "distance": 4.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9400/9365/2701d266_l.jpg"
+  }
+]

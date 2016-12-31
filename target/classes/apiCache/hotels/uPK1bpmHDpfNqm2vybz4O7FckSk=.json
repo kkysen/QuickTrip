@@ -1,0 +1,18 @@
+[
+  {
+    "price": 73,
+    "name": "Comfort Inn Batesville",
+    "address": "112 State Rd. 46 E., Batesville, IN, 47006 United States",
+    "distance": 0.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9900/9821/9821_105_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Hampton Inn Batesville",
+    "address": "1030 State Road 229 N., Batesville, IN, 47006 United States",
+    "distance": 1.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8600/8560/8560_12_l.jpg"
+  }
+]

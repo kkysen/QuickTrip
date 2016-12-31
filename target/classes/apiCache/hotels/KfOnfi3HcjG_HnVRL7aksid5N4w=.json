@@ -1,0 +1,18 @@
+[
+  {
+    "price": 98,
+    "name": "Hampton Inn St. Louis Southwest",
+    "address": "9 Lambert Drury Dr, Valley Park, MO, 63088 United States",
+    "distance": 0.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1060000/1056700/1056609/1056609_2_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Drury Inn \u0026 Suites Southwest St. Louis",
+    "address": "5 Lambert Drury Place (I-44 \u0026 141), Valley Park, MO, 63088 United States",
+    "distance": 0.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/980000/976200/976140/976140_105_l.jpg"
+  }
+]

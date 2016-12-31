@@ -1,0 +1,82 @@
+[
+  {
+    "price": 99,
+    "name": "Holiday Inn Express \u0026 Suites Olive Branch",
+    "address": "8900 Expressway Dr, Olive Branch, MS, 38654 United States",
+    "distance": 1.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/854700/854625/854625_163_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Best Western Plus Olive Branch Hotel \u0026 Suites",
+    "address": "10915 Business Center Dr, Olive Branch, MS, 38654 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1870000/1867000/1866904/1866904_94_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Super 8 Olive Branch",
+    "address": "11064 Business Center, Olive Branch, MS, 38654 United States",
+    "distance": 1.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856300/856294/0b7bebe3_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Comfort Suites Olive Branch",
+    "address": "6921 Parkwood Dr, Southeast Quadarant, Olive Branch, MS, 38654 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1780000/1774500/1774469/1774469_61_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Memphis Olive Branch",
+    "address": "7044 Hacks Cross Road, Olive Branch, MS, 38654 United States",
+    "distance": 2.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2050000/2042000/2041973/2d02fed6_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Whispering Woods Hotel \u0026 Conference Center",
+    "address": "7300 Hacks Cross Rd, Olive Branch, MS, 38654 United States",
+    "distance": 2.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84400/84382/77d43f5a_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Comfort Inn Olive Branch",
+    "address": "7049 Enterprise Dr, Olive Branch, MS, 38654 United States",
+    "distance": 2.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/100/83/57c8c390_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Hampton Inn Memphis Olive Branch",
+    "address": "6830 Crumpler Blvd, Olive Branch, MS, 38654 United States",
+    "distance": 2.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/203700/203607/203607_46_l.jpg"
+  },
+  {
+    "price": 86,
+    "name": "Candlewood Suites Olive Branch",
+    "address": "7440 Craft Goodman Frontage Rd, Olive Branch, MS, 38654 United States",
+    "distance": 3.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1800000/1793100/1793089/1793089_96_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "Magnolia Inn And Suites",
+    "address": "6935 W Hamilton Circle, Olive Branch, MS, 38654 United States",
+    "distance": 3.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3050000/3048600/3048544/3048544_53_l.jpg"
+  }
+]

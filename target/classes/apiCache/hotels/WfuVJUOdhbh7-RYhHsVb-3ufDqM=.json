@@ -1,0 +1,82 @@
+[
+  {
+    "price": 170,
+    "name": "Comfort Inn Redwood City",
+    "address": "1818 El Camino Real, Redwood City, CA, 94063 United States",
+    "distance": 4.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1900/1823/1823_57_l.jpg"
+  },
+  {
+    "price": 111,
+    "name": "Capri Motel",
+    "address": "2380 El Camino Real, Redwood City, CA, 94063 United States",
+    "distance": 4.7,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16430000/16427700/16427695/0ccece0e_l.jpg"
+  },
+  {
+    "price": 197,
+    "name": "Holiday Inn Express Redwood City-Central",
+    "address": "1836 El Camino Real, Redwood City, CA, 94063 United States",
+    "distance": 4.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/790000/789300/789277/789277_229_l.jpg"
+  },
+  {
+    "price": 167,
+    "name": "Redwood Creek Inn",
+    "address": "1090 El Camino Real, Redwood City, CA, 94063 United States",
+    "distance": 4.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/450000/445400/445325/445325_19_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Budget Inn Redwood City",
+    "address": "2526 El Camino Real, Redwood City, CA, 94061 United States",
+    "distance": 4.7,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/918800/918796/918796_33_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Pacific Inn of Redwood City",
+    "address": "2610 El Camino Real, Redwood City, CA, 94061 United States",
+    "distance": 4.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/180000/170300/170205/170205_82_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Days Inn Redwood City",
+    "address": "2650 El Camino Real, Redwood City, CA, 94061 United States",
+    "distance": 4.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41600/41600/6348802b_l.jpg"
+  },
+  {
+    "price": 237,
+    "name": "Atherton Park Inn \u0026 Suites",
+    "address": "2834 El Camino Real, Redwood City, CA, 94061 United States",
+    "distance": 4.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6200/6165/6165_133_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Sequoia Inn",
+    "address": "526 El Camino Real, Redwood City, CA, 94063 United States",
+    "distance": 4.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1460000/1456200/1456166/1456166_6_l.jpg"
+  },
+  {
+    "price": 190,
+    "name": "Best Western Inn",
+    "address": "316 El Camino Real, Redwood City, CA, 94062 United States",
+    "distance": 4.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3900/3863/3863_66_l.jpg"
+  }
+]

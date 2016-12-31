@@ -1,0 +1,18 @@
+[
+  {
+    "price": 76,
+    "name": "Eldorado Inn \u0026 Suites - Pacific Coast Highway - Beach cities",
+    "address": "2037 Pacific Coast Hwy, Lomita, CA, 90717 United States",
+    "distance": 0.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2470000/2467700/2467649/2467649_37_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Bartlett Motel",
+    "address": "2364 Pacific Coast Hwy, Lomita, CA, 90717 United States",
+    "distance": 0.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9570000/9560500/9560426/cbe9a9ed_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 57,
+    "name": "Motel 6 Riverton - WY",
+    "address": "302 E Fremont Ave, Riverton, WY, 82501 United States",
+    "distance": 0.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2810000/2805400/2805316/2805316_28_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Tomahawk Motor Lodge",
+    "address": "208 East Main Street, Riverton, WY, 82501 United States",
+    "distance": 0.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12590000/12587600/12587525/12587525_1_l.jpg"
+  },
+  {
+    "price": 43,
+    "name": "Rodeway Inn And Suites Riverton",
+    "address": "611 W Main St, Riverton, WY, 82501 United States",
+    "distance": 0.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2490000/2483500/2483447/2483447_37_l.jpg"
+  },
+  {
+    "price": 122,
+    "name": "Holiday Inn Riverton",
+    "address": "900 E Sunset Dr, Riverton, WY, 82501 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14600/14552/14552_106_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Super 8 Riverton WY",
+    "address": "1040 N Federal Blvd, Riverton, WY, 82501 United States",
+    "distance": 0.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/460000/459908/1d3c9324_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Days Inn Riverton",
+    "address": "909 W Main St, Riverton, WY, 82501 United States",
+    "distance": 0.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23900/23879/ada9a05d_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Comfort Inn And Suites",
+    "address": "2020 N Federal Blvd, Riverton, WY, 82501 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1280000/1271300/1271239/1271239_80_l.jpg"
+  },
+  {
+    "price": 152,
+    "name": "Hampton Inn and Suites Riverton",
+    "address": "2500 N Federal Blvd, Riverton, WY, 82501 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3240000/3231200/3231149/3231149_52_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Holiday Lodge Motel Campground",
+    "address": "210 McFarlane Drive, Lander, WY, 82520 United States",
+    "distance": 22.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9410000/9405300/9405224/9405224_23_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Rodeway Inn Pronghorn Lodge",
+    "address": "150 E Main St, Lander, WY, 82520 United States",
+    "distance": 22.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1620000/1611200/1611111/4cd1e4c3_l.jpg"
+  }
+]

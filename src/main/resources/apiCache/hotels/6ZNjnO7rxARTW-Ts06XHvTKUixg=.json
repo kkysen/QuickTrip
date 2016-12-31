@@ -1,0 +1,82 @@
+[
+  {
+    "price": 47,
+    "name": "Quality Inn And Suites",
+    "address": "230 S Main St, Statesboro, GA, 30459 United States",
+    "distance": 0.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5000/4951/4951_47_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Red Roof Inn \u0026 Suites Statesboro",
+    "address": "316 S Main St, Exit 116 off of I-16, Statesboro, GA, 30458 United States",
+    "distance": 0.5,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23500/23426/a62bfc5c_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Baymont Inn \u0026 Suites",
+    "address": "425 S Main Street, Statesboro, GA, 30458 United States",
+    "distance": 0.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/67500/67430/5af69beb_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Days Inn Statesboro",
+    "address": "616 Fair Rd, Statesboro, GA, 30458 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24700/24623/4e960b04_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Super 8 Statesboro",
+    "address": "1 Jameson Ave, Statesboro, GA, 30458 United States",
+    "distance": 1.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/49700/49663/49663_95_l.jpg"
+  },
+  {
+    "price": 176,
+    "name": "Holiday Inn Statesboro-University Area",
+    "address": "455 Commerce Dr, Statesboro, GA, 30458 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1950000/1946400/1946313/1946313_108_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Studio 6 Statesboro,GA",
+    "address": "126 Rushing Lane, Statesboro, GA, 30458 United States",
+    "distance": 3.0,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9350000/9341300/9341223/9341223_13_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Comfort Inn \u0026 Suites Statesboro",
+    "address": "17870 Hwy 67, Statesboro, GA, 30458 United States",
+    "distance": 3.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/899100/899061/899061_85_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Red Fern Plantation Lodge",
+    "address": "1640 Red Fern Lane, Statesboro, GA, 30461 United States",
+    "distance": 3.7,
+    "rating": 4.3,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12870000/12860200/12860139/12860139_33_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Patriot Inn- Register",
+    "address": "2875 US Highway 301 S, Register, GA, 30452 United States",
+    "distance": 11.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8040000/8035200/8035150/8035150_5_l.jpg"
+  }
+]

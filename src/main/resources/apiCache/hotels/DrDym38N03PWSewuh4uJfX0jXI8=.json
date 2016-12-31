@@ -1,0 +1,82 @@
+[
+  {
+    "price": 169,
+    "name": "The Pfister Hotel",
+    "address": "424 E Wisconsin Ave, Milwaukee, WI, 53202 United States",
+    "distance": 0.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19500/19467/d98e645d_l.jpg"
+  },
+  {
+    "price": 289,
+    "name": "Marriott Milwaukee Downtown",
+    "address": "323 E Wisconsin Ave, Milwaukee, WI, 53202 United States",
+    "distance": 0.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5570000/5560600/5560572/5560572_37_l.jpg"
+  },
+  {
+    "price": 208,
+    "name": "Hampton Inn \u0026 Suites Milwaukee Downtown",
+    "address": "176 W Wisconsin Ave, Milwaukee, WI, 53203 United States",
+    "distance": 0.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/470000/463900/463898/463898_20_l.jpg"
+  },
+  {
+    "price": 309,
+    "name": "InterContinental Milwaukee",
+    "address": "139 E Kilbourn Ave, Milwaukee, WI, 53202 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23300/23253/3e792221_l.jpg"
+  },
+  {
+    "price": 126,
+    "name": "The Plaza Hotel",
+    "address": "1007 N Cass Street, Milwaukee, WI, 53202 United States",
+    "distance": 0.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7020000/7017500/7017476/7017476_23_l.jpg"
+  },
+  {
+    "price": 294,
+    "name": "Kimpton Journeyman Hotel",
+    "address": "310 E Chicago St, Milwaukee, WI, 53202 United States",
+    "distance": 0.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14770000/14761500/14761437/a2350b7f_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "The Park East Hotel",
+    "address": "916 East State Street, Milwaukee, WI, 53202 United States",
+    "distance": 0.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17700/17675/17675_53_l.jpg"
+  },
+  {
+    "price": 241,
+    "name": "SpringHill Suites Milwaukee Downtown",
+    "address": "744 North 4th Street, Milwaukee, WI, 53203 United States",
+    "distance": 0.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12100000/12091400/12091331/ede62090_l.jpg"
+  },
+  {
+    "price": 112,
+    "name": "Astor Hotel",
+    "address": "924 E Juneau Ave, Milwaukee, WI, 53202 United States",
+    "distance": 0.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/34500/34479/34479_16_l.jpg"
+  },
+  {
+    "price": 190,
+    "name": "Hilton Milwaukee City Center",
+    "address": "509 W Wisconsin Ave, Milwaukee, WI, 53203 United States",
+    "distance": 0.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6100/6090/6090_117_l.jpg"
+  }
+]

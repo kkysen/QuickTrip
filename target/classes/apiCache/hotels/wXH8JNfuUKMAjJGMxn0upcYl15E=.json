@@ -1,0 +1,50 @@
+[
+  {
+    "price": 70,
+    "name": "Comfort Suites The Colony - Plano West",
+    "address": "4796 Memorial Dr, The Colony, TX, 75056 United States",
+    "distance": 1.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/287600/287582/287582_107_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Holiday Inn Plano - The Colony",
+    "address": "4301 Paige Road, The Colony, TX, 75056 United States",
+    "distance": 2.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13060000/13056600/13056516/d225e4c3_l.jpg"
+  },
+  {
+    "price": 152,
+    "name": "Hampton Inn \u0026 Suites The Colony",
+    "address": "3650 Plan Parkway, The Colony, TX, 75056 United States",
+    "distance": 2.3,
+    "rating": 0.0,
+    "imgUrl": ""
+  },
+  {
+    "price": 189,
+    "name": "Residence Inn by Marriott Dallas Plano/The Colony",
+    "address": "6600 Cascades Court, The Colony, TX, 75056 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2600000/2597800/2597723/2597723_38_l.jpg"
+  },
+  {
+    "price": 142,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Dallas Plano/The Colony",
+    "address": "5909 Stone Creek Dr, The Colony, TX, 75056 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2600000/2593800/2593723/2593723_59_l.jpg"
+  },
+  {
+    "price": 152,
+    "name": "Courtyard Dallas Plano/The Colony",
+    "address": "5917 Stone Creek Drive, The Colony, TX, 75056 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12660000/12654900/12654889/c12345cd_l.jpg"
+  }
+]

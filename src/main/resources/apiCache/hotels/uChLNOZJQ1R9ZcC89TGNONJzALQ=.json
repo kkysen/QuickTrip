@@ -1,0 +1,82 @@
+[
+  {
+    "price": 87,
+    "name": "Comfort Suites Downtown Carlisle",
+    "address": "10 S Hanover St, Carlisle, PA, 17013 United States",
+    "distance": 0.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/327400/327373/327373_61_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Sleep Inn Carlisle",
+    "address": "5 E Garland Dr, Carlisle, PA, 17013 United States",
+    "distance": 1.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/120700/120675/120675_115_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Days Inn Carlisle South",
+    "address": "101 Alexander Spring Road, Carlisle, PA, 17015 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9900/9816/a47b38f6_l.jpg"
+  },
+  {
+    "price": 42,
+    "name": "Super 8 Carlisle-South",
+    "address": "100 Alexander Spring Rd, I-81, Exit 45, Carlisle, PA, 17013 United States",
+    "distance": 1.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43500/43441/d680c544_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Carlisle",
+    "address": "1528 Commerce Ave, Carlisle, PA, 17015 United States",
+    "distance": 2.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2100000/2096400/2096316/f37b6c22_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Comfort Inn PA Turnpike - 1-81",
+    "address": "77 Shady Lane, Carlisle, PA, 17013 United States",
+    "distance": 2.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13310000/13304700/13304657/13304657_28_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Holiday Inn Express Hotel \u0026 Suites, Carlisle-Harrisburg Area",
+    "address": "1152 Harrisburg Pike, Carlisle, PA, 17013 United States",
+    "distance": 2.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6130000/6129500/6129450/6129450_135_l.jpg"
+  },
+  {
+    "price": 44,
+    "name": "Motel 6 Harrisburg - Carlisle",
+    "address": "1153 Harrisburg Pike, Carlisle, PA, 17013 United States",
+    "distance": 2.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1030000/1029900/1029879/1029879_34_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "Country Inn \u0026 Suites By Carlson, Carlisle, PA",
+    "address": "1529 Commerce Ave, Carlisle, PA, 17015 United States",
+    "distance": 2.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2740000/2733300/2733213/2733213_57_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Best Western Carlisle",
+    "address": "1155 Harrisburg Pike, Carlisle, PA, 17013 United States",
+    "distance": 2.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13400/13331/fa1ad7ff_l.jpg"
+  }
+]

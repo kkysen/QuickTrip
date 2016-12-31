@@ -1,0 +1,26 @@
+[
+  {
+    "price": 180,
+    "name": "Chicago Marriott Northwest",
+    "address": "4800 Hoffman Blvd, Hoffman Estates, IL, 60192 United States",
+    "distance": 1.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/890000/889400/889372/889372_129_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Quality Inn",
+    "address": "2075 Barrington Rd, Hoffman Estates, IL, 60169 United States",
+    "distance": 1.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/49500/49448/49448_78_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Red Roof Inn Chicago - Schaumburg",
+    "address": "2500 Hassell Road, Hoffman Estates, IL, 60169-2004 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10900/10804/10804_103_l.jpg"
+  }
+]

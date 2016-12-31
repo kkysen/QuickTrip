@@ -1,0 +1,18 @@
+[
+  {
+    "price": 68,
+    "name": "Quality Inn Lancaster",
+    "address": "114 Commerce Blvd, Lancaster, SC, 29720-4719 United States",
+    "distance": 3.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/580000/572500/572433/572433_41_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Super 8 Lancaster",
+    "address": "1201 Highway 9 Byp W, Lancaster, SC, 29720-4747 United States",
+    "distance": 3.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/500/425/718c4342_l.jpg"
+  }
+]

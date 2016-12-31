@@ -1,0 +1,82 @@
+[
+  {
+    "price": 76,
+    "name": "Days Inn Alsip",
+    "address": "5150 West 127th Street, Alsip, IL, 60803 United States",
+    "distance": 2.3,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/880000/877700/877601/877601_79_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "DoubleTree by Hilton Chicago - Alsip",
+    "address": "5000 W 127th St, Alsip, IL, 60803 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25600/25507/25507_43_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Sharn\u0027s Motel",
+    "address": "7240 Southwest Hwy, Worth, IL, 60482 United States",
+    "distance": 2.6,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16820000/16819700/16819644/7f3b4834_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Palos Motel",
+    "address": "10600 S. Harlem Ave, Worth, IL, 60482 United States",
+    "distance": 2.7,
+    "rating": 3.3,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12010000/12001300/12001300/12001300_5_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "Baymont Inn \u0026 Suites Chicago / Alsip",
+    "address": "12801 South Cicero, Alsip, IL, 60803 United States",
+    "distance": 2.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50900/50833/50833_97_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Holiday Inn Express Crestwood",
+    "address": "13330 South Cicero Avenue, Crestwood, IL, 60445 United States",
+    "distance": 2.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12000/11965/d5d4f5f1_l.jpg"
+  },
+  {
+    "price": 41,
+    "name": "Motel 6 Bridgeview",
+    "address": "9625 S 76th Ave, Bridgeview, IL, 60455 United States",
+    "distance": 4.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7700/7646/7646_65_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "8800 W 159th St, Orland Park, IL, 60462 United States",
+    "distance": 4.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5500/5448/5448_113_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Gateway Inn",
+    "address": "4657 W 95th Street, Oak Lawn, IL, 60453 United States",
+    "distance": 5.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5540000/5538000/5537993/5537993_1_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Hilton Chicago/Oak Lawn",
+    "address": "9333 S Cicero Ave, Oak Lawn, IL, 60453 United States",
+    "distance": 5.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17700/17618/17618_84_l.jpg"
+  }
+]

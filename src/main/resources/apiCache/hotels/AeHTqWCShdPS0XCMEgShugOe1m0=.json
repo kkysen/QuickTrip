@@ -1,0 +1,82 @@
+[
+  {
+    "price": 64,
+    "name": "Sleep Inn Bessemer",
+    "address": "1259 Greenmor Dr, Bessemer, AL, 35022 United States",
+    "distance": 5.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42000/41972/41972_70_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Candlewood Suites Alabaster",
+    "address": "1004 Balmoral Dr, Alabaster, AL, 35007 United States",
+    "distance": 7.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1960000/1957200/1957191/1957191_137_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Hampton Inn Birmingham/Bessemer",
+    "address": "4910 Civic Ln, Bessemer, AL, 35022 United States",
+    "distance": 8.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/470000/464000/463927/463927_28_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Residence Inn by Marriott Birmingham/Hoover",
+    "address": "2725 John Hawkins Pkwy, Birmingham, AL, 35244 United States",
+    "distance": 8.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2030000/2025500/2025455/6da41c42_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Pelham",
+    "address": "230 Cahaba Valley Rd, Pelham, AL, 35124 United States",
+    "distance": 8.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3500000/3493400/3493357/3493357_68_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Comfort Inn Bessemer",
+    "address": "5051 Academy Ln, Bessemer, AL, 35022 United States",
+    "distance": 8.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/810000/809100/809094/809094_53_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Best Western Plus Bessemer Hotel \u0026 Suites",
+    "address": "5041 Academy Ln, Bessemer, AL, 35022 United States",
+    "distance": 8.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/327200/327164/327164_312_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Quality Inn",
+    "address": "5021 Academy Ln, Bessemer, AL, 35022 United States",
+    "distance": 8.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/569400/569368/569368_43_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "Hampton Inn \u0026 Suites Birmingham-Pelham",
+    "address": "232 Cahaba Valley Rd, Pelham, AL, 35124 United States",
+    "distance": 8.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/851400/851389/851389_106_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Bessemer",
+    "address": "5001 Academy Ln, Bessemer, AL, 35022 United States",
+    "distance": 8.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/899300/899281/899281_365_l.jpg"
+  }
+]

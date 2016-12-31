@@ -1,0 +1,82 @@
+[
+  {
+    "price": 79,
+    "name": "Comfort Suites Elgin",
+    "address": "2480 Bushwood Drive, Elgin, IL, 60124 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1530000/1522200/1522193/1522193_79_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Candlewood Suites Elgin",
+    "address": "1780 Capital St, Elgin, IL, 60124 United States",
+    "distance": 2.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2470000/2462700/2462675/2462675_59_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Country Inn \u0026 Suites By Carlson, Elgin, IL",
+    "address": "2270 Point Blvd, Elgin, IL, 60123 United States",
+    "distance": 2.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/565200/565186/565186_19_l.jpg"
+  },
+  {
+    "price": 86,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Chicago-Algonquin",
+    "address": "2595 Bunker Hill Dr, Algonquin, IL, 60102 United States",
+    "distance": 4.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/660000/658500/658492/269121a7_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Quality Inn Elgin",
+    "address": "500 Tollgate Rd, Elgin, IL, 60123 United States",
+    "distance": 5.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50600/50596/50596_90_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Courtyard by Marriott Elgin West Dundee",
+    "address": "2175 Marriott Dr, West Dundee, IL, 60118 United States",
+    "distance": 5.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/327500/327433/327433_88_l.jpg"
+  },
+  {
+    "price": 86,
+    "name": "TownePlace Suites by Marriott Chicago Elgin-West Dundee",
+    "address": "2185 Marriott Dr, West Dundee, IL, 60118 United States",
+    "distance": 5.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/283700/283617/599f450b_l.jpg"
+  },
+  {
+    "price": 94,
+    "name": "Holiday Inn Chicago Northwest-Elgin",
+    "address": "495 Airport Rd, Elgin, IL, 60123 United States",
+    "distance": 5.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/151200/151142/151142_503_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Super 8 - Elgin",
+    "address": "435 Airport Rd, Elgin, IL, 60123 United States",
+    "distance": 5.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/49500/49445/49445_119_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Hampton Inn Chicago Elgin I 90",
+    "address": "405 Airport Rd, Elgin, IL, 60123 United States",
+    "distance": 5.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/200000/197500/197433/197433_16_l.jpg"
+  }
+]

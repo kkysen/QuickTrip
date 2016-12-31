@@ -1,0 +1,82 @@
+[
+  {
+    "price": 50,
+    "name": "Rodeway Inn \u0026 Suites",
+    "address": "1451 Sunset Dr, Grenada, MS, 38901 United States",
+    "distance": 1.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/55600/55536/55536_57_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Econo Lodge Grenada",
+    "address": "1552 Sunset Dr, Grenada, MS, 38901 United States",
+    "distance": 3.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4300/4260/4260_42_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Hampton Inn \u0026 Suites Grenada",
+    "address": "1545 Jameson Dr, Grenada, MS, 38901 United States",
+    "distance": 3.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1790000/1785000/1784928/8e065a48_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Relax Inn Grenada",
+    "address": "1632 Sunset Dr, Grenada, MS, 38901 United States",
+    "distance": 3.0,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13000/12987/78ba3b98_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Holiday Inn Express \u0026 Suites Grenada",
+    "address": "1540 Sunset Dr, Grenada, MS, 38901 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1350000/1348700/1348603/1348603_129_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Comfort Inn \u0026 Suites Grenada",
+    "address": "255 Sw Frontage Rd, Grenada, MS, 38901 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/600000/597300/597225/597225_45_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Americas Best Value Inn - Grenada",
+    "address": "1750 Sunset Dr, Grenada, MS, 38901 United States",
+    "distance": 3.2,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17800/17756/17756_114_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Knights Inn Grenada",
+    "address": "1796 Sunset Dr, Grenada, MS, 38901 United States",
+    "distance": 3.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11000/10986/10986_100_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Baymont Inn And Suites Grenada MS",
+    "address": "1575 Jamison Dr, Grenada, MS, 38901 United States",
+    "distance": 3.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/530000/525800/525715/525715_138_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Holiday Inn Express and Suites Winona North",
+    "address": "413 SE Frontage Road, Winona, MS, 38967 United States",
+    "distance": 20.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3560000/3557700/3557655/3557655_99_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 120,
+    "name": "Holiday Inn Express Show Low",
+    "address": "151 W Deuce Of Clubs, Show Low, AZ, 85901 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23600/23591/23591_162_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Best Western Paint Pony Lodge",
+    "address": "581 W Deuce Of Clubs, Show Low, AZ, 85901 United States",
+    "distance": 0.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20800/20747/20747_80_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Snowy River Inn",
+    "address": "1640 E Deuce of Clubs, Show Low, AZ, 85901 United States",
+    "distance": 1.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15890000/15886300/15886265/bfd9aa56_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Super 8 Show Low",
+    "address": "1751 W Deuce Of Clubs, Show Low, AZ, 85901 United States",
+    "distance": 1.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/61000/60929/60929_157_l.jpg"
+  },
+  {
+    "price": 124,
+    "name": "Hampton Inn \u0026 Suites Show Low-Pinetop",
+    "address": "1501 E Woolford, Show Low, AZ, 85901 United States",
+    "distance": 1.5,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2120000/2115100/2115012/2115012_7_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Lazy Oaks Resort",
+    "address": "1075 Larson Rd., Lakeside, AZ, 85929 United States",
+    "distance": 7.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12590000/12580700/12580639/7c6446f8_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Best Western Inn Of Pinetop",
+    "address": "404 E White Mountain Boulevard, Pinetop, AZ, 85935 United States",
+    "distance": 9.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1300/1232/1232_55_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Holiday Inn Express Pinetop",
+    "address": "431 E White Mountain Blvd, Pinetop, AZ, 85935 United States",
+    "distance": 9.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/64400/64360/64360_148_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Quality Inn",
+    "address": "458 E White Mountain Blvd, Pinetop, AZ, 85935 United States",
+    "distance": 9.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1410000/1403900/1403827/c7735a11_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Timberlodge Inn",
+    "address": "1078 E. White Mountain Blvd, Pinetop, AZ, 85935 United States",
+    "distance": 10.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11730000/11729800/11729725/11729725_3_l.jpg"
+  }
+]

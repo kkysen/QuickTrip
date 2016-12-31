@@ -1,0 +1,82 @@
+[
+  {
+    "price": 75,
+    "name": "La Quinta Inn \u0026 Suites Little Rock Downtown Conference Ctr.",
+    "address": "617 S Broadway, Little Rock, AR, 72201 United States",
+    "distance": 0.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/903700/903629/903629_156_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Legacy Hotel and Suites",
+    "address": "625 W Capitol Ave, Little Rock, AR, 72201 United States",
+    "distance": 0.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1100000/1094400/1094379/437d1c69_l.jpg"
+  },
+  {
+    "price": 189,
+    "name": "Little Rock Marriott",
+    "address": "3 Statehouse Plaza, Little Rock, AR, 72201 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1600/1564/1ccfd090_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "DoubleTree by Hilton Little Rock",
+    "address": "424 W Markham St, Little Rock, AR, 72201 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28100/28024/28024_60_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Homewood Suites by Hilton Little Rock Downtown",
+    "address": "400 River Market Avenue, Little Rock, AR, 72201 United States",
+    "distance": 0.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10530000/10526500/10526473/10526473_30_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Hampton Inn \u0026 Suites Little Rock Downtown",
+    "address": "320 River Market Avenue, Little Rock, AR, 72201 United States",
+    "distance": 0.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2290000/2286000/2285965/2285965_24_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Residence Inn Little Rock Downtown",
+    "address": "219 River Market Ave, Little Rock, AR, 72201 United States",
+    "distance": 0.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6040000/6037400/6037348/c3b3ab96_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Courtyard by Marriott Little Rock Downtown",
+    "address": "521 President Clinton Ave, Little Rock, AR, 72201 United States",
+    "distance": 0.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1110000/1109800/1109707/ff4cd078_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Holiday Inn Little Rock-Presidential-Dwntn",
+    "address": "600 Interstate 30, Little Rock, AR, 72202 United States",
+    "distance": 0.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21000/20944/788b3f39_l.jpg"
+  },
+  {
+    "price": 30,
+    "name": "Firehouse Hostel \u0026 Museum",
+    "address": "1201 Commerce Street, Little Rock, AR, 72202 United States",
+    "distance": 0.6,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16320000/16315500/16315453/d3d84f03_l.jpg"
+  }
+]

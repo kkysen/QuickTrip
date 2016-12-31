@@ -1,0 +1,82 @@
+[
+  {
+    "price": 84,
+    "name": "Ramada Topeka Downtown Hotel and Convention Center",
+    "address": "420 E 6th St, Topeka, KS, 66607 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6800/6745/72296691_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Senate Luxury Suites",
+    "address": "900 SW Tyler Street, Topeka, KS, 66612 United States",
+    "distance": 0.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25100/25050/25050_77_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Capitol Plaza Topeka",
+    "address": "1717 Sw Topeka Blvd, Topeka, KS, 66612 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/151200/151173/151173_63_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Holiday Inn Express Hotel \u0026 Suites TOPEKA NORTH",
+    "address": "601 Nw Highway 24, Topeka, KS, 66608 United States",
+    "distance": 2.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3380000/3378200/3378183/3378183_122_l.jpg"
+  },
+  {
+    "price": 40,
+    "name": "Motel 6 Topeka Northwest",
+    "address": "709 Fairlawn Road, Topeka, KS, 66606 United States",
+    "distance": 3.8,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/996400/996339/93aad17a_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Best Western Topeka Inn \u0026 Suites",
+    "address": "700 SW Fairlawn Road, Topeka, KS, 66606 United States",
+    "distance": 3.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/470000/461200/461129/cea30b1e_l.jpg"
+  },
+  {
+    "price": 96,
+    "name": "Ramada Topeka West",
+    "address": "605 SW Fairlawn, Topeka, KS, 66606 United States",
+    "distance": 3.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24800/24726/24726_396_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Americas Best Value Inn",
+    "address": "3802 SW Topeka Boulevard, Topeka, KS, 66609 United States",
+    "distance": 3.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4540000/4532700/4532659/4532659_32_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Topeka Plaza Inn",
+    "address": "3810 SW Topeka Blvd, Topeka, KS, 66609 United States",
+    "distance": 3.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16200/16195/16195_53_l.jpg"
+  },
+  {
+    "price": 39,
+    "name": "Travelers Inn Topeka",
+    "address": "3846 sw Topeka BLVD, Topeka, KS, 66609 United States",
+    "distance": 3.9,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10410000/10404400/10404397/10404397_21_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 116,
+    "name": "Hyatt Place Cleveland/Lyndhurst/Legacy Village",
+    "address": "24665 Cedar Road, Lyndhurst, OH, 44124 United States",
+    "distance": 2.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14750000/14742300/14742268/7e2657df_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Washington Place Bistro \u0026 Inn",
+    "address": "2203 Cornell Road, Cleveland, OH, 44106 United States",
+    "distance": 3.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10420000/10414500/10414483/10414483_1_l.jpg"
+  },
+  {
+    "price": 170,
+    "name": "Courtyard by Marriott Cleveland University Circle",
+    "address": "2021 Cornell Rd, Cleveland, OH, 44106 United States",
+    "distance": 3.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5860000/5851200/5851143/5851143_44_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "The Glidden House",
+    "address": "1901 Ford Dr, Cleveland, OH, 44106 United States",
+    "distance": 3.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4100/4042/4042_21_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "DoubleTree by Hilton - The Tudor Arms Hotel",
+    "address": "10660 Carnegie Ave, Cleveland, OH, 44106 United States",
+    "distance": 4.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4290000/4287400/4287341/4287341_12_l.jpg"
+  },
+  {
+    "price": 224,
+    "name": "InterContinental Cleveland",
+    "address": "9801 Carnegie Ave, Cleveland, OH, 44106 United States",
+    "distance": 4.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/916400/916333/43896ba7_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Staybridge Suites Cleveland Mayfield Heights Beachwood",
+    "address": "6103 Landerhaven Drive, Mayfield Heights, OH, 44124 United States",
+    "distance": 4.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1650000/1640200/1640105/1640105_75_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "Homewood Suites by Hilton Cleveland-Beachwood",
+    "address": "25725 Central Pkwy, Beachwood, OH, 44122 United States",
+    "distance": 4.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1980000/1973100/1973045/1973045_54_l.jpg"
+  },
+  {
+    "price": 144,
+    "name": "InterContinental Suites Hotel Cleveland",
+    "address": "8800 Euclid Ave, Cleveland, OH, 44106 United States",
+    "distance": 4.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/425000/424938/424938_386_l.jpg"
+  },
+  {
+    "price": 137,
+    "name": "Holiday Inn Cleveland Clinic",
+    "address": "8650 Euclid Ave, Cleveland, OH, 44106 United States",
+    "distance": 4.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12410000/12403300/12403291/a148f749_l.jpg"
+  }
+]

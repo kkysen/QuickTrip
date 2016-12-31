@@ -1,0 +1,82 @@
+[
+  {
+    "price": 73,
+    "name": "Red Roof Inn Zanesville",
+    "address": "135 N 7th St, Zanesville, OH, 43701 United States",
+    "distance": 0.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12300/12243/b5845aa6_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Baymont Inn Zanesville",
+    "address": "230 Scenic Crest Dr, Zanesville, OH, 43701 United States",
+    "distance": 0.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/124300/124215/124215_35_l.jpg"
+  },
+  {
+    "price": 123,
+    "name": "Hampton Inn Zanesville",
+    "address": "1009 Spring St, Zanesville, OH, 43701 United States",
+    "distance": 0.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/85100/85068/85068_98_l.jpg"
+  },
+  {
+    "price": 175,
+    "name": "Fairfield by Marriott Zanesville",
+    "address": "725 Zane St, Zanesville, OH, 43701 United States",
+    "distance": 0.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9100/9003/9003_73_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Super 8 Zanesville OH",
+    "address": "2440 National Rd, Zanesville, OH, 43701 United States",
+    "distance": 5.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459600/459574/befd2d19_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Economy Inn Zanesville",
+    "address": "4925 East Pike, Zanesville, OH, 43701-8429 United States",
+    "distance": 5.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15500000/15497900/15497805/ee47a229_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "Best Western B. R. Guest",
+    "address": "4929 East Pike, I-70 At Exit #160, Sr-797/airport Exit, Zanesville, OH, 43701 United States",
+    "distance": 5.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/117400/117381/257ad7f2_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Bakers Motel Norwich",
+    "address": "8855 East Pike, Norwich, OH, 43767 United States",
+    "distance": 9.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3800000/3800000/3799905/60a82674_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Garland Hotel, an Ascend Hotel Collection Member",
+    "address": "150 Garland Way, New Concord, OH, 43762 United States",
+    "distance": 15.0,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13480000/13471700/13471606/ce062aab_l.jpg"
+  },
+  {
+    "price": 112,
+    "name": "Fairfield Inn \u0026 Suites Cambridge",
+    "address": "8700 Dozer Rd, Cambridge, OH, 43725 United States",
+    "distance": 23.0,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15740000/15739600/15739581/14b18738_l.jpg"
+  }
+]

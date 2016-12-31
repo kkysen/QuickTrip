@@ -1,0 +1,18 @@
+[
+  {
+    "price": 155,
+    "name": "Crystal Mountain Hotels",
+    "address": "33818 Crystal Mountain Blvd., Enumclaw, WA, 98022 United States",
+    "distance": 16.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1830000/1828400/1828375/1828375_4_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "GuestHouse Inn Enumclaw",
+    "address": "1000 Griffin Ave, Enumclaw, WA, 98022 United States",
+    "distance": 17.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24900/24875/24875_77_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 57,
+    "name": "Super 8 Clearwater US Highway 19 North",
+    "address": "22950 US Highway 19 North, Clearwater, FL, 33765 United States",
+    "distance": 2.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/124200/124163/3eabb110_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Howard Johnson Clearwater",
+    "address": "27988 Us Highway 19 N, Clearwater, FL, 33761 United States",
+    "distance": 2.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24400/24312/e6a4796f_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Tampa Northwest - Oldsmar",
+    "address": "3990 Tampa Rd, Oldsmar, FL, 34677 United States",
+    "distance": 2.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/901800/901720/901720_266_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Residence Inn by Marriott Tampa Oldsmar",
+    "address": "4012 Tampa Rd, Oldsmar, FL, 34677 United States",
+    "distance": 3.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1140000/1131000/1130937/1130937_37_l.jpg"
+  },
+  {
+    "price": 239,
+    "name": "Courtyard by Marriott Tampa Oldsmar",
+    "address": "4014 Tampa Rd, Oldsmar, FL, 34677 United States",
+    "distance": 3.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/907100/907019/907019_85_l.jpg"
+  },
+  {
+    "price": 144,
+    "name": "Hampton Inn And Suites Tampa Northwest",
+    "address": "4017 Tampa Road, Oldsmar, FL, 34677 United States",
+    "distance": 3.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5930000/5923700/5923663/5923663_16_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Hilton Garden Inn Tampa Northwest/Oldsmar",
+    "address": "4052 Tampa Rd, Oldsmar, FL, 34677 United States",
+    "distance": 3.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1490000/1481800/1481774/1481774_28_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Clearwater",
+    "address": "3070 Gulf To Bay Blvd, Clearwater, FL, 33759 United States",
+    "distance": 3.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/794900/794896/b4ef3125_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Days Inn Clearwater Central",
+    "address": "2940 Gulf To Bay Blvd, Clearwater, FL, 33759 United States",
+    "distance": 3.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6900/6873/6873_103_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "La Quinta Inn Clearwater Central",
+    "address": "21338 Us Highway 19 N, Clearwater, FL, 33765 United States",
+    "distance": 3.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15600/15577/733380cd_l.jpg"
+  }
+]

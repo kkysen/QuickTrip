@@ -1,0 +1,18 @@
+[
+  {
+    "price": 80,
+    "name": "Best Western Penn-Ohio Inn \u0026 Suites",
+    "address": "6828 Commerce Dr, Hubbard, OH, 44425 United States",
+    "distance": 1.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1340000/1330400/1330305/1330305_98_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Travelodge Hubbard OH",
+    "address": "2375 North Main Street, Hubbard, OH, 44425 United States",
+    "distance": 1.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5500000/5494400/5494362/5494362_101_l.jpg"
+  }
+]

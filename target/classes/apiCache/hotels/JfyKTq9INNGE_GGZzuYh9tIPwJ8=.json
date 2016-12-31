@@ -1,0 +1,82 @@
+[
+  {
+    "price": 176,
+    "name": "Fairfield Inn Kansas City Downtown/Union Hill by Marriott",
+    "address": "3001 Main St, Kansas City, MO, 64108 United States",
+    "distance": 0.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/700000/691800/691730/691730_28_l.jpg"
+  },
+  {
+    "price": 172,
+    "name": "Residence Inn by Marriott Kansas City Downtown Union Hill",
+    "address": "2975 Main St, Kansas City, MO, 64108 United States",
+    "distance": 0.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12300/12294/12294_21_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "Americas Best Value Inn \u0026 Suites Kansas City Downtown",
+    "address": "3240 Broadway St, Kansas City, MO, 64111 United States",
+    "distance": 0.6,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41600/41569/41569_87_l.jpg"
+  },
+  {
+    "price": 251,
+    "name": "The Westin Kansas City at Crown Center",
+    "address": "1 E Pershing Rd, Kansas City, MO, 64108 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2900/2811/2811_235_l.jpg"
+  },
+  {
+    "price": 239,
+    "name": "Sheraton Kansas City Hotel at Crown Center",
+    "address": "2345 McGee Street, Kansas City, MO, 64108 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14300/14297/14297_201_l.jpg"
+  },
+  {
+    "price": 212,
+    "name": "AC Hotels by Marriott Kansas City Westport",
+    "address": "560 Westport Rd, Kansas City, MO, 64111 United States",
+    "distance": 1.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1100/1010/672c0f24_l.jpg"
+  },
+  {
+    "price": 194,
+    "name": "Embassy Suites Kansas City - Plaza",
+    "address": "220 W 43rd St, Kansas City, MO, 64111 United States",
+    "distance": 1.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23600/23518/23518_75_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Best Western Plus Seville Plaza Hotel",
+    "address": "4309 Main Street, Kansas City, MO, 64111 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10400/10318/10318_74_l.jpg"
+  },
+  {
+    "price": 254,
+    "name": "Kansas City Marriott Country Club Plaza",
+    "address": "4445 Main St, Kansas City, MO, 64111 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19100/19097/58eb26a4_l.jpg"
+  },
+  {
+    "price": 153,
+    "name": "Holiday Inn Country Club Plaza",
+    "address": "1 E 45th St, Kansas City, MO, 64111 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9900/9814/9814_208_l.jpg"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "price": 42,
+    "name": "Holiday Motel Hugo, OK",
+    "address": "3102 E. Jackson Street, Hugo, OK, 74743 United States",
+    "distance": 2.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9070000/9061700/9061618/9061618_9_l.jpg"
+  },
+  {
+    "price": 34,
+    "name": "Village Inn",
+    "address": "610 W Jackson St, Hugo, OK, 74743 United States",
+    "distance": 2.7,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7730000/7720100/7720022/7720022_1_l.jpg"
+  }
+]

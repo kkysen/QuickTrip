@@ -1,0 +1,82 @@
+[
+  {
+    "price": 179,
+    "name": "Holiday Inn Coral Gables - University",
+    "address": "1350 S Dixie Hwy, Coral Gables, FL, 33146 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25500/25490/25490_300_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Apartments in Coral Gables by LYX",
+    "address": "4251 Salzedo Street, Coral Gables, FL, 33146 United States",
+    "distance": 1.7,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11550000/11543900/11543890/11543890_30_l.jpg"
+  },
+  {
+    "price": 305,
+    "name": "Pelican Residences in Coral Gables",
+    "address": "4251 Salzedo Street, Coral Gables, FL, 33146 United States",
+    "distance": 1.7,
+    "rating": 3.3,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10580000/10572900/10572805/10572805_61_l.jpg"
+  },
+  {
+    "price": 231,
+    "name": "Four Points by Sheraton Coral Gables",
+    "address": "3861 S.W. 40th Street, Coral Gables, FL, 33146 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11670000/11667700/11667617/11667617_6_l.jpg"
+  },
+  {
+    "price": 499,
+    "name": "Biltmore Hotel - Miami - Coral Gables",
+    "address": "1200 Anastasia Ave, Coral Gables, FL, 33134 United States",
+    "distance": 2.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22000/21937/21937_235_l.jpg"
+  },
+  {
+    "price": 291,
+    "name": "Hotel Colonnade Coral Gables, a Tribute Portfolio Hotel",
+    "address": "180 Aragon Ave, Coral Gables, FL, 33134 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1100/1052/c0c0a8e8_l.jpg"
+  },
+  {
+    "price": 236,
+    "name": "Hyatt Regency Coral Gables",
+    "address": "50 Alhambra Plaza, Coral Gables, FL, 33134 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10200/10192/10192_130_l.jpg"
+  },
+  {
+    "price": 237,
+    "name": "Courtyard Miami in Coral Gables by Marriott",
+    "address": "2051 Lejeune Road, Coral Gables, FL, 33134 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20800/20748/20748_100_l.jpg"
+  },
+  {
+    "price": 151,
+    "name": "Hotel St. Michel",
+    "address": "162 Alcazar Ave, Coral Gables, FL, 33134 United States",
+    "distance": 3.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13100/13055/13055_38_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Chateaubleau Hotel",
+    "address": "1111 Ponce De Leon Blvd, Coral Gables, FL, 33134 United States",
+    "distance": 3.6,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/110000/106200/106147/106147_49_l.jpg"
+  }
+]

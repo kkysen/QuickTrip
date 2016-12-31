@@ -1,0 +1,82 @@
+[
+  {
+    "price": 55,
+    "name": "Quality Inn",
+    "address": "1010 E Columbian Blvd N, Litchfield, IL, 62056 United States",
+    "distance": 9.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/327400/327335/327335_90_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Americas Best Value Inn Litchfield",
+    "address": "224 N Ohren Ln, Litchfield, IL, 62056 United States",
+    "distance": 9.7,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1900/1896/1896_86_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "Baymont Inn and Suites Litchfield",
+    "address": "1405 W Hudson Dr, Litchfield, IL, 62056 United States",
+    "distance": 9.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/537800/537794/d5b9d1e8_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "Holiday Inn Express \u0026 Suites Litchfield West",
+    "address": "4 Thunderbird Circle, Litchfield, IL, 62056 United States",
+    "distance": 10.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10350000/10345100/10345065/10345065_71_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Hampton Inn Litchfield",
+    "address": "11 Thunderbird Circle, Litchfield, IL, 62056 United States",
+    "distance": 10.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1380000/1374000/1373941/1373941_5_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "Magnuson Grand Hotel And Conference Center",
+    "address": "19067 W Frontage Rd, Raymond, IL, 62560 United States",
+    "distance": 12.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4200000/4197200/4197197/4197197_21_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Super 8 Staunton",
+    "address": "1527 Herman Rd, Staunton, IL, 62088 United States",
+    "distance": 17.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/62400/62339/7a420268_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Red Carpet Inn",
+    "address": "1525 South State Rt 127, Greenville, IL, 62246 United States",
+    "distance": 19.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9790000/9785800/9785796/9785796_3_l.jpg"
+  },
+  {
+    "price": 57,
+    "name": "Super 8 Greenville",
+    "address": "1700 Sate Route 127, Greenville, IL, 62246 United States",
+    "distance": 20.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/855900/855842/7464d7b3_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Econo Lodge \u0026 Suites",
+    "address": "1731 S State Route 127, Greenville, IL, 62246 United States",
+    "distance": 20.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11500/11487/11487_114_l.jpg"
+  }
+]

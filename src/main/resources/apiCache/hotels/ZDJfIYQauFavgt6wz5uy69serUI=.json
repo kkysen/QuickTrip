@@ -1,0 +1,82 @@
+[
+  {
+    "price": 135,
+    "name": "Holiday Inn Express Stony Brook",
+    "address": "3131 Nesconset Hwy, South Setauket, NY, 11720 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13200/13198/13198_198_l.jpg"
+  },
+  {
+    "price": 112,
+    "name": "Americas Best Value Inn",
+    "address": "755 Smithtown Bypass, Smithtown, NY, 11787 United States",
+    "distance": 2.4,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19600/19556/19556_42_l.jpg"
+  },
+  {
+    "price": 223,
+    "name": "Courtyard by Marriott Long Island MacArthur Airport",
+    "address": "5000 Express Dr S, Ronkonkoma, NY, 11779 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/854500/854422/854422_62_l.jpg"
+  },
+  {
+    "price": 146,
+    "name": "Hilton Garden Inn Stony Brook",
+    "address": "1 Circle Road, Stony Brook, NY, 11794 United States",
+    "distance": 3.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5580000/5576300/5576209/5576209_14_l.jpg"
+  },
+  {
+    "price": 220,
+    "name": "Islandia Marriott Long Island",
+    "address": "3635 Express Dr N, Islandia, NY, 11749 United States",
+    "distance": 4.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26700/26698/26698_43_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Hyatt Regency Long Island at Wind Watch Golf Club",
+    "address": "1717 Motor Parkway, Hauppauge, NY, 11788 United States",
+    "distance": 4.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3700/3668/3668_36_l.jpg"
+  },
+  {
+    "price": 174,
+    "name": "Residence Inn by Marriott Long Island Holtsville",
+    "address": "25 Middle Ave, Holtsville, NY, 11742 United States",
+    "distance": 4.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1070000/1068900/1068885/1068885_46_l.jpg"
+  },
+  {
+    "price": 186,
+    "name": "Three Village Inn",
+    "address": "150 Main Street, Main St. on the Harbor, Stony Brook, NY, 11790 United States",
+    "distance": 4.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/970000/970000/969910/969910_2_l.jpg"
+  },
+  {
+    "price": 154,
+    "name": "Hilton Garden Inn Islip",
+    "address": "3485 Veterans Memorial Hwy, Ronkonkoma, NY, 11779 United States",
+    "distance": 4.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/970000/966200/966117/966117_35_l.jpg"
+  },
+  {
+    "price": 152,
+    "name": "Hampton Inn Long Island/Islandia",
+    "address": "1600 Veterans Memorial Hwy, Islandia, NY, 11749 United States",
+    "distance": 4.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16300/16251/f32977b4_l.jpg"
+  }
+]

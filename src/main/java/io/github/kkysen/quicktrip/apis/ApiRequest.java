@@ -8,19 +8,27 @@ import io.github.kkysen.quicktrip.reflect.annotations.AnnotationUtils;
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.lang.reflect.Field;
+import java.lang.reflect.Type;
 import java.net.URLEncoder;
+import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
+import java.time.Instant;
+import java.util.ArrayList;
 import java.util.Base64;
 import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Map.Entry;
 import java.util.Set;
 import java.util.StringJoiner;
 import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.ConcurrentSkipListMap;
 
+import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 
@@ -31,8 +39,14 @@ import lombok.RequiredArgsConstructor;
  * @param <R> type of POJO representing the API response response, presumably a
  *            JSON one
  */
+/**
+ * 
+ * 
+ * @author Khyber Sen
+ * @param <R>
+ */
 public abstract class ApiRequest<R> {
-        
+    
     private static final String CACHE_DIR = "src/main/resources/apiCache/";
     
     public static final class RequestCache {
@@ -61,15 +75,21 @@ public abstract class ApiRequest<R> {
         
         @RequiredArgsConstructor
         @Getter
-        private static class Entry {
+        private static class Entry implements Comparable<Entry> {
             
             private final String url;
             private final String id;
             private final Path path;
+            private final Instant time;
             
             @Override
             public String toString() {
-                return url + "," + id + "," + path;
+                return String.join(SEP, time.toString(), url, id, path.toString());
+            }
+            
+            @Override
+            public int compareTo(final Entry other) {
+                return time.compareTo(other.time);
             }
             
         }
@@ -80,9 +100,11 @@ public abstract class ApiRequest<R> {
         private final Map<Path, String> path2id = new ConcurrentHashMap<>();
         private final Map<String, String> id2url = new ConcurrentHashMap<>();
         
+        private final Map<String, Instant> url2time = new ConcurrentSkipListMap<>();
+        
         private final Set<Entry> entries = ConcurrentHashMap.newKeySet();
         
-        private void put(final String url, final String id, final Path path) {
+        private void put(final Instant time, final String url, final String id, final Path path) {
             if (url2id.containsKey(url)) {
                 return;
             }
@@ -93,15 +115,18 @@ public abstract class ApiRequest<R> {
             path2id.put(path, id);
             id2url.put(id, url);
             
-            entries.add(new Entry(url, id, path));
+            url2time.put(url, time);
+            
+            entries.add(new Entry(url, id, path, time));
         }
         
         public void put(final ApiRequest<?> request) {
             final String url = request.url;
             final String id = hashToBase64(url);
             final String fileName = id + "." + request.getFileExtension();
-            final Path path = Paths.get(CACHE_DIR, request.getRelativeCachePath().toString(), fileName);
-            put(url, id, path);
+            final Path path = Paths.get(CACHE_DIR, request.getRelativeCachePath().toString(),
+                    fileName);
+            put(Instant.now(), url, id, path);
         }
         
         public Set<Entry> entrySet() {
@@ -119,7 +144,11 @@ public abstract class ApiRequest<R> {
                 return id2path.get(id);
             } else {
                 final String url = idOrUrl;
-                return id2path.get(url2id.get(url));
+                final String id = url2id.get(url);
+                if (id == null) {
+                    return null;
+                }
+                return id2path.get(id);
             }
         }
         
@@ -148,10 +177,16 @@ public abstract class ApiRequest<R> {
         }
         
         private void load(final Path path) throws IOException {
-            MyFiles.readLines(path).forEach(line -> {
-                final String[] lineParts = line.split(SEP);
-                put(lineParts[0], lineParts[1], Paths.get(lineParts[2]));
-            });
+            Files.lines(path)
+                    .filter(line -> !line.isEmpty())
+                    .forEach(line -> {
+                        final String[] lineParts = line.split(SEP);
+                        final Instant time = Instant.parse(lineParts[0]);
+                        final String url = lineParts[1];
+                        final String id = lineParts[2];
+                        final Path requestPath = Paths.get(lineParts[3]);
+                        put(time, url, id, requestPath);
+                    });
         }
         
         private RequestCache(final Path path) {
@@ -173,7 +208,9 @@ public abstract class ApiRequest<R> {
         }
         
         private void save(final Path path) throws IOException {
-            MyFiles.write(path, entries);
+            final List<Entry> entryList = new ArrayList<>(entries);
+            entryList.sort(null);
+            MyFiles.write(path, entryList);
         }
         
         public void save() {
@@ -186,7 +223,7 @@ public abstract class ApiRequest<R> {
         
     }
     
-    private static final class QueryEncoder extends HashMap<String, String> {
+    private static final class QueryEncoder extends LinkedHashMap<String, String> {
         
         private static final long serialVersionUID = 3055592436293901045L;
         
@@ -207,9 +244,7 @@ public abstract class ApiRequest<R> {
         @Override
         public String toString() {
             final StringJoiner queryString = new StringJoiner("&", "?", "");
-            for (final String name : keySet()) {
-                queryString.add(name + '=' + get(name));
-            }
+            entrySet().forEach(entry -> queryString.add(entry.getKey() + '=' + entry.getValue()));
             return queryString.toString();
         }
         
@@ -221,15 +256,29 @@ public abstract class ApiRequest<R> {
         // will save cache on exit as long as JVM shuts down w/o internal JVM error
         Runtime.getRuntime().addShutdownHook(SAVE_ON_EXIT);
     }
-        
+    
     private final String apiKey;
     private final String baseUrl;
     
     private final Map<String, String> query = new QueryEncoder();
     
-    private @Getter String url;
+    private @Getter(AccessLevel.PROTECTED) String url;
+    
+    protected abstract Class<? extends R> getPojoClass();
+    
+    /**
+     * If getPojoClass does not work because of generics, return null.
+     * Then override this and return the Type.
+     * 
+     * @return POJO Type
+     */
+    protected Type getPojoType() {
+        return null;
+    }
     
     protected final Class<? extends R> pojoClass;
+    protected final Type pojoType;
+    
     private R response;
     
     protected String getApiKeyQueryName() {
@@ -257,8 +306,9 @@ public abstract class ApiRequest<R> {
             return shouldRemove;
         });
         final Map<Field, Object> queryEntries = Reflect.getFieldEntries(queryFields, this);
-        for (final Field queryField : queryEntries.keySet()) {
-            final String queryValue = queryEntries.get(queryField).toString();
+        for (final Entry<Field, Object> entry : queryEntries.entrySet()) {
+            final Field queryField = entry.getKey();
+            final String queryValue = entry.getValue().toString();
             if (!queryValue.isEmpty()) {
                 final QueryField annotation = field2annotation.get(queryField);
                 String name = annotation.name();
@@ -284,8 +334,6 @@ public abstract class ApiRequest<R> {
     
     protected abstract String getFileExtension();
     
-    protected abstract Class<? extends R> getPojoClass();
-    
     private void addApiKey() {
         if (!apiKey.isEmpty()) {
             query.put(getApiKeyQueryName(), apiKey);
@@ -296,6 +344,7 @@ public abstract class ApiRequest<R> {
         apiKey = getApiKey();
         baseUrl = getBaseUrl();
         pojoClass = getPojoClass();
+        pojoType = getPojoType();
     }
     
     private void setQueryAndUrl() {
@@ -304,6 +353,7 @@ public abstract class ApiRequest<R> {
         modifyQuery(query);
         url = baseUrl + query.toString();
     }
+    
     private boolean isCached() {
         return requestCache.containsUrl(url);
     }
@@ -319,11 +369,13 @@ public abstract class ApiRequest<R> {
             setQueryAndUrl();
         }
         if (response == null) {
-            final Path cachePath = requestCache.getPath(url);
             if (isCached()) {
+                final Path cachePath = requestCache.getPath(url);
                 response = parseFromFile(cachePath);
             } else {
                 response = parseFromUrl(url);
+                requestCache.put(this);
+                final Path cachePath = requestCache.getPath(url);
                 cache(cachePath, response);
             }
         }

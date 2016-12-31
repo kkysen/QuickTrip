@@ -1,0 +1,26 @@
+[
+  {
+    "price": 56,
+    "name": "Americas Best Value Inn",
+    "address": "1656 Industrial Rd, Malvern, AR, 72104 United States",
+    "distance": 2.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1120000/1119000/1118920/1118920_43_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Comfort Inn Malvern",
+    "address": "2320 Leopard Ln, Malvern, AR, 72104 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1110000/1107500/1107495/1107495_36_l.jpg"
+  },
+  {
+    "price": 96,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Malvern",
+    "address": "2660 S. River Creek Drive, Malvern, AR, 72104 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1780000/1778100/1778046/1778046_89_l.jpg"
+  }
+]

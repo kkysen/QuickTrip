@@ -1,0 +1,82 @@
+[
+  {
+    "price": 185,
+    "name": "Blue Chip Casino Hotel and Spa",
+    "address": "777 Blue Chip Drive, Michigan City, IN, 46360 United States",
+    "distance": 0.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/3000000/2991300/2991209/2991209_136_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Travel Inn Motel",
+    "address": "3944 Franklin St, Michigan City, IN, 46360 United States",
+    "distance": 2.6,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1580000/1570400/1570375/8e8e3e4c_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Baymont Inn \u0026 Suites Michigan City",
+    "address": "4128 South Franklin Street, Michigan City, IN, 46360 United States",
+    "distance": 2.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21300/21232/21232_91_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Super 8 Michigan City",
+    "address": "5724 S. Franklin St, Michigan City, IN, 46360 United States",
+    "distance": 3.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/450000/440300/440213/feee8136_l.jpg"
+  },
+  {
+    "price": 48,
+    "name": "Knights Inn Michigan City",
+    "address": "201 W Kieffer Rd, Michigan City, IN, 46360 United States",
+    "distance": 3.7,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/123900/123878/123878_150_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Red Roof Inn Michigan City",
+    "address": "110 W Kieffer Rd, Michigan City, IN, 46360 United States",
+    "distance": 3.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25000/24958/24958_117_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Michigan City",
+    "address": "9834 W 400 N, Michigan City, IN, 46360 United States",
+    "distance": 3.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3600000/3594600/3594509/61d4a371_l.jpg"
+  },
+  {
+    "price": 43,
+    "name": "Dunes Inn Michigan City Hotel",
+    "address": "3934 North Frontage Rd, Michigan City, IN, 46360 United States",
+    "distance": 3.7,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/910000/909963/909963_24_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Country Inn \u0026 Suites By Carlson, Michigan City, IN",
+    "address": "3805 North Frontage Road, I-94 \u0026 Hwy 421, exit 34B, Michigan City, IN, 46360 United States",
+    "distance": 3.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1270000/1266200/1266200/1266200_54_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Quality Inn",
+    "address": "3801 Frontage Rd, Michigan City, IN, 46360 United States",
+    "distance": 3.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42600/42570/5eb60fb8_l.jpg"
+  }
+]

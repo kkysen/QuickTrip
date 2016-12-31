@@ -1,0 +1,26 @@
+[
+  {
+    "price": 77,
+    "name": "Quality Inn Live Oak",
+    "address": "6819 Us Highway 129, Live Oak, FL, 32060 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3900/3861/3861_116_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Econo Lodge Live Oak",
+    "address": "6811 N Us 129 \u0026 I 10, Live Oak, FL, 32060 United States",
+    "distance": 2.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6400/6383/6a80be3b_l.jpg"
+  },
+  {
+    "price": 132,
+    "name": "Holiday Inn Express Hotel \u0026 Suites LIVE OAK",
+    "address": "6694 Us Highway 129, Live Oak, FL, 32060 United States",
+    "distance": 2.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/798800/798756/798756_88_l.jpg"
+  }
+]

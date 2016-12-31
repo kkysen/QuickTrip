@@ -1,0 +1,50 @@
+[
+  {
+    "price": 64,
+    "name": "Comfort Inn",
+    "address": "818 South State Street, Clarksdale, MS, 38614 United States",
+    "distance": 3.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/151300/151227/151227_9_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Rodeway Inn",
+    "address": "710 S State St, Clarksdale, MS, 38614 United States",
+    "distance": 3.7,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/10000/9935/9935_6_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Americas Best Value Inn and Suites Clarksdale",
+    "address": "350 South State Street, Clarksdale, MS, 38614 United States",
+    "distance": 4.2,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/151300/151226/6dd431cb_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Bluestown Inn",
+    "address": "238 3rd Street, Clarksdale, MS, 38614 United States",
+    "distance": 4.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9510000/9503100/9503043/9503043_10_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "The Holy Moly Blues Central",
+    "address": "305 Issaquena Ave, Clarksdale, MS, 38614 United States",
+    "distance": 4.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12030000/12028800/12028767/12028767_22_l.jpg"
+  },
+  {
+    "price": 195,
+    "name": "Hopson Loft",
+    "address": "10 Commissary Cir, Clarksdale, MS, 38614 United States",
+    "distance": 5.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12400000/12392600/12392502/12392502_8_l.jpg"
+  }
+]

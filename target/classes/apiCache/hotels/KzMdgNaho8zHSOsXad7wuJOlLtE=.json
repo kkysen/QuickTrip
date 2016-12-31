@@ -1,0 +1,26 @@
+[
+  {
+    "price": 98,
+    "name": "Comfort Inn",
+    "address": "595 Tracy Trl, Crystal Lake, IL, 60014 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/793600/793530/793530_75_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Country Inn \u0026 Suites By Carlson, Crystal Lake, IL",
+    "address": "600 Tracy Trail, Crystal Lake, IL, 60014 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/548400/548375/548375_47_l.jpg"
+  },
+  {
+    "price": 106,
+    "name": "Holiday Inn Chicago Nw Crystal Lk Conv Ctr",
+    "address": "800 South Route 31, Crystal Lake, IL, 60014 United States",
+    "distance": 2.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/20000/19951/19951_278_l.jpg"
+  }
+]

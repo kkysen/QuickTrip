@@ -1,0 +1,82 @@
+[
+  {
+    "price": 127,
+    "name": "Comfort Inn And Suites Kent",
+    "address": "4423 State Route 43, Kent, OH, 44240 United States",
+    "distance": 3.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2610000/2602900/2602819/2602819_50_l.jpg"
+  },
+  {
+    "price": 36,
+    "name": "Econo Lodge Kent",
+    "address": "4386 State Route 43, Kent, OH, 44240 United States",
+    "distance": 3.8,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1760000/1752900/1752898/1752898_47_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Hampton Inn Kent-Akron Area",
+    "address": "4406 State Route 43, Kent, OH, 44240 United States",
+    "distance": 3.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84800/84713/84713_44_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Kent State University",
+    "address": "1215 Sanctuary View Dr, Kent, OH, 44240 United States",
+    "distance": 3.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1280000/1273400/1273395/75dc6959_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Country Inn \u0026 Suites by Carlson Cuyahoga Falls",
+    "address": "1420 Main St, Cuyahoga Falls, OH, 44221 United States",
+    "distance": 3.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/100000/99800/99782/99782_96_l.jpg"
+  },
+  {
+    "price": 38,
+    "name": "Super 8 Kent Akron Area",
+    "address": "4380 Edson Rd, Kent, OH, 44240 United States",
+    "distance": 3.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/39900/39843/cda9fb97_l.jpg"
+  },
+  {
+    "price": 34,
+    "name": "Days Inn Kent - Akron",
+    "address": "4422 Edson Rd, I-76 and State Route 43, Kent, OH, 44240 United States",
+    "distance": 4.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5800/5736/cac0a4c9_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Hilton Garden Inn Akron",
+    "address": "1307 E. Market Street, Akron, OH, 44305 United States",
+    "distance": 4.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8840000/8836300/8836231/30ccf82c_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Sheraton Suites Akron Cuyahoga Falls",
+    "address": "1989 Front St, Cuyahoga Falls, OH, 44221 United States",
+    "distance": 4.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22700/22645/22645_132_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Kent State University Hotel and Conference Center",
+    "address": "215 S. Depeyster Street, Kent, OH, 44240 United States",
+    "distance": 4.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6370000/6369200/6369156/6369156_34_l.jpg"
+  }
+]

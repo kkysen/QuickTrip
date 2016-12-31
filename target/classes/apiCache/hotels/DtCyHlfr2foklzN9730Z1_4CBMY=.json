@@ -1,0 +1,26 @@
+[
+  {
+    "price": 99,
+    "name": "Magnuson Hotel Zephyrhills",
+    "address": "5734 Gall Blvd, Zephyrhills, FL, 33541 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15700/15640/6ddc7b11_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Ramada Zephyrhills",
+    "address": "6815 Gall Blvd, Zephyrhills, FL, 33542 United States",
+    "distance": 2.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/980000/977400/977325/2ac50a5a_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Zephyrhills",
+    "address": "7839 Gall Blvd, Zephyrhills, FL, 33541 United States",
+    "distance": 3.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1110000/1106400/1106318/1106318_119_l.jpg"
+  }
+]

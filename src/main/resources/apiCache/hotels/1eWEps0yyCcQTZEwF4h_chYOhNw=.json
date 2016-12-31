@@ -1,0 +1,58 @@
+[
+  {
+    "price": 93,
+    "name": "Comfort Inn Plymouth-Minneapolis",
+    "address": "3000 Harbor Lane N, Plymouth, MN, 55447 United States",
+    "distance": 0.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17700/17697/17697_152_l.jpg"
+  },
+  {
+    "price": 128,
+    "name": "Crowne Plaza Minneapolis West",
+    "address": "3131 Campus Drive, Plymouth, MN, 55441 United States",
+    "distance": 0.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24500/24474/24474_427_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Days Inn Plymouth West/Minneapolis",
+    "address": "2955 Empire Lane, Plymouth, MN, 55447 United States",
+    "distance": 0.6,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19000/18941/63552257_l.jpg"
+  },
+  {
+    "price": 229,
+    "name": "Residence Inn by Marriott Minneapolis Plymouth",
+    "address": "2750 Annapolis Cir N, Plymouth, MN, 55441 United States",
+    "distance": 0.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1870000/1867000/1866944/1866944_39_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Red Roof Inn Minneapolis Plymouth",
+    "address": "2600 Annapolis Lane N, Plymouth, MN, 55441 United States",
+    "distance": 1.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2100/2048/2048_49_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Ramada Plymouth Hotel and Conference Center",
+    "address": "2705 Annapolis Ln N, Plymouth, MN, 55441 United States",
+    "distance": 1.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17300/17259/3f11eb4b_l.jpg"
+  },
+  {
+    "price": 133,
+    "name": "Country Inn \u0026 Suites By Carlson, Minneapolis West, MN",
+    "address": "210 Carlson Pkwy N, Plymouth, MN, 55447 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27800/27778/27778_141_l.jpg"
+  }
+]

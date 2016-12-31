@@ -1,0 +1,34 @@
+[
+  {
+    "price": 47,
+    "name": "Slumber Inn Of Harrisonville",
+    "address": "21400 East 275th Street , Harrisonville, MO, 64701 United States",
+    "distance": 1.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1470000/1461600/1461569/1461569_8_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Comfort Inn \u0026 Suites Harrisonville",
+    "address": "2304 S Commercial St, Hwy 71 \u0026 S Commercial St, Cass County, Harrisonville, MO, 64701 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2810000/2804100/2804097/2804097_41_l.jpg"
+  },
+  {
+    "price": 49,
+    "name": "Cortez Motel",
+    "address": "1302 N Commercial St, Harrisonville, MO, 64701 United States",
+    "distance": 3.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11800000/11795200/11795146/ddf2667b_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Americas Best Value Inn \u0026 Suites",
+    "address": "2400 E Rock Haven Rd, Harrisonville, MO, 64701 United States",
+    "distance": 3.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459700/459679/459679_56_l.jpg"
+  }
+]

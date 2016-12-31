@@ -1,0 +1,58 @@
+[
+  {
+    "price": 60,
+    "name": "Days Inn Bay City",
+    "address": "407 7th St, Bay City, TX, 77414 United States",
+    "distance": 24.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43600/43537/43537_76_l.jpg"
+  },
+  {
+    "price": 153,
+    "name": "Holiday Inn Express \u0026 Suites Port Lavaca",
+    "address": "2629 State Highway 35 N, Port Lavaca, TX, 77979 United States",
+    "distance": 24.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4030000/4029100/4029093/4029093_48_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Best Western Port Lavaca Inn",
+    "address": "2202 State Highway 35 N, Port Lavaca, TX, 77979 United States",
+    "distance": 25.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/810000/800500/800497/800497_69_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Americas Best Value Inn",
+    "address": "2100 State Highway 35 N, Port Lavaca, TX, 77979 United States",
+    "distance": 25.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13000/12904/12904_107_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "La Quinta Inn \u0026 Suites Port Lavaca",
+    "address": "910 N Hwy 35, Port Lavaca, TX, 77979 United States",
+    "distance": 25.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2240000/2239900/2239858/f656129f_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Chaparral Motel",
+    "address": "2086 State Highway 35 N, Port Lavaca, TX, 77979 United States",
+    "distance": 25.0,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12620000/12618600/12618566/12618566_15_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Super 8 Bay City",
+    "address": "920 Avenue F, Bay City, TX, 77414 United States",
+    "distance": 25.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/480000/477500/477407/477407_131_l.jpg"
+  }
+]

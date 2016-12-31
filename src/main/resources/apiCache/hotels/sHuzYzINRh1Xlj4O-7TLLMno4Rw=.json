@@ -1,0 +1,18 @@
+[
+  {
+    "price": 114,
+    "name": "Hampton Inn Martin",
+    "address": "5575 Skyhawk Pkwy, Martin, TN, 38237 United States",
+    "distance": 1.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1670000/1668500/1668440/1668440_22_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Econo Lodge Martin",
+    "address": "853 University St, Martin, TN, 38237 United States",
+    "distance": 1.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18000/17979/c285cce6_l.jpg"
+  }
+]

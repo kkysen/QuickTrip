@@ -1,0 +1,82 @@
+[
+  {
+    "price": 48,
+    "name": "Econo Lodge Burlington",
+    "address": "2133 W Hanford Rd, Burlington, NC, 27215 United States",
+    "distance": 3.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16700/16637/16637_28_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Days Inn Burlington East",
+    "address": "1370 Truby Dr, Haw River, NC, 27258 United States",
+    "distance": 3.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/900600/900523/900523_252_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Red Roof Inn Burlington",
+    "address": "2444 Maple Ave, Burlington, NC, 27215 United States",
+    "distance": 3.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4200/4137/b9f88140_l.jpg"
+  },
+  {
+    "price": 41,
+    "name": "Motel 6 Burlington NC",
+    "address": "2155 Hanford Rd, Burlington, NC, 27215 United States",
+    "distance": 3.3,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/996200/996195/996195_33_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Burlington",
+    "address": "2185 W Hanford Rd, Burlington, NC, 27215 United States",
+    "distance": 3.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/328900/328809/328809_187_l.jpg"
+  },
+  {
+    "price": 46,
+    "name": "Red Carpet Inn \u0026 Suites Burlington",
+    "address": "978 Plantation Drive, Burlington, NC, 27215 United States",
+    "distance": 3.3,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5000/4909/4909_5_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Ramada Burlington Hotel and Conference Center",
+    "address": "2703 Ramada Rd, Burlington, NC, 27215 United States",
+    "distance": 5.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22800/22780/22780_159_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Mebane",
+    "address": "149 Spring Forest Dr, Mebane, NC, 27302 United States",
+    "distance": 5.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/904300/904203/436dce7a_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Hampton Inn Mebane",
+    "address": "105 Spring Forest Dr, Mebane, NC, 27302 United States",
+    "distance": 5.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/200800/200721/200721_71_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Best Western Plus Burlington",
+    "address": "770 Huffman Mill Road, Burlington, NC, 27215 United States",
+    "distance": 6.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25200/25161/25161_50_l.jpg"
+  }
+]

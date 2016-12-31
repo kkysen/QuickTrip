@@ -1,0 +1,82 @@
+[
+  {
+    "price": 93,
+    "name": "Holiday Inn Muskegon-Harbor",
+    "address": "939 3rd St, Muskegon, MI, 49440 United States",
+    "distance": 0.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15700/15622/15622_165_l.jpg"
+  },
+  {
+    "price": 94,
+    "name": "Shoreline Inn \u0026 Conference Center an Ascend Collection Hotel",
+    "address": "750 Terrace Point Blvd, Muskegon, MI, 49440 United States",
+    "distance": 0.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1160000/1153100/1153072/1153072_138_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "A Victory Inn \u0026 Suites- Muskegon",
+    "address": "2967 Henry St, Muskegon, MI, 49441 United States",
+    "distance": 2.6,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1300/1291/1291_92_l.jpg"
+  },
+  {
+    "price": 49,
+    "name": "Travelodge Muskegon",
+    "address": "3380 Hoyt St, Muskegon Heights, MI, 49444 United States",
+    "distance": 3.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/123300/123214/123214_44_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "Comfort Inn",
+    "address": "1675 E Sherman Blvd, Muskegon, MI, 49444 United States",
+    "distance": 3.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19200/19167/19167_84_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Seaway Motel",
+    "address": "631 West Norton Avenue, Muskegon, MI, 49441 United States",
+    "distance": 3.1,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11270000/11266400/11266362/c5c93fa6_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Red Roof Inn \u0026 Suites Muskegon Heights",
+    "address": "150 South Seaway Drive, Muskegon Heights, MI, 49444 United States",
+    "distance": 3.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19100/19032/19032_85_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Baymont Inn \u0026 Suites Muskegon",
+    "address": "4677 South Harvey Street, I-96 and US 31, Norton Shores, MI, 49444 United States",
+    "distance": 5.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/82600/82515/82515_177_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Rodeway Inn",
+    "address": "4620 Airline Rd., Muskegon, MI, 49444 United States",
+    "distance": 5.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8250000/8245900/8245845/fa176343_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "Hampton Inn Muskegon",
+    "address": "1401 E Ellis Rd, Norton Shores, MI, 49444 United States",
+    "distance": 5.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/424900/424878/424878_46_l.jpg"
+  }
+]

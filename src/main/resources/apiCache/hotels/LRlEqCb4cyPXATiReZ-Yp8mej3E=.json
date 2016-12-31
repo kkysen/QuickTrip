@@ -1,0 +1,58 @@
+[
+  {
+    "price": 84,
+    "name": "Holiday Inn Express \u0026 Suites Carrizo Springs",
+    "address": "2469 W. Highway 277, Carrizo Springs, TX, 78834 United States",
+    "distance": 7.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10020000/10012100/10012003/10012003_105_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Carrizo Inn",
+    "address": "100 N 10th St, Carrizo Springs, TX, 78834 United States",
+    "distance": 7.7,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15270000/15267200/15267149/15267149_9_l.jpg"
+  },
+  {
+    "price": 48,
+    "name": "Oasis Lodge",
+    "address": "121 FM 1556, Carrizo Springs, TX, 78834 United States",
+    "distance": 9.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16430000/16429500/16429464/04d7f8c0_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Best Western Plus Carrizo Springs Inn \u0026 Suites",
+    "address": "Highway 83 \u0026 Petry Rd, Carrizo Springs, TX, 78834 United States",
+    "distance": 9.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5390000/5388900/5388885/5388885_52_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Hampton Inn Carrizo Springs",
+    "address": "2651 North US Highway 83, Carrizo Springs, TX, 78834 United States",
+    "distance": 9.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7130000/7126200/7126149/7126149_6_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "2611 N Highway 83, Carrizo Springs, TX, 78834 United States",
+    "distance": 9.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7390000/7383200/7383192/7383192_44_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Super 8 Carrizo Springs",
+    "address": "137 La Lomita Drive, Carrizo Springs, TX, 78834 United States",
+    "distance": 9.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9720000/9715500/9715495/9715495_79_l.jpg"
+  }
+]

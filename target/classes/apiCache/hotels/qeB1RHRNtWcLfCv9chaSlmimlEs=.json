@@ -1,0 +1,82 @@
+[
+  {
+    "price": 132,
+    "name": "Hampton Inn Fairfax City",
+    "address": "10860 Fairfax Boulevard, Fairfax, VA, 22030 United States",
+    "distance": 0.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14700/14622/14622_74_l.jpg"
+  },
+  {
+    "price": 130,
+    "name": "SpringHill Suites by Marriott Fairfax Fair Oaks",
+    "address": "11191 Waples Mill Rd, Fairfax, VA, 22030 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2790000/2784600/2784526/86da0371_l.jpg"
+  },
+  {
+    "price": 144,
+    "name": "Courtyard Fairfax Fair Oaks",
+    "address": "11220 Lee Jackson Memorial Hwy, Fairfax, VA, 22030 United States",
+    "distance": 0.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23800/23732/23732_87_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Candlewood Suites Washington-Fairfax",
+    "address": "11400 Random Hills Rd, Fairfax, VA, 22030 United States",
+    "distance": 1.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/560000/559800/559769/559769_283_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Residence Inn Fairfax City",
+    "address": "3565 Chain Bridge Road, Fairfax, VA, 22030 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4300000/4290600/4290548/0aa337b4_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Best Western Fairfax",
+    "address": "3535 Chain Bridge Rd, Fairfax, VA, 22030 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1100/1086/d8bb67ec_l.jpg"
+  },
+  {
+    "price": 120,
+    "name": "Holiday Inn Express Fairfax - Arlington Boulevard",
+    "address": "10327 Fairfax Boulevard, Fairfax, VA, 22030 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10100/10098/bc1f4b13_l.jpg"
+  },
+  {
+    "price": 192,
+    "name": "Fairfax Marriott at Fair Oaks",
+    "address": "11787 Lee Jackson Memorial Hwy, Fairfax, VA, 22033 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19900/19822/19822_99_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Extended Stay America - Washington DC-Fairfax-Fair Oaks Mall",
+    "address": "12055 Lee Jackson Memorial Hwy, Fairfax, VA, 22033 United States",
+    "distance": 2.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/456400/456384/456384_41_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "Extended Stay America - Washington D.C.- Fairfax - Fair Oaks",
+    "address": "12104 Monument Dr, Fairfax, VA, 22033 United States",
+    "distance": 2.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/119100/119089/1b028edf_l.jpg"
+  }
+]

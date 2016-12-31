@@ -1,0 +1,74 @@
+[
+  {
+    "price": 53,
+    "name": "Super 8 Arkadelphia AR",
+    "address": "118 Valley St, I-30 Exit 78, Arkadelphia, AR, 71923 United States",
+    "distance": 4.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/440000/439800/439748/4be5e5a2_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Comfort Inn Arkadelphia",
+    "address": "100 Crystal Place Dr, Arkadelphia, AR, 71923 United States",
+    "distance": 4.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/548400/548331/548331_49_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Quality Inn",
+    "address": "136 Valley Street, Arkadelphia, AR, 71923 United States",
+    "distance": 4.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13500/13469/393bab9f_l.jpg"
+  },
+  {
+    "price": 48,
+    "name": "Days Inn Arkadelphia",
+    "address": "137 Valley Drive, Arkadelphia, AR, 71923 United States",
+    "distance": 4.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8600/8542/8542_40_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Americas Best Value Executive Inn \u0026 Suites",
+    "address": "141 Valley St, Arkadelphia, AR, 71923 United States",
+    "distance": 4.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1050000/1044200/1044182/1044182_71_l.jpg"
+  },
+  {
+    "price": 43,
+    "name": "Motel 6 Arkadelphia",
+    "address": "106 Crystal Palace Dr, Arkadelphia, AR, 71923 United States",
+    "distance": 4.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13200/13195/972d14fd_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "Hampton Inn Arkadelphia",
+    "address": "108 Malvern Rd, Arkadelphia, AR, 71923 United States",
+    "distance": 4.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1330000/1322000/1321943/1321943_34_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Econo Lodge",
+    "address": "150 Valley St, Caddo Valley, Arkadelphia, AR, 71923 United States",
+    "distance": 4.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/67700/67658/67658_45_l.jpg"
+  },
+  {
+    "price": 108,
+    "name": "Holiday Inn Express Arkadelphia - Caddo Valley",
+    "address": "7 Frost Road, Arkadelphia, AR, 71923 United States",
+    "distance": 4.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4300000/4295400/4295353/4295353_44_l.jpg"
+  }
+]

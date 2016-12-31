@@ -1,0 +1,82 @@
+[
+  {
+    "price": 104,
+    "name": "Comfort Suites Blythe",
+    "address": "700 W Donlon Street Lovekin Blvd \u0026 Donlo, Blythe, CA, 92225 United States",
+    "distance": 2.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3870000/3862800/3862745/3862745_35_l.jpg"
+  },
+  {
+    "price": 43,
+    "name": "Willow Inn \u0026 Suites",
+    "address": "900 West Rice Street, Blythe, CA, 92225 United States",
+    "distance": 2.9,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11480000/11471700/11471664/11471664_6_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Budget Host Blythe",
+    "address": "1020 W Hobsonway, Blythe, CA, 92225 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24700/24689/24689_12_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Red Roof Inn Blythe",
+    "address": "850 W. Hobsonway, Blythe, CA, 92225 United States",
+    "distance": 3.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12600/12546/fb75be9f_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Regency Inn and Suites - Blythe",
+    "address": "903 W Hobsonway, Blythe, CA, 92225 United States",
+    "distance": 3.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15100/15093/15093_83_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Clarion Inn",
+    "address": "900 W Hobsonway, Blythe, CA, 92225 United States",
+    "distance": 3.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7500/7500/7500_90_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Best Western Sahara",
+    "address": "825 W Hobsonway, Blythe, CA, 92225 United States",
+    "distance": 3.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12000/11960/11960_19_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Super 8 Blythe",
+    "address": "550 W Donlon St, Blythe, CA, 92225 United States",
+    "distance": 3.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/122900/122869/d6891045_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Quality Inn",
+    "address": "600 W Donlon St, Blythe, CA, 92225 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17800/17752/17752_190_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Motel 6 Blythe",
+    "address": "500 West Donlon Street, I-10 at South Lovekin Boulevard, Blythe, CA, 92225 United States",
+    "distance": 3.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/996400/996327/996327_37_l.jpg"
+  }
+]

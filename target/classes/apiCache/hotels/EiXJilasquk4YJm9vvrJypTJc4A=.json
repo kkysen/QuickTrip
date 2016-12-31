@@ -1,0 +1,42 @@
+[
+  {
+    "price": 51,
+    "name": "Days Inn Greeneville",
+    "address": "935 E Andrew Johnson Hwy, Hwy 11 East and US 321, Greeneville, TN, 37745 United States",
+    "distance": 1.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19700/19649/19649_9_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Econo Lodge",
+    "address": "1790 E Andrew Johnson Hwy, Greeneville, TN, 37745 United States",
+    "distance": 2.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16000/15925/15925_109_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Andrew Johnson Inn",
+    "address": "2145 E Andrew Johnson Highway, Greeneville, TN, 37745 United States",
+    "distance": 2.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2660000/2658700/2658689/2658689_12_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Hampton Inn Greeneville",
+    "address": "3130 E Andrew Johnson Higway, Greeneville, TN, 37745 United States",
+    "distance": 3.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/282000/281927/37d361d3_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Knights Inn Greeneville",
+    "address": "121 Serral Drive, Greeneville, TN, 37745 United States",
+    "distance": 4.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2920000/2911400/2911345/2911345_1_l.jpg"
+  }
+]

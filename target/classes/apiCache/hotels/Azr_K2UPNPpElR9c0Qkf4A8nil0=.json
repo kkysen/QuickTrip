@@ -1,0 +1,26 @@
+[
+  {
+    "price": 129,
+    "name": "Cedar Creek Lodge and Conference Center",
+    "address": "930 Second Avenue West, Columbia Falls, MT, 59912 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15080000/15070800/15070743/8802ad89_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Meadow Lake Resort",
+    "address": "100 Saint Andrews Dr, Columbia Falls, MT, 59912 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/890000/884900/884895/884895_9_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Smoky Bear Ranch Bed \u0026 Breakfast \u0026 Cabins",
+    "address": "4761 Smokey Bear Ln, Columbia Falls, MT, 59912 United States",
+    "distance": 8.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11580000/11576200/11576186/11576186_1_l.jpg"
+  }
+]

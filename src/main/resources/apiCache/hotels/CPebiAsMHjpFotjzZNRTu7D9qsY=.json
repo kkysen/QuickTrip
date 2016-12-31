@@ -1,0 +1,18 @@
+[
+  {
+    "price": 278,
+    "name": "Embassy Suites Omaha-La Vista/Hotel \u0026 Conference Center",
+    "address": "12520 Westport Pkwy, La Vista, NE, 68128 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1800000/1797300/1797262/1797262_40_l.jpg"
+  },
+  {
+    "price": 111,
+    "name": "My Place- South Omaha/La Vista, NE",
+    "address": "7823 S 123rd Plaza, La Vista, NE, 68128 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10090000/10086700/10086601/10086601_30_l.jpg"
+  }
+]

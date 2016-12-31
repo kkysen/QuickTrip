@@ -1,0 +1,18 @@
+[
+  {
+    "price": 95,
+    "name": "Holiday Inn Express \u0026 Suites Alabaster",
+    "address": "1000 Balmoral Drive, Alabaster, AL, 35007 United States",
+    "distance": 1.0,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12960000/12959900/12959812/12959812_4_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Candlewood Suites Alabaster",
+    "address": "1004 Balmoral Dr, Alabaster, AL, 35007 United States",
+    "distance": 1.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1960000/1957200/1957191/1957191_137_l.jpg"
+  }
+]

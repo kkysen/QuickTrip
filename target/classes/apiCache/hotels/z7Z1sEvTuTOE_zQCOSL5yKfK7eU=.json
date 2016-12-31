@@ -1,0 +1,34 @@
+[
+  {
+    "price": 74,
+    "name": "Days Inn Plymouth",
+    "address": "2229 North Michigan St., US-30 and Hwy-17, Plymouth, IN, 46563 United States",
+    "distance": 1.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11200/11147/11147_7_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Comfort Suites",
+    "address": "2513 North Michigan St., Plymouth, IN, 46563 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9420000/9411000/9410905/9410905_15_l.jpg"
+  },
+  {
+    "price": 128,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Plymouth",
+    "address": "2619 Michigan Street, Plymouth, IN, 46563 United States",
+    "distance": 1.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/670000/662100/662079/662079_182_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Super 8 Plymouth",
+    "address": "2160 North Oak Drive, Plymouth, IN, 46563-3408 United States",
+    "distance": 1.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/49900/49833/a90d9f88_l.jpg"
+  }
+]

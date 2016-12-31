@@ -1,0 +1,50 @@
+[
+  {
+    "price": 60,
+    "name": "Super 8 - Jacksonville",
+    "address": "1003 W Morton Ave, Jacksonville, IL, 62650 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/123200/123170/13c2fbb8_l.jpg"
+  },
+  {
+    "price": 41,
+    "name": "Knights Inn Jacksonville",
+    "address": "1111 East Morton Ave, Jacksonville, IL, 62650 United States",
+    "distance": 1.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9310000/9309500/9309491/9309491_18_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "Best Western Jacksonville Inn",
+    "address": "1709 W Morton Ave, Jacksonville, IL, 62650 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/124300/124218/124218_118_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Hampton Inn Jacksonville",
+    "address": "1725 W Morton Ave, Jacksonville, IL, 62650 United States",
+    "distance": 1.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1380000/1376300/1376212/1376212_58_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Baymont Inn \u0026 Suites - Jacksonville, IL",
+    "address": "1914 Southbrooke Road, Jacksonville, IL, 62650 United States",
+    "distance": 2.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1310000/1304400/1304355/1304355_29_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Comfort Inn South Jacksonville",
+    "address": "200 Comfort Drive, Jacksonville, IL, 62650 United States",
+    "distance": 2.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/480000/474300/474237/474237_41_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 246,
+    "name": "DoubleTree by Hilton Hotel Tallahassee",
+    "address": "101 S Adams St, Tallahassee, FL, 32301 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25100/25028/9337219d_l.jpg"
+  },
+  {
+    "price": 211,
+    "name": "Aloft Tallahassee Downtown",
+    "address": "200 N Monroe St, Tallahassee, FL, 32301 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2860000/2855700/2855608/2855608_114_l.jpg"
+  },
+  {
+    "price": 199,
+    "name": "Four Points by Sheraton Tallahassee Downtown",
+    "address": "316 W Tennessee St, Tallahassee, FL, 32301 United States",
+    "distance": 0.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/201200/201165/201165_78_l.jpg"
+  },
+  {
+    "price": 218,
+    "name": "Hotel Duval, Autograph Collection",
+    "address": "415 N Monroe St, Tallahassee, FL, 32301 United States",
+    "distance": 0.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9600/9568/1e3119e0_l.jpg"
+  },
+  {
+    "price": 183,
+    "name": "Residence Inn Tallahassee Universities at the Capitol",
+    "address": "600 W Gaines St, Tallahassee, FL, 32304 United States",
+    "distance": 0.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1570000/1562800/1562776/1562776_107_l.jpg"
+  },
+  {
+    "price": 42,
+    "name": "Budgetel Tallahassee",
+    "address": "745 North Monroe Street, Tallahassee, FL, 32301 United States",
+    "distance": 0.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11590000/11580900/11580836/11580836_8_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Econo Lodge Tallahassee",
+    "address": "809 Apalachee Parkway, Tallahassee, FL, 32301 United States",
+    "distance": 0.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1150000/1145200/1145195/1145195_28_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Motel 6 Tallahassee - Downtown",
+    "address": "1027 Apalachee Pkwy, Tallahassee, FL, 32301 United States",
+    "distance": 0.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50700/50609/50609_30_l.jpg"
+  },
+  {
+    "price": 193,
+    "name": "Courtyard by Marriott Tallahassee Capital",
+    "address": "1018 Apalachee Pkwy, Tallahassee, FL, 32301 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5800/5730/5730_80_l.jpg"
+  },
+  {
+    "price": 138,
+    "name": "Comfort Suites Tallahassee Downtown",
+    "address": "1026 Apalachee Pkwy, Tallahassee, FL, 32301 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/422600/422590/422590_107_l.jpg"
+  }
+]

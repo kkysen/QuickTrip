@@ -1,0 +1,18 @@
+[
+  {
+    "price": 91,
+    "name": "Quality Inn Fuquay Varina",
+    "address": "511 N Judd Pkwy Ne, Fuquay-Varina, NC, 27526 United States",
+    "distance": 2.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/220000/218300/218294/218294_95_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "Comfort Inn Fuquay Varina",
+    "address": "7616 Purfoy Rd, Fuquay-Varina, NC, 27526 United States",
+    "distance": 2.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/100000/99700/99622/99622_76_l.jpg"
+  }
+]

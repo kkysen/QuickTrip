@@ -1,0 +1,18 @@
+[
+  {
+    "price": 50,
+    "name": "Knights Inn Peru",
+    "address": "2661 S Business 31, Peru, IN, 46970 United States",
+    "distance": 3.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/50000/49980/49980_25_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Best Western Circus City Inn",
+    "address": "2642 S Business 31, Peru, IN, 46970 United States",
+    "distance": 3.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/126000/125935/c488553e_l.jpg"
+  }
+]

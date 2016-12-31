@@ -1,0 +1,82 @@
+[
+  {
+    "price": 47,
+    "name": "Days Inn Richmond Hill/Savannah",
+    "address": "3926 Hwy 17 I 95 Exit 87, Richmond Hill, GA, 31324 United States",
+    "distance": 1.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17200/17103/17103_119_l.jpg"
+  },
+  {
+    "price": 40,
+    "name": "Royal Inn Richmond Hill",
+    "address": "4005 Highway 17, Richmond Hill, GA, 31324 United States",
+    "distance": 1.7,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11970000/11960600/11960538/11960538_6_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Travelodge Savannah I-95 / Richmond Hill",
+    "address": "4120 Highway 17, I-95 Exit 87, Richmond Hill, GA, 31324 United States",
+    "distance": 1.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6200/6195/6195_115_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Dogwood Inn \u0026 Suites",
+    "address": "4071 US Hwy. 17, Richmond Hill, GA, 31324 United States",
+    "distance": 1.8,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/18000000/17100000/17095200/17095127/6ca2d974_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Quality Inn Richmond Hill",
+    "address": "4300 Coastal Hwy US 17 South, Richmond Hill, GA, 31324 United States",
+    "distance": 2.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15000/14982/14982_166_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Super 8 Richmond Hill",
+    "address": "4494 US Highway 17, Richmond Hill, GA, 31324 United States",
+    "distance": 2.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1340000/1333900/1333851/1333851_71_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Best Western Plus Richmond Hill Inn",
+    "address": "4564 US Highway 17, Richmond Hill, GA, 31324 United States",
+    "distance": 2.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1370000/1367200/1367198/1367198_151_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Holiday Inn Express Savannah South I-95 - Richmond",
+    "address": "4601 Us Highway 17, Richmond Hill, GA, 31324 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1220000/1216900/1216887/ed3b026b_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Econo Lodge Richmond Hill",
+    "address": "4701 US 17 S, Exit 87, Richmond Hill, GA, 31324 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16800/16737/16737_42_l.jpg"
+  },
+  {
+    "price": 112,
+    "name": "Hampton Inn Savannah I 95 Rich",
+    "address": "4679 Highway 17, Richmond Hill, GA, 31324 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/203600/203549/203549_71_l.jpg"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "price": 118,
+    "name": "Hampton Inn by Hilton Shelton",
+    "address": "695 Bridgeport Ave, Shelton, CT, 06484 United States",
+    "distance": 2.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/200400/200381/200381_142_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Hilton Garden Inn Shelton",
+    "address": "25 Old Stratford Rd, Shelton, CT, 06484 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/287700/287687/287687_28_l.jpg"
+  },
+  {
+    "price": 152,
+    "name": "Courtyard By Marriott Shelton",
+    "address": "780 Bridgeport Ave, Shelton, CT, 06484 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17300/17240/17240_139_l.jpg"
+  },
+  {
+    "price": 167,
+    "name": "HYATT house Shelton",
+    "address": "830 Bridgeport Ave, Shelton, CT, 06484 United States",
+    "distance": 2.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3490000/3482200/3482162/c0646ad5_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "Extended Stay America - Shelton - Fairfield County",
+    "address": "945 Bridgeport Ave, Shelton, CT, 06484 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/202500/202426/202426_44_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Residence Inn by Marriott Shelton-Fairfield County",
+    "address": "1001 Bridgeport Ave, Shelton, CT, 06484 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13200/13165/16c944ad_l.jpg"
+  }
+]

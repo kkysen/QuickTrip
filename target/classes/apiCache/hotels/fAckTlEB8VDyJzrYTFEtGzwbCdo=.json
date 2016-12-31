@@ -1,0 +1,50 @@
+[
+  {
+    "price": 144,
+    "name": "Courtyard by Marriott Madison West Middleton",
+    "address": "2266 Deming Way, Middleton, WI, 53562 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1670000/1662000/1661912/1661912_114_l.jpg"
+  },
+  {
+    "price": 112,
+    "name": "Country Inn \u0026 Suites By Carlson, Madison West, WI",
+    "address": "2212 Deming Way, Middleton, WI, 53562 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1110000/1105600/1105512/1105512_56_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Residence Inn by Marriott Madison West/Middleton",
+    "address": "8400 Market St, Middleton, WI, 53562 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1190000/1183000/1182953/1182953_15_l.jpg"
+  },
+  {
+    "price": 144,
+    "name": "Hilton Garden Inn Madison West/Middleton",
+    "address": "1801 Deming Way, Middleton, WI, 53562 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1110000/1101900/1101843/1101843_127_l.jpg"
+  },
+  {
+    "price": 150,
+    "name": "Staybridge Suites Middleton Madison-West",
+    "address": "7790 Elmwood Ave, Middleton, WI, 53562 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/910400/910400/910400_188_l.jpg"
+  },
+  {
+    "price": 136,
+    "name": "Fairfield Inn and Suites by Marriott Madison West/Middleton",
+    "address": "8212 Greenway Blvd, Middleton, WI, 53562 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41900/41865/41865_103_l.jpg"
+  }
+]

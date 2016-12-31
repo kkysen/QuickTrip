@@ -1,0 +1,82 @@
+[
+  {
+    "price": 116,
+    "name": "Cambria hotel \u0026 suites Maple Grove - Minneapolis",
+    "address": "9655 Grove Cir N, Maple Grove, MN, 55369 United States",
+    "distance": 3.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1950000/1946400/1946362/1946362_51_l.jpg"
+  },
+  {
+    "price": 132,
+    "name": "Staybridge Suites MPLS-Maple Grove/Arbor Lakes",
+    "address": "7821 Elm Creek Blvd N, Maple Grove, MN, 55369 United States",
+    "distance": 4.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/530000/528800/528752/528752_116_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Hampton Inn Minneapolis NW Maple Grove",
+    "address": "7745 Elm Creek Blvd N, Maple Grove, MN, 55369 United States",
+    "distance": 5.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/61300/61234/a8ee2b99_l.jpg"
+  },
+  {
+    "price": 199,
+    "name": "Hilton Garden Inn Minneapolis - Maple Grove",
+    "address": "6350 Vinewood Lane, Maple Grove, MN, 55311 United States",
+    "distance": 5.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/912200/912142/912142_102_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Extended Stay America Minneapolis - Maple Grove",
+    "address": "12970 63rd Ave N, Maple Grove, MN, 55369 United States",
+    "distance": 5.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84800/84773/84773_34_l.jpg"
+  },
+  {
+    "price": 143,
+    "name": "Holiday Inn Hotel \u0026 Suites Maple Grove Nw Mpls-Arbor Lks",
+    "address": "11801 Fountains Way N, Maple Grove, MN, 55369 United States",
+    "distance": 5.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1640000/1632400/1632359/d038485e_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Asteria Inn \u0026 Suites Maple Grove",
+    "address": "7285 Forestview Ln, Maple Grove, MN, 55369 United States",
+    "distance": 5.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13700/13699/13699_30_l.jpg"
+  },
+  {
+    "price": 111,
+    "name": "AmericInn Lodge \u0026 Suites Rogers",
+    "address": "21800 Industrial Blvd, Rogers, MN, 55374 United States",
+    "distance": 6.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/561500/561455/561455_77_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "Comfort Inn Plymouth-Minneapolis",
+    "address": "3000 Harbor Lane N, Plymouth, MN, 55447 United States",
+    "distance": 7.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17700/17697/17697_152_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Days Inn Plymouth West/Minneapolis",
+    "address": "2955 Empire Lane, Plymouth, MN, 55447 United States",
+    "distance": 7.1,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19000/18941/63552257_l.jpg"
+  }
+]

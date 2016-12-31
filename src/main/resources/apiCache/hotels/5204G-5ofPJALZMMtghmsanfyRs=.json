@@ -1,0 +1,82 @@
+[
+  {
+    "price": 137,
+    "name": "The Loft at Mountain Village by All Seasons Resort Lodging",
+    "address": "1415 Lowell Avenue, Park City, UT, 84060 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3960000/3955400/3955396/c4816de7_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "The Lodge at the Mountain Village by ASRL",
+    "address": "1415 Lowell Ave, Park City, UT, 84060 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/894000/893903/893903_109_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Shadow Ridge Resort Hotel by All Seasons Resort Lodging",
+    "address": "50 Shadow Ridge Drive, Park City, UT, 84060 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4120000/4110200/4110116/4110116_48_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "Silver King Hotel by All Seasons Resort Lodging",
+    "address": "1485 Empire Ave, Park City, UT, 84060 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/890000/882800/882770/882770_75_l.jpg"
+  },
+  {
+    "price": 161,
+    "name": "All Seasons Condominiums by All Seasons Resort Lodging",
+    "address": "1585 Empire Ave, Park City, UT, 84060 United States",
+    "distance": 0.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1010000/1001900/1001837/1001837_52_l.jpg"
+  },
+  {
+    "price": 128,
+    "name": "Marriott\u0027s Summit Watch",
+    "address": "780 Main St, Park City, UT, 84060 United States",
+    "distance": 0.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/122600/122550/3f5dfca6_l.jpg"
+  },
+  {
+    "price": 289,
+    "name": "The Caledonian by All Seasons Resort Lodging",
+    "address": "751 Main St, Park City, UT, 84060 United States",
+    "distance": 0.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3160000/3159400/3159303/3159303_49_l.jpg"
+  },
+  {
+    "price": 161,
+    "name": "DoubleTree by Hilton Hotel Park City - The Yarrow",
+    "address": "1800 Park Ave, Park City, UT, 84060 United States",
+    "distance": 0.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28500/28424/28424_123_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Park Regency Resort",
+    "address": "1710 Prospector Ave, Park City, UT, 84060 United States",
+    "distance": 0.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18900/18849/18849_31_l.jpg"
+  },
+  {
+    "price": 180,
+    "name": "Treasure Mountain Inn",
+    "address": "255 Main St, Park City, UT, 84060 United States",
+    "distance": 1.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1050000/1049700/1049680/1049680_32_l.jpg"
+  }
+]

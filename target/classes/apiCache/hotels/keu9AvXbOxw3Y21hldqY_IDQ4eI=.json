@@ -1,0 +1,26 @@
+[
+  {
+    "price": 92,
+    "name": "Super 8 McHenry",
+    "address": "110 State Rt 31 South, Mchenry, IL, 60050 United States",
+    "distance": 1.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856000/855952/a2162a30_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Waterfront Hotel and Marina",
+    "address": "3309 North Chapel Hill Road, Johnsburg, McHenry, IL, 60051-2919 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9050000/9048100/9048032/9048032_17_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Hampton Inn McHenry",
+    "address": "1555 South Route 31, Mchenry, IL, 60050 United States",
+    "distance": 3.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/911400/911301/fd62372f_l.jpg"
+  }
+]

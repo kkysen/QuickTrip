@@ -1,0 +1,26 @@
+[
+  {
+    "price": 112,
+    "name": "Boulders Inn and Suites Fort Madison",
+    "address": "4901 Avenue O, Fort Madison, IA, 52627 United States",
+    "distance": 2.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9540000/9534800/9534717/9534717_14_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Super 8 Fort Madison IA",
+    "address": "5107 Avenue O, Fort Madison, IA, 52627 United States",
+    "distance": 2.6,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50200/50154/50154_57_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Comfort Inn And Suites",
+    "address": "6169 Reve Ct, Hwy 61 \u0026 Hwy 2, Fort Madison, IA, 52627 United States",
+    "distance": 3.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/970000/966600/966544/966544_76_l.jpg"
+  }
+]

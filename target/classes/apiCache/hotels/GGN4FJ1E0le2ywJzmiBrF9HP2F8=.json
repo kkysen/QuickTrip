@@ -1,0 +1,82 @@
+[
+  {
+    "price": 38,
+    "name": "Loyalty Inn Pasco",
+    "address": "1800 W Lewis St, Pasco, WA, 99301 United States",
+    "distance": 1.1,
+    "rating": 1.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/917600/917585/917585_23_l.jpg"
+  },
+  {
+    "price": 42,
+    "name": "Rodeway Inn",
+    "address": "1520 N Oregon Ave, Pasco, WA, 99301 United States",
+    "distance": 1.3,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1470000/1468100/1468068/abc11177_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Tahitian Motor Inn",
+    "address": "2724 W Lewis Street, Pasco, WA, 99301 United States",
+    "distance": 1.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16340000/16332600/16332536/c0bd1407_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Red Lion Hotel Pasco",
+    "address": "2525 N 20th Ave, Pasco, WA, 99301 United States",
+    "distance": 1.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19600/19516/65602e76_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Best Western Plus Pasco Inn \u0026 Suites",
+    "address": "2811 N 20th Ave, Pasco, WA, 99301 United States",
+    "distance": 1.9,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1170000/1168000/1167932/10a79d26_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "King City Knights Inn/Pasco WA",
+    "address": "2100 East Hillsboro Street, Pasco, WA, 99301 United States",
+    "distance": 2.2,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1780000/1772000/1771942/1771942_24_l.jpg"
+  },
+  {
+    "price": 126,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Pasco-Tri Cities",
+    "address": "4525 Convention Place, Pasco, WA, 99301 United States",
+    "distance": 4.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1110000/1101900/1101825/eb9a0216_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "My Place Hotel- Pasco, WA",
+    "address": "6830 Rodeo Drive, Pasco, WA, 99301 United States",
+    "distance": 5.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9410000/9402300/9402280/9402280_51_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Hampton Inn \u0026 Suites Pasco/Tri-Cities",
+    "address": "6826 Burden Boulevard, Pasco, WA, 99301 United States",
+    "distance": 5.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15120000/15118100/15118015/15118015_2_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Sleep Inn Pasco",
+    "address": "9930 Bedford St, Pasco, WA, 99301 United States",
+    "distance": 6.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84800/84758/e26c7733_l.jpg"
+  }
+]

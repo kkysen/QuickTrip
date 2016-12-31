@@ -1,0 +1,82 @@
+[
+  {
+    "price": 129,
+    "name": "Hampton Inn Majestic Chicago Theatre District",
+    "address": "22 W Monroe St, Chicago, IL, 60603 United States",
+    "distance": 0.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1510000/1503800/1503719/1503719_30_l.jpg"
+  },
+  {
+    "price": 122,
+    "name": "The Palmer House Hilton",
+    "address": "17 E Monroe St, Chicago, IL, 60603 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8100/8079/8079_157_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "Silversmith Hotel Chicago Downtown",
+    "address": "10 S Wabash Ave, Chicago, IL, 60603 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/116700/116674/3cfba32d_l.jpg"
+  },
+  {
+    "price": 111,
+    "name": "Hyatt Centric The Loop Chicago",
+    "address": "100 W. Monroe St, Chicago, IL, 60603 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9070000/9069700/9069667/0fa45bbf_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Staypineapple at The Alise Chicago",
+    "address": "1 W Washington St, Chicago, IL, 60602 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/284800/284792/d853e711_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Central Loop Hotel",
+    "address": "111 West Adams Street, Chicago, IL, 60603 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2160000/2151900/2151878/36407b30_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Club Quarters Hotel, Central Loop",
+    "address": "111 West Adams Street, Chicago, IL, 60603 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/565800/565746/c7889d8e_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "The Kimpton Gray Hotel",
+    "address": "122 West Monroe Street, Chicago, IL, 60603 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13360000/13351500/13351499/02f05aa5_l.jpg"
+  },
+  {
+    "price": 155,
+    "name": "Chicago Athletic Association",
+    "address": "12 South Michigan Avenue, Chicago, IL, 60603 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1120000/1118400/1118328/1118328_65_l.jpg"
+  },
+  {
+    "price": 36,
+    "name": "The Pittsfield Hotel: Apartments + Suites",
+    "address": "55 E Washington St., Chicago, IL, 60602 United States",
+    "distance": 0.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6680000/6676700/6676612/6676612_403_l.jpg"
+  }
+]

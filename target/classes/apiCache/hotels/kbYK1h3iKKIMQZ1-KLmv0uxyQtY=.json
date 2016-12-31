@@ -1,0 +1,82 @@
+[
+  {
+    "price": 52,
+    "name": "Soy City Motel",
+    "address": "1828 E Eldorado St, Decatur, IL, 62521 United States",
+    "distance": 0.9,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11500000/11496600/11496564/11496564_54_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Decatur Conference Center \u0026 Hotel",
+    "address": "4191 US 36 West (Wyckles Rd.), Decatur, IL, 62522 United States",
+    "distance": 3.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22400/22388/22388_44_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Hawthorn Suites by Wyndham Decatur",
+    "address": "2370 S Mount Zion Road, Decatur, IL, 62521 United States",
+    "distance": 4.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/421600/421543/db675afe_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Americas Best Value Inn - Decatur",
+    "address": "333 North Wyckles Road, Decatur, IL, 62522 United States",
+    "distance": 4.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15600/15595/15595_93_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Baymont Inn and Suites Decatur",
+    "address": "5100 Hickory Point Frontage Road, Decatur, IL, 62526 United States",
+    "distance": 4.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/49800/49715/49715_35_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Country Inn \u0026 Suites By Carlson Decatur",
+    "address": "5150 Hickory Point Frontage Rd, Decatur, IL, 62526 United States",
+    "distance": 4.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28400/28337/28337_26_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "Ramada Limited Decatur",
+    "address": "355 E Hickory Point Rd, Decatur, IL, 62526 United States",
+    "distance": 5.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42100/42034/42034_62_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Welcome Hotel \u0026 Suites",
+    "address": "5170 N. Wingate Dr., Decatur, IL, 62526 United States",
+    "distance": 5.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/790200/790141/790141_82_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Sleep Inn Decatur",
+    "address": "3920 E Hospitality Lane, Decatur, IL, 62521 United States",
+    "distance": 5.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/548900/548855/548855_39_l.jpg"
+  },
+  {
+    "price": 123,
+    "name": "Hampton Inn \u0026 Suites Decatur - Forsyth",
+    "address": "1429 Hickory Point Drive, Forsyth, IL, 62535 United States",
+    "distance": 5.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22200/22174/22174_39_l.jpg"
+  }
+]

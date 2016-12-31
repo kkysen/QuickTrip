@@ -1,0 +1,26 @@
+[
+  {
+    "price": 138,
+    "name": "Days Inn Woodbury",
+    "address": "8030 Jericho Tpke, Woodbury, NY, 11797 United States",
+    "distance": 0.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6700/6675/6675_211_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Best Western Woodbury Inn",
+    "address": "7940 Jericho Tpke, Woodbury, NY, 11797 United States",
+    "distance": 0.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/57000/56928/56928_121_l.jpg"
+  },
+  {
+    "price": 241,
+    "name": "The Inn At Fox Hollow Hotel",
+    "address": "7755 Jericho Turnpike, Woodbury, NY, 11797 United States",
+    "distance": 0.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/880000/871900/871849/9f9215cb_l.jpg"
+  }
+]

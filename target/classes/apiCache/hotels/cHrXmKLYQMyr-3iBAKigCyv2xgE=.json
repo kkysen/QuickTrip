@@ -1,0 +1,18 @@
+[
+  {
+    "price": 95,
+    "name": "Comfort Suites",
+    "address": "8928 West State Road, Rensselaer, IN, 47978 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15040000/15030800/15030712/8163ef0b_l.jpg"
+  },
+  {
+    "price": 40,
+    "name": "Economy Inn",
+    "address": "9439 IN-114, Rensselaer, IN, 47978 United States",
+    "distance": 2.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12610000/12607400/12607399/12607399_5_l.jpg"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "price": 127,
+    "name": "Holiday Inn Cleveland - Strongsville (Arpt)",
+    "address": "15471 Royalton Road, Strongsville, OH, 44136 United States",
+    "distance": 1.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11700/11630/11630_215_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Super 8 Strongsville",
+    "address": "15385 Royalton Rd, Strongsville, OH, 44136 United States",
+    "distance": 1.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4500/4492/c24aea91_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Kings Inn Cleveland",
+    "address": "9197 Pearl Road, Strongsville, OH, 44136 United States",
+    "distance": 2.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1150000/1142700/1142608/1142608_22_l.jpg"
+  }
+]

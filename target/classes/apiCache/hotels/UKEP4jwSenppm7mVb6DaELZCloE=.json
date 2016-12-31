@@ -1,0 +1,82 @@
+[
+  {
+    "price": 55,
+    "name": "Econo Lodge",
+    "address": "2810 S Hermitage Rd, Hermitage, PA, 16148 United States",
+    "distance": 2.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2840000/2832200/2832169/2832169_41_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Quality Inn",
+    "address": "3200 S Hermitage Road, Hermitage, PA, 16148 United States",
+    "distance": 2.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25100/25086/b2ee62e3_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Red Roof Inn \u0026 Suites Hermitage",
+    "address": "2700 Wilson Ave., Hermitage, PA, 16148 United States",
+    "distance": 2.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4300/4269/4269_74_l.jpg"
+  },
+  {
+    "price": 43,
+    "name": "Royal Motel",
+    "address": "301 S Hermitage Rd, Hermitage, PA, 16148 United States",
+    "distance": 2.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1460000/1456400/1456309/1456309_38_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Super 8 West Middlesex / Sharon Area",
+    "address": "3369 New Castle Rd, I-80 Exit #4B, West Middlesex, PA, 16159 United States",
+    "distance": 2.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856200/856114/856114_98_l.jpg"
+  },
+  {
+    "price": 96,
+    "name": "Hampton Inn and Suites Sharon",
+    "address": "58 Winner Ln, West Middlesex, PA, 16159 United States",
+    "distance": 2.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4890000/4880500/4880430/4880430_3_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Park Inn by Radisson Sharon",
+    "address": "3377 New Castle Road, West Middlesex, PA, 16159 United States",
+    "distance": 2.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5900/5898/5898_71_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Travelodge Hubbard OH",
+    "address": "2375 North Main Street, Hubbard, OH, 44425 United States",
+    "distance": 4.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5500000/5494400/5494362/5494362_101_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Best Western Penn-Ohio Inn \u0026 Suites",
+    "address": "6828 Commerce Dr, Hubbard, OH, 44425 United States",
+    "distance": 4.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1340000/1330400/1330305/1330305_98_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Julia\u0027s Bed \u0026 Breakfast",
+    "address": "6219 West Liberty St., Hubbard, OH, 44425 United States",
+    "distance": 6.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1420000/1418100/1418098/1418098_11_l.jpg"
+  }
+]

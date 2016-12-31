@@ -1,0 +1,82 @@
+[
+  {
+    "price": 91,
+    "name": "Candlewood Suites Harrisburg",
+    "address": "504 North Mountain Rd, Harrisburg, PA, 17112 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2550000/2544000/2543916/2543916_106_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "Quality Inn Harrisburg - Hershey Area",
+    "address": "200 N Mountain Rd, Harrisburg, PA, 17112 United States",
+    "distance": 1.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/49900/49897/49897_45_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Red Roof Inn Harrisburg North",
+    "address": "400 Corporate Cir, Harrisburg, PA, 17110 United States",
+    "distance": 2.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/450000/448600/448559/448559_85_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "Clarion Inn \u0026 Suites",
+    "address": "150 Nationwide Dr, Harrisburg, PA, 17110 United States",
+    "distance": 2.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11500/11438/11438_194_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "SpringHill Suites by Marriott Harrisburg",
+    "address": "15 Capital Drive, at I-81 Progress Avenue Exit 69, Harrisburg, PA, 17110 United States",
+    "distance": 2.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2930000/2928100/2928031/77ea9f20_l.jpg"
+  },
+  {
+    "price": 138,
+    "name": "Hampton Inn and Suites Harrisburg/North",
+    "address": "30 Capital Dr, Harrisburg, PA, 17110 United States",
+    "distance": 2.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5150000/5144900/5144843/b48b6180_l.jpg"
+  },
+  {
+    "price": 132,
+    "name": "Sleep Inn \u0026 Suites Harrisburg - Hershey North",
+    "address": "7100 Allentown Blvd, Harrisburg, PA, 17112 United States",
+    "distance": 3.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5240000/5232900/5232839/5232839_56_l.jpg"
+  },
+  {
+    "price": 130,
+    "name": "Hampton Inn Harrisburg - East (Hershey Area)",
+    "address": "4230 Union Deposit Road, Harrisburg, PA, 17111 United States",
+    "distance": 3.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15300/15267/15267_24_l.jpg"
+  },
+  {
+    "price": 152,
+    "name": "Holiday Inn Express - Harrisburg East",
+    "address": "4021 Union Deposit Road, Harrisburg, PA, 17109 United States",
+    "distance": 3.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/400/376/376_147_l.jpg"
+  },
+  {
+    "price": 106,
+    "name": "Country Inn \u0026 Suites By Carlson, Harrisburg@ UnionDeposit Rd",
+    "address": "1025 Peiffers Lane, Harrisburg, PA, 17109 United States",
+    "distance": 3.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2560000/2553600/2553577/2553577_43_l.jpg"
+  }
+]

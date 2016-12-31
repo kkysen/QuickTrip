@@ -1,0 +1,82 @@
+[
+  {
+    "price": 109,
+    "name": "Hampton Inn \u0026 Suites Rochester-North",
+    "address": "2870 59th Street NW, Rochester, MN, 55901 United States",
+    "distance": 3.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2830000/2825400/2825336/2825336_14_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Comfort Inn Rochester",
+    "address": "5708 Bandel Road NW, Rochester, MN, 55901 United States",
+    "distance": 3.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/590000/580300/580213/580213_57_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "TownePlace Suites by Marriott Rochester",
+    "address": "2829 43rd St Nw, Rochester, MN, 55901 United States",
+    "distance": 4.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/480000/473100/473100/473100_85_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Extended Stay America Rochester - North",
+    "address": "2814 43RD ST NW, Rochester, MN, 55901 United States",
+    "distance": 4.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/810000/809300/809248/809248_40_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Country Inn \u0026 Suites By Carlson, Rochester, MN",
+    "address": "4323 Highway 52 North, West Frontage Rd, Rochester, MN, 55901 United States",
+    "distance": 4.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14200/14130/14130_63_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Rochester",
+    "address": "4210 Highway 52 Nw Frontage Rd, Rochester, MN, 55901 United States",
+    "distance": 4.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/116600/116574/116574_44_l.jpg"
+  },
+  {
+    "price": 130,
+    "name": "Staybridge Suites Rochester - Commerce Dr NW",
+    "address": "2350 Commerce Drive NW, Rochester, MN, 55901 United States",
+    "distance": 6.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9420000/9416900/9416882/9416882_161_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Comfort Inn \u0026 Suites West - Medical Center",
+    "address": "2005 Commerce Drive, NW, Rochester, MN, 55901 United States",
+    "distance": 6.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9480000/9478000/9477908/dc7c6432_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Fairfield Inn \u0026 Suites Rochester Mayo Clinic Area/St. Marys",
+    "address": "470 17th Ave NW, Rochester, MN, 55901 United States",
+    "distance": 7.6,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10950000/10947300/10947270/10947270_38_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "GuestHouse International Inn \u0026 Suites Rochester",
+    "address": "435 16th Ave Nw, Rochester, MN, 55901 United States",
+    "distance": 7.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4200/4106/5174b365_l.jpg"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "price": 55,
+    "name": "Motel 6 Madisonville",
+    "address": "2007 E Main St, Madisonville, TX, 77864 United States",
+    "distance": 0.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43000/42975/bf99394e_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Madisonville Inn",
+    "address": "3305 E Main St, Madisonville, TX, 77864 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1330000/1320800/1320721/1320721_22_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "Best Western Executive Inn \u0026 Suites",
+    "address": "3307 E Main Street, Madisonville, TX, 77864 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/913100/913098/913098_37_l.jpg"
+  }
+]

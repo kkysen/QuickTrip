@@ -1,0 +1,82 @@
+[
+  {
+    "price": 144,
+    "name": "Hotel Diamond Chico",
+    "address": "220 West 4th Street, Chico, CA, 95928 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1340000/1339000/1338987/1338987_9_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "University Inn",
+    "address": "630 Main St, Chico, CA, 95928 United States",
+    "distance": 0.1,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/57400/57329/57329_13_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "Quality Inn Chico",
+    "address": "715 Main Street, Chico, CA, 95928 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1330000/1329000/1328912/ff0dd101_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "Heritage Inn Express Chico",
+    "address": "725 Broadway St, Chico, CA, 95928 United States",
+    "distance": 0.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/912500/912464/912464_37_l.jpg"
+  },
+  {
+    "price": 82,
+    "name": "Americas Best Value Inn",
+    "address": "740 Broadway St, Chico, CA, 95928 United States",
+    "distance": 0.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/560000/551800/551743/09152fca_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Rodeway Inn",
+    "address": "1717 Park Avenue, Chico, CA, 95928 United States",
+    "distance": 0.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1400000/1397600/1397573/1397573_87_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Haven Inn Of Chico",
+    "address": "2212 Park Ave, Chico, CA, 95928 United States",
+    "distance": 1.2,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4910000/4905100/4905066/4905066_5_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Ramada Plaza Chico",
+    "address": "685 Manzanita Ct, Chico, CA, 95926 United States",
+    "distance": 1.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/20000/19963/19963_246_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Motel 6 Chico",
+    "address": "665 Manzanita Ct, Chico, CA, 95926 United States",
+    "distance": 1.7,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/990000/986100/986064/986064_137_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Super 8 Chico CA",
+    "address": "655 Manzanita Ct, Chico, CA, 95926 United States",
+    "distance": 1.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/855700/855694/855694_85_l.jpg"
+  }
+]

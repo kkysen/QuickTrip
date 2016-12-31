@@ -1,0 +1,26 @@
+[
+  {
+    "price": 75,
+    "name": "Western Motel",
+    "address": "315 N E Hwy 66, Sayre, OK, 73662 United States",
+    "distance": 2.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16030000/16025700/16025656/81ac7e22_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "WindGate Extended Stay Hotel of Sayre",
+    "address": "701 Iowa Avenue, Sayre, OK, 73662 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8290000/8282200/8282181/8282181_76_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "AmericInn Lodge \u0026 Suites Sayre",
+    "address": "2405 South El Camino, Sayre, OK, 73662 United States",
+    "distance": 3.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/980000/972800/972726/972726_82_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 211,
+    "name": "The Giacomo, An Ascend Hotel Collection Member",
+    "address": "222 First Street, Niagara Falls, NY, 14303 United States",
+    "distance": 0.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2870000/2863700/2863605/2863605_50_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Quality Hotel \u0026 Suites At The Falls",
+    "address": "240 1st Street, Niagara Falls, NY, 14303 United States",
+    "distance": 0.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27500/27491/27491_94_l.jpg"
+  },
+  {
+    "price": 230,
+    "name": "The Red Coach Inn",
+    "address": "2 Buffalo Ave, Niagara Falls, NY, 14303 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4240000/4238900/4238822/4238822_80_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Red Maple Inn By The Falls",
+    "address": "200 Rainbow Blvd, Niagara Falls, NY, 14303 United States",
+    "distance": 0.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12380000/12372500/12372471/12372471_27_l.jpg"
+  },
+  {
+    "price": 171,
+    "name": "Holiday Inn Niagara Falls Scenic Downtown",
+    "address": "114 Buffalo Ave, Niagara Falls, NY, 14303 United States",
+    "distance": 0.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18200/18187/18187_202_l.jpg"
+  },
+  {
+    "price": 197,
+    "name": "Sheraton at the Falls, Niagara Falls, NY",
+    "address": "300 3rd St, Niagara Falls, NY, 14303 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14400/14373/14373_80_l.jpg"
+  },
+  {
+    "price": 182,
+    "name": "Comfort Inn The Pointe",
+    "address": "1 Prospect Pointe, Niagara Falls, NY, 14303 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6400/6346/505d442e_l.jpg"
+  },
+  {
+    "price": 248,
+    "name": "Seneca Niagara Resort \u0026 Casino",
+    "address": "310 4th St, Niagara Falls, NY, 14303 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2240000/2238900/2238838/2238838_92_l.jpg"
+  },
+  {
+    "price": 292,
+    "name": "Wingate By Wyndham Niagara Falls",
+    "address": "333 Rainbow Blvd, Niagara Falls, NY, 14303 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10960000/10957200/10957200/10957200_24_l.jpg"
+  },
+  {
+    "price": 183,
+    "name": "DoubleTree by Hilton Hotel Niagara Falls New York",
+    "address": "401 Buffalo Ave, Niagara Falls, NY, 14303 United States",
+    "distance": 0.3,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/56100/56021/c656d2f7_l.jpg"
+  }
+]

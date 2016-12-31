@@ -1,0 +1,18 @@
+[
+  {
+    "price": 96,
+    "name": "Candlewood Suites Midwest City",
+    "address": "5300 Main Street, Del City, OK, 73115 United States",
+    "distance": 0.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6220000/6218700/6218645/6218645_38_l.jpg"
+  },
+  {
+    "price": 49,
+    "name": "Motel 6 Del City",
+    "address": "5501 Tinker Diagonal, Del City, OK, 73115 United States",
+    "distance": 1.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17100/17029/17029_8_l.jpg"
+  }
+]

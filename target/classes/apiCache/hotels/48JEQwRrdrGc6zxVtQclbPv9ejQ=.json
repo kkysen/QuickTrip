@@ -1,0 +1,82 @@
+[
+  {
+    "price": 59,
+    "name": "Royal Inn",
+    "address": "2190 Birch Sq, Lake Havasu City, AZ, 86403 United States",
+    "distance": 5.5,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/67900/67888/67888_19_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Travelers Inn",
+    "address": "2176 Birch Sq, Lake Havasu City, AZ, 86403 United States",
+    "distance": 5.5,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/894700/894606/894606_14_l.jpg"
+  },
+  {
+    "price": 78,
+    "name": "Days Inn Lake Havasu",
+    "address": "1700 McCulloch Blvd., Lake Havasu City, AZ, 86403 United States",
+    "distance": 6.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1100000/1092500/1092424/ca042914_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "271 Lake Havasu Ave S, Lake Havasu City, AZ, 86403 United States",
+    "distance": 6.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/51300/51203/c9500348_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Havasu Dunes",
+    "address": "620 Lake Havasu Ave S, Lake Havasu City, AZ, 86406 United States",
+    "distance": 6.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18800/18732/18732_34_l.jpg"
+  },
+  {
+    "price": 199,
+    "name": "London Bridge Resort",
+    "address": "1477 Queens Bay, Lake Havasu City, AZ, 86403 United States",
+    "distance": 6.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/35800/35782/35782_116_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Super 8 Lake Havasu City",
+    "address": "305 London Bridge Rd, Lake Havasu City, AZ, 86403 United States",
+    "distance": 6.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1060000/1050100/1050009/1050009_91_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Lake Havasu Travelodge",
+    "address": "480 London Bridge Rd, Lake Havasu City, AZ, 86403 United States",
+    "distance": 6.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13400/13349/13349_113_l.jpg"
+  },
+  {
+    "price": 49,
+    "name": "Windsor Inn Motel Lake Side",
+    "address": "451 London Bridge Road, Lake Havasu City, AZ, 86403 United States",
+    "distance": 6.6,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1010000/1001900/1001838/1001838_93_l.jpg"
+  },
+  {
+    "price": 161,
+    "name": "Hampton Inn Lake Havasu City",
+    "address": "245 London Bridge Rd, Lake Havasu City, AZ, 86403 United States",
+    "distance": 6.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21600/21533/21533_92_l.jpg"
+  }
+]

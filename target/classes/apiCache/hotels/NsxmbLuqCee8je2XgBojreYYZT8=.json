@@ -1,0 +1,18 @@
+[
+  {
+    "price": 99,
+    "name": "Sassafras Inn",
+    "address": "1201 Reine Street South, Mena, AR, 71953 United States",
+    "distance": 0.3,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/18000000/17110000/17101900/17101818/35dcdf00_l.jpg"
+  },
+  {
+    "price": 120,
+    "name": "Janssen Park Place B\u0026B",
+    "address": "511 9th Street, Mena, AR, 71953 United States",
+    "distance": 0.5,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16420000/16414600/16414559/0dd2c472_l.jpg"
+  }
+]

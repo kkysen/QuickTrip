@@ -1,0 +1,82 @@
+[
+  {
+    "price": 149,
+    "name": "HYATT house Denver Tech Center",
+    "address": "9280 E Costilla Ave, Englewood, CO, 80112 United States",
+    "distance": 7.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41800/41715/41715_57_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Extended Stay America - Denver - Tech Center South",
+    "address": "9604 E Easter Ave, Englewood, CO, 80112 United States",
+    "distance": 7.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/119200/119127/119127_29_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Staybridge Suites Denver Tech Center",
+    "address": "7150 South Clinton Street, Englewood, CO, 80112 United States",
+    "distance": 7.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/328500/328449/6f999261_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "Extended Stay America - Denver - Tech Ctr South - Inverness",
+    "address": "9650 E Geddes Ave, Englewood, CO, 80112 United States",
+    "distance": 7.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/119200/119128/61abced8_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Drury Inn \u0026 Suites Denver Tech Center",
+    "address": "9445 E Dry Creek Road, Englewood, CO, 80112 United States",
+    "distance": 7.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/300000/296700/296634/296634_74_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Days Inn Englewood Denver Tech Center",
+    "address": "9719 E Geddes, I-25 to exit 196-Dry Creek, Englewood, CO, 80112 United States",
+    "distance": 7.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/116600/116542/aeb10745_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Quality Inn Tech Center",
+    "address": "9799 E Geddes Ave, Englewood, CO, 80112 United States",
+    "distance": 7.6,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/100000/99000/98913/98913_94_l.jpg"
+  },
+  {
+    "price": 112,
+    "name": "Comfort Suites Denver Tech Center",
+    "address": "7374 S Clinton St, Englewood, CO, 80112 United States",
+    "distance": 7.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/170000/168400/168336/168336_145_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Holiday Inn Express \u0026 Suites Denver Tech Center Englewood",
+    "address": "7380 South Clinton Street, Englewood, CO, 80112 United States",
+    "distance": 7.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/480000/474500/474441/474441_338_l.jpg"
+  },
+  {
+    "price": 138,
+    "name": "Towneplace Suites By Marriott Denver Tech Center",
+    "address": "7877 S Chester St, Englewood, CO, 80112 United States",
+    "distance": 7.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/564800/564783/ace1339c_l.jpg"
+  }
+]

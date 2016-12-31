@@ -1,0 +1,82 @@
+[
+  {
+    "price": 212,
+    "name": "Embassy Suites Denver International Airport",
+    "address": "7001 Yampa St, Denver, CO, 80249 United States",
+    "distance": 4.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/897200/897174/897174_52_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Days Inn \u0026 Suites Denver International Airport",
+    "address": "7030 Tower Rd, Denver, CO, 80249 United States",
+    "distance": 4.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/151000/150997/150997_267_l.jpg"
+  },
+  {
+    "price": 199,
+    "name": "HYATT house Denver Airport",
+    "address": "18741 E 71st Ave, Denver, CO, 80249 United States",
+    "distance": 4.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3440000/3433200/3433150/192a3f6d_l.jpg"
+  },
+  {
+    "price": 196,
+    "name": "Staybridge Suites Denver Airport",
+    "address": "6951 Tower Road, Denver, CO, 80249 United States",
+    "distance": 4.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/2000000/1990400/1990316/1990316_46_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Best Western Plus Denver International Airport Inn \u0026 Suites",
+    "address": "7020 Tower Rd, Denver, CO, 80249 United States",
+    "distance": 4.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/151000/150996/150996_139_l.jpg"
+  },
+  {
+    "price": 172,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Denver Airport",
+    "address": "6910 Tower Road, Denver, CO, 80249 United States",
+    "distance": 4.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2480000/2478500/2478428/2478428_155_l.jpg"
+  },
+  {
+    "price": 199,
+    "name": "Courtyard by Marriott Denver Airport",
+    "address": "6901 Tower Rd, Denver, CO, 80249 United States",
+    "distance": 4.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/77800/77786/77786_97_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Fairfield Inn and Suites by Marriott Denver Airport",
+    "address": "6851 Tower Rd, Denver, CO, 80249 United States",
+    "distance": 4.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42400/42309/42309_63_l.jpg"
+  },
+  {
+    "price": 154,
+    "name": "Holiday Inn Hotel \u0026 Suites DENVER AIRPORT",
+    "address": "6900 Tower Road, Denver, CO, 80249 United States",
+    "distance": 4.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2480000/2476400/2476303/2476303_57_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Quality Inn \u0026 Suites Denver International Airport",
+    "address": "6890 Tower Rd, Denver, CO, 80249 United States",
+    "distance": 4.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/202700/202667/e3117c86_l.jpg"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "price": 66,
+    "name": "Motel 6 Vista",
+    "address": "330 Mar Vista Drive, Vista, CA, 92083 United States",
+    "distance": 1.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/890900/890877/890877_70_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Vista Inn Motel",
+    "address": "745 W Vista Way, Vista, CA, 92083 United States",
+    "distance": 2.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1470000/1460900/1460807/1460807_7_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "La Quinta Inn San Diego Vista",
+    "address": "630 Sycamore Ave, Vista, CA, 92083 United States",
+    "distance": 2.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15500/15459/2c53f0c3_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "TownePlace Suites by Marriott San Diego Vista",
+    "address": "2201 S Melrose Dr, Vista, CA, 92081 United States",
+    "distance": 4.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3660000/3652300/3652247/3652247_6_l.jpg"
+  },
+  {
+    "price": 151,
+    "name": "Hyatt Place San Diego/Vista-Carlsbad",
+    "address": "2645 South Melrose Drive, Vista, CA, 92081 United States",
+    "distance": 5.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5030000/5020300/5020298/5020298_51_l.jpg"
+  }
+]

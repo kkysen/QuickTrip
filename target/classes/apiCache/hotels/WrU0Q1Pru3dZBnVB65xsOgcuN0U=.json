@@ -1,0 +1,82 @@
+[
+  {
+    "price": 141,
+    "name": "The Kenilworth",
+    "address": "60 S 31st St, Kenilworth, NJ, 07033 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1260000/1252800/1252723/1252723_69_l.jpg"
+  },
+  {
+    "price": 140,
+    "name": "Homewood Suites by Hilton Newark-Cranford",
+    "address": "2 Jackson Dr, Cranford, NJ, 07016 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/600000/596800/596791/596791_80_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Clinton Manor Hotel Union",
+    "address": "2735 Route 22 W, Union, NJ, 07083 United States",
+    "distance": 2.7,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/999000/998941/998941_31_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Holiday Inn Clark - Newark Area",
+    "address": "36 Valley Rd, Clark, NJ, 07066 United States",
+    "distance": 3.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2700/2666/2666_302_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "Hampton Inn Linden",
+    "address": "501 W Edgar Rd, Linden, NJ, 07036 United States",
+    "distance": 3.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/911400/911302/911302_35_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Hilton Garden Inn Springfield",
+    "address": "304 US Highway 22 West, Springfield, NJ, 07081 United States",
+    "distance": 3.5,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25100/25002/510686ac_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Airport Hotel Inn \u0026 Suites - Newark Airport",
+    "address": "853 Spring Street, US 1 \u0026 9 North, Elizabeth, NJ, 07201 United States",
+    "distance": 3.9,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11880000/11875000/11874903/11874903_13_l.jpg"
+  },
+  {
+    "price": 128,
+    "name": "Crowne Plaza Newark Airport",
+    "address": "901 Spring St, Elizabeth, NJ, 07201 United States",
+    "distance": 4.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24100/24089/24089_194_l.jpg"
+  },
+  {
+    "price": 201,
+    "name": "Renaissance Newark Airport Hotel",
+    "address": "1000 Spring St, Elizabeth, NJ, 07201 United States",
+    "distance": 4.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/810000/807900/807851/4f656cb0_l.jpg"
+  },
+  {
+    "price": 117,
+    "name": "Hampton Inn Newark Airport",
+    "address": "1128 Spring Street, Elizabeth, NJ, 07207 United States",
+    "distance": 4.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26300/26205/26205_8_l.jpg"
+  }
+]

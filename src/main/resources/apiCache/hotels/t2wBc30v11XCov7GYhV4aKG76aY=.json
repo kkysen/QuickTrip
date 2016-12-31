@@ -1,0 +1,50 @@
+[
+  {
+    "price": 71,
+    "name": "Clarion Hotel Conference Center Louisville North",
+    "address": "505 Marriott Drive, Clarksville, IN, 47129 United States",
+    "distance": 0.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26400/26306/71ccef3e_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Best Western Green Tree Inn",
+    "address": "1425 Broadway Street, Clarksville, IN, 47129 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21100/21059/442fec09_l.jpg"
+  },
+  {
+    "price": 126,
+    "name": "Hampton Inn Louisville North/Clarksville",
+    "address": "1501 Broadway, Clarksville, IN, 47129 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/85100/85064/85064_56_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Candlewood Suites Louisville North",
+    "address": "1419 Bales Lane, Clarksville, IN, 47129 United States",
+    "distance": 2.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2490000/2489200/2489174/2489174_117_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Suburban Extended Stay Clarksville",
+    "address": "1620 Leisure Way, Clarksville, IN, 47129 United States",
+    "distance": 2.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2520000/2516500/2516429/4840f9c5_l.jpg"
+  },
+  {
+    "price": 43,
+    "name": "Value Place Louisville, KY (Clarksville)",
+    "address": "1811 Independence Court, Clarksville, IN, 47129 United States",
+    "distance": 2.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1940000/1938600/1938560/1938560_29_l.jpg"
+  }
+]

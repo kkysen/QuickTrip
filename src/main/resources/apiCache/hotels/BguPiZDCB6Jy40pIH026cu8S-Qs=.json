@@ -1,0 +1,34 @@
+[
+  {
+    "price": 115,
+    "name": "Grand Palms Spa \u0026 Golf Resort",
+    "address": "110 Grand Palms Drive, Pembroke Pines, FL, 33027 United States",
+    "distance": 1.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27900/27885/27885_85_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Fairfield Inn \u0026 Suites Fort Lauderdale Pembroke Pines",
+    "address": "1650 SW 145th Avenue, Pembroke Pines, FL, 33027 United States",
+    "distance": 1.2,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10080000/10077400/10077326/306672c4_l.jpg"
+  },
+  {
+    "price": 195,
+    "name": "Holiday Inn Express Pembroke Pines-Sheridan Street",
+    "address": "14651 NW 20th St, Pembroke Pines, FL, 33028 United States",
+    "distance": 1.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1790000/1784500/1784493/1784493_109_l.jpg"
+  },
+  {
+    "price": 170,
+    "name": "Hampton Inn Fort Lauderdale West",
+    "address": "1900 Nw 150th Ave, Pembroke Pines, FL, 33028 United States",
+    "distance": 1.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/203600/203532/203532_15_l.jpg"
+  }
+]

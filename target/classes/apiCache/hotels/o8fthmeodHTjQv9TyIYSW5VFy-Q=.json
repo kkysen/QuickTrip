@@ -1,0 +1,82 @@
+[
+  {
+    "price": 172,
+    "name": "Staybridge Suites East Stroudsburg - Poconos",
+    "address": "561 Independence Rd, East Stroudsburg, PA, 18301 United States",
+    "distance": 3.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4010000/4007000/4006914/4006914_47_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Days Inn East Stroudsburg",
+    "address": "838 Seven Bridge Rd, US 209 / I 80 Exit 309, East Stroudsburg, PA, 18301 United States",
+    "distance": 3.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1010000/1001500/1001459/1001459_195_l.jpg"
+  },
+  {
+    "price": 94,
+    "name": "Budget Inn \u0026 Suites",
+    "address": "320 Greentree Dr, Interstate 80 at Exit 308, East Stroudsburg, PA, 18301 United States",
+    "distance": 3.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1190000/1181000/1180952/1180952_43_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Super 8 Stroudsburg",
+    "address": "340 Greentree Dr, East Stroudsburg, PA, 18301 United States",
+    "distance": 3.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/892800/892766/892766_25_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Pocono Inn At Water Gap",
+    "address": "101 Broad St.; I80 Exit 310, Delaware Water Gap, PA, 18327 United States",
+    "distance": 4.1,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43500/43432/43432_20_l.jpg"
+  },
+  {
+    "price": 199,
+    "name": "The Shawnee Inn and Golf Resort",
+    "address": "100 Shawnee Inn Drive, East Stroudsburg, PA, 18356 United States",
+    "distance": 4.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8000/7999/7999_109_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Wolf Hollow At The Water Gap Country Club",
+    "address": "288 Mountain Road, Delaware Water Gap, PA, 18327 United States",
+    "distance": 4.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/893200/893145/893145_18_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Fairfield Inn \u0026 Suites Stroudsburg Bartonsville / Poconos",
+    "address": "294 Frantz Rd, Stroudsburg, PA, 18360 United States",
+    "distance": 4.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12600000/12596700/12596676/f2d5687a_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Value Inn",
+    "address": "5219 Milford Road, East Stroudsburg, PA, 18302 United States",
+    "distance": 6.6,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2390000/2388400/2388349/2388349_60_l.jpg"
+  },
+  {
+    "price": 204,
+    "name": "Pocono Palace Resort",
+    "address": "206 Marquis Road, East Stroudsburg, PA, 18302 United States",
+    "distance": 6.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/34700/34684/34684_114_l.jpg"
+  }
+]

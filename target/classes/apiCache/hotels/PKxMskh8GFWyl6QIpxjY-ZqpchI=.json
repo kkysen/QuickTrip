@@ -1,0 +1,74 @@
+[
+  {
+    "price": 140,
+    "name": "Comfort Inn Worland",
+    "address": "100 N Road 11, Worland, WY, 82401 United States",
+    "distance": 3.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/116600/116594/116594_82_l.jpg"
+  },
+  {
+    "price": 111,
+    "name": "Best Western Plus Plaza Hotel",
+    "address": "116 E Park St, Thermopolis, WY, 82443 United States",
+    "distance": 27.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/300000/296700/296682/355a1dd9_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Days Inn Thermopolis",
+    "address": "115 E Park Street, Thermopolis, WY, 82443 United States",
+    "distance": 27.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17400/17392/17392_161_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Rainbow Motel",
+    "address": "408 Park Street, Thermopolis, WY, 82443 United States",
+    "distance": 27.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1510000/1506000/1505958/1505958_50_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Budget Host Elk Antler Inn",
+    "address": "501 South 6th St Hwy 20, Thermopolis, WY, 82443 United States",
+    "distance": 27.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13070000/13067300/13067248/13067248_2_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "Paintbrush Inn Thermopolis",
+    "address": "605 S 6th St, Thermopolis, WY, 82443 United States",
+    "distance": 27.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3890000/3887800/3887701/3887701_22_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "El Rancho Motel",
+    "address": "924 Shoshoni St, Thermopolis, WY, 82443 United States",
+    "distance": 28.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13580000/13577800/13577798/13577798_2_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Quality Inn Thermopolis",
+    "address": "166 South US Hwy 20, Lane 5 S US Hwy 20, Thermopolis, WY, 82443 United States",
+    "distance": 28.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/470000/460100/460057/460057_53_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Historic Hotel Greybull",
+    "address": "600 Greybull Ave, Greybull, WY, 82426 United States",
+    "distance": 35.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3230000/3226400/3226365/3226365_2_l.jpg"
+  }
+]

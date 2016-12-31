@@ -1,0 +1,42 @@
+[
+  {
+    "price": 85,
+    "name": "Best Western Lakewood",
+    "address": "6125 Motor Avenue SW, Lakewood, WA, 98499 United States",
+    "distance": 0.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21000/20964/20964_77_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Holiday Inn Express Tacoma South Lakewood",
+    "address": "11751 Pacific Hwy SW, Lakewood, WA, 98499 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1720000/1712700/1712647/1712647_69_l.jpg"
+  },
+  {
+    "price": 61,
+    "name": "Americas Best Value Inn Seattle/Tacoma Near JBLM Base",
+    "address": "4215 Sharondale Street SW, Lakewood, WA, 98499 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/700000/699300/699271/157571ea_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Candlewood Suites Lakewood",
+    "address": "10720 Pacific Hwy S, Lakewood, WA, 98499 United States",
+    "distance": 2.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3500000/3499800/3499754/3499754_23_l.jpg"
+  },
+  {
+    "price": 96,
+    "name": "Days Inn Lakewood South Tacoma",
+    "address": "9325 South Tacoma Way, Lakewood, WA, 98499 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8130000/8126500/8126479/8126479_35_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 239,
+    "name": "The Driskill - in the Unbound Collection by Hyatt",
+    "address": "604 Brazos Street, Austin, TX, 78701 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/425600/425573/de4fac59_l.jpg"
+  },
+  {
+    "price": 276,
+    "name": "InterContinental Stephen F. Austin",
+    "address": "701 Congress Avenue, Austin, TX, 78701 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/451000/450973/6a610d80_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Firehouse Hostel",
+    "address": "605 Brazos Street, Austin, TX, 78701 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13280000/13278800/13278715/def316f3_l.jpg"
+  },
+  {
+    "price": 249,
+    "name": "Omni Austin Hotel",
+    "address": "700 San Jacinto Blvd, Austin, TX, 78701 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8600/8540/8540_65_l.jpg"
+  },
+  {
+    "price": 299,
+    "name": "The Westin Austin Downtown",
+    "address": "310 East 5th Street, Austin, TX, 78701 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9690000/9689200/9689189/9689189_71_l.jpg"
+  },
+  {
+    "price": 249,
+    "name": "Residence Inn by Marriott Austin Downtown/Convention Center",
+    "address": "300 E 4th St, Austin, TX, 78701 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1460000/1453600/1453501/1453501_155_l.jpg"
+  },
+  {
+    "price": 269,
+    "name": "Courtyard Austin Downtown/Convention Center",
+    "address": "300 East 4th Street, Austin, TX, 78701 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1460000/1453600/1453532/1453532_171_l.jpg"
+  },
+  {
+    "price": 155,
+    "name": "Penthouses at The Railyards",
+    "address": "301 East 4th Street #337, Austin, TX, 78701 United States",
+    "distance": 0.2,
+    "rating": 1.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12740000/12733900/12733833/12733833_6_l.jpg"
+  },
+  {
+    "price": 167,
+    "name": "Extended Stay America Austin - Downtown - 6th St.",
+    "address": "600 Guadalupe St, Austin, TX, 78701 United States",
+    "distance": 0.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/569200/569189/569189_17_l.jpg"
+  },
+  {
+    "price": 256,
+    "name": "Hyatt Place Austin Downtown",
+    "address": "211 E 3rd St, Austin, TX, 78701 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5440000/5437800/5437747/cb5a170e_l.jpg"
+  }
+]

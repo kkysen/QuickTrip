@@ -1,0 +1,82 @@
+[
+  {
+    "price": 59,
+    "name": "Shady Oaks Motel",
+    "address": "2954 Old Hwy 99 South, Roseburg, OR, 97471 United States",
+    "distance": 12.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10990000/10987200/10987120/10987120_1_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Holiday Inn Express \u0026 Suites Canyonville",
+    "address": "200 Creekside Drive, Canyonville, OR, 97417 United States",
+    "distance": 13.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/700000/699900/699828/699828_243_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Travel Inn",
+    "address": "1627 SE Stephens, Roseburg, OR, 97470 United States",
+    "distance": 14.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11050000/11040400/11040338/f421a3fb_l.jpg"
+  },
+  {
+    "price": 117,
+    "name": "Holiday Inn Express Roseburg",
+    "address": "375 Harvard Blvd, Roseburg, OR, 97470 United States",
+    "distance": 15.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22800/22705/22705_207_l.jpg"
+  },
+  {
+    "price": 57,
+    "name": "Travelodge Roseburg",
+    "address": "315 W Harvard Ave, Roseburg, OR, 97470 United States",
+    "distance": 15.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16100/16066/295f0193_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Rodeway Inn \u0026 Suites",
+    "address": "511 Se Stephens St, Roseburg, OR, 97470 United States",
+    "distance": 15.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26800/26763/26763_29_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Best Western Garden Villa Inn",
+    "address": "760 NW Garden Valley Boulevard, Roseburg, OR, 97470 United States",
+    "distance": 15.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7100/7049/7049_121_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "Howard Johnson Roseburg",
+    "address": "978 NE Stephens St, Garden Valley Blvd / Stephens, Roseburg, OR, 97470 United States",
+    "distance": 15.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6800/6739/6739_125_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Windmill Inn of Roseburg",
+    "address": "1450 Nw Mulholland Dr, Roseburg, OR, 97470 United States",
+    "distance": 15.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28200/28138/28138_47_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Comfort Inn",
+    "address": "1539 NW Mullholland Drive, Roseburg, OR, 97470 United States",
+    "distance": 16.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17800/17750/17750_95_l.jpg"
+  }
+]

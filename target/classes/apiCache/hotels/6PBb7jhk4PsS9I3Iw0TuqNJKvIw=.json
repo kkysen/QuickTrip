@@ -1,0 +1,82 @@
+[
+  {
+    "price": 109,
+    "name": "Hampton Inn Cleveland Airport - Tiedeman Road",
+    "address": "10305 Cascade Crossings, Brooklyn, OH, 44144 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/869000/868965/868965_13_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Extended Stay America Cleveland - Brooklyn",
+    "address": "10300 Cascade Xing, Brooklyn, OH, 44144 United States",
+    "distance": 2.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/450000/446300/446217/4e50f765_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Americas Best Value Inn - Cleveland Airport",
+    "address": "14043 Brookpark Road, Brook Park, OH, 44142 United States",
+    "distance": 2.6,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6600/6592/6592_138_l.jpg"
+  },
+  {
+    "price": 106,
+    "name": "Holiday Inn Express Cleveland Airport - Brookpark",
+    "address": "16330 Snow Rd, Brook Park, OH, 44142 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/281600/281582/13fb0054_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Best Western Airport Inn \u0026 Suites Cleveland",
+    "address": "16501 Snow Rd, Brook Park, OH, 44142 United States",
+    "distance": 2.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/62900/62868/511311ef_l.jpg"
+  },
+  {
+    "price": 42,
+    "name": "Howard Johnson Inn Cleveland Airport",
+    "address": "16644 Snow Road, Brook Park, OH, 44142 United States",
+    "distance": 3.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25600/25528/25528_24_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Extended Stay America - Cleveland - Middleburg Heights",
+    "address": "17522 Rosbough Blvd, Middleburg Heights, OH, 44130 United States",
+    "distance": 3.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/200200/200198/200198_29_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Sonesta ES Suites Cleveland Airport",
+    "address": "17525 Rosbough Dr, Middleburg Heights, OH, 44130 United States",
+    "distance": 3.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3800/3706/b0183700_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Comfort Inn Cleveland Airport",
+    "address": "17550 Rosbough Blvd, Middleburg Heights, OH, 44130 United States",
+    "distance": 3.5,
+    "rating": 3.5,
+    "imgUrl": ""
+  },
+  {
+    "price": 48,
+    "name": "Red Roof Inn Cleveland - Airport/Middleburg Heights",
+    "address": "17555 Bagley Rd, I-71 At Exit #235, Bagley Rd, Middleburg Heights, OH, 44130 United States",
+    "distance": 3.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4700/4624/4624_74_l.jpg"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "price": 62,
+    "name": "Days Inn Willoughby/Cleveland",
+    "address": "4145 State Route 306, I-90 and Route 306 Exit 193, Willoughby, OH, 44094 United States",
+    "distance": 0.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12400/12398/12398_109_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Red Roof Inn Cleveland East - Willoughby",
+    "address": "4166 State Route 306, Willoughby, OH, 44094 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13800/13716/13716_114_l.jpg"
+  },
+  {
+    "price": 164,
+    "name": "Courtyard by Marriott Cleveland Willoughby",
+    "address": "35103 Maplegrove Rd, Willoughby, OH, 44094 United States",
+    "distance": 4.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/280900/280889/280889_49_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Motel 6 Cleveland-Willoughby",
+    "address": "35110 Maplegrove Road, Willoughby, OH, 44094 United States",
+    "distance": 4.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21800/21790/21790_40_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "SKYLIGHT INN CLEVELAND - WILLOUGHBY",
+    "address": "34600 Maplegrove Rd, Willoughby, OH, 44094 United States",
+    "distance": 4.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16890000/16888600/16888552/98cfc927_l.jpg"
+  }
+]

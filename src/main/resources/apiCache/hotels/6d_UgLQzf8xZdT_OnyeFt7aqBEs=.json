@@ -1,0 +1,26 @@
+[
+  {
+    "price": 399,
+    "name": "Omni Scottsdale Resort \u0026 Spa at Montelucia",
+    "address": "4949 E Lincoln Drive, Paradise Valley, AZ, 85253 United States",
+    "distance": 1.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2300/2263/2263_362_l.jpg"
+  },
+  {
+    "price": 569,
+    "name": "Sanctuary on Camelback Mountain Resort and Spa",
+    "address": "5700 E McDonald Drive, Paradise Valley, AZ, 85253 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27700/27646/27646_213_l.jpg"
+  },
+  {
+    "price": 380,
+    "name": "Hermosa Inn",
+    "address": "5532 N Palo Cristi Rd, Paradise Valley, AZ, 85253 United States",
+    "distance": 3.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/535600/535545/535545_78_l.jpg"
+  }
+]

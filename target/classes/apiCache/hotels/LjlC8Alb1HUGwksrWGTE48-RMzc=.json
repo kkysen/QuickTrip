@@ -1,0 +1,26 @@
+[
+  {
+    "price": 114,
+    "name": "Red Velvet Inn",
+    "address": "803 S. La Salle, Navasota, TX, 77868 United States",
+    "distance": 0.4,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11670000/11669400/11669353/11669353_11_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Bogarts Casa Blanca",
+    "address": "1302 East Washington Avenue, Navasota, TX, 77868 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9330000/9324800/9324717/9324717_18_l.jpg"
+  },
+  {
+    "price": 111,
+    "name": "Best Western Inn of Navasota",
+    "address": "8965 Highway 6, Navasota, TX, 77868 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6670000/6668600/6668572/6668572_70_l.jpg"
+  }
+]

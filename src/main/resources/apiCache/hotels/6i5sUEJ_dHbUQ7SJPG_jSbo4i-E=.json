@@ -1,0 +1,58 @@
+[
+  {
+    "price": 59,
+    "name": "Travelodge Inn and Suites Muscatine",
+    "address": "2402 Park Ave, Muscatine, IA, 52761 United States",
+    "distance": 1.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40300/40264/40264_97_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "Comfort Inn Muscatine",
+    "address": "115 Cleveland St, Muscatine, IA, 52761 United States",
+    "distance": 1.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/280900/280832/1a0f331d_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Best Western Pearl City Inn",
+    "address": "305 Cleveland St, Muscatine, IA, 52761 United States",
+    "distance": 2.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1700/1657/1657_93_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Strawberry Farm Bed \u0026 Breakfast",
+    "address": "3402 Tipton Rd, Muscatine, IA, 52761 United States",
+    "distance": 2.2,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/12000000/11995200/11995147/11995147_7_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Super 8 - Muscatine",
+    "address": "2900 N Highway 61, Muscatine, IA, 52761 United States",
+    "distance": 2.3,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/123000/122937/122937_32_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "AmericInn Lodge \u0026 Suites Muscatine",
+    "address": "3115 Hwy 61 North, Muscatine, IA, 52761 United States",
+    "distance": 2.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/980000/972800/972723/972723_65_l.jpg"
+  },
+  {
+    "price": 137,
+    "name": "Hampton Inn Muscatine",
+    "address": "3308 N Port Drive, Muscatine, IA, 52761 United States",
+    "distance": 3.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3890000/3886300/3886256/3886256_58_l.jpg"
+  }
+]

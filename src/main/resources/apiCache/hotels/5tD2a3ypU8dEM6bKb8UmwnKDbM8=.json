@@ -1,0 +1,82 @@
+[
+  {
+    "price": 153,
+    "name": "Holiday Inn Express Hotel \u0026 Suites PORT ARTHUR",
+    "address": "3115 Central Mall Dr, Port Arthur, TX, 77642 United States",
+    "distance": 3.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2980000/2976500/2976433/2976433_88_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Suburban Extended Stay Hotel",
+    "address": "6900 Memorial Boulevard, Port Arthur, TX, 77642 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6640000/6634000/6633926/6633926_42_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Studio 6 Port Arthur",
+    "address": "3000 Jimmy Johnson Blvd, Port Arthur, TX, 77642 United States",
+    "distance": 3.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/996500/996409/b05e5c52_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Comfort Inn Port Arthur",
+    "address": "7800 Memorial Blvd, Port Arthur, TX, 77642 United States",
+    "distance": 3.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/2000000/1990300/1990266/c238ee15_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "MainStay Suites Port Arthur",
+    "address": "7648 Memorial Blvd, Port Arthur, TX, 77642 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1870000/1867000/1866942/1866942_59_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Best Inn",
+    "address": "7440 Memorial Boulevard, Port Arthur, TX, 77642 United States",
+    "distance": 3.2,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4720000/4714400/4714311/4714311_1_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Hampton Inn \u0026 Suites Port Arthur",
+    "address": "7660 Memorial Blvd, Port Arthur, TX, 77642 United States",
+    "distance": 3.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1640000/1635900/1635843/1635843_23_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Holiday Inn Port Arthur-Park Central",
+    "address": "2929 Jimmy Johnson Blvd, Port Arthur, TX, 77642 United States",
+    "distance": 3.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25200/25112/25112_239_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Super 8 Port Arthur/Nederland Area",
+    "address": "7700 Memorial Blvd, Port Arthur, TX, 77642 United States",
+    "distance": 3.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/861700/861633/934bc1c6_l.jpg"
+  },
+  {
+    "price": 112,
+    "name": "La Quinta Inn \u0026 Suites Port Arthur",
+    "address": "7540 Memorial Blvd, Port Arthur, TX, 77640 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2600000/2594000/2593948/f0780314_l.jpg"
+  }
+]

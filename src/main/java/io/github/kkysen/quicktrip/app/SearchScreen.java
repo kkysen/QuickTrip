@@ -43,6 +43,7 @@ public class SearchScreen implements Screen {
     private Button searchBtn;
     private Button backBtn;
     private Button resetBtn;
+    private Button lastSearchBtn;
     
     private static String quote(final Object o) {
         return '"' + o.toString() + '"';
@@ -83,7 +84,7 @@ public class SearchScreen implements Screen {
         public DestField(final int destNum) {
             this.destNum = destNum;
             
-            String labelText = "NoDateDestination";
+            String labelText = "Destination";
             // if destNum = 0, don't add destNum to label
             if (destNum != 0) {
                 labelText += " " + destNum;
@@ -346,12 +347,26 @@ public class SearchScreen implements Screen {
         final int numPeople = serializeNumPeople();
         final int budget = serializeBudget();
         final SearchArgs searchArgs = new SearchArgs(origin, startDate, dests, budget, numPeople);
-        final String json = QuickTrip.GSON.toJson(searchArgs);
+        final String json = QuickTripConstants.GSON.toJson(searchArgs);
         try {
-            MyFiles.write(Paths.get(QuickTrip.SEARCH_ARGS_PATH), json);
+            MyFiles.write(Paths.get(QuickTripConstants.SEARCH_ARGS_PATH), json);
         } catch (final IOException e) {
             throw new RuntimeException(e);
         }
+    }
+    
+    private void loadItineraryScreen() {
+        final ItineraryScreenController itineraryScreen = //
+                (ItineraryScreenController) QuickTrip.SCREENS.get(ItineraryScreenController.class);
+        itineraryScreen.load();
+        // when ItineraryScreen is finished loading, switch to it
+        QuickTrip.SCREENS.load(ItineraryScreenController.class);
+    }
+    
+    public void noSerializeSearch() {
+        // switch to SearchingScreen while ItineraryScreen loads
+        QuickTrip.SCREENS.load(SearchingScreen.class);
+        new Thread(this::loadItineraryScreen).run();
     }
     
     public void search() {
@@ -361,13 +376,7 @@ public class SearchScreen implements Screen {
             e.getErrorDialog().showAndWait();
             return; // stop serialization
         }
-        // switch to SearchingScreen while ItineraryScreen loads
-        QuickTrip.SCREENS.load(SearchingScreen.class);
-        final ItineraryScreen itineraryScreen = //
-                (ItineraryScreen) QuickTrip.SCREENS.get(ItineraryScreen.class);
-        itineraryScreen.load();
-        // when ItineraryScreen is finished loading, switch to it
-        QuickTrip.SCREENS.load(ItineraryScreen.class);
+        noSerializeSearch();
     }
     
     private WholeNumberField addWholeNumberField(final String name, final long max) {
@@ -417,6 +426,9 @@ public class SearchScreen implements Screen {
             reset();
         });
         rows.add(backBtn);
+        
+        lastSearchBtn = createButton("Last Search", 0, event -> noSerializeSearch());
+        rows.add(lastSearchBtn);
     }
     
     public SearchScreen() {

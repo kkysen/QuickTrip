@@ -1,0 +1,82 @@
+[
+  {
+    "price": 45,
+    "name": "Hiland Terrace Hotel",
+    "address": "14390 Route 30, Irwin, PA, 15642 United States",
+    "distance": 2.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11850000/11844700/11844654/11844654_2_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "The John Butler House Bed \u0026 Breakfast",
+    "address": "800 Rock Run Road, Elizabeth, PA, 15037 United States",
+    "distance": 4.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11710000/11708900/11708814/11708814_5_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Pittsburgh West Mifflin",
+    "address": "3122 Lebanon Church Rd, West Mifflin, PA, 15122 United States",
+    "distance": 6.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1140000/1135600/1135556/1135556_112_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Residence Inn by Marriott Pittsburgh Monroeville/Wilkins",
+    "address": "3455 William Penn Hwy, Pittsburgh, PA, 15235 United States",
+    "distance": 6.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4290000/4287400/4287380/6db6f920_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "DoubleTree by Hilton Pittsburgh - Monroeville Convention Ctr",
+    "address": "101 Mall Blvd, Monroeville, PA, 15146 United States",
+    "distance": 6.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17100/17055/17055_44_l.jpg"
+  },
+  {
+    "price": 57,
+    "name": "Econo Lodge",
+    "address": "1303 Route 51, Clairton, PA, 15025 United States",
+    "distance": 6.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1380000/1372800/1372722/1372722_35_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Courtyard by Marriott Pittsburgh Monroeville",
+    "address": "3962 William Penn Hwy, Monroeville, PA, 15146 United States",
+    "distance": 7.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1530000/1524700/1524685/71614f7b_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "South Hills Motel",
+    "address": "651 Clairton Blvd, West Mifflin, PA, 15236 United States",
+    "distance": 7.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3020000/3016200/3016178/3016178_1_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Holiday Inn Express Irwin (PA TPK Exit 67)",
+    "address": "8400 Route 30, Irwin, PA, 15642 United States",
+    "distance": 7.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/440000/435500/435423/54e400b5_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Hampton Inn \u0026 Suites North Huntingdon-Irwin",
+    "address": "8441 Country Club Drive, Irwin, PA, 15642 United States",
+    "distance": 7.1,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14930000/14929100/14929005/d8f06889_l.jpg"
+  }
+]

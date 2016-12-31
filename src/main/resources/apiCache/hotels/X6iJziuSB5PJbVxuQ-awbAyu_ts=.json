@@ -1,0 +1,82 @@
+[
+  {
+    "price": 89,
+    "name": "Candlewood Suites Enid",
+    "address": "1225 East Owen K Garriott Drive, Enid, OK, 73703 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15260000/15250700/15250699/15250699_3_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Comfort Inn Midwestern Square",
+    "address": "210 N Van Buren St, Enid, OK, 73703 United States",
+    "distance": 2.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84700/84648/84648_59_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Americas Best Value Inn Enid",
+    "address": "2523 Mercer Dr, Enid, OK, 73701 United States",
+    "distance": 4.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26200/26148/26148_41_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Super 8 Enid",
+    "address": "2715 W Garriott Road, Enid, OK, 73703 United States",
+    "distance": 4.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2480000/2471900/2471813/2471813_50_l.jpg"
+  },
+  {
+    "price": 57,
+    "name": "Ramada - Enid",
+    "address": "3005 W Garriott Road, Enid, OK, 73703 United States",
+    "distance": 4.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9000/8979/1951066d_l.jpg"
+  },
+  {
+    "price": 57,
+    "name": "Days Inn Enid",
+    "address": "2818 S Van Buren St, Enid, OK, 73703 United States",
+    "distance": 4.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12600/12596/391b2c35_l.jpg"
+  },
+  {
+    "price": 143,
+    "name": "Knights Inn Enid",
+    "address": "2901 South Van Buren, Enid, OK, 73703 United States",
+    "distance": 4.3,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23600/23584/23584_79_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Baymont Inn \u0026 Suites Enid",
+    "address": "3614 W Garriott Rd, Enid, OK, 73703 United States",
+    "distance": 4.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/204000/203962/9d9f69f8_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "Hampton Inn and Suites Enid",
+    "address": "511 Demla Ct, Enid, OK, 73703 United States",
+    "distance": 4.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3430000/3423700/3423622/3423622_22_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Enid - Highway 412",
+    "address": "4702 W Owen K Garriott Road, Enid, OK, 73703 United States",
+    "distance": 5.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1370000/1364000/1363986/1363986_146_l.jpg"
+  }
+]

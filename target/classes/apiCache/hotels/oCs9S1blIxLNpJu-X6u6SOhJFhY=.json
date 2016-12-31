@@ -1,0 +1,58 @@
+[
+  {
+    "price": 67,
+    "name": "Quality Inn",
+    "address": "3209 Picard Place, Sunnyside, WA, 98944 United States",
+    "distance": 4.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/64200/64200/64200_51_l.jpg"
+  },
+  {
+    "price": 108,
+    "name": "Best Western Plus Grapevine Inn",
+    "address": "1849 Quail Ln, Sunnyside, WA, 98944 United States",
+    "distance": 4.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1160000/1152200/1152188/9ed6ff1a_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Travel Inn",
+    "address": "724 Yakima Valley Hwy, Sunnyside, WA, 98944 United States",
+    "distance": 6.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3870000/3860800/3860738/9bca785d_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Rodeway Inn",
+    "address": "408 Yakima Valley Hwy, Sunnyside, WA, 98944 United States",
+    "distance": 6.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43200/43115/9e69f55e_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Best Western Plus The Inn at Horse Heaven",
+    "address": "259 Merlot Dr, Prosser, WA, 99350 United States",
+    "distance": 7.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9100/9090/9090_67_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Best Western Plus Vintage Valley Inn",
+    "address": "911 Vintage Valley Parkway, Zillah, WA, 98953 United States",
+    "distance": 20.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/62400/62391/62391_91_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Quality Inn \u0026 Suites Toppenish - Yakima Valley",
+    "address": "511 S. Elm Street, Toppenish, WA, 98948 United States",
+    "distance": 20.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1690000/1688400/1688351/1688351_63_l.jpg"
+  }
+]

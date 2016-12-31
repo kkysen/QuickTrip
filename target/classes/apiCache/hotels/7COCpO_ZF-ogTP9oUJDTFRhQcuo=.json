@@ -1,0 +1,82 @@
+[
+  {
+    "price": 83,
+    "name": "Main Street Lodge and Suites",
+    "address": "514 Huron Avenue, Port Huron, MI, 48060 United States",
+    "distance": 0.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1120000/1117700/1117686/1117686_67_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "DoubleTree by Hilton Hotel Port Huron",
+    "address": "800 Harker Street, Port Huron, MI, 48060 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/36700/36667/7f26c9b4_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Holiday Inn Express \u0026 Suites Port Huron",
+    "address": "2021 Water Street, Port Huron, MI, 48060 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11240000/11236200/11236133/7f56e5b8_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Fairfield Inn By Marriott Port Huron",
+    "address": "1635 Yeager St, Port Huron, MI, 48060 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/58100/58062/58062_59_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Hampton Inn Port Huron",
+    "address": "1655 Yeager St, Port Huron, MI, 48060 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/119300/119233/119233_19_l.jpg"
+  },
+  {
+    "price": 86,
+    "name": "Comfort Inn - Port Huron",
+    "address": "1700 Yeager St, Port Huron, MI, 48060 United States",
+    "distance": 1.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11400/11313/11313_109_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Best Western Port Huron/hospitality Inn",
+    "address": "2282 Water St, Port Huron, MI, 48060 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/544200/544189/544189_427_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Quality Inn \u0026 Suites Port Huron",
+    "address": "1720 Hancock St, Port Huron, MI, 48060 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/118300/118295/20a3c4d1_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Baymont Inn \u0026 Suites Port Huron",
+    "address": "1611 Range Road, Port Huron, MI, 48074 United States",
+    "distance": 4.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/124500/124479/4855b809_l.jpg"
+  },
+  {
+    "price": 78,
+    "name": "Super 8 Marysville/Port Huron Area",
+    "address": "1484 Gratiot Blvd, Marysville, MI, 48040 United States",
+    "distance": 4.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856300/856217/856217_39_l.jpg"
+  }
+]

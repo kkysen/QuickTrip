@@ -1,0 +1,18 @@
+[
+  {
+    "price": 129,
+    "name": "Best Western Spring Hill Inn \u0026 Suites",
+    "address": "104 Kedron Pkwy, Spring Hill, TN, 37174 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4000/3967/3967_218_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Hampton Inn Spring Hill",
+    "address": "2052 Crossings Boulevard, Spring Hill, TN, 37174 United States",
+    "distance": 2.1,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15770000/15768100/15768008/15768008_1_l.jpg"
+  }
+]

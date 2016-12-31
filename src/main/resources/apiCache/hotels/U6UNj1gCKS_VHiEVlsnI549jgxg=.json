@@ -1,0 +1,82 @@
+[
+  {
+    "price": 98,
+    "name": "Comfort Inn Broussard",
+    "address": "146 Heritage Parkway, Broussard, LA, 70518 United States",
+    "distance": 3.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/2000000/1990300/1990262/1990262_60_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Hampton Inn Broussard-Lafayette Area",
+    "address": "2280 East Main Street, Broussard, LA, 70518 United States",
+    "distance": 3.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9240000/9231700/9231620/9231620_34_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "La Quinta Inn \u0026 Suites Broussard - Lafayette Area",
+    "address": "104 Sweetland Parkway, Broussard, LA, 70518 United States",
+    "distance": 4.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2350000/2340500/2340462/918e666a_l.jpg"
+  },
+  {
+    "price": 94,
+    "name": "Candlewood Suites Lafayette",
+    "address": "2105 Kaliste Saloom Rd, Lafayette, LA, 70508 United States",
+    "distance": 5.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1740000/1730200/1730172/1730172_210_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Home2 Suites by Hilton Parc Lafayette",
+    "address": "1909 Kaliste Saloom Road, Lafayette, LA, 70508 United States",
+    "distance": 5.1,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12720000/12711000/12710970/12710970_1_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "SpringHill Suites by Marriott Lafayette South at River Ranch",
+    "address": "321 Settlers Trace Blvd, Lafayette, LA, 70508 United States",
+    "distance": 5.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4450000/4441800/4441714/a50712e7_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "Residence Inn Marriott Airport",
+    "address": "128 James Comeaux Rd, Lafayette, LA, 70508 United States",
+    "distance": 6.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1840000/1832800/1832759/1832759_24_l.jpg"
+  },
+  {
+    "price": 108,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Lafayette",
+    "address": "3903 Ambassador Caffery Pkwy, Lafayette, LA, 70503 United States",
+    "distance": 6.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1090000/1083200/1083189/1083189_156_l.jpg"
+  },
+  {
+    "price": 112,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Lafayette South",
+    "address": "210 Kaliste Saloom Road, Lafayette, LA, 70508 United States",
+    "distance": 6.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2240000/2233300/2233207/2233207_122_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Homewood Suites by Hilton Lafayette, LA",
+    "address": "201 Kaliste Saloom Road, Lafayette, LA, 70508 United States",
+    "distance": 6.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4390000/4386400/4386353/4386353_154_l.jpg"
+  }
+]

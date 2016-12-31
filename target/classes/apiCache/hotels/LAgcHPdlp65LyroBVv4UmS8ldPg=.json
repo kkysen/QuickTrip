@@ -1,0 +1,18 @@
+[
+  {
+    "price": 99,
+    "name": "Best Western Americana",
+    "address": "1450 S Alta Ave, Dinuba, CA, 93618 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42400/42348/f3baa2b8_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Dinuba West",
+    "address": "375 S Alta Ave, Dinuba, CA, 93618 United States",
+    "distance": 1.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2360000/2355900/2355853/63b49aef_l.jpg"
+  }
+]

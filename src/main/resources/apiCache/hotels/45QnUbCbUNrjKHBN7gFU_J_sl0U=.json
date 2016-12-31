@@ -1,0 +1,82 @@
+[
+  {
+    "price": 114,
+    "name": "Courtyard Houma",
+    "address": "142 Library Drive, Houma, LA, 70360 United States",
+    "distance": 1.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3910000/3908700/3908614/4ab88ee3_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Howard Johnson Houma",
+    "address": "105 Lamar Street, Houma, LA, 70360 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1890000/1889100/1889085/1889085_85_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Motel 6 Houma LA",
+    "address": "955 Highway 182, Houma, LA, 70364 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16450000/16447600/16447590/f9dfde96_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Plantation Inn of Houma",
+    "address": "1381 W Tunnel Blvd, Houma, LA, 70360 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/980000/980000/979949/979949_14_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Ramada Houma",
+    "address": "1400 W Tunnel Blvd, Houma, LA, 70360 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3700/3612/3612_136_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Fairfield Inn by Marriott Houma",
+    "address": "1530 Martin Luther King Blvd, Houma, LA, 70360 United States",
+    "distance": 1.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/68000/67988/3b80af06_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Quality Hotel Houma",
+    "address": "210 S Hollywood Rd, Houma, LA, 70360 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9700/9693/fb7683ff_l.jpg"
+  },
+  {
+    "price": 57,
+    "name": "Days Inn Houma",
+    "address": "125 Dixie Ave, Houma, LA, 70363 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1340000/1338100/1338046/1338046_114_l.jpg"
+  },
+  {
+    "price": 94,
+    "name": "Baymont Inn And Suites Houma",
+    "address": "1246 Grand Caillou Rd, Houma, LA, 70363 United States",
+    "distance": 2.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2190000/2185100/2185011/2185011_230_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Comfort Inn \u0026 Suites Houma",
+    "address": "2120 Industrial Blvd, Houma, LA, 70360 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1780000/1778200/1778189/1778189_41_l.jpg"
+  }
+]

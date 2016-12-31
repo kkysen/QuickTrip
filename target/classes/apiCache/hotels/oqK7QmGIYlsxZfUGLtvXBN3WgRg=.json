@@ -1,0 +1,82 @@
+[
+  {
+    "price": 119,
+    "name": "Historic Santa Maria Inn",
+    "address": "801 S Broadway, Santa Maria, CA, 93454 United States",
+    "distance": 0.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20400/20393/20393_93_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "Days Inn Santa Maria",
+    "address": "839 E Main St, Santa Maria, CA, 93454 United States",
+    "distance": 0.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1090000/1088200/1088174/1088174_242_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Motel 6 Santa Maria - South",
+    "address": "1007 E Main St, Santa Maria, CA, 93454 United States",
+    "distance": 0.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42000/41946/41946_59_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "Quality Inn \u0026 Suites Santa Maria",
+    "address": "210 Nicholson Avenue, Santa Maria, CA, 93454 United States",
+    "distance": 1.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15200/15104/15104_44_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Best Western Plus Big America",
+    "address": "1725 N Broadway, Santa Maria, CA, 93454 United States",
+    "distance": 1.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15400/15345/852298da_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Travelodge Santa Maria",
+    "address": "1514 S Broadway, Santa Maria, CA, 93454 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/790000/789200/789178/e8e3d25c_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Santa Maria",
+    "address": "2061 Roemer Ct, Santa Maria, CA, 93454 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2740000/2733300/2733222/9cd22702_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "Candlewood Suites Santa Maria",
+    "address": "2079 N. Roemer Court, Santa Maria, CA, 93454 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2620000/2618300/2618252/2618252_152_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Holiday Inn Hotel and Suites Santa Maria",
+    "address": "2100 N Broadway, Santa Maria, CA, 93454 United States",
+    "distance": 1.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12500/12424/12424_372_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Colonial Motel",
+    "address": "1866 S Broadway, Santa Maria, CA, 93454 United States",
+    "distance": 1.8,
+    "rating": 1.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16160000/16153000/16152993/e3ebf3b8_l.jpg"
+  }
+]

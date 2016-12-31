@@ -1,0 +1,82 @@
+[
+  {
+    "price": 161,
+    "name": "The Roosevelt, A Provenance Hotel",
+    "address": "1531 7th Ave, Seattle, WA, 98101 United States",
+    "distance": 0.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28300/28274/62c533a7_l.jpg"
+  },
+  {
+    "price": 310,
+    "name": "Grand Hyatt Seattle",
+    "address": "721 Pine St, Seattle, WA, 98101 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/546500/546475/546475_157_l.jpg"
+  },
+  {
+    "price": 241,
+    "name": "The Paramount Hotel",
+    "address": "724 Pine St, Seattle, WA, 98101 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/58800/58703/58703_52_l.jpg"
+  },
+  {
+    "price": 284,
+    "name": "Hyatt At Olive 8",
+    "address": "1635 8th Ave, Seattle, WA, 98101 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2310000/2309400/2309333/2309333_82_l.jpg"
+  },
+  {
+    "price": 369,
+    "name": "Hilton Seattle",
+    "address": "1301 6th Avenue, Seattle, WA, 98101 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8000/7910/f6537767_l.jpg"
+  },
+  {
+    "price": 262,
+    "name": "Fairmont Olympic Hotel",
+    "address": "411 University St, Seattle, WA, 98101 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20300/20230/4211e42d_l.jpg"
+  },
+  {
+    "price": 257,
+    "name": "The Westin Seattle",
+    "address": "1900 5th Ave, Seattle, WA, 98101 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16700/16673/55eebd4c_l.jpg"
+  },
+  {
+    "price": 185,
+    "name": "Hotel Max, A Provenance Hotel",
+    "address": "620 Stewart, Seattle, WA, 98101 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28700/28647/28647_107_l.jpg"
+  },
+  {
+    "price": 234,
+    "name": "Mayflower Park Hotel",
+    "address": "405 Olive Way, Seattle, WA, 98101 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26900/26893/26893_70_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Homewood Suites by Hilton Seattle Conv. Center/Pike Street",
+    "address": "1011 Pike St, Seattle, WA, 98101 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28300/28273/28273_93_l.jpg"
+  }
+]

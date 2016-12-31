@@ -1,0 +1,82 @@
+[
+  {
+    "price": 54,
+    "name": "Days Inn Scranton PA",
+    "address": "1946 Scranton Carbondale Hwy, Dickson City, PA, 18508 United States",
+    "distance": 3.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40400/40390/970898ef_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Holiday Inn Express Hotel and Suites Scranton",
+    "address": "1265 Commerce Blvd, Dickson City, PA, 18519 United States",
+    "distance": 3.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4120000/4117500/4117454/4117454_156_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Quality Inn Dunmore",
+    "address": "1226 Oneill Hwy, Dunmore, PA, 18512 United States",
+    "distance": 4.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18500/18454/18454_59_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Dickson City/Scranton",
+    "address": "232 Main Street, Dickson City, PA, 18519 United States",
+    "distance": 4.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3770000/3762700/3762612/3762612_32_l.jpg"
+  },
+  {
+    "price": 86,
+    "name": "Sleep Inn \u0026 Suites Scranton Dunmore",
+    "address": "102 Monahan Ave, Dunmore, PA, 18512 United States",
+    "distance": 4.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1190000/1181100/1181026/1181026_60_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Fairfield Inn by Marriott Scranton",
+    "address": "949 Viewmont Drive, Scranton, PA, 18519 United States",
+    "distance": 4.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/564000/563989/563989_74_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Residence Inn by Marriott Scranton",
+    "address": "947 Viewmont Dr, Scranton, PA, 18519 United States",
+    "distance": 4.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/426500/426488/426488_53_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Econo Lodge Clarks Summit",
+    "address": "649 Northern Blvd, Clarks Summit, PA, 18411 United States",
+    "distance": 6.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43300/43213/43213_37_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Comfort Inn Clarks Summit",
+    "address": "811 Northern Blvd, Clarks Summit, PA, 18411 United States",
+    "distance": 6.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15200/15164/9bf61b73_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Ramada Clarks Summit near Scranton",
+    "address": "820 Northern Blvd., Clarks Summit, PA, 18411 United States",
+    "distance": 6.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8100/8095/8095_96_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 56,
+    "name": "M Star Calumet Park",
+    "address": "12808 South Ashland, Calumet Park, IL, 60827 United States",
+    "distance": 1.1,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856000/855945/855945_1_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "Magnuson Hotel Calumet Park",
+    "address": "12800 South Ashland, Calumet Park, IL, 60827 United States",
+    "distance": 1.1,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/520000/517500/517493/517493_13_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "Baymont Inn \u0026 Suites Chicago / Alsip",
+    "address": "12801 South Cicero, Alsip, IL, 60803 United States",
+    "distance": 2.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50900/50833/50833_97_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Holiday Inn Express Crestwood",
+    "address": "13330 South Cicero Avenue, Crestwood, IL, 60445 United States",
+    "distance": 3.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12000/11965/d5d4f5f1_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "DoubleTree by Hilton Chicago - Alsip",
+    "address": "5000 W 127th St, Alsip, IL, 60803 United States",
+    "distance": 3.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25600/25507/25507_43_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Days Inn Alsip",
+    "address": "5150 West 127th Street, Alsip, IL, 60803 United States",
+    "distance": 3.3,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/880000/877700/877601/877601_79_l.jpg"
+  },
+  {
+    "price": 57,
+    "name": "Southland Inn \u0026 Suites",
+    "address": "2850 W 159th St, Markham, IL, 60428 United States",
+    "distance": 3.9,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7320000/7318700/7318604/7318604_5_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Best Western Chicago Southland",
+    "address": "4375 Frontage Road, Oak Forest, IL, 60452 United States",
+    "distance": 5.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/580000/578600/578531/d36d9b66_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Gateway Inn",
+    "address": "4657 W 95th Street, Oak Lawn, IL, 60453 United States",
+    "distance": 5.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5540000/5538000/5537993/5537993_1_l.jpg"
+  },
+  {
+    "price": 155,
+    "name": "Hilton Chicago/Oak Lawn",
+    "address": "9333 S Cicero Ave, Oak Lawn, IL, 60453 United States",
+    "distance": 5.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17700/17618/17618_84_l.jpg"
+  }
+]

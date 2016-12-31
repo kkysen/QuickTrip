@@ -1,0 +1,82 @@
+[
+  {
+    "price": 40,
+    "name": "Econo Lodge",
+    "address": "630 N Green Bay Road, Waukegan, IL, 60085 United States",
+    "distance": 1.4,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/450000/440100/440023/440023_39_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Ramada Waukegan/Gurnee",
+    "address": "200 N Green Bay Rd, Grand Ave \u0026 Green Bay Rd, Waukegan, IL, 60085 United States",
+    "distance": 1.5,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8400/8301/6c381024_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Motel 6 Waukegan IL",
+    "address": "31 N Green Bay Rd, Waukegan, IL, 60085 United States",
+    "distance": 1.6,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/49500/49437/0ea5be3c_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Americas Best Value Inn \u0026 Suites-Waukegan/Gurnee",
+    "address": "411 S. Greenbay Road, Waukegan, IL, 60085 United States",
+    "distance": 2.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42600/42502/42502_113_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Howard Johnson Waukegan Great Lakes",
+    "address": "619 S Green Bay Rd, Waukegan, IL, 60085 United States",
+    "distance": 2.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14100/14015/8c051127_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Red Roof Inn Gurnee - Waukegan",
+    "address": "3031 Belvidere Rd, Waukegan, IL, 60085 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5500/5420/5420_63_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Executive Inn and Suites",
+    "address": "680 S Green Bay Rd, Waukegan, IL, 60085 United States",
+    "distance": 2.4,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2790000/2784500/2784476/2784476_44_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Travelodge Waukegan Gurnee",
+    "address": "3633 N Lewis Ave, Waukegan, IL, 60087 United States",
+    "distance": 2.7,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/200000/190500/190415/190415_45_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Courtyard Chicago Waukegan Gurnee",
+    "address": "3800 Northpoint Blvd, Waukegan, IL, 60085 United States",
+    "distance": 3.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3500/3403/3403_88_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Crossland Economy Studios - Chicago - Waukegan",
+    "address": "1177 S Northpoint Blvd, Waukegan, IL, 60085 United States",
+    "distance": 3.3,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/110000/104200/104187/104187_27_l.jpg"
+  }
+]

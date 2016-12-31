@@ -1,0 +1,82 @@
+[
+  {
+    "price": 116,
+    "name": "Four Points by Sheraton Philadelphia Northeast",
+    "address": "9461 Roosevelt Blvd, Philadelphia, PA, 19114 United States",
+    "distance": 4.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16200/16160/16160_109_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Days Inn Roosevelt Boulevard",
+    "address": "4200 Roosevelt Blvd, Philadelphia, PA, 19124 United States",
+    "distance": 4.2,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27300/27216/27216_17_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Hampton Inn Philadelphia / Willow Grove",
+    "address": "1500 Easton Rd, Willow Grove, PA, 19090 United States",
+    "distance": 4.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20400/20349/bf7c6a3b_l.jpg"
+  },
+  {
+    "price": 137,
+    "name": "Fairfield Inn \u0026 Suites Philadelphia Willow Grove",
+    "address": "2440 Maryland Rd, Willow Grove, PA, 19090 United States",
+    "distance": 5.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14680000/14677200/14677189/14677189_7_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "SpringHill Suites Philadelphia Willow Grove",
+    "address": "2480 Maryland Rd, Willow Grove, PA, 19090 United States",
+    "distance": 5.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/792600/792541/792541_54_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Extended Stay America Philadelphia - Horsham - Welsh Rd.",
+    "address": "114 Welsh Rd, Horsham, PA, 19044 United States",
+    "distance": 5.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/859800/859789/859789_25_l.jpg"
+  },
+  {
+    "price": 174,
+    "name": "Chestnut Hill Hotel",
+    "address": "8229 Germantown Ave, Philadelphia, PA, 19118 United States",
+    "distance": 5.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10510000/10504000/10503938/10503938_17_l.jpg"
+  },
+  {
+    "price": 199,
+    "name": "Courtyard by Marriott Philadelphia Willow Grove",
+    "address": "2350 Easton Rd Route 611, Willow Grove, PA, 19090 United States",
+    "distance": 5.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22200/22172/22172_25_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Motel 6 Philadelphia Northeast",
+    "address": "11580 Roosevelt Blvd, Philadelphia, PA, 19116 United States",
+    "distance": 5.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5800/5742/5742_56_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Residence Inn by Marriott Philadelphia Willow Grove",
+    "address": "3 Walnut Grove Dr, Horsham, PA, 19044 United States",
+    "distance": 5.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18400/18393/18393_27_l.jpg"
+  }
+]

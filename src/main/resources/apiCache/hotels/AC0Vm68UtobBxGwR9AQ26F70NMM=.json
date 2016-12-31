@@ -1,0 +1,82 @@
+[
+  {
+    "price": 79,
+    "name": "Comfort Inn Greenville",
+    "address": "1190 E Russ Rd, Greenville, OH, 45331 United States",
+    "distance": 18.0,
+    "rating": 3.5,
+    "imgUrl": ""
+  },
+  {
+    "price": 113,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Greenville",
+    "address": "1195 Russ Rd, Greenville, OH, 45331 United States",
+    "distance": 18.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/861300/861235/861235_94_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Holiday Inn Express \u0026 Suites Portland",
+    "address": "100 Holiday Dr, Portland, IN, 47371 United States",
+    "distance": 19.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1890000/1880900/1880898/1880898_63_l.jpg"
+  },
+  {
+    "price": 57,
+    "name": "Portland Inn",
+    "address": "1147 N US Highway 27, Portland, IN, 47371 United States",
+    "distance": 20.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856000/855975/71094e8a_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Comfort Inn Richmond",
+    "address": "912 Mendleson Dr, Richmond, IN, 47374 United States",
+    "distance": 21.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4400/4345/4345_43_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Super 8 Centerville-Richmond",
+    "address": "2407 N. Centerville Rd, 1-70 at Exit 145, Centerville, IN, 47330 United States",
+    "distance": 22.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/855800/855782/022f3f72_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Red Carpet Inn \u0026 Suites",
+    "address": "3400 South Madison Street, Muncie, IN, 47302 United States",
+    "distance": 23.0,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/34600/34586/34586_15_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Courtyard Muncie at Horizon Convention Center",
+    "address": "601 S High St, Muncie, IN, 47305 United States",
+    "distance": 23.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12760000/12755900/12755848/a8b17b6d_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "Philip W. Smith Bed \u0026 Breakfast",
+    "address": "2039 E. Main Street, Richmond, IN, 47374 United States",
+    "distance": 24.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2550000/2546800/2546742/7b9be8e3_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Hampton Inn \u0026 Suites Richmond",
+    "address": "455 Commerce Rd, Richmond, IN, 47374 United States",
+    "distance": 24.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1600000/1590100/1590037/1590037_69_l.jpg"
+  }
+]

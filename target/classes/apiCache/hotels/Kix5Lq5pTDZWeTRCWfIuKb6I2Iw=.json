@@ -1,0 +1,42 @@
+[
+  {
+    "price": 160,
+    "name": "Lancaster Inn and Suites",
+    "address": "1475 Lancaster Road, Manheim, PA, 17545 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/327500/327428/327428_84_l.jpg"
+  },
+  {
+    "price": 130,
+    "name": "Comfort Suites Manheim - Lancaster",
+    "address": "543 Champ Blvd, Manheim, PA, 17545 United States",
+    "distance": 4.3,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13380000/13378300/13378222/ef6c46d3_l.jpg"
+  },
+  {
+    "price": 132,
+    "name": "Warehouse Hotel",
+    "address": "75 Champ Boulevard, Manheim, PA, 17545 United States",
+    "distance": 4.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12010000/12000600/12000599/4d2e0682_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Hampton Inn Manheim",
+    "address": "2764 Lebanon Rd, Manheim, PA, 17545 United States",
+    "distance": 4.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/300000/297200/297144/17d18046_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "Comfort Inn \u0026 Suites Manheim - Lebanon",
+    "address": "2845 Lebanon Rd, Manheim, PA, 17545 United States",
+    "distance": 5.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/869100/869041/869041_17_l.jpg"
+  }
+]

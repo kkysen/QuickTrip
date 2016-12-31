@@ -1,0 +1,26 @@
+[
+  {
+    "price": 85,
+    "name": "Knights Inn Crockett",
+    "address": "1600 E Loop 304, Crockett, TX, 75835 United States",
+    "distance": 2.3,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7250000/7242600/7242591/7242591_2_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "Holiday Inn Express Crockett",
+    "address": "1511 Southeast Loop #304, Crockett, TX, 75835 United States",
+    "distance": 2.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/970000/966200/966126/966126_127_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Crockett Family Resort",
+    "address": "75 Dogwood Ln W, Crockett, TX, 75835 United States",
+    "distance": 11.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16620000/16617500/16617455/af6e69aa_l.jpg"
+  }
+]

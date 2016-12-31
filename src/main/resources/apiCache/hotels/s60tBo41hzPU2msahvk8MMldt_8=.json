@@ -1,0 +1,26 @@
+[
+  {
+    "price": 127,
+    "name": "Howard Johnson Quincy",
+    "address": "845 Hancock St, Quincy, MA, 02170 United States",
+    "distance": 0.3,
+    "rating": 4.4,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/913200/913189/e175a440_l.jpg"
+  },
+  {
+    "price": 202,
+    "name": "Best Western Adams Inn",
+    "address": "29 Hancock St, Quincy, MA, 02171 United States",
+    "distance": 2.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/55000/54941/54941_75_l.jpg"
+  },
+  {
+    "price": 242,
+    "name": "Boston Marriott Quincy",
+    "address": "1000 Marriot Dr, Quincy, MA, 02169 United States",
+    "distance": 2.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/660000/658900/658857/658857_181_l.jpg"
+  }
+]

@@ -15,6 +15,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
+import java.time.Instant;
 import java.util.Base64;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
@@ -24,6 +25,7 @@ import java.util.Map.Entry;
 import java.util.Set;
 import java.util.StringJoiner;
 import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.ConcurrentSkipListMap;
 
 import lombok.AccessLevel;
 import lombok.Getter;
@@ -77,10 +79,11 @@ public abstract class ApiRequest<R> {
             private final String url;
             private final String id;
             private final Path path;
+            private final Instant time;
             
             @Override
             public String toString() {
-                return url + "," + id + "," + path;
+                return String.join(SEP, time.toString(), url, id, path.toString());
             }
             
         }
@@ -91,9 +94,11 @@ public abstract class ApiRequest<R> {
         private final Map<Path, String> path2id = new ConcurrentHashMap<>();
         private final Map<String, String> id2url = new ConcurrentHashMap<>();
         
+        private final Map<String, Instant> url2time = new ConcurrentSkipListMap<>();
+        
         private final Set<Entry> entries = ConcurrentHashMap.newKeySet();
         
-        private void put(final String url, final String id, final Path path) {
+        private void put(final Instant time, final String url, final String id, final Path path) {
             if (url2id.containsKey(url)) {
                 return;
             }
@@ -104,7 +109,9 @@ public abstract class ApiRequest<R> {
             path2id.put(path, id);
             id2url.put(id, url);
             
-            entries.add(new Entry(url, id, path));
+            url2time.put(url, time);
+            
+            entries.add(new Entry(url, id, path, time));
         }
         
         public void put(final ApiRequest<?> request) {
@@ -112,7 +119,7 @@ public abstract class ApiRequest<R> {
             final String id = hashToBase64(url);
             final String fileName = id + "." + request.getFileExtension();
             final Path path = Paths.get(CACHE_DIR, request.getRelativeCachePath().toString(), fileName);
-            put(url, id, path);
+            put(Instant.now(), url, id, path);
         }
         
         public Set<Entry> entrySet() {
@@ -167,7 +174,11 @@ public abstract class ApiRequest<R> {
             .filter(line -> !line.isEmpty())
             .forEach(line -> {
                 final String[] lineParts = line.split(SEP);
-                put(lineParts[0], lineParts[1], Paths.get(lineParts[2]));
+                final Instant time = Instant.parse(lineParts[0]);
+                final String url = lineParts[1];
+                final String id = lineParts[2];
+                final Path requestPath = Paths.get(lineParts[3]);
+                put(time, url, id, requestPath);
             });
         }
         

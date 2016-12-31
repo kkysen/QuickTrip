@@ -9,6 +9,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 
 import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 
 /**
  * 
@@ -18,6 +19,7 @@ import com.google.gson.Gson;
 public abstract class AbstractJsonRequest<R> extends ApiRequest<R> {
     
     private static final Gson GSON = new Gson();
+    private static final Gson PRETTY_GSON = new GsonBuilder().setPrettyPrinting().create();
     
     @Override
     protected final String getFileExtension() {
@@ -38,7 +40,7 @@ public abstract class AbstractJsonRequest<R> extends ApiRequest<R> {
     
     @Override
     protected final void cache(final Path path, final R response) throws IOException {
-        MyFiles.write(path, GSON.toJson(response));
+        MyFiles.write(path, PRETTY_GSON.toJson(response));
     }
     
 }

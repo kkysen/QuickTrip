@@ -16,6 +16,7 @@ import java.nio.file.Paths;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.time.Instant;
+import java.util.ArrayList;
 import java.util.Base64;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
@@ -74,7 +75,7 @@ public abstract class ApiRequest<R> {
         
         @RequiredArgsConstructor
         @Getter
-        private static class Entry {
+        private static class Entry implements Comparable<Entry> {
             
             private final String url;
             private final String id;
@@ -84,6 +85,11 @@ public abstract class ApiRequest<R> {
             @Override
             public String toString() {
                 return String.join(SEP, time.toString(), url, id, path.toString());
+            }
+            
+            @Override
+            public int compareTo(final Entry other) {
+                return time.compareTo(other.time);
             }
             
         }
@@ -202,7 +208,9 @@ public abstract class ApiRequest<R> {
         }
         
         private void save(final Path path) throws IOException {
-            MyFiles.write(path, entries);
+            final List<Entry> entryList = new ArrayList<>(entries);
+            entryList.sort(null);
+            MyFiles.write(path, entryList);
         }
         
         public void save() {

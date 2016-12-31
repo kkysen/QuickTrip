@@ -56,7 +56,7 @@ public class Destination {
     
     public static void main(final String[] args) {
         final long start = System.currentTimeMillis();
-        final Destination dest = new Destination("Brooklyn, NY", 5, LocalDate.parse("2017-01-03"), LocalDate.parse("2017-01-06"), 2);
+        final Destination dest = new Destination("Brooklyn, NY", 5, LocalDate.parse("2017-01-03"), LocalDate.parse("2017-01-07"), 2);
         //dest.possibleHotels().forEach(System.out::println);
         dest.addHotelsHotelsScrapeRequest();
         final List<Hotel> hotels = dest.getPossibleHotels();

@@ -19,6 +19,7 @@ import java.util.Base64;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Map.Entry;
 import java.util.Set;
 import java.util.StringJoiner;
 import java.util.concurrent.ConcurrentHashMap;
@@ -222,9 +223,7 @@ public abstract class ApiRequest<R> {
         @Override
         public String toString() {
             final StringJoiner queryString = new StringJoiner("&", "?", "");
-            for (final String name : keySet()) {
-                queryString.add(name + '=' + get(name));
-            }
+            entrySet().forEach(entry -> queryString.add(entry.getKey() + '=' + entry.getValue()));
             return queryString.toString();
         }
         
@@ -287,8 +286,9 @@ public abstract class ApiRequest<R> {
             return shouldRemove;
         });
         final Map<Field, Object> queryEntries = Reflect.getFieldEntries(queryFields, this);
-        for (final Field queryField : queryEntries.keySet()) {
-            final String queryValue = queryEntries.get(queryField).toString();
+        for (final Entry<Field, Object> entry : queryEntries.entrySet()) {
+            final Field queryField = entry.getKey();
+            final String queryValue = entry.getValue().toString();
             if (!queryValue.isEmpty()) {
                 final QueryField annotation = field2annotation.get(queryField);
                 String name = annotation.name();

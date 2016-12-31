@@ -7,6 +7,7 @@ import java.util.Arrays;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Map.Entry;
 import java.util.Set;
 import java.util.StringJoiner;
 
@@ -67,8 +68,8 @@ class Type<T> {
     public Map<String, Object> getStringFieldEntries(final List<Field> fields, final T t) {
         final Map<Field, Object> fieldEntries = getFieldEntries(fields, t);
         final Map<String, Object> stringFieldEntries = new LinkedHashMap<>(fields.size());
-        for (final Field field : fieldEntries.keySet()) {
-            stringFieldEntries.put(field.getName(), fieldEntries.get(field));
+        for (final Entry<Field, Object> entry : fieldEntries.entrySet()) {
+            stringFieldEntries.put(entry.getKey().getName(), entry.getValue());
         }
         return stringFieldEntries;
     }
@@ -84,8 +85,8 @@ class Type<T> {
     public Map<String, String> getAllStringFieldEntries(final List<Field> fields, final T t) {
         final Map<Field, Object> fieldEntries = getFieldEntries(fields, t);
         final Map<String, String> stringFieldEntries = new LinkedHashMap<>(fields.size());
-        for (final Field field : fieldEntries.keySet()) {
-            stringFieldEntries.put(field.getName(), fieldEntries.get(field).toString());
+        for (final Entry<Field, Object> entry : fieldEntries.entrySet()) {
+            stringFieldEntries.put(entry.getKey().getName(), entry.getValue().toString());
         }
         return stringFieldEntries;
     }

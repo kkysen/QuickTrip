@@ -1,0 +1,82 @@
+[
+  {
+    "price": 85,
+    "name": "Travelodge Inn \u0026 Suites Bell Los Angeles Area",
+    "address": "6600 Atlantic Ave, Bell, CA, 90201 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12550000/12542100/12542049/bcc6f21a_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Diamond Bell Inn \u0026 Suites",
+    "address": "4810 Florence Ave, Bell, CA, 90201 United States",
+    "distance": 1.4,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16480000/16475500/16475496/0f72e221_l.jpg"
+  },
+  {
+    "price": 220,
+    "name": "The Bicycle Hotel \u0026 Casino",
+    "address": "888 Casino Dr., Bell Gardens, CA, 90201 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12490000/12486100/12486098/12486098_53_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "7330 Eastern Ave, Bell Gardens, CA, 90201 United States",
+    "distance": 2.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/534700/534655/534655_182_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "DoubleTree by Hilton Los Angeles - Commerce",
+    "address": "5757 Telegraph Rd, Commerce, CA, 90040 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27000/26989/26989_91_l.jpg"
+  },
+  {
+    "price": 187,
+    "name": "Crowne Plaza Hotel Los Angeles Commerce Casino",
+    "address": "6121 Telegraph Rd, Commerce, CA, 90040 United States",
+    "distance": 2.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/533300/533227/533227_575_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Rodeway Inn Near L.A. Live",
+    "address": "6340 Sante Fe Ave, Huntington Park, CA, 90255 United States",
+    "distance": 2.5,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2160000/2150500/2150412/2150412_15_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Lido Hotel",
+    "address": "6523 Santa Fe Ave, Huntington Park, CA, 90255 United States",
+    "distance": 2.5,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10520000/10519700/10519609/10519609_15_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Americas Best Value Inn-South Gate/Downey",
+    "address": "4920 Firestone Boulevard, South Gate, CA, 90280 United States",
+    "distance": 2.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2390000/2385200/2385108/6aadea2a_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Rodeway Inn South Gate",
+    "address": "8911 Atlantic Ave, South Gate, CA, 90280 United States",
+    "distance": 2.6,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5910000/5909800/5909768/5909768_20_l.jpg"
+  }
+]

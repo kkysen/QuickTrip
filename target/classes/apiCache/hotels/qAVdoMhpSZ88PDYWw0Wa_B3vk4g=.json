@@ -1,0 +1,82 @@
+[
+  {
+    "price": 48,
+    "name": "Super 8 Greenville",
+    "address": "1004 S Memorial Dr, Greenville, NC, 27834 United States",
+    "distance": 6.6,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/124200/124149/64c429ab_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Baymont Inn \u0026 Suites Greenville",
+    "address": "3439 S Memorial Drive, Greenville, NC, 27834 United States",
+    "distance": 6.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10700/10685/4dd95649_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Knights Inn Greenville",
+    "address": "3435 S Memorial Dr, Greenville, NC, 27834 United States",
+    "distance": 6.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/660000/659700/659652/659652_112_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Wingate by Wyndham Greenville",
+    "address": "3212 S Memorial Dr, Greenville, NC, 27834 United States",
+    "distance": 7.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/220000/217400/217352/217352_72_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Hilton Greenville",
+    "address": "207 S.W. Greenville Blvd, Greenville, NC, 27834 United States",
+    "distance": 7.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1600/1575/1575_103_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Holiday Inn Greenville",
+    "address": "203 Greenville Blvd SW, Greenville, NC, 27834 United States",
+    "distance": 7.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12900/12870/12870_102_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Hampton Inn Greenville",
+    "address": "305 Greenville Blvd Sw, Greenville, NC, 27834 United States",
+    "distance": 7.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2600000/2593900/2593867/2593867_19_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Rodeway Inn \u0026 Suites",
+    "address": "301 Greenville Blvd Se, Us 264, 40 Miles Off I-95, Greenville, NC, 27858 United States",
+    "distance": 7.9,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40400/40380/40380_36_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Home-Towne Suites Greenville",
+    "address": "2111 W Arlington Blvd, Greenville, NC, 27834 United States",
+    "distance": 8.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/425400/425334/a45a8501_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Greenville/University Medic",
+    "address": "450 Moye Blvd, Greenville, NC, 27835 United States",
+    "distance": 9.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2010000/2009600/2009531/2009531_32_l.jpg"
+  }
+]

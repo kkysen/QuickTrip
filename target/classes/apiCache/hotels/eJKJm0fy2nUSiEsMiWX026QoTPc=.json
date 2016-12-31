@@ -1,0 +1,74 @@
+[
+  {
+    "price": 47,
+    "name": "Mayberry Knights Inn",
+    "address": "455 North Andy Griffith Parkway, Mount Airy, NC, 27030 United States",
+    "distance": 0.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/200000/194700/194606/194606_26_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Comfort Inn Mount Airy",
+    "address": "1293 Newsome Street, Mount Airy, NC, 27030 United States",
+    "distance": 1.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/530000/523200/523117/523117_70_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Hampton Inn Mount Airy",
+    "address": "2029 Rockford Street, Mount Airy, NC, 27030 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43200/43196/43196_73_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Mount Airy",
+    "address": "1320 Ems Drive, Mount Airy, NC, 27030 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2980000/2976500/2976407/2976407_18_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Quality Inn Mount Airy",
+    "address": "2136 Rockford St, Mount Airy, NC, 27030 United States",
+    "distance": 1.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5100/5007/5007_95_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Best Western Bryson Inn",
+    "address": "125 Plaza Ln, Mount Airy, NC, 27030 United States",
+    "distance": 7.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21100/21089/21089_64_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Econo Lodge Inn \u0026 Suites",
+    "address": "711 S Key St, Pilot Mountain, NC, 27041 United States",
+    "distance": 11.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/894400/894380/894380_108_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Surry Inn",
+    "address": "2340 Zephyr Road, Dobson, NC, 27017 United States",
+    "distance": 12.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16520000/16511200/16511183/87dc6726_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "Hampton Inn and Suites Dobson",
+    "address": "150 Charlestown Dr, Dobson, NC, 27017 United States",
+    "distance": 12.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1640000/1635900/1635854/1635854_12_l.jpg"
+  }
+]

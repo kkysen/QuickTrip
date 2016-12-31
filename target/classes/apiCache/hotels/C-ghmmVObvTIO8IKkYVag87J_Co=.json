@@ -1,0 +1,82 @@
+[
+  {
+    "price": 75,
+    "name": "Magnuson Country Inn Ishpeming",
+    "address": "850 U.S. Hwy 41 W., Ishpeming, MI, 49849 United States",
+    "distance": 6.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7200/7128/4ba12dba_l.jpg"
+  },
+  {
+    "price": 106,
+    "name": "Comfort Suites",
+    "address": "2463 Us Highway 41 W, Marquette, MI, 49855 United States",
+    "distance": 7.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16700/16672/16672_199_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Country Inn \u0026 Suites By Carlson, Marquette, MI",
+    "address": "2472 US Highway 41 W, Marquette, MI, 49855 United States",
+    "distance": 8.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1520000/1517300/1517211/1517211_84_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Days Inn Marquette",
+    "address": "2403 US Highway 41 W, Marquette, MI, 49855 United States",
+    "distance": 8.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/500/417/417_53_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Holiday Inn Marquette",
+    "address": "1951 Us Highway 41 W, Marquette, MI, 49855 United States",
+    "distance": 8.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1800/1779/1779_234_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Settle Inn Marquette",
+    "address": "1275 US Highway 41 West, Marquette, MI, 49855 United States",
+    "distance": 8.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/897900/897851/e4c8f8e6_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Value Host Motor Inn",
+    "address": "1101 US 41, Marquette, MI, 49855 United States",
+    "distance": 8.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11900000/11897900/11897883/3bac96b5_l.jpg"
+  },
+  {
+    "price": 156,
+    "name": "Staybridge Suites Marquette",
+    "address": "855 West Washington Street, Marquette, MI, 49855 United States",
+    "distance": 8.8,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13300000/13296400/13296342/51bdce39_l.jpg"
+  },
+  {
+    "price": 140,
+    "name": "Ramada Marquette",
+    "address": "412 W Washington Street Bus, Marquette, MI, 49855 United States",
+    "distance": 9.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15600/15551/14de1bfe_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Econo Lodge Lakeside",
+    "address": "2050 Us Highway 41 S, Marquette, MI, 49855 United States",
+    "distance": 9.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/899200/899124/6ae23697_l.jpg"
+  }
+]

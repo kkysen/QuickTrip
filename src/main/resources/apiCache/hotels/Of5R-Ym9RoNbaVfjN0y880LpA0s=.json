@@ -1,0 +1,82 @@
+[
+  {
+    "price": 95,
+    "name": "Best Western Country Inn - North",
+    "address": "2633 Ne 43rd St, Kansas City, MO, 64117 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22000/21979/21979_141_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Courtyard Kansas City at Briarcliff",
+    "address": "4000 N Mulberry Dr, North Kansas City, MO, 64116 United States",
+    "distance": 3.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5100000/5094800/5094722/5094722_8_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Candlewood Suites Northeast Kansas City",
+    "address": "4450 Randolph Road, Kansas City, MO, 64117 United States",
+    "distance": 4.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3240000/3237400/3237351/3237351_49_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Econo Lodge Kansas City Downtown North",
+    "address": "2232 Taney St, North Kansas City, MO, 64116 United States",
+    "distance": 4.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16800/16718/16718_89_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "La Quinta Inn Kansas City North",
+    "address": "2214 Taney St, North Kansas City, MO, 64116 United States",
+    "distance": 4.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40200/40141/40141_116_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Super 8 Kansas City",
+    "address": "4321 N Corrington Ave, Kansas City, MO, 64117 United States",
+    "distance": 4.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856000/855958/855958_179_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Crossland Kansas City - Northeast - Worlds of Fun",
+    "address": "4301 N Corrington Ave, Kansas City, MO, 64117 United States",
+    "distance": 4.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/157900/157872/bde99e55_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Hampton Inn Kansas City - Near Worlds of Fun",
+    "address": "4233 N Corrington Ave, Kansas City, MO, 64117 United States",
+    "distance": 4.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1920000/1916900/1916865/1916865_4_l.jpg"
+  },
+  {
+    "price": 146,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Kansas City North",
+    "address": "4231 N Corrington Ave, Kansas City, MO, 64117 United States",
+    "distance": 4.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/422900/422846/422846_33_l.jpg"
+  },
+  {
+    "price": 181,
+    "name": "Argosy Casino Hotel And Spa",
+    "address": "777 N.W. Argosy Parkway, Riverside, MO, 64150 United States",
+    "distance": 4.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1650000/1640200/1640113/1640113_6_l.jpg"
+  }
+]

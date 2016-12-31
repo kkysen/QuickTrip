@@ -1,0 +1,82 @@
+[
+  {
+    "price": 56,
+    "name": "Wasco Inn Motel",
+    "address": "1126 Hwy 46, Wasco, CA, 93280 United States",
+    "distance": 7.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9510000/9506400/9506322/a8d39842_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Cinderella Motel",
+    "address": "1533 Highway 46, Wasco, CA, 93280 United States",
+    "distance": 7.8,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12460000/12455500/12455432/12455432_2_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Best Western Plus Wasco Inn \u0026 Suites",
+    "address": "1704 Highway 46, Wasco Ca Us 93280, Wasco, CA, 93280 United States",
+    "distance": 7.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2750000/2745500/2745409/2745409_37_l.jpg"
+  },
+  {
+    "price": 40,
+    "name": "Super 8 Buttonwillow",
+    "address": "20681 Tracy Ave, I-5 and Hwy 58 Exit, Buttonwillow, CA, 93206-9782 United States",
+    "distance": 9.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/180000/170300/170292/170292_128_l.jpg"
+  },
+  {
+    "price": 36,
+    "name": "Rodeway Inn I-5 at Rt. 58",
+    "address": "20688 Tracy Ave, Buttonwillow, CA, 93206 United States",
+    "distance": 9.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1550000/1540100/1540095/e157f398_l.jpg"
+  },
+  {
+    "price": 40,
+    "name": "Motel 6 Buttonwillow North",
+    "address": "20638 Tracy Ave, Buttonwillow, CA, 93206 United States",
+    "distance": 9.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/990000/983700/983644/983644_40_l.jpg"
+  },
+  {
+    "price": 41,
+    "name": "Motel 6 Buttonwillow Central",
+    "address": "20645 Tracy Ave, Buttonwillow, CA, 93206 United States",
+    "distance": 9.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1100000/1097800/1097728/1097728_37_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "Best Western Heritage Inn",
+    "address": "253 Trask Street, Bakersfield, CA, 93314 United States",
+    "distance": 11.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/34100/34093/34093_83_l.jpg"
+  },
+  {
+    "price": 40,
+    "name": "Vagabond Inn Buttonwillow I-5",
+    "address": "200 Trask St, Bakersfield, CA, 93314 United States",
+    "distance": 11.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28100/28026/c5107cc0_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Holiday Inn Express \u0026 Suites Bakersfield Airport",
+    "address": "19480 Quinn Road, Bakersfield, CA, 93308 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10540000/10538800/10538779/ef85e430_l.jpg"
+  }
+]

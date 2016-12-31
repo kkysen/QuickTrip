@@ -1,0 +1,18 @@
+[
+  {
+    "price": 123,
+    "name": "Best Western Plus Route 66 Glendora Inn",
+    "address": "625 E Route 66, Glendora, CA, 91740 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1700000/1696700/1696692/1696692_23_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Garden Inn \u0026 Suites",
+    "address": "606 W Route 66, Glendora, CA, 91740 United States",
+    "distance": 1.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25000/24972/24972_31_l.jpg"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "price": 152,
+    "name": "CopperWynd Resort and Club",
+    "address": "13225 North Eagle Ridge Drive, Fountain Hills, AZ, 85268 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/580000/577900/577892/f9605a2a_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Lexington Hotel \u0026 Suites - Fountain Hills / North Scottsdale",
+    "address": "12800 N Saguaro Blvd, Fountain Hills, AZ, 85268 United States",
+    "distance": 2.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1380000/1374000/1373950/1373950_88_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Comfort Inn Fountain Hills - Scottsdale",
+    "address": "17105 E Shea Blvd, Fountain Hills, AZ, 85268 United States",
+    "distance": 3.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42400/42382/42382_134_l.jpg"
+  },
+  {
+    "price": 268,
+    "name": "Skylab By Signature Vacation Rentals",
+    "address": "15026 N Escalante Dr, Fountain Hills, AZ, 85268 United States",
+    "distance": 3.6,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16250000/16246100/16246007/6c16e8fa_l.jpg"
+  }
+]

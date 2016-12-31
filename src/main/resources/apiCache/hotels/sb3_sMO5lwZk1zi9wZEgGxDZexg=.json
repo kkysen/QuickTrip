@@ -1,0 +1,18 @@
+[
+  {
+    "price": 50,
+    "name": "Motel 6 Florissant, MO",
+    "address": "307 Dunn Rd, Florissant, MO, 63031 United States",
+    "distance": 3.7,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26100/26049/26049_168_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Quality Inn",
+    "address": "55 Dunn Rd, Florissant, MO, 63031 United States",
+    "distance": 3.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6400/6396/6396_115_l.jpg"
+  }
+]

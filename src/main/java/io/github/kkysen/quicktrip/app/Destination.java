@@ -56,7 +56,8 @@ public class Destination {
     
     public static void main(final String[] args) {
         final long start = System.currentTimeMillis();
-        final Destination dest = new Destination("Brooklyn, NY", 5, LocalDate.parse("2017-01-03"), LocalDate.parse("2017-01-07"), 2);
+        final Destination dest = new Destination("Brooklyn, NY", 5, LocalDate.parse("2017-01-03"),
+                LocalDate.parse("2017-01-07"), 2);
         //dest.possibleHotels().forEach(System.out::println);
         dest.addHotelsHotelsScrapeRequest();
         final List<Hotel> hotels = dest.getPossibleHotels();
@@ -66,6 +67,13 @@ public class Destination {
         }
         final long elapsed = System.currentTimeMillis() - start;
         System.out.println(elapsed / 1000.0);
+    }
+    
+    @Override
+    public String toString() {
+        return "Destination [address=" + address + ", numDays=" + numDays + ", startDate="
+                + startDate + ", endDate=" + endDate + ", numPeople=" + numPeople + ", numRooms="
+                + numRooms + ", possibleHotels=" + possibleHotels + ", hotel=" + hotel + "]";
     }
     
 }

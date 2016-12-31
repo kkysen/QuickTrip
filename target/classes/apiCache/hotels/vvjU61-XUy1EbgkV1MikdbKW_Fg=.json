@@ -1,0 +1,82 @@
+[
+  {
+    "price": 70,
+    "name": "Quiet Corner Inn",
+    "address": "479 Providence Road, Brooklyn, CT, 06234 United States",
+    "distance": 2.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/850000/846100/846038/846038_99_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Comfort Inn \u0026 Suites",
+    "address": "16 Tracy Rd, Dayville, CT, 06241 United States",
+    "distance": 5.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/328000/327909/327909_50_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Americas Best Value Inn",
+    "address": "5 Heritage Rd, Putnam, CT, 06260 United States",
+    "distance": 8.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1160000/1153100/1153074/c8e8136b_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Quality Inn Plainfield",
+    "address": "55 Lathrop Rd, Plainfield, CT, 06374 United States",
+    "distance": 9.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1140000/1135600/1135544/1135544_62_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "AmericInn Lodge \u0026 Suites Griswold",
+    "address": "375 Voluntown Rd, Griswold, CT, 06351 United States",
+    "distance": 15.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/896700/896657/896657_65_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Sky View Motor Inn Johnston",
+    "address": "2880 Hartford Avenue, Johnston, RI, 02919 United States",
+    "distance": 15.0,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3730000/3723900/3723898/3723898_14_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Super 8 West Greenwich/Providence",
+    "address": "101 Nooseneck Hill Rd, West Greenwich, RI, 02817 United States",
+    "distance": 16.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/855300/855247/855247_99_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Best Western West Greenwich Inn",
+    "address": "99 Nooseneck Hill Rd, West Greenwich, RI, 02817 United States",
+    "distance": 16.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/10000/9915/9915_133_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Classic Motor Lodge West Green",
+    "address": "859 Victory Hwy, West Greenwich, RI, 02817 United States",
+    "distance": 16.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3650000/3649400/3649316/ad31e8ab_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "Best Western Storrs",
+    "address": "123 Storrs Road, Mansfield Center, CT, 06250 United States",
+    "distance": 18.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4900/4865/4865_111_l.jpg"
+  }
+]

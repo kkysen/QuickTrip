@@ -1,0 +1,82 @@
+[
+  {
+    "price": 93,
+    "name": "Days Inn Modesto",
+    "address": "1312 McHenry Avenue, Orangeburg and McHenry, Modesto, CA, 95350 United States",
+    "distance": 5.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1800/1740/1740_28_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "Motel 6 Oakdale",
+    "address": "825 E F St, Oakdale, CA, 95361 United States",
+    "distance": 5.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7300/7289/7289_83_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Holiday Inn Express Oakdale",
+    "address": "828 east f street, Oakdale, CA, 95361 United States",
+    "distance": 5.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/810000/804500/804461/804461_90_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "Apex Inn",
+    "address": "2225 Yosemite Blvd, Modesto, CA, 95354 United States",
+    "distance": 6.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/11000000/10996500/10996492/10996492_9_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Best Western Plus Rama Inn \u0026 Suites",
+    "address": "1450 E F Street, Oakdale, CA, 95361 United States",
+    "distance": 6.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/60600/60587/60587_94_l.jpg"
+  },
+  {
+    "price": 151,
+    "name": "SpringHill Suites by Marriott Modesto",
+    "address": "1901 W Orangeburg Ave, Modesto, CA, 95350 United States",
+    "distance": 6.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1570000/1562800/1562800/a614e684_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Motel 6 Modesto",
+    "address": "1920 W Orangeburg Ave, Modesto, CA, 95350 United States",
+    "distance": 6.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/996300/996211/80f66990_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Best Western Town House Lodge",
+    "address": "909 16th St, Modesto, CA, 95354 United States",
+    "distance": 6.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13800/13706/13706_138_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Comfort Inn Modesto",
+    "address": "2025 W Orangeburg Ave, Modesto, CA, 95350 United States",
+    "distance": 6.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/51200/51128/51128_43_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Best Western Palm Court Inn",
+    "address": "2001 W Orangeburg Ave, I-99 and Briggsmore/Carpenter, Modesto, CA, 95350 United States",
+    "distance": 6.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19000/18968/18968_164_l.jpg"
+  }
+]

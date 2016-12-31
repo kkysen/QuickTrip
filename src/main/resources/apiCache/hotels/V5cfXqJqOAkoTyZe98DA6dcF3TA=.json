@@ -1,0 +1,82 @@
+[
+  {
+    "price": 215,
+    "name": "Courtyard St. Petersburg Clearwater/Madeira Beach",
+    "address": "601 American Legion Dr, Madeira Beach, FL, 33708 United States",
+    "distance": 2.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8320000/8313400/8313396/6c444f33_l.jpg"
+  },
+  {
+    "price": 137,
+    "name": "Hotel Sol",
+    "address": "17566 Gulf Blvd, Redington Shores, FL, 33708 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1620000/1619200/1619174/1619174_38_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Sand Vista Vacation Rentals",
+    "address": "17495 Gulf Blvd, Redington Shores, FL, 33708 United States",
+    "distance": 2.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2950000/2949200/2949166/2949166_2_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "Island House Hotel",
+    "address": "17103 Gulf Boulevard, North Redington Beach, FL, 33708 United States",
+    "distance": 2.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8970000/8964100/8964031/8964031_17_l.jpg"
+  },
+  {
+    "price": 172,
+    "name": "DoubleTree Beach Resort by Hilton Tampa Bay-North Redington",
+    "address": "17120 Gulf Blvd, North Redington Beach, FL, 33708 United States",
+    "distance": 2.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20300/20243/20243_60_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Royal Orleans by TRS Inc.",
+    "address": "16333 Gulf Blvd, Redington Beach, FL, 33708 United States",
+    "distance": 3.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1520000/1510200/1510164/08d18ef4_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Boca Ciega Resort",
+    "address": "8800 Bay Pines Blvd, St. Petersburg, FL, 33709 United States",
+    "distance": 3.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2460000/2459900/2459819/2459819_38_l.jpg"
+  },
+  {
+    "price": 895,
+    "name": "Premier Solana Beach House by RedAwning",
+    "address": "16240 Gulf Blvd, Redington Beach, FL, 33708 United States",
+    "distance": 3.0,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16460000/16454100/16454034/6c7e6fb0_l.jpg"
+  },
+  {
+    "price": 174,
+    "name": "Waterfront Indian Shores Rentals",
+    "address": "Various Addresses, Indian Shores, FL, 33785 United States",
+    "distance": 3.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12340000/12338500/12338429/12338429_6_l.jpg"
+  },
+  {
+    "price": 130,
+    "name": "Sun Burst Inn",
+    "address": "19204 Gulf Blvd., Indian Shores, FL, 33785 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10020000/10013800/10013729/10013729_20_l.jpg"
+  }
+]

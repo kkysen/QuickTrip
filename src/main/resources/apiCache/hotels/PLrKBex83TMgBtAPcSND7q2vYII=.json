@@ -1,0 +1,82 @@
+[
+  {
+    "price": 94,
+    "name": "Comfort Suites Effingham",
+    "address": "1310 W Fayette Rd, Effingham, IL, 62401 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42100/42031/5ad013ad_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Econo Lodge Effingham",
+    "address": "1412 W Fayette Ave, Effingham, IL, 62401 United States",
+    "distance": 1.0,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22000/21945/21945_50_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Americas Best Value Inn Effingham",
+    "address": "1606 W Fayette Avenue, Effingham, IL, 62401 United States",
+    "distance": 1.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9200/9151/9151_72_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Lexington Inn \u0026 Suites - Effingham",
+    "address": "1604 West Fayette Avenue, Effingham, IL, 62401 United States",
+    "distance": 1.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11480000/11474500/11474428/11474428_36_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Quality Inn Effingham",
+    "address": "1304 W Evergreen Drive, Effingham, IL, 62401 United States",
+    "distance": 1.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/82600/82513/8ed7c17a_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Best Western Delta Inn",
+    "address": "1509 Hampton Dr, Effingham, IL, 62401 United States",
+    "distance": 1.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3400/3382/42b700e0_l.jpg"
+  },
+  {
+    "price": 126,
+    "name": "Fairfield Inn \u0026 Suites Marriott Effingham",
+    "address": "1111 North Henrietta Street, Effingham, IL, 62401 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1720000/1710800/1710768/1710768_18_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "La Quinta Inn \u0026 Suites Effingham",
+    "address": "1103 Avenue Of Mid America, Effingham, IL, 62401 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50100/50093/d93c6314_l.jpg"
+  },
+  {
+    "price": 153,
+    "name": "Holiday Inn Effingham",
+    "address": "1301 Avenue Of Mid America, Effingham, IL, 62401 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1120000/1113200/1113164/1113164_294_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Days Inn Effingham",
+    "address": "1205 North Keller Drive, Effingham, IL, 62401 United States",
+    "distance": 1.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/902400/902318/d9f4403c_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 189,
+    "name": "Residence Inn Marriott Danbury",
+    "address": "22 Segar St, Danbury, CT, 06810 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/202500/202411/202411_80_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Super 8 Danbury CT",
+    "address": "3 Lake Avenue Ext, Danbury, CT, 06811 United States",
+    "distance": 1.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/440000/440000/439912/5e5eca7b_l.jpg"
+  },
+  {
+    "price": 117,
+    "name": "Ethan Allen Hotel",
+    "address": "21 Lake Avenue Extension, I-84 at Exit 4, Danbury, CT, 06811 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/850000/848400/848360/848360_67_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Maron Hotel And Suites",
+    "address": "42 Lake Avenue Ext, Danbury, CT, 06811 United States",
+    "distance": 1.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/202500/202412/202412_44_l.jpg"
+  },
+  {
+    "price": 147,
+    "name": "Courtyard By Marriott Danbury",
+    "address": "3 Eagle Rd, Danbury, CT, 06810 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/891500/891471/b3614a24_l.jpg"
+  },
+  {
+    "price": 94,
+    "name": "Holiday Inn Danbury-Bethel at Interstate 84",
+    "address": "80 Newtown Road, Danbury, CT, 06810 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16500/16474/b85eb44a_l.jpg"
+  },
+  {
+    "price": 123,
+    "name": "Hampton Inn Danbury",
+    "address": "81 Newtown Rd, Danbury, CT, 06810 United States",
+    "distance": 2.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1450000/1445800/1445733/8e86bb21_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Quality Inn and Suites Danbury",
+    "address": "78 Federal Rd, Danbury, CT, 06810 United States",
+    "distance": 2.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/531800/531739/531739_48_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "La Quinta Inn \u0026 Suites Danbury",
+    "address": "116 Newtown Road, Danbury, CT, 06810 United States",
+    "distance": 2.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15100/15069/b0027f96_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Best Western Plus Danbury/Bethel",
+    "address": "11 Stony Hill Road, Bethel, CT, 06801 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4900/4841/4841_70_l.jpg"
+  }
+]

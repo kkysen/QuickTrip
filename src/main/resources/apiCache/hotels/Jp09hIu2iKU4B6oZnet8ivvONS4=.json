@@ -1,0 +1,50 @@
+[
+  {
+    "price": 57,
+    "name": "Indianhead Motel",
+    "address": "501 Summit Avenue, Chippewa Falls, WI, 54729 United States",
+    "distance": 0.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11270000/11261000/11260985/11260985_1_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "AmericInn Hotel \u0026 Suites Chippewa Falls",
+    "address": "11 W South Ave, Chippewa Falls, WI, 54729 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/440000/437800/437713/437713_94_l.jpg"
+  },
+  {
+    "price": 96,
+    "name": "Country Inn \u0026 Suites By Carlson, Chippewa Falls, WI",
+    "address": "1021 West Park Ave, Chippewa Falls, WI, 54729 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2400/2301/2301_33_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "Hampton Inn \u0026 Suites Chippewa Falls",
+    "address": "12707 30th Avenue, Chippewa Falls, WI, 54729 United States",
+    "distance": 3.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10190000/10188400/10188325/10188325_31_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Badger Motel",
+    "address": "2997 S PRAIRIE VIEW RD, Chippewa Falls, WI, 54729-5013 United States",
+    "distance": 3.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15700000/15696600/15696534/88b220e8_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Holiday Inn Express \u0026 Suites Eau Claire North",
+    "address": "12858 26th Ave, Chippewa Falls, WI, 54729 United States",
+    "distance": 4.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1710000/1700800/1700725/1700725_326_l.jpg"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "price": 72,
+    "name": "Milwaukie Inn Portland South",
+    "address": "14015 SE Mcloughlin Blvd, Milwaukie, OR, 97267 United States",
+    "distance": 0.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1330000/1327200/1327163/1327163_32_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "Econo Lodge Southeast Milwaukie/Portland",
+    "address": "17330 Se Mcloughlin Blvd, Milwaukie, OR, 97267 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19500/19436/d97cdd49_l.jpg"
+  }
+]

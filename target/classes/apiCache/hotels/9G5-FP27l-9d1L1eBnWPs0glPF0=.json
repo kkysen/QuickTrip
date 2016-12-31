@@ -1,0 +1,82 @@
+[
+  {
+    "price": 104,
+    "name": "Staybridge Suites Cleveland Mayfield Heights Beachwood",
+    "address": "6103 Landerhaven Drive, Mayfield Heights, OH, 44124 United States",
+    "distance": 1.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1650000/1640200/1640105/1640105_75_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "Homewood Suites by Hilton Cleveland-Beachwood",
+    "address": "25725 Central Pkwy, Beachwood, OH, 44122 United States",
+    "distance": 1.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1980000/1973100/1973045/1973045_54_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Extended Stay America -Cleveland -Beachwood -Orange Place -N",
+    "address": "3625 Orange Pl, Beachwood, OH, 44122 United States",
+    "distance": 2.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/280600/280535/280535_30_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Clarion Hotel Cleveland East/Beachwood",
+    "address": "26300 Chagrin Blvd, Beachwood, OH, 44122 United States",
+    "distance": 2.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12700/12666/12666_52_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Courtyard by Marriott Cleveland East-Beachwood",
+    "address": "3695 Orange Pl, Beachwood, OH, 44122 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8000/7946/7946_21_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "Hotel Indigo Cleveland-Beachwood",
+    "address": "3581 Park East Drive, Beachwood, OH, 44122 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8200000/8191200/8191152/8191152_14_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Home2 Suites by Hilton Cleveland Beachwood",
+    "address": "3589 Park East Drive, Beachwood, OH, 44122 United States",
+    "distance": 2.2,
+    "rating": 0.0,
+    "imgUrl": ""
+  },
+  {
+    "price": 125,
+    "name": "Residence Inn by Marriott Cleveland Beachwood",
+    "address": "3628 Park East Dr, Beachwood, OH, 44122 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/67800/67772/67772_46_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "DoubleTree by Hilton Cleveland East Beachwood",
+    "address": "3663 Park East Dr, Beachwood, OH, 44122 United States",
+    "distance": 2.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18300/18221/18221_88_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Cleveland Beachwood",
+    "address": "3750 Orange Pl, Beachwood, OH, 44122 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9400/9365/2701d266_l.jpg"
+  }
+]

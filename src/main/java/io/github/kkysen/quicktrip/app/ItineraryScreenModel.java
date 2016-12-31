@@ -32,11 +32,11 @@ public class ItineraryScreenModel {
     private SearchArgs deserializeSearchArgs() {
         String json;
         try {
-            json = MyFiles.read(Paths.get(QuickTrip.SEARCH_ARGS_PATH));
+            json = MyFiles.read(Paths.get(QuickTripConstants.SEARCH_ARGS_PATH));
         } catch (final IOException e) {
             throw new RuntimeException(e);
         }
-        return QuickTrip.GSON.fromJson(json, SearchArgs.class);
+        return QuickTripConstants.GSON.fromJson(json, SearchArgs.class);
     }
     
     private List<Destination> orderDestinations() {
@@ -83,7 +83,6 @@ public class ItineraryScreenModel {
         for (int i = 0; i < hotels.size(); i++) {
             destinations.get(i).setHotel(hotels.get(i));
         }
-        
         
         hotels.forEach(System.out::println);
     }

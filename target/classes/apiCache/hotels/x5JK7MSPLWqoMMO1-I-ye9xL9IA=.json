@@ -1,0 +1,42 @@
+[
+  {
+    "price": 59,
+    "name": "Best Western Village Inn",
+    "address": "3587 Hwy 62 And 412 W, Hardy, AR, 72542 United States",
+    "distance": 4.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3700/3632/c0117d3f_l.jpg"
+  },
+  {
+    "price": 57,
+    "name": "Days Inn Hardy",
+    "address": "4213 Hwy 63 and 62-412, Hardy, AR, 72542 United States",
+    "distance": 5.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/520000/518500/518489/518489_1_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Frontier Motor Lodge",
+    "address": "1948 Highway 63, Hardy, AR, 72542 United States",
+    "distance": 9.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10470000/10464000/10463917/10463917_2_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Cedar Glade Resort",
+    "address": "900 4th Street, Horseshoe Bend, AR, 72512 United States",
+    "distance": 11.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12750000/12742400/12742350/12742350_6_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Comfort Green Motel",
+    "address": "North Hwy 63, Rt 2 Box 2292, Thayer, MO, 65791 United States",
+    "distance": 19.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10950000/10942200/10942161/10942161_13_l.jpg"
+  }
+]

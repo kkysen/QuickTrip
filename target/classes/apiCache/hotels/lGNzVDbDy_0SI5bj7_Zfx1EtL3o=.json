@@ -1,0 +1,82 @@
+[
+  {
+    "price": 181,
+    "name": "Stonewall Jackson Hotel",
+    "address": "24 South Market Street, Staunton, VA, 24401 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1320000/1311400/1311324/1311324_60_l.jpg"
+  },
+  {
+    "price": 195,
+    "name": "Berkeley House Bed and Breakfast",
+    "address": "303 Berkeley Place, Staunton, VA, 24401 United States",
+    "distance": 0.2,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12640000/12636800/12636789/12636789_2_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Howard Johnson Express Inn Staunton",
+    "address": "268 N Central Ave, Staunton, VA, 24401 United States",
+    "distance": 0.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/670000/663700/663617/663617_45_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Olde Staunton Inn",
+    "address": "260 North Lewis Street, Staunton, VA, 24401 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4600000/4593100/4593019/4593019_25_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Econo Lodge East",
+    "address": "1031 Richmond Ave, Staunton, VA, 24401 United States",
+    "distance": 1.6,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13800/13714/13714_48_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "200 Frontier Dr, Staunton, VA, 24401 United States",
+    "distance": 1.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/328900/328834/328834_74_l.jpg"
+  },
+  {
+    "price": 235,
+    "name": "Inn at Old Virginia",
+    "address": "1329 Commerce Road, Staunton, VA, 24401 United States",
+    "distance": 2.9,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4220000/4214500/4214457/4214457_8_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Red Roof Inn Staunton",
+    "address": "42 Sangers Lane, Staunton, VA, 24401 United States",
+    "distance": 3.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17600/17558/17558_60_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Days Inn Staunton North",
+    "address": "273 Bells Ln, Staunton, VA, 24401 United States",
+    "distance": 3.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/180000/172900/172815/b2a63afa_l.jpg"
+  },
+  {
+    "price": 175,
+    "name": "MiddleRidge Bed and Breakfast",
+    "address": "125 Berry Farm Road, Verona, VA, 24401 United States",
+    "distance": 3.1,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15090000/15083500/15083440/15083440_18_l.jpg"
+  }
+]

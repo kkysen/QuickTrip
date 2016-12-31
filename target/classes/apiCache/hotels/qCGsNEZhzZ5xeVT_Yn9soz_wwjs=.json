@@ -1,0 +1,82 @@
+[
+  {
+    "price": 65,
+    "name": "Americas Best Value Inn \u0026 Suites - Independence / Cleveland",
+    "address": "5555 Brecksville Road, Independence, OH, 44131 United States",
+    "distance": 2.0,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/670000/660100/660037/660037_119_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Embassy Suites Cleveland Rockside",
+    "address": "5800 Rockside Woods Blvd, Independence, OH, 44131 United States",
+    "distance": 2.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/794900/794886/680a6d9b_l.jpg"
+  },
+  {
+    "price": 132,
+    "name": "SpringHill Suites by Marriott Cleveland Independence",
+    "address": "6060 Rockside Place, Independence, OH, 44131 United States",
+    "distance": 2.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15540000/15534900/15534896/5c99e427_l.jpg"
+  },
+  {
+    "price": 108,
+    "name": "Holiday Inn Cleveland-S Independence",
+    "address": "6001 Rockside Rd, Independence, OH, 44131 United States",
+    "distance": 2.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15400/15392/15392_118_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Hyatt Place Independence",
+    "address": "6025 Jefferson Dr, Independence, OH, 44131 United States",
+    "distance": 2.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43400/43391/c8fb946a_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Courtyard by Marriott Cleveland Independence",
+    "address": "5051 W Creek Rd, Independence, OH, 44131 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/563900/563889/963deb7e_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Residence Inn by Marriott Cleveland Independence",
+    "address": "5101 W Creek Rd, Independence, OH, 44131 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10200/10199/6b72224d_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Hampton Inn \u0026 Suites Cleveland/Independence",
+    "address": "6020 Jefferson Dr, Independence, OH, 44131 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/77600/77540/77540_45_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Red Roof Inn Cleveland - Independence",
+    "address": "6020 Quarry Ln, I-77 At Exit #155, Rockside Rd, Independence, OH, 44131 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6200/6127/6127_56_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "La Quinta Inn Cleveland-Independence",
+    "address": "6161 Quarry Ln, (932), Independence, OH, 44131 United States",
+    "distance": 2.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40300/40255/8b3dda07_l.jpg"
+  }
+]

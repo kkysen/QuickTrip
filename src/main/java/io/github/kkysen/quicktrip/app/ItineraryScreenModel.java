@@ -26,7 +26,7 @@ public class ItineraryScreenModel {
     private @Getter final LocalDate startDate;
     private @Getter final String origin;
     private @Getter final List<Destination> destinations;
-    private @Getter final List<Hotel> hotels;
+    private final List<Hotel> hotels;
     private @Getter final int cost;
     
     private SearchArgs deserializeSearchArgs() {
@@ -80,6 +80,11 @@ public class ItineraryScreenModel {
         final Hotels optimalHotels = findOptimalHotels();
         cost = optimalHotels.totalPrice();
         hotels = optimalHotels.getHotels();
+        for (int i = 0; i < hotels.size(); i++) {
+            destinations.get(i).setHotel(hotels.get(i));
+        }
+        
+        
         hotels.forEach(System.out::println);
     }
     

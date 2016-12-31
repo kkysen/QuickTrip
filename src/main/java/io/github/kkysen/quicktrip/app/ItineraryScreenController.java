@@ -17,6 +17,7 @@ public class ItineraryScreenController implements Screen {
     public void load() {
         model = new ItineraryScreenModel();
         view = new ItineraryScreenView();
+        view.addDestinations(model.getDestinations());
     }
     
     @Override

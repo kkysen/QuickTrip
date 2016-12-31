@@ -347,9 +347,9 @@ public class SearchScreen implements Screen {
         final int numPeople = serializeNumPeople();
         final int budget = serializeBudget();
         final SearchArgs searchArgs = new SearchArgs(origin, startDate, dests, budget, numPeople);
-        final String json = QuickTrip.GSON.toJson(searchArgs);
+        final String json = QuickTripConstants.GSON.toJson(searchArgs);
         try {
-            MyFiles.write(Paths.get(QuickTrip.SEARCH_ARGS_PATH), json);
+            MyFiles.write(Paths.get(QuickTripConstants.SEARCH_ARGS_PATH), json);
         } catch (final IOException e) {
             throw new RuntimeException(e);
         }

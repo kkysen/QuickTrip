@@ -1,6 +1,6 @@
 package io.github.kkysen.quicktrip.apis.hotels;
 
-import io.github.kkysen.quicktrip.apis.RenderedHtmlRequest;
+import io.github.kkysen.quicktrip.apis.HtmlRequest;
 import io.github.kkysen.quicktrip.app.Destination;
 import io.github.kkysen.quicktrip.app.Hotel;
 
@@ -25,7 +25,7 @@ import lombok.RequiredArgsConstructor;
  * @author Khyber Sen
  */
 @RequiredArgsConstructor(access = AccessLevel.PRIVATE)
-public class HotelsHotelsScrapeRequest extends RenderedHtmlRequest<List<Hotel>> {
+public class HotelsHotelsScrapeRequest extends HtmlRequest<List<Hotel>> {
     
     private static final String BASE_URL = "https://www.hotels.com/search.do";
     

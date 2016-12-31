@@ -1,0 +1,82 @@
+[
+  {
+    "price": 191,
+    "name": "City Loft Hotel",
+    "address": "301 Carteret St, Beaufort, SC, 29902-5525 United States",
+    "distance": 0.1,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/869100/869045/21631335_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Quality Inn At Town Center",
+    "address": "2001 Boundary Street, Beaufort, SC, 29902-3837 United States",
+    "distance": 1.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14600/14506/14506_58_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Hilton Garden Inn Beaufort",
+    "address": "1500 Queen St, Beaufort, SC, 29902 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1860000/1853300/1853242/ed204690_l.jpg"
+  },
+  {
+    "price": 143,
+    "name": "Holiday Inn Hotel \u0026 Suites Beaufort at Highway 21",
+    "address": "2225 Boundary St, Beaufort, SC, 29902-3831 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1650000/1647600/1647509/1647509_71_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Hampton Inn Beaufort",
+    "address": "2342 Boundary St, Beaufort, SC, 29902-3719 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42900/42877/42877_77_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Country Inn \u0026 Suites By Carlson, Beaufort West, SC",
+    "address": "2450 Boundary St, Beaufort, SC, 29906-3769 United States",
+    "distance": 2.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/915700/915608/915608_58_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Sleep Inn Beaufort",
+    "address": "2523 Boundary St, Beaufort, SC, 29906-7340 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/329800/329738/329738_128_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "Super 8 Port Royal/Beaufort",
+    "address": "1360 Ribaut Road, Port Royal, SC, 29935 United States",
+    "distance": 2.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/855800/855719/7a0e6894_l.jpg"
+  },
+  {
+    "price": 78,
+    "name": "Days Inn Port Royal/near Parris Island",
+    "address": "1660 Ribaut Rd, Port Royal, SC, 29935 United States",
+    "distance": 3.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18100/18057/b1b6eead_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Howard Johnson Inn Beaufort/Parris Island",
+    "address": "3651 Trask Parkway, I-95 Exit 33 - Hwy 17N - Hwy21, Beaufort, SC, 29906-7142 United States",
+    "distance": 3.3,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18800/18753/18753_113_l.jpg"
+  }
+]

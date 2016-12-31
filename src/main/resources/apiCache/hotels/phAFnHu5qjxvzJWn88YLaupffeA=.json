@@ -1,0 +1,82 @@
+[
+  {
+    "price": 173,
+    "name": "Best Western Plus Canyonlands Inn",
+    "address": "16 South Main street, Moab, UT, 84532 United States",
+    "distance": 0.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14000/13918/13918_359_l.jpg"
+  },
+  {
+    "price": 161,
+    "name": "Best Western Plus Greenwell Inn",
+    "address": "105 S Main St, Moab, UT, 84532 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17900/17889/17889_99_l.jpg"
+  },
+  {
+    "price": 203,
+    "name": "Homewood Suites by Hilton Moab",
+    "address": "132 N. Main Street, Moab, UT, 84532 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15120000/15118100/15118003/ecb9079d_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Bowen Motel",
+    "address": "169 North Main Street, Moab, UT, 84532 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11900000/11899100/11899029/61425d15_l.jpg"
+  },
+  {
+    "price": 160,
+    "name": "Rodeway Inn \u0026 Suites Landmark Inn",
+    "address": "168 North Main Street, Moab, UT, 84532 United States",
+    "distance": 0.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1470000/1461600/1461580/1461580_77_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Moab Rustic Inn",
+    "address": "120 East 100 South, Moab, UT, 84532 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16820000/16818500/16818480/2e2c76d8_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Hotel Moab Downtown",
+    "address": "182 S Main St, Moab, UT, 84532 United States",
+    "distance": 0.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7600/7536/7536_92_l.jpg"
+  },
+  {
+    "price": 189,
+    "name": "The Gonzo Inn",
+    "address": "100 W 200 S, Moab, UT, 84532 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4380000/4370700/4370622/4370622_7_l.jpg"
+  },
+  {
+    "price": 189,
+    "name": "Comfort Suites",
+    "address": "400 North Main, Moab, UT, 84532 United States",
+    "distance": 0.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8050000/8046000/8045936/055df786_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Days Inn Moab",
+    "address": "426 N Main St, Moab, UT, 84532 United States",
+    "distance": 0.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24800/24745/24745_71_l.jpg"
+  }
+]

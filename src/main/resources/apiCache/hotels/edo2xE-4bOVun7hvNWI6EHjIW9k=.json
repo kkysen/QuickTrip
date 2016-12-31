@@ -1,0 +1,82 @@
+[
+  {
+    "price": 66,
+    "name": "Americas Best Value Inn",
+    "address": "2330 W State St, Hwy 62 Exit West State Street, Alliance, OH, 44601-3531 United States",
+    "distance": 6.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/897900/897820/897820_45_l.jpg"
+  },
+  {
+    "price": 108,
+    "name": "Holiday Inn Express \u0026 Suites Alliance",
+    "address": "2341 W State St, Alliance, OH, 44601 United States",
+    "distance": 6.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/560000/558100/558082/558082_138_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "Comfort Inn",
+    "address": "2500 W State St, Alliance, OH, 44601 United States",
+    "distance": 7.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14900/14846/14846_67_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Holiday Inn Express Salem",
+    "address": "240 North Cunningham Road, Salem, OH, 44460 United States",
+    "distance": 11.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9680000/9679700/9679660/9679660_16_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Hampton Inn \u0026 Suites Youngstown- Canfield",
+    "address": "6690 Ironwood Blvd, Canfield, OH, 44406 United States",
+    "distance": 16.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1220000/1217900/1217803/1217803_39_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Courtyard by Marriott Youngstown Canfield",
+    "address": "4173 Westford Place, Canfield, OH, 44406 United States",
+    "distance": 17.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10960000/10957200/10957161/10957161_14_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Das Dutch Village Inn",
+    "address": "150 East State Route 14, Columbiana, OH, 44408 United States",
+    "distance": 17.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4040000/4034200/4034187/4034187_1_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Comfort Suites",
+    "address": "953 Edison Street, NW, Hartville, OH, 44632 United States",
+    "distance": 18.0,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11080000/11070600/11070507/11070507_10_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Days Inn Lisbon",
+    "address": "40952 State Route 154, Lisbon, OH, 44432 United States",
+    "distance": 19.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/74700/74620/21a93559_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Sleep Inn Austintown",
+    "address": "5555 Interstate Blvd, Austintown, OH, 44515 United States",
+    "distance": 19.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/120500/120410/120410_26_l.jpg"
+  }
+]

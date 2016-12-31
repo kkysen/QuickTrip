@@ -1,0 +1,82 @@
+[
+  {
+    "price": 75,
+    "name": "La Quinta Inn \u0026 Suites Jacksonville",
+    "address": "1902 Jackson Street, Jacksonville, TX, 75766 United States",
+    "distance": 2.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2900000/2891100/2891087/57a1cbeb_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Homeplace Inn",
+    "address": "1407 E Rusk St, Jacksonville, TX, 75766 United States",
+    "distance": 2.9,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/880000/877200/877172/877172_102_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Best Western Executive Inn",
+    "address": "1659 S Jackson Street, Jacksonville, TX, 75766 United States",
+    "distance": 2.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7720000/7719900/7719843/7719843_1_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Holiday Inn Express Hotel \u0026 Suites JACKSONVILLE",
+    "address": "1923 S Jackson St, Jacksonville, TX, 75766 United States",
+    "distance": 3.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3070000/3062200/3062182/3062182_87_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Executive Inn",
+    "address": "1007 N Dickinson Dr, Rusk, TX, 75785 United States",
+    "distance": 16.0,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15230000/15228000/15227901/39e95803_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Motel 6 Palestine",
+    "address": "1101 E Palestine Avenue, Palestine, TX, 75801 United States",
+    "distance": 23.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9300/9274/2e546234_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Holiday Inn Express Palestine",
+    "address": "1030 E Palestine Ave, Palestine, TX, 75801 United States",
+    "distance": 23.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/327900/327870/327870_180_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Express Inn \u0026 Suites",
+    "address": "1100 E Palestine Ave, Palestine, TX, 75801 United States",
+    "distance": 23.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26400/26340/26340_40_l.jpg"
+  },
+  {
+    "price": 44,
+    "name": "Texann Motel",
+    "address": "805 E Palestine Ave, Palestine, TX, 75801 United States",
+    "distance": 23.0,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7100000/7090900/7090860/7090860_3_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Town and Country Motel",
+    "address": "205 East Palestine Ave., Palestine, TX, 75801 United States",
+    "distance": 24.0,
+    "rating": 1.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11260000/11259300/11259205/11259205_2_l.jpg"
+  }
+]

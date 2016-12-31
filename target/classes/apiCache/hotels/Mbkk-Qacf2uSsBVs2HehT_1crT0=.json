@@ -1,0 +1,82 @@
+[
+  {
+    "price": 47,
+    "name": "Motel 6 Gadsden Al",
+    "address": "1600 Rainbow Dr, Gadsden, AL, 35901 United States",
+    "distance": 4.5,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23600/23526/1b6595c6_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Hampton Inn Gadsden",
+    "address": "129 River Rd, Gadsden, AL, 35901 United States",
+    "distance": 4.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5000/4975/4975_24_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Super 8 Gadsden AL",
+    "address": "2110 Rainbow Dr, Gadsden, AL, 35901 United States",
+    "distance": 5.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/123200/123130/24acf7f8_l.jpg"
+  },
+  {
+    "price": 48,
+    "name": "Redwood Inn",
+    "address": "201 N Hood Avenue, Gadsden, AL, 35903 United States",
+    "distance": 5.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15840000/15835400/15835372/13bc27b3_l.jpg"
+  },
+  {
+    "price": 49,
+    "name": "Deerfield Inn and Suites",
+    "address": "2580 Highway 77, Gadsden, AL, 35907 United States",
+    "distance": 5.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14770000/14769500/14769426/14769426_16_l.jpg"
+  },
+  {
+    "price": 35,
+    "name": "Budget Inn Gadsden",
+    "address": "2704 West Meighan Blvd., Gadsden, AL, 35904 United States",
+    "distance": 7.9,
+    "rating": 1.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1720000/1710800/1710795/1710795_17_l.jpg"
+  },
+  {
+    "price": 49,
+    "name": "Econo Lodge",
+    "address": "1612 W Grand Ave, Gadsden, AL, 35904 United States",
+    "distance": 8.7,
+    "rating": 3.0,
+    "imgUrl": ""
+  },
+  {
+    "price": 40,
+    "name": "Rodeway Inn Gadsden",
+    "address": "3909 W Meighan Blvd, Gadsden, AL, 35904 United States",
+    "distance": 8.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42000/41921/41921_60_l.jpg"
+  },
+  {
+    "price": 38,
+    "name": "Relax Inn",
+    "address": "915 East 5th Avenue, Gadsden, AL, 35954 United States",
+    "distance": 9.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11830000/11829500/11829493/11829493_6_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Days Inn Gadsden",
+    "address": "801 Cleveland Ave, Attalla, AL, 35954 United States",
+    "distance": 9.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15100/15011/15011_78_l.jpg"
+  }
+]

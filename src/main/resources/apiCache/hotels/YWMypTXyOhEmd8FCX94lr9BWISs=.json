@@ -1,0 +1,58 @@
+[
+  {
+    "price": 65,
+    "name": "Northwest Motor Inn",
+    "address": "1409 South Meridian Street, Puyallup, WA, 98371 United States",
+    "distance": 0.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10380000/10373400/10373389/10373389_21_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Motel Puyallup",
+    "address": "1412 S Meridian St, Puyallup, WA, 98371 United States",
+    "distance": 0.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9480000/9479500/9479473/9479473_1_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Fairfield Inn \u0026 Suites Tacoma Puyallup",
+    "address": "202 15th Avenue SW, Puyallup, WA, 98371 United States",
+    "distance": 1.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4500000/4497700/4497611/4497611_20_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "Hampton Inn \u0026 Suites Tacoma / Puyallup",
+    "address": "1515 South Meridian, Puyallup, WA, 98371 United States",
+    "distance": 1.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4590000/4585700/4585609/4585609_55_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Crossland Tacoma - Puyallup",
+    "address": "2101 N Meridian, Puyallup, WA, 98371 United States",
+    "distance": 1.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/151500/151457/151457_43_l.jpg"
+  },
+  {
+    "price": 112,
+    "name": "Best Western Premier Plaza Hotel \u0026 Conference Center",
+    "address": "620 South Hill Park Drive, Puyallup, WA, 98373 United States",
+    "distance": 2.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3500/3428/3428_108_l.jpg"
+  },
+  {
+    "price": 126,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Puyallup (Tacoma Area)",
+    "address": "812 S Hill Park Drive, Puyallup, WA, 98373 United States",
+    "distance": 2.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/120500/120485/120485_220_l.jpg"
+  }
+]

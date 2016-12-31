@@ -1,0 +1,82 @@
+[
+  {
+    "price": 119,
+    "name": "Hampton Inn Belle Vernon",
+    "address": "1525 Broad Avenue Extension, Belle Vernon, PA, 15012 United States",
+    "distance": 2.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1600000/1590500/1590456/a819edb3_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Candlewood Suites Belle Vernon",
+    "address": "715 Rostraver Road, Belle Vernon, PA, 15012 United States",
+    "distance": 2.9,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15990000/15981000/15980984/673cdbcd_l.jpg"
+  },
+  {
+    "price": 122,
+    "name": "Holiday Inn Express \u0026 Suites Belle Vernon",
+    "address": "181 Finley Rd, Belle Vernon, PA, 15012 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4860000/4854900/4854895/4854895_107_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Best Western Garden Inn",
+    "address": "101 Gosai Drive, Bentleyville, PA, 15314 United States",
+    "distance": 5.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/903300/903236/220d283e_l.jpg"
+  },
+  {
+    "price": 108,
+    "name": "Holiday Inn Express Bentleyville",
+    "address": "25 Smita Lane, Bentleyville, PA, 15314 United States",
+    "distance": 5.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2270000/2268300/2268282/2268282_119_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Hampton Inn \u0026 Suites California University-Pittsburgh",
+    "address": "200 Technology Drive, Coal Center, California, PA, 15423 United States",
+    "distance": 5.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11690000/11684800/11684742/11684742_3_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Clarion Inn",
+    "address": "827 Finley Rd, Belle Vernon, PA, 15012 United States",
+    "distance": 6.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25900/25891/c3ce9012_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Relax Inn",
+    "address": "833 Finley Road, Belle Vernon, PA, 15012 United States",
+    "distance": 6.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15130000/15126600/15126575/15126575_2_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Comfort Inn Belle Vernon",
+    "address": "4300 State Route 51 S, Belle Vernon, PA, 15012 United States",
+    "distance": 6.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/2000000/1990300/1990269/1990269_23_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Budget Inn",
+    "address": "843 Finley Road, Belle Vernon, PA, 15012 United States",
+    "distance": 6.4,
+    "rating": 3.2,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10520000/10517100/10517009/10517009_3_l.jpg"
+  }
+]

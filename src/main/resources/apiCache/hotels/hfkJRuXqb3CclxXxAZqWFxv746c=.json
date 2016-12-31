@@ -1,0 +1,82 @@
+[
+  {
+    "price": 85,
+    "name": "Quality Inn Raleigh",
+    "address": "4716 New Bern Ave, Raleigh, NC, 27610 United States",
+    "distance": 14.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40800/40767/40767_152_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Valueplace Raleigh North",
+    "address": "8840 Wadford Dr, Raleigh, NC, 27616 United States",
+    "distance": 15.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5130000/5121500/5121460/5121460_3_l.jpg"
+  },
+  {
+    "price": 94,
+    "name": "Comfort Suites Pavilion Raleigh",
+    "address": "1309 Corporation Pkwy, Raleigh, NC, 27610 United States",
+    "distance": 15.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/793000/792954/792954_51_l.jpg"
+  },
+  {
+    "price": 120,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Raleigh-Wakefield",
+    "address": "11400 Common Oaks Dr, Raleigh, NC, 27614 United States",
+    "distance": 15.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/905900/905804/905804_130_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Hampton Inn Raleigh - Capital Blvd. North",
+    "address": "3621 Spring Forest Rd, Raleigh, NC, 27616 United States",
+    "distance": 15.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/424900/424877/dd004d69_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Hilton Garden Inn Raleigh Triangle Town Center",
+    "address": "6412 Capital Blvd, Raleigh, NC, 27616 United States",
+    "distance": 15.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2170000/2169500/2169419/2169419_120_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Raleigh",
+    "address": "1209 Plainview Dr, Raleigh, NC, 27610 United States",
+    "distance": 16.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/116600/116572/116572_117_l.jpg"
+  },
+  {
+    "price": 144,
+    "name": "Courtyard by Marriott Raleigh North/Triangle Town Center",
+    "address": "3401 Sumner Blvd, Raleigh, NC, 27616 United States",
+    "distance": 16.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3860000/3859100/3859012/feaab7f0_l.jpg"
+  },
+  {
+    "price": 48,
+    "name": "Super 8 Raleigh Northeast",
+    "address": "3801 Capital Blvd, Raleigh, NC, 27604 United States",
+    "distance": 16.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/892900/892813/e33b1751_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Holiday Inn Express \u0026 Suites Raleigh NE - Medical Ctr Area",
+    "address": "3618 New Bern Ave, Raleigh, NC, 27610 United States",
+    "distance": 16.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/915600/915597/09a59dfc_l.jpg"
+  }
+]

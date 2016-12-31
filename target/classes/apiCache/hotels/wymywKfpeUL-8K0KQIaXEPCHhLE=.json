@@ -1,0 +1,18 @@
+[
+  {
+    "price": 155,
+    "name": "Coral Reef at Key Biscayne",
+    "address": "303 Galen Dr., Key Biscayne, FL, 33149 United States",
+    "distance": 0.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6230000/6229000/6228958/6228958_77_l.jpg"
+  },
+  {
+    "price": 399,
+    "name": "The Ritz-Carlton Key Biscayne, Miami",
+    "address": "455 Grand Bay Dr, Key Biscayne, FL, 33149 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/580000/571600/571569/bd6d50c9_l.jpg"
+  }
+]

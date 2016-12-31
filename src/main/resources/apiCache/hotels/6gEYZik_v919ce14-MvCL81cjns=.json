@@ -1,0 +1,82 @@
+[
+  {
+    "price": 145,
+    "name": "Cliffbreakers Riverside Hotel \u0026 Conference Center",
+    "address": "700 W Riverside Blvd, Rockford, IL, 61103 United States",
+    "distance": 3.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/538200/538107/538107_144_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Quality Lodge",
+    "address": "4605 East State Street, Rockford, IL, 61108 United States",
+    "distance": 3.5,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1570000/1568500/1568488/1568488_165_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Howard Johnson Hotel Rockford IL",
+    "address": "3909 11th St., Hwy 20 and 251 S/11th, Rockford, IL, 61109 United States",
+    "distance": 4.2,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19100/19010/d655e33f_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "La Quinta Inn \u0026 Suites Rockford",
+    "address": "7401 Walton St, Rockford, IL, 61108 United States",
+    "distance": 6.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/284500/284439/f45b7037_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Comfort Inn Rockford",
+    "address": "7392 Argus Dr, Rockford, IL, 61107 United States",
+    "distance": 6.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11300/11237/11237_49_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Red Roof Inn Rockford",
+    "address": "7434 East State Street, Rockford, IL, 61108 United States",
+    "distance": 6.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24400/24387/24387_145_l.jpg"
+  },
+  {
+    "price": 141,
+    "name": "Staybridge Suites Rockford",
+    "address": "633 North Bell School Road, Rockford, IL, 61108 United States",
+    "distance": 6.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1880000/1876400/1876369/1876369_133_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Extended Stay America - Rockford - State Street",
+    "address": "747 N Bell School Rd, Rockford, IL, 61107 United States",
+    "distance": 6.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/80900/80862/80862_45_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Holiday Inn Rockford",
+    "address": "7550 E State Street, Rockford, IL, 61108 United States",
+    "distance": 6.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27700/27617/e0eb29d5_l.jpg"
+  },
+  {
+    "price": 111,
+    "name": "Candlewood Suites Rockford",
+    "address": "7555 Walton St, Rockford, IL, 61108 United States",
+    "distance": 6.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/85500/85415/85415_92_l.jpg"
+  }
+]

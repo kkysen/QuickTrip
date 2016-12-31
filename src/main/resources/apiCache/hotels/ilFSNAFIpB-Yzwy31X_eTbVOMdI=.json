@@ -1,0 +1,82 @@
+[
+  {
+    "price": 59,
+    "name": "Pink Fountain Motor Inn",
+    "address": "5474 Transit Rd, Depew, NY, 14043 United States",
+    "distance": 3.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9550000/9549600/9549506/9549506_1_l.jpg"
+  },
+  {
+    "price": 137,
+    "name": "The Delavan Hotel \u0026 Spa",
+    "address": "6461 Transit Road, Cheektowaga, NY, 14043 United States",
+    "distance": 4.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15040000/15031200/15031117/15031117_14_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Motel 6 Buffalo Airport",
+    "address": "52 Freeman Rd, Williamsville, NY, 14221 United States",
+    "distance": 4.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18300/18259/18259_37_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Red Roof Inn Buffalo - Niagara Airport",
+    "address": "146 Maple Drive, Bowmansville, NY, 14026 United States",
+    "distance": 4.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/900/816/816_78_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Salvatore\u0027s Garden Place Hotel, an Ascend Hotel Collection",
+    "address": "6615 Transit Road, Williamsville, NY, 14221 United States",
+    "distance": 4.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1070000/1060800/1060721/1060721_122_l.jpg"
+  },
+  {
+    "price": 106,
+    "name": "La Quinta Inn Buffalo Airport",
+    "address": "6619 Transit Rd, Williamsville, NY, 14221 United States",
+    "distance": 4.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27600/27531/900ae8f6_l.jpg"
+  },
+  {
+    "price": 49,
+    "name": "Americas Best Value Inn \u0026 Suites - Clarence/Buffalo East",
+    "address": "9370 Main St, Clarence, NY, 14031 United States",
+    "distance": 4.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1720000/1716700/1716700/1716700_119_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Salvatores Grand Hotel",
+    "address": "6675 Transit Road, Williamsville, NY, 14221 United States",
+    "distance": 4.6,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9750000/9743100/9743017/9743017_4_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Clarion Hotel Buffalo Airport",
+    "address": "6700 Transit Rd, Williamsville, NY, 14221 United States",
+    "distance": 4.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8400/8307/8307_57_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Springhill Suites Buffalo Airport",
+    "address": "6647 Transit Rd, Williamsville, NY, 14221 United States",
+    "distance": 4.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11570000/11567700/11567601/572b5ac7_l.jpg"
+  }
+]

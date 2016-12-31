@@ -1,0 +1,26 @@
+[
+  {
+    "price": 76,
+    "name": "Best Western Perryton Inn",
+    "address": "3505 S Main Street Hwy 83, Perryton, TX, 79070 United States",
+    "distance": 6.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1410000/1403900/1403847/1403847_56_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Holiday Inn Express \u0026 Suites Perryton",
+    "address": "2723 South Main Street, Perryton, TX, 79070 United States",
+    "distance": 6.7,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15690000/15682200/15682151/5379efd1_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Baymont Inn and Suites Perryton",
+    "address": "2601 S Main Street, Perryton, TX, 79070 United States",
+    "distance": 6.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1950000/1942700/1942627/9f503d33_l.jpg"
+  }
+]

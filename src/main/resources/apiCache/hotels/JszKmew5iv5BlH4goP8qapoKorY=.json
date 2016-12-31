@@ -1,0 +1,26 @@
+[
+  {
+    "price": 75,
+    "name": "Super 8 Chaska",
+    "address": "830 Yellow Brick Road, Chaska, MN, 55318 United States",
+    "distance": 2.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459800/459770/57c1af68_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "GrandStay Hotel \u0026 Suites Chaska",
+    "address": "1 River Bend Place, Chaska, MN, 55318 United States",
+    "distance": 2.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43500/43433/43433_180_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Oak Ridge Hotel and Conference Center",
+    "address": "1 Oakridge Dr, Chaska, MN, 55318 United States",
+    "distance": 2.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/890000/880800/880762/4095c89e_l.jpg"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "price": 160,
+    "name": "La Quinta Inn \u0026 Suites Coral Springs South",
+    "address": "3100 N University Dr, Coral Springs, FL, 33065 United States",
+    "distance": 0.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4300/4284/d0e6211c_l.jpg"
+  },
+  {
+    "price": 151,
+    "name": "La Quinta Inn \u0026 Suites Coral Springs University Drive",
+    "address": "3701 University Drive, Coral Springs, FL, 33065 United States",
+    "distance": 0.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26200/26172/22c1594f_l.jpg"
+  },
+  {
+    "price": 209,
+    "name": "Courtyard By Marriott Fort Lauderdale Coral Springs",
+    "address": "620 North University Drive, Coral Springs, FL, 33071 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/455600/455567/455567_79_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Studio 6 Ft Lauderdale - Coral Springs",
+    "address": "5645 North University Drive, Coral Springs, FL, 33067 United States",
+    "distance": 2.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/151100/151032/ba85ab47_l.jpg"
+  },
+  {
+    "price": 184,
+    "name": "Ft Lauderdale Marriott Coral Springs Hotel Golf Club \u0026 CC",
+    "address": "11775 Heron Bay Blvd, Coral Springs, FL, 33076 United States",
+    "distance": 3.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/201100/201061/201061_51_l.jpg"
+  }
+]

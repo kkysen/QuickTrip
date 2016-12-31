@@ -1,0 +1,74 @@
+[
+  {
+    "price": 60,
+    "name": "Days Inn Lehi UT",
+    "address": "280 North 850 East, Main St and 280 North, Lehi, UT, 84043 United States",
+    "distance": 0.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/281000/280918/280918_74_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Best Western Timpanogos Inn",
+    "address": "195 S 850 E, Lehi, UT, 84043 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41800/41749/41749_224_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Super 8 Lehi",
+    "address": "125 S 850 E, Lehi, UT, 84043 United States",
+    "distance": 0.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/124500/124472/3ade477d_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Motel 6 Salt Lake City - Lehi",
+    "address": "210 S 1200 E, Lehi, UT, 84043 United States",
+    "distance": 1.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/999000/998978/998978_46_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "SpringHill Suites Lehi at Thanksgiving Point",
+    "address": "2447 Executive Pkwy, Lehi, UT, 84043 United States",
+    "distance": 3.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1860000/1858600/1858547/0a17c35c_l.jpg"
+  },
+  {
+    "price": 189,
+    "name": "Hyatt Place Salt Lake City/Lehi",
+    "address": "3700 North Outlet Parkway, Lehi, UT, 84043 United States",
+    "distance": 3.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11590000/11585900/11585823/fdfe420b_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Courtyard Lehi at Thanksgiving Point",
+    "address": "2801 West Club House Drive, Lehi, UT, 84043 United States",
+    "distance": 3.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7780000/7779400/7779302/2e422490_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Hampton Inn Lehi-Thanksgiving Point",
+    "address": "3576 N Maple Loop, Lehi, UT, 84043 United States",
+    "distance": 3.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1690000/1683700/1683620/1683620_25_l.jpg"
+  },
+  {
+    "price": 121,
+    "name": "Home2 Suites by Hilton Lehi/Thanksgiving Point",
+    "address": "3051 West Club House Drive, Lehi, UT, 84043 United States",
+    "distance": 3.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8450000/8442400/8442364/8442364_9_l.jpg"
+  }
+]

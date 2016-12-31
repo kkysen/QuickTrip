@@ -1,0 +1,82 @@
+[
+  {
+    "price": 87,
+    "name": "St Olaves Hotel \u0026 Treasury Restaurant",
+    "address": "Mary Arches Street, Exeter, England, EX4 3AZ United Kingdom",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/890000/888400/888349/888349_5_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Mercure Exeter Southgate Hotel",
+    "address": "Southernhay East, Exeter, England, EX1 1QF United Kingdom",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17300/17257/17257_234_l.jpg"
+  },
+  {
+    "price": 122,
+    "name": "Hotel Du Vin Exeter",
+    "address": "Magdalen Street, Exeter, England, EX2 4HY United Kingdom",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1680000/1675500/1675497/1675497_15_l.jpg"
+  },
+  {
+    "price": 165,
+    "name": "The City Gate Hotel",
+    "address": "Iron Bridge, Lower North Street, Exeter, England, EX4 3RB United Kingdom",
+    "distance": 0.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4820000/4817100/4817099/4817099_9_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "St Andrews Hotel - B\u0026B",
+    "address": "St Andrews Hotel, 28 Alphington Road, Exeter, England, EX2 8HN United Kingdom",
+    "distance": 0.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3750000/3741200/3741150/3741150_17_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Mercure Exeter Rougemont Hotel",
+    "address": "Queen Street, Exeter, England, EX4 3SP United Kingdom",
+    "distance": 0.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7800/7784/826995aa_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Bendene Townhouse",
+    "address": "15-16 Richmond Road, Exeter, England, EX4 4JA United Kingdom",
+    "distance": 0.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15740000/15738800/15738757/26853d86_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Queens Court Hotel",
+    "address": "Bystock Terrace, Exeter, England, EX4 4HY United Kingdom",
+    "distance": 0.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2280000/2274100/2274026/2274026_22_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Jurys Inn Exeter",
+    "address": "Western Way, Exeter, Exeter, England, EX1 2DB United Kingdom",
+    "distance": 0.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2640000/2636000/2636000/99f41cab_l.jpg"
+  },
+  {
+    "price": 131,
+    "name": "Clarion Collection Hotel Buckerell Lodge",
+    "address": "Topsham Road, Exeter, England, EX2 4SQ United Kingdom",
+    "distance": 1.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7100/7060/7060_3_l.jpg"
+  }
+]

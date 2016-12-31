@@ -1,0 +1,26 @@
+[
+  {
+    "price": 175,
+    "name": "Renaissance St. Louis Airport Hotel",
+    "address": "9801 Natural Bridge Road, Berkeley, MO, 63134 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4700/4672/4672_59_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "St. Louis Travelodge",
+    "address": "9645 Natural Bridge Rd, I-70 \u0026 Natural Bridge Rd, Berkeley, MO, 63134 United States",
+    "distance": 1.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/68000/67904/274de75c_l.jpg"
+  },
+  {
+    "price": 152,
+    "name": "Hilton Garden Inn St. Louis Airport",
+    "address": "4450 Evans Place, Berkeley, MO, 63134 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2420000/2419200/2419121/2419121_32_l.jpg"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "price": 65,
+    "name": "Windsor Oaks Inn and Suites",
+    "address": "2200 S Court Street, Grayville, IL, 62844 United States",
+    "distance": 14.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17300/17216/17216_118_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Super 8 Grayville",
+    "address": "2060 County Road 2450 N, I-64, Exit 130 (hwy.1), Grayville, IL, 62844 United States",
+    "distance": 14.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/918800/918800/918800_120_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Mt. Vernon Inn",
+    "address": "6225 William Keck Bypass, Mount Vernon, IN, 47620 United States",
+    "distance": 20.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/580000/577800/577776/577776_2_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Briarwood Inn",
+    "address": "116 N.Market Avenue, Fairfield, IL, 62837 United States",
+    "distance": 24.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9820000/9816300/9816275/9816275_24_l.jpg"
+  }
+]

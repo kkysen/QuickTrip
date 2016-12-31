@@ -1,0 +1,82 @@
+[
+  {
+    "price": 51,
+    "name": "Days Inn Wheeling West",
+    "address": "52601 Holiday Dr, St. Clairsville, OH, 43950 United States",
+    "distance": 4.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20300/20281/20281_49_l.jpg"
+  },
+  {
+    "price": 96,
+    "name": "Comfort Inn",
+    "address": "52509 National Rd E, St. Clairsville, OH, 43950 United States",
+    "distance": 4.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5570000/5567200/5567162/5567162_26_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Fairfield Inn and Suites by Marriott Wheeling St Clairsville",
+    "address": "67731 Mall Road, St. Clairsville, OH, 43950 United States",
+    "distance": 5.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/903300/903250/df1c34f4_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Holiday Inn Express \u0026 Suites St. Clairsville",
+    "address": "51654 National Road E, St. Clairsville, OH, 43950 United States",
+    "distance": 5.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/77900/77845/77845_141_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "HolmeSuites Extended Stay",
+    "address": "400 Main Street, Bridgeport, OH, 43912 United States",
+    "distance": 5.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16160000/16150100/16150029/424d0509_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Candlewood Suites St. Clairsville",
+    "address": "67689 Mall Ring Road, St. Clairsville, OH, 43950 United States",
+    "distance": 5.2,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10270000/10260600/10260582/10260582_2_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Americas Best Value Inn St. Clairsville/Wheeling",
+    "address": "51260 National Road East, St. Clairsville, OH, 43950 United States",
+    "distance": 5.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/122900/122815/3791a914_l.jpg"
+  },
+  {
+    "price": 124,
+    "name": "Hampton Inn Wheeling/St. Clairsville",
+    "address": "51130 National Road E, St. Clairsville, OH, 43950 United States",
+    "distance": 5.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25500/25403/25403_74_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Hawthorn Suites by Wyndham St Clairsville",
+    "address": "51110 National Road East, St. Clairsville, OH, 43950-9118 United States",
+    "distance": 5.6,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14750000/14742200/14742197/f857ff48_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "The McLure Hotel \u0026 Suites",
+    "address": "1200 Market Street, Wheeling, WV, 26003 United States",
+    "distance": 5.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41200/41130/41130_26_l.jpg"
+  }
+]

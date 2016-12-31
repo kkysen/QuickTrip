@@ -1,0 +1,82 @@
+[
+  {
+    "price": 65,
+    "name": "Best Western Sheridan Center",
+    "address": "612 North Main, Sheridan, WY, 82801 United States",
+    "distance": 0.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4600/4519/4519_216_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Trail\u0027s End Motel Sheridan",
+    "address": "2125 N Main St, Sheridan, WY, 82801 United States",
+    "distance": 0.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2200000/2193300/2193214/2193214_73_l.jpg"
+  },
+  {
+    "price": 43,
+    "name": "Rodeway Inn \u0026 Suites Sheridan",
+    "address": "1704 N Main St, Sheridan, WY, 82801 United States",
+    "distance": 0.6,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3020000/3016200/3016194/3016194_31_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Alamo Motel",
+    "address": "1326 N Main St, Sheridan, WY, 82801 United States",
+    "distance": 0.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1770000/1764400/1764326/1764326_72_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Americas Best Value Inn Sheridan",
+    "address": "580 E. Fifth Street, Sheridan, WY, 82801 United States",
+    "distance": 0.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/998700/998649/6e04282a_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Hampton Inn Sheridan",
+    "address": "980 Sibley Cir, Sheridan, WY, 82801 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1920000/1916900/1916861/1916861_11_l.jpg"
+  },
+  {
+    "price": 82,
+    "name": "Candlewood Suites Sheridan",
+    "address": "1709 Sugarland Dr, Sheridan, WY, 82801 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2040000/2039900/2039856/2039856_162_l.jpg"
+  },
+  {
+    "price": 94,
+    "name": "Holiday Inn Sheridan-Convention Center",
+    "address": "1809 Sugarland Dr, Sheridan, WY, 82801 United States",
+    "distance": 1.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18000/17911/17911_164_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Comfort Inn \u0026 Suites Sheridan",
+    "address": "1950 E 5th St, I-90 Exit#23, 5th Street, Sheridan, WY, 82801 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1230000/1221300/1221234/1221234_80_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Fairfield Inn \u0026 Suites Sheridan",
+    "address": "2105 Sugarland Drive, Sheridan, WY, 82801 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16300000/16292900/16292885/12550b3d_l.jpg"
+  }
+]

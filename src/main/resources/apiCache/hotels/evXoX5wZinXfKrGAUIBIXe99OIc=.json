@@ -1,0 +1,26 @@
+[
+  {
+    "price": 107,
+    "name": "AmericInn Lodge \u0026 Suites Waconia",
+    "address": "550 Cherry Drive, Waconia, MN, 55387 United States",
+    "distance": 0.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1800000/1793700/1793674/1793674_57_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "HomeTown Inn \u0026 Suites",
+    "address": "331 Enterprise Drive East, Belle Plaine, MN, 56011 United States",
+    "distance": 16.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/425300/425272/425272_71_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "New Prague Inn \u0026 Suites",
+    "address": "1200 1st St Ne, New Prague, MN, 56071 United States",
+    "distance": 24.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/700000/691500/691471/b32fedcb_l.jpg"
+  }
+]

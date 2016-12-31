@@ -1,0 +1,82 @@
+[
+  {
+    "price": 87,
+    "name": "Best Western Westminster Catering \u0026 Conference Center",
+    "address": "451 WMC Drive, Westminster, MD, 21158 United States",
+    "distance": 8.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5600/5535/5535_271_l.jpg"
+  },
+  {
+    "price": 151,
+    "name": "Embassy Suites Hotel Baltimore Hunt Valley",
+    "address": "213 International Cir, Hunt Valley, MD, 21030 United States",
+    "distance": 13.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/800/757/757_53_l.jpg"
+  },
+  {
+    "price": 141,
+    "name": "Courtyard by Marriott Baltimore Hunt Valley",
+    "address": "221 International Cir, Hunt Valley, MD, 21030 United States",
+    "distance": 13.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24900/24894/24894_46_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Hunt Valley Inn, a Wyndham Grand Hotel",
+    "address": "245 Shawan Rd, Hunt Valley, MD, 21031 United States",
+    "distance": 13.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18600/18515/18515_652_l.jpg"
+  },
+  {
+    "price": 152,
+    "name": "Residence Inn by Marriott Baltimore Hunt Valley",
+    "address": "45 Schilling Rd, Hunt Valley, MD, 21031 United States",
+    "distance": 13.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2960000/2953000/2952964/2d514092_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Holiday Inn Express Hunt Valley",
+    "address": "11200 York Rd, Hunt Valley, MD, 21030 United States",
+    "distance": 13.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24500/24443/24443_142_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Quality Suites",
+    "address": "10710 Beaver Dam Rd, Hunt Valley, MD, 21030 United States",
+    "distance": 14.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3800/3797/8eb274ca_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Hampton Inn Baltimore/Owings Mills",
+    "address": "10521 Red Run Blvd, Owings Mills, MD, 21117 United States",
+    "distance": 14.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4440000/4436100/4436050/4436050_27_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Hilton Garden Inn Owings Mills",
+    "address": "4770 Owings Mills Blvd, Owings Mills, MD, 21117 United States",
+    "distance": 14.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/535500/535457/535457_75_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Hyatt Place Baltimore/Owings Mills",
+    "address": "4730 Painters Mill Rd, Owings Mills, MD, 21117 United States",
+    "distance": 14.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/590000/580200/580152/580152_52_l.jpg"
+  }
+]

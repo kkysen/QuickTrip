@@ -1,0 +1,26 @@
+[
+  {
+    "price": 96,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "210 Church St, Georgetown, SC, 29440-2404 United States",
+    "distance": 3.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16600/16580/16580_66_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Hampton Inn Georgetown - Marina",
+    "address": "420 Marina Dr, Georgetown, SC, 29440 United States",
+    "distance": 3.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42900/42879/42879_52_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Baymont Inn And Suites Georgetown/Near Georgetown Marina",
+    "address": "120 Church St, Georgetown, SC, 29440-2402 United States",
+    "distance": 3.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/580000/572500/572417/572417_58_l.jpg"
+  }
+]

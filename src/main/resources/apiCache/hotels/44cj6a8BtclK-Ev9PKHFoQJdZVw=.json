@@ -1,0 +1,82 @@
+[
+  {
+    "price": 87,
+    "name": "Hampton Inn by Hilton Bonita Springs / Naples - North",
+    "address": "27900 Crown Lake Blvd, Bonita Springs, FL, 34135 United States",
+    "distance": 0.2,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28400/28397/460a57e2_l.jpg"
+  },
+  {
+    "price": 112,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Bonita Springs",
+    "address": "27891 Crown Lake Blvd, Bonita Springs, FL, 34135 United States",
+    "distance": 0.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/538600/538570/538570_204_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "La Quinta Inn \u0026 Suites Bonita Springs Naples North",
+    "address": "28600 Trails Edge Blvd, Bonita Springs, FL, 34134 United States",
+    "distance": 0.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/159000/158967/9b9a1179_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Comfort Inn",
+    "address": "9800 Bonita Beach Rd, Bonita Springs, FL, 34135 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19100/19063/19063_85_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Flamingo Motel",
+    "address": "4330 Bonita Beach Road, Bonita Springs, FL, 34134 United States",
+    "distance": 1.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8370000/8366200/8366120/8366120_13_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Trianon Bonita Bay",
+    "address": "3401 Bay Commons Dr, Bonita Springs, FL, 34134 United States",
+    "distance": 1.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40900/40858/40858_91_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "Homewood Suites Bonita Springs",
+    "address": "8901 Highland Woods Blvd., Bonita Springs, FL, 34135 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/799300/799212/0b7f768a_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Buffalo Chips Ranch House Motel",
+    "address": "26620 Old U.S. 41 Road, Bonita Springs, FL, 34135 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16440000/16436300/16436255/21cbccfa_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Days Inn and Suites Bonita Springs North Naples",
+    "address": "27991 Oakland Drive, Bonita Springs, FL, 34135 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/480000/473200/473197/89752849_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Hyatt Place Coconut Point",
+    "address": "23120 Via Villagio, Bonita Springs, FL, 33928 United States",
+    "distance": 5.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2450000/2443800/2443726/2237b248_l.jpg"
+  }
+]

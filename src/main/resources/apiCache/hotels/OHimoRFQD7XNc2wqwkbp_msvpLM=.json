@@ -1,0 +1,82 @@
+[
+  {
+    "price": 100,
+    "name": "Comfort Inn Metro Airport",
+    "address": "31800 Wick Rd, Romulus, MI, 48174 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27100/27084/6dc5bc82_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Radisson Hotel Detroit Metro Airport",
+    "address": "31500 Wick Rd, Romulus, MI, 48174 United States",
+    "distance": 2.0,
+    "rating": 1.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15700/15682/1da5e4cf_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "Wyndham Garden Romulus Detroit Metro Airport",
+    "address": "9191 Wickham Rd, Romulus, MI, 48174 United States",
+    "distance": 2.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3900/3860/3860_389_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Travelodge Romulus Detroit Airport",
+    "address": "9095 Wickham Road, Romulus, MI, 48174 United States",
+    "distance": 2.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/970000/969500/969428/55d3b7e8_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Baymont Inn \u0026 Suites Detroit Airport/Romulus",
+    "address": "9000 Wickham Rd, Romulus, MI, 48174 United States",
+    "distance": 2.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50100/50003/a9e684c7_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Knights Inn Romulus Detroit Metropolitan Airport",
+    "address": "9863 Middlebelt Rd, Romulus, MI, 48174 United States",
+    "distance": 2.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459600/459581/459581_133_l.jpg"
+  },
+  {
+    "price": 299,
+    "name": "Four Points by Sheraton Detroit Metro Airport",
+    "address": "8800 Wickham Rd, Romulus, MI, 48174 United States",
+    "distance": 2.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12600/12588/c1446892_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Quality Inn \u0026 Suites Detroit Metro Airport",
+    "address": "9555 Middlebelt Rd, Romulus, MI, 48174 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/58100/58073/5e06ba84_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Days Inn Detroit Metropolitan Airport",
+    "address": "9501 Middlebelt Road, Romulus, MI, 48174 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42600/42585/42585_171_l.jpg"
+  },
+  {
+    "price": 182,
+    "name": "Embassy Suites Detroit Metro Airport",
+    "address": "8600 Wickham Rd, Romulus, MI, 48174 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4200/4185/4185_71_l.jpg"
+  }
+]

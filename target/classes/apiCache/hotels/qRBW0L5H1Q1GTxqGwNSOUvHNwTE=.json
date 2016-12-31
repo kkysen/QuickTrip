@@ -1,0 +1,82 @@
+[
+  {
+    "price": 80,
+    "name": "Alhambra Inn",
+    "address": "2451 W Main St, Alhambra, CA, 91801 United States",
+    "distance": 1.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16390000/16387800/16387787/203dc66f_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Super 8 Los Angeles Alhambra",
+    "address": "5350 Huntington Drive South, Los Angeles, CA, 90032 United States",
+    "distance": 1.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/470000/460300/460221/460221_54_l.jpg"
+  },
+  {
+    "price": 329,
+    "name": "Langham Huntington, Pasadena, Los Angeles",
+    "address": "1401 S Oak Knoll Ave, Pasadena, CA, 91106 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26100/26090/26090_161_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Days Inn Alhambra",
+    "address": "15 N 1st St, Alhambra, CA, 91801 United States",
+    "distance": 2.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19800/19767/47d678e0_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "GreenTree Pasadena Inn",
+    "address": "400 S Arroyo Pkwy, Pasadena, CA, 91105 United States",
+    "distance": 2.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41000/40910/40910_33_l.jpg"
+  },
+  {
+    "price": 94,
+    "name": "Eagle Rock Motel",
+    "address": "7041 North Figueroa, Los Angeles, CA, 90042 United States",
+    "distance": 2.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12740000/12733700/12733609/12733609_9_l.jpg"
+  },
+  {
+    "price": 174,
+    "name": "Sheraton Pasadena Hotel",
+    "address": "303 Cordova St, Pasadena, CA, 91101 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/564800/564734/564734_94_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Ambassador Inn Alhambra",
+    "address": "2720 W. Valley Blvd., Alhambra, CA, 91803 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9190000/9187600/9187545/1f333530_l.jpg"
+  },
+  {
+    "price": 199,
+    "name": "Hilton Pasadena",
+    "address": "168 S Los Robles Ave, Pasadena, CA, 91101 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25500/25474/25474_29_l.jpg"
+  },
+  {
+    "price": 192,
+    "name": "Courtyard by Marriott Old Pasadena",
+    "address": "180 N Fair Oaks Ave, Pasadena, CA, 91103 United States",
+    "distance": 2.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/520000/518500/518440/716a2e66_l.jpg"
+  }
+]

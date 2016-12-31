@@ -1,0 +1,82 @@
+[
+  {
+    "price": 69,
+    "name": "Wind Chase Inn",
+    "address": "13156 North Hickory, Loxley, AL, 36551 United States",
+    "distance": 7.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9870000/9866700/9866692/9866692_1_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "The Hotel Magnolia",
+    "address": "119 N McKenzie St, Foley, AL, 36535 United States",
+    "distance": 10.0,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9150000/9142100/9142072/9142072_7_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Key West Inn Fairhope Al",
+    "address": "231 S Greeno Rd, Fairhope, AL, 36532 United States",
+    "distance": 11.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/200900/200838/200838_53_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Holiday Inn Express Fairhope",
+    "address": "19751 S Greeno Rd, Fairhope, AL, 36532 United States",
+    "distance": 11.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42000/41924/41924_188_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Riviera Inn",
+    "address": "1504 S McKenzie Street, Foley, AL, 36535 United States",
+    "distance": 11.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/500/478/e6c8b9d3_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Americas Best Value Inn \u0026 Suites- Foley / Gulf Shores",
+    "address": "1517 South McKenzie Street, Foley, AL, 36535 United States",
+    "distance": 11.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7800/7769/7769_63_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Comfort Inn \u0026 Suites",
+    "address": "29793 Woodrow Ln, Daphne, AL, 36526 United States",
+    "distance": 12.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2760000/2758900/2758852/2758852_78_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Holiday Inn Express \u0026 Suites Daphne- Spanish Fort Area",
+    "address": "29725 Woodrow Ln, Daphne, AL, 36526 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1550000/1545200/1545131/1545131_136_l.jpg"
+  },
+  {
+    "price": 117,
+    "name": "La Quinta Inn \u0026 Suites Mobile - Daphne",
+    "address": "8946 Sawwood Street, Daphne, AL, 36526 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1860000/1855500/1855500/12318ef9_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Best Western Plus Daphne Inn \u0026 Suites",
+    "address": "8931 Sawwood St, Daphne, AL, 36526 United States",
+    "distance": 12.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2070000/2066600/2066551/2066551_121_l.jpg"
+  }
+]

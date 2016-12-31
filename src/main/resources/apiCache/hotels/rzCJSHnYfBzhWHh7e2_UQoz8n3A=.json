@@ -1,0 +1,50 @@
+[
+  {
+    "price": 59,
+    "name": "Quality Inn Ennis",
+    "address": "107 Chamber Of Commerce Dr, I-45 at HWY 34, Exit 251B, Ennis, TX, 75119 United States",
+    "distance": 0.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22200/22118/22118_94_l.jpg"
+  },
+  {
+    "price": 48,
+    "name": "Days Inn Ennis",
+    "address": "600 N I 45, I 45 Exit 251b, Ennis, TX, 75120 United States",
+    "distance": 0.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/919200/919173/29749849_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Motel 6 Ennis TX",
+    "address": "100 South I-45, Ennis, TX, 75119 United States",
+    "distance": 0.8,
+    "rating": 2.7,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50300/50252/29d2688c_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Comfort Suites Ennis",
+    "address": "400 S I 45, Ennis, TX, 75119 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1760000/1756100/1756076/1756076_57_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "La Quinta Inn \u0026 Suites Ennis",
+    "address": "110 S Sonoma Trl, Ennis, TX, 75119 United States",
+    "distance": 1.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2500000/2498100/2498010/5db15bf0_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Ennis",
+    "address": "601 N Sonoma Trl, Ennis, TX, 75119 United States",
+    "distance": 1.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2220000/2219800/2219773/2219773_222_l.jpg"
+  }
+]

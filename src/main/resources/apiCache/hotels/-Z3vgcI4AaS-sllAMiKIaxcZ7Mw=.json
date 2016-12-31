@@ -1,0 +1,18 @@
+[
+  {
+    "price": 71,
+    "name": "Days Inn Goose Creek",
+    "address": "1430 Redbank Rd, Off I-26, Exit 205B, Goose Creek, SC, 29445 United States",
+    "distance": 2.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/300000/295300/295245/fbdc0967_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Econo Lodge Goose Creek",
+    "address": "401 N Goose Creek Blvd, Goose Creek, SC, 29445-2971 United States",
+    "distance": 3.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2800/2727/2727_45_l.jpg"
+  }
+]

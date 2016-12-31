@@ -1,0 +1,58 @@
+[
+  {
+    "price": 47,
+    "name": "Econo Lodge",
+    "address": "820 West 79th Street, Rt 83 - Kingery Rd \u0026 I-55, Willowbrook, IL, 60527 United States",
+    "distance": 0.5,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26700/26642/26642_49_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "La Quinta Inn Chicago Willowbrook",
+    "address": "855 79th St, Willowbrook, IL, 60527 United States",
+    "distance": 0.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/49500/49443/3c694b9e_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Red Roof Inn PLUS+ Chicago - Willowbrook",
+    "address": "7535 Kingery Highway, Willowbrook, IL, 60521 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4100/4013/4013_111_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "The Champagne Lodge \u0026 Luxury Suites",
+    "address": "16 W 621 S. Frontage Rd, Willowbrook, IL, 60527 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1800000/1791800/1791716/1791716_8_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Extended Stay America Chicago - Burr Ridge",
+    "address": "15 W. 122nd S. Frontage Rd., Burr Ridge, IL, 60527 United States",
+    "distance": 1.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40900/40839/40839_32_l.jpg"
+  },
+  {
+    "price": 244,
+    "name": "Chicago Marriott Southwest at Burr Ridge",
+    "address": "1200 Burr Ridge Pkwy, Burr Ridge, IL, 60527 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1100000/1094500/1094406/1094406_62_l.jpg"
+  },
+  {
+    "price": 144,
+    "name": "Springhill Suites by Marriott Chicago/Burr Ridge",
+    "address": "15 W 90 North Frontage Rd, Burr Ridge, IL, 60527 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/569900/569825/569825_89_l.jpg"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "price": 60,
+    "name": "Ute Motel",
+    "address": "599 Crest Drive, Fountain, CO, 80817 United States",
+    "distance": 3.8,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9440000/9433800/9433709/9433709_1_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Super 8 of Fountain",
+    "address": "6120 East Champlain Drive, I-25 N or S Exit 128, Fountain, CO, 80817 United States",
+    "distance": 4.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/320000/317100/317058/317058_35_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 76,
+    "name": "Howard Johnson Inn Clifton",
+    "address": "680 Route 3 West, Clifton, NJ, 07012 United States",
+    "distance": 1.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/600/562/562_70_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "La Quinta Inn \u0026 Suites Clifton/Rutherford",
+    "address": "265 Route 3 East, Clifton, NJ, 07014 United States",
+    "distance": 2.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5200/5128/7288a8dd_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Townhouse Inn \u0026 Suites",
+    "address": "50 Us Hwy Rr 46, Elmwood Park, NJ, 07407 United States",
+    "distance": 2.5,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1860000/1852800/1852772/1852772_2_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "Red Carpet Inn Elmwood Park",
+    "address": "204 Route 46 East Bergen, Elmwood Park, NJ, 07407 United States",
+    "distance": 2.5,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1150000/1142300/1142279/1142279_53_l.jpg"
+  },
+  {
+    "price": 150,
+    "name": "Homewood Suites East Rutherford",
+    "address": "125 Route 17 South, East Rutherford, NJ, 07073 United States",
+    "distance": 2.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2360000/2351500/2351486/2351486_61_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Meadowlands Area",
+    "address": "100 Paterson Plank Road, Carlstadt, NJ, 07072 United States",
+    "distance": 2.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/799500/799413/799413_308_l.jpg"
+  },
+  {
+    "price": 144,
+    "name": "Fairfield Inn by Marriott East Rutherford Meadowlands",
+    "address": "850 Paterson Plank Road, East Rutherford, NJ, 07073 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40900/40824/40824_36_l.jpg"
+  },
+  {
+    "price": 152,
+    "name": "Residence Inn by Marriott East Rutherford Meadowlands",
+    "address": "10 Murray Hill Pkwy, East Rutherford, NJ, 07073 United States",
+    "distance": 3.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1560000/1554600/1554585/1554585_63_l.jpg"
+  },
+  {
+    "price": 124,
+    "name": "Holiday Inn Hasbrouck Heights-Meadowlands",
+    "address": "283 State Route 17, Hasbrouck Heights, NJ, 07604 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23100/23056/f5bd4cfb_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Home2 Suites by Hilton Hasbrouck Heights",
+    "address": "377 Route 17 South, Hasbrouck Heights, NJ, 07604 United States",
+    "distance": 3.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15440000/15438800/15438766/4e550a75_l.jpg"
+  }
+]

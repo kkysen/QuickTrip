@@ -1,0 +1,26 @@
+[
+  {
+    "price": 54,
+    "name": "Econo Lodge Inn \u0026 Suites",
+    "address": "1930 Mcfarland Blvd, Northport, AL, 35476 United States",
+    "distance": 0.0,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42600/42532/38cbc42a_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Best Western Catalina Inn",
+    "address": "2015 Mcfarland Blvd, Northport, AL, 35476 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20200/20117/20117_63_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Budget Inn",
+    "address": "2600 McFarland Blvd, Northport, AL, 35476 United States",
+    "distance": 0.4,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15490000/15487400/15487344/15487344_1_l.jpg"
+  }
+]

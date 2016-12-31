@@ -1,0 +1,82 @@
+[
+  {
+    "price": 54,
+    "name": "Ramada Inn Pocatello ID",
+    "address": "133 West Burnside, Interstate 86 Exit 61, Pocatello, ID, 83202 United States",
+    "distance": 0.4,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/670000/664100/664032/4956509e_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Motel 6 Pocatello",
+    "address": "291 West Burnside Avenue, Pocatello, ID, 83202 United States",
+    "distance": 0.5,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1030000/1029900/1029892/1029892_34_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "Best Western Pocatello Inn",
+    "address": "1415 Bench Rd, Pocatello, ID, 83201 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3200/3163/dd4e64a9_l.jpg"
+  },
+  {
+    "price": 112,
+    "name": "La Quinta Inn \u0026 Suites Pocatello",
+    "address": "1440 Bench Road, Pocatello, ID, 83201 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50600/50512/37d75805_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Clarion Inn Pocatello",
+    "address": "1399 Bench Rd, Pocatello, ID, 83201 United States",
+    "distance": 2.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5800/5794/a64dcacb_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "Comfort Inn Pocatello",
+    "address": "1333 Bench Rd, Pocatello, ID, 83201 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20900/20896/20896_79_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Super 8 Pocatello ID",
+    "address": "1330 Bench Rd, Pocatello, ID, 83201 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/450000/440300/440203/10c0bc2d_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Red Lion Hotel Pocatello",
+    "address": "1555 Pocatello Creek Rd, Pocatello, ID, 83201 United States",
+    "distance": 2.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7300/7262/7262_42_l.jpg"
+  },
+  {
+    "price": 117,
+    "name": "Holiday Inn Express \u0026 Suites Pocatello",
+    "address": "200 Via Venitio Dr, Pocatello, ID, 83201 United States",
+    "distance": 3.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8120000/8114900/8114888/8114888_64_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Hampton Inn \u0026 Suites Pocatello",
+    "address": "151 Vista Dr, Pocatello, ID, 83201 United States",
+    "distance": 3.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1690000/1683700/1683621/1683621_31_l.jpg"
+  }
+]

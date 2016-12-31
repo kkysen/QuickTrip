@@ -1,0 +1,82 @@
+[
+  {
+    "price": 168,
+    "name": "Hotel Vandivort",
+    "address": "305 E. Walnut, Springfield, MO, 65806 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10060000/10057300/10057245/10057245_34_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Walnut Street Inn",
+    "address": "900 E Walnut Street, Springfield, MO, 65806 United States",
+    "distance": 0.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6670000/6664300/6664210/6664210_5_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "University Plaza Hotel and Convention Center Springfield",
+    "address": "333 S John Q Hammons Pkwy, Springfield, MO, 65806 United States",
+    "distance": 0.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22900/22870/22870_49_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Springfield",
+    "address": "1117 E Saint Louis St, Springfield, MO, 65806 United States",
+    "distance": 0.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1200000/1194400/1194364/1194364_105_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Best Western Route 66 Rail Haven",
+    "address": "203 S Glenstone Avenue, Springfield, MO, 65802 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6500/6459/6459_107_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Days Inn Springfield South",
+    "address": "621 W Sunshine St, Springfield, MO, 65807 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27900/27834/c190193c_l.jpg"
+  },
+  {
+    "price": 111,
+    "name": "TownePlace Suites Springfield",
+    "address": "2009 South National Avenue, Springfield, MO, 65807 United States",
+    "distance": 2.2,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8210000/8207100/8207098/8207098_33_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Lamplighter Inn \u0026 Suites - South",
+    "address": "1772 S. Glenstone Avenue, Springfield, MO, 65804 United States",
+    "distance": 2.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2670000/2667000/2666959/2666959_99_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "La Quinta Inn \u0026 Suites Springfield South",
+    "address": "2535 S Campbell Ave, Springfield, MO, 65807 United States",
+    "distance": 2.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/424600/424540/27bf0e9e_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Battlefield Inn",
+    "address": "2114 South Glenstone Avenue, Springfield, MO, 65804 United States",
+    "distance": 2.7,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2780000/2774700/2774633/2774633_47_l.jpg"
+  }
+]

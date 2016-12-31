@@ -1,0 +1,82 @@
+[
+  {
+    "price": 170,
+    "name": "Baymont Inn \u0026 Suites Miami Doral",
+    "address": "3805 NW 107TH Avenue, Doral, FL, 33178 United States",
+    "distance": 0.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/421700/421692/5b36aba0_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Best Western Plus Miami-Doral/Dolphin Mall",
+    "address": "3875 NW 107th Avenue, Doral, FL, 33178 United States",
+    "distance": 0.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7800/7756/7756_240_l.jpg"
+  },
+  {
+    "price": 212,
+    "name": "Towneplace Suites by Marriott Miami Airport W",
+    "address": "10505 Nw 36th St, Doral, FL, 33178 United States",
+    "distance": 0.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/329900/329836/756cf91a_l.jpg"
+  },
+  {
+    "price": 154,
+    "name": "Residence Inn Miami Airport West/Doral",
+    "address": "3450 NW 91st Avenue, Doral, FL, 33172 United States",
+    "distance": 1.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11970000/11966100/11966079/84db9143_l.jpg"
+  },
+  {
+    "price": 199,
+    "name": "Element Miami Doral",
+    "address": "3285 NW 107th Avenue, Doral, FL, 33172 United States",
+    "distance": 1.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9210000/9202300/9202208/9202208_38_l.jpg"
+  },
+  {
+    "price": 189,
+    "name": "Aloft Miami Doral",
+    "address": "3265 NW 107th Avenue, Doral, FL, 33172 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5780000/5777400/5777354/5777354_25_l.jpg"
+  },
+  {
+    "price": 161,
+    "name": "Bel Air by Miami Vacations Corporate Rentals",
+    "address": "4401 NW 87th Avenue, Doral, FL, 33166 United States",
+    "distance": 1.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14710000/14708500/14708428/14708428_5_l.jpg"
+  },
+  {
+    "price": 313,
+    "name": "Trump National Doral Miami",
+    "address": "4400 N.W. 87th Ave, Doral, FL, 33178 United States",
+    "distance": 1.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6500/6471/f8681cb3_l.jpg"
+  },
+  {
+    "price": 180,
+    "name": "Provident Doral at the Blue Miami",
+    "address": "5300 NW 87 Avenue, Doral, FL, 33178 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1770000/1765200/1765184/1765184_69_l.jpg"
+  },
+  {
+    "price": 342,
+    "name": "Marriott\u0027s Villas at Doral",
+    "address": "4101 NW 87th Avenue, Doral, FL, 33178 United States",
+    "distance": 1.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/670000/665100/665022/665022_48_l.jpg"
+  }
+]

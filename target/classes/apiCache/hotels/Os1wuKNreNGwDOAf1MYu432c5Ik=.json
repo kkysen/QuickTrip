@@ -1,0 +1,82 @@
+[
+  {
+    "price": 81,
+    "name": "The View Inn \u0026 Suites",
+    "address": "3191 Highfield Drive, Bethlehem, PA, 18020 United States",
+    "distance": 0.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13800/13759/13759_69_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "WoodSpring Suites Allentown Bethlehem",
+    "address": "4016 Christian Springs Rd., Bethlehem, PA, 18020 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3440000/3430700/3430690/fac66c91_l.jpg"
+  },
+  {
+    "price": 173,
+    "name": "Courtyard by Marriott Bethlehem Lehigh Valley/I-78",
+    "address": "2220 Emrick Blvd, Bethlehem, PA, 18020 United States",
+    "distance": 2.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1960000/1956100/1956002/1956002_57_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Best Western Lehigh Valley Hotel \u0026 Conference Center",
+    "address": "300 Gateway Drive, Bethlehem, PA, 18017 United States",
+    "distance": 3.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2800/2786/2786_67_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Hampton Inn \u0026 Suites Bethlehem",
+    "address": "200 Gateway Dr, Bethlehem, PA, 18017 United States",
+    "distance": 3.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42900/42851/42851_58_l.jpg"
+  },
+  {
+    "price": 194,
+    "name": "Sands Casino Resort Bethlehem",
+    "address": "77 Sands Blvd, Bethlehem, PA, 18015 United States",
+    "distance": 4.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4440000/4434200/4434146/86f45b19_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "Hyatt Place Bethlehem",
+    "address": "45 West North Street, Bethlehem, PA, 18018 United States",
+    "distance": 4.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2970000/2967300/2967299/2967299_46_l.jpg"
+  },
+  {
+    "price": 172,
+    "name": "Hotel Bethlehem, A Historic Hotel of America",
+    "address": "437 Main St, Bethlehem, PA, 18018 United States",
+    "distance": 4.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/530000/524500/524471/32efad30_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Extended Stay America - Allentown - Bethlehem",
+    "address": "3050 Schoenersville Rd, Bethlehem, PA, 18017 United States",
+    "distance": 4.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/980000/977700/977618/977618_53_l.jpg"
+  },
+  {
+    "price": 145,
+    "name": "Holiday Inn Express Bethlehem Airport - Allentown Area",
+    "address": "3375 High Point Boulevard, Bethlehem, PA, 18017 United States",
+    "distance": 5.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1620000/1619200/1619181/1619181_221_l.jpg"
+  }
+]

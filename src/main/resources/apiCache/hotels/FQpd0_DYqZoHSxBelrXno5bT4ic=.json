@@ -1,0 +1,82 @@
+[
+  {
+    "price": 114,
+    "name": "The Terrace Hotel",
+    "address": "329 E Main St, Lakeland, FL, 33801 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/209700/209651/209651_54_l.jpg"
+  },
+  {
+    "price": 151,
+    "name": "Hyatt Place Lakeland Center",
+    "address": "525 W Orange St, Lakeland, FL, 33815 United States",
+    "distance": 0.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/201200/201106/7b352caf_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Best Motel Lakeland",
+    "address": "601 East Memorial Blvd, Lakeland, FL, 33801 United States",
+    "distance": 0.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12870000/12861100/12861068/12861068_22_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Westmont Inn - Lakeland",
+    "address": "1817 E Memorial Blvd, Lakeland, FL, 33801 United States",
+    "distance": 1.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8090000/8084500/8084456/8084456_1_l.jpg"
+  },
+  {
+    "price": 57,
+    "name": "Motel 6 Lakeland",
+    "address": "3120 US 98 North, Lakeland, FL, 33805 United States",
+    "distance": 2.7,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/990000/988800/988786/988786_25_l.jpg"
+  },
+  {
+    "price": 160,
+    "name": "Holiday Inn Express \u0026 Suites Lakeland South",
+    "address": "3405 South Florida Ave, Lakeland, FL, 33803 United States",
+    "distance": 2.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17800/17718/b1fdb66e_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Ramada Lakeland",
+    "address": "3260 US Highway 98 N, Lakeland, FL, 33805 United States",
+    "distance": 2.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10400/10376/10376_319_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "TownePlace Suites by Marriott Lakeland",
+    "address": "3370 N Rd 98, Lakeland, FL, 33805 United States",
+    "distance": 2.9,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16620000/16615500/16615457/50cf33f3_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Howard Johnson Lakeland",
+    "address": "939 W. Robson St., I-4 Exit 32, Lakeland, FL, 33805 United States",
+    "distance": 2.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9600/9597/bfee8a74_l.jpg"
+  },
+  {
+    "price": 96,
+    "name": "Travelodge Lakeland",
+    "address": "3425 US Hwy 98 North, Lakeland, FL, 33809 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3570000/3566100/3566069/79fed618_l.jpg"
+  }
+]

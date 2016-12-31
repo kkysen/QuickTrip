@@ -1,0 +1,42 @@
+[
+  {
+    "price": 88,
+    "name": "Quality Suites",
+    "address": "360 Eastern Blvd, Jeffersonville, IN, 47130 United States",
+    "distance": 0.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1520000/1513800/1513760/1513760_37_l.jpg"
+  },
+  {
+    "price": 143,
+    "name": "Fairfield Inn By Marriott Louisville North",
+    "address": "619 N Shore Dr, Jeffersonville, IN, 47130 United States",
+    "distance": 1.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/480000/475900/475884/9ca0b8f7_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Market Street Inn",
+    "address": "330 West Market Street, Jeffersonville, IN, 47130 United States",
+    "distance": 1.0,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9680000/9678400/9678336/9678336_12_l.jpg"
+  },
+  {
+    "price": 189,
+    "name": "Sheraton Louisville Riverside Hotel",
+    "address": "700 West Riverside Drive, Jeffersonville, IN, 47130 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17900/17862/14fa367c_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Motel 6 Louisville N-Jeffersonville",
+    "address": "2016 Hospitality Way, Jeffersonville, IN, 47130 United States",
+    "distance": 1.2,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1040000/1037800/1037761/1037761_14_l.jpg"
+  }
+]

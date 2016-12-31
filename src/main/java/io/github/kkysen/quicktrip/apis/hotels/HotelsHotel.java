@@ -83,7 +83,7 @@ public class HotelsHotel implements Hotel {
             distance = parseDistance(detailsRespModule);
             rating = parseRating(detailsRespModule);
             imgUrl = parseImgUrl(descriptionHCardRespModule);
-        } catch (final IndexOutOfBoundsException e) {
+        } catch (final IndexOutOfBoundsException | NumberFormatException e) {
             System.out.println(hotelWrap);
             e.printStackTrace();
             throw new MissingHotelInformationException(e);

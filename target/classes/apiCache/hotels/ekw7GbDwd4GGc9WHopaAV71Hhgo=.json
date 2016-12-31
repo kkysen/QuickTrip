@@ -1,0 +1,74 @@
+[
+  {
+    "price": 84,
+    "name": "Super 8 Monticello NY",
+    "address": "290 Broadway, Monticello, NY, 12701 United States",
+    "distance": 0.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1350000/1348700/1348614/1348614_33_l.jpg"
+  },
+  {
+    "price": 122,
+    "name": "Best Western Monticello",
+    "address": "16 Raceway Rd, Monticello, NY, 12701 United States",
+    "distance": 1.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26600/26518/f3396d27_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Ramada Rock Hill at Sullivan Center",
+    "address": "283 Rock Hill Drive, Rock Hill, NY, 12775 United States",
+    "distance": 5.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8120000/8115200/8115182/8115182_2_l.jpg"
+  },
+  {
+    "price": 94,
+    "name": "Days Inn Liberty",
+    "address": "52 Sullivan Ave, Liberty, NY, 12754 United States",
+    "distance": 9.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19400/19381/2b7c4627_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Knights Inn Liberty",
+    "address": "2067 Route 52, Liberty, NY, 12754 United States",
+    "distance": 9.4,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/907100/907033/907033_49_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "Days Inn Wurtsboro",
+    "address": "21 Perron Dr, Wurtsboro, NY, 12790 United States",
+    "distance": 12.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/34300/34237/012104a4_l.jpg"
+  },
+  {
+    "price": 154,
+    "name": "Honor\u0027s Haven Resort \u0026 Spa",
+    "address": "1195 Arrowhead Rd., Ellenville, NY, 12428 United States",
+    "distance": 15.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2720000/2719500/2719462/2719462_104_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Catskill Mountains Resort",
+    "address": "211 Mail Rd, Barryville, NY, 12719 United States",
+    "distance": 16.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11850000/11844800/11844796/11844796_12_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Blue Hill Lodge",
+    "address": "1471 Denning Road, Claryville, NY, 12725 United States",
+    "distance": 20.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8980000/8976800/8976799/62b9dc7b_l.jpg"
+  }
+]

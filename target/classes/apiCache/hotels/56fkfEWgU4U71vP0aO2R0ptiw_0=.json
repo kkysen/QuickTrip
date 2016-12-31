@@ -1,0 +1,82 @@
+[
+  {
+    "price": 129,
+    "name": "Staybridge Suites Midvale",
+    "address": "747 W Blue Vista Ln, Midvale, UT, 84047 United States",
+    "distance": 0.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6210000/6201400/6201367/04e3370d_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Motel 6 Salt Lake City South - Midvale",
+    "address": "7263 S Catalpa St, Midvale, UT, 84047 United States",
+    "distance": 0.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1040000/1037800/1037756/1037756_39_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "La Quinta Inn Salt Lake City Midvale",
+    "address": "7231 S Catalpa St, Midvale, UT, 84047 United States",
+    "distance": 0.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2200/2139/75f699a5_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Days Inn Salt Lake City South",
+    "address": "7251 S 300 W, Midvale, UT, 84047 United States",
+    "distance": 0.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43100/43045/a5beb3a4_l.jpg"
+  },
+  {
+    "price": 142,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Salt Lake City Midvale",
+    "address": "7141 S F L Smidth Dr, Midvale, UT, 84047 United States",
+    "distance": 0.8,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15710000/15701400/15701374/3a5c587d_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Discovery Inn",
+    "address": "380 W 7200 S, Midvale, UT, 84047 United States",
+    "distance": 0.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/110000/104200/104183/104183_57_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Park Inn by Radisson Salt Lake City Midvale",
+    "address": "280 West 7200 South, Midvale, UT, 84047 United States",
+    "distance": 0.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13900/13803/13803_211_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Holiday Inn Express Salt Lake City South - Midvale",
+    "address": "7134 S 700 East, Midvale, UT, 84047 United States",
+    "distance": 2.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2580000/2574500/2574480/2574480_78_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Homewood Suites by Hilton Salt Lake City-Midvale/Sandy",
+    "address": "844 E North Union Ave, Midvale, UT, 84047 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41200/41131/41131_61_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Super 8 Pride Midvale/Midvalley/Salt Lake City Area",
+    "address": "7048 S 900 E, Midvale, UT, 84047 United States",
+    "distance": 2.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/456600/456587/452d7980_l.jpg"
+  }
+]

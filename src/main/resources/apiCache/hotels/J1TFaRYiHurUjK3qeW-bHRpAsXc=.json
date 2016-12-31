@@ -1,0 +1,42 @@
+[
+  {
+    "price": 121,
+    "name": "Best Western Plus Eagle Lodge \u0026 Suites",
+    "address": "200 Loren Ln, Eagle, CO, 81631 United States",
+    "distance": 0.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14000/13990/13990_188_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Hawthorn Suites by Wyndham Eagle, CO",
+    "address": "315 Chambers Avenue, Eagle, CO, 81631 United States",
+    "distance": 0.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/425500/425422/425422_169_l.jpg"
+  },
+  {
+    "price": 140,
+    "name": "AmericInn Lodge \u0026 Suites Eagle",
+    "address": "85 Pond Rd, Eagle, CO, 81631 United States",
+    "distance": 0.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/202800/202796/9245e828_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Comfort Inn Vail Valley",
+    "address": "285 Market St, Eagle, CO, 81631 United States",
+    "distance": 0.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/126700/126625/126625_42_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Eagle River Lodge",
+    "address": "75 Pond Road, Eagle, CO, 81631 United States",
+    "distance": 0.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/52900/52865/595a67f2_l.jpg"
+  }
+]

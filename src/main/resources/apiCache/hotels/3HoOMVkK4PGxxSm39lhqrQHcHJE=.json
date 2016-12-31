@@ -1,0 +1,82 @@
+[
+  {
+    "price": 166,
+    "name": "Best Western Plus College Station Inn \u0026 Suites",
+    "address": "950 Arrington Road, College Station, TX, 77845 United States",
+    "distance": 16.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10100000/10094800/10094793/10094793_33_l.jpg"
+  },
+  {
+    "price": 224,
+    "name": "La Quinta Inn \u0026 Suites College Station South",
+    "address": "1838 Graham Road, College Station, TX, 77845 United States",
+    "distance": 18.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9990000/9983700/9983684/ac240632_l.jpg"
+  },
+  {
+    "price": 212,
+    "name": "Quality Suites",
+    "address": "3610 Highway 6 South, College Station, TX, 77845 United States",
+    "distance": 18.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1330000/1327400/1327365/1327365_74_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Summit Inn \u0026 Suites - Hempstead",
+    "address": "51325 Hwy 290, Hempstead, TX, 77445 United States",
+    "distance": 19.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/810000/809600/809512/809512_2_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "Days Inn College Station",
+    "address": "2514 Texas Ave S, College Station, TX, 77840 United States",
+    "distance": 20.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3500/3430/3430_99_l.jpg"
+  },
+  {
+    "price": 131,
+    "name": "Manor Inn College Station",
+    "address": "2504 Texas Ave S, College Station, TX, 77840 United States",
+    "distance": 20.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22000/21958/21958_77_l.jpg"
+  },
+  {
+    "price": 195,
+    "name": "Holiday Inn Hotel \u0026 Suites College Station - Aggieland",
+    "address": "2500 Earl Rudder Freeway and Hwy 6, College Station, TX, 77840 United States",
+    "distance": 20.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1380000/1376300/1376203/1376203_176_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Motel 6 College Station - Bryan",
+    "address": "2327 Texas Avenue South, College Station, TX, 77840 United States",
+    "distance": 20.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/996400/996356/996356_33_l.jpg"
+  },
+  {
+    "price": 262,
+    "name": "Aloft College Station",
+    "address": "1150 University Drive East, College Station, TX, 77840 United States",
+    "distance": 22.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11610000/11609800/11609732/11609732_7_l.jpg"
+  },
+  {
+    "price": 234,
+    "name": "Candlewood Suites College Station At University",
+    "address": "3021 Plaza Centre Court, Bryan, TX, 77802 United States",
+    "distance": 22.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10100000/10091100/10091053/10091053_114_l.jpg"
+  }
+]

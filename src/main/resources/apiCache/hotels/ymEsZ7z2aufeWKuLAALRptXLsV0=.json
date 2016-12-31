@@ -1,0 +1,42 @@
+[
+  {
+    "price": 53,
+    "name": "Super 8 Moorhead",
+    "address": "3621 S 8th St, I-94 at US 75 S Exit 1, Moorhead, MN, 56560 United States",
+    "distance": 1.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/855600/855529/855529_25_l.jpg"
+  },
+  {
+    "price": 44,
+    "name": "Grand Inn Moorhead",
+    "address": "810 Belsly Blvd, Moorhead, MN, 56560 United States",
+    "distance": 1.8,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1530000/1529300/1529271/1529271_29_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Microtel Inn \u0026 Suites By Wyndham Moorhead Fargo Area",
+    "address": "2915 12th Street South, Moorhead, MN, 56560 United States",
+    "distance": 1.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8290000/8282200/8282166/5eaf95e8_l.jpg"
+  },
+  {
+    "price": 137,
+    "name": "Courtyard by Marriott Fargo Moorhead, MN",
+    "address": "1080 28th Ave S, Moorhead, MN, 56560 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/904800/904747/a5b5c591_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Travelodge \u0026 Suites Fargo Moorhead",
+    "address": "3027 Frontage Rd S, Moorhead, MN, 56560 United States",
+    "distance": 3.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/220000/214700/214640/214640_165_l.jpg"
+  }
+]

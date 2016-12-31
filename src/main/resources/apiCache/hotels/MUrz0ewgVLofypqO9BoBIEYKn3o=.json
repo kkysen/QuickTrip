@@ -1,0 +1,42 @@
+[
+  {
+    "price": 66,
+    "name": "Manistee Inn \u0026 Marina",
+    "address": "378 River Street, Manistee, MI, 49660 United States",
+    "distance": 0.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3230000/3225300/3225287/3225287_7_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Super 8 Manistee",
+    "address": "220 Arthur St, Manistee, MI, 49660 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/855700/855693/855693_193_l.jpg"
+  },
+  {
+    "price": 46,
+    "name": "Manistee Hotel",
+    "address": "200 Arthur Street, Manistee, MI, 49660 United States",
+    "distance": 1.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12440000/12433100/12433022/12433022_8_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Days Inn Manistee",
+    "address": "1462 Manistee Highway, 1462 US 31 S, Manistee, MI, 49660 United States",
+    "distance": 1.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/51300/51269/51269_146_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Manistee",
+    "address": "226 E Parkdale Avenue, Manistee, MI, 49660 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/580000/578500/578495/c54d9133_l.jpg"
+  }
+]

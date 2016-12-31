@@ -1,0 +1,50 @@
+[
+  {
+    "price": 246,
+    "name": "HYATT house Emeryville/San Francisco Bay Area",
+    "address": "5800 Shellmound Street, Emeryville, CA, 94608 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/548000/547988/547988_154_l.jpg"
+  },
+  {
+    "price": 173,
+    "name": "Four Points by Sheraton San Francisco Bay Bridge",
+    "address": "1603 Powell St, Emeryville, CA, 94608 United States",
+    "distance": 0.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17300/17280/17280_104_l.jpg"
+  },
+  {
+    "price": 205,
+    "name": "Hyatt Place Emeryville/San Francisco Bay Area",
+    "address": "5700 Bay Street, Emeryville, CA, 94608 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15680000/15674100/15674041/56b0e538_l.jpg"
+  },
+  {
+    "price": 232,
+    "name": "Courtyard by Marriott Emeryville",
+    "address": "5555 Shellmound Street, Emeryville, CA, 94608 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/560000/551100/551060/2f2e6871_l.jpg"
+  },
+  {
+    "price": 208,
+    "name": "Hilton Garden Inn San Francisco/Oakland Bay Bridge",
+    "address": "1800 Powell Street, Emeryville, CA, 94608 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10400/10323/10323_112_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Nights Inn Motel",
+    "address": "874 West Macarthur Blvd, Emeryville, CA, 94608 United States",
+    "distance": 1.3,
+    "rating": 1.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11420000/11416100/11416007/11416007_2_l.jpg"
+  }
+]

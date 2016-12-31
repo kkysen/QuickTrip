@@ -1,0 +1,82 @@
+[
+  {
+    "price": 60,
+    "name": "Motel 6 Palestine",
+    "address": "1101 E Palestine Avenue, Palestine, TX, 75801 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9300/9274/2e546234_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "Holiday Inn Express Palestine",
+    "address": "1030 E Palestine Ave, Palestine, TX, 75801 United States",
+    "distance": 2.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/327900/327870/327870_180_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Express Inn \u0026 Suites",
+    "address": "1100 E Palestine Ave, Palestine, TX, 75801 United States",
+    "distance": 2.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26400/26340/26340_40_l.jpg"
+  },
+  {
+    "price": 44,
+    "name": "Texann Motel",
+    "address": "805 E Palestine Ave, Palestine, TX, 75801 United States",
+    "distance": 2.6,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7100000/7090900/7090860/7090860_3_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Town and Country Motel",
+    "address": "205 East Palestine Ave., Palestine, TX, 75801 United States",
+    "distance": 2.9,
+    "rating": 1.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11260000/11259300/11259205/11259205_2_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Best Western Palestine Inn",
+    "address": "1601 W Palestine Ave, Palestine, TX, 75801 United States",
+    "distance": 4.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25000/24901/24901_231_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Super 8 Palestine",
+    "address": "2300 West Oak Street, Hwy 79/84 and Loop 256, Palestine, TX, 75801 United States",
+    "distance": 5.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/855700/855696/855696_130_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "La Quinta Inn \u0026 Suites Palestine",
+    "address": "3000 South Loop 256, Palestine, TX, 75801 United States",
+    "distance": 5.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1980000/1971200/1971191/5d912446_l.jpg"
+  },
+  {
+    "price": 145,
+    "name": "Hampton Inn \u0026 Suites Palestine",
+    "address": "2700 S Main Loop 256, Palestine, TX, 75801 United States",
+    "distance": 5.3,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2780000/2774600/2774575/2774575_31_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Comfort Suites",
+    "address": "301 Willow Creek Pkwy, Palestine, TX, 75801 United States",
+    "distance": 5.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3090000/3084900/3084872/e2926acc_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 105,
+    "name": "Holiday Inn Express Dothan North",
+    "address": "4090 Ross Clark Cir, Dothan, AL, 36303 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1800000/1793700/1793626/1793626_161_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "Comfort Inn \u0026 Suites Dothan",
+    "address": "2300 E Main St, Dothan, AL, 36301 United States",
+    "distance": 2.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8340000/8334700/8334619/8334619_64_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Holiday Inn Dothan",
+    "address": "2740 Ross Clark Cir, Dothan, AL, 36301 United States",
+    "distance": 2.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4770000/4761000/4760959/4760959_134_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Red Carpet Inn",
+    "address": "2841 Ross Clark Circle, Dothan, AL, 36301 United States",
+    "distance": 2.3,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7600/7587/7587_24_l.jpg"
+  },
+  {
+    "price": 40,
+    "name": "Econo Lodge Dothan",
+    "address": "2910 Ross Clark Cir, Dothan, AL, 36301 United States",
+    "distance": 2.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/564000/563945/563945_33_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Howard Johnson Inn - Dothan",
+    "address": "2244 Ross Clark Cir, Dothan, AL, 36301 United States",
+    "distance": 2.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2300/2249/2249_42_l.jpg"
+  },
+  {
+    "price": 40,
+    "name": "Motel 6 Dothan",
+    "address": "2907 Ross Clark Circle Southwest, Dothan, AL, 36301 United States",
+    "distance": 2.3,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50600/50565/50565_77_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Courtyard by Marriott Dothan",
+    "address": "3040 Ross Clark Cir, Dothan, AL, 36301 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42000/41944/41944_210_l.jpg"
+  },
+  {
+    "price": 96,
+    "name": "Fairfield Inn by Marriott Dothan",
+    "address": "3038 Ross Clark Circle, Dothan, AL, 36301 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19400/19372/19372_128_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Super 8 Dothan",
+    "address": "2215 Ross Clark Cir, Dothan, AL, 36301 United States",
+    "distance": 2.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/855800/855710/855710_57_l.jpg"
+  }
+]

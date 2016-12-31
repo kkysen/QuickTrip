@@ -1,0 +1,18 @@
+[
+  {
+    "price": 90,
+    "name": "Quality Inn \u0026 Conference Center",
+    "address": "1411 Liberty Street, Franklin, PA, 16323 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1000/982/8e4ee531_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Knights Inn Franklin",
+    "address": "847 Allegheny Blvd, Franklin, PA, 16323 United States",
+    "distance": 1.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856300/856292/856292_15_l.jpg"
+  }
+]

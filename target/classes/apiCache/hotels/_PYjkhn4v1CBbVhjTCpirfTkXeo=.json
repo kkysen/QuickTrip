@@ -1,0 +1,82 @@
+[
+  {
+    "price": 79,
+    "name": "Red Roof Inn Greenwood",
+    "address": "110 Sheek Rd, Greenwood, IN, 46143 United States",
+    "distance": 3.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4500/4409/dc1a45ad_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Red Carpet Inn and FantaSuite Hotel",
+    "address": "1117 E Main Street, Greenwood, IN, 46143 United States",
+    "distance": 3.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/903400/903311/903311_99_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "La Quinta Inn \u0026 Suites Greenwood",
+    "address": "1281 South Park Drive, Greenwood, IN, 46143 United States",
+    "distance": 3.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/74100/74038/ff4507f5_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "WoodSpring Suites Indianapolis Greenwood",
+    "address": "1009 S Greenwood Springs Blvd, Greenwood, IN, 46143-6249 United States",
+    "distance": 4.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2370000/2366000/2365947/f7144100_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Greenwood",
+    "address": "1180 Wilson Dr, Greenwood, IN, 46143 United States",
+    "distance": 5.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/548600/548509/548509_215_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Candlewood Suites Indianapolis - South",
+    "address": "1190 N. Graham Rd, Greenwood, IN, 46143 United States",
+    "distance": 5.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1960000/1957200/1957192/1957192_53_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Hilton Garden Inn Indianapolis South/Greenwood",
+    "address": "5255 Noggle Way, Indianapolis, IN, 46237 United States",
+    "distance": 5.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2810000/2803700/2803660/2803660_11_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Motel 6 Franklin IN",
+    "address": "188 N Lovers Lane, Franklin, IN, 46131 United States",
+    "distance": 6.0,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/855800/855753/855753_22_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Quality Inn Franklin",
+    "address": "150 N Lovers Ln, Franklin, IN, 46131 United States",
+    "distance": 6.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84600/84540/84540_46_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Baymont Inn \u0026 Suites Franklin",
+    "address": "2122 Holiday Ln, Franklin, IN, 46131 United States",
+    "distance": 6.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/85000/84911/84911_64_l.jpg"
+  }
+]

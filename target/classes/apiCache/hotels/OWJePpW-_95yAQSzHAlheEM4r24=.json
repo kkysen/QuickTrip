@@ -1,0 +1,82 @@
+[
+  {
+    "price": 86,
+    "name": "Candlewood Suites Harrisburg - Hershey",
+    "address": "413 Port View Drive, Harrisburg, PA, 17111 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6250000/6242900/6242821/6242821_124_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Towneplace Suites by Marriott Harrisburg",
+    "address": "450 Friendship Rd, Harrisburg, PA, 17111 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/2000000/1990400/1990310/1990310_66_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Hilton Garden Inn Harrisburg East",
+    "address": "3943 Tecport Drive, Harrisburg, PA, 17111 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1660000/1652900/1652827/1652827_83_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "Homewood Suites by Hilton Harrisburg East-Hershey Area",
+    "address": "3990 Tecport Dr, Harrisburg, PA, 17111 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1070000/1066500/1066411/1066411_62_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Sleep Inn \u0026 Suites",
+    "address": "631A Eisenhower Blvd, Harrisburg, PA, 17111 United States",
+    "distance": 1.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3730000/3726600/3726597/3726597_31_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Howard Johnson Harrisburg Pa",
+    "address": "473 Eisenhower Blvd, Harrisburg, PA, 17111 United States",
+    "distance": 1.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/34400/34399/34399_76_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Econo Lodge Harrisburg",
+    "address": "495 Eisenhower Blvd, Harrisburg, PA, 17111 United States",
+    "distance": 1.8,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42900/42833/2a75566f_l.jpg"
+  },
+  {
+    "price": 57,
+    "name": "Rodeway Inn",
+    "address": "631 Eisenhower Blvd, Harrisburg, PA, 17111 United States",
+    "distance": 1.8,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/58500/58450/58450_41_l.jpg"
+  },
+  {
+    "price": 196,
+    "name": "Courtyard by Marriott Harrisburg Hershey",
+    "address": "725 Eisenhower Blvd, Harrisburg, PA, 17111 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1210000/1207800/1207708/1207708_18_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Red Roof Inn Harrisburg - Hershey",
+    "address": "950 Eisenhower Boulevard, Harrisburg, PA, 17111 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18000/17983/17983_51_l.jpg"
+  }
+]

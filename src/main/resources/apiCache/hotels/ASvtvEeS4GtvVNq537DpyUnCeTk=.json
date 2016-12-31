@@ -1,0 +1,42 @@
+[
+  {
+    "price": 180,
+    "name": "Days Inn Gretna New Orleans",
+    "address": "100 Westbank Expy, Gretna, LA, 70053 United States",
+    "distance": 1.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23800/23721/23721_149_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Knights Inn Gretna New Orleans West Bank",
+    "address": "100A Westbank Expressway, Gretna, LA, 70053 United States",
+    "distance": 1.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15130000/15125300/15125226/9b7fd873_l.jpg"
+  },
+  {
+    "price": 269,
+    "name": "Courtyard by Marriott New Orleans Westbank/Gretna",
+    "address": "5 Westbank Expressway, Gretna, LA, 70053 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11930000/11921900/11921899/280af9d7_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Holiday Inn New Orleans West Bank Tower",
+    "address": "275 Whitney Ave, Gretna, LA, 70053 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2580000/2571900/2571814/cad2c40e_l.jpg"
+  },
+  {
+    "price": 199,
+    "name": "La Quinta Inn New Orleans West Bank / Gretna",
+    "address": "50 Terry Pkwy, Gretna, LA, 70056 United States",
+    "distance": 2.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2400/2365/7289fcc2_l.jpg"
+  }
+]

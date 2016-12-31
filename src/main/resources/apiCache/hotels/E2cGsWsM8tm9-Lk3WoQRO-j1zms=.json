@@ -1,0 +1,74 @@
+[
+  {
+    "price": 134,
+    "name": "Doubletree by Hilton Hotel Racine Harbourwalk",
+    "address": "223 Gaslight Circle, Racine, WI, 53403 United States",
+    "distance": 0.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/500/497/93f5c06b_l.jpg"
+  },
+  {
+    "price": 145,
+    "name": "Christmas House Bed \u0026 Breakfast",
+    "address": "116 10th St., Racine, WI, 53403 United States",
+    "distance": 0.4,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12950000/12950000/12949989/12949989_52_l.jpg"
+  },
+  {
+    "price": 132,
+    "name": "Lochnaiar Inn",
+    "address": "1121 Lake Ave, Racine, WI, 53403 United States",
+    "distance": 0.5,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12660000/12654200/12654166/12654166_1_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Americas Best Value Inn \u0026 Suites",
+    "address": "5419 Durand Ave, Racine, WI, 53406 United States",
+    "distance": 3.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/564500/564467/564467_76_l.jpg"
+  },
+  {
+    "price": 142,
+    "name": "Fairfield Inn Racine",
+    "address": "6421 Washington Ave, Racine, WI, 53406 United States",
+    "distance": 3.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12500/12500/d0769dec_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Comfort Inn Racine",
+    "address": "1154 Prairie Dr, Racine, WI, 53406 United States",
+    "distance": 4.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2200/2116/920e43e7_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Racine Architect Hotel \u0026 Conference Center",
+    "address": "7111 Washington Ave, Racine, WI, 53406 United States",
+    "distance": 4.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16500/16479/16479_93_l.jpg"
+  },
+  {
+    "price": 108,
+    "name": "Racine Knights Inn",
+    "address": "1149 Oakes Rd, Racine, WI, 53406 United States",
+    "distance": 4.5,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/40000/39970/f67413d3_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Super 8 Racine",
+    "address": "1150 Oakes Rd, Racine, WI, 53406 United States",
+    "distance": 4.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40100/40003/9a944aca_l.jpg"
+  }
+]

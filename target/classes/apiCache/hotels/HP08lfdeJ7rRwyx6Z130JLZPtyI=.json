@@ -1,0 +1,82 @@
+[
+  {
+    "price": 119,
+    "name": "Oak Street Hotel",
+    "address": "610 Oak Street, Hood River, OR, 97031 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13480000/13474500/13474498/13474498_1_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Hampton Inn \u0026 Suites Hood River",
+    "address": "1 Nichols Parkway, Hood River, OR, 97031 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14620000/14612100/14612086/9caa39cc_l.jpg"
+  },
+  {
+    "price": 155,
+    "name": "Hood River Vacation Condo",
+    "address": "714 Cascade Ave #5, Hood River, OR, 97031 United States",
+    "distance": 0.2,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15160000/15155900/15155895/06fcb5d1_l.jpg"
+  },
+  {
+    "price": 199,
+    "name": "Villa Columbia Bed and Breakfast",
+    "address": "902 Oak Street, Hood River, OR, 97031 United States",
+    "distance": 0.3,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2160000/2151400/2151342/2151342_65_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Riverview Lodge",
+    "address": "1505 Oak St, Hood River, OR, 97031 United States",
+    "distance": 0.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9380000/9372900/9372851/9372851_17_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Best Western Plus Hood River Inn",
+    "address": "1108 E Marina Way, Hood River, OR, 97031 United States",
+    "distance": 0.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9100/9066/9066_325_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Sunset Motel Hood River",
+    "address": "2300 Cascade Ave, Hood River, OR, 97031 United States",
+    "distance": 1.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1860000/1852300/1852258/1852258_15_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Hood River Hostel",
+    "address": "220 Clearwater Lane, Hood River, OR, 97031 United States",
+    "distance": 1.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11140000/11137600/11137600/11137600_1_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Comfort Suites Hood River",
+    "address": "2625 Cascade Ave, Hood River, OR, 97031 United States",
+    "distance": 1.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/67400/67378/67378_85_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Columbia Cliff Villas Hotel",
+    "address": "3880 Westcliff Drive, Hood River, OR, 97031 United States",
+    "distance": 1.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2240000/2232500/2232438/a6eb53a2_l.jpg"
+  }
+]

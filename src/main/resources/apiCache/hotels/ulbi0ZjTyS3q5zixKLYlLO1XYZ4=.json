@@ -1,0 +1,34 @@
+[
+  {
+    "price": 85,
+    "name": "Red Roof Inn PLUS+ \u0026 Suites Malone",
+    "address": "42 Finney Blvd, Malone, NY, 12953-1708 United States",
+    "distance": 7.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/123400/123347/123347_71_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Econo Lodge Malone",
+    "address": "227 W Main St, Malone, NY, 12953 United States",
+    "distance": 7.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/60100/60093/60093_43_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Four Seasons Motel",
+    "address": "206 W Main St, Malone, NY, 12953 United States",
+    "distance": 7.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4770000/4760800/4760704/147344bb_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Malone",
+    "address": "3351 State Route 11, Malone, NY, 12953 United States",
+    "distance": 7.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3640000/3635200/3635128/3635128_98_l.jpg"
+  }
+]

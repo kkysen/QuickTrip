@@ -1,0 +1,82 @@
+[
+  {
+    "price": 111,
+    "name": "Hotel Royal Oak",
+    "address": "811 East 11 Mile Rd, Royal Oak, MI, 48067 United States",
+    "distance": 3.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9050000/9043700/9043626/e2252ec4_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "Comfort Suites",
+    "address": "24977 Northwestern Hwy, Southfield, MI, 48076 United States",
+    "distance": 3.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/910200/910181/da4fb02a_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Holiday Inn Express Southfield-Detroit",
+    "address": "25100 Northwestern Hwy, Southfield, MI, 48075 United States",
+    "distance": 3.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/810000/802100/802092/802092_226_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "The Westin Southfield Detroit",
+    "address": "1500 Town Center, Southfield, MI, 48075 United States",
+    "distance": 3.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11000/10988/84372b4f_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Hawthorn Suites by Wyndham Detroit Southfield",
+    "address": "26700 Central Park Blvd, Southfield, MI, 48076 United States",
+    "distance": 3.4,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2400/2396/3fc1fda4_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Candlewood Suites Detroit-Southfield",
+    "address": "1 Corporate Dr, Southfield, MI, 48076 United States",
+    "distance": 4.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/77800/77709/77709_105_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "A Victory Hotel - Southfield",
+    "address": "23300 Telegraph Road, Southfield, MI, 48034 United States",
+    "distance": 4.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18700/18665/18665_45_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Courtyard by Marriott Southfield",
+    "address": "27027 Northwestern Hwy, Southfield, MI, 48033 United States",
+    "distance": 4.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21400/21344/21344_66_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Detroit Marriott Southfield",
+    "address": "27033 Northwestern Hwy, Southfield, MI, 48034 United States",
+    "distance": 4.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15300/15277/15277_35_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Red Roof Inn Detroit - Warren",
+    "address": "26300 Dequindre Rd, Warren, MI, 48091 United States",
+    "distance": 5.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14900/14825/14825_81_l.jpg"
+  }
+]

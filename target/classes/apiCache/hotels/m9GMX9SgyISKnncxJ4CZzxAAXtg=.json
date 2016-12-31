@@ -1,0 +1,26 @@
+[
+  {
+    "price": 62,
+    "name": "Howard Johnson Inn - Warrenton",
+    "address": "6 Broadview Ave, Warrenton, VA, 20186 United States",
+    "distance": 0.5,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1600/1578/1578_112_l.jpg"
+  },
+  {
+    "price": 131,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Warrenton",
+    "address": "410 Holiday Court, Warrenton, VA, 20186 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1110000/1101900/1101849/1101849_46_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Baymont Inn \u0026 Suites Warrenton",
+    "address": "7379 Comfort Inn Drive, U.S. 29, Warrenton, VA, 20187 United States",
+    "distance": 1.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10100/10086/10086_92_l.jpg"
+  }
+]

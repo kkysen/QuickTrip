@@ -1,0 +1,82 @@
+[
+  {
+    "price": 54,
+    "name": "Days Inn Roanoke Civic Center",
+    "address": "601 Orange Avenue, Roanoke, VA, 24016 United States",
+    "distance": 1.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26400/26338/26338_70_l.jpg"
+  },
+  {
+    "price": 61,
+    "name": "Econo Lodge Civic Center",
+    "address": "308 Orange Ave. NE, Roanoke, VA, 24016 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8000/7938/7938_32_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "The Hotel Roanoke \u0026 Conference Center, Curio Collection",
+    "address": "110 Shenandoah Ave Ne, Roanoke, VA, 24016 United States",
+    "distance": 2.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1600/1510/1510_167_l.jpg"
+  },
+  {
+    "price": 131,
+    "name": "Hampton Inn and Suites Roanoke Downtown",
+    "address": "25 Church Avenue SE, Roanoke, VA, 24011 United States",
+    "distance": 2.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11690000/11684800/11684744/11684744_1_l.jpg"
+  },
+  {
+    "price": 131,
+    "name": "Holiday Inn Express Roanoke-Civic Center",
+    "address": "815 Gainsboro Rd Nw, Roanoke, VA, 24016 United States",
+    "distance": 2.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14300/14236/14236_233_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Rodeway Inn Civic Center",
+    "address": "526 Orange Ave Ne, Roanoke, VA, 24016 United States",
+    "distance": 2.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43100/43080/43080_44_l.jpg"
+  },
+  {
+    "price": 123,
+    "name": "Cambria hotel \u0026 suites",
+    "address": "301 Reserve Ave SW, Roanoke, VA, 24015 United States",
+    "distance": 3.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3510000/3508900/3508858/3508858_20_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Ramada Roanoke",
+    "address": "1927 Franklin Rd Sw, Roanoke, VA, 24014 United States",
+    "distance": 3.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1300/1281/1281_105_l.jpg"
+  },
+  {
+    "price": 161,
+    "name": "Home2 Suites by Hilton Roanoke",
+    "address": "4830 Valley View Blvd NW, Roanoke, VA, 24012 United States",
+    "distance": 4.0,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16380000/16374600/16374505/1eded3a4_l.jpg"
+  },
+  {
+    "price": 192,
+    "name": "Hampton Inn \u0026 Suites Roanoke Airport",
+    "address": "5033 Valley View Boulevard NW, Roanoke, VA, 24012 United States",
+    "distance": 4.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6890000/6882200/6882175/6882175_31_l.jpg"
+  }
+]

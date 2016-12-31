@@ -1,0 +1,82 @@
+[
+  {
+    "price": 117,
+    "name": "Extended Stay America Los Angeles - Monrovia",
+    "address": "930 S 5th Ave, Monrovia, CA, 91016 United States",
+    "distance": 1.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/119200/119177/119177_56_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Oak Tree Inn",
+    "address": "788 W Huntington Dr, Monrovia, CA, 91016 United States",
+    "distance": 1.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/190000/181100/181083/181083_8_l.jpg"
+  },
+  {
+    "price": 209,
+    "name": "Courtyard by Marriott Los Angeles Pasadena/Monrovia",
+    "address": "700 W Huntington Dr, Monrovia, CA, 91016 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18800/18743/7b86a738_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Americas Best Value Inn Pasadena/Arcadia",
+    "address": "3800 E Colorado Blvd, Pasadena, CA, 91107 United States",
+    "distance": 2.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1860000/1852800/1852774/1852774_42_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Best Western Pasadena Royale Inn \u0026 Suites",
+    "address": "3600 E Colorado Blvd, Pasadena, CA, 91107 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9400/9400/9400_76_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Best Western Pasadena Inn",
+    "address": "3570 E Colorado Boulevard, Pasadena, CA, 91107 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9600/9595/9595_28_l.jpg"
+  },
+  {
+    "price": 181,
+    "name": "Holiday Inn Express Hotel and Suites Pasadena-Colorado Blvd",
+    "address": "3500 E Colorado Blvd, Pasadena, CA, 91107 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25800/25789/25789_216_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Hotel Le Rêve Pasadena",
+    "address": "3321 E Colorado Blvd, Pasadena, CA, 91107 United States",
+    "distance": 2.7,
+    "rating": 3.1,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/400/372/372_76_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Super 8 - Pasadena/LA Area",
+    "address": "2863 E Colorado Blvd, Pasadena, CA, 91107 United States",
+    "distance": 3.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40700/40626/98faa200_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Rodeway Inn \u0026 Suites Pasadena",
+    "address": "2860 E Colorado Blvd, Pasadena, CA, 91107 United States",
+    "distance": 3.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18600/18593/18593_96_l.jpg"
+  }
+]

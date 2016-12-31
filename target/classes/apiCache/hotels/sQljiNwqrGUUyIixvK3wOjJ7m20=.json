@@ -1,0 +1,82 @@
+[
+  {
+    "price": 199,
+    "name": "Charlotte Marriott City Center",
+    "address": "100 West Trade Street, Charlotte, NC, 28202 United States",
+    "distance": 0.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7600/7582/7582_134_l.jpg"
+  },
+  {
+    "price": 189,
+    "name": "Omni Charlotte Hotel",
+    "address": "132 E Trade St, Charlotte, NC, 28202 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7000/6961/6961_58_l.jpg"
+  },
+  {
+    "price": 399,
+    "name": "The Ritz-Carlton, Charlotte",
+    "address": "201 East Trade Street, Charlotte, NC, 28202 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2910000/2903600/2903551/bdbed46e_l.jpg"
+  },
+  {
+    "price": 170,
+    "name": "Aloft Charlotte Uptown at the EpiCentre",
+    "address": "210 E Trade Street, Charlotte, NC, 28202 United States",
+    "distance": 0.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2240000/2235100/2235071/2235071_107_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Courtyard by Marriott Charlotte City Center",
+    "address": "237 S Tryon St, Charlotte, NC, 28202 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/790000/789200/789141/a43e8f08_l.jpg"
+  },
+  {
+    "price": 178,
+    "name": "Holiday Inn Charlotte Center City",
+    "address": "230 N College St, Charlotte, NC, 28202 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11200/11132/11132_295_l.jpg"
+  },
+  {
+    "price": 178,
+    "name": "The Dunhill Hotel",
+    "address": "237 N Tryon St, Charlotte, NC, 28202 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5500/5490/5490_113_l.jpg"
+  },
+  {
+    "price": 182,
+    "name": "Hilton Charlotte Center City",
+    "address": "222 E 3rd St, Charlotte, NC, 28202 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17600/17545/17545_270_l.jpg"
+  },
+  {
+    "price": 189,
+    "name": "HYATT house Charlotte/Center City",
+    "address": "435 E Trade Street, Charlotte, NC, 28202 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3890000/3886300/3886221/3886221_31_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Residence Inn by Marriott Uptown Charlotte",
+    "address": "404 S Mint St, Charlotte, NC, 28202 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/580000/570600/570557/570557_103_l.jpg"
+  }
+]

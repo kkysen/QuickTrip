@@ -1,0 +1,26 @@
+[
+  {
+    "price": 115,
+    "name": "Holiday Inn Express \u0026 Suites Cedar Hill",
+    "address": "1007 N Highway 67, Cedar Hill, TX, 75104 United States",
+    "distance": 2.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2550000/2544000/2543901/2543901_77_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "La Quinta Inn \u0026 Suites Cedar Hill",
+    "address": "1419 N. US Hwy 67, Cedar Hill, TX, 75104 United States",
+    "distance": 3.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2210000/2202700/2202695/97941816_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Magnuson Hotel Cedar Hill",
+    "address": "1439 N Highway 67, Cedar Hill, TX, 75104 United States",
+    "distance": 3.9,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/170000/166700/166627/166627_38_l.jpg"
+  }
+]

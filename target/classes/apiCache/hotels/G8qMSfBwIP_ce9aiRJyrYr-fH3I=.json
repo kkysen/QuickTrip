@@ -1,0 +1,82 @@
+[
+  {
+    "price": 84,
+    "name": "Country Inn \u0026 Suites By Carlson Hiram",
+    "address": "70 Enterprise Path, Hiram, GA, 30141 United States",
+    "distance": 7.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/532100/532008/532008_37_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Best Western Hiram Inn \u0026 Suites",
+    "address": "1340 Pace Rd, Hiram, GA, 30141 United States",
+    "distance": 7.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/151200/151111/ef5876b6_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Sleep Inn And Suites",
+    "address": "181 Metromont Road, Hiram, GA, 30141 United States",
+    "distance": 8.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2650000/2647900/2647841/2647841_36_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Hampton Inn Emerson LakePoint",
+    "address": "86 Old Allatoona Rd SE, Cartersville, GA, 30121 United States",
+    "distance": 14.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13460000/13452300/13452236/d246053f_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Sleep Inn Cartersville - Emerson Lake Point",
+    "address": "150 Old Allatoona Rd SE Building A, Cartersville, GA, 30121 United States",
+    "distance": 14.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12290000/12285500/12285490/12285490_15_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "MainStay Suites Cartersville - Emerson Lake Point",
+    "address": "150 Old Allatoona Rd SE Building B, Cartersville, GA, 30121 United States",
+    "distance": 14.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12320000/12313200/12313187/12313187_26_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Red Roof Inn Acworth",
+    "address": "5320 Cherokee St, Acworth, GA, 30101 United States",
+    "distance": 15.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2900/2825/6cdff6a5_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Americas Best Value Inn-Acworth/Kennesaw",
+    "address": "5245 Glade Road, Acworth, GA, 30102 United States",
+    "distance": 15.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/790000/788900/788840/788840_119_l.jpg"
+  },
+  {
+    "price": 111,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Austell - Powder Springs",
+    "address": "3741 Tramore Pointe Pkwy, Austell, GA, 30106 United States",
+    "distance": 15.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1660000/1652900/1652818/1652818_214_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Fairbridge Inn Express Villa Rica",
+    "address": "128 HWY 61 Connector, Villa Rica, GA, 30180 United States",
+    "distance": 15.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6000/5999/8c79e417_l.jpg"
+  }
+]

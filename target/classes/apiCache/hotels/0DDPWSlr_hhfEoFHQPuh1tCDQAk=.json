@@ -1,0 +1,82 @@
+[
+  {
+    "price": 71,
+    "name": "Clarion Inn",
+    "address": "7850 Rhode Island St, Merrillville, IN, 46410 United States",
+    "distance": 0.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25400/25343/4b06c0f2_l.jpg"
+  },
+  {
+    "price": 130,
+    "name": "Residence Inn By Marriott Merrillville",
+    "address": "8018 Delaware Pl, Merrillville, IN, 46410 United States",
+    "distance": 0.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42500/42460/42460_19_l.jpg"
+  },
+  {
+    "price": 124,
+    "name": "Hilton Garden Inn Merrillville",
+    "address": "7775 Mississippi St, Merrillville, IN, 46410 United States",
+    "distance": 1.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2130000/2126900/2126844/2126844_47_l.jpg"
+  },
+  {
+    "price": 35,
+    "name": "Deluxe Inn Merrillville",
+    "address": "732 E 82nd Ave, Merrillville, IN, 46410 United States",
+    "distance": 1.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15410000/15409000/15408930/15408930_3_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Fairfield Inn and Suites By Marriott Merrillville",
+    "address": "8275 Georgia St, Merrillville, IN, 46410 United States",
+    "distance": 1.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5300/5258/fd059049_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Red Roof Inn Merrillville",
+    "address": "8290 Georgia St, Merrillville, IN, 46410 United States",
+    "distance": 1.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4100/4080/721d9c27_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "La Quinta Inn Merrillville",
+    "address": "8210 Louisiana St, Merrillville, IN, 46410 United States",
+    "distance": 1.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5900/5817/08ef9879_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "Candlewood Suites Merrillville",
+    "address": "8339 Ohio, Merrillville, IN, 46410 United States",
+    "distance": 1.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1920000/1916900/1916892/1916892_118_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Country Inn \u0026 Suites By Carlson, Merrillville, IN",
+    "address": "8311 Ohio, Merrillville, IN, 46410 United States",
+    "distance": 1.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1360000/1353900/1353808/1353808_28_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Americas Best Value Inn",
+    "address": "8250 Louisiana Street, Merrillville, IN, 46410 United States",
+    "distance": 1.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/123900/123860/123860_82_l.jpg"
+  }
+]

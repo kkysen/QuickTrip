@@ -1,0 +1,18 @@
+[
+  {
+    "price": 76,
+    "name": "Best Western Plus Wewoka Inn \u0026 Suites",
+    "address": "201 Commerce Drive, Wewoka, OK, 74884 United States",
+    "distance": 11.0,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/18000000/17290000/17281900/17281829/1da112a3_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Best Western Seminole Inn \u0026 Suites",
+    "address": "1525 N Milt Phillips Ave, Seminole, OK, 74868 United States",
+    "distance": 22.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1610000/1608200/1608139/7d7119ba_l.jpg"
+  }
+]

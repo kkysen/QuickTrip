@@ -1,0 +1,82 @@
+[
+  {
+    "price": 103,
+    "name": "Days Inn Poughkeepsie",
+    "address": "536 Haight Ave, Poughkeepsie, NY, 12603 United States",
+    "distance": 1.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6500/6465/6465_120_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Holiday Inn Express Poughkeepsie",
+    "address": "2750 South Road, Poughkeepsie, NY, 12601 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12200/12157/12157_233_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Atlas Motor Lodge",
+    "address": "125 Tillson Avenue EXT, Highland, NY, 12528 United States",
+    "distance": 2.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4780000/4773400/4773303/4773303_44_l.jpg"
+  },
+  {
+    "price": 120,
+    "name": "Courtyard by Marriott Poughkeepsie",
+    "address": "2641 South Rd, Poughkeepsie, NY, 12601 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6000/5910/5910_49_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Poughkeepsie Inn",
+    "address": "2625 South Road, Poughkeepsie, NY, 12601 United States",
+    "distance": 2.5,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23700/23610/23610_10_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "Americas Best Value Inn",
+    "address": "3497 Us Highway 9w, Highland, NY, 12528 United States",
+    "distance": 2.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4570000/4563100/4563073/4563073_28_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Residence Inn by Marriott Poughkeepsie",
+    "address": "2525 South Rd, Poughkeepsie, NY, 12601 United States",
+    "distance": 2.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1110000/1101900/1101862/1101862_34_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Super 8 Highland NY",
+    "address": "3423 US Highway 9W, I-87 Exit 18 to I-9W, Highland, NY, 12528 United States",
+    "distance": 3.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/918800/918797/918797_28_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Hampton Inn \u0026 Suites Poughkeepsie",
+    "address": "2361 South Rd, Poughkeepsie, NY, 12601 United States",
+    "distance": 3.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1930000/1927100/1927088/1927088_16_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Red Roof Inn PLUS+ Poughkeepsie",
+    "address": "2349 South Rd, Route 9, Poughkeepsie, NY, 12601 United States",
+    "distance": 3.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1740000/1739400/1739315/1739315_134_l.jpg"
+  }
+]

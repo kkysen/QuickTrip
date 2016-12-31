@@ -1,0 +1,18 @@
+[
+  {
+    "price": 59,
+    "name": "Travelodge Muskegon",
+    "address": "3380 Hoyt St, Muskegon Heights, MI, 49444 United States",
+    "distance": 0.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/123300/123214/123214_44_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Red Roof Inn \u0026 Suites Muskegon Heights",
+    "address": "150 South Seaway Drive, Muskegon Heights, MI, 49444 United States",
+    "distance": 0.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19100/19032/19032_85_l.jpg"
+  }
+]

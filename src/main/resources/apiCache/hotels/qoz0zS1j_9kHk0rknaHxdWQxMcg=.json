@@ -1,0 +1,74 @@
+[
+  {
+    "price": 51,
+    "name": "Super 8 Miamisburg Dayton S Area OH",
+    "address": "155 Monarch Ln, I 75 Exit 44, Miamisburg, OH, 45342 United States",
+    "distance": 2.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14100/14046/14046_101_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "250 Byers Rd, Miamisburg, OH, 45342 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15500/15474/15474_90_l.jpg"
+  },
+  {
+    "price": 46,
+    "name": "Red Roof Inn Dayton South - I-75 Miamisburg",
+    "address": "222 Byers Road, Miamisburg, OH, 45342 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9400/9372/9372_77_l.jpg"
+  },
+  {
+    "price": 42,
+    "name": "Knights Inn Dayton South/Miamisburg OH",
+    "address": "185 Byers Rd, Miamisburg, OH, 45342 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/440000/437300/437283/437283_216_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Hawthorn Suites by Wyndham Miamisburg/Dayton Mall South",
+    "address": "155 Prestige Place, Miamisburg, OH, 45342 United States",
+    "distance": 2.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24400/24324/870da0ec_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Homewood Suites by Hilton Dayton South",
+    "address": "3100 Contemporary Ln, Miamisburg, OH, 45342 United States",
+    "distance": 2.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/201100/201094/201094_26_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Courtyard by Marriott Dayton South/Mall",
+    "address": "100 Prestige Pl, Miamisburg, OH, 45342 United States",
+    "distance": 2.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7900/7856/c7c64586_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "DoubleTree Suites by Hilton Hotel Dayton - Miamisburg",
+    "address": "300 Prestige Pl, Miamisburg, OH, 45342 United States",
+    "distance": 2.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5800/5747/935e6a7a_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Comfort Suites",
+    "address": "42 Prestige Plaza Dr, Miamisburg, OH, 45342 United States",
+    "distance": 2.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/455600/455522/455522_124_l.jpg"
+  }
+]

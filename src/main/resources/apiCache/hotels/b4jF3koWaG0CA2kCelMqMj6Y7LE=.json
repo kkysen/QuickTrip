@@ -1,0 +1,74 @@
+[
+  {
+    "price": 209,
+    "name": "The Guesthouse at the Norwalk Inn",
+    "address": "99 East Avenue, Norwalk, CT, 06851 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6510000/6502000/6501905/6501905_83_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Norwalk Inn and Conference Center",
+    "address": "99 East Avenue, Norwalk, CT, 06851 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15200/15114/5973ba0c_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Econo Lodge Norwalk",
+    "address": "469 Westport Avenue, Norwalk, CT, 06851 United States",
+    "distance": 1.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3030000/3026200/3026104/3026104_28_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Hotel Zero Degrees Norwalk",
+    "address": "353 Main Ave, Norwalk, CT, 06851 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6030000/6020100/6020007/6020007_36_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Extended Stay America Norwalk - Stamford",
+    "address": "400 Main Ave, Norwalk, CT, 06851 United States",
+    "distance": 1.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/280600/280539/280539_50_l.jpg"
+  },
+  {
+    "price": 165,
+    "name": "EVEN Hotel Norwalk",
+    "address": "426 Main Ave, Norwalk, CT, 06851 United States",
+    "distance": 2.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2600/2584/2584_92_l.jpg"
+  },
+  {
+    "price": 157,
+    "name": "Courtyard by Marriott Norwalk",
+    "address": "474 Main Ave, Norwalk, CT, 06851 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25200/25183/25183_106_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "Hilton Garden Inn® Norwalk",
+    "address": "560 Main Ave, Norwalk, CT, 06851 United States",
+    "distance": 2.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/590000/580400/580328/580328_181_l.jpg"
+  },
+  {
+    "price": 132,
+    "name": "DoubleTree by Hilton Norwalk",
+    "address": "789 Connecticut Ave, Norwalk, CT, 06854 United States",
+    "distance": 2.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23000/22978/22978_192_l.jpg"
+  }
+]

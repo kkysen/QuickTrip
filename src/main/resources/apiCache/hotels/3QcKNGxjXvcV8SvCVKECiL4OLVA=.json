@@ -1,0 +1,82 @@
+[
+  {
+    "price": 120,
+    "name": "Best Western Chicagoland - Countryside",
+    "address": "6251 Joliet Rd, Countryside, IL, 60525 United States",
+    "distance": 2.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13500/13448/0617c078_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Holiday Inn Chicago - Countryside / Lagrange",
+    "address": "6201 Joliet Rd, Countryside, IL, 60525 United States",
+    "distance": 2.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9200/9128/9128_436_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "American Inn \u0026 Suites",
+    "address": "6401 Joliet Rd, La Grange, IL, 60525 United States",
+    "distance": 2.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5300000/5290400/5290352/5290352_31_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Colony Motel",
+    "address": "9232 West Ogden Ave, Brookfield, IL, 60513 United States",
+    "distance": 2.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13280000/13279000/13278969/cbfc9767_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "Best Western Plus Oakbrook Inn",
+    "address": "669 Pasquinelli Drive, Westmont, IL, 60559 United States",
+    "distance": 2.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/560000/556900/556860/9fe07b98_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Clubhouse Oakbrook Inn \u0026 Suites",
+    "address": "630 Pasquinelli Dr, Westmont, IL, 60559 United States",
+    "distance": 2.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8500/8492/8492_24_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Hampton Inn Chicago/Westchester (Oak Brook)",
+    "address": "2222 Enterprise Drive, Westchester, IL, 60154 United States",
+    "distance": 2.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16800/16741/16741_27_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Extended Stay America - Chicago - Westmont - Oak Brook",
+    "address": "855 Pasquinelli Dr, Westmont, IL, 60559 United States",
+    "distance": 2.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/117000/116994/116994_28_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "The Drake Hotel Oak Brook",
+    "address": "2301 York Rd, Oak Brook, IL, 60523 United States",
+    "distance": 3.1,
+    "rating": 4.1,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10470000/10465100/10465099/10465099_38_l.jpg"
+  },
+  {
+    "price": 161,
+    "name": "Springhill Suites by Marriott Chicago/Burr Ridge",
+    "address": "15 W 90 North Frontage Rd, Burr Ridge, IL, 60527 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/569900/569825/569825_89_l.jpg"
+  }
+]

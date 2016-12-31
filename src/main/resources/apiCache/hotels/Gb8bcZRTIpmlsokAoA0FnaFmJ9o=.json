@@ -1,0 +1,18 @@
+[
+  {
+    "price": 116,
+    "name": "Hampton Inn \u0026 Suites Salt Lake City/Farmington",
+    "address": "332 West Park Lane, Farmington, UT, 84025 United States",
+    "distance": 1.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7310000/7301700/7301636/7301636_6_l.jpg"
+  },
+  {
+    "price": 123,
+    "name": "Hyatt Place Salt Lake City/Farmington/Station Park",
+    "address": "222 North Union Ave, Farmington, UT, 84025 United States",
+    "distance": 1.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13570000/13563900/13563887/91454523_l.jpg"
+  }
+]

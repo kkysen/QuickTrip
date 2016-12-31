@@ -1,0 +1,18 @@
+[
+  {
+    "price": 97,
+    "name": "Holiday Inn Express \u0026 Suites Covington",
+    "address": "120 Deena Cv, Covington, TN, 38019 United States",
+    "distance": 0.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3380000/3378200/3378179/3378179_115_l.jpg"
+  },
+  {
+    "price": 49,
+    "name": "Days Inn Ripley TN",
+    "address": "555 Highway 51 N, Ripley, TN, 38063 United States",
+    "distance": 13.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14600/14531/61e00ad6_l.jpg"
+  }
+]

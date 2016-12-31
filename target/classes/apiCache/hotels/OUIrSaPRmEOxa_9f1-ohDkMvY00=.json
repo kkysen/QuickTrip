@@ -1,0 +1,82 @@
+[
+  {
+    "price": 118,
+    "name": "Comfort Inn",
+    "address": "7581 Auburn Rd, Rt 44 Off I-90, Painesville, OH, 44077 United States",
+    "distance": 6.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1180000/1180000/1179925/1179925_86_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Quail Hollow Resort",
+    "address": "11080 Concord-Hambden Rd, Painesville, OH, 44077 United States",
+    "distance": 6.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40200/40182/17a19d29_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Red Maple Inn",
+    "address": "14707 South Cheshire Route 700, Burton, OH, 44201 United States",
+    "distance": 8.1,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16450000/16441800/16441767/b55024a5_l.jpg"
+  },
+  {
+    "price": 167,
+    "name": "Punderson Manor Lodge and Conference Center",
+    "address": "11755 Kinsman Rd, Newbury, OH, 44065 United States",
+    "distance": 8.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1200000/1191800/1191735/1191735_64_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Best Western Plus Lawnfield Inn \u0026 Suites",
+    "address": "8434 Mentor Avenue, Mentor, OH, 44060 United States",
+    "distance": 9.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/660000/660000/659951/659951_103_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Days Inn Willoughby/Cleveland",
+    "address": "4145 State Route 306, I-90 and Route 306 Exit 193, Willoughby, OH, 44094 United States",
+    "distance": 10.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12400/12398/12398_109_l.jpg"
+  },
+  {
+    "price": 49,
+    "name": "Red Roof Inn Cleveland East - Willoughby",
+    "address": "4166 State Route 306, Willoughby, OH, 44094 United States",
+    "distance": 10.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13800/13716/13716_114_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Americas Best Value Inn-Mentor/Cleveland",
+    "address": "8370 Broadmoor Road, Mentor, OH, 44060 United States",
+    "distance": 10.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1010000/1000800/1000720/1000720_62_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "WoodSpring Suites Cleveland Mentor",
+    "address": "5650 Emerald Ct, Mentor, OH, 44060 United States",
+    "distance": 11.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2140000/2133800/2133715/462d85af_l.jpg"
+  },
+  {
+    "price": 130,
+    "name": "Hampton Inn \u0026 Suites Cleveland Mentor",
+    "address": "5675 Emerald Ct, Mentor, OH, 44060 United States",
+    "distance": 11.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2370000/2366900/2366817/2366817_11_l.jpg"
+  }
+]

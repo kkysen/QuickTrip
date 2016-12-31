@@ -1,0 +1,26 @@
+[
+  {
+    "price": 74,
+    "name": "Clubhouse Oakbrook Inn \u0026 Suites",
+    "address": "630 Pasquinelli Dr, Westmont, IL, 60559 United States",
+    "distance": 1.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8500/8492/8492_24_l.jpg"
+  },
+  {
+    "price": 78,
+    "name": "Best Western Plus Oakbrook Inn",
+    "address": "669 Pasquinelli Drive, Westmont, IL, 60559 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/560000/556900/556860/9fe07b98_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Extended Stay America - Chicago - Westmont - Oak Brook",
+    "address": "855 Pasquinelli Dr, Westmont, IL, 60559 United States",
+    "distance": 1.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/117000/116994/116994_28_l.jpg"
+  }
+]

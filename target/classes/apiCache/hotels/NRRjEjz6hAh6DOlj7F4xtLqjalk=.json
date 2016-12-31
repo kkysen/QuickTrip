@@ -1,0 +1,18 @@
+[
+  {
+    "price": 47,
+    "name": "Rodeway Inn Galax",
+    "address": "303 N Main St, Galax, VA, 24333 United States",
+    "distance": 0.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856100/856013/856013_21_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Hampton Inn Galax",
+    "address": "205 Cranberry Road, Galax, VA, 24333 United States",
+    "distance": 2.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2450000/2445500/2445451/2445451_64_l.jpg"
+  }
+]

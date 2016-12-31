@@ -74,7 +74,14 @@ public class ItineraryScreenModelTest {
     
     @Test
     public void testMany() {
-        IntStream.range(0, 100).forEach(i -> test());
+        IntStream.range(0, 100).forEach(i -> {
+            System.out.println("\n\t#" + i + "\n");
+            try {
+                test();
+            } catch (final NullPointerException e) {
+                e.printStackTrace();
+            }
+        });
     }
     
 }

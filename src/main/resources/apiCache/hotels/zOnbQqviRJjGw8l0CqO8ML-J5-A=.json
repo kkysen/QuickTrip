@@ -1,0 +1,74 @@
+[
+  {
+    "price": 78,
+    "name": "Super 8 Washington",
+    "address": "2081 Eckelkamp Ct, I-44, Exit 251 (Hwy. 100), Washington, MO, 63090 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459500/459418/459418_176_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Best Western Plus Washington Hotel",
+    "address": "2621 E 5th St, Washington, MO, 63090 United States",
+    "distance": 2.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1080000/1077200/1077183/fd0d8bbe_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Super 8 Union Missouri",
+    "address": "1015 East Main Street, I44 Exit 247 Hwy 50, Union, MO, 63084 United States",
+    "distance": 8.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/918800/918798/918798_143_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Super 8 St Clair MO",
+    "address": "1010 S Outer Rd, St. Clair, MO, 63077 United States",
+    "distance": 14.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/855500/855477/855477_120_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Budget Lodging",
+    "address": "866 South Outer Road, St. Clair, MO, 63077 United States",
+    "distance": 14.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1170000/1161500/1161498/1161498_21_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Baymont Inn Sullivan",
+    "address": "275 North Service Road West, Sullivan, MO, 63080 United States",
+    "distance": 25.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/120400/120376/120376_224_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Americas Best Value Inn",
+    "address": "307 North Service Road, Sullivan, MO, 63080 United States",
+    "distance": 25.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24100/24023/53cfd5f1_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Super 8 Sullivan MO",
+    "address": "601 N Service Rd W, Sullivan, MO, 63080 United States",
+    "distance": 26.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459800/459701/b56ebe47_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Comfort Inn Sullivan",
+    "address": "736 S Service Rd W, Sullivan, MO, 63080 United States",
+    "distance": 26.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1460000/1453000/1452969/1452969_52_l.jpg"
+  }
+]

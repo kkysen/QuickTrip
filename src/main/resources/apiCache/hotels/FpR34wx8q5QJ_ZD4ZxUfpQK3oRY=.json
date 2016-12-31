@@ -1,0 +1,50 @@
+[
+  {
+    "price": 36,
+    "name": "Rodeway Inn La Grande",
+    "address": "402 Adams Avenue, La Grande, OR, 97850 United States",
+    "distance": 11.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1970000/1966900/1966873/1966873_18_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Royal Motor Inn",
+    "address": "1510 Adams Ave, La Grande, OR, 97850 United States",
+    "distance": 11.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1470000/1467400/1467373/1467373_2_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Travelodge La Grande",
+    "address": "2215 Adams Ave, La Grande, OR, 97850 United States",
+    "distance": 11.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/542200/542110/cb9c8719_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Super 8 Lagrande OR",
+    "address": "2407 E R Ave, La Grande, OR, 97850 United States",
+    "distance": 12.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/125700/125686/125686_192_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Americas Best Value Sandman Inn",
+    "address": "2410 E R Ave, La Grande, OR, 97850 United States",
+    "distance": 12.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/910400/910395/910395_73_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "La Grande Inn",
+    "address": "2612 Island Ave, La Grande, OR, 97850 United States",
+    "distance": 12.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17000/16989/16989_10_l.jpg"
+  }
+]

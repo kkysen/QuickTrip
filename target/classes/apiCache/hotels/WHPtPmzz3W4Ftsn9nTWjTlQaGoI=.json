@@ -1,0 +1,18 @@
+[
+  {
+    "price": 50,
+    "name": "Modern Motel",
+    "address": "302 N K Ave, Vinton, IA, 52349 United States",
+    "distance": 0.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8720000/8716100/8716008/8716008_21_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Cobblestone Inn And Suites - Vinton",
+    "address": "1202 W 11th St, Vinton, IA, 52349 United States",
+    "distance": 0.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3560000/3551500/3551434/3551434_10_l.jpg"
+  }
+]

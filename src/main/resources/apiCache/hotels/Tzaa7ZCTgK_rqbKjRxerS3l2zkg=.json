@@ -1,0 +1,50 @@
+[
+  {
+    "price": 128,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Altoona-Des Moines",
+    "address": "165 Adventureland Drive NW, Altoona, IA, 50009 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1670000/1665200/1665173/92fba658_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Comfort Inn",
+    "address": "2101 Adventureland Dr, Altoona, IA, 50009 United States",
+    "distance": 1.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/852300/852246/852246_55_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Quality Inn \u0026 Suites Altoona - Des Moines",
+    "address": "2701 Adventureland Dr, Altoona, IA, 50009 United States",
+    "distance": 2.1,
+    "rating": 3.4,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42600/42561/42561_26_l.jpg"
+  },
+  {
+    "price": 108,
+    "name": "Adventureland Inn",
+    "address": "3200 Adventureland Dr, Altoona, IA, 50009 United States",
+    "distance": 2.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1110000/1107600/1107598/0a139ec5_l.jpg"
+  },
+  {
+    "price": 61,
+    "name": "Motel 6 Des Moines East - Altoona",
+    "address": "3225 Adventureland Dr, Altoona, IA, 50009 United States",
+    "distance": 2.3,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/996300/996237/996237_10_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "Best Western Plus Altoona Inn",
+    "address": "300 34th Avenue NW, Altoona, IA, 50009 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/49800/49702/52753c07_l.jpg"
+  }
+]

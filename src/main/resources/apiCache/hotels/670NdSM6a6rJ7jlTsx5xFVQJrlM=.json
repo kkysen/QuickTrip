@@ -1,0 +1,66 @@
+[
+  {
+    "price": 99,
+    "name": "Americas Best Value Inn \u0026 Suites",
+    "address": "400 Morrow Ave, Detroit Lakes, MN, 56501 United States",
+    "distance": 0.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/892800/892759/892759_170_l.jpg"
+  },
+  {
+    "price": 132,
+    "name": "Best Western Plus Holland House",
+    "address": "615 Highway 10 E, Detroit Lakes, MN, 56501 United States",
+    "distance": 1.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25200/25160/9b2da703_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Holiday Inn Detroit Lakes",
+    "address": "1155 Highway 10 East Becker, Detroit Lakes, MN, 56501 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10900/10813/10813_86_l.jpg"
+  },
+  {
+    "price": 147,
+    "name": "Best Western Premier The Lodge on Lake Detroit",
+    "address": "1200 E Shore Dr, Detroit Lakes, MN, 56501 United States",
+    "distance": 2.1,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1490000/1484300/1484245/1484245_149_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "Super 8 Perham",
+    "address": "106 Jake St, Perham, MN, 56573 United States",
+    "distance": 21.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459800/459765/459765_18_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "AmericInn Hotel \u0026 Suites Hawley",
+    "address": "1212 Jetvig Blvd, Hawley, MN, 56549 United States",
+    "distance": 23.0,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8750000/8741500/8741478/8741478_5_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Smoky Hills Wilderness Retreat",
+    "address": "53014 Highway 34, Osage, MN, 56570 United States",
+    "distance": 27.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15830000/15824700/15824650/a58f101d_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "The Otter Lodge",
+    "address": "306 N Highway 78, Ottertail, MN, 56571 United States",
+    "distance": 29.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12750000/12745200/12745154/12745154_3_l.jpg"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "price": 67,
+    "name": "Super 8 Kosciusko MS",
+    "address": "718 Veterans Memorial Dr, Kosciusko, MS, 39090 United States",
+    "distance": 3.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/906900/906856/906856_58_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Econo Lodge",
+    "address": "1052 Veterans Memorial Drive, Kosciusko, MS, 39090 United States",
+    "distance": 3.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23800/23716/23716_174_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 84,
+    "name": "Microtel Inn \u0026 Suites By Wyndham Beaver Falls",
+    "address": "2801 Darlington Rd, Beaver Falls, PA, 15010 United States",
+    "distance": 7.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11500000/11492000/11491962/f03d054c_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Das Dutch Village Inn",
+    "address": "150 East State Route 14, Columbiana, OH, 44408 United States",
+    "distance": 10.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4040000/4034200/4034187/4034187_1_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Super 8 Beaver Falls",
+    "address": "7099 Big Beaver Blvd, Beaver Falls, PA, 15010 United States",
+    "distance": 10.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2210000/2206000/2205958/2205958_56_l.jpg"
+  },
+  {
+    "price": 144,
+    "name": "Park Inn By Radisson Beaver Falls",
+    "address": "7195 Eastwood Drive, Beaver Falls, PA, 15010 United States",
+    "distance": 10.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19200/19103/59f8fbb1_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Davis Motel",
+    "address": "10860 Market Street, North Lima, OH, 44452 United States",
+    "distance": 11.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8030000/8025600/8025560/8025560_1_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Quality Inn",
+    "address": "15860 Saint Clair Ave, East Liverpool, OH, 43920 United States",
+    "distance": 12.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/560300/560222/560222_99_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Days Inn Lisbon",
+    "address": "40952 State Route 154, Lisbon, OH, 44432 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/74700/74620/21a93559_l.jpg"
+  },
+  {
+    "price": 106,
+    "name": "Holiday Inn Express \u0026 Suites North Lima",
+    "address": "10111 Market St, North Lima, OH, 44452 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/990000/986100/986052/986052_207_l.jpg"
+  },
+  {
+    "price": 200,
+    "name": "Americas Best Value Inn \u0026 Suites-N. Lima/Boardman",
+    "address": "9988 Market St, North Lima, OH, 44452 United States",
+    "distance": 12.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/200000/200000/199993/199993_26_l.jpg"
+  },
+  {
+    "price": 123,
+    "name": "Holiday Inn Express \u0026 Suites New Castle",
+    "address": "2732 West State Street, New Castle, PA, 16101 United States",
+    "distance": 14.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14850000/14842100/14842084/14842084_4_l.jpg"
+  }
+]

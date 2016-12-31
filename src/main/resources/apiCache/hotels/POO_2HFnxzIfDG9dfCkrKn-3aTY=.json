@@ -1,0 +1,82 @@
+[
+  {
+    "price": 177,
+    "name": "Hotel Murano, a Provenance Hotel",
+    "address": "1320 Broadway Plaza, Tacoma, WA, 98402 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4300/4213/4213_193_l.jpg"
+  },
+  {
+    "price": 209,
+    "name": "Courtyard by Marriott Tacoma Downtown",
+    "address": "1515 Commerce Street, Tacoma, WA, 98402 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1150000/1142300/1142271/1142271_74_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Tacoma Downtown",
+    "address": "2102 South C Street, Tacoma, WA, 98402 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5390000/5388900/5388888/5388888_196_l.jpg"
+  },
+  {
+    "price": 150,
+    "name": "The Villa Bed \u0026 Breakfast",
+    "address": "705 North 5th Street, Tacoma, WA, 98403 United States",
+    "distance": 1.1,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3050000/3048800/3048752/3048752_5_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Best Western Plus Tacoma Dome Hotel",
+    "address": "2611 E E St, Tacoma, WA, 98421 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3500/3473/3473_230_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Geiger Victorian Bed and Breakfast",
+    "address": "912 No. I St., Tacoma, WA, 98403 United States",
+    "distance": 1.4,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12060000/12059400/12059348/12059348_8_l.jpg"
+  },
+  {
+    "price": 147,
+    "name": "La Quinta Inn \u0026 Suites Tacoma Seattle",
+    "address": "1425 E 27th St, Tacoma, WA, 98421 United States",
+    "distance": 1.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5200/5122/599f87b5_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Extended Stay America - Tacoma - Fife",
+    "address": "2820 Pacific Hwy E, Fife, WA, 98424 United States",
+    "distance": 2.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84900/84884/84884_43_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "GuestHouse Inn Fife",
+    "address": "3021 Pacific Highway East, Fife, WA, 98424 United States",
+    "distance": 2.5,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6700/6634/6634_35_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Rodeway Inn \u0026 Suites",
+    "address": "3100 Pacific Hwy E, Fife, WA, 98424 United States",
+    "distance": 2.5,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/690000/688500/688439/688439_70_l.jpg"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "price": 139,
+    "name": "The Inn at the Crossroads",
+    "address": "128 West Main Street, Lake City, SC, 29560 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9150000/9142300/9142228/9142228_2_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "Days Inn Lake City",
+    "address": "170 S Ron Mcnair Blvd, Lake City, SC, 29560-3260 United States",
+    "distance": 0.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26600/26537/a536235c_l.jpg"
+  }
+]

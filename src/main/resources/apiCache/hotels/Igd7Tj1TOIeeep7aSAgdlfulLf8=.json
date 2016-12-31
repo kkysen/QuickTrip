@@ -1,0 +1,18 @@
+[
+  {
+    "price": 67,
+    "name": "Motel 6 Apache Junction, AZ",
+    "address": "251 East 29th Avenue, Apache Junction, AZ, 85119 United States",
+    "distance": 1.5,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/450000/440500/440442/440442_65_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Best Western Apache Junction Inn",
+    "address": "1101 W Apache Trl, Apache Junction, AZ, 85220 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/57200/57179/57179_76_l.jpg"
+  }
+]

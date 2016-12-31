@@ -1,0 +1,82 @@
+[
+  {
+    "price": 169,
+    "name": "The Guest House at Gulfport Landing",
+    "address": "1114 32nd Avenue, Gulfport, MS, 39501 United States",
+    "distance": 0.5,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9490000/9484900/9484847/9484847_8_l.jpg"
+  },
+  {
+    "price": 180,
+    "name": "The Almanett Hotel",
+    "address": "1514 18th Ave, Gulfport, MS, 39501 United States",
+    "distance": 0.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11720000/11716100/11716045/11716045_4_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "Courtyard by Marriott Gulfport Beachfront",
+    "address": "1600 E Beach Blvd, Gulfport, MS, 39501 United States",
+    "distance": 0.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11800/11797/11797_48_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "Wingate by Wyndham Gulfport MS",
+    "address": "4302 W Beach Blvd, Gulfport, MS, 39501 United States",
+    "distance": 1.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5090000/5087900/5087816/4aac34b7_l.jpg"
+  },
+  {
+    "price": 26,
+    "name": "Value Place Gulfport, MS",
+    "address": "8420 U.S. 49, Gulfport, MS, 39501 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1560000/1558900/1558846/1558846_10_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "Comfort Suites Gulfport",
+    "address": "9121 US Hwy 49, Gulfport, MS, 39503 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2960000/2958800/2958794/2958794_28_l.jpg"
+  },
+  {
+    "price": 25,
+    "name": "InTown Suites-Gulfport",
+    "address": "9145 Highway 49, Gulfport, MS, 39503 United States",
+    "distance": 3.3,
+    "rating": 1.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/670000/661000/660909/21c2c536_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Hilton Garden Inn Gulfport Airport",
+    "address": "14108 Airport Road, Gulfport, MS, 39503 United States",
+    "distance": 3.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2030000/2025500/2025445/2025445_3_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Residence Inn by Marriott Gulfport-Biloxi Airport",
+    "address": "14100 Airport Rd, Gulfport, MS, 39503 United States",
+    "distance": 3.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2040000/2039200/2039155/c4241f5f_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Days Inn Gulfport",
+    "address": "15250 Poole St, Gulfport, MS, 39503 United States",
+    "distance": 3.6,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21800/21703/f55569e3_l.jpg"
+  }
+]

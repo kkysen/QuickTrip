@@ -1,0 +1,50 @@
+[
+  {
+    "price": 84,
+    "name": "Hawthorn Suites by Wyndham Chicago Hoffman Estates",
+    "address": "2875 Greenspoint Pkwy, Hoffman Estates, IL, 60169 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/220000/211800/211750/211750_306_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Hampton Inn \u0026 Suites Chicago/Hoffman Estates",
+    "address": "2825 Greenspoint Pkwy, Hoffman Estates, IL, 60196 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/74500/74428/74428_34_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Hyatt Place Chicago/Hoffman Estates",
+    "address": "2750 Greenspoint Pkwy, Hoffman Estates, IL, 60169 United States",
+    "distance": 2.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/67700/67693/7762ed0e_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Hoffman Inn \u0026 Suites",
+    "address": "2280 Barrington Rd, Hoffman Estates, IL, 60195 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14300/14241/9386d3ed_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Hilton Garden Inn Hoffman Estates",
+    "address": "2425 Barrington Road, Hoffman Estates, IL, 60195 United States",
+    "distance": 2.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/562000/561938/cd1c10b2_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Americas Best Value Inn - Barrington/Chicago West",
+    "address": "405 West Northwest Highway, Barrington, IL, 60010 United States",
+    "distance": 6.3,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42100/42044/42044_103_l.jpg"
+  }
+]

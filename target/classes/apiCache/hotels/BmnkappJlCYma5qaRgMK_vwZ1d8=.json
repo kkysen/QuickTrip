@@ -1,0 +1,34 @@
+[
+  {
+    "price": 81,
+    "name": "Baymont Inn Sullivan",
+    "address": "275 North Service Road West, Sullivan, MO, 63080 United States",
+    "distance": 0.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/120400/120376/120376_224_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Americas Best Value Inn",
+    "address": "307 North Service Road, Sullivan, MO, 63080 United States",
+    "distance": 0.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24100/24023/53cfd5f1_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Comfort Inn Sullivan",
+    "address": "736 S Service Rd W, Sullivan, MO, 63080 United States",
+    "distance": 0.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1460000/1453000/1452969/1452969_52_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Super 8 Sullivan MO",
+    "address": "601 N Service Rd W, Sullivan, MO, 63080 United States",
+    "distance": 0.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459800/459701/b56ebe47_l.jpg"
+  }
+]

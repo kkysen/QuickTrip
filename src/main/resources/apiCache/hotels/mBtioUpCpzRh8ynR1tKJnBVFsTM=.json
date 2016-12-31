@@ -1,0 +1,26 @@
+[
+  {
+    "price": 149,
+    "name": "Capitol Plaza Hotel \u0026 Conference Center",
+    "address": "100 State St, Montpelier, VT, 05602 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6260000/6250400/6250332/0604c35a_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Econo Lodge Montpelier",
+    "address": "101 Northfield St, Montpelier, VT, 05602 United States",
+    "distance": 0.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/800/730/730_29_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Hilltop Inn of Vermont",
+    "address": "3472 Airport Road, Montpelier, VT, 05602 United States",
+    "distance": 3.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/917800/917799/917799_5_l.jpg"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "price": 149,
+    "name": "The Sebastopol Inn",
+    "address": "6751 Sebastopol Ave, Sebastopol, CA, 95472 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/899400/899378/899378_5_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Fairfield Inn \u0026 Suites Santa Rosa Sebastopol",
+    "address": "1101 Gravenstein Hwy S, Sebastopol, CA, 95472 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/116900/116866/2216efca_l.jpg"
+  }
+]

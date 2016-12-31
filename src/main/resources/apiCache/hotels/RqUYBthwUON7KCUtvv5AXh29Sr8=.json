@@ -1,0 +1,42 @@
+[
+  {
+    "price": 85,
+    "name": "Econo Lodge Fort Lee",
+    "address": "2143 Hudson Ter, Fort Lee, NJ, 07024 United States",
+    "distance": 0.5,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1680000/1677600/1677512/1677512_36_l.jpg"
+  },
+  {
+    "price": 132,
+    "name": "DoubleTree by Hilton Fort Lee - George Washington Bridge",
+    "address": "2117 Route 4 Eastbound, Fort Lee, NJ, 07024 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40900/40817/40817_80_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "Skyview Motel",
+    "address": "1560 Bergen Blvd, Route 46 East, Fort Lee, NJ, 07024 United States",
+    "distance": 0.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4140000/4134400/4134333/4134333_1_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Best Western Fort Lee",
+    "address": "2300 Route 4, Fort Lee, NJ, 07024 United States",
+    "distance": 1.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43200/43171/43171_167_l.jpg"
+  },
+  {
+    "price": 160,
+    "name": "Holiday Inn GW Bridge-Fort Lee NYC Area",
+    "address": "2339 Route 4, Fort Lee, NJ, 07024 United States",
+    "distance": 1.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13900/13859/13859_152_l.jpg"
+  }
+]

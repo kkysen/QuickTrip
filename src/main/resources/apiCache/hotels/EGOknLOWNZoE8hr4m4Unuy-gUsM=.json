@@ -1,0 +1,26 @@
+[
+  {
+    "price": 92,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "3610 W Outer Rd, Arnold, MO, 63010 United States",
+    "distance": 1.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/790000/788900/788815/788815_62_l.jpg"
+  },
+  {
+    "price": 96,
+    "name": "Pear Tree Inn St. Louis Arnold",
+    "address": "1201 Drury Ln, Arnold, MO, 63010 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40200/40112/94db1722_l.jpg"
+  },
+  {
+    "price": 166,
+    "name": "Drury Inn \u0026 Suites St. Louis Arnold",
+    "address": "3800 State Rt 141, Arnold, MO, 63010 United States",
+    "distance": 1.2,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3870000/3861200/3861101/3861101_37_l.jpg"
+  }
+]

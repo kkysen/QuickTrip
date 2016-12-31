@@ -1,0 +1,18 @@
+[
+  {
+    "price": 56,
+    "name": "Days Inn \u0026 Suites Siler City",
+    "address": "1515 E 11th St, Siler City, NC, 27344 United States",
+    "distance": 1.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/530000/522500/522458/522458_69_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "America\u0027s Best Inn Siler City",
+    "address": "235 Chatham Square, Siler City, NC, 27344 United States",
+    "distance": 1.4,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/534500/534417/534417_52_l.jpg"
+  }
+]

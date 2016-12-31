@@ -1,0 +1,82 @@
+[
+  {
+    "price": 112,
+    "name": "Holiday Inn Express St Paul S - Inver Grove Hgts",
+    "address": "5653 Bishop Avenue, Inver Grove Heights, MN, 55076 United States",
+    "distance": 2.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/119400/119324/119324_155_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Inver Grove Heights/Minneap",
+    "address": "5681 Bishop Avenue, Inver Grove Heights, MN, 55076 United States",
+    "distance": 2.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/700000/699500/699408/26572812_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "AmericInn Hotel \u0026 Suites Inver Grove Heights",
+    "address": "5861 Blaine Ave, Inver Grove Heights, MN, 55076 United States",
+    "distance": 3.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/797600/797566/797566_43_l.jpg"
+  },
+  {
+    "price": 153,
+    "name": "InterContinental Saint Paul Riverfront",
+    "address": "11 Kellogg Blvd E, St. Paul, MN, 55101 United States",
+    "distance": 3.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17100/17005/17005_672_l.jpg"
+  },
+  {
+    "price": 187,
+    "name": "The Saint Paul Hotel",
+    "address": "350 Market St, St. Paul, MN, 55102 United States",
+    "distance": 3.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19700/19645/19645_5_l.jpg"
+  },
+  {
+    "price": 144,
+    "name": "Hampton Inn \u0026 Suites Downtown St. Paul",
+    "address": "200 West 7th Street, St. Paul, MN, 55102 United States",
+    "distance": 3.0,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15710000/15703100/15703091/cfc42c73_l.jpg"
+  },
+  {
+    "price": 142,
+    "name": "Holiday Inn St. Paul Downtown",
+    "address": "175 7th Street W, St. Paul, MN, 55102 United States",
+    "distance": 3.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/690000/687900/687822/687822_296_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "enVision Hotel St. Paul South, an Ascend Hotel Collection",
+    "address": "701 Concord Street S, South St. Paul, MN, 55075 United States",
+    "distance": 3.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27700/27698/41b1836e_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Hyatt Place St. Paul/Downtown",
+    "address": "180 Kellogg Boulevard East, St. Paul, MN, 55101 United States",
+    "distance": 3.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15140000/15137200/15137153/d76872d3_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "DoubleTree by Hilton Hotel St. Paul Downtown",
+    "address": "411 Minnesota St, St. Paul, MN, 55101 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5300/5300/5300_64_l.jpg"
+  }
+]

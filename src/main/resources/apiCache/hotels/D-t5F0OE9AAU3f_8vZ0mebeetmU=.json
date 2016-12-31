@@ -1,0 +1,82 @@
+[
+  {
+    "price": 121,
+    "name": "Higher Ground Hotel",
+    "address": "200 N. Delaware, Independence, MO, 64050 United States",
+    "distance": 0.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1310000/1309100/1309097/1309097_67_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Woodstock Inn B\u0026B",
+    "address": "1212 W Lexington St, Independence, MO, 64050 United States",
+    "distance": 0.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1510000/1505000/1504922/1504922_44_l.jpg"
+  },
+  {
+    "price": 106,
+    "name": "Silver Heart Inn Bed \u0026 Breakfast",
+    "address": "1114 S Noland Rd, Independence, MO, 64050 United States",
+    "distance": 0.9,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12810000/12806300/12806211/12806211_59_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Hawthorn - A Bed \u0026 Breakfast",
+    "address": "1 Hawthorne Place, Independence, MO, 64052 United States",
+    "distance": 2.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2550000/2544500/2544481/2544481_60_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Super 8 Independence Kansas City",
+    "address": "4032 S Lynn Court Dr, Independence, MO, 64055 United States",
+    "distance": 3.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459700/459612/453a5c00_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "Best Western Truman Inn",
+    "address": "4048 S Lynn Ct, Independence, MO, 64055 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12300/12220/12220_125_l.jpg"
+  },
+  {
+    "price": 106,
+    "name": "Quality Inn \u0026 Suites Kansas City - Independence I-70 East",
+    "address": "4200 S Noland Road, Independence, MO, 64055 United States",
+    "distance": 3.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9500/9467/9467_104_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Red Roof Inn KC Sports Complex - Independence",
+    "address": "4142 S. Noland Rd, I-70 \u0026 Noland Rd, Exit# 12, Independence, MO, 64055 United States",
+    "distance": 3.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2480000/2470600/2470576/4925fff9_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Americas Best Value Inn - Kansas City East / Independence",
+    "address": "13710 East 42nd Terrace, Independence, MO, 64055 United States",
+    "distance": 3.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5200/5150/5150_121_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Days Inn Independence",
+    "address": "13712 E 42nd Terrace South, Independence, MO, 64055 United States",
+    "distance": 3.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5350000/5349100/5349072/5349072_151_l.jpg"
+  }
+]

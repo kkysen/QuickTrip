@@ -1,0 +1,82 @@
+[
+  {
+    "price": 72,
+    "name": "Econo Lodge Wickliffe - Cleveland East",
+    "address": "28611 Euclid Ave, Wickliffe, OH, 44092 United States",
+    "distance": 1.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8200/8140/91228f0a_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Fairbridge Hotel Cleveland East",
+    "address": "28600 Ridgehills Drive, Wickliffe, OH, 44092 United States",
+    "distance": 1.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16800/16757/16757_96_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "SKYLIGHT INN CLEVELAND - WILLOUGHBY",
+    "address": "34600 Maplegrove Rd, Willoughby, OH, 44094 United States",
+    "distance": 4.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16890000/16888600/16888552/98cfc927_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Motel 6 Cleveland-Willoughby",
+    "address": "35110 Maplegrove Road, Willoughby, OH, 44094 United States",
+    "distance": 4.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21800/21790/21790_40_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Courtyard by Marriott Cleveland Willoughby",
+    "address": "35103 Maplegrove Rd, Willoughby, OH, 44094 United States",
+    "distance": 4.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/280900/280889/280889_49_l.jpg"
+  },
+  {
+    "price": 131,
+    "name": "Radisson Hotel \u0026 Suites Cleveland- Eastlake",
+    "address": "35000 Curtis Blvd, Eastlake, OH, 44095 United States",
+    "distance": 5.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7300/7210/7210_40_l.jpg"
+  },
+  {
+    "price": 144,
+    "name": "Hilton Garden Inn Cleveland East/Mayfield Village",
+    "address": "700 Beta Dr, Mayfield, OH, 44143 United States",
+    "distance": 5.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2170000/2169500/2169420/2169420_24_l.jpg"
+  },
+  {
+    "price": 136,
+    "name": "Holiday Inn Cleveland-Mayfield",
+    "address": "780 Beta Dr, Mayfield, OH, 44143 United States",
+    "distance": 5.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13600/13573/13573_118_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "Comfort Inn Mayfield Heights Cleveland East",
+    "address": "1421 Golden Gate Blvd, Mayfield Heights, OH, 44124 United States",
+    "distance": 6.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/49700/49650/49650_174_l.jpg"
+  },
+  {
+    "price": 188,
+    "name": "Hyatt Place Cleveland/Lyndhurst/Legacy Village",
+    "address": "24665 Cedar Road, Lyndhurst, OH, 44124 United States",
+    "distance": 6.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14750000/14742300/14742268/7e2657df_l.jpg"
+  }
+]

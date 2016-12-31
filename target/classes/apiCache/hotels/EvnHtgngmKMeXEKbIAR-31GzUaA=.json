@@ -1,0 +1,34 @@
+[
+  {
+    "price": 58,
+    "name": "Econo Lodge",
+    "address": "232 Phillips Rd, Waynesville, NC, 28786 United States",
+    "distance": 1.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12660000/12654900/12654890/12654890_21_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "The Waynesville Inn Golf Resort and Spa",
+    "address": "176 Country Club Drive, Waynesville, NC, 28786 United States",
+    "distance": 1.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2450000/2443800/2443730/08c22db2_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Best Western Smoky Mountain Inn",
+    "address": "130 Shiloh Trl, Waynesville, NC, 28786 United States",
+    "distance": 2.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15400/15303/452b18c0_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Super 6",
+    "address": "79 Liner Cove Rd, Waynesville, NC, 28786 United States",
+    "distance": 2.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1110000/1101500/1101472/fa47466f_l.jpg"
+  }
+]

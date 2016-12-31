@@ -1,0 +1,42 @@
+[
+  {
+    "price": 124,
+    "name": "Holiday Inn Express Olean",
+    "address": "101 Main St, Olean, NY, 14760 United States",
+    "distance": 0.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/117400/117399/575feb3e_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "Best Western Plus University Inn",
+    "address": "3051 W State Street Olean, Olean, NY, 14760 United States",
+    "distance": 1.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1120000/1113200/1113157/fe0e966d_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Olean/Allegany",
+    "address": "3234 Nys Route 417, Olean, NY, 14760 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1090000/1086100/1086098/f7e61d7d_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Olean",
+    "address": "3270 Route 417, Olean, NY, 14760 United States",
+    "distance": 2.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/810000/801400/801340/856998fb_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Moonlight Motel",
+    "address": "3363 Route 16, Olean, NY, 14760 United States",
+    "distance": 4.7,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15870000/15865700/15865687/7364a323_l.jpg"
+  }
+]

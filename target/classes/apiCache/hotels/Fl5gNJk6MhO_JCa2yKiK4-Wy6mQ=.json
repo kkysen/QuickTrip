@@ -1,0 +1,18 @@
+[
+  {
+    "price": 73,
+    "name": "Weston Inn \u0026 Suites",
+    "address": "590 North Dickinson Drive, Rusk, TX, 75785 United States",
+    "distance": 2.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/5000000/4999200/4999169/4999169_14_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Executive Inn",
+    "address": "1007 N Dickinson Dr, Rusk, TX, 75785 United States",
+    "distance": 3.4,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15230000/15228000/15227901/39e95803_l.jpg"
+  }
+]

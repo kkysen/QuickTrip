@@ -1,0 +1,26 @@
+[
+  {
+    "price": 107,
+    "name": "Hampton Inn Salt Lake City North",
+    "address": "2393 S 800 W, Woods Cross, UT, 84087 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19500/19429/19429_56_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Motel 6 Salt Lake City Nrth - Woods Cross",
+    "address": "2433 S 800 W, Woods Cross, UT, 84087 United States",
+    "distance": 2.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/996200/996178/996178_45_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Comfort Inn \u0026 Suites Woods Cross - Salt Lake City North",
+    "address": "2437 S Wildcat Way, Woods Cross, UT, 84010 United States",
+    "distance": 2.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13100/13092/13092_77_l.jpg"
+  }
+]

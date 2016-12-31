@@ -1,0 +1,82 @@
+[
+  {
+    "price": 149,
+    "name": "Hilton Hasbrouck Heights/Meadowlands",
+    "address": "650 Terrace Ave, Hasbrouck Heights, NJ, 07604 United States",
+    "distance": 1.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/700/643/643_25_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Home2 Suites by Hilton Hasbrouck Heights",
+    "address": "377 Route 17 South, Hasbrouck Heights, NJ, 07604 United States",
+    "distance": 1.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15440000/15438800/15438766/4e550a75_l.jpg"
+  },
+  {
+    "price": 123,
+    "name": "Holiday Inn Hasbrouck Heights-Meadowlands",
+    "address": "283 State Route 17, Hasbrouck Heights, NJ, 07604 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23100/23056/f5bd4cfb_l.jpg"
+  },
+  {
+    "price": 182,
+    "name": "Saddle Brook Marriott",
+    "address": "138 New Pehle Avenue, Saddle Brook, NJ, 07663 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7700/7620/7620_46_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Crowne Plaza Saddle Brook",
+    "address": "50 Kenny Pl, Saddle Brook, NJ, 07663 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9200/9148/7f42e9aa_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "Garden Plaza Hotel",
+    "address": "129 Pehle Avenue, Saddle Brook, NJ, 07663 United States",
+    "distance": 2.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/400/387/387_132_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Red Carpet Inn Elmwood Park",
+    "address": "204 Route 46 East Bergen, Elmwood Park, NJ, 07407 United States",
+    "distance": 2.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1150000/1142300/1142279/1142279_53_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "Travelodge South Hackensack",
+    "address": "636 Huyler St, Teterboro, NJ, 07606 United States",
+    "distance": 2.2,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15130000/15124600/15124578/d63172dd_l.jpg"
+  },
+  {
+    "price": 94,
+    "name": "Townhouse Inn \u0026 Suites",
+    "address": "50 Us Hwy Rr 46, Elmwood Park, NJ, 07407 United States",
+    "distance": 2.4,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1860000/1852800/1852772/1852772_2_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Knights Inn South Hackensack NJ/NYC Area",
+    "address": "410 Rt 46 West I 80 Exit 64, South Hackensack, NJ, 07606 United States",
+    "distance": 2.5,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/894700/894631/894631_25_l.jpg"
+  }
+]

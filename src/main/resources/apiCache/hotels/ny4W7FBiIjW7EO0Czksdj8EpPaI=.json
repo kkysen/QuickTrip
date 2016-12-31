@@ -1,0 +1,82 @@
+[
+  {
+    "price": 165,
+    "name": "The Euro Chalet",
+    "address": "9251 Golf Course Road NW, Sugarcreek, OH, 44681 United States",
+    "distance": 1.7,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15660000/15651900/15651860/8e5738e4_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Country Inn and Suites Dover, OH",
+    "address": "1120 Gateway Place, Dover, OH, 44622 United States",
+    "distance": 7.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5130000/5126900/5126848/5126848_14_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Comfort Inn",
+    "address": "2024 SR 39 N.W., Dover, OH, 44622 United States",
+    "distance": 7.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26400/26303/26303_68_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "77 Inn \u0026 Grill",
+    "address": "889 Commercial Parkway, Dover, OH, 44622 United States",
+    "distance": 8.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9850000/9846700/9846608/9846608_3_l.jpg"
+  },
+  {
+    "price": 112,
+    "name": "Berlin Grande Hotel",
+    "address": "4787 Township Rd. 366, Berlin, OH, 44610 United States",
+    "distance": 8.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4200000/4190800/4190752/b4b15720_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Ramada Strasburg/Dover",
+    "address": "509 S Wooster Ave, Strasburg, OH, 44680 United States",
+    "distance": 8.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/200600/200528/200528_68_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Hampton Inn New Philadelphia",
+    "address": "1299 W. High Street, New Philadelphia, OH, 44663 United States",
+    "distance": 8.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/560000/551300/551220/551220_57_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Zinck\u0027s Inn",
+    "address": "4703 State Route 39, Berlin, OH, 44610 United States",
+    "distance": 8.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11960000/11953700/11953606/11953606_138_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Best Western Dutch Valley Inn",
+    "address": "161 Bluebell Drive SW, New Philadelphia, OH, 44663 United States",
+    "distance": 8.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3510000/3505200/3505122/3505122_40_l.jpg"
+  },
+  {
+    "price": 48,
+    "name": "Americas Best Value Inn",
+    "address": "181 Bluebell Dr Sw, New Philadelphia, OH, 44663 United States",
+    "distance": 8.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1050000/1046300/1046250/1046250_12_l.jpg"
+  }
+]

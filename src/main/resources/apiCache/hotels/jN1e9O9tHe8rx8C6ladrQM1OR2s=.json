@@ -1,0 +1,82 @@
+[
+  {
+    "price": 159,
+    "name": "Americas Best Value Inn Mountain View",
+    "address": "1012 W El Camino Real, Mountain View, CA, 94040 United States",
+    "distance": 0.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1110000/1107700/1107605/1107605_68_l.jpg"
+  },
+  {
+    "price": 305,
+    "name": "Holiday Inn Express Mountain View - S Palo Alto",
+    "address": "1561 West El Camino Real, Mountain View, CA, 94040 United States",
+    "distance": 0.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21000/20943/20943_117_l.jpg"
+  },
+  {
+    "price": 199,
+    "name": "Super 8 Mountain View",
+    "address": "1665 W El Camino Real, Mountain View, CA, 94040 United States",
+    "distance": 0.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856100/856094/856094_119_l.jpg"
+  },
+  {
+    "price": 182,
+    "name": "Global Luxury Suites at Mountain View",
+    "address": "1720 El Camino Real, Mountain View, CA, 94040 United States",
+    "distance": 0.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16410000/16404500/16404421/651adb09_l.jpg"
+  },
+  {
+    "price": 244,
+    "name": "Hotel Vue",
+    "address": "64 W El Camino Real, Mountain View, CA, 94040 United States",
+    "distance": 0.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/420000/414000/413992/413992_34_l.jpg"
+  },
+  {
+    "price": 279,
+    "name": "Residence Inn by Marriott Palo Alto Mountain View",
+    "address": "1854 W El Camino Real, Mountain View, CA, 94040 United States",
+    "distance": 0.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15800/15729/c1f5562a_l.jpg"
+  },
+  {
+    "price": 249,
+    "name": "Hotel Zico",
+    "address": "200 E El Camino Real, Mountain View, CA, 94040 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/420000/414000/413943/413943_73_l.jpg"
+  },
+  {
+    "price": 153,
+    "name": "Extended Stay America San Jose - Mountain View",
+    "address": "190 E El Camino Real, Mountain View, CA, 94040 United States",
+    "distance": 1.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/118300/118241/118241_53_l.jpg"
+  },
+  {
+    "price": 156,
+    "name": "County Inn",
+    "address": "850 Leong Dr, Mountain View, CA, 94043 United States",
+    "distance": 1.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23100/23005/7361f300_l.jpg"
+  },
+  {
+    "price": 170,
+    "name": "Quality Inn \u0026 Suites-Mountain View",
+    "address": "5 Fairchild Dr, Mountain View, CA, 94043 United States",
+    "distance": 1.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/930000/922200/922114/922114_41_l.jpg"
+  }
+]

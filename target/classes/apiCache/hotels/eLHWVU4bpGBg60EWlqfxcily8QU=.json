@@ -1,0 +1,82 @@
+[
+  {
+    "price": 139,
+    "name": "Wild Rose Manor Bed and Breakfast",
+    "address": "5800 Oasis Road, Caldwell, ID, 83607 United States",
+    "distance": 14.0,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2310000/2302000/2301922/2301922_5_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "I-84 Motor Inn",
+    "address": "505 Hannibal St, Caldwell, ID, 83605 United States",
+    "distance": 17.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15260000/15258800/15258719/0245b2d7_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Springhill Suites by Marriott Boise",
+    "address": "6325 North Cloverdale, Boise, ID, 83713 United States",
+    "distance": 17.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1180000/1177400/1177359/1177359_21_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Best Western Plus Caldwell Inn \u0026 Suites",
+    "address": "908 Specht Ave, Caldwell, ID, 83605 United States",
+    "distance": 17.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84500/84445/84445_200_l.jpg"
+  },
+  {
+    "price": 94,
+    "name": "La Quinta Inn Caldwell",
+    "address": "901 Specht Ave, Caldwell, ID, 83605 United States",
+    "distance": 17.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15100/15097/991d92d9_l.jpg"
+  },
+  {
+    "price": 199,
+    "name": "Hampton Inn \u0026 Suites Boise/Nampa at the Idaho Center",
+    "address": "5750 E Franklin Rd, Nampa, ID, 83687 United States",
+    "distance": 19.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/980000/973700/973634/27f2c44c_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Boise Nampa",
+    "address": "16150 Midland Blvd, Nampa, ID, 83687 United States",
+    "distance": 19.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2190000/2188300/2188228/2188228_83_l.jpg"
+  },
+  {
+    "price": 120,
+    "name": "Shilo Inn Suites Hotel - Nampa Suites - Idaho",
+    "address": "1401 Shilo Dr, Nampa, ID, 83687 United States",
+    "distance": 19.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21400/21338/21338_30_l.jpg"
+  },
+  {
+    "price": 154,
+    "name": "Holiday Inn Express \u0026 Suites Nampa - Idaho Center",
+    "address": "4104 East Flamingo Ave, Nampa, ID, 83687 United States",
+    "distance": 19.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1700000/1696000/1695942/1695942_126_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Sleep Inn Nampa",
+    "address": "1315 Industrial Rd, Nampa, ID, 83687 United States",
+    "distance": 19.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42100/42046/42046_76_l.jpg"
+  }
+]

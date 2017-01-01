@@ -57,6 +57,10 @@ public class Internet {
      */
     private static final BrowserVersion HTML_UNIT_BROWSER_VERSION = BrowserVersion.CHROME;
     
+    /**
+     * helpful for catching lots of exceptions in streams, but probably not a
+     * good idea to use
+     */
     private static boolean suppressedExceptions;
     
     public static boolean hasSuppressedExceptions() {
@@ -71,24 +75,35 @@ public class Internet {
         suppressedExceptions = false;
     }
     
+    /**
+     * @param url a URL
+     * @return an InputStreamReader of the HTTP response to the url
+     * @throws IOException an IOException
+     */
     public static InputStreamReader getInputStreamReader(final String url) throws IOException {
         return new InputStreamReader(new URL(url).openStream());
     }
     
+    /**
+     * @param url a URL
+     * @return a BufferedReader of the HTTP response to the url
+     * @throws IOException an IOException
+     */
     public static BufferedReader getBufferedReader(final String url) throws IOException {
         return new BufferedReader(getInputStreamReader(url));
     }
     
+    /**
+     * @param url a URL
+     * @return an InputStreamReader of the HTTP response to the url, which has
+     *         an Accept header of application/json so that the response is JSON
+     *         formatted
+     * @throws IOException an IOException
+     */
     public static InputStreamReader getJsonInputStreamReader(final String url) throws IOException {
         final HttpURLConnection urlCon = (HttpURLConnection) new URL(url).openConnection();
         urlCon.setRequestProperty("Content-Type", "application/json; charset=UTF-8");
         urlCon.setRequestProperty("Accept", "application/json");
-        //urlCon.setRequestProperty("Connection", "keep-alive");
-        //urlCon.setRequestProperty("Upgrade-Insecure-Requests", "1");
-        /*System.out.println("headers");
-        for (int x = 0; x < urlCon.getHeaderFields().size();x++) {
-        	System.out.println(urlCon.getHeaderFieldKey(x) + ": " + urlCon.getHeaderField(x));
-        }*/
         urlCon.connect();
         return new InputStreamReader(urlCon.getInputStream());
     }
@@ -112,7 +127,6 @@ public class Internet {
     }
     
     /**
-     * .....
      * returns a Jsoup Document
      * 
      * @param url URL of the website
@@ -203,8 +217,13 @@ public class Internet {
         
     }
     
-    public static Document getRenderedDocument(final String url)
-            throws FailingHttpStatusCodeException, MalformedURLException, IOException {
+    /**
+     * @param url a URL
+     * @return a Jsoup Document of the website after the JavaScript has been run
+     *         (post-DOM modifications) using HtmlUnit
+     * @throws IOException an IOException
+     */
+    public static Document getRenderedDocument(final String url) throws IOException {
         final WebClient webClient = getSilencedWebClient();
         final HtmlPage page = webClient.getPage(url);
         final File tempFile = new File("tempHtmlPage.html");

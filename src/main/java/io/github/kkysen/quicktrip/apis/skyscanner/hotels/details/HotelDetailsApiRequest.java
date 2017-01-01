@@ -96,8 +96,12 @@ public class HotelDetailsApiRequest extends SkyscannerApiRequest<HotelDetailsRes
                 ids);
         //System.out.println(ids.get(0));
         //System.out.println(r.mHotelIds.get(0));
-        final HotelDetailsResponse response = request.getResponse();
-        System.out.println(gson.toJson(response));
+        try {
+            final HotelDetailsResponse response = request.getResponse();
+            System.out.println(gson.toJson(response));
+        } catch (final IOException e) {
+            e.printStackTrace();
+        }
     }
     
 }

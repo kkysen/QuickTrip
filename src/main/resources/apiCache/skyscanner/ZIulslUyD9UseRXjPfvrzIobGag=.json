@@ -13,17 +13,8 @@
       "id": 46974582,
       "agent_prices": [
         {
-          "id": 224,
-          "price_total": 130
-        }
-      ]
-    },
-    {
-      "id": 46944653,
-      "agent_prices": [
-        {
-          "id": 224,
-          "price_total": 125
+          "id": 17,
+          "price_total": 134
         }
       ]
     },
@@ -46,11 +37,11 @@
       ]
     },
     {
-      "id": 46985037,
+      "id": 46944653,
       "agent_prices": [
         {
-          "id": 224,
-          "price_total": 198
+          "id": 111,
+          "price_total": 141
         }
       ]
     },
@@ -58,8 +49,17 @@
       "id": 117334836,
       "agent_prices": [
         {
-          "id": 17,
+          "id": 183,
           "price_total": 117
+        }
+      ]
+    },
+    {
+      "id": 46985037,
+      "agent_prices": [
+        {
+          "id": 17,
+          "price_total": 204
         }
       ]
     },
@@ -154,46 +154,6 @@
       "distance_from_search": 0.915
     },
     {
-      "name": "Millenium Hilton",
-      "hotel_id": 46944653,
-      "address": ", ",
-      "popularity": 82,
-      "amenities": [
-        27,
-        1,
-        23,
-        7,
-        12,
-        11,
-        28,
-        3,
-        29,
-        10,
-        30,
-        24,
-        13,
-        31,
-        32,
-        19,
-        0,
-        4,
-        9,
-        33,
-        21,
-        34,
-        18,
-        17,
-        2,
-        35,
-        14,
-        16
-      ],
-      "latitude": 40.7112,
-      "longitude": -74.01046,
-      "star_rating": 4.0,
-      "distance_from_search": 0.892
-    },
-    {
       "name": "Club Quarters Hotel Wall Street",
       "hotel_id": 46953691,
       "address": ", ",
@@ -211,7 +171,7 @@
         10,
         18,
         12,
-        31,
+        27,
         15,
         16,
         17,
@@ -230,29 +190,29 @@
       "popularity": 88,
       "amenities": [
         1,
-        36,
+        28,
         7,
         12,
         15,
         11,
-        37,
-        38,
+        29,
+        30,
         3,
         10,
         24,
         13,
+        27,
         31,
-        32,
         19,
         0,
-        39,
+        32,
         6,
         9,
         21,
         23,
         16,
         17,
-        35,
+        33,
         14,
         4
       ],
@@ -262,6 +222,74 @@
       "distance_from_search": 0.653
     },
     {
+      "name": "Millenium Hilton",
+      "hotel_id": 46944653,
+      "address": ", ",
+      "popularity": 82,
+      "amenities": [
+        34,
+        1,
+        23,
+        7,
+        12,
+        11,
+        35,
+        3,
+        36,
+        10,
+        37,
+        24,
+        13,
+        27,
+        31,
+        19,
+        0,
+        4,
+        9,
+        38,
+        21,
+        39,
+        18,
+        17,
+        2,
+        33,
+        14,
+        16
+      ],
+      "latitude": 40.7112,
+      "longitude": -74.01046,
+      "star_rating": 4.0,
+      "distance_from_search": 0.892
+    },
+    {
+      "name": "Eurostars Wall Street",
+      "hotel_id": 117334836,
+      "address": ", ",
+      "popularity": 76,
+      "amenities": [
+        17,
+        40,
+        21,
+        23,
+        14,
+        7,
+        33,
+        9,
+        13,
+        11,
+        12,
+        41,
+        15,
+        42,
+        16,
+        4
+      ],
+      "latitude": 40.70522,
+      "longitude": -74.00619,
+      "star_rating": 4.0,
+      "distance_from_search": 0.746
+    },
+    {
       "name": "Andaz Wall Street - A Hyatt Hotel",
       "hotel_id": 46985037,
       "address": ", ",
@@ -269,20 +297,20 @@
       "amenities": [
         1,
         8,
-        40,
+        43,
         23,
         7,
         12,
         15,
-        41,
+        44,
         11,
-        38,
+        30,
         3,
         10,
-        30,
+        37,
         18,
         13,
-        32,
+        31,
         19,
         0,
         6,
@@ -291,8 +319,8 @@
         16,
         17,
         24,
-        42,
-        35,
+        45,
+        33,
         14,
         25,
         4
@@ -303,34 +331,6 @@
       "distance_from_search": 0.847
     },
     {
-      "name": "Eurostars Wall Street",
-      "hotel_id": 117334836,
-      "address": ", ",
-      "popularity": 76,
-      "amenities": [
-        17,
-        43,
-        21,
-        23,
-        14,
-        7,
-        35,
-        9,
-        13,
-        11,
-        12,
-        44,
-        15,
-        45,
-        16,
-        4
-      ],
-      "latitude": 40.70522,
-      "longitude": -74.00619,
-      "star_rating": 4.0,
-      "distance_from_search": 0.746
-    },
-    {
       "name": "Smyth - A Thompson Hotel",
       "hotel_id": 47175811,
       "address": ", ",
@@ -339,12 +339,12 @@
         0,
         1,
         3,
-        39,
+        32,
         12,
         23,
         14,
-        45,
-        35,
+        42,
+        33,
         9,
         13,
         6,
@@ -374,7 +374,7 @@
         3,
         10,
         12,
-        31,
+        27,
         15,
         4,
         11
@@ -420,12 +420,12 @@
       "key": "MEETINGROOM"
     },
     {
-      "id": 40,
+      "id": 43,
       "name": "Satellite TV",
       "key": "SATELLITETV"
     },
     {
-      "id": 27,
+      "id": 34,
       "name": "ATM machine",
       "key": "CASHMACHINE"
     },
@@ -450,7 +450,7 @@
       "key": "LUGGAGESTORAGE"
     },
     {
-      "id": 41,
+      "id": 44,
       "name": "Bathrobe",
       "key": "BATHROBESERVICE"
     },
@@ -460,7 +460,7 @@
       "key": "LIFT"
     },
     {
-      "id": 37,
+      "id": 29,
       "name": "Telephone",
       "key": "TELEPHONE"
     },
@@ -470,12 +470,12 @@
       "key": "BALCONY"
     },
     {
-      "id": 28,
+      "id": 35,
       "name": "Television",
       "key": "TELEVISION"
     },
     {
-      "id": 38,
+      "id": 30,
       "name": "Minibar",
       "key": "MINIBAR"
     },
@@ -485,7 +485,7 @@
       "key": "PETSALLOWEDSERVICE"
     },
     {
-      "id": 29,
+      "id": 36,
       "name": "Indoor pool",
       "key": "INDOORSWIMMINGPOOL"
     },
@@ -495,7 +495,7 @@
       "key": "BUSINESSCENTER"
     },
     {
-      "id": 30,
+      "id": 37,
       "name": "Currency exchange",
       "key": "CURRENCYEXCHANGESERVICE"
     },
@@ -510,17 +510,17 @@
       "key": "RESTAURANT"
     },
     {
-      "id": 44,
+      "id": 41,
       "name": "Airport Shuttle",
       "key": "AIRPORTSHUTTLESERVICE"
     },
     {
-      "id": 31,
+      "id": 27,
       "name": "Limousine",
       "key": "LIMOUSINESERVICE"
     },
     {
-      "id": 32,
+      "id": 31,
       "name": "Hairdryer",
       "key": "HAIRDRYER"
     },
@@ -535,9 +535,14 @@
       "key": "FITNESSCENTER"
     },
     {
-      "id": 43,
+      "id": 40,
       "name": "Bell staff",
       "key": "BELLSTAFFSERVICE"
+    },
+    {
+      "id": 39,
+      "name": "Shops",
+      "key": "SHOP"
     },
     {
       "id": 22,
@@ -545,7 +550,7 @@
       "key": "BABYSITTINGSERVICE"
     },
     {
-      "id": 39,
+      "id": 32,
       "name": "Valet parking",
       "key": "VALETPARKINGSERVICE"
     },
@@ -560,7 +565,7 @@
       "key": "BAR"
     },
     {
-      "id": 33,
+      "id": 38,
       "name": "Pool",
       "key": "POOL"
     },
@@ -570,9 +575,9 @@
       "key": "PARKING"
     },
     {
-      "id": 34,
-      "name": "Shops",
-      "key": "SHOP"
+      "id": 28,
+      "name": "Library",
+      "key": "LIBRARY"
     },
     {
       "id": 16,
@@ -585,11 +590,6 @@
       "key": "CONFERENCEFACILITY"
     },
     {
-      "id": 36,
-      "name": "Library",
-      "key": "LIBRARY"
-    },
-    {
       "id": 17,
       "name": "Concierge",
       "key": "CONCIERGESERVICE"
@@ -600,17 +600,17 @@
       "key": "WEDDINGFACILITY"
     },
     {
-      "id": 45,
+      "id": 42,
       "name": "Handicap Accessible",
       "key": "DISABLEDFACILITY"
     },
     {
-      "id": 42,
+      "id": 45,
       "name": "Desk",
       "key": "DESK"
     },
     {
-      "id": 35,
+      "id": 33,
       "name": "Room service",
       "key": "ROOMSERVICE"
     },
@@ -637,7 +637,7 @@
   ],
   "places": [],
   "urls": {
-    "hotel_details": "/apiservices/hotels/livedetails/v2/details/H4sIAAAAAAAEAE3IOwqAMBAE0LtMvQm7MR9J7Q1iKpFgYRdio5V4d4OVMMwM78aBuCAnEPamvs1p6l23s1jWQagerahgNXc1LEGxKHYzc_zyV_9TQ0KQgUw_TkDtqnUlNMTgx_F5Ae3gP5h6AAAA0?apikey\u003d_9A8oFJQijESTNwH7nxvrpHCxIZ7pEw6KtyHcLJI696fginG8Hr2mCGUg2WVd4ZyI9aNwekgcnsOlxrta-gKwSg%3D%3D"
+    "hotel_details": "/apiservices/hotels/livedetails/v2/details/H4sIAAAAAAAEAE3IOwqAMBAE0LtMvQm7-RhI7Q00lUiwsAux0Uq8uyFVYJgZ3osLcUNaQDir6puWuXU57uxYB6Fy1ayC09zUsATFotivzLFn1GlQQ0IQS6YdL6D6lLITKqKxwU_fDyFIjvl7AAAA0?apikey\u003d_NU5ZpaO9JUrDNeiL8nOS8UDh7Cy1yP6klUhIg6ORYSFnOm869ItLjeWHTonGT6x_SN93mm_dhf34egRIEvU82g%3D%3D"
   },
   "status": "COMPLETE",
   "total_hotels": 91,

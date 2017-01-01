@@ -5,12 +5,16 @@ import io.github.kkysen.quicktrip.io.MyFiles;
 import io.github.kkysen.quicktrip.reflect.Reflect;
 import io.github.kkysen.quicktrip.reflect.annotations.AnnotationUtils;
 
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
 import java.io.UnsupportedEncodingException;
 import java.lang.reflect.Field;
 import java.lang.reflect.Type;
 import java.net.URLEncoder;
-import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.security.MessageDigest;
@@ -41,21 +45,15 @@ import lombok.RequiredArgsConstructor;
  * @param <R> type of POJO representing the API response response, presumably a
  *            JSON one
  */
-/**
- * 
- * 
- * @author Khyber Sen
- * @param <R>
- */
 public abstract class ApiRequest<R> {
     
     private static final String CACHE_DIR = "src/main/resources/apiCache/";
     
     public static final class RequestCache {
         
-        private static final Path REQUEST_CACHE_PATH = Paths.get(CACHE_DIR, "requestCache.csv");
+        private static final Path REQUEST_CACHE_PATH = Paths.get(CACHE_DIR, "requestCache.txt");
         
-        private static final String SEP = ",";
+        private static final String SEP = "\t";
         
         private static final MessageDigest sha128;
         static {
@@ -106,9 +104,10 @@ public abstract class ApiRequest<R> {
         
         private final Set<Entry> entries = ConcurrentHashMap.newKeySet();
         
-        private final Map<Path, TypeToken> path2typeToken = new ConcurrentHashMap<>();
+        private final Map<String, TypeToken<?>> id2typeToken = new ConcurrentHashMap<>();
         
-        private void put(final Instant time, final String url, final String id, final Path path) {
+        private void put(final Instant time, final String url, final String id, final Path path,
+                final TypeToken<?> typeToken) {
             if (url2id.containsKey(url)) {
                 return;
             }
@@ -122,6 +121,8 @@ public abstract class ApiRequest<R> {
             url2time.put(url, time);
             
             entries.add(new Entry(url, id, path, time));
+            
+            id2typeToken.put(id, typeToken);
         }
         
         public void put(final ApiRequest<?> request) {
@@ -130,15 +131,14 @@ public abstract class ApiRequest<R> {
             final String fileName = id + "." + request.getFileExtension();
             final Path path = Paths.get(CACHE_DIR, request.getRelativeCachePath().toString(),
                     fileName);
-            put(Instant.now(), url, id, path);
-            
-            TypeToken typeToken;
+            final TypeToken<?> typeToken;
             if (request.pojoClass == null) {
                 typeToken = TypeToken.of(request.pojoType);
             } else {
                 typeToken = TypeToken.of(request.pojoClass);
             }
-            //typeToken;
+            System.out.println(typeToken.toString());
+            put(Instant.now(), url, id, path, typeToken);
         }
         
         public Set<Entry> entrySet() {
@@ -188,21 +188,74 @@ public abstract class ApiRequest<R> {
             return path2id.containsKey(path);
         }
         
-        public <T> T getResponse(final String urlOrId) {
-            return null; // FIXME
+        private TypeToken<?> getTypeToken(final String urlOrId) {
+            String id;
+            if (urlOrId.indexOf('/') == -1) {
+                id = urlOrId;
+            } else {
+                id = id2url.get(urlOrId);
+            }
+            return id2typeToken.get(id);
+        }
+        
+        private TypeToken<?> getTypeToken(final Path path) {
+            return getTypeToken(path2id.get(path));
+        }
+        
+        public Type getType(final String urlOrId) {
+            return getTypeToken(urlOrId).getType();
+        }
+        
+        public Type getType(final Path path) {
+            return getTypeToken(path).getType();
+        }
+        
+        private String getTypeTokenPath(final Path cachePath) {
+            final String path = cachePath.toString();
+            return path.substring(0, path.lastIndexOf('.') + 1) + "ser";
+        }
+        
+        public void serializeTypeToken(final Path cachePath) throws IOException {
+            final String id = path2id.get(cachePath);
+            final TypeToken<?> typeToken = id2typeToken.get(id);
+            final FileOutputStream fileOut = new FileOutputStream(getTypeTokenPath(cachePath));
+            final ObjectOutputStream out = new ObjectOutputStream(fileOut);
+            out.writeObject(typeToken);
+            out.close();
+            fileOut.close();
+        }
+        
+        @SuppressWarnings("serial")
+        private TypeToken<?> deserializeTypeToken(final Path cachePath) throws IOException {
+            final FileInputStream fileIn;
+            try {
+                fileIn = new FileInputStream(getTypeTokenPath(cachePath));
+            } catch (final FileNotFoundException e) {
+                return new TypeToken<Object>() {};
+            }
+            final ObjectInputStream in = new ObjectInputStream(fileIn);
+            try {
+                return (TypeToken<?>) in.readObject();
+            } catch (final ClassNotFoundException e) {
+                throw new RuntimeException(e); // shouldn't happen
+            } finally {
+                in.close();
+                fileIn.close();
+            }
         }
         
         private void load(final Path path) throws IOException {
-            Files.lines(path)
-                    .filter(line -> !line.isEmpty())
-                    .forEach(line -> {
-                        final String[] lineParts = line.split(SEP);
-                        final Instant time = Instant.parse(lineParts[0]);
-                        final String url = lineParts[1];
-                        final String id = lineParts[2];
-                        final Path requestPath = Paths.get(lineParts[3]);
-                        put(time, url, id, requestPath);
-                    });
+            final List<String> lines = MyFiles.readLines(path);
+            lines.removeIf(String::isEmpty);
+            for (final String line : lines) {
+                final String[] lineParts = line.split(SEP);
+                final Instant time = Instant.parse(lineParts[0]);
+                final String url = lineParts[1];
+                final String id = lineParts[2];
+                final Path requestPath = Paths.get(lineParts[3]);
+                final TypeToken<?> typeToken = deserializeTypeToken(requestPath);
+                put(time, url, id, requestPath, typeToken);
+            }
         }
         
         private RequestCache(final Path path) {
@@ -227,6 +280,7 @@ public abstract class ApiRequest<R> {
             final List<Entry> entryList = new ArrayList<>(entries);
             entryList.sort(null);
             MyFiles.write(path, entryList);
+            //id2path.keySet().forEach(id -> System.out.println(getType(id)));
         }
         
         public void save() {
@@ -272,7 +326,7 @@ public abstract class ApiRequest<R> {
         // will save cache on exit as long as JVM shuts down w/o internal JVM error
         Runtime.getRuntime().addShutdownHook(SAVE_ON_EXIT);
     }
-        
+    
     private final Map<String, String> query = new QueryEncoder();
     
     private @Getter(AccessLevel.PROTECTED) String url;
@@ -401,6 +455,7 @@ public abstract class ApiRequest<R> {
                 requestCache.put(this);
                 final Path cachePath = requestCache.getPath(url);
                 cache(cachePath, response);
+                requestCache.serializeTypeToken(cachePath);
             }
         }
         return response;

@@ -49,10 +49,25 @@ public abstract class ApiRequest<R> {
     
     private static final String CACHE_DIR = "src/main/resources/apiCache/";
     
+    /**
+     * 
+     * 
+     * @author Khyber Sen
+     */
+    /**
+     * 
+     * 
+     * @author Khyber Sen
+     */
     public static final class RequestCache {
         
         private static final Path REQUEST_CACHE_PATH = Paths.get(CACHE_DIR, "requestCache.txt");
         
+        /**
+         * separator in requestCache.txt
+         * used to be ",", but the URL for skyscanner hotels includes a comma
+         * now switched to a tab
+         */
         private static final String SEP = "\t";
         
         private static final MessageDigest sha128;
@@ -66,6 +81,10 @@ public abstract class ApiRequest<R> {
         
         private static final Base64.Encoder fileNameEncoder = Base64.getUrlEncoder();
         
+        /**
+         * @param s any String
+         * @return a SHA-128 hash in base 64 and URL encoded
+         */
         private static String hashToBase64(final String s) {
             sha128.update(s.getBytes(Constants.CHARSET));
             final byte[] hashed = sha128.digest();
@@ -73,6 +92,11 @@ public abstract class ApiRequest<R> {
             return fileNameEncoder.encodeToString(hashed);
         }
         
+        /**
+         * an entry in a RequestCache
+         * 
+         * @author Khyber Sen
+         */
         @RequiredArgsConstructor
         @Getter
         private static class Entry implements Comparable<Entry> {
@@ -82,11 +106,21 @@ public abstract class ApiRequest<R> {
             private final Path path;
             private final Instant time;
             
+            /**
+             * @return a {@value RequestCache#SEP} (tab) separate line
+             * 
+             * @see java.lang.Object#toString()
+             */
             @Override
             public String toString() {
                 return String.join(SEP, time.toString(), url, id, path.toString());
             }
             
+            /**
+             * compares by time
+             * 
+             * @see java.lang.Comparable#compareTo(java.lang.Object)
+             */
             @Override
             public int compareTo(final Entry other) {
                 return time.compareTo(other.time);
@@ -106,6 +140,15 @@ public abstract class ApiRequest<R> {
         
         private final Map<String, TypeToken<?>> id2typeToken = new ConcurrentHashMap<>();
         
+        /**
+         * puts this "request" in the request cache (all the underlying maps)
+         * 
+         * @param time the timestamp
+         * @param url the url
+         * @param id the id, the URL encoded, base 64, SHA-128 hash or the url
+         * @param path the relative path with a filename matching the id
+         * @param typeToken a TypeToken containing the Type of the request
+         */
         private void put(final Instant time, final String url, final String id, final Path path,
                 final TypeToken<?> typeToken) {
             if (url2id.containsKey(url)) {
@@ -125,6 +168,24 @@ public abstract class ApiRequest<R> {
             id2typeToken.put(id, typeToken);
         }
         
+        /**
+         * puts a request in the request cache by its url, id, cachePath, and
+         * generic runtime type
+         * 
+         * the id is a URL, base 64 encoded SHA-128 hash of the url
+         * {@link #hashToBase64(String)}
+         * 
+         * the path is the relative directory path and the filename
+         * {@link ApiRequest#getRelativeCachePath()}
+         * 
+         * the filename is the id with the file extension
+         * {@link ApiRequest#getFileExtension()}
+         * 
+         * the Type is from {@link ApiRequest#getPojoClass()} or
+         * {@link ApiRequest#getPojoType()}
+         * 
+         * @param request a request
+         */
         public void put(final ApiRequest<?> request) {
             final String url = request.url;
             final String id = hashToBase64(url);
@@ -141,15 +202,29 @@ public abstract class ApiRequest<R> {
             put(Instant.now(), url, id, path, typeToken);
         }
         
+        /**
+         * @return a view of the entry set
+         * 
+         * @see Entry
+         */
         public Set<Entry> entrySet() {
             return entries;
         }
         
+        /**
+         * @return {@link Set#toString()} of {@link #entries}
+         * 
+         * @see java.lang.Object#toString()
+         */
         @Override
         public String toString() {
             return entries.toString();
         }
         
+        /**
+         * @param idOrUrl the ID or URL of a request
+         * @return the path of the request
+         */
         public Path getPath(final String idOrUrl) {
             if (idOrUrl.indexOf('/') == -1) {
                 final String id = idOrUrl;
@@ -164,26 +239,50 @@ public abstract class ApiRequest<R> {
             }
         }
         
+        /**
+         * @param url the URL of a request
+         * @return the ID of the request
+         */
         public String getId(final String url) {
             return url2id.get(url);
         }
         
+        /**
+         * @param id the ID of a request
+         * @return the URL of the request
+         */
         public String getUrl(final String id) {
             return id2url.get(id);
         }
         
+        /**
+         * @param path the path of a request
+         * @return the URL of the request
+         */
         public String getUrl(final Path path) {
             return getUrl(path2id.get(path));
         }
         
+        /**
+         * @param url the URL of a request
+         * @return true if a request with that URL has been cached
+         */
         public boolean containsUrl(final String url) {
             return url2id.containsKey(url);
         }
         
+        /**
+         * @param id the ID of a request
+         * @return true if a request with that ID has been cached
+         */
         public boolean containsId(final String id) {
             return id2path.containsKey(id);
         }
         
+        /**
+         * @param path the path of a request
+         * @return true if a request with that path has been cached
+         */
         public boolean containsPath(final Path path) {
             return path2id.containsKey(path);
         }
@@ -272,6 +371,10 @@ public abstract class ApiRequest<R> {
             }
         }
         
+        /**
+         * creates the main RequestCache (only one is used statically) from
+         * {@value #REQUEST_CACHE_PATH}
+         */
         public RequestCache() {
             this(REQUEST_CACHE_PATH);
         }
@@ -283,6 +386,10 @@ public abstract class ApiRequest<R> {
             //id2path.keySet().forEach(id -> System.out.println(getType(id)));
         }
         
+        /**
+         * saves this RequestCache as a {@value #SEP} separated .txt file at
+         * {@value #REQUEST_CACHE_PATH}
+         */
         public void save() {
             try {
                 save(REQUEST_CACHE_PATH);
@@ -293,12 +400,25 @@ public abstract class ApiRequest<R> {
         
     }
     
+    /**
+     * a QueryEncoder that encodes the name=value pairs in a query string
+     * 
+     * extends {@link LinkedHashMap} to maintain insertion order
+     * 
+     * @author Khyber Sen
+     */
     private static final class QueryEncoder extends LinkedHashMap<String, String> {
         
         private static final long serialVersionUID = 3055592436293901045L;
         
         public QueryEncoder() {}
         
+        /**
+         * calls LinkedHashMap<String, String>{@link #put(String, String)}
+         * except with the value URL encoded by {@link URLEncode} in UTF-8
+         * 
+         * @see java.util.HashMap#put(java.lang.Object, java.lang.Object)
+         */
         @Override
         public String put(final String name, String value) {
             String oldValue;
@@ -311,6 +431,11 @@ public abstract class ApiRequest<R> {
             return oldValue;
         }
         
+        /**
+         * @return the encoded query string
+         * 
+         * @see java.util.AbstractMap#toString()
+         */
         @Override
         public String toString() {
             final StringJoiner queryString = new StringJoiner("&", "?", "");
@@ -320,7 +445,16 @@ public abstract class ApiRequest<R> {
         
     }
     
+    /**
+     * the one and only {@link RequestCache} that caches all the requests made
+     */
     private static final RequestCache requestCache = new RequestCache();
+    
+    /**
+     * a Thread that runs {@link RequestCache#save()}
+     * added as a JVM shutdown hook so that it is saved whenever the program
+     * finishes
+     */
     private static final Thread SAVE_ON_EXIT = new Thread(requestCache::save);
     static {
         // will save cache on exit as long as JVM shuts down w/o internal JVM error
@@ -331,13 +465,16 @@ public abstract class ApiRequest<R> {
     
     private @Getter(AccessLevel.PROTECTED) String url;
     
+    /**
+     * @return the Class<R> of this request's response
+     */
     protected abstract Class<? extends R> getPojoClass();
     
     /**
      * If getPojoClass does not work because of generics, return null.
      * Then override this and return the Type.
      * 
-     * @return POJO Type
+     * @return the Type (including generic type) of this request's response
      */
     protected Type getPojoType() {
         return null;
@@ -348,17 +485,30 @@ public abstract class ApiRequest<R> {
     
     private R response;
     
+    /**
+     * @return the name of the API key in the query string
+     *         defaults to "key"
+     */
     protected String getApiKeyQueryName() {
         return "key";
     }
     
+    /**
+     * @return the API key
+     *         if "" (empty String) is returned, then no API key will be
+     *         included in the query string
+     */
     protected abstract String getApiKey();
     
+    /**
+     * @return the base URL of the request (everything before the query string)
+     */
     protected abstract String getBaseUrl();
     
     /**
-     * uses reflection to find all the @QueryFields and adds them to the query
-     * (QueryEncoder)
+     * uses reflection to find all the {@link QueryField}s and adds them to the
+     * query
+     * {@link QueryEncoder}
      */
     private void reflectQuery() {
         final List<Field> queryFields = Reflect.getInstanceVars(this);
@@ -376,7 +526,11 @@ public abstract class ApiRequest<R> {
         for (final Entry<Field, Object> entry : queryEntries.entrySet()) {
             final Field queryField = entry.getKey();
             final String queryValue = entry.getValue().toString();
+            // if the value of this query is an empty String, then skip it
             if (!queryValue.isEmpty()) {
+                // if QueryField.name() has been overriden and returns something other than an empty String, 
+                // then change the name of this query to QueryField.name()
+                // otherwise use the name of the actual Field
                 final QueryField annotation = field2annotation.get(queryField);
                 String name = annotation.name();
                 if (name.isEmpty()) {
@@ -392,13 +546,21 @@ public abstract class ApiRequest<R> {
      * the final url
      * without overriding, this method does nothing
      * 
-     * @param query the existing query with the reflected query fields and api
+     * @param query the existing query with the reflected query fields and API
      *            key added
      */
     protected void modifyQuery(final Map<String, String> query) {}
     
+    /**
+     * @return the relative Path of the directory in which this request should
+     *         be cached. The absolute Path is {@value #CACHE_DIR} +
+     *         {@link #getRelativeCachePath()}.
+     */
     protected abstract Path getRelativeCachePath();
     
+    /**
+     * @return the file extension for the cachePath of this request
+     */
     protected abstract String getFileExtension();
     
     private void addApiKey() {
@@ -414,7 +576,7 @@ public abstract class ApiRequest<R> {
     }
     
     /**
-     * @return complete URL that overrides all the other url stuff
+     * @return a complete URL that overrides all the other URL stuff
      */
     protected String getOverridingUrl() {
         return null;
@@ -436,12 +598,48 @@ public abstract class ApiRequest<R> {
         return requestCache.containsUrl(url);
     }
     
-    protected abstract R parseFromFile(Path path) throws IOException;
+    /**
+     * called when the request has been cached
+     * 
+     * @param path the Path of the file to be deserialized
+     * @return the cached response
+     * @throws IOException if there's an exception reading the file
+     */
+    protected abstract R deserializeFromFile(Path path) throws IOException;
     
-    protected abstract R parseFromUrl(String url) throws IOException;
+    /**
+     * called when the request hasn't been cached before
+     * 
+     * @param url the URL of the HTTP request whose response will be
+     *            deserialized
+     * @return the response
+     * @throws IOException if there's an HTTP error
+     */
+    protected abstract R deserializeFromUrl(String url) throws IOException;
     
+    /**
+     * called when the request hasn't been cached before and after
+     * {@link #deserializeFromUrl(String)} has been called
+     * 
+     * @param path the Path to save the serialized file at
+     * @param response the response to cache
+     * @throws IOException if there's an exception caching the serialized file
+     */
     protected abstract void cache(Path path, R response) throws IOException;
     
+    /**
+     * gets the response for this request
+     * If this request has already been made, then it deserializes R from the
+     * cached file. If this request hasn't been made before, then it
+     * deserializes R from the
+     * response to the HTTP request and then caches it.
+     * 
+     * @return the response for this request
+     * @throws IOException if anything goes wrong in
+     *             {@link #cache(Path, Object)},
+     *             {@link #deserializeFromFile(Path)},
+     *             or {@link #deserializeFromUrl(String)}
+     */
     public final R getResponse() throws IOException {
         if (url == null) {
             setQueryAndUrl();
@@ -449,9 +647,9 @@ public abstract class ApiRequest<R> {
         if (response == null) {
             if (isCached()) {
                 final Path cachePath = requestCache.getPath(url);
-                response = parseFromFile(cachePath);
+                response = deserializeFromFile(cachePath);
             } else {
-                response = parseFromUrl(url);
+                response = deserializeFromUrl(url);
                 requestCache.put(this);
                 final Path cachePath = requestCache.getPath(url);
                 cache(cachePath, response);

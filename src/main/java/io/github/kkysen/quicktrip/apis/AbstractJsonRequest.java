@@ -34,7 +34,7 @@ public abstract class AbstractJsonRequest<R> extends ApiRequest<R> {
     }
     
     @Override
-    protected final R parseFromFile(final Path path) throws IOException {
+    protected final R deserializeFromFile(final Path path) throws IOException {
         return parseFromReader(Files.newBufferedReader(path, Constants.CHARSET));
     }
     

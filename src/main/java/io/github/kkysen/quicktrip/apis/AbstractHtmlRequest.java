@@ -12,7 +12,7 @@ import org.jsoup.nodes.Document;
 public abstract class AbstractHtmlRequest<R> extends AbstractJsonRequest<R> {
     
     @Override
-    protected final R parseFromUrl(final String url) throws IOException {
+    protected final R deserializeFromUrl(final String url) throws IOException {
         return parseHtml(getDocument(url));
     }
     

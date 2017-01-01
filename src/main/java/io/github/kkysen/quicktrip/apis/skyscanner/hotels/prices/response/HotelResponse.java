@@ -35,6 +35,9 @@ public class HotelResponse {
     @SerializedName("places")
     private List<Place> mPlaces;
     
+    @SerializedName("urls")
+    private HotelUrl mHotelUrl;
+    
     @SerializedName("status")
     private String mStatus;
     

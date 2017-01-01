@@ -55,11 +55,6 @@ public abstract class ApiRequest<R> {
      * 
      * @author Khyber Sen
      */
-    /**
-     * 
-     * 
-     * @author Khyber Sen
-     */
     public static final class RequestCache {
         
         private static final Path REQUEST_CACHE_PATH = Paths.get(CACHE_DIR, "requestCache.txt");
@@ -688,7 +683,7 @@ public abstract class ApiRequest<R> {
                 requestCache.put(this);
                 final Path cachePath = requestCache.getPath(url);
                 cache(cachePath, response);
-                requestCache.serializeTypeToken(cachePath);
+                //requestCache.serializeTypeToken(cachePath);
             }
         }
         return response;

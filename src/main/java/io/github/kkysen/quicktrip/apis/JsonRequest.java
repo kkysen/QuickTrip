@@ -13,7 +13,7 @@ import java.io.IOException;
 public abstract class JsonRequest<R> extends AbstractJsonRequest<R> {
     
     @Override
-	protected final R deserializeFromUrl(final String url) throws IOException  {
+    protected final R deserializeFromUrl(final String url) throws IOException {
         return parseFromReader(Internet.getJsonInputStreamReader(url));
     }
     

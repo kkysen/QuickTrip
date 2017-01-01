@@ -105,6 +105,12 @@ public class Internet {
         urlCon.setRequestProperty("Content-Type", "application/json; charset=UTF-8");
         urlCon.setRequestProperty("Accept", "application/json");
         urlCon.connect();
+        //urlCon.setRequestProperty("Connection", "keep-alive");
+        //urlCon.setRequestProperty("Upgrade-Insecure-Requests", "1");
+        /*System.out.println("headers");
+        for (int x = 0; x < urlCon.getHeaderFields().size();x++) {
+          System.out.println(urlCon.getHeaderFieldKey(x) + ": " + urlCon.getHeaderField(x));
+        }*/
         return new InputStreamReader(urlCon.getInputStream());
     }
     

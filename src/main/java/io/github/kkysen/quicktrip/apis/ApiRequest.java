@@ -369,15 +369,15 @@ public abstract class ApiRequest<R> {
     }
     
     private void setQueryAndUrl() {
-        reflectQuery();
-        addApiKey();
-        modifyQuery(query);
         final String overridingUrl = getOverridingUrl();
         if (overridingUrl != null) {
             url = overridingUrl;
-        } else {
-            url = getBaseUrl() + query.toString();
+            return;
         }
+        reflectQuery();
+        addApiKey();
+        modifyQuery(query);
+        url = getBaseUrl() + query.toString();
     }
     
     private boolean isCached() {

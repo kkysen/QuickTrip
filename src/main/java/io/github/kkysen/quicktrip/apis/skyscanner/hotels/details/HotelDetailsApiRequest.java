@@ -32,7 +32,7 @@ public class HotelDetailsApiRequest extends SkyscannerApiRequest<HotelDetailsRes
     
     @Override
     protected String getOverridingUrl() {
-        return null; // I'm not sure what you want this to be
+        return null; // FIXME I'm not sure what you want this to be
     }
     
     @Override

@@ -110,7 +110,7 @@ public class HotelPricesApiRequest extends SkyscannerApiRequest<HotelResponse> {
     }
     
     public static void main(final String[] args) throws IOException {
-        final HotelPricesApiRequest h = new HotelPricesApiRequest(
+        final HotelPricesApiRequest request = new HotelPricesApiRequest(
                 "US",
                 Locale.US,
                 40.71, -74.00,
@@ -119,8 +119,8 @@ public class HotelPricesApiRequest extends SkyscannerApiRequest<HotelResponse> {
                 2,
                 1);
         
-        final HotelResponse response = h.getResponse();
-        System.out.println(h.getBaseUrl() + "?apikey=" + h.getApiKey());
+        final HotelResponse response = request.getResponse();
+        System.out.println(request.getBaseUrl() + "?apikey=" + request.getApiKey());
         final String details = response.getHotelUrl().getDetails();
         final int hid = response.getHotelList().get(0).getId();
         System.out.println(details);

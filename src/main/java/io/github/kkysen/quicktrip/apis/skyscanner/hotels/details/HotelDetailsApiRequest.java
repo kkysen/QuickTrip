@@ -1,5 +1,6 @@
 package io.github.kkysen.quicktrip.apis.skyscanner.hotels.details;
 
+import io.github.kkysen.quicktrip.apis.QueryField;
 import io.github.kkysen.quicktrip.apis.skyscanner.SkyscannerApiRequest;
 import io.github.kkysen.quicktrip.apis.skyscanner.hotels.HotelPricesApiRequest;
 import io.github.kkysen.quicktrip.apis.skyscanner.hotels.details.response.HotelDetailsResponse;
@@ -7,33 +8,57 @@ import io.github.kkysen.quicktrip.apis.skyscanner.hotels.prices.response.HotelEn
 import io.github.kkysen.quicktrip.apis.skyscanner.hotels.prices.response.HotelResponse;
 
 import java.io.IOException;
-import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.GregorianCalendar;
 import java.util.List;
 import java.util.Locale;
 import java.util.stream.Collectors;
 
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+
 // @AllArgsConstructor
 public class HotelDetailsApiRequest extends SkyscannerApiRequest<HotelDetailsResponse> {
     
-    private final String restOfUrl;
-    private final List<String> hotelIds;
+    private final String sessionKey;
+    // I thought maybe apiKey has to come before hotelIds, but still doesn't work
+    //private final @QueryField(name = "apiKey") String encryptedApiKey;
+    private final String encryptedApiKey;
+    private final @QueryField String hotelIds;
     
-    public HotelDetailsApiRequest(final String restOfUrl, final List<String> ids) {
-        System.out.println("con: " + ids == null);
-        this.restOfUrl = restOfUrl;
-        hotelIds = new ArrayList<>(ids);
+    private HotelDetailsApiRequest(final String restOfUrl, final List<String> ids) {
+        final String[] urlParts = restOfUrl.split("/");
+        final String[] sessionKeyAndApiKey = urlParts[urlParts.length - 1].split("\\?apikey=");
+        sessionKey = sessionKeyAndApiKey[0];
+        encryptedApiKey = sessionKeyAndApiKey[1];
+        System.out.println(sessionKey);
+        System.out.println(encryptedApiKey);
+        hotelIds = String.join(",", ids);
+    }
+    
+    public HotelDetailsApiRequest(final HotelResponse hotels) {
+        this(hotels.getHotelUrl().getDetails(),
+                hotels.getHotelList().stream()
+                .map(HotelEntry::getId)
+                .map(Object::toString)
+                .collect(Collectors.toList()));
     }
     
     @Override
     protected List<String> getUrlPathParts() {
-        return null; // not being used
+        return Arrays.asList(
+                "hotels",
+                "livedetails",
+                "v2",
+                "details",
+                sessionKey
+                );
     }
     
     @Override
-    protected String getOverridingUrl() {
-        return "http://partners.api.skyscanner.net/" + restOfUrl;
-        // FIXME I'm not sure what you want this to be
+    protected String getApiKey() {
+        //return "";
+        return encryptedApiKey;
     }
     
     @Override
@@ -42,16 +67,19 @@ public class HotelDetailsApiRequest extends SkyscannerApiRequest<HotelDetailsRes
     }
     
     public static void main(final String[] args) throws IOException {
-        final HotelResponse h = new HotelPricesApiRequest(
+        final Gson gson = new GsonBuilder().setPrettyPrinting().create();
+        
+        final HotelResponse hotelResponse = new HotelPricesApiRequest(
                 "US",
                 Locale.US,
                 40.71, -74.00,
                 new GregorianCalendar(2017, 0, 5).toZonedDateTime(),
                 new GregorianCalendar(2017, 0, 6).toZonedDateTime(),
                 2,
-                1).call();
+                1).getResponse();
+        //System.out.println(gson.toJson(hotelResponse));
         
-        final List<String> f = h.getHotelList()
+        final List<String> ids = hotelResponse.getHotelList()
                 .stream()
                 .map(HotelEntry::getId)
                 .map(Object::toString)
@@ -63,11 +91,13 @@ public class HotelDetailsApiRequest extends SkyscannerApiRequest<HotelDetailsRes
         				.map(t -> ""+t.getMId())
         				.toArray(String[]::new))
         		);*/
-        final HotelDetailsApiRequest r = new HotelDetailsApiRequest(
-                h.getHotelUrl().getDetails(),
-                f);
-        System.out.println(f.get(0));
+        final HotelDetailsApiRequest request = new HotelDetailsApiRequest(
+                hotelResponse.getHotelUrl().getDetails(),
+                ids);
+        //System.out.println(ids.get(0));
         //System.out.println(r.mHotelIds.get(0));
+        final HotelDetailsResponse response = request.getResponse();
+        System.out.println(gson.toJson(response));
     }
     
 }

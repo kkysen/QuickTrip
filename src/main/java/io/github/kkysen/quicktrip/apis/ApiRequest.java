@@ -272,9 +272,7 @@ public abstract class ApiRequest<R> {
         // will save cache on exit as long as JVM shuts down w/o internal JVM error
         Runtime.getRuntime().addShutdownHook(SAVE_ON_EXIT);
     }
-    
-    private final String apiKey;
-    
+        
     private final Map<String, String> query = new QueryEncoder();
     
     private @Getter(AccessLevel.PROTECTED) String url;
@@ -330,7 +328,7 @@ public abstract class ApiRequest<R> {
                 if (name.isEmpty()) {
                     name = queryField.getName();
                 }
-                query.put(queryField.getName(), queryValue);
+                query.put(name, queryValue);
             }
         }
     }
@@ -350,13 +348,13 @@ public abstract class ApiRequest<R> {
     protected abstract String getFileExtension();
     
     private void addApiKey() {
+        final String apiKey = getApiKey();
         if (!apiKey.isEmpty()) {
             query.put(getApiKeyQueryName(), apiKey);
         }
     }
     
     protected ApiRequest() {
-        apiKey = getApiKey();
         pojoClass = getPojoClass();
         pojoType = getPojoType();
     }

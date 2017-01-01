@@ -24,26 +24,26 @@ import lombok.Setter;
 public class HotelResponse {
     
     @SerializedName("hotels_prices")
-    private List<HotelPrice> mPriceList;
+    private List<HotelPrice> priceList;
     
     @SerializedName("hotels")
-    private List<HotelEntry> mHotelList;
+    private List<HotelEntry> hotelList;
     
     @SerializedName("amenities")
-    private List<Amenity> mAmenities;
+    private List<Amenity> amenities;
     
     @SerializedName("places")
-    private List<Place> mPlaces;
+    private List<Place> places;
     
     @SerializedName("urls")
-    private HotelUrl mHotelUrl;
+    private HotelUrl hotelUrl;
     
     @SerializedName("status")
-    private String mStatus;
+    private String status;
     
     @SerializedName("total_hotels")
-    private int mHotelTotal;
+    private int hotelTotal;
     
     @SerializedName("total_available_hotels")
-    private int mHotelAvailable;
+    private int hotelAvailable;
 }

@@ -1,8 +1,9 @@
 package io.github.kkysen.quicktrip.apis.skyscanner.hotels.prices.response;
 
+import io.github.kkysen.quicktrip.apis.Json;
+
 import com.google.gson.annotations.SerializedName;
 
-import io.github.kkysen.quicktrip.apis.Json;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -19,6 +20,8 @@ import lombok.Setter;
 @Getter
 @Setter
 public class HotelUrl {
-	@SerializedName("hotel_details")
-	private String mDetails;
+    
+    @SerializedName("hotel_details")
+    private String details;
+    
 }

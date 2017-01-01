@@ -24,10 +24,10 @@ import lombok.Setter;
 public class HotelPrice {
     
     @SerializedName("id")
-    private int mId;
+    private int id;
     
     @SerializedName("agent_prices")
-    private List<PriceElement> mPriceElements;
+    private List<PriceElement> priceElements;
     /*
     class LoggingInterceptor implements Interceptor {
     	  @Override public Response intercept(Interceptor.Chain chain) throws IOException {

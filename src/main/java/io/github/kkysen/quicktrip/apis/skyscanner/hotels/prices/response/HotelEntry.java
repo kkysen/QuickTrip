@@ -12,7 +12,8 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 /**
- * Note: only HotelEntry from the price list call will have a distance_from_search
+ * Note: only HotelEntry from the price list call will have a
+ * distance_from_search
  * 
  * @author Stanley Lin
  */
@@ -24,30 +25,30 @@ import lombok.Setter;
 public class HotelEntry {
     
     @SerializedName("name")
-    private String nName;
+    private String name;
     
     @SerializedName("hotel_id")
-    private int mId;
+    private int id;
     
     @SerializedName("address")
-    private String mAddress;
+    private String address;
     
     @SerializedName("popularity")
-    private int mPopularity;
+    private int popularity;
     
     @SerializedName("amenities")
-    private List<Integer> mAmenities;
+    private List<Integer> amenities;
     
     @SerializedName("latitude")
-    private double mLatitude;
+    private double latitude;
     
     @SerializedName("longitude")
-    private double mLongitude;
+    private double longitude;
     
     @SerializedName("star_rating")
-    private double mStars;
+    private double stars;
     
     @SerializedName("distance_from_search")
-    private double mDistanceFromSearch;
+    private double distanceFromSearch;
     
 }

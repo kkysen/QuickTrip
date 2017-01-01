@@ -22,9 +22,9 @@ import lombok.Setter;
 public class PriceElement {
     
     @SerializedName("id")
-    private int mId;
+    private int id;
     
     @SerializedName("price_total")
-    private int mPriceTotal;
+    private int priceTotal;
     
 }

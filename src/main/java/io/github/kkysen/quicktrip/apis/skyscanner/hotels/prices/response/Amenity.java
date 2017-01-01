@@ -22,12 +22,12 @@ import lombok.Setter;
 public class Amenity {
     
     @SerializedName("id")
-    private int mId;
+    private int id;
     
     @SerializedName("name")
-    private String mName;
+    private String name;
     
     @SerializedName("key")
-    private String mKey;
+    private String key;
     
 }

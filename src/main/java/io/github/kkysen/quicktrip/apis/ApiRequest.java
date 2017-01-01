@@ -28,6 +28,8 @@ import java.util.StringJoiner;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentSkipListMap;
 
+import com.google.common.reflect.TypeToken;
+
 import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
@@ -104,6 +106,8 @@ public abstract class ApiRequest<R> {
         
         private final Set<Entry> entries = ConcurrentHashMap.newKeySet();
         
+        private final Map<Path, TypeToken> path2typeToken = new ConcurrentHashMap<>();
+        
         private void put(final Instant time, final String url, final String id, final Path path) {
             if (url2id.containsKey(url)) {
                 return;
@@ -127,6 +131,14 @@ public abstract class ApiRequest<R> {
             final Path path = Paths.get(CACHE_DIR, request.getRelativeCachePath().toString(),
                     fileName);
             put(Instant.now(), url, id, path);
+            
+            TypeToken typeToken;
+            if (request.pojoClass == null) {
+                typeToken = TypeToken.of(request.pojoType);
+            } else {
+                typeToken = TypeToken.of(request.pojoClass);
+            }
+            //typeToken;
         }
         
         public Set<Entry> entrySet() {
@@ -174,6 +186,10 @@ public abstract class ApiRequest<R> {
         
         public boolean containsPath(final Path path) {
             return path2id.containsKey(path);
+        }
+        
+        public <T> T getResponse(final String urlOrId) {
+            return null; // FIXME
         }
         
         private void load(final Path path) throws IOException {

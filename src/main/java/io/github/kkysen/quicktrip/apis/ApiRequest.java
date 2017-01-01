@@ -274,7 +274,6 @@ public abstract class ApiRequest<R> {
     }
     
     private final String apiKey;
-    private final String baseUrl;
     
     private final Map<String, String> query = new QueryEncoder();
     
@@ -358,16 +357,27 @@ public abstract class ApiRequest<R> {
     
     protected ApiRequest() {
         apiKey = getApiKey();
-        baseUrl = getBaseUrl();
         pojoClass = getPojoClass();
         pojoType = getPojoType();
+    }
+    
+    /**
+     * @return complete URL that overrides all the other url stuff
+     */
+    protected String getOverridingUrl() {
+        return null;
     }
     
     private void setQueryAndUrl() {
         reflectQuery();
         addApiKey();
         modifyQuery(query);
-        url = baseUrl + query.toString();
+        final String overridingUrl = getOverridingUrl();
+        if (overridingUrl != null) {
+            url = overridingUrl;
+        } else {
+            url = getBaseUrl() + query.toString();
+        }
     }
     
     private boolean isCached() {

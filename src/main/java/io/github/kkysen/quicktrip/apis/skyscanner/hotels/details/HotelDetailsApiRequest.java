@@ -25,15 +25,14 @@ public class HotelDetailsApiRequest extends SkyscannerApiRequest<HotelDetailsRes
         hotelIds = new ArrayList<>(ids);
     }
     
-    //Ask how to use this thing
     @Override
     protected List<String> getUrlPathParts() {
-        /*List<String> res = new ArrayList<>();
-        res.add(restOfUrl);
-        System.out.println(hotelIds == null);
-        res.addAll(hotelIds);
-        return res;*/
-        return null;
+        return null; // not being used
+    }
+    
+    @Override
+    protected String getOverridingUrl() {
+        return null; // I'm not sure what you want this to be
     }
     
     @Override
@@ -69,4 +68,5 @@ public class HotelDetailsApiRequest extends SkyscannerApiRequest<HotelDetailsRes
         System.out.println(f.get(0));
         //System.out.println(r.mHotelIds.get(0));
     }
+    
 }

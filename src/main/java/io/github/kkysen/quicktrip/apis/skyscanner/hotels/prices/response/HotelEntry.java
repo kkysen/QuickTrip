@@ -30,6 +30,9 @@ public class HotelEntry {
     @SerializedName("hotel_id")
     private int id;
     
+    @SerializedName("description")
+    private String description;
+    
     @SerializedName("address")
     private String address;
     

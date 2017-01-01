@@ -126,6 +126,6 @@ public class HotelPricesApiRequest extends SkyscannerApiRequest<HotelResponse> {
         System.out.println(details);
         System.out.println(hid);
         
-        System.out.println(new GsonBuilder().setPrettyPrinting().create().toJson(response));
+        //System.out.println(new GsonBuilder().setPrettyPrinting().create().toJson(response));
     }
 }

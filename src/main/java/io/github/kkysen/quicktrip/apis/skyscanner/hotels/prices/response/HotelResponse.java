@@ -46,5 +46,4 @@ public class HotelResponse {
     
     @SerializedName("total_available_hotels")
     private int mHotelAvailable;
-    
 }

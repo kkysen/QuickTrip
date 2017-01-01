@@ -12,7 +12,7 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 /**
- * 
+ * Note: only HotelEntry from the price list call will have a distance_from_search
  * 
  * @author Stanley Lin
  */

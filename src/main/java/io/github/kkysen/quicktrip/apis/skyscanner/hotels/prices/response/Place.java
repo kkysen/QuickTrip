@@ -13,8 +13,8 @@ import lombok.Setter;
  * @author Stanley Lin
  */
 @Json
-@NoArgsConstructor
-@AllArgsConstructor
+//@NoArgsConstructor
+//@AllArgsConstructor
 @Getter
 @Setter
 public class Place {

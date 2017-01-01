@@ -18,8 +18,4 @@ public interface AnnealingState extends Cloneable {
     @Override
     public String toString();
     
-    public default SimulatedAnnealer anneal(final int numIters) {
-        return new SimulatedAnnealer(this).search(numIters);
-    }
-    
 }

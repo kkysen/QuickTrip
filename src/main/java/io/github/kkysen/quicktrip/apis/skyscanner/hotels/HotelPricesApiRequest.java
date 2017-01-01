@@ -7,6 +7,7 @@ import java.time.ZonedDateTime;
 import java.util.ArrayList;
 import java.util.Currency;
 import java.util.List;
+import java.util.Locale;
 
 /**
  * 
@@ -18,28 +19,48 @@ public class HotelPricesApiRequest extends SkyscannerApiRequest<HotelResponse> {
     private final String mMarket;
     private final String mCurrency;
     private final String mLocale;
-    private final String mEntityId;	//Note: can use lat long w/ this
-    private final ZonedDateTime mCheckIn;
-    private final ZonedDateTime mCheckOut;
-    private final int mGuests;
-    private final int mRooms;
+    private final String mEntityId;		//Note: can use lat long w/ this
+    private final String mCheckIn;		//yyyy-mm-dd
+    private final String mCheckOut;		//yyyy-mm-dd
+    private final String mGuests;
+    private final String mRooms;
     
-    /*
-     *Currency.getInstance(Locale.US).getCurrencyCode() 
-     * 
+    /**
+     * Input parameters, of which most will be formatted for the request url
      * */
-    public HotelPricesApiRequest(final String mMarket, final Currency mCurrency, final String mLocale, final String mEntityId,
-            final ZonedDateTime mCheckIn, final ZonedDateTime mCheckOut, final int mGuests, final int mRooms) {
+    public HotelPricesApiRequest(final String mMarket, final Currency mCurrency, final Locale mLocale, final double lat,
+            final double lon, final ZonedDateTime mCheckIn, final ZonedDateTime mCheckOut, final int mGuests, final int mRooms) {
         this.mMarket = mMarket;
         this.mCurrency = mCurrency.getCurrencyCode();
-        this.mLocale = mLocale;
-        this.mEntityId = mEntityId;
-        this.mCheckIn = mCheckIn;
-        this.mCheckOut = mCheckOut;
-        this.mGuests = mGuests;
-        this.mRooms = mRooms;
+        this.mLocale = localeToString(mLocale);
+        this.mEntityId = formatLatLon(lat, lon);
+        this.mCheckIn = zonedDateTimeToString(mCheckIn);
+        this.mCheckOut = zonedDateTimeToString(mCheckOut);
+        this.mGuests = "" + mGuests;
+        this.mRooms = "" + mRooms;
     }
     
+    /**
+     * Converts ZonedDateTime to a string usable with the api
+     * @return String in format of yyyy-mm-dd
+     * */
+    private static String zonedDateTimeToString(ZonedDateTime t) {
+    	return t.getYear() + "-" + 
+    String.format("%1$tm-%2$02d", t.getMonth(), t.getDayOfMonth());
+    }
+    
+    /**
+     * Converts a {@link Locale} to a string usuable with the api
+     * @return String in format of (ISO 639-1 language code)-(ISO 3166-1 alpha-2 country code)
+     * */
+    private static String localeToString(Locale l) {
+    	return l.getLanguage() + "-" + l.getCountry();
+    }
+    
+    private static String formatLatLon(final double lat, final double lon) {
+    	return lat + "," + lon + "-latlong";
+    }
+        
     //Need a second opinion
     @Override
     protected List<String> getUrlPathParts() {
@@ -48,13 +69,13 @@ public class HotelPricesApiRequest extends SkyscannerApiRequest<HotelResponse> {
         res.add("liveprices");
         res.add("v2");
         res.add(mMarket);
-        res.add(mcu);
-        res.add();
-        res.add();
-        res.add();
-        res.add();
-        res.add();
-        res.add();
+        res.add(mCurrency);
+        res.add(mLocale);
+        res.add(mEntityId);
+        res.add(mCheckIn);
+        res.add(mCheckOut);
+        res.add(mGuests);
+        res.add(mRooms);
         
         return res;
     }

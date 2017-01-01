@@ -19,6 +19,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
+import java.time.Duration;
 import java.time.Instant;
 import java.util.ArrayList;
 import java.util.Base64;
@@ -261,6 +262,14 @@ public abstract class ApiRequest<R> {
          */
         public String getUrl(final Path path) {
             return getUrl(path2id.get(path));
+        }
+        
+        /**
+         * @param url a URL
+         * @return the time of the request
+         */
+        public Instant getTime(final String url) {
+            return url2time.get(url);
         }
         
         /**
@@ -594,8 +603,34 @@ public abstract class ApiRequest<R> {
         url = getBaseUrl() + query.toString();
     }
     
+    /**
+     * If a cached response for this request is more than
+     * {@link #getRefreshDuration()} old, then a new request is made.
+     * 
+     * @return the Duration for how long a response is still valid
+     *         defaults to 1 day
+     */
+    protected Duration getRefreshDuration() {
+        return Duration.ofDays(1);
+    }
+    
+    /**
+     * @return true if the last cached request is expired (i.e. the time between
+     *         now and the last cache is greater than
+     *         {@link #getRefreshDuration()})
+     */
+    private boolean isExpired() {
+        final Instant lastTime = requestCache.getTime(url);
+        final Duration elapsed = Duration.between(lastTime, Instant.now());
+        final Duration refreshDuration = getRefreshDuration();
+        return refreshDuration.minus(elapsed).isNegative();
+    }
+    
+    /**
+     * @return true if the response has been cached and is recent enough
+     */
     private boolean isCached() {
-        return requestCache.containsUrl(url);
+        return requestCache.containsUrl(url) && !isExpired();
     }
     
     /**

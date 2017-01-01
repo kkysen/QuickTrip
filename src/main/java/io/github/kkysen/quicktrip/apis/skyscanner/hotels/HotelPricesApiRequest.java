@@ -83,7 +83,7 @@ public class HotelPricesApiRequest extends SkyscannerApiRequest<HotelResponse> {
     }
     
     public HotelResponse call() throws IOException {
-        return parseFromUrl(getBaseUrl() + "?apikey=" + getApiKey());
+        return deserializeFromUrl(getBaseUrl() + "?apikey=" + getApiKey());
     }
     
     @Override

@@ -119,7 +119,7 @@ public class HotelDetailsApiRequest extends SkyscannerApiRequest<HotelDetailsRes
         HotelDetailsResponse h = null;
         while (counter < 5) {
         	try {
-				h = request.parseFromUrl(req);
+				h = request.deserializeFromUrl(req);
 				break;
 			} catch (IOException e) {
 				System.out.println("trying again");

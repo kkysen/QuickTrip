@@ -32,7 +32,8 @@ public class HotelDetailsApiRequest extends SkyscannerApiRequest<HotelDetailsRes
     
     @Override
     protected String getOverridingUrl() {
-        return null; // FIXME I'm not sure what you want this to be
+        return "http://partners.api.skyscanner.net/" + restOfUrl;
+        // FIXME I'm not sure what you want this to be
     }
     
     @Override

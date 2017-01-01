@@ -390,7 +390,7 @@ public abstract class ApiRequest<R> {
     
     protected abstract void cache(Path path, R response) throws IOException;
     
-    public final R getReponse() throws IOException {
+    public final R getResponse() throws IOException {
         if (url == null) {
             setQueryAndUrl();
         }

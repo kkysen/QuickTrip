@@ -11,6 +11,8 @@ import java.util.GregorianCalendar;
 import java.util.List;
 import java.util.Locale;
 
+import com.google.gson.GsonBuilder;
+
 /**
  * 
  * 
@@ -117,12 +119,13 @@ public class HotelPricesApiRequest extends SkyscannerApiRequest<HotelResponse> {
                 2,
                 1);
         
-        final HotelResponse r = h.call();
+        final HotelResponse response = h.getResponse();
         System.out.println(h.getBaseUrl() + "?apikey=" + h.getApiKey());
-        final String details = r.getHotelUrl().getDetails();
-        final int hid = r.getHotelList().get(0).getId();
+        final String details = response.getHotelUrl().getDetails();
+        final int hid = response.getHotelList().get(0).getId();
         System.out.println(details);
         System.out.println(hid);
         
+        System.out.println(new GsonBuilder().setPrettyPrinting().create().toJson(response));
     }
 }

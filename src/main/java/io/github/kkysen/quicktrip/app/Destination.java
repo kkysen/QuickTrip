@@ -44,7 +44,7 @@ public class Destination {
     
     private void addHotelsRequest(final ApiRequest<List<Hotel>> request) {
         try {
-            possibleHotels.addAll(request.getReponse());
+            possibleHotels.addAll(request.getResponse());
         } catch (final IOException e) {
             // don't add any hotels
         }

@@ -38,7 +38,7 @@ public class AddressExistsRequest extends GoogleMapsApiRequest<AddressExistsOnly
         if (address.isEmpty()) {
             return false;
         }
-        return new AddressExistsRequest(address).getReponse().exists();
+        return new AddressExistsRequest(address).getResponse().exists();
     }
     
 }

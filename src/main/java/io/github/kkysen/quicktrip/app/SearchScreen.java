@@ -110,7 +110,7 @@ public class SearchScreen implements Screen {
         /**
          * makes an error dialog if the address does not exist
          * 
-         * @throws InputError
+         * @throws InputError if the address doesn't exist
          */
         private void validateAddress() throws InputError {
             SearchScreen.this.validateAddress(address);
@@ -141,7 +141,7 @@ public class SearchScreen implements Screen {
          * validates input (i.e. error dialog if invalid)
          * should be called before {@link #serialize()}
          * 
-         * @throws InputError
+         * @throws InputError if the user input was invalid
          * 
          * @see #serialize()
          */

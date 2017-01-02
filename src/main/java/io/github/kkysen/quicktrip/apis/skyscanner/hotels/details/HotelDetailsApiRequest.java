@@ -39,18 +39,21 @@ public class HotelDetailsApiRequest extends SkyscannerApiRequest<HotelDetailsRes
     public HotelDetailsApiRequest(final HotelResponse hotels) {
         this(hotels.getHotelUrl().getDetails(),
                 hotels.getHotelList().stream()
-                .map(HotelEntry::getId)
-                .map(Object::toString)
-                .collect(Collectors.toList()));
+                        .map(HotelEntry::getId)
+                        .map(Object::toString)
+                        .collect(Collectors.toList()));
     }
     
     /**
-     * Query format: http://partners.api.skyscanner.net/apiservices/hotels/livedetails/v2/details/
-     * 					(session key)?apikey=(encrypted key)
-     * 					&hotelIds=(comma seperated ids)
-     * */
+     * Query format:
+     * http://partners.api.skyscanner.net/apiservices/hotels/livedetails/v2/details/
+     * (session key)?apikey=(encrypted key)
+     * &hotelIds=(comma seperated ids)
+     * 
+     * @return full URL
+     */
     public String assembleUrl() {
-    	return getBaseUrl() + "?apikey=" + encryptedApiKey + "&hotelIds=" + hotelIds;
+        return getBaseUrl() + "?apikey=" + encryptedApiKey + "&hotelIds=" + hotelIds;
     }
     
     @Override
@@ -60,8 +63,7 @@ public class HotelDetailsApiRequest extends SkyscannerApiRequest<HotelDetailsRes
                 "livedetails",
                 "v2",
                 "details",
-                sessionKey
-                );
+                sessionKey);
     }
     
     @Override
@@ -79,29 +81,28 @@ public class HotelDetailsApiRequest extends SkyscannerApiRequest<HotelDetailsRes
         final Gson gson = new GsonBuilder().setPrettyPrinting().create();
         
         HotelResponse hotelResponse = null;
-        HotelPricesApiRequest temp = new HotelPricesApiRequest(
-		        "US",
-		        Locale.US,
-		        40.71, -74.00,
-		        new GregorianCalendar(2017, 0, 16).toZonedDateTime(),
-		        new GregorianCalendar(2017, 0, 17).toZonedDateTime(),
-		        2,
-		        1);
-		try {
-			hotelResponse = temp.getResponse();
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
+        final HotelPricesApiRequest temp = new HotelPricesApiRequest(
+                "US",
+                Locale.US,
+                40.71, -74.00,
+                new GregorianCalendar(2017, 0, 16).toZonedDateTime(),
+                new GregorianCalendar(2017, 0, 17).toZonedDateTime(),
+                2,
+                1);
+        try {
+            hotelResponse = temp.getResponse();
+        } catch (final IOException e) {
+            e.printStackTrace();
+        }
         //System.out.println(gson.toJson(hotelResponse));
         
-		
-		final List<String> ids = hotelResponse.getHotelList()
+        final List<String> ids = hotelResponse.getHotelList()
                 .stream()
                 .map(HotelEntry::getId)
                 .map(Object::toString)
                 .collect(Collectors.toList());
         
-        String rest = hotelResponse.getHotelUrl().getDetails();
+        final String rest = hotelResponse.getHotelUrl().getDetails();
         System.out.println(rest);
         
         //String complete = "http://partners.api.skyscanner.net" +
@@ -111,27 +112,26 @@ public class HotelDetailsApiRequest extends SkyscannerApiRequest<HotelDetailsRes
         final HotelDetailsApiRequest request = new HotelDetailsApiRequest(
                 hotelResponse.getHotelUrl().getDetails(),
                 ids);
-		
+        
         //Thread.sleep(5000);
-        String req = request.assembleUrl();
+        final String req = request.assembleUrl();
         //System.out.println(req);
         int counter = 0;
         HotelDetailsResponse h = null;
         while (counter < 5) {
-        	try {
-				h = request.deserializeFromUrl(req);
-				break;
-			} catch (IOException e) {
-				System.out.println("trying again");
-				//if (counter == 4) 
-				//e.printStackTrace();
-				Thread.sleep(1000);
-			}
-        	counter++;
+            try {
+                h = request.deserializeFromUrl(req);
+                break;
+            } catch (final IOException e) {
+                System.out.println("trying again");
+                //if (counter == 4) 
+                //e.printStackTrace();
+                Thread.sleep(1000);
+            }
+            counter++;
         }
         
-        
-		System.out.println(gson.toJson(h));
+        System.out.println(gson.toJson(h));
     }
     
 }

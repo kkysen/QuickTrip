@@ -24,6 +24,7 @@ import java.time.Instant;
 import java.util.ArrayList;
 import java.util.Base64;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
@@ -208,7 +209,7 @@ public abstract class ApiRequest<R> {
         }
         
         /**
-         * @return {@link Set#toString()} of {@link #entries}
+         * @return {@link HashSet#toString()} of {@link #entries}
          * 
          * @see java.lang.Object#toString()
          */
@@ -377,7 +378,7 @@ public abstract class ApiRequest<R> {
         
         /**
          * creates the main RequestCache (only one is used statically) from
-         * {@value #REQUEST_CACHE_PATH}
+         * {@link #REQUEST_CACHE_PATH}
          */
         public RequestCache() {
             this(REQUEST_CACHE_PATH);
@@ -392,7 +393,7 @@ public abstract class ApiRequest<R> {
         
         /**
          * saves this RequestCache as a {@value #SEP} separated .txt file at
-         * {@value #REQUEST_CACHE_PATH}
+         * {@link #REQUEST_CACHE_PATH}
          */
         public void save() {
             try {
@@ -411,15 +412,15 @@ public abstract class ApiRequest<R> {
      * 
      * @author Khyber Sen
      */
-    private static final class QueryEncoder extends LinkedHashMap<String, String> {
+    static final class QueryEncoder extends LinkedHashMap<String, String> {
         
         private static final long serialVersionUID = 3055592436293901045L;
         
         public QueryEncoder() {}
         
         /**
-         * calls LinkedHashMap<String, String>{@link #put(String, String)}
-         * except with the value URL encoded by {@link URLEncode} in UTF-8
+         * calls {@link LinkedHashMap#put(Object, Object)}
+         * except with the value URL encoded by {@link URLEncoder} in UTF-8
          * 
          * @see java.util.HashMap#put(java.lang.Object, java.lang.Object)
          */
@@ -470,7 +471,7 @@ public abstract class ApiRequest<R> {
     private @Getter(AccessLevel.PROTECTED) String url;
     
     /**
-     * @return the Class<R> of this request's response
+     * @return the Class of type R of this request's response
      */
     protected abstract Class<? extends R> getPojoClass();
     
@@ -514,7 +515,7 @@ public abstract class ApiRequest<R> {
      * query
      * {@link QueryEncoder}
      */
-    private void reflectQuery() {
+    void reflectQuery() {
         final List<Field> queryFields = Reflect.getInstanceVars(this);
         // filter out fields that are not QueryFields or have encode = false
         final Map<Field, QueryField> field2annotation = new HashMap<>();

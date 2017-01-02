@@ -1,5 +1,6 @@
 package io.github.kkysen.quicktrip.web;
 
+import io.github.kkysen.quicktrip.io.MyFiles;
 import io.github.kkysen.quicktrip.util.regex.RegexUtils;
 
 import java.io.BufferedReader;
@@ -9,11 +10,13 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.nio.file.Paths;
 import java.util.Collection;
 import java.util.function.Function;
 import java.util.function.Predicate;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 import org.apache.commons.logging.LogFactory;
@@ -30,6 +33,9 @@ import com.gargoylesoftware.htmlunit.WebClientOptions;
 import com.gargoylesoftware.htmlunit.html.HTMLParserListener;
 import com.gargoylesoftware.htmlunit.html.HtmlPage;
 import com.gargoylesoftware.htmlunit.javascript.JavaScriptErrorListener;
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import com.google.gson.JsonParser;
 
 // TODO add Selenium support for rendered documents
 
@@ -318,7 +324,26 @@ public class Internet {
     }
     
     public static void main(final String[] args) throws Exception {
-        System.out.println(getRenderedDocument("http://google.com/search?q=hello").html());
+        final String urlBeginning = "https://www.hotels.com/search/listings.json?sort-order=DISTANCE_FROM_LANDMARK&q-destination=296+6th+St,+Brooklyn,+NY+11215,+USA&q-room-1-children=0&q-room-0-adults=2&q-room-1-adults=2&pg=1&q-rooms=2&start-index=130&resolved-location=GEO_LOCATION:296+6th+St,+Brooklyn,+NY+11215,+USA%7C40.671424865722656%7C-73.98621368408203:GEOCODE:UNKNOWN&q-room-0-children=0&pn=";
+        final String urlEnd = "&callback=dio.pages.sha.searchResultsCallback";
+        IntStream.rangeClosed(0, 20).parallel().forEach(i -> {
+            final String url = urlBeginning + i + urlEnd;
+            String json;
+            try {
+                json = getString(url);
+            } catch (final IOException e) {
+                throw new RuntimeException(e);
+            }
+            json = json.substring(json.indexOf('{'), json.lastIndexOf('}') + 1);
+            final Gson gson = new GsonBuilder().setPrettyPrinting().create();
+            final String formattedJson = gson
+                    .toJson(new JsonParser().parse(json).getAsJsonObject());
+            try {
+                MyFiles.write(Paths.get("hotels.com test pg=" + i + ".json"), formattedJson);
+            } catch (final IOException e) {
+                throw new RuntimeException(e);
+            }
+        });
     }
     
 }

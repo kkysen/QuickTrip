@@ -1,0 +1,815 @@
+{
+  "data": {
+    "body": {
+      "header": "296 6th St, Brooklyn, NY 11215, USA",
+      "query": {
+        "destination": {
+          "id": "",
+          "value": "296 6th St, Brooklyn, NY 11215, USA",
+          "resolvedLocation": "GEO_LOCATION:296 6th St, Brooklyn, NY 11215, USA|40.671424865722656|-73.98621368408203:GEOCODE:UNKNOWN",
+          "destinationType": "GEOCODE"
+        }
+      },
+      "searchResults": {
+        "totalCount": 1210,
+        "pagination": {
+          "currentPage": 20,
+          "pageGroup": "EXPEDIA_IN_POLYGON",
+          "nextPageUrl": "?sort-order\u003dDISTANCE_FROM_LANDMARK\u0026q-destination\u003d296+6th+St,+Brooklyn,+NY+11215,+USA\u0026q-room-1-children\u003d0\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026pg\u003d1\u0026q-rooms\u003d2\u0026start-index\u003d140\u0026resolved-location\u003dGEO_LOCATION:296+6th+St,+Brooklyn,+NY+11215,+USA%7C40.671424865722656%7C-73.98621368408203:GEOCODE:UNKNOWN\u0026q-room-0-children\u003d0\u0026pn\u003d21",
+          "previousPageUrl": "?sort-order\u003dDISTANCE_FROM_LANDMARK\u0026q-destination\u003d296+6th+St,+Brooklyn,+NY+11215,+USA\u0026q-room-1-children\u003d0\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026q-rooms\u003d2\u0026start-index\u003d120\u0026resolved-location\u003dGEO_LOCATION:296+6th+St,+Brooklyn,+NY+11215,+USA%7C40.671424865722656%7C-73.98621368408203:GEOCODE:UNKNOWN\u0026q-room-0-children\u003d0\u0026pn\u003d19"
+        },
+        "results": [
+          {
+            "id": 495381,
+            "accommodationType": "_ACC_TYPE_NAME@Apartment",
+            "supplierHotelId": 10088254,
+            "name": "Greenwich Village Apartment",
+            "telephone": {
+              "number": "866-573-4235",
+              "info": ""
+            },
+            "address": {
+              "streetAddress": "100 Houston Street, Apt 2",
+              "extendedAddress": "",
+              "locality": "New York",
+              "postalCode": "10013",
+              "region": "NY",
+              "countryName": "United States",
+              "countryCode": "us"
+            },
+            "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/11000000/10090000/10088300/10088254/10088254_3_l.jpg",
+            "starRating": 3.0,
+            "urls": {
+              "pdpDescription": "/hotel/details.html?pa\u003d131\u0026tab\u003ddescription\u0026q-room-1-children\u003d0\u0026hotel-id\u003d495381\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0",
+              "pdpMap": "/hotel/details.html?pa\u003d131\u0026tab\u003dmaps\u0026q-room-1-children\u003d0\u0026hotel-id\u003d495381\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0",
+              "pdpReviews": "/hotel/details.html?pa\u003d131\u0026tab\u003dreviews\u0026q-room-1-children\u003d0\u0026hotel-id\u003d495381\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0"
+            },
+            "welcomeRewards": {
+              "info": "Collect 10 nights, get 1 free* with Hotels.com® Rewards"
+            },
+            "landmarks": [
+              {
+                "label": "296 6th St, Brooklyn, NY 11215, USA",
+                "distance": "3.9 miles"
+              },
+              {
+                "label": "Times Square",
+                "distance": "2.1 miles"
+              }
+            ],
+            "neighbourhood": "SoHo - Tribeca",
+            "deals": {},
+            "messaging": {},
+            "position": 131,
+            "supplier": {
+              "name": "EXPEDIA",
+              "id": 13,
+              "type": "MERCHANT"
+            },
+            "badging": {},
+            "pimmsAttributes": "DDSP|EL5F|N7H",
+            "altText": "Greenwich Village Apartment, New York"
+          },
+          {
+            "id": 646045,
+            "accommodationType": "_ACC_TYPE_NAME@Apartment",
+            "supplierHotelId": 16712376,
+            "name": "Royal Suites at Exchange Place",
+            "telephone": {
+              "number": "866-925-8676",
+              "info": ""
+            },
+            "address": {
+              "streetAddress": "70 Greene St., #4105",
+              "extendedAddress": "",
+              "locality": "Jersey City",
+              "postalCode": "07302",
+              "region": "NJ",
+              "countryName": "United States",
+              "countryCode": "us"
+            },
+            "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/17000000/16720000/16712400/16712376/b069787c_l.jpg",
+            "starRating": 3.0,
+            "urls": {
+              "pdpDescription": "/hotel/details.html?pa\u003d132\u0026tab\u003ddescription\u0026q-room-1-children\u003d0\u0026hotel-id\u003d646045\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0",
+              "pdpMap": "/hotel/details.html?pa\u003d132\u0026tab\u003dmaps\u0026q-room-1-children\u003d0\u0026hotel-id\u003d646045\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0",
+              "pdpReviews": "/hotel/details.html?pa\u003d132\u0026tab\u003dreviews\u0026q-room-1-children\u003d0\u0026hotel-id\u003d646045\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0"
+            },
+            "welcomeRewards": {
+              "info": "Collect 10 nights, get 1 free* with Hotels.com® Rewards"
+            },
+            "landmarks": [
+              {
+                "label": "296 6th St, Brooklyn, NY 11215, USA",
+                "distance": "3.9 miles"
+              },
+              {
+                "label": "Times Square",
+                "distance": "3.9 miles"
+              }
+            ],
+            "ratePlan": {
+              "price": {
+                "current": "$249",
+                "exactCurrent": 249.0,
+                "fromPrice": true
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": false
+              }
+            },
+            "neighbourhood": "Downtown Jersey City",
+            "deals": {},
+            "messaging": {},
+            "position": 132,
+            "supplier": {
+              "name": "EXPEDIA",
+              "id": 13,
+              "type": "MERCHANT"
+            },
+            "badging": {
+              "hotelBadge": {
+                "type": "justAdded",
+                "label": "Just added"
+              }
+            },
+            "pimmsAttributes": "newhotel",
+            "altText": "Royal Suites at Exchange Place, Jersey City"
+          },
+          {
+            "id": 446978,
+            "accommodationType": "_ACC_TYPE_NAME@Apartment",
+            "supplierHotelId": 6986438,
+            "name": "Luxy on The Hudson",
+            "telephone": {
+              "number": "866-767-0278",
+              "info": ""
+            },
+            "address": {
+              "streetAddress": "70 Greene Street",
+              "extendedAddress": "",
+              "locality": "Jersey City",
+              "postalCode": "07302",
+              "region": "NJ",
+              "countryName": "United States",
+              "countryCode": "us"
+            },
+            "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/7000000/6990000/6986500/6986438/6986438_2_l.jpg",
+            "starRating": 4.0,
+            "urls": {
+              "pdpDescription": "/hotel/details.html?pa\u003d133\u0026tab\u003ddescription\u0026q-room-1-children\u003d0\u0026hotel-id\u003d446978\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0",
+              "pdpMap": "/hotel/details.html?pa\u003d133\u0026tab\u003dmaps\u0026q-room-1-children\u003d0\u0026hotel-id\u003d446978\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0",
+              "pdpReviews": "/hotel/details.html?pa\u003d133\u0026tab\u003dreviews\u0026q-room-1-children\u003d0\u0026hotel-id\u003d446978\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0"
+            },
+            "welcomeRewards": {
+              "info": "Collect 10 nights, get 1 free* with Hotels.com® Rewards"
+            },
+            "guestReviews": {
+              "rating": "3.0",
+              "total": 21,
+              "scale": 5,
+              "badge": "good",
+              "badgeText": "Good"
+            },
+            "landmarks": [
+              {
+                "label": "296 6th St, Brooklyn, NY 11215, USA",
+                "distance": "4.0 miles"
+              },
+              {
+                "label": "Times Square",
+                "distance": "3.9 miles"
+              }
+            ],
+            "ratePlan": {
+              "price": {
+                "current": "$250",
+                "exactCurrent": 250.0,
+                "fromPrice": true
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": false
+              }
+            },
+            "neighbourhood": "Downtown Jersey City",
+            "deals": {},
+            "messaging": {},
+            "position": 133,
+            "supplier": {
+              "name": "EXPEDIA",
+              "id": 13,
+              "type": "MERCHANT"
+            },
+            "badging": {},
+            "pimmsAttributes": "DDSP|EL5G|N7H",
+            "altText": "Luxy on The Hudson, Jersey City"
+          },
+          {
+            "id": 629200,
+            "accommodationType": "_ACC_TYPE_NAME@Hotel",
+            "supplierHotelId": 16118408,
+            "name": "Hyatt House Jersey City",
+            "telephone": {
+              "number": "866-925-4159",
+              "info": ""
+            },
+            "address": {
+              "streetAddress": "1 Exchange Pl",
+              "extendedAddress": "",
+              "locality": "Jersey City",
+              "postalCode": "07302",
+              "region": "NJ",
+              "countryName": "United States",
+              "countryCode": "us"
+            },
+            "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/17000000/16120000/16118500/16118408/9948a5b5_l.jpg",
+            "starRating": 2.5,
+            "urls": {
+              "pdpDescription": "/hotel/details.html?pa\u003d134\u0026tab\u003ddescription\u0026q-room-1-children\u003d0\u0026hotel-id\u003d629200\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0",
+              "pdpMap": "/hotel/details.html?pa\u003d134\u0026tab\u003dmaps\u0026q-room-1-children\u003d0\u0026hotel-id\u003d629200\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0",
+              "pdpReviews": "/hotel/details.html?pa\u003d134\u0026tab\u003dreviews\u0026q-room-1-children\u003d0\u0026hotel-id\u003d629200\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0"
+            },
+            "welcomeRewards": {
+              "info": "Collect 10 nights, get 1 free* with Hotels.com® Rewards"
+            },
+            "tripAdvisorGuestReviews": {
+              "rating": 4.5,
+              "total": 2533
+            },
+            "landmarks": [
+              {
+                "label": "296 6th St, Brooklyn, NY 11215, USA",
+                "distance": "4.0 miles"
+              },
+              {
+                "label": "Times Square",
+                "distance": "3.7 miles"
+              }
+            ],
+            "neighbourhood": "Downtown Jersey City",
+            "deals": {},
+            "messaging": {},
+            "position": 134,
+            "supplier": {
+              "name": "EXPEDIA",
+              "id": 13,
+              "type": "MERCHANT"
+            },
+            "badging": {
+              "hotelBadge": {
+                "type": "justAdded",
+                "label": "Just added"
+              }
+            },
+            "pimmsAttributes": "newhotel",
+            "altText": "Hyatt House Jersey City, Jersey City"
+          },
+          {
+            "id": 557934,
+            "accommodationType": "_ACC_TYPE_NAME@Apartment",
+            "supplierHotelId": 12455007,
+            "name": "BellaView Suites",
+            "telephone": {
+              "number": "866-538-0251",
+              "info": ""
+            },
+            "address": {
+              "streetAddress": "70 Greene Street",
+              "extendedAddress": "",
+              "locality": "Jersey City",
+              "postalCode": "07302",
+              "region": "NJ",
+              "countryName": "United States",
+              "countryCode": "us"
+            },
+            "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/13000000/12460000/12455100/12455007/12455007_5_l.jpg",
+            "starRating": 3.0,
+            "urls": {
+              "pdpDescription": "/hotel/details.html?pa\u003d135\u0026tab\u003ddescription\u0026q-room-1-children\u003d0\u0026hotel-id\u003d557934\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0",
+              "pdpMap": "/hotel/details.html?pa\u003d135\u0026tab\u003dmaps\u0026q-room-1-children\u003d0\u0026hotel-id\u003d557934\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0",
+              "pdpReviews": "/hotel/details.html?pa\u003d135\u0026tab\u003dreviews\u0026q-room-1-children\u003d0\u0026hotel-id\u003d557934\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0"
+            },
+            "welcomeRewards": {
+              "info": "Collect 10 nights, get 1 free* with Hotels.com® Rewards"
+            },
+            "landmarks": [
+              {
+                "label": "296 6th St, Brooklyn, NY 11215, USA",
+                "distance": "4.0 miles"
+              },
+              {
+                "label": "Times Square",
+                "distance": "3.9 miles"
+              }
+            ],
+            "ratePlan": {
+              "price": {
+                "current": "$2,000",
+                "exactCurrent": 2000.0,
+                "fromPrice": true
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": false
+              }
+            },
+            "neighbourhood": "Downtown Jersey City",
+            "deals": {},
+            "messaging": {},
+            "position": 135,
+            "supplier": {
+              "name": "EXPEDIA",
+              "id": 13,
+              "type": "MERCHANT"
+            },
+            "badging": {},
+            "pimmsAttributes": "E7V5|N7H",
+            "altText": "BellaView Suites, Jersey City"
+          },
+          {
+            "id": 454010,
+            "accommodationType": "_ACC_TYPE_NAME@Apart-hotel",
+            "supplierHotelId": 7860886,
+            "name": "Green Suites",
+            "telephone": {
+              "number": "866-538-1314",
+              "info": ""
+            },
+            "address": {
+              "streetAddress": "70 Green St",
+              "extendedAddress": "",
+              "locality": "Jersey City",
+              "postalCode": "07302",
+              "region": "NJ",
+              "countryName": "United States",
+              "countryCode": "us"
+            },
+            "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/8000000/7870000/7860900/7860886/7860886_14_l.jpg",
+            "starRating": 3.5,
+            "urls": {
+              "pdpDescription": "/hotel/details.html?pa\u003d136\u0026tab\u003ddescription\u0026q-room-1-children\u003d0\u0026hotel-id\u003d454010\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0",
+              "pdpMap": "/hotel/details.html?pa\u003d136\u0026tab\u003dmaps\u0026q-room-1-children\u003d0\u0026hotel-id\u003d454010\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0",
+              "pdpReviews": "/hotel/details.html?pa\u003d136\u0026tab\u003dreviews\u0026q-room-1-children\u003d0\u0026hotel-id\u003d454010\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0"
+            },
+            "welcomeRewards": {
+              "info": "Collect 10 nights, get 1 free* with Hotels.com® Rewards"
+            },
+            "landmarks": [
+              {
+                "label": "296 6th St, Brooklyn, NY 11215, USA",
+                "distance": "4.0 miles"
+              },
+              {
+                "label": "Times Square",
+                "distance": "3.9 miles"
+              }
+            ],
+            "neighbourhood": "Downtown Jersey City",
+            "deals": {},
+            "messaging": {},
+            "position": 136,
+            "supplier": {
+              "name": "EXPEDIA",
+              "id": 13,
+              "type": "MERCHANT"
+            },
+            "badging": {},
+            "pimmsAttributes": "EL5G",
+            "altText": "Green Suites, Jersey City"
+          },
+          {
+            "id": 567890,
+            "accommodationType": "_ACC_TYPE_NAME@Apartment",
+            "supplierHotelId": 13244513,
+            "name": "Premier Furnished Apt at 70 Greene",
+            "telephone": {
+              "number": "866-538-6252",
+              "info": ""
+            },
+            "address": {
+              "streetAddress": "70 Greene St",
+              "extendedAddress": "",
+              "locality": "Jersey City",
+              "postalCode": "07302",
+              "region": "NJ",
+              "countryName": "United States",
+              "countryCode": "us"
+            },
+            "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/14000000/13250000/13244600/13244513/13244513_15_l.jpg",
+            "starRating": 4.0,
+            "urls": {
+              "pdpDescription": "/hotel/details.html?pa\u003d137\u0026tab\u003ddescription\u0026q-room-1-children\u003d0\u0026hotel-id\u003d567890\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0",
+              "pdpMap": "/hotel/details.html?pa\u003d137\u0026tab\u003dmaps\u0026q-room-1-children\u003d0\u0026hotel-id\u003d567890\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0",
+              "pdpReviews": "/hotel/details.html?pa\u003d137\u0026tab\u003dreviews\u0026q-room-1-children\u003d0\u0026hotel-id\u003d567890\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0"
+            },
+            "welcomeRewards": {
+              "info": "Collect 10 nights, get 1 free* with Hotels.com® Rewards"
+            },
+            "tripAdvisorGuestReviews": {
+              "rating": 3.5,
+              "total": 6
+            },
+            "landmarks": [
+              {
+                "label": "296 6th St, Brooklyn, NY 11215, USA",
+                "distance": "4.0 miles"
+              },
+              {
+                "label": "Times Square",
+                "distance": "3.9 miles"
+              }
+            ],
+            "neighbourhood": "Downtown Jersey City",
+            "deals": {},
+            "messaging": {},
+            "position": 137,
+            "supplier": {
+              "name": "EXPEDIA",
+              "id": 13,
+              "type": "MERCHANT"
+            },
+            "badging": {},
+            "altText": "Premier Furnished Apt at 70 Greene, Jersey City"
+          },
+          {
+            "id": 487640,
+            "accommodationType": "_ACC_TYPE_NAME@Apart-hotel",
+            "supplierHotelId": 9750761,
+            "name": "Cesar Suites at Greene",
+            "telephone": {
+              "number": "866-538-9298",
+              "info": ""
+            },
+            "address": {
+              "streetAddress": "70 Greene Street",
+              "extendedAddress": "",
+              "locality": "Jersey City",
+              "postalCode": "07302",
+              "region": "NJ",
+              "countryName": "United States",
+              "countryCode": "us"
+            },
+            "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/10000000/9760000/9750800/9750761/9750761_27_l.jpg",
+            "starRating": 4.0,
+            "urls": {
+              "pdpDescription": "/hotel/details.html?pa\u003d138\u0026tab\u003ddescription\u0026q-room-1-children\u003d0\u0026hotel-id\u003d487640\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0",
+              "pdpMap": "/hotel/details.html?pa\u003d138\u0026tab\u003dmaps\u0026q-room-1-children\u003d0\u0026hotel-id\u003d487640\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0",
+              "pdpReviews": "/hotel/details.html?pa\u003d138\u0026tab\u003dreviews\u0026q-room-1-children\u003d0\u0026hotel-id\u003d487640\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0"
+            },
+            "welcomeRewards": {
+              "info": "Collect 10 nights, get 1 free* with Hotels.com® Rewards"
+            },
+            "guestReviews": {
+              "rating": "5.0",
+              "total": 2,
+              "scale": 5,
+              "badge": "outstanding",
+              "badgeText": "Outstanding"
+            },
+            "tripAdvisorGuestReviews": {
+              "rating": 1.0,
+              "total": 19
+            },
+            "landmarks": [
+              {
+                "label": "296 6th St, Brooklyn, NY 11215, USA",
+                "distance": "4.0 miles"
+              },
+              {
+                "label": "Times Square",
+                "distance": "3.9 miles"
+              }
+            ],
+            "ratePlan": {
+              "price": {
+                "current": "$499",
+                "exactCurrent": 499.0,
+                "fromPrice": true
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": false
+              }
+            },
+            "neighbourhood": "Downtown Jersey City",
+            "deals": {},
+            "messaging": {},
+            "position": 138,
+            "supplier": {
+              "name": "EXPEDIA",
+              "id": 13,
+              "type": "MERCHANT"
+            },
+            "badging": {},
+            "pimmsAttributes": "EL5F|N7H",
+            "altText": "Cesar Suites at Greene, Jersey City"
+          },
+          {
+            "id": 487405,
+            "accommodationType": "_ACC_TYPE_NAME@Apartment",
+            "supplierHotelId": 9743322,
+            "name": "Global Luxury Suites at Greene",
+            "telephone": {
+              "number": "866-539-5067",
+              "info": ""
+            },
+            "address": {
+              "streetAddress": "70 Greene Street ",
+              "extendedAddress": "",
+              "locality": "Jersey City ",
+              "postalCode": "07302",
+              "region": "NJ",
+              "countryName": "United States",
+              "countryCode": "us"
+            },
+            "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/10000000/9750000/9743400/9743322/ca92f354_l.jpg",
+            "starRating": 4.0,
+            "urls": {
+              "pdpDescription": "/hotel/details.html?pa\u003d139\u0026tab\u003ddescription\u0026q-room-1-children\u003d0\u0026hotel-id\u003d487405\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0",
+              "pdpMap": "/hotel/details.html?pa\u003d139\u0026tab\u003dmaps\u0026q-room-1-children\u003d0\u0026hotel-id\u003d487405\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0",
+              "pdpReviews": "/hotel/details.html?pa\u003d139\u0026tab\u003dreviews\u0026q-room-1-children\u003d0\u0026hotel-id\u003d487405\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0"
+            },
+            "welcomeRewards": {
+              "info": "Collect 10 nights, get 1 free* with Hotels.com® Rewards"
+            },
+            "guestReviews": {
+              "rating": "3.6",
+              "total": 24,
+              "scale": 5,
+              "badge": "good",
+              "badgeText": "Good"
+            },
+            "tripAdvisorGuestReviews": {
+              "rating": 1.0,
+              "total": 19
+            },
+            "landmarks": [
+              {
+                "label": "296 6th St, Brooklyn, NY 11215, USA",
+                "distance": "4.0 miles"
+              },
+              {
+                "label": "Times Square",
+                "distance": "3.9 miles"
+              }
+            ],
+            "ratePlan": {
+              "price": {
+                "current": "$129",
+                "exactCurrent": 129.0,
+                "fromPrice": true
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": false
+              }
+            },
+            "neighbourhood": "Downtown Jersey City",
+            "deals": {},
+            "messaging": {},
+            "position": 139,
+            "supplier": {
+              "name": "EXPEDIA",
+              "id": 13,
+              "type": "MERCHANT"
+            },
+            "badging": {},
+            "pimmsAttributes": "DDSP|EL5F",
+            "altText": "Global Luxury Suites at Greene, Jersey City "
+          },
+          {
+            "id": 359473,
+            "accommodationType": "_ACC_TYPE_NAME@Apartment",
+            "supplierHotelId": 3901383,
+            "name": "NYC-JC Guest Suites",
+            "telephone": {
+              "number": "866-539-9234",
+              "info": ""
+            },
+            "address": {
+              "streetAddress": "70 Greene Street",
+              "extendedAddress": "",
+              "locality": "Jersey City",
+              "postalCode": "07302",
+              "region": "NJ",
+              "countryName": "United States",
+              "countryCode": "us"
+            },
+            "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/4000000/3910000/3901400/3901383/3901383_22_l.jpg",
+            "starRating": 4.0,
+            "urls": {
+              "pdpDescription": "/hotel/details.html?pa\u003d140\u0026tab\u003ddescription\u0026q-room-1-children\u003d0\u0026hotel-id\u003d359473\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0",
+              "pdpMap": "/hotel/details.html?pa\u003d140\u0026tab\u003dmaps\u0026q-room-1-children\u003d0\u0026hotel-id\u003d359473\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0",
+              "pdpReviews": "/hotel/details.html?pa\u003d140\u0026tab\u003dreviews\u0026q-room-1-children\u003d0\u0026hotel-id\u003d359473\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026ZSX\u003d0\u0026SYE\u003d3\u0026q-room-0-children\u003d0"
+            },
+            "welcomeRewards": {
+              "info": "Collect 10 nights, get 1 free* with Hotels.com® Rewards"
+            },
+            "guestReviews": {
+              "rating": "3.8",
+              "total": 10,
+              "scale": 5,
+              "badge": "good",
+              "badgeText": "Good"
+            },
+            "tripAdvisorGuestReviews": {
+              "rating": 4.0,
+              "total": 38
+            },
+            "landmarks": [
+              {
+                "label": "296 6th St, Brooklyn, NY 11215, USA",
+                "distance": "4.0 miles"
+              },
+              {
+                "label": "Times Square",
+                "distance": "3.9 miles"
+              }
+            ],
+            "ratePlan": {
+              "price": {
+                "current": "$253",
+                "exactCurrent": 253.33,
+                "fromPrice": true
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": false
+              }
+            },
+            "neighbourhood": "Downtown Jersey City",
+            "deals": {},
+            "messaging": {},
+            "position": 140,
+            "supplier": {
+              "name": "EXPEDIA",
+              "id": 13,
+              "type": "MERCHANT"
+            },
+            "badging": {},
+            "pimmsAttributes": "DDSP|EL5E|N7H",
+            "altText": "NYC-JC Guest Suites, Jersey City"
+          }
+        ],
+        "debugInfo": {
+          "lcsLocale": "en_US",
+          "marketingChannelCode": "0",
+          "pricingDisplayId": "",
+          "pricingDataSource": "LIS"
+        }
+      },
+      "miscellaneous": {
+        "currentUrlHash": "H4sIAAAAAAAAAI2OXWuDMBSGf816E2OTqNEKMjK1o7RNoLaMXYmYgNLU0CQb7N_PUYawq12dw_Oej2ftVGf7Yf0o4eBv-tkZ66GxUtmi2jVnxsu63Z7EsT0wXh3Zab-6Q6mcH6fOj2YqyIYC6gfQ-AC8WGOu-msKAH8HGBOcBODSsHljDm4Qw34YtbRqKtAvQ7CTH9q7gixTf8hPZ5Uz-lNJqE3_-Ptai_YgSnbeCZ7_Q-IpLWMU0hTHJM5okhJCEzpDmEbhJqMERzSLUUZQlM-nS1HV-YXvuXjji-qi_w2RwHccOgEAAA..",
+        "whyBook": {
+          "phoneNumber": "866-678-6350",
+          "priceMatchUrl": "https://www.hotels.com/customer_care/pillar/price_guarantee.html"
+        },
+        "ads": {
+          "libraryUrl": "https://a.travel-assets.com/ads/expads-hcom.js",
+          "targetingConfig": {
+            "kid": 0,
+            "ssl": 1,
+            "mc1": "a8021732-2802-4e17-acfe-aacc6ce1699c"
+          },
+          "slots": [
+            {
+              "placement": "LEFT1",
+              "height": 150,
+              "width": 180,
+              "path": "/23171577/hotels.us_en/hotels/results/L1"
+            },
+            {
+              "placement": "LEFT1",
+              "height": 600,
+              "width": 160,
+              "path": "/23171577/hotels.us_en/hotels/results/L1"
+            },
+            {
+              "placement": "LEFT2",
+              "height": 600,
+              "width": 160,
+              "path": "/23171577/hotels.us_en/hotels/results/L2"
+            },
+            {
+              "placement": "LEFT2",
+              "height": 60,
+              "width": 468,
+              "path": "/23171577/hotels.us_en/hotels/results/IS1"
+            },
+            {
+              "placement": "LEFT3",
+              "height": 50,
+              "width": 300,
+              "path": "/23171577/hotels.us_en/hotels/results/IS2"
+            }
+          ]
+        },
+        "pageViewBeaconUrl": "//beam.hlserve.com/travel?deviceType\u003dDesktop\u0026sort-order\u003dDISTANCE_FROM_LANDMARK\u0026rooms\u003d2\u0026hotelIds\u003d495381,646045,446978,629200,557934,454010,567890,487640,487405,359473\u0026adults\u003d4\u0026userAgent\u003dJava/1.8.0_92\u0026pageName\u003dHotel-Search\u0026publisherUserGuid\u003da8021732-2802-4e17-acfe-aacc6ce1699c\u0026children\u003d0\u0026culture\u003den_US\u0026domain\u003dwww.hotels.com\u0026userIP\u003d104.162.92.184\u0026action\u003dpageview\u0026publisher\u003dexpedia\u0026programId\u003d1"
+      },
+      "tripAdvisorTrackingUrl": "https://www.tripadvisor.com/img/cdsi/partner/transparent_pixel-11419-1.gif",
+      "loyalty": {}
+    },
+    "common": {
+      "clientToken": "Isoj8oM0zey1lnEp8ZbneDEisfc.",
+      "tracking": {
+        "omniture": {
+          "s.channel": "Results : List",
+          "s.currencyCode": "USD",
+          "s.eVar1": "geolocation|geocoder|unknown|AutoR::geolocation",
+          "s.eVar2": "296 6th St, Brooklyn, NY 11215, USA",
+          "s.eVar4": "|SI:anonymous|VS:newVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|",
+          "s.eVar6": "geo|296 6th St, Brooklyn, NY 11215, USA|40.671|-73.986",
+          "s.eVar7": "",
+          "s.eVar8": "",
+          "s.eVar9": "Distance from address",
+          "s.eVar13": "251463",
+          "s.eVar16": "Brand",
+          "s.eVar24": "MCTC\u003dNULL;TU\u003dNA;PDID\u003dNULL;MVT\u003d",
+          "s.eVar26": "US:NY:NEWYORK:501",
+          "s.eVar33": "search result without dates",
+          "s.eVar34": "H277:017.002,H376:046.029,H555:007.010,H904:011.001,H1167:009.001,H1293:017.011,H1294:018.002,H1423:009.099,H1715:016.001,H1777:026.005,H1871:007.002,H2313:046.003,H2327:007.000,H2522:006.001,H2596:004.001,H2653:001.001,H2661.0,H2728:004.001,H2773:002.001,H2797:002.001,H2815:002.000,H2970:001.003,H3044:007.000,H3046:004.001,H3069:011.004,H3088.0,H3089:004.001,H3133.0,H3277:001.001,H3309:008.002,H3432:009.000,H3527:001.002,H3551.0,H3737:003.001,H4127:002.001,H4170:003.001,H4200:003.000,H4212:001.002,H4247:001.001,H4456.0,H4516.1,H4517.1,H4518.1,H4519.1,H4532:002.002,H4546:001.000,H4611.0",
+          "s.eVar35": "geolocation|geocoder|unknown|AutoR::geolocation|null|C|L|T|H||(40.671424865722656,-73.98621368408203)",
+          "s.eVar41": "USD",
+          "s.eVar42": "dateless",
+          "s.eVar43": "en_US|HCOM_US|www.hotels.com",
+          "s.eVar59": "Desktop|search result without dates",
+          "s.eVar61": "Desktop",
+          "s.eVar63": "09b10198-a955-4256-9d2b-a8393dcf77fa",
+          "s.eVar69": "Brand",
+          "s.eVar80": "|EC:0|DS:0|",
+          "s.pageName": "search result without dates",
+          "s.products": "",
+          "s.prop2": "Distance from address",
+          "s.prop3": "296 6th St, Brooklyn, NY 11215, USA",
+          "s.prop4": "20|131-140|0|0|0",
+          "s.prop5": "251463",
+          "s.prop7": "1148",
+          "s.prop8": "0",
+          "s.prop9": "1210",
+          "s.prop11": "1210|na|na|na|na",
+          "s.prop14": "D\u003dv7",
+          "s.prop15": "",
+          "s.prop17": "PB - 0|PV - 0|EA - 0|EA IN - 0|EA OUT - 0",
+          "s.prop18": "D\u003dv6",
+          "s.prop27": "a8021732-2802-4e17-acfe-aacc6ce1699c",
+          "s.prop28": "0",
+          "s.prop29": "D\u003dv42",
+          "s.prop30": "geolocation|geocoder|unknown|AutoR::geolocation",
+          "s.prop32": "D\u003dv43",
+          "s.prop33": "D\u003dv33",
+          "s.prop34": "107.1.5244.5",
+          "s.prop36": "|SI:anonymous|VS:newVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|",
+          "s.prop38": "not signed in",
+          "s.prop39": "not signed in",
+          "s.prop46": "D\u003dv61",
+          "s.prop55": "Search::null|AutoR::geolocation|296 6th St, Brooklyn, NY 11215, USA",
+          "s.prop60": "search result without dates :: Worldspan :: no :: 0 :: 20|131-140|0|0|0",
+          "s.server": "www.hotels.com"
+        },
+        "omniture_escaped": "\u003cscript type\u003d\\\"text/javascript\\\"\u003e\u003c!--//--\u003e\u003c![CDATA[//\u003e\u003c!--\\ns.channel \u003d \\\"Results\\\\x20\\\\x3A\\\\x20List\\\";s.currencyCode \u003d \\\"USD\\\";s.eVar1 \u003d \\\"geolocation\\\\x7Cgeocoder\\\\x7Cunknown\\\\x7CAutoR\\\\x3A\\\\x3Ageolocation\\\";s.eVar2 \u003d \\\"296\\\\x206th\\\\x20St,\\\\x20Brooklyn,\\\\x20NY\\\\x2011215,\\\\x20USA\\\";s.eVar4 \u003d \\\"\\\\x7CSI\\\\x3Aanonymous\\\\x7CVS\\\\x3AnewVisitor\\\\x7CHCR\\\\x3AnotApplicable\\\\x7CFC\\\\x3AnotApplicable\\\\x7CNS\\\\x3Aunknown\\\\x7CTI\\\\x3AnotApplicable\\\\x7C\\\";s.eVar6 \u003d \\\"geo\\\\x7C296\\\\x206th\\\\x20St,\\\\x20Brooklyn,\\\\x20NY\\\\x2011215,\\\\x20USA\\\\x7C40.671\\\\x7C\\\\x2D73.986\\\";s.eVar7 \u003d \\\"\\\";s.eVar8 \u003d \\\"\\\";s.eVar9 \u003d \\\"Distance\\\\x20from\\\\x20address\\\";s.eVar13 \u003d \\\"251463\\\";s.eVar16 \u003d \\\"Brand\\\";s.eVar24 \u003d \\\"MCTC\\\\x3DNULL\\\\x3BTU\\\\x3DNA\\\\x3BPDID\\\\x3DNULL\\\\x3BMVT\\\\x3D\\\";s.eVar26 \u003d \\\"US\\\\x3ANY\\\\x3ANEWYORK\\\\x3A501\\\";s.eVar33 \u003d \\\"search\\\\x20result\\\\x20without\\\\x20dates\\\";s.eVar34 \u003d \\\"H277\\\\x3A017.002,H376\\\\x3A046.029,H555\\\\x3A007.010,H904\\\\x3A011.001,H1167\\\\x3A009.001,H1293\\\\x3A017.011,H1294\\\\x3A018.002,H1423\\\\x3A009.099,H1715\\\\x3A016.001,H1777\\\\x3A026.005,H1871\\\\x3A007.002,H2313\\\\x3A046.003,H2327\\\\x3A007.000,H2522\\\\x3A006.001,H2596\\\\x3A004.001,H2653\\\\x3A001.001,H2661.0,H2728\\\\x3A004.001,H2773\\\\x3A002.001,H2797\\\\x3A002.001,H2815\\\\x3A002.000,H2970\\\\x3A001.003,H3044\\\\x3A007.000,H3046\\\\x3A004.001,H3069\\\\x3A011.004,H3088.0,H3089\\\\x3A004.001,H3133.0,H3277\\\\x3A001.001,H3309\\\\x3A008.002,H3432\\\\x3A009.000,H3527\\\\x3A001.002,H3551.0,H3737\\\\x3A003.001,H4127\\\\x3A002.001,H4170\\\\x3A003.001,H4200\\\\x3A003.000,H4212\\\\x3A001.002,H4247\\\\x3A001.001,H4456.0,H4516.1,H4517.1,H4518.1,H4519.1,H4532\\\\x3A002.002,H4546\\\\x3A001.000,H4611.0\\\";s.eVar35 \u003d \\\"geolocation\\\\x7Cgeocoder\\\\x7Cunknown\\\\x7CAutoR\\\\x3A\\\\x3Ageolocation\\\\x7Cnull\\\\x7CC\\\\x7CL\\\\x7CT\\\\x7CH\\\\x7C\\\\x7C\\\\x2840.671424865722656,\\\\x2D73.98621368408203\\\\x29\\\";s.eVar41 \u003d \\\"USD\\\";s.eVar42 \u003d \\\"dateless\\\";s.eVar43 \u003d \\\"en_US\\\\x7CHCOM_US\\\\x7Cwww.hotels.com\\\";s.eVar61 \u003d \\\"Desktop\\\";s.eVar63 \u003d \\\"09b10198\\\\x2Da955\\\\x2D4256\\\\x2D9d2b\\\\x2Da8393dcf77fa\\\";s.eVar69 \u003d \\\"Brand\\\";s.eVar80 \u003d \\\"\\\\x7CEC\\\\x3A0\\\\x7CDS\\\\x3A0\\\\x7C\\\";s.pageName \u003d \\\"search\\\\x20result\\\\x20without\\\\x20dates\\\";s.products \u003d \\\"\\\";s.prop2 \u003d \\\"Distance\\\\x20from\\\\x20address\\\";s.prop3 \u003d \\\"296\\\\x206th\\\\x20St,\\\\x20Brooklyn,\\\\x20NY\\\\x2011215,\\\\x20USA\\\";s.prop4 \u003d \\\"20\\\\x7C131\\\\x2D140\\\\x7C0\\\\x7C0\\\\x7C0\\\";s.prop5 \u003d \\\"251463\\\";s.prop7 \u003d \\\"1148\\\";s.prop8 \u003d \\\"0\\\";s.prop9 \u003d \\\"1210\\\";s.prop11 \u003d \\\"1210\\\\x7Cna\\\\x7Cna\\\\x7Cna\\\\x7Cna\\\";s.prop14 \u003d \\\"D\\\\x3Dv7\\\";s.prop15 \u003d \\\"\\\";s.prop17 \u003d \\\"PB\\\\x20\\\\x2D\\\\x200\\\\x7CPV\\\\x20\\\\x2D\\\\x200\\\\x7CEA\\\\x20\\\\x2D\\\\x200\\\\x7CEA\\\\x20IN\\\\x20\\\\x2D\\\\x200\\\\x7CEA\\\\x20OUT\\\\x20\\\\x2D\\\\x200\\\";s.prop18 \u003d \\\"D\\\\x3Dv6\\\";s.prop27 \u003d \\\"a8021732\\\\x2D2802\\\\x2D4e17\\\\x2Dacfe\\\\x2Daacc6ce1699c\\\";s.prop28 \u003d \\\"0\\\";s.prop29 \u003d \\\"D\\\\x3Dv42\\\";s.prop30 \u003d \\\"geolocation\\\\x7Cgeocoder\\\\x7Cunknown\\\\x7CAutoR\\\\x3A\\\\x3Ageolocation\\\";s.prop32 \u003d \\\"D\\\\x3Dv43\\\";s.prop33 \u003d \\\"D\\\\x3Dv33\\\";s.prop34 \u003d \\\"107.1.5244.5\\\";s.prop36 \u003d \\\"\\\\x7CSI\\\\x3Aanonymous\\\\x7CVS\\\\x3AnewVisitor\\\\x7CHCR\\\\x3AnotApplicable\\\\x7CFC\\\\x3AnotApplicable\\\\x7CNS\\\\x3Aunknown\\\\x7CTI\\\\x3AnotApplicable\\\\x7C\\\";s.prop38 \u003d \\\"not\\\\x20signed\\\\x20in\\\";s.prop39 \u003d \\\"not\\\\x20signed\\\\x20in\\\";s.prop46 \u003d \\\"D\\\\x3Dv61\\\";s.prop55 \u003d \\\"Search\\\\x3A\\\\x3Anull\\\\x7CAutoR\\\\x3A\\\\x3Ageolocation\\\\x7C296\\\\x206th\\\\x20St,\\\\x20Brooklyn,\\\\x20NY\\\\x2011215,\\\\x20USA\\\";s.prop60 \u003d \\\"search\\\\x20result\\\\x20without\\\\x20dates\\\\x20\\\\x3A\\\\x3A\\\\x20Worldspan\\\\x20\\\\x3A\\\\x3A\\\\x20no\\\\x20\\\\x3A\\\\x3A\\\\x200\\\\x20\\\\x3A\\\\x3A\\\\x2020\\\\x7C131\\\\x2D140\\\\x7C0\\\\x7C0\\\\x7C0\\\";s.server \u003d \\\"www.hotels.com\\\"; if (dio.getObjectByName(\u0027dio.util.tracking\u0027)) { s.eVar59\u003ddio.util.tracking.responsive(\u0027Desktop|search result without dates\u0027); } ; s.list3 \u003d \u0027D\u003dv34\u0027; s.t();s.eVar34 \u003d null;\\n  //--\u003e\u003c!]]\u003e\u003c\\/script\u003e",
+        "universal_analytics": {
+          "account": "UA-32616238-1",
+          "_anonymizeIp": "false",
+          "allowLinker": true,
+          "enabled": "true",
+          "page_view": {
+            "PAGE_NAME": "ga(\"set\", \"page\", \"search\\x20result\\x20without\\x20dates\\x2Den_US\\x7CHCOM_US\");",
+            "CID": "ga(\"set\", \"dimension1\", \"251463\");",
+            "USER_CONTEXT": "ga(\"set\", \"dimension2\", \"en_US\\x7CHCOM_US\\x7Cwww.hotels.com\");",
+            "GUID": "ga(\"set\", \"dimension3\", \"a8021732\\x2D2802\\x2D4e17\\x2Dacfe\\x2Daacc6ce1699c\");",
+            "LOG_IN_STATUS": "ga(\"set\", \"dimension5\", \"Not\\x20Signed\\x20In\");",
+            "WELCOME_REWARDS_STATUS": "ga(\"set\", \"dimension6\", \"New\\x20Visitor\");",
+            "MOBILE_PLATFORM": "ga(\"set\", \"dimension7\", \"DESKTOP\");",
+            "ENTERED_DESTINATION": "ga(\"set\", \"dimension9\", \"296\\x206th\\x20St,\\x20Brooklyn,\\x20NY\\x2011215,\\x20USA\");",
+            "RESOLVED_DESTINATION": "ga(\"set\", \"dimension10\", \"geolocation\\x7C296\\x206th\\x20St,\\x20Brooklyn,\\x20NY\\x2011215,\\x20USA\\x7C40.671\\x7C\\x2D73.986\");"
+          },
+          "googleTagManagerId": "",
+          "profileId": ""
+        },
+        "adobe_survey": {
+          "session_id": "I1j3QayP9-Fk5M9Euk-FpO3VTy.prod1-sa-19",
+          "guid": "a8021732-2802-4e17-acfe-aacc6ce1699c"
+        },
+        "adobe_survey_escaped": "\u003cscript type\u003d\\\"text/javascript\\\"\u003e\u003c!--//--\u003e\u003c![CDATA[//\u003e\u003c!--\\n  var s_sv_metadata \u003d new Object();s_sv_metadata[\\\"session_id\\\"]\u003d\\\"I1j3QayP9\\\\x2DFk5M9Euk\\\\x2DFpO3VTy.prod1\\\\x2Dsa\\\\x2D19\\\";s_sv_metadata[\\\"guid\\\"]\u003d\\\"a8021732\\\\x2D2802\\\\x2D4e17\\\\x2Dacfe\\\\x2Daacc6ce1699c\\\";//--\u003e\u003c!]]\u003e\u003c\\/script\u003e",
+        "ensighten": {
+          "url": "//nexus.ensighten.com/hotelscom/prod/Bootstrap.js"
+        },
+        "unified_data_toolkit": {
+          "content": "{\"user\":{\"sessionId\":\"I1j3QayP9-Fk5M9Euk-FpO3VTy.prod1-sa-19\",\"guid\":\"a8021732-2802-4e17-acfe-aacc6ce1699c\",\"wrStatus\":\"New Visitor\",\"pos\":\"HCOM_US\",\"locale\":\"en_US\",\"geolocation\":{\"latitude\":\"40.75\",\"longitude\":\"-73.9967\"},\"platformId\":\"Desktop\",\"clientId\":\"251463\",\"signInState\":\"anonymous\",\"ipAddress\":\"104.162.92.184, 10.178.156.43\",\"hrwMemberStatus\":\"notApplicable\",\"fcStatus\":\"notApplicable\",\"newsletterOptInStatus\":\"unknown\",\"visitorState\":\"newVisitor\",\"existingCustomer\":0,\"hrwTier\":\"notApplicable\",\"segments\":{\"directSegment\":\"0\"}},\"page\":{\"pageName\":\"search result without dates\",\"siteSection\":\"Results : List\",\"random10Alpha\":\"gvckdx6mll\",\"random10Numeric\":\"4146905565\",\"currency\":\"USD\",\"additionalPageInformation2\":\"search result without dates\",\"fullURL\":\"https:\\\\/\\\\/www.hotels.com\\\\/search\\\\/listings.json?sort-order\u003dDISTANCE_FROM_LANDMARK\u0026q-destination\u003d296%206th%20St%2C%20Brooklyn%2C%20NY%2011215%2C%20USA\u0026q-room-1-children\u003d0\u0026q-room-0-adults\u003d2\u0026q-room-1-adults\u003d2\u0026pg\u003d1\u0026q-rooms\u003d2\u0026start-index\u003d130\u0026resolved-location\u003dGEO_LOCATION%3A296%206th%20St%2C%20Brooklyn%2C%20NY%2011215%2C%20USA%7C40.671424865722656%7C-73.98621368408203%3AGEOCODE%3AUNKNOWN\u0026q-room-0-children\u003d0\u0026pn\u003d20\u0026callback\u003ddio.pages.sha.searchResultsCallback\"},\"search\":{\"destinationId\":\"geo|296 6th St, Brooklyn, NY 11215, USA|40.671|-73.986\",\"searchId\":\"09b10198-a955-4256-9d2b-a8393dcf77fa\",\"searchWindow\":0,\"numNights\":0,\"numRooms\":2,\"rooms\":[{\"numAdults\":2,\"numChildren\":0,\"numRoomPeople\":2,\"AFR\":false},{\"numAdults\":2,\"numChildren\":0,\"numRoomPeople\":2,\"AFR\":false}],\"mapView\":false,\"latitude\":40.671,\"longitude\":-73.986,\"sortOrder\":\"DISTANCE_FROM_LANDMARK\",\"total\":false,\"exclusive\":true,\"intentmediaRequested\":false,\"hotels\":[{\"name\":\"Greenwich Village Apartment\",\"hotelid\":495381,\"rank\":131,\"dod\":false,\"travelad\":false,\"drrFlag\":false,\"tophotel\":false,\"dimmed\":false,\"neighbourhoodID\":1662303,\"neighbourhood\":\"SoHo - Tribeca\",\"distance1ID\":-1,\"distance1\":\"3.9 miles\",\"distance2ID\":1409835,\"distance2\":\"2.1 miles\",\"starrating\":3.0,\"qualityScore\":\"F\"},{\"name\":\"Royal Suites at Exchange Place\",\"hotelid\":646045,\"rank\":132,\"dod\":false,\"travelad\":false,\"price\":249,\"drrFlag\":false,\"freecancelled\":false,\"tophotel\":false,\"dimmed\":false,\"neighbourhoodID\":1661558,\"neighbourhood\":\"Downtown Jersey City\",\"distance1ID\":-1,\"distance1\":\"3.9 miles\",\"distance2ID\":1409835,\"distance2\":\"3.9 miles\",\"starrating\":3.0,\"qualityScore\":\"F\"},{\"name\":\"Luxy on The Hudson\",\"hotelid\":446978,\"rank\":133,\"dod\":false,\"travelad\":false,\"price\":250,\"drrFlag\":false,\"freecancelled\":false,\"tophotel\":false,\"dimmed\":false,\"neighbourhoodID\":1661558,\"neighbourhood\":\"Downtown Jersey City\",\"distance1ID\":-1,\"distance1\":\"4.0 miles\",\"distance2ID\":1409835,\"distance2\":\"3.9 miles\",\"starrating\":4.0,\"numreviews\":21,\"reviewscore\":3.0,\"qualityScore\":\"M\"},{\"name\":\"Hyatt House Jersey City\",\"hotelid\":629200,\"rank\":134,\"dod\":false,\"travelad\":false,\"drrFlag\":false,\"tophotel\":false,\"dimmed\":false,\"neighbourhoodID\":1661558,\"neighbourhood\":\"Downtown Jersey City\",\"distance1ID\":-1,\"distance1\":\"4.0 miles\",\"distance2ID\":1409835,\"distance2\":\"3.7 miles\",\"starrating\":2.5,\"qualityScore\":\"F\"},{\"name\":\"BellaView Suites\",\"hotelid\":557934,\"rank\":135,\"dod\":false,\"travelad\":false,\"price\":2000,\"drrFlag\":false,\"freecancelled\":false,\"tophotel\":false,\"dimmed\":false,\"neighbourhoodID\":1661558,\"neighbourhood\":\"Downtown Jersey City\",\"distance1ID\":-1,\"distance1\":\"4.0 miles\",\"distance2ID\":1409835,\"distance2\":\"3.9 miles\",\"starrating\":3.0,\"qualityScore\":\"F\"},{\"name\":\"Green Suites\",\"hotelid\":454010,\"rank\":136,\"dod\":false,\"travelad\":false,\"drrFlag\":false,\"tophotel\":false,\"dimmed\":false,\"neighbourhoodID\":1661558,\"neighbourhood\":\"Downtown Jersey City\",\"distance1ID\":-1,\"distance1\":\"4.0 miles\",\"distance2ID\":1409835,\"distance2\":\"3.9 miles\",\"starrating\":3.5,\"qualityScore\":\"F\"},{\"name\":\"Premier Furnished Apt at 70 Greene\",\"hotelid\":567890,\"rank\":137,\"dod\":false,\"travelad\":false,\"drrFlag\":false,\"tophotel\":false,\"dimmed\":false,\"neighbourhoodID\":1661558,\"neighbourhood\":\"Downtown Jersey City\",\"distance1ID\":-1,\"distance1\":\"4.0 miles\",\"distance2ID\":1409835,\"distance2\":\"3.9 miles\",\"starrating\":4.0,\"qualityScore\":\"F\"},{\"name\":\"Cesar Suites at Greene\",\"hotelid\":487640,\"rank\":138,\"dod\":false,\"travelad\":false,\"price\":499,\"drrFlag\":false,\"freecancelled\":false,\"tophotel\":false,\"dimmed\":false,\"neighbourhoodID\":1661558,\"neighbourhood\":\"Downtown Jersey City\",\"distance1ID\":-1,\"distance1\":\"4.0 miles\",\"distance2ID\":1409835,\"distance2\":\"3.9 miles\",\"starrating\":4.0,\"numreviews\":2,\"reviewscore\":5.0,\"qualityScore\":\"F\"},{\"name\":\"Global Luxury Suites at Greene\",\"hotelid\":487405,\"rank\":139,\"dod\":false,\"travelad\":false,\"price\":129,\"drrFlag\":false,\"freecancelled\":false,\"tophotel\":false,\"dimmed\":false,\"neighbourhoodID\":1661558,\"neighbourhood\":\"Downtown Jersey City\",\"distance1ID\":-1,\"distance1\":\"4.0 miles\",\"distance2ID\":1409835,\"distance2\":\"3.9 miles\",\"starrating\":4.0,\"numreviews\":24,\"reviewscore\":3.6,\"qualityScore\":\"B\"},{\"name\":\"NYC-JC Guest Suites\",\"hotelid\":359473,\"rank\":140,\"dod\":false,\"travelad\":false,\"price\":253,\"drrFlag\":false,\"freecancelled\":false,\"tophotel\":false,\"dimmed\":false,\"neighbourhoodID\":1661558,\"neighbourhood\":\"Downtown Jersey City\",\"distance1ID\":-1,\"distance1\":\"4.0 miles\",\"distance2ID\":1409835,\"distance2\":\"3.9 miles\",\"starrating\":4.0,\"numreviews\":10,\"reviewscore\":3.8,\"qualityScore\":\"F\"}],\"searchResultsPageStatistics\":\"20|131-140|0|0|0\",\"numAdultsTotal\":4,\"numChildrenTotal\":0},\"booking\":{\"bookingError\":{}},\"marketing\":{\"restrictedLastTouch\":{\"marketingCode\":\"Brand\",\"fullMarketingCode\":\"Brand\"},\"currentUnrestricted\":{\"marketingCode\":\"Brand\",\"fullMarketingCode\":\"Brand\"},\"currentRestricted\":{\"marketingCode\":\"Brand\",\"fullMarketingCode\":\"Brand\"}},\"property\":{},\"event\":{\"eventType\":\"sha\"},\"mvtHistory\":{\"mvts\":\"92.0.1.i3:98.6.0:138.2.0.i17:277.2.0.i17:376.29.0.i46:495.2.0.i11:531.1.1:555.10.0.i7:790.2.0.i19:904.1.0.i11:927.1.0.i7:945.0.0:1014.0.0:1015.2.0.i9:1068.1.0.i2:1156.1.0.i9:1167.1.0.i9:1195.0.0:1241.1.0.i10:1281.0.0:1291.0.0:1292.12.0.i18:1293.11.0.i17:1294.2.0.i18:1304.0.0:1423.99.0.i9:1464.99.0.i10:1507.0.0:1508.2.0.i3:1509.0.0:1510.0.0:1544.0.0:1619.0.0:1708.0.0:1715.1.0.i16:1773.1.0.i2:1777.5.0.i26:1778.0.0:1825.0.0:1871.2.0.i7:1946.0.0:1977.1.0.i4:2089.2.0.i3:2219.0.0:2264.0.0:2301.0.0:2304.0.0:2313.3.0.i46:2322.2.0.i2:2327.0.0.i7:2360.0.0:2379.0.0:2383.2.0.i1:2522.1.0.i6:2532.1.0.i3:2563.1.0.i1:2569.0.0:2585.0.0:2594.0.0:2596.1.0.i4:2600.0.0:2602.0.0:2632.1.0.i1:2634.1.0.i10:2642.1.0.i1:2647.0.0:2653.1.0.i1:2661.0.0:2728.1.0.i4:2729.0.0:2741.1.0.i1:2745.0.0:2746.0.0:2773.1.0.i2:2796.0.0:2797.1.0.i2:2815.0.0.i2:2835.0.0:2909.0.0:2970.3.0.i1:3042.0.0:3044.0.0.i7:3046.1.0.i4:3069.4.0.i11:3077.0.0:3088.0.0:3089.1.0.i4:3098.0.0:3133.0.0:3277.1.0.i1:3286.0.0:3289.3.0.i9:3305.0.0:3309.2.0.i8:3334.0.0:3432.0.0.i9:3471.0.0:3475.0.0:3491.0.0:3527.2.0.i1:3551.0.0:3552.0.0:3683.1.0.i3:3737.1.0.i3:3738.0.0:4115.0.0:4127.1.0.i2:4154.0.0:4163.1.0.i1:4170.1.0.i3:4192.0.0:4200.0.0.i3:4212.2.0.i1:4247.1.0.i1:4416.0.0:4440.0.0:4456.0.0:4462.0.0:4516.1.0:4517.1.0:4518.1.0:4519.1.0:4532.2.0.i2:4546.0.0.i1:4572.0.0:4574.0.0:4611.0.0|HCOM_US\"}}"
+        }
+      },
+      "configuration": {
+        "OMNITURE_S_ACCOUNT": "hotelsallprod",
+        "OMNITURE_S_LNK_INT_FLTR": "javascript:,hotels.com,hoteis.com,hoteles.com,hotels.cn",
+        "OMNITURE_S_SURVEY_ACCOUNT": "hotelsallprod"
+      },
+      "pointOfSale": {
+        "numberSeparators": ",.",
+        "brandName": "Hotels.com"
+      },
+      "user": {}
+    }
+  }
+}

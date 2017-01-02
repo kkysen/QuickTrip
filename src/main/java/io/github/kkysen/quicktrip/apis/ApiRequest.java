@@ -445,6 +445,7 @@ public abstract class ApiRequest<R> {
         public String toString() {
             final StringJoiner queryString = new StringJoiner("&", "?", "");
             entrySet().forEach(entry -> queryString.add(entry.getKey() + '=' + entry.getValue()));
+            System.out.println("apireq tostring: " + queryString.toString());
             return queryString.toString();
         }
         

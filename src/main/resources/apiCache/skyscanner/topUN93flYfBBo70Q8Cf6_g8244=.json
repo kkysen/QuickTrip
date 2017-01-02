@@ -4,35 +4,8 @@
       "id": 47221771,
       "agent_prices": [
         {
-          "id": 17,
-          "price_total": 137
-        }
-      ]
-    },
-    {
-      "id": 46953691,
-      "agent_prices": [
-        {
-          "id": 17,
-          "price_total": 137
-        }
-      ]
-    },
-    {
-      "id": 46948935,
-      "agent_prices": [
-        {
-          "id": 17,
-          "price_total": 185
-        }
-      ]
-    },
-    {
-      "id": 46974582,
-      "agent_prices": [
-        {
-          "id": 17,
-          "price_total": 193
+          "id": 6,
+          "price_total": 189
         }
       ]
     },
@@ -40,8 +13,8 @@
       "id": 117334836,
       "agent_prices": [
         {
-          "id": 17,
-          "price_total": 138
+          "id": 6,
+          "price_total": 175
         }
       ]
     },
@@ -50,6 +23,24 @@
       "agent_prices": [
         {
           "id": 239,
+          "price_total": 321
+        }
+      ]
+    },
+    {
+      "id": 46959471,
+      "agent_prices": [
+        {
+          "id": 106,
+          "price_total": 137
+        }
+      ]
+    },
+    {
+      "id": 46974582,
+      "agent_prices": [
+        {
+          "id": 6,
           "price_total": 247
         }
       ]
@@ -58,35 +49,44 @@
       "id": 46944653,
       "agent_prices": [
         {
-          "id": 17,
-          "price_total": 198
+          "id": 106,
+          "price_total": 278
         }
       ]
     },
     {
-      "id": 46991591,
+      "id": 47010500,
       "agent_prices": [
         {
-          "id": 17,
-          "price_total": 117
+          "id": 6,
+          "price_total": 119
         }
       ]
     },
     {
-      "id": 47175811,
+      "id": 46954935,
       "agent_prices": [
         {
-          "id": 17,
-          "price_total": 296
+          "id": 37,
+          "price_total": 176
         }
       ]
     },
     {
-      "id": 46959471,
+      "id": 128471122,
       "agent_prices": [
         {
-          "id": 17,
-          "price_total": 116
+          "id": 40,
+          "price_total": 176
+        }
+      ]
+    },
+    {
+      "id": 46976033,
+      "agent_prices": [
+        {
+          "id": 6,
+          "price_total": 52
         }
       ]
     }
@@ -125,122 +125,25 @@
       "distance_from_search": 0.876
     },
     {
-      "name": "Club Quarters Hotel Wall Street",
-      "hotel_id": 46953691,
-      "address": ", ",
-      "popularity": 82,
-      "amenities": [
-        0,
-        1,
-        21,
-        22,
-        13,
-        23,
-        6,
-        7,
-        3,
-        10,
-        18,
-        12,
-        24,
-        15,
-        16,
-        17,
-        11,
-        4
-      ],
-      "latitude": 40.70673,
-      "longitude": -74.00898,
-      "star_rating": 4.0,
-      "distance_from_search": 0.84
-    },
-    {
-      "name": "Gild Hall - A Thompson Hotel",
-      "hotel_id": 46948935,
-      "address": ", ",
-      "popularity": 88,
-      "amenities": [
-        1,
-        25,
-        7,
-        12,
-        15,
-        11,
-        26,
-        27,
-        3,
-        10,
-        22,
-        13,
-        24,
-        28,
-        19,
-        0,
-        29,
-        6,
-        9,
-        21,
-        23,
-        16,
-        17,
-        30,
-        14,
-        4
-      ],
-      "latitude": 40.70793,
-      "longitude": -74.00724,
-      "star_rating": 4.0,
-      "distance_from_search": 0.653
-    },
-    {
-      "name": "Duane Street Hotel Tribeca",
-      "hotel_id": 46974582,
-      "address": ", ",
-      "popularity": 84,
-      "amenities": [
-        17,
-        1,
-        21,
-        31,
-        13,
-        23,
-        6,
-        7,
-        8,
-        14,
-        10,
-        22,
-        12,
-        32,
-        33,
-        4,
-        11
-      ],
-      "latitude": 40.71599,
-      "longitude": -74.00743,
-      "star_rating": 4.0,
-      "distance_from_search": 0.915
-    },
-    {
       "name": "Eurostars Wall Street",
       "hotel_id": 117334836,
       "address": ", ",
       "popularity": 76,
       "amenities": [
         17,
-        34,
         21,
+        22,
         23,
         14,
         7,
-        30,
+        24,
         9,
         13,
         11,
         12,
-        35,
+        25,
         15,
-        36,
+        26,
         16,
         4
       ],
@@ -257,132 +160,38 @@
       "amenities": [
         1,
         8,
-        37,
+        27,
         23,
         7,
         12,
         15,
-        38,
+        28,
         11,
-        27,
+        29,
         3,
         10,
-        39,
+        30,
         18,
         13,
-        28,
+        31,
         19,
         0,
         6,
         9,
-        21,
+        22,
         16,
         17,
-        22,
-        40,
-        30,
-        14,
         32,
+        33,
+        24,
+        14,
+        34,
         4
       ],
       "latitude": 40.70531,
       "longitude": -74.00792,
       "star_rating": 4.0,
       "distance_from_search": 0.847
-    },
-    {
-      "name": "Millenium Hilton",
-      "hotel_id": 46944653,
-      "address": ", ",
-      "popularity": 82,
-      "amenities": [
-        41,
-        1,
-        23,
-        7,
-        12,
-        11,
-        42,
-        3,
-        43,
-        10,
-        39,
-        22,
-        13,
-        24,
-        28,
-        19,
-        0,
-        4,
-        9,
-        44,
-        21,
-        45,
-        18,
-        17,
-        2,
-        30,
-        14,
-        16
-      ],
-      "latitude": 40.7112,
-      "longitude": -74.01046,
-      "star_rating": 4.0,
-      "distance_from_search": 0.892
-    },
-    {
-      "name": "Hotel Mulberry",
-      "hotel_id": 46991591,
-      "address": ", ",
-      "popularity": 84,
-      "amenities": [
-        21,
-        23,
-        6,
-        3,
-        10,
-        12,
-        24,
-        15,
-        4,
-        11
-      ],
-      "latitude": 40.7153,
-      "longitude": -73.99952,
-      "star_rating": 3.0,
-      "distance_from_search": 0.592
-    },
-    {
-      "name": "Smyth - A Thompson Hotel",
-      "hotel_id": 47175811,
-      "address": ", ",
-      "popularity": 82,
-      "amenities": [
-        0,
-        1,
-        3,
-        29,
-        12,
-        23,
-        14,
-        36,
-        30,
-        9,
-        13,
-        6,
-        21,
-        7,
-        15,
-        4,
-        17,
-        16,
-        11,
-        19
-      ],
-      "latitude": 40.71521,
-      "longitude": -74.00916,
-      "star_rating": 4.0,
-      "distance_from_search": 0.966
     },
     {
       "name": "Hampton Inn Seaport Financial District",
@@ -394,18 +203,18 @@
         5,
         8,
         4,
-        21,
+        22,
         23,
         3,
         7,
-        30,
+        24,
         14,
         10,
         6,
         11,
         12,
         15,
-        33,
+        35,
         16,
         17,
         18,
@@ -415,6 +224,176 @@
       "longitude": -74.00217,
       "star_rating": 3.0,
       "distance_from_search": 0.217
+    },
+    {
+      "name": "Duane Street Hotel Tribeca",
+      "hotel_id": 46974582,
+      "address": ", ",
+      "popularity": 84,
+      "amenities": [
+        17,
+        1,
+        22,
+        36,
+        13,
+        23,
+        6,
+        7,
+        8,
+        14,
+        10,
+        32,
+        12,
+        34,
+        35,
+        4,
+        11
+      ],
+      "latitude": 40.71599,
+      "longitude": -74.00743,
+      "star_rating": 4.0,
+      "distance_from_search": 0.915
+    },
+    {
+      "name": "Millenium Hilton",
+      "hotel_id": 46944653,
+      "address": ", ",
+      "popularity": 82,
+      "amenities": [
+        37,
+        1,
+        23,
+        7,
+        12,
+        11,
+        38,
+        3,
+        39,
+        10,
+        30,
+        32,
+        13,
+        40,
+        31,
+        19,
+        0,
+        4,
+        9,
+        41,
+        22,
+        42,
+        18,
+        17,
+        2,
+        24,
+        14,
+        16
+      ],
+      "latitude": 40.7112,
+      "longitude": -74.01046,
+      "star_rating": 4.0,
+      "distance_from_search": 0.892
+    },
+    {
+      "name": "Comfort Inn Manhattan Bridge",
+      "hotel_id": 47010500,
+      "address": ", ",
+      "popularity": 78,
+      "amenities": [
+        17,
+        16,
+        22,
+        43,
+        32,
+        26,
+        23,
+        6,
+        7,
+        8,
+        14,
+        10,
+        11,
+        33,
+        12,
+        31,
+        44,
+        15,
+        4,
+        19,
+        45
+      ],
+      "latitude": 40.71663,
+      "longitude": -73.99479,
+      "star_rating": 2.0,
+      "distance_from_search": 0.859
+    },
+    {
+      "name": "Holiday Inn Wall Street",
+      "hotel_id": 46954935,
+      "address": ", ",
+      "popularity": 76,
+      "amenities": [
+        0,
+        1,
+        22,
+        32,
+        12,
+        23,
+        6,
+        7,
+        24,
+        14,
+        10,
+        11,
+        13,
+        15,
+        35,
+        9
+      ],
+      "latitude": 40.70897,
+      "longitude": -74.00909,
+      "star_rating": 3.0,
+      "distance_from_search": 0.776
+    },
+    {
+      "name": "Holiday Inn Express New York City-Wall Street",
+      "hotel_id": 128471122,
+      "address": ", ",
+      "popularity": 80,
+      "amenities": [
+        0,
+        37,
+        42,
+        23,
+        6,
+        7,
+        10,
+        32,
+        12,
+        16,
+        4,
+        19
+      ],
+      "latitude": 40.70554,
+      "longitude": -74.00718,
+      "star_rating": 3.0,
+      "distance_from_search": 0.783
+    },
+    {
+      "name": "World Hotel",
+      "hotel_id": 46976033,
+      "address": ", ",
+      "popularity": 40,
+      "amenities": [
+        23,
+        12,
+        19,
+        15
+      ],
+      "latitude": 40.71754,
+      "longitude": -73.99511,
+      "star_rating": 1.0,
+      "distance_from_search": 0.935
     }
   ],
   "amenities": [
@@ -429,12 +408,12 @@
       "key": "MEETINGROOM"
     },
     {
-      "id": 37,
+      "id": 27,
       "name": "Satellite TV",
       "key": "SATELLITETV"
     },
     {
-      "id": 41,
+      "id": 37,
       "name": "ATM machine",
       "key": "CASHMACHINE"
     },
@@ -449,6 +428,11 @@
       "key": "LAUNDRY"
     },
     {
+      "id": 43,
+      "name": "Iron",
+      "key": "IRONINGSERVICE"
+    },
+    {
       "id": 12,
       "name": "WiFi",
       "key": "WIFISERVICE"
@@ -459,7 +443,7 @@
       "key": "LUGGAGESTORAGE"
     },
     {
-      "id": 38,
+      "id": 28,
       "name": "Bathrobe",
       "key": "BATHROBESERVICE"
     },
@@ -469,7 +453,7 @@
       "key": "LIFT"
     },
     {
-      "id": 26,
+      "id": 45,
       "name": "Telephone",
       "key": "TELEPHONE"
     },
@@ -479,12 +463,12 @@
       "key": "BALCONY"
     },
     {
-      "id": 42,
+      "id": 38,
       "name": "Television",
       "key": "TELEVISION"
     },
     {
-      "id": 27,
+      "id": 29,
       "name": "Minibar",
       "key": "MINIBAR"
     },
@@ -494,7 +478,7 @@
       "key": "PETSALLOWEDSERVICE"
     },
     {
-      "id": 43,
+      "id": 39,
       "name": "Indoor pool",
       "key": "INDOORSWIMMINGPOOL"
     },
@@ -504,12 +488,12 @@
       "key": "BUSINESSCENTER"
     },
     {
-      "id": 39,
+      "id": 30,
       "name": "Currency exchange",
       "key": "CURRENCYEXCHANGESERVICE"
     },
     {
-      "id": 22,
+      "id": 32,
       "name": "Express check-in",
       "key": "EXPRESSCHECKINSERVICE"
     },
@@ -519,17 +503,17 @@
       "key": "RESTAURANT"
     },
     {
-      "id": 35,
+      "id": 25,
       "name": "Airport Shuttle",
       "key": "AIRPORTSHUTTLESERVICE"
     },
     {
-      "id": 24,
+      "id": 40,
       "name": "Limousine",
       "key": "LIMOUSINESERVICE"
     },
     {
-      "id": 28,
+      "id": 31,
       "name": "Hairdryer",
       "key": "HAIRDRYER"
     },
@@ -544,24 +528,19 @@
       "key": "FITNESSCENTER"
     },
     {
-      "id": 34,
+      "id": 21,
       "name": "Bell staff",
       "key": "BELLSTAFFSERVICE"
     },
     {
-      "id": 45,
-      "name": "Shops",
-      "key": "SHOP"
-    },
-    {
-      "id": 31,
+      "id": 36,
       "name": "Baby-sitting",
       "key": "BABYSITTINGSERVICE"
     },
     {
-      "id": 29,
-      "name": "Valet parking",
-      "key": "VALETPARKINGSERVICE"
+      "id": 44,
+      "name": "Coffee-maker",
+      "key": "COFFEEMAKER"
     },
     {
       "id": 6,
@@ -574,19 +553,19 @@
       "key": "BAR"
     },
     {
-      "id": 44,
+      "id": 41,
       "name": "Pool",
       "key": "POOL"
     },
     {
-      "id": 21,
+      "id": 22,
       "name": "Parking",
       "key": "PARKING"
     },
     {
-      "id": 25,
-      "name": "Library",
-      "key": "LIBRARY"
+      "id": 42,
+      "name": "Shops",
+      "key": "SHOP"
     },
     {
       "id": 16,
@@ -609,17 +588,17 @@
       "key": "WEDDINGFACILITY"
     },
     {
-      "id": 36,
+      "id": 26,
       "name": "Handicap Accessible",
       "key": "DISABLEDFACILITY"
     },
     {
-      "id": 40,
+      "id": 33,
       "name": "Desk",
       "key": "DESK"
     },
     {
-      "id": 30,
+      "id": 24,
       "name": "Room service",
       "key": "ROOMSERVICE"
     },
@@ -629,12 +608,12 @@
       "key": "AIRCONDITIONING"
     },
     {
-      "id": 32,
+      "id": 34,
       "name": "Spa",
       "key": "SPA"
     },
     {
-      "id": 33,
+      "id": 35,
       "name": "Internet access",
       "key": "INTERNETACCESSSERVICE"
     },
@@ -646,9 +625,9 @@
   ],
   "places": [],
   "urls": {
-    "hotel_details": "/apiservices/hotels/livedetails/v2/details/H4sIAAAAAAAEAE3IsQqAMBAD0H_JfJW7Wq129g-qk4g4uJVz0Un8d0unQkjCe3EhrFgiCKeaskuccqfj3h03XihduhvvGs5qWbxhMdLPzKGkVl-pJSFISzafTkD6pLQRFEEGN9rvB0ebzKl7AAAA0?apikey\u003d_7uUr_H2Msg03TuJT4eHhYKU9O0du0OZdm4PS9WmcvTi_HzfRDoBfI05emarnGGvWK3QCydF6xxpO36_khRARTA%3D%3D"
+    "hotel_details": "/apiservices/hotels/livedetails/v2/details/H4sIAAAAAAAEAE3IsQqAMBAD0H_JfCd3tVrt7B9UJxFxcCvtopP47xanQkjCe5DhVywBhDPxv0uYSsfj2q00TinmtLOzjRQ1oo5FWYdZxP-pdazUkBK0JVNOp6B0x7gREjwb7aV_P2c89958AAAA0?apikey\u003d_gY6xk7hwvGOsNh8OA5e3sWLT27QsZPuoqCeAPko8uz59fdotW9xvAzU9V-Wb8zVu5-T_eXs6HkQmWAlR6Boctg%3D%3D"
   },
   "status": "PENDING",
   "total_hotels": 91,
-  "total_available_hotels": 29
+  "total_available_hotels": 11
 }

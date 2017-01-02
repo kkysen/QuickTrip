@@ -66,6 +66,19 @@ public class HotelDetailsApiRequest extends SkyscannerApiRequest<HotelDetailsRes
                 sessionKey);
     }
     
+    /*@Override
+    protected String getBaseUrl() {
+    	String res = super.getBaseUrl(); //+ 
+    			//"?apikey=" + encryptedApiKey + "&hotelIds=" + hotelIds;
+    	System.out.println("Calling: " + res);
+    	return res;
+    }*/
+    
+    @Override
+    protected String getOverridingUrl() {
+    	return getBaseUrl() + "?apikey=" + encryptedApiKey + "&hotelIds=" + hotelIds;
+    }
+    
     @Override
     protected String getApiKey() {
         //return "";
@@ -85,8 +98,8 @@ public class HotelDetailsApiRequest extends SkyscannerApiRequest<HotelDetailsRes
                 "US",
                 Locale.US,
                 40.71, -74.00,
-                new GregorianCalendar(2017, 0, 16).toZonedDateTime(),
-                new GregorianCalendar(2017, 0, 17).toZonedDateTime(),
+                new GregorianCalendar(2017, 0, 19).toZonedDateTime(),
+                new GregorianCalendar(2017, 0, 20).toZonedDateTime(),
                 2,
                 1);
         try {
@@ -96,36 +109,43 @@ public class HotelDetailsApiRequest extends SkyscannerApiRequest<HotelDetailsRes
         }
         //System.out.println(gson.toJson(hotelResponse));
         
-        final List<String> ids = hotelResponse.getHotelList()
-                .stream()
-                .map(HotelEntry::getId)
-                .map(Object::toString)
-                .collect(Collectors.toList());
         
-        final String rest = hotelResponse.getHotelUrl().getDetails();
-        System.out.println(rest);
+        
+        //final String rest = hotelResponse.getHotelUrl().getDetails();
+        //System.out.println(rest);
         
         //String complete = "http://partners.api.skyscanner.net" +
         //		rest /*+ "&hotelIds=" + ids.get(0)*/;
         //System.out.println(complete);
         
+        final List<String> ids = hotelResponse.getHotelList()
+                .stream()
+                .map(HotelEntry::getId)
+                .map(Object::toString)
+                .collect(Collectors.toList());
         final HotelDetailsApiRequest request = new HotelDetailsApiRequest(
                 hotelResponse.getHotelUrl().getDetails(),
                 ids);
         
         //Thread.sleep(5000);
-        final String req = request.assembleUrl();
+        //final String req = request.assembleUrl();
         //System.out.println(req);
-        int counter = 0;
+        
         HotelDetailsResponse h = null;
+        
+        /*do {
+        	h = request.getResponse();
+        } while(h.getStatus().equals("PENDING"));*/
+        int counter = 0;
         while (counter < 5) {
             try {
-                h = request.deserializeFromUrl(req);
+                //h = request.deserializeFromUrl(req);
+            	h = request.getResponse();
                 break;
             } catch (final IOException e) {
-                System.out.println("trying again");
+                //System.out.println("trying again");
                 //if (counter == 4) 
-                //e.printStackTrace();
+                e.printStackTrace();
                 Thread.sleep(1000);
             }
             counter++;

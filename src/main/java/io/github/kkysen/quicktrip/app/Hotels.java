@@ -1,6 +1,6 @@
 package io.github.kkysen.quicktrip.app;
 
-import io.github.kkysen.quicktrip.apis.hotels.HotelsHotel;
+import io.github.kkysen.quicktrip.apis.hotels.ScrapedHotelsHotel;
 import io.github.kkysen.quicktrip.optimization.simulatedAnnealing.AnnealingState;
 
 import java.util.ArrayList;
@@ -51,7 +51,7 @@ public class Hotels implements AnnealingState {
             final List<Hotel> pool = pools.get(i);
             if (pool.size() == 0) {
                 System.err.println("no hotels found for " + dests.get(i));
-                pool.add(HotelsHotel.DUMMY);
+                pool.add(ScrapedHotelsHotel.DUMMY);
             }
         }
         

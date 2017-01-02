@@ -16,9 +16,9 @@ import lombok.RequiredArgsConstructor;
  */
 @RequiredArgsConstructor(access = AccessLevel.PRIVATE)
 @Getter
-public class HotelsHotel implements Hotel {
+public class ScrapedHotelsHotel implements Hotel {
     
-    public static final HotelsHotel DUMMY = new HotelsHotel(1000, "", "", 0, 0, "");
+    public static final ScrapedHotelsHotel DUMMY = new ScrapedHotelsHotel(1000, "", "", 0, 0, "");
     
     private final int price;
     private final String name;
@@ -71,7 +71,7 @@ public class HotelsHotel implements Hotel {
         return style.substring(22, style.length() - 3);
     }
     
-    public HotelsHotel(final Element hotelWrap) throws MissingHotelInformationException {
+    public ScrapedHotelsHotel(final Element hotelWrap) throws MissingHotelInformationException {
         try {
             price = parsePrice(hotelWrap);
             final Element descriptionHCardRespModule = //
@@ -92,7 +92,7 @@ public class HotelsHotel implements Hotel {
     
     @Override
     public String toString() {
-        return "HotelsHotel [price=" + price + ", name=" + name + ", address=" + address + ", distance="
+        return "ScrapedHotelsHotel [price=" + price + ", name=" + name + ", address=" + address + ", distance="
                 + distance + ", rating=" + rating + ", imgUrl=" + imgUrl + "]";
     }
     

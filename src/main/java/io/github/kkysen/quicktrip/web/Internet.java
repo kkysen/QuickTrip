@@ -123,13 +123,11 @@ public class Internet {
     }
     
     /**
-     * reads the html of a website and returns it as a String
-     * 
-     * @param url url of the website to be read
-     * @return a String of the html of the website
+     * @param url a URL
+     * @return a StringBuilder of HTTP response
      * @throws IOException an IOException
      */
-    public static String getString(final String url) throws IOException {
+    public static StringBuilder getStringBuilder(final String url) throws IOException {
         final BufferedReader reader = getBufferedReader(url);
         final StringBuilder sb = new StringBuilder();
         String line;
@@ -137,7 +135,16 @@ public class Internet {
             sb.append(line);
         }
         reader.close();
-        return sb.toString();
+        return sb;
+    }
+    
+    /**
+     * @param url a URL
+     * @return a String of HTTP response
+     * @throws IOException an IOException
+     */
+    public static String getString(final String url) throws IOException {
+        return getStringBuilder(url).toString();
     }
     
     /**
@@ -332,11 +339,7 @@ public class Internet {
                 + "q-room-1-children=0&"
                 + "q-room-0-adults=2&"
                 + "q-room-1-adults=2&"
-                + "pg=1&"
                 + "q-rooms=2&"
-                + "start-index=130&"
-                + "resolved-location=GEO_LOCATION:296+6th+St,+Brooklyn,+NY+11215,+USA"
-                + "%7C40.671424865722656%7C-73.98621368408203:GEOCODE:UNKNOWN&"
                 + "q-room-0-children=0&"
                 + "pn=";
         final String urlEnd = "&callback=dio.pages.sha.searchResultsCallback";
@@ -351,7 +354,8 @@ public class Internet {
             json = json.substring(json.indexOf('{'), json.lastIndexOf('}') + 1);
             final Gson gson = new GsonBuilder().setPrettyPrinting().create();
             final JsonObject jsonObj = new JsonParser().parse(json).getAsJsonObject();
-            final JsonArray results = jsonObj.get("data").getAsJsonObject().get("body").getAsJsonObject()
+            final JsonArray results = jsonObj.get("data").getAsJsonObject().get("body")
+                    .getAsJsonObject()
                     .get("searchResults").getAsJsonObject().get("results").getAsJsonArray();
             final String formattedJson = gson.toJson(results);
             try {

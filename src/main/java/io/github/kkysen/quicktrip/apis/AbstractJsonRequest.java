@@ -18,8 +18,8 @@ import com.google.gson.GsonBuilder;
  */
 public abstract class AbstractJsonRequest<R> extends ApiRequest<R> {
     
-    private static final Gson GSON = new Gson();
-    private static final Gson PRETTY_GSON = new GsonBuilder().setPrettyPrinting().create();
+    protected static final Gson GSON = new Gson();
+    protected static final Gson PRETTY_GSON = new GsonBuilder().setPrettyPrinting().create();
     
     @Override
     protected final String getFileExtension() {

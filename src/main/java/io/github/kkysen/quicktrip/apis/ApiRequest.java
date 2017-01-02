@@ -414,7 +414,7 @@ public abstract class ApiRequest<R> {
      * 
      * @author Khyber Sen
      */
-    static final class QueryEncoder extends LinkedHashMap<String, String> {
+    public static final class QueryEncoder extends LinkedHashMap<String, String> {
         
         private static final long serialVersionUID = 3055592436293901045L;
         
@@ -690,21 +690,17 @@ public abstract class ApiRequest<R> {
      *             {@link #deserializeFromFile(Path)},
      *             or {@link #deserializeFromUrl(String)}
      */
-    public final R getResponse() throws IOException {
-        if (url == null) {
-            setQueryAndUrl();
-        }
-        if (response == null) {
-            if (isCached()) {
-                final Path cachePath = requestCache.getPath(url);
-                response = deserializeFromFile(cachePath);
-            } else {
-                response = deserializeFromUrl(url);
-                requestCache.put(this);
-                final Path cachePath = requestCache.getPath(url);
-                cache(cachePath, response);
-                //requestCache.serializeTypeToken(cachePath);
-            }
+    public R getResponse() throws IOException {
+        setQueryAndUrl();
+        if (isCached()) {
+            final Path cachePath = requestCache.getPath(url);
+            response = deserializeFromFile(cachePath);
+        } else {
+            response = deserializeFromUrl(url);
+            requestCache.put(this);
+            final Path cachePath = requestCache.getPath(url);
+            cache(cachePath, response);
+            //requestCache.serializeTypeToken(cachePath);
         }
         return response;
     }

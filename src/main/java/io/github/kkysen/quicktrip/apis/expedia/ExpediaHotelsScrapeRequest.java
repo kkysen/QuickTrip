@@ -22,7 +22,7 @@ import lombok.RequiredArgsConstructor;
 @RequiredArgsConstructor
 public class ExpediaHotelsScrapeRequest extends RenderedHtmlRequest<List<ExpediaHotel>> {
     
-    private static final String BASE_URL = "https://www.expedia.com/HotelsHotel-Search";
+    private static final String BASE_URL = "https://www.expedia.com/ScrapedHotelsHotel-Search";
     
     private final @QueryField String destination;
     private final @QueryField String startDate;

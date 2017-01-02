@@ -1,6 +1,6 @@
 package io.github.kkysen.quicktrip.app;
 
-import io.github.kkysen.quicktrip.apis.hotels.ScrapedHotelsHotel;
+import io.github.kkysen.quicktrip.apis.hotels.scrape.ScrapedHotelsHotel;
 import io.github.kkysen.quicktrip.optimization.simulatedAnnealing.AnnealingState;
 
 import java.util.ArrayList;

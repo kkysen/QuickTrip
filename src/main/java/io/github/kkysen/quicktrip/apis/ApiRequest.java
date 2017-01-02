@@ -15,6 +15,7 @@ import java.io.UnsupportedEncodingException;
 import java.lang.reflect.Field;
 import java.lang.reflect.Type;
 import java.net.URLEncoder;
+import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.security.MessageDigest;
@@ -127,6 +128,15 @@ public abstract class ApiRequest<R> {
                 return cmp;
             }
             
+            public boolean equals(final Entry other) {
+                return id.equals(other.id);
+            }
+            
+            @Override
+            public int hashCode() {
+                return id.hashCode();
+            }
+            
         }
         
         private final Map<String, String> url2id = new ConcurrentHashMap<>();
@@ -191,8 +201,8 @@ public abstract class ApiRequest<R> {
             final String url = request.url;
             final String id = hashToBase64(url);
             final String fileName = id + "." + request.getFileExtension();
-            final Path path = Paths.get(CACHE_DIR, request.getRelativeCachePath().toString(),
-                    fileName);
+            final Path path = //
+                    Paths.get(CACHE_DIR, request.getRelativeCachePath().toString(), fileName);
             final TypeToken<?> typeToken;
             if (request.pojoClass == null) {
                 typeToken = TypeToken.of(request.pojoType);
@@ -200,6 +210,31 @@ public abstract class ApiRequest<R> {
                 typeToken = TypeToken.of(request.pojoClass);
             }
             put(Instant.now(), url, id, path, typeToken);
+        }
+        
+        private void changePath(final Path oldPath, final Path newPath) {
+            final String id = path2id.get(oldPath);
+            if (id == null) {
+                throw new NullPointerException(oldPath.toString());
+            }
+            id2path.replace(id, oldPath, newPath);
+            path2id.remove(oldPath, id);
+            path2id.put(newPath, id);
+            final String url = id2url.get(id);
+            final Instant time = url2time.get(url);
+            final Entry entry = new Entry(url, id, newPath, time);
+            entries.remove(entry);
+            entries.add(entry); // will replace old one b/c hashCode based only on id
+        }
+        
+        private void movePath(final Path oldPath, final Path newPath) throws IOException {
+            try {
+                changePath(oldPath, newPath);
+            } catch (final NullPointerException e) {
+                Files.deleteIfExists(oldPath);
+                Files.deleteIfExists(newPath);
+            }
+            Files.move(oldPath, newPath);
         }
         
         /**
@@ -245,6 +280,14 @@ public abstract class ApiRequest<R> {
          */
         public String getId(final String url) {
             return url2id.get(url);
+        }
+        
+        /**
+         * @param path the path of a request
+         * @return the ID of the request
+         */
+        public String getId(final Path path) {
+            return path2id.get(path);
         }
         
         /**

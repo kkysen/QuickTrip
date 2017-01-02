@@ -6,7 +6,6 @@ import io.github.kkysen.quicktrip.apis.google.maps.directions.response.Direction
 
 import java.io.IOException;
 import java.nio.file.Path;
-import java.util.Map;
 
 import lombok.RequiredArgsConstructor;
 
@@ -41,8 +40,8 @@ public class DirectionsApiRequest extends GoogleMapsApiRequest<Directions> {
     }
     
     @Override
-    protected void modifyQuery(final Map<String, String> query) {
-        
+    protected void modifyQuery(final QueryEncoder query) {
+        // TODO
     }
     
     @Override

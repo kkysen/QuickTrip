@@ -1,7 +1,7 @@
 package io.github.kkysen.quicktrip.app;
 
 import io.github.kkysen.quicktrip.apis.ApiRequest;
-import io.github.kkysen.quicktrip.apis.hotels.HotelsHotelsScrapeRequest;
+import io.github.kkysen.quicktrip.apis.hotels.scrape.HotelsHotelsScrapeRequest;
 
 import java.io.IOException;
 import java.time.LocalDate;

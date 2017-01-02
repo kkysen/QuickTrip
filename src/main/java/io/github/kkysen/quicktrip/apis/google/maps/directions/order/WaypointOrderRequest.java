@@ -10,7 +10,6 @@ import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.Map;
 import java.util.StringJoiner;
 import java.util.function.Function;
 
@@ -45,7 +44,7 @@ public class WaypointOrderRequest<E> extends GoogleMapsApiRequest<WaypointOrderO
     }
     
     @Override
-    protected void modifyQuery(final Map<String, String> query) {
+    protected void modifyQuery(final QueryEncoder query) {
         super.modifyQuery(query);
         final StringJoiner sj = new StringJoiner("|");
         sj.add("optimize:true");

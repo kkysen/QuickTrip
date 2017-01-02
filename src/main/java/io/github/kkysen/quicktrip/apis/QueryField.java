@@ -13,7 +13,7 @@ import java.lang.annotation.Target;
  * signifies that a field is a @QueryField
  * will be found through reflection and added to the
  * {@link QueryEncoder} in {@link ApiRequest}
- * if {@link #encode()} = false, then it will not be automatically added and must be done
+ * if {@link #include()} = false, then it will not be automatically added and must be done
  * in {@link ApiRequest#modifyQuery(java.util.Map)}
  * 
  * @see ApiRequest#modifyQuery(java.util.Map)
@@ -25,6 +25,8 @@ import java.lang.annotation.Target;
 @Retention(RUNTIME)
 @Target(FIELD)
 public @interface QueryField {
+    
+    public boolean include() default true;
     
     public boolean encode() default true;
     

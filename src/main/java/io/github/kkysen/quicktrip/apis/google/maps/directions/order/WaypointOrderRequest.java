@@ -26,7 +26,7 @@ import lombok.RequiredArgsConstructor;
 public class WaypointOrderRequest<E> extends GoogleMapsApiRequest<WaypointOrderOnlyDirections> {
     
     private final @QueryField String origin;
-    private final @QueryField(encode = false) List<E> destinations;
+    private final @QueryField(include = false) List<E> destinations;
     private final Function<E, String> addressExtractor;
     
     @Override

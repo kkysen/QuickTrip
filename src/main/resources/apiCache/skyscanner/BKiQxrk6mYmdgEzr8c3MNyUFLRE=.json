@@ -1,0 +1,654 @@
+{
+  "hotels_prices": [
+    {
+      "id": 47221771,
+      "agent_prices": [
+        {
+          "id": 17,
+          "price_total": 294
+        }
+      ]
+    },
+    {
+      "id": 46953691,
+      "agent_prices": [
+        {
+          "id": 1,
+          "price_total": 273
+        }
+      ]
+    },
+    {
+      "id": 46985037,
+      "agent_prices": [
+        {
+          "id": 1,
+          "price_total": 387
+        }
+      ]
+    },
+    {
+      "id": 46944653,
+      "agent_prices": [
+        {
+          "id": 17,
+          "price_total": 298
+        }
+      ]
+    },
+    {
+      "id": 46948935,
+      "agent_prices": [
+        {
+          "id": 17,
+          "price_total": 371
+        }
+      ]
+    },
+    {
+      "id": 117334836,
+      "agent_prices": [
+        {
+          "id": 17,
+          "price_total": 281
+        }
+      ]
+    },
+    {
+      "id": 46974582,
+      "agent_prices": [
+        {
+          "id": 6,
+          "price_total": 422
+        }
+      ]
+    },
+    {
+      "id": 46991591,
+      "agent_prices": [
+        {
+          "id": 17,
+          "price_total": 234
+        }
+      ]
+    },
+    {
+      "id": 47175811,
+      "agent_prices": [
+        {
+          "id": 17,
+          "price_total": 592
+        }
+      ]
+    },
+    {
+      "id": 46959471,
+      "agent_prices": [
+        {
+          "id": 17,
+          "price_total": 228
+        }
+      ]
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Wyndham Garden Chinatown",
+      "hotel_id": 47221771,
+      "address": ", ",
+      "popularity": 86,
+      "amenities": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "latitude": 40.71703,
+      "longitude": -73.99533,
+      "star_rating": 4.0,
+      "distance_from_search": 0.876
+    },
+    {
+      "name": "Club Quarters Hotel Wall Street",
+      "hotel_id": 46953691,
+      "address": ", ",
+      "popularity": 82,
+      "amenities": [
+        0,
+        1,
+        21,
+        22,
+        13,
+        23,
+        6,
+        7,
+        3,
+        10,
+        18,
+        12,
+        24,
+        15,
+        16,
+        17,
+        11,
+        4
+      ],
+      "latitude": 40.70673,
+      "longitude": -74.00898,
+      "star_rating": 4.0,
+      "distance_from_search": 0.84
+    },
+    {
+      "name": "Andaz Wall Street - A Hyatt Hotel",
+      "hotel_id": 46985037,
+      "address": ", ",
+      "popularity": 90,
+      "amenities": [
+        1,
+        8,
+        25,
+        23,
+        7,
+        12,
+        15,
+        26,
+        11,
+        27,
+        3,
+        10,
+        28,
+        18,
+        13,
+        29,
+        19,
+        0,
+        6,
+        9,
+        21,
+        16,
+        17,
+        22,
+        30,
+        31,
+        14,
+        32,
+        4
+      ],
+      "latitude": 40.70531,
+      "longitude": -74.00792,
+      "star_rating": 4.0,
+      "distance_from_search": 0.847
+    },
+    {
+      "name": "Millenium Hilton",
+      "hotel_id": 46944653,
+      "address": ", ",
+      "popularity": 82,
+      "amenities": [
+        33,
+        1,
+        23,
+        7,
+        12,
+        11,
+        34,
+        3,
+        35,
+        10,
+        28,
+        22,
+        13,
+        24,
+        29,
+        19,
+        0,
+        4,
+        9,
+        36,
+        21,
+        37,
+        18,
+        17,
+        2,
+        31,
+        14,
+        16
+      ],
+      "latitude": 40.7112,
+      "longitude": -74.01046,
+      "star_rating": 4.0,
+      "distance_from_search": 0.892
+    },
+    {
+      "name": "Gild Hall - A Thompson Hotel",
+      "hotel_id": 46948935,
+      "address": ", ",
+      "popularity": 88,
+      "amenities": [
+        1,
+        38,
+        7,
+        12,
+        15,
+        11,
+        39,
+        27,
+        3,
+        10,
+        22,
+        13,
+        24,
+        29,
+        19,
+        0,
+        40,
+        6,
+        9,
+        21,
+        23,
+        16,
+        17,
+        31,
+        14,
+        4
+      ],
+      "latitude": 40.70793,
+      "longitude": -74.00724,
+      "star_rating": 4.0,
+      "distance_from_search": 0.653
+    },
+    {
+      "name": "Eurostars Wall Street",
+      "hotel_id": 117334836,
+      "address": ", ",
+      "popularity": 76,
+      "amenities": [
+        17,
+        41,
+        21,
+        23,
+        14,
+        7,
+        31,
+        9,
+        13,
+        11,
+        12,
+        42,
+        15,
+        43,
+        16,
+        4
+      ],
+      "latitude": 40.70522,
+      "longitude": -74.00619,
+      "star_rating": 4.0,
+      "distance_from_search": 0.746
+    },
+    {
+      "name": "Duane Street Hotel Tribeca",
+      "hotel_id": 46974582,
+      "address": ", ",
+      "popularity": 84,
+      "amenities": [
+        17,
+        1,
+        21,
+        44,
+        13,
+        23,
+        6,
+        7,
+        8,
+        14,
+        10,
+        22,
+        12,
+        32,
+        45,
+        4,
+        11
+      ],
+      "latitude": 40.71599,
+      "longitude": -74.00743,
+      "star_rating": 4.0,
+      "distance_from_search": 0.915
+    },
+    {
+      "name": "Hotel Mulberry",
+      "hotel_id": 46991591,
+      "address": ", ",
+      "popularity": 84,
+      "amenities": [
+        21,
+        23,
+        6,
+        3,
+        10,
+        12,
+        24,
+        15,
+        4,
+        11
+      ],
+      "latitude": 40.7153,
+      "longitude": -73.99952,
+      "star_rating": 3.0,
+      "distance_from_search": 0.592
+    },
+    {
+      "name": "Smyth - A Thompson Hotel",
+      "hotel_id": 47175811,
+      "address": ", ",
+      "popularity": 82,
+      "amenities": [
+        0,
+        1,
+        3,
+        40,
+        12,
+        23,
+        14,
+        43,
+        31,
+        9,
+        13,
+        6,
+        21,
+        7,
+        15,
+        4,
+        17,
+        16,
+        11,
+        19
+      ],
+      "latitude": 40.71521,
+      "longitude": -74.00916,
+      "star_rating": 4.0,
+      "distance_from_search": 0.966
+    },
+    {
+      "name": "Hampton Inn Seaport Financial District",
+      "hotel_id": 46959471,
+      "address": ", ",
+      "popularity": 80,
+      "amenities": [
+        0,
+        5,
+        8,
+        4,
+        21,
+        23,
+        3,
+        7,
+        31,
+        14,
+        10,
+        6,
+        11,
+        12,
+        15,
+        45,
+        16,
+        17,
+        18,
+        19
+      ],
+      "latitude": 40.70895,
+      "longitude": -74.00217,
+      "star_rating": 3.0,
+      "distance_from_search": 0.217
+    }
+  ],
+  "amenities": [
+    {
+      "id": 1,
+      "name": "Express check-out",
+      "key": "EXPRESSCHECKOUTSERVICE"
+    },
+    {
+      "id": 3,
+      "name": "Meeting facilities",
+      "key": "MEETINGROOM"
+    },
+    {
+      "id": 25,
+      "name": "Satellite TV",
+      "key": "SATELLITETV"
+    },
+    {
+      "id": 33,
+      "name": "ATM machine",
+      "key": "CASHMACHINE"
+    },
+    {
+      "id": 23,
+      "name": "24-hour Front Desk Service",
+      "key": "FRONTDESK24HSERVICE"
+    },
+    {
+      "id": 7,
+      "name": "Laundry",
+      "key": "LAUNDRY"
+    },
+    {
+      "id": 12,
+      "name": "WiFi",
+      "key": "WIFISERVICE"
+    },
+    {
+      "id": 15,
+      "name": "Luggage storage",
+      "key": "LUGGAGESTORAGE"
+    },
+    {
+      "id": 26,
+      "name": "Bathrobe",
+      "key": "BATHROBESERVICE"
+    },
+    {
+      "id": 11,
+      "name": "Elevator",
+      "key": "LIFT"
+    },
+    {
+      "id": 39,
+      "name": "Telephone",
+      "key": "TELEPHONE"
+    },
+    {
+      "id": 5,
+      "name": "Balcony",
+      "key": "BALCONY"
+    },
+    {
+      "id": 34,
+      "name": "Television",
+      "key": "TELEVISION"
+    },
+    {
+      "id": 27,
+      "name": "Minibar",
+      "key": "MINIBAR"
+    },
+    {
+      "id": 8,
+      "name": "Pets allowed",
+      "key": "PETSALLOWEDSERVICE"
+    },
+    {
+      "id": 35,
+      "name": "Indoor pool",
+      "key": "INDOORSWIMMINGPOOL"
+    },
+    {
+      "id": 10,
+      "name": "Business center",
+      "key": "BUSINESSCENTER"
+    },
+    {
+      "id": 28,
+      "name": "Currency exchange",
+      "key": "CURRENCYEXCHANGESERVICE"
+    },
+    {
+      "id": 22,
+      "name": "Express check-in",
+      "key": "EXPRESSCHECKINSERVICE"
+    },
+    {
+      "id": 13,
+      "name": "Restaurant",
+      "key": "RESTAURANT"
+    },
+    {
+      "id": 42,
+      "name": "Airport Shuttle",
+      "key": "AIRPORTSHUTTLESERVICE"
+    },
+    {
+      "id": 24,
+      "name": "Limousine",
+      "key": "LIMOUSINESERVICE"
+    },
+    {
+      "id": 29,
+      "name": "Hairdryer",
+      "key": "HAIRDRYER"
+    },
+    {
+      "id": 19,
+      "name": "Daily newspaper",
+      "key": "DAILYNEWSPAPERSERVICE"
+    },
+    {
+      "id": 0,
+      "name": "Fitness Center",
+      "key": "FITNESSCENTER"
+    },
+    {
+      "id": 41,
+      "name": "Bell staff",
+      "key": "BELLSTAFFSERVICE"
+    },
+    {
+      "id": 44,
+      "name": "Baby-sitting",
+      "key": "BABYSITTINGSERVICE"
+    },
+    {
+      "id": 40,
+      "name": "Valet parking",
+      "key": "VALETPARKINGSERVICE"
+    },
+    {
+      "id": 6,
+      "name": "Non-smoking",
+      "key": "NONSMOKINGSERVICE"
+    },
+    {
+      "id": 9,
+      "name": "Bar",
+      "key": "BAR"
+    },
+    {
+      "id": 36,
+      "name": "Pool",
+      "key": "POOL"
+    },
+    {
+      "id": 21,
+      "name": "Parking",
+      "key": "PARKING"
+    },
+    {
+      "id": 37,
+      "name": "Shops",
+      "key": "SHOP"
+    },
+    {
+      "id": 16,
+      "name": "Safe deposit box",
+      "key": "SAFEDEPOSITBOX"
+    },
+    {
+      "id": 18,
+      "name": "Conference facilities",
+      "key": "CONFERENCEFACILITY"
+    },
+    {
+      "id": 38,
+      "name": "Library",
+      "key": "LIBRARY"
+    },
+    {
+      "id": 17,
+      "name": "Concierge",
+      "key": "CONCIERGESERVICE"
+    },
+    {
+      "id": 2,
+      "name": "Wedding facilities",
+      "key": "WEDDINGFACILITY"
+    },
+    {
+      "id": 43,
+      "name": "Handicap Accessible",
+      "key": "DISABLEDFACILITY"
+    },
+    {
+      "id": 30,
+      "name": "Desk",
+      "key": "DESK"
+    },
+    {
+      "id": 31,
+      "name": "Room service",
+      "key": "ROOMSERVICE"
+    },
+    {
+      "id": 14,
+      "name": "Air conditioning",
+      "key": "AIRCONDITIONING"
+    },
+    {
+      "id": 32,
+      "name": "Spa",
+      "key": "SPA"
+    },
+    {
+      "id": 45,
+      "name": "Internet access",
+      "key": "INTERNETACCESSSERVICE"
+    },
+    {
+      "id": 4,
+      "name": "Multilingual staff",
+      "key": "MULTILINGUALSTAFFSERVICE"
+    }
+  ],
+  "places": [],
+  "urls": {
+    "hotel_details": "/apiservices/hotels/livedetails/v2/details/H4sIAAAAAAAEAE3IMQqAMBQD0Ltk_l9-qlLt7A2qk4g4uJW66CTe3eIkhCS8GwfCjClCsGf9dopD6bSda2OVp6Qjr-qbyoo6o1ejsh_NwpefOv7UCQWsxZXTEpKvlBZBRlDSOj4vIM-nLXwAAAA1?apikey\u003d_REx8CYdGSeynZhh_BmXUs_AeE55MeR3jOQARH2xQkzguXHsaaO5XYLhF7pqsrLAxUzwZ1laxtJ2alb9muxNxqA%3D%3D"
+  },
+  "status": "PENDING",
+  "total_hotels": 91,
+  "total_available_hotels": 30
+}

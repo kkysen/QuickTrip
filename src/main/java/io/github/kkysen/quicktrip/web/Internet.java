@@ -35,6 +35,8 @@ import com.gargoylesoftware.htmlunit.html.HtmlPage;
 import com.gargoylesoftware.htmlunit.javascript.JavaScriptErrorListener;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
+import com.google.gson.JsonArray;
+import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 
 // TODO add Selenium support for rendered documents
@@ -324,7 +326,19 @@ public class Internet {
     }
     
     public static void main(final String[] args) throws Exception {
-        final String urlBeginning = "https://www.hotels.com/search/listings.json?sort-order=DISTANCE_FROM_LANDMARK&q-destination=296+6th+St,+Brooklyn,+NY+11215,+USA&q-room-1-children=0&q-room-0-adults=2&q-room-1-adults=2&pg=1&q-rooms=2&start-index=130&resolved-location=GEO_LOCATION:296+6th+St,+Brooklyn,+NY+11215,+USA%7C40.671424865722656%7C-73.98621368408203:GEOCODE:UNKNOWN&q-room-0-children=0&pn=";
+        final String urlBeginning = "https://www.hotels.com/search/listings.json?"
+                + "sort-order=DISTANCE_FROM_LANDMARK&"
+                + "q-destination=296+6th+St,+Brooklyn,+NY+11215,+USA&"
+                + "q-room-1-children=0&"
+                + "q-room-0-adults=2&"
+                + "q-room-1-adults=2&"
+                + "pg=1&"
+                + "q-rooms=2&"
+                + "start-index=130&"
+                + "resolved-location=GEO_LOCATION:296+6th+St,+Brooklyn,+NY+11215,+USA"
+                + "%7C40.671424865722656%7C-73.98621368408203:GEOCODE:UNKNOWN&"
+                + "q-room-0-children=0&"
+                + "pn=";
         final String urlEnd = "&callback=dio.pages.sha.searchResultsCallback";
         IntStream.rangeClosed(0, 20).parallel().forEach(i -> {
             final String url = urlBeginning + i + urlEnd;
@@ -336,8 +350,10 @@ public class Internet {
             }
             json = json.substring(json.indexOf('{'), json.lastIndexOf('}') + 1);
             final Gson gson = new GsonBuilder().setPrettyPrinting().create();
-            final String formattedJson = gson
-                    .toJson(new JsonParser().parse(json).getAsJsonObject());
+            final JsonObject jsonObj = new JsonParser().parse(json).getAsJsonObject();
+            final JsonArray results = jsonObj.get("data").getAsJsonObject().get("body").getAsJsonObject()
+                    .get("searchResults").getAsJsonObject().get("results").getAsJsonArray();
+            final String formattedJson = gson.toJson(results);
             try {
                 MyFiles.write(Paths.get("hotels.com test pg=" + i + ".json"), formattedJson);
             } catch (final IOException e) {

@@ -425,15 +425,28 @@ public abstract class ApiRequest<R> {
          * @see java.util.HashMap#put(java.lang.Object, java.lang.Object)
          */
         @Override
-        public String put(final String name, String value) {
+        public String put(String name, String value) {
             String oldValue;
             try {
+                name = URLEncoder.encode(name, "UTF-8");
                 value = URLEncoder.encode(value, "UTF-8");
-                oldValue = super.put(name, value);
             } catch (final UnsupportedEncodingException e) {
-                throw new RuntimeException(e);
+                // TODO Auto-generated catch block
+                e.printStackTrace();
             }
+            oldValue = super.put(name, value);
             return oldValue;
+        }
+        
+        /**
+         * bypasses URL (percent) encoding
+         * 
+         * @param name the name
+         * @param value the value
+         * @return previous value, null if new name
+         */
+        public String putRaw(final String name, final String value) {
+            return super.put(name, value);
         }
         
         /**
@@ -467,7 +480,7 @@ public abstract class ApiRequest<R> {
         Runtime.getRuntime().addShutdownHook(SAVE_ON_EXIT);
     }
     
-    private final Map<String, String> query = new QueryEncoder();
+    private final QueryEncoder query = new QueryEncoder();
     
     private @Getter(AccessLevel.PROTECTED) String url;
     
@@ -522,7 +535,7 @@ public abstract class ApiRequest<R> {
         final Map<Field, QueryField> field2annotation = new HashMap<>();
         queryFields.removeIf(field -> {
             final QueryField queryField = AnnotationUtils.getAnnotation(field, QueryField.class);
-            final boolean shouldRemove = queryField == null || !queryField.encode();
+            final boolean shouldRemove = queryField == null || !queryField.include();
             if (!shouldRemove) {
                 field2annotation.put(field, queryField);
             }
@@ -531,9 +544,9 @@ public abstract class ApiRequest<R> {
         final Map<Field, Object> queryEntries = Reflect.getFieldEntries(queryFields, this);
         for (final Entry<Field, Object> entry : queryEntries.entrySet()) {
             final Field queryField = entry.getKey();
-            final String queryValue = entry.getValue().toString();
+            final String value = entry.getValue().toString();
             // if the value of this query is an empty String, then skip it
-            if (!queryValue.isEmpty()) {
+            if (!value.isEmpty()) {
                 // if QueryField.name() has been overriden and returns something other than an empty String, 
                 // then change the name of this query to QueryField.name()
                 // otherwise use the name of the actual Field
@@ -542,7 +555,11 @@ public abstract class ApiRequest<R> {
                 if (name.isEmpty()) {
                     name = queryField.getName();
                 }
-                query.put(name, queryValue);
+                if (annotation.encode()) {
+                    query.put(name, value);
+                } else {
+                    query.putRaw(name, value);
+                }
             }
         }
     }
@@ -555,7 +572,7 @@ public abstract class ApiRequest<R> {
      * @param query the existing query with the reflected query fields and API
      *            key added
      */
-    protected void modifyQuery(final Map<String, String> query) {}
+    protected void modifyQuery(final QueryEncoder query) {}
     
     /**
      * @return the relative Path of the directory in which this request should
@@ -583,6 +600,7 @@ public abstract class ApiRequest<R> {
     
     /**
      * @return a complete URL that overrides all the other URL stuff
+     *         null if no overriding URL
      */
     protected String getOverridingUrl() {
         return null;

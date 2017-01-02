@@ -34,7 +34,7 @@ public abstract class SkyscannerApiRequest<R> extends JsonRequest<R> {
     }
     
     @Override
-    protected final String getApiKeyQueryName() {
+    protected String getApiKeyQueryName() {
         return "apiKey";
     }
     

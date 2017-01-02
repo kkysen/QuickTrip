@@ -55,7 +55,7 @@ public class HotelDetailsApiRequest extends SkyscannerApiRequest<HotelDetailsRes
                 Locale.US,
                 40.71, -74.00,
                 new GregorianCalendar(2017, 0, 19).toZonedDateTime(),
-                new GregorianCalendar(2017, 0, 21).toZonedDateTime(),
+                new GregorianCalendar(2017, 0, 22).toZonedDateTime(),
                 2,
                 1).getResponse();
         final HotelDetailsApiRequest request = new HotelDetailsApiRequest(hotelResponse);

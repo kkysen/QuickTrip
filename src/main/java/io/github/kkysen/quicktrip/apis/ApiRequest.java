@@ -120,7 +120,11 @@ public abstract class ApiRequest<R> {
              */
             @Override
             public int compareTo(final Entry other) {
-                return time.compareTo(other.time);
+                int cmp = time.compareTo(other.time);
+                if (cmp == 0) {
+                    cmp = url.compareTo(other.url);
+                }
+                return cmp;
             }
             
         }
@@ -195,7 +199,6 @@ public abstract class ApiRequest<R> {
             } else {
                 typeToken = TypeToken.of(request.pojoClass);
             }
-            System.out.println(typeToken.toString());
             put(Instant.now(), url, id, path, typeToken);
         }
         
@@ -388,7 +391,6 @@ public abstract class ApiRequest<R> {
             final List<Entry> entryList = new ArrayList<>(entries);
             entryList.sort(null);
             MyFiles.write(path, entryList);
-            //id2path.keySet().forEach(id -> System.out.println(getType(id)));
         }
         
         /**
@@ -431,8 +433,7 @@ public abstract class ApiRequest<R> {
                 name = URLEncoder.encode(name, "UTF-8");
                 value = URLEncoder.encode(value, "UTF-8");
             } catch (final UnsupportedEncodingException e) {
-                // TODO Auto-generated catch block
-                e.printStackTrace();
+                throw new RuntimeException(e); // shouldn't happen
             }
             oldValue = super.put(name, value);
             return oldValue;
@@ -458,7 +459,6 @@ public abstract class ApiRequest<R> {
         public String toString() {
             final StringJoiner queryString = new StringJoiner("&", "?", "");
             entrySet().forEach(entry -> queryString.add(entry.getKey() + '=' + entry.getValue()));
-            System.out.println("apireq tostring: " + queryString.toString());
             return queryString.toString();
         }
         

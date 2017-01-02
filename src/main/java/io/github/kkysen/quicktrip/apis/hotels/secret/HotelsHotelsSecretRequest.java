@@ -2,6 +2,7 @@ package io.github.kkysen.quicktrip.apis.hotels.secret;
 
 import io.github.kkysen.quicktrip.apis.AbstractJsonRequest;
 import io.github.kkysen.quicktrip.apis.hotels.HotelsHotelsQuery;
+import io.github.kkysen.quicktrip.apis.hotels.secret.adapters.JsonHotelsHotelAdapter;
 import io.github.kkysen.quicktrip.app.Destination;
 import io.github.kkysen.quicktrip.web.Internet;
 

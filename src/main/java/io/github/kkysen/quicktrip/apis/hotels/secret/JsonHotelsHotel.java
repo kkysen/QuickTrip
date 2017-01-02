@@ -1,6 +1,10 @@
 package io.github.kkysen.quicktrip.apis.hotels.secret;
 
 import io.github.kkysen.quicktrip.apis.Json;
+import io.github.kkysen.quicktrip.apis.hotels.secret.adapters.AddressAdapter;
+import io.github.kkysen.quicktrip.apis.hotels.secret.adapters.DistanceAdapter;
+import io.github.kkysen.quicktrip.apis.hotels.secret.adapters.PhoneNumberAdapter;
+import io.github.kkysen.quicktrip.apis.hotels.secret.adapters.PriceAdapter;
 import io.github.kkysen.quicktrip.app.Hotel;
 
 import com.google.gson.annotations.JsonAdapter;

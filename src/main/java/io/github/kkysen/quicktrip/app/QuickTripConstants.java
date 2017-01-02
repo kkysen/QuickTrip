@@ -11,7 +11,8 @@ import com.google.gson.GsonBuilder;
  */
 public class QuickTripConstants {
     
-    public static final Gson GSON = Converters.registerLocalDate(new GsonBuilder()).create();
+    public static final Gson GSON = Converters.registerLocalDate(new GsonBuilder())
+            .setPrettyPrinting().create();
     
     public static final String SEARCH_ARGS_PATH = "searchArgs.json";
     

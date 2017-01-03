@@ -56,4 +56,4 @@ __Output__
 <br><br>
 
 ### 5. Diagrams of Features
-// TODO
+<img src="prototypeDiagrams/Quick Trip 1.pdf">

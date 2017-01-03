@@ -52,7 +52,7 @@ public class JsonHotelsHotelsAdapter extends TypeAdapter<List<JsonHotelsHotel>> 
         return sj.toString();
     }
     
-    public JsonHotelsHotel readHotel() throws IOException {
+    public JsonHotelsHotel readHotel() throws IOException, MissingHotelInformationException {
         final String name;
         final String phoneNumber;
         final String address;
@@ -97,21 +97,26 @@ public class JsonHotelsHotelsAdapter extends TypeAdapter<List<JsonHotelsHotel>> 
         readUntilName("landmarks");
         in.beginArray();
         in.beginObject();
-        distance = Double.parseDouble(nextStringNamed("distance"));
+        String distanceStr = nextStringNamed("distance");
+        distance = Double.parseDouble(distanceStr.substring(0, distanceStr.indexOf(' '));
         in.endObject();
         in.skipValue();
         in.endArray();
         
         // price
         readUntilName("ratePlan");
-        in.beginObject();
-        readUntilName("price");
-        in.beginObject();
-        price = Integer.parseInt(nextStringNamed("current").substring(1));
-        readUntilEnd();
-        in.endObject();
-        readUntilEnd();
-        in.endObject();
+        try {
+            in.beginObject();
+            readUntilName("price");
+            in.beginObject();
+            price = Integer.parseInt(nextStringNamed("current").substring(1));
+            readUntilEnd();
+            in.endObject();
+            readUntilEnd();
+            in.endObject();
+        } catch (IOException e) { // no ratePlan
+            throw new MissingHotelInformationException("price", e);
+        }
         
         in.endObject();
         
@@ -124,7 +129,11 @@ public class JsonHotelsHotelsAdapter extends TypeAdapter<List<JsonHotelsHotel>> 
         this.in = in;
         in.beginArray();
         while (in.hasNext()) {
-            hotels.add(readHotel());
+            try {
+                hotels.add(readHotel());
+            } catch (MissingHotelInformationException e) {
+                // skip hotel if missing info (price)
+            }
         }
         in.endArray();
         return hotels;

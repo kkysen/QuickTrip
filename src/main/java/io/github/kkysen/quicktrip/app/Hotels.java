@@ -16,6 +16,7 @@ public class Hotels implements AnnealingState {
     private final int size;
     private final List<List<Hotel>> pools;
     private final List<Integer> numDays;
+    private final List<Double> avgRatings;
     private final double maxRating;
     private final int budget;
     
@@ -29,20 +30,26 @@ public class Hotels implements AnnealingState {
         size = dests.size();
         pools = new ArrayList<>(size);
         numDays = new ArrayList<>(size);
-        int totalDays = 0;
         
         // getPossibleHotels takes a while, so did it parallel
         // b/c parallel, order won't be defined it use dests::add
         // therefore must make IntStream of indices and use pools.set(i, hotels)
         for (int i = 0; i < size; i++) {
             pools.add(null);
+            avgRatings.add(null);
         }
         IntStream.range(0, dests.size())
                 .parallel()
                 .forEach(i -> {
                     final Destination dest = dests.get(i);
                     dest.addHotelsHotelsScrapeRequest();
-                    pools.set(i, dest.getPossibleHotels());
+                    List<Hotel> possibleHotels = dest.getPossibleHotels();
+                    pools.set(i, possibleHotels);
+                    double avgRating = 0;
+                    for (Hotel hotel : possibleHotels) {
+                        avgRating += hotel.getRating();
+                    }
+                    avgRatings.set(i, avgRating / possibleHotels.size());
                 });
         
         // FIXME idk why this is happening
@@ -55,10 +62,13 @@ public class Hotels implements AnnealingState {
             }
         }
         
+        int totalDays = 0;
+        int totalRating = 0;
         for (final Destination dest : dests) {
             final int singleNumDays = dest.getNumDays();
             numDays.add(singleNumDays);
             totalDays += singleNumDays;
+            totalRating +=
         }
         maxRating = totalDays * 5;
         hotels = new ArrayList<>(size);

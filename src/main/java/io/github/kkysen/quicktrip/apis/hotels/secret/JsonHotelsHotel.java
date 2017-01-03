@@ -21,6 +21,7 @@ public class JsonHotelsHotel implements Hotel {
     /*
      * FIXME this is unfinished
      * these are the main fields I want, but they're not all simple fields, but objects
+     * JsonHotelsHotelsAdapter right now only does these fields w/o any error checking
      */
     
     private final String name;

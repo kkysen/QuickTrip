@@ -56,4 +56,6 @@ __Output__
 <br><br>
 
 ### 5. Diagrams of Features
-<img src="prototypeDiagrams/Quick Trip 1.pdf">
+<img src="prototypeDiagrams/QuickTrip 1.pdf">
+<br>
+<img src="prototypeDiagrams/QuickTrip 2.pdf">

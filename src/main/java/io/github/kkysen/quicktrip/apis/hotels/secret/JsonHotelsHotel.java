@@ -1,20 +1,10 @@
 package io.github.kkysen.quicktrip.apis.hotels.secret;
 
 import io.github.kkysen.quicktrip.apis.Json;
-import io.github.kkysen.quicktrip.apis.hotels.secret.adapters.AddressAdapter;
-import io.github.kkysen.quicktrip.apis.hotels.secret.adapters.DistanceAdapter;
-import io.github.kkysen.quicktrip.apis.hotels.secret.adapters.PhoneNumberAdapter;
-import io.github.kkysen.quicktrip.apis.hotels.secret.adapters.PriceAdapter;
 import io.github.kkysen.quicktrip.app.Hotel;
-
-import com.google.gson.JsonObject;
-import com.google.gson.annotations.JsonAdapter;
-import com.google.gson.annotations.SerializedName;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
 
 /**
  * 
@@ -22,10 +12,10 @@ import lombok.Setter;
  * @author Khyber Sen
  */
 @Json
-@NoArgsConstructor
+//@NoArgsConstructor my own Adapter uses AllArgsConstructor only
 @AllArgsConstructor
 @Getter
-@Setter
+//@Setter final fields
 public class JsonHotelsHotel implements Hotel {
     
     /*
@@ -33,29 +23,12 @@ public class JsonHotelsHotel implements Hotel {
      * these are the main fields I want, but they're not all simple fields, but objects
      */
     
-    private String name;
-    
-    @JsonAdapter(PhoneNumberAdapter.class)
-    @SerializedName("telephone")
-    private String phoneNumber;
-    
-    @JsonAdapter(AddressAdapter.class)
-    private String address;
-    
-    @SerializedName("thumbnailUrl")
-    private String imgUrl;
-    
-    @SerializedName("starRating")
-    private double rating;
-    
-    @JsonAdapter(DistanceAdapter.class)
-    private double distance;
-    
-    @JsonAdapter(PriceAdapter.class)
-    private int price;
-    
-    public JsonHotelsHotel(final JsonObject jsonObj) {
-        
-    }
+    private final String name;
+    private final String phoneNumber;
+    private final String address;
+    private final String imgUrl;
+    private final double rating;
+    private final double distance;
+    private final int price;
     
 }

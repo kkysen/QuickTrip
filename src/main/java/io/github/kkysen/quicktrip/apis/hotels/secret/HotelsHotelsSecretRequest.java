@@ -2,7 +2,6 @@ package io.github.kkysen.quicktrip.apis.hotels.secret;
 
 import io.github.kkysen.quicktrip.apis.AbstractJsonRequest;
 import io.github.kkysen.quicktrip.apis.hotels.HotelsHotelsQuery;
-import io.github.kkysen.quicktrip.apis.hotels.secret.adapters.JsonHotelsHotelAdapter;
 import io.github.kkysen.quicktrip.app.Destination;
 import io.github.kkysen.quicktrip.web.Internet;
 
@@ -15,10 +14,6 @@ import java.util.List;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.google.gson.JsonArray;
-import com.google.gson.JsonElement;
-import com.google.gson.JsonObject;
-import com.google.gson.JsonParser;
 import com.google.gson.reflect.TypeToken;
 
 /**
@@ -32,7 +27,7 @@ public class HotelsHotelsSecretRequest extends AbstractJsonRequest<List<JsonHote
     
     private static final Type pojoType = new TypeToken<List<JsonHotelsHotel>>() {}.getType();
     private static final Gson GSON = new GsonBuilder()
-            .registerTypeAdapter(pojoType, new JsonHotelsHotelAdapter().nullSafe())
+            .registerTypeAdapter(pojoType, new JsonHotelsHotelsAdapter().nullSafe())
             .create();
     
     private final HotelsHotelsQuery hotelsQuery;
@@ -82,22 +77,17 @@ public class HotelsHotelsSecretRequest extends AbstractJsonRequest<List<JsonHote
         super.modifyQuery(query);
         query.putAll(hotelsQuery.getQuery());
         query.put("pn", String.valueOf(curPageNum));
-        query.put("callback", "dio.pages.sha.searchResultsCallback");
     }
 
     @Override
     protected List<JsonHotelsHotel> deserializeFromUrl(final String url) throws IOException {
         final StringBuilder rawJson = Internet.getStringBuilder(url);
-        final String rawJsonStr = rawJson.substring(rawJson.indexOf("{b"), rawJson.lastIndexOf("}}"));
-        final JsonObject data = new JsonParser().parse(rawJsonStr).getAsJsonObject();
-        final JsonObject body = data.getAsJsonObject("body");
-        final JsonObject searchResults = body.getAsJsonObject("searchResults");
-        final JsonArray results = searchResults.get("results").getAsJsonArray();
-        final List<JsonHotelsHotel> hotels = new ArrayList<>();
-        for (final JsonElement result : results) {
-            hotels.add(new JsonHotelsHotel(result.getAsJsonObject()));
-        }
-        return GSON.fromJson(results, pojoType);
+        rawJson.delete(rawJson.length() / 3, rawJson.length()); // delete last third, unnecessary info
+        final String startStr = "\"results\":";
+        final int startIndex = rawJson.indexOf(startStr) + startStr.length();
+        final int endIndex = rawJson.lastIndexOf(",\"debugInfo\":");
+        final String jsonStr = rawJson.substring(startIndex, endIndex);
+        return GSON.fromJson(jsonStr, pojoType);
     }
     
     @Override

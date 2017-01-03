@@ -56,6 +56,6 @@ __Output__
 <br><br>
 
 ### 5. Diagrams of Features
-<img src="prototypeDiagrams/QuickTrip Input Search.pdf">
+<img src="prototypeDiagrams/QuickTrip Input Search.png">
 <br>
-<img src="prototypeDiagrams/QuickTrip Output Itinerary.pdf">
+<img src="prototypeDiagrams/QuickTrip Output Itinerary.png">

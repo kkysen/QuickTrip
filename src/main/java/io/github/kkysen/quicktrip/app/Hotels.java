@@ -10,6 +10,8 @@ import java.util.stream.IntStream;
 
 public class Hotels implements AnnealingState {
     
+    private static final double RATING_SCALE_FACTOR = 0.1;
+    
     private static final Random random = new Random();
     
     // these never change, so not cloned
@@ -45,11 +47,12 @@ public class Hotels implements AnnealingState {
                     dest.addHotelsHotelsScrapeRequest();
                     List<Hotel> possibleHotels = dest.getPossibleHotels();
                     pools.set(i, possibleHotels);
-                    double avgRating = 0;
+                    double totalRating = 0;
                     for (Hotel hotel : possibleHotels) {
-                        avgRating += hotel.getRating();
+                        totalRating += hotel.getRating();
                     }
-                    avgRatings.set(i, avgRating / possibleHotels.size());
+                    double avgRating = totalRating / possibleHotels.size();
+                    avgRatings.set(i, avgRating);
                 });
         
         // FIXME idk why this is happening
@@ -63,12 +66,10 @@ public class Hotels implements AnnealingState {
         }
         
         int totalDays = 0;
-        int totalRating = 0;
         for (final Destination dest : dests) {
             final int singleNumDays = dest.getNumDays();
             numDays.add(singleNumDays);
             totalDays += singleNumDays;
-            totalRating +=
         }
         maxRating = totalDays * 5;
         hotels = new ArrayList<>(size);
@@ -126,8 +127,14 @@ public class Hotels implements AnnealingState {
     }
     
     private double ratingEnergy() {
-        final double ratingDiff = totalRating() - maxRating;
-        return -Math.exp(-ratingDiff);
+        //final double ratingDiff = totalRating() - maxRating;
+        //return -Math.exp(-ratingDiff);
+        int totalRatingDiff = 0;
+        for (int i = 0; i < size; i++) {
+            double ratingDiff = hotels.get(i).getRating() * numDays.get(i);
+            totalRatingDiff = avgRatings.get(i) - ratingDiff;
+        }
+        return Math.pow(totalRatingDiff / maxRating, 3) * RATING_SCALE_FACTOR;
     }
     
     @Override

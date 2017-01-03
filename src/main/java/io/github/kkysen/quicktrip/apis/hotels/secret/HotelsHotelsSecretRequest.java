@@ -16,6 +16,7 @@ import java.util.List;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonArray;
+import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 import com.google.gson.reflect.TypeToken;
@@ -92,6 +93,10 @@ public class HotelsHotelsSecretRequest extends AbstractJsonRequest<List<JsonHote
         final JsonObject body = data.getAsJsonObject("body");
         final JsonObject searchResults = body.getAsJsonObject("searchResults");
         final JsonArray results = searchResults.get("results").getAsJsonArray();
+        final List<JsonHotelsHotel> hotels = new ArrayList<>();
+        for (final JsonElement result : results) {
+            hotels.add(new JsonHotelsHotel(result.getAsJsonObject()));
+        }
         return GSON.fromJson(results, pojoType);
     }
     

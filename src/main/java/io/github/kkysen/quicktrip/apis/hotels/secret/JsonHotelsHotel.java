@@ -7,6 +7,7 @@ import io.github.kkysen.quicktrip.apis.hotels.secret.adapters.PhoneNumberAdapter
 import io.github.kkysen.quicktrip.apis.hotels.secret.adapters.PriceAdapter;
 import io.github.kkysen.quicktrip.app.Hotel;
 
+import com.google.gson.JsonObject;
 import com.google.gson.annotations.JsonAdapter;
 import com.google.gson.annotations.SerializedName;
 
@@ -52,5 +53,9 @@ public class JsonHotelsHotel implements Hotel {
     
     @JsonAdapter(PriceAdapter.class)
     private int price;
+    
+    public JsonHotelsHotel(final JsonObject jsonObj) {
+        
+    }
     
 }

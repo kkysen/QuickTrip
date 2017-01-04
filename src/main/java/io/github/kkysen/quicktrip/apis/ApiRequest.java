@@ -733,16 +733,22 @@ public abstract class ApiRequest<R> {
                 //requestCache.serializeTypeToken(cachePath);
             }
         } catch (final IOException e) {
-            throw new WrappedIOException(e);
+            throw new RuntimeIOException(e);
         }
     }
     
-    private static class WrappedIOException extends RuntimeException {
+    /**
+     * wraps an IOException into a RuntimeException
+     * 
+     * @author Khyber Sen
+     */
+    private static class RuntimeIOException extends RuntimeException {
         
-        @Getter
-        IOException cause;
+        private static final long serialVersionUID = -7522220261809796580L;
         
-        public WrappedIOException(final IOException cause) {
+        private final @Getter IOException cause;
+        
+        public RuntimeIOException(final IOException cause) {
             super(cause);
             this.cause = cause;
         }
@@ -767,7 +773,7 @@ public abstract class ApiRequest<R> {
         final Thread setNonCachedResponse = new Thread(this::setNonCachedResponse);
         try {
             setNonCachedResponse.run();
-        } catch (final WrappedIOException e) {
+        } catch (final RuntimeIOException e) {
             throw e.getCause();
         }
         return response;

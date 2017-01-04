@@ -25,7 +25,7 @@ public class AddressExistsRequest extends GoogleMapsApiRequest<AddressExistsOnly
     }
     
     @Override
-    protected Class<? extends AddressExistsOnly> getPojoClass() {
+    protected Class<? extends AddressExistsOnly> getResponseClass() {
         return AddressExistsOnly.class;
     }
     

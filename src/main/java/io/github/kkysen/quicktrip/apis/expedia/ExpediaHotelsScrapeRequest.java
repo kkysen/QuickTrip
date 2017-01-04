@@ -48,7 +48,7 @@ public class ExpediaHotelsScrapeRequest extends RenderedHtmlRequest<List<Expedia
     
     @SuppressWarnings("unchecked")
     @Override
-    protected Class<? extends List<ExpediaHotel>> getPojoClass() {
+    protected Class<? extends List<ExpediaHotel>> getResponseClass() {
         return (Class<List<ExpediaHotel>>) (Class<?>) List.class;
     }
     

@@ -1,6 +1,6 @@
 package io.github.kkysen.quicktrip.app;
 
-import io.github.kkysen.quicktrip.apis.ApiRequest;
+import io.github.kkysen.quicktrip.apis.CachedApiRequest;
 import io.github.kkysen.quicktrip.apis.hotels.scrape.HotelsHotelsScrapeRequest;
 import io.github.kkysen.quicktrip.apis.hotels.secret.HotelsHotelsSecretRequest;
 
@@ -43,7 +43,7 @@ public class Destination {
         this(noDateDest.getAddress(), noDateDest.getNumDays(), startDate, endDate, numPeople);
     }
     
-    private void addHotelsRequest(final ApiRequest<List<Hotel>> request) {
+    private void addHotelsRequest(final CachedApiRequest<List<Hotel>> request) {
         try {
             possibleHotels.addAll(request.getResponse());
         } catch (final IOException e) {
@@ -56,7 +56,7 @@ public class Destination {
     }
     
     public void addHotelHotelsSecretRequest() {
-        addHotelsRequest(new HotelsHotelsSecretRequest(this, 1000));
+        addHotelsRequest(new HotelsHotelsSecretRequest(this));
     }
     
     public static void main(final String[] args) {

@@ -34,7 +34,7 @@ public class WaypointOrderRequest<E> extends GoogleMapsApiRequest<WaypointOrderO
     }
     
     @Override
-    protected Class<? extends WaypointOrderOnlyDirections> getPojoClass() {
+    protected Class<? extends WaypointOrderOnlyDirections> getResponseClass() {
         return WaypointOrderOnlyDirections.class;
     }
     
@@ -44,7 +44,7 @@ public class WaypointOrderRequest<E> extends GoogleMapsApiRequest<WaypointOrderO
     }
     
     @Override
-    protected void modifyQuery(final QueryEncoder query) {
+    protected void modifyQuery(final QueryParams query) {
         super.modifyQuery(query);
         final StringJoiner sj = new StringJoiner("|");
         sj.add("optimize:true");

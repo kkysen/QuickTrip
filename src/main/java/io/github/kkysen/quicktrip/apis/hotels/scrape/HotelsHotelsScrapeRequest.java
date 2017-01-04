@@ -36,18 +36,18 @@ public class HotelsHotelsScrapeRequest extends HtmlRequest<List<Hotel>> {
     }
     
     @Override
-    protected void modifyQuery(final QueryEncoder query) {
+    protected void modifyQuery(final QueryParams query) {
         super.modifyQuery(query);
         query.putAll(hotelsQuery.getQuery());
     }
     
     @Override
-    protected Class<? extends List<Hotel>> getPojoClass() {
+    protected Class<? extends List<Hotel>> getResponseClass() {
         return null;
     }
     
     @Override
-    protected Type getPojoType() {
+    protected Type getResponseType() {
         return new TypeToken<List<ScrapedHotelsHotel>>(){}.getType();
     }
     

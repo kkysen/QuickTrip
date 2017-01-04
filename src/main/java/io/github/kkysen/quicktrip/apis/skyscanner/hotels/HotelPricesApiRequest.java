@@ -105,7 +105,7 @@ public class HotelPricesApiRequest extends SkyscannerApiRequest<HotelResponse> {
     }
     
     @Override
-    protected Class<? extends HotelResponse> getPojoClass() {
+    protected Class<? extends HotelResponse> getResponseClass() {
         return HotelResponse.class;
     }
     

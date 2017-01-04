@@ -16,7 +16,7 @@ import com.google.gson.GsonBuilder;
  * 
  * @author Khyber Sen
  */
-public abstract class AbstractJsonRequest<R> extends ApiRequest<R> {
+public abstract class AbstractJsonRequest<R> extends CachedApiRequest<R> {
     
     protected static final Gson GSON = new Gson();
     protected static final Gson PRETTY_GSON = new GsonBuilder().setPrettyPrinting().create();
@@ -26,16 +26,13 @@ public abstract class AbstractJsonRequest<R> extends ApiRequest<R> {
         return "json";
     }
     
-    protected final R parseFromReader(final Reader reader) {
-        if (pojoClass == null) {
-            return GSON.fromJson(reader, pojoType);
-        }
-        return GSON.fromJson(reader, pojoClass);
+    protected final R deserializeFromReader(final Reader reader) {
+        return GSON.fromJson(reader, getResponseType());
     }
     
     @Override
     protected final R deserializeFromFile(final Path path) throws IOException {
-        return parseFromReader(Files.newBufferedReader(path, Constants.CHARSET));
+        return deserializeFromReader(Files.newBufferedReader(path, Constants.CHARSET));
     }
     
     @Override

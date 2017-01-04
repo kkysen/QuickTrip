@@ -48,7 +48,7 @@ import lombok.RequiredArgsConstructor;
  * @param <R> type of POJO representing the API response response, presumably a
  *            JSON one
  */
-public abstract class ApiRequest<R> {
+public abstract class CachedApiRequest<R> implements Request<R> {
     
     private static final String CACHE_DIR = "src/main/resources/apiCache/";
     
@@ -187,28 +187,23 @@ public abstract class ApiRequest<R> {
          * {@link #hashToBase64(String)}
          * 
          * the path is the relative directory path and the filename
-         * {@link ApiRequest#getRelativeCachePath()}
+         * {@link CachedApiRequest#getRelativeCachePath()}
          * 
          * the filename is the id with the file extension
-         * {@link ApiRequest#getFileExtension()}
+         * {@link CachedApiRequest#getFileExtension()}
          * 
-         * the Type is from {@link ApiRequest#getPojoClass()} or
-         * {@link ApiRequest#getPojoType()}
+         * the Type is from {@link CachedApiRequest#getResponseClass()} or
+         * {@link CachedApiRequest#getResponseType()}
          * 
          * @param request a request
          */
-        public void put(final ApiRequest<?> request) {
+        public void put(final CachedApiRequest<?> request) {
             final String url = request.url;
             final String id = hashToBase64(url);
             final String fileName = id + "." + request.getFileExtension();
             final Path path = //
                     Paths.get(CACHE_DIR, request.getRelativeCachePath().toString(), fileName);
-            final TypeToken<?> typeToken;
-            if (request.pojoClass == null) {
-                typeToken = TypeToken.of(request.pojoType);
-            } else {
-                typeToken = TypeToken.of(request.pojoClass);
-            }
+            final TypeToken<?> typeToken = TypeToken.of(request.getResponseType());
             put(Instant.now(), url, id, path, typeToken);
         }
         
@@ -451,17 +446,17 @@ public abstract class ApiRequest<R> {
     }
     
     /**
-     * a QueryEncoder that encodes the name=value pairs in a query string
+     * a QueryParams that encodes the name=value pairs in a query string
      * 
      * extends {@link LinkedHashMap} to maintain insertion order
      * 
      * @author Khyber Sen
      */
-    public static final class QueryEncoder extends LinkedHashMap<String, String> {
+    public static final class QueryParams extends LinkedHashMap<String, String> {
         
         private static final long serialVersionUID = 3055592436293901045L;
         
-        public QueryEncoder() {}
+        public QueryParams() {}
         
         /**
          * calls {@link LinkedHashMap#put(Object, Object)}
@@ -523,14 +518,14 @@ public abstract class ApiRequest<R> {
         Runtime.getRuntime().addShutdownHook(SAVE_ON_EXIT);
     }
     
-    private final QueryEncoder query = new QueryEncoder();
+    private final QueryParams query = new QueryParams();
     
     private @Getter(AccessLevel.PROTECTED) String url;
     
     /**
      * @return the Class of type R of this request's response
      */
-    protected abstract Class<? extends R> getPojoClass();
+    protected abstract Class<? extends R> getResponseClass();
     
     /**
      * If getPojoClass does not work because of generics, return null.
@@ -538,12 +533,9 @@ public abstract class ApiRequest<R> {
      * 
      * @return the Type (including generic type) of this request's response
      */
-    protected Type getPojoType() {
-        return null;
+    protected Type getResponseType() {
+        return TypeToken.of(getResponseClass()).getType();
     }
-    
-    protected final Class<? extends R> pojoClass;
-    protected final Type pojoType;
     
     private R response;
     
@@ -570,9 +562,9 @@ public abstract class ApiRequest<R> {
     /**
      * uses reflection to find all the {@link QueryField}s and adds them to the
      * query
-     * {@link QueryEncoder}
+     * {@link QueryParams}
      */
-    void reflectQuery() {
+    protected void reflectQuery() {
         final List<Field> queryFields = Reflect.getInstanceVars(this);
         // filter out fields that are not QueryFields or have encode = false
         final Map<Field, QueryField> field2annotation = new HashMap<>();
@@ -615,7 +607,7 @@ public abstract class ApiRequest<R> {
      * @param query the existing query with the reflected query fields and API
      *            key added
      */
-    protected void modifyQuery(final QueryEncoder query) {}
+    protected void modifyQuery(final QueryParams query) {}
     
     /**
      * @return the relative Path of the directory in which this request should
@@ -636,10 +628,7 @@ public abstract class ApiRequest<R> {
         }
     }
     
-    protected ApiRequest() {
-        pojoClass = getPojoClass();
-        pojoType = getPojoType();
-    }
+    protected CachedApiRequest() {}
     
     /**
      * @return a complete URL that overrides all the other URL stuff
@@ -768,6 +757,7 @@ public abstract class ApiRequest<R> {
      *             {@link #deserializeFromFile(Path)},
      *             or {@link #deserializeFromUrl(String)}
      */
+    @Override
     public R getResponse() throws IOException {
         setQueryAndUrl();
         final Thread setNonCachedResponse = new Thread(this::setNonCachedResponse);

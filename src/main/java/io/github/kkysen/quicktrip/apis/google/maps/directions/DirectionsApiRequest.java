@@ -40,12 +40,12 @@ public class DirectionsApiRequest extends GoogleMapsApiRequest<Directions> {
     }
     
     @Override
-    protected void modifyQuery(final QueryEncoder query) {
+    protected void modifyQuery(final QueryParams query) {
         // TODO
     }
     
     @Override
-    protected Class<? extends Directions> getPojoClass() {
+    protected Class<? extends Directions> getResponseClass() {
         return Directions.class;
     }
     

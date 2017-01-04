@@ -1,46 +1,24 @@
 package io.github.kkysen.quicktrip.apis.hotels.secret;
 
+import io.github.kkysen.quicktrip.json.MissingInformationException;
+import io.github.kkysen.quicktrip.json.TypeReaderAdapter;
+
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 import java.util.StringJoiner;
 
-import com.google.gson.TypeAdapter;
 import com.google.gson.stream.JsonReader;
-import com.google.gson.stream.JsonWriter;
 
 /**
  * 
  * 
  * @author Khyber Sen
  */
-public class JsonHotelsHotelsAdapter extends TypeAdapter<List<JsonHotelsHotel>> {
+public class JsonHotelsHotelsAdapter extends TypeReaderAdapter<List<JsonHotelsHotel>> {
     
-    private JsonReader in;
-    
-    private void readUntilName(final String name) throws IOException {
-        while (in.hasNext()) {
-            if (in.nextName().equals(name)) {
-                break;
-            } else {
-                in.skipValue();
-            }
-        }
-    }
-    
-    private void readUntilEnd() throws IOException {
-        readUntilName(null);
-    }
-    
-    private String nextStringNamed(final String name) throws IOException {
-        readUntilName(name);
-        return in.nextString();
-    }
-    
-    private String nextString() throws IOException {
-        in.nextName();
-        return in.nextString();
-    }
+    private List<JsonHotelsHotel> hotels;
     
     private static String joinNonEmpty(final String delimiter, final String... strings) {
         final StringJoiner sj = new StringJoiner(delimiter);
@@ -52,7 +30,7 @@ public class JsonHotelsHotelsAdapter extends TypeAdapter<List<JsonHotelsHotel>> 
         return sj.toString();
     }
     
-    public JsonHotelsHotel readHotel() throws IOException, MissingHotelInformationException {
+    /*public JsonHotelsHotel readHotel1() throws IOException, MissingHotelInformationException {
         final String name;
         final String phoneNumber;
         final String address;
@@ -97,8 +75,9 @@ public class JsonHotelsHotelsAdapter extends TypeAdapter<List<JsonHotelsHotel>> 
         readUntilName("landmarks");
         in.beginArray();
         in.beginObject();
-        String distanceStr = nextStringNamed("distance");
-        distance = Double.parseDouble(distanceStr.substring(0, distanceStr.indexOf(' '));
+        final String distanceStr = nextStringNamed("distance");
+        distance = Double.parseDouble(distanceStr.substring(0, distanceStr.indexOf(' ')));
+        readUntilEnd();
         in.endObject();
         in.skipValue();
         in.endArray();
@@ -114,34 +93,122 @@ public class JsonHotelsHotelsAdapter extends TypeAdapter<List<JsonHotelsHotel>> 
             in.endObject();
             readUntilEnd();
             in.endObject();
-        } catch (IOException e) { // no ratePlan
+        } catch (final IOException e) { // no ratePlan
             throw new MissingHotelInformationException("price", e);
         }
         
-        in.endObject();
+        try {
+            readUntilEnd();
+            in.endObject();
+        } catch (final IllegalStateException e) {
+            System.out.println(new JsonHotelsHotel(name, phoneNumber, address, imgUrl, rating,
+                    distance, price));
+            System.out.println(in);
+            throw new IOException(e);
+        }
         
+        return new JsonHotelsHotel(name, phoneNumber, address, imgUrl, rating, distance, price);
+    }*/
+    
+    private String readName(final JsonReader in) throws IOException {
+        return in.nextString();
+    }
+    
+    private String readPhoneNumber(final JsonReader in) throws IOException {
+        in.beginObject();
+        final String phoneNumber = nextStringNamed("number");
+        readUntilEnd();
+        in.endObject();
+        return phoneNumber;
+    }
+    
+    private String readAddress(final JsonReader in) throws IOException {
+        in.beginObject();
+        final String streetAddress = nextString();
+        final String extendedAddress = nextString();
+        final String locality = nextString();
+        final String zipCode = nextString();
+        final String region = nextString();
+        final String country = nextString();
+        final String address = joinNonEmpty(", ", streetAddress, extendedAddress, locality,
+                region, zipCode, country);
+        readUntilEnd();
+        in.endObject();
+        return address;
+    }
+    
+    private String readImgUrl(final JsonReader in) throws IOException {
+        return in.nextString();
+    }
+    
+    private double readRating(final JsonReader in) throws IOException {
+        return in.nextDouble();
+    }
+    
+    private double readDistance(final JsonReader in) throws IOException {
+        in.beginArray();
+        in.beginObject();
+        final String distanceStr = nextStringNamed("distance");
+        final double distance = Double.parseDouble(distanceStr.substring(0, distanceStr.indexOf(' ')));
+        readUntilEnd();
+        in.endObject();
+        in.skipValue();
+        in.endArray();
+        return distance;
+    }
+    
+    private int readPrice(final JsonReader in) throws IOException {
+        in.beginObject();
+        readUntilName("price");
+        in.beginObject();
+        final int price = Integer.parseInt(nextStringNamed("current").substring(1));
+        readUntilEnd();
+        in.endObject();
+        readUntilEnd();
+        in.endObject();
+        return price;
+    }
+    
+    @Override
+    protected void addPropertyReaders() {
+        addPropertyReader("name", this::readName);
+        addPropertyReader("telephone", this::readPhoneNumber);
+        addPropertyReader("address", this::readAddress);
+        addPropertyReader("thumbnailUrl", this::readImgUrl);
+        addPropertyReader("starRating", this::readRating);
+        addPropertyReader("landmarks", this::readDistance);
+        addPropertyReader("ratePlan", this::readPrice);
+    }
+    
+    private JsonHotelsHotel readHotel() throws IOException, MissingInformationException {
+        final Map<String, Object> readObj = readObj();
+        final String name = (String) readObj.get("name");
+        final String phoneNumber = (String) readObj.get("telephone");
+        final String address = (String) readObj.get("address");
+        final String imgUrl = (String) readObj.get("thumbnailUrl");
+        final double rating = (double) readObj.get("starRating");
+        final double distance = (double) readObj.get("landmarks");
+        final int price = (int) readObj.get("ratePlan");
         return new JsonHotelsHotel(name, phoneNumber, address, imgUrl, rating, distance, price);
     }
     
     @Override
-    public List<JsonHotelsHotel> read(final JsonReader in) throws IOException {
-        final List<JsonHotelsHotel> hotels = new ArrayList<>();
-        this.in = in;
+    public void read() throws IOException {
+        hotels = new ArrayList<>();
         in.beginArray();
         while (in.hasNext()) {
             try {
                 hotels.add(readHotel());
-            } catch (MissingHotelInformationException e) {
+            } catch (final MissingInformationException e) {
                 // skip hotel if missing info (price)
             }
         }
         in.endArray();
-        return hotels;
     }
     
     @Override
-    public void write(final JsonWriter out, final List<JsonHotelsHotel> value) throws IOException {
-        // not used
+    public List<JsonHotelsHotel> get() {
+        return hotels;
     }
     
 }

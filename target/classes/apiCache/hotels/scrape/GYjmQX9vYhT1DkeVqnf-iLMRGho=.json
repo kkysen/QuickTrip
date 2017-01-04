@@ -1,0 +1,82 @@
+[
+  {
+    "price": 78,
+    "name": "Extended Stay America Chicago - Hillside",
+    "address": "4575 Frontage Rd, Hillside, IL, 60162 United States",
+    "distance": 1.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/425300/425216/fccd169a_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Best Western Plus Chicago Hillside",
+    "address": "4400 Frontage Road, Hillside, IL, 60162 United States",
+    "distance": 1.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16900/16890/8d320fc8_l.jpg"
+  },
+  {
+    "price": 57,
+    "name": "Motel 6 Melrose Park",
+    "address": "1900 North Mannheim Road, Melrose Park, IL, 60160 United States",
+    "distance": 1.9,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24300/24236/f207b1a1_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Chicago West-O\u0027hare Arpt",
+    "address": "200 S Mannheim Road, Hillside, IL, 60162 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2370000/2363600/2363526/2363526_148_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Super 8 Chicago Northlake O\u0027Hare South",
+    "address": "2080 N Mannheim Rd, Northlake, IL, 60164 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42100/42016/42016_127_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Regal Inn - Chicago O\u0027Hare Airport",
+    "address": "2448 Mannheim Rd, Franklin Park, IL, 60131 United States",
+    "distance": 2.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1310000/1305500/1305402/1305402_55_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Clarion Inn Elmhurst - Oakbrook",
+    "address": "933 S Riverside Drive, Elmhurst, IL, 60126 United States",
+    "distance": 2.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1100/1089/1089_89_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Hilton Garden Inn Chicago / Oak Brook",
+    "address": "1000 Drury Ln, Oakbrook Terrace, IL, 60181 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/220000/211900/211878/211878_12_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Springhill Suites by Marriott Chicago Elmhurst/Oakbrook Area",
+    "address": "410 West Lake Street, Elmhurst, IL, 60126 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/480000/470900/470900/19f7d3cb_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Hampton Inn Chicago/Westchester (Oak Brook)",
+    "address": "2222 Enterprise Drive, Westchester, IL, 60154 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16800/16741/16741_27_l.jpg"
+  }
+]

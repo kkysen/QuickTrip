@@ -1,0 +1,82 @@
+[
+  {
+    "price": 258,
+    "name": "Fairmont Pittsburgh",
+    "address": "510 Market Street, Pittsburgh, PA, 15222 United States",
+    "distance": 0.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3060000/3056400/3056317/3056317_79_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Hilton Garden Inn Pittsburgh Downtown",
+    "address": "250 Forbes Avenue, Pittsburgh, PA, 15222 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9380000/9378100/9378026/5904a2f3_l.jpg"
+  },
+  {
+    "price": 195,
+    "name": "Renaissance Pittsburgh Hotel",
+    "address": "107 6th St, Pittsburgh, PA, 15222 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/590000/581100/581071/581071_32_l.jpg"
+  },
+  {
+    "price": 152,
+    "name": "Embassy Suites By Hilton Pittsburgh Downtown",
+    "address": "535 Smithfield Street, Pittsburgh, PA, 15222 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12610000/12609100/12609094/12609094_1_l.jpg"
+  },
+  {
+    "price": 186,
+    "name": "Omni William Penn Hotel",
+    "address": "530 William Penn Place, Pittsburgh, PA, 15219 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3000/2998/2998_66_l.jpg"
+  },
+  {
+    "price": 154,
+    "name": "Wyndham Grand Pittsburgh Downtown",
+    "address": "600 Commonwealth Pl, Pittsburgh, PA, 15222 United States",
+    "distance": 0.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25600/25509/ab5269b4_l.jpg"
+  },
+  {
+    "price": 137,
+    "name": "Kimpton Hotel Monaco Pittsburgh",
+    "address": "620 William Penn Place, Pittsburgh, PA, 15219 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8650000/8645100/8645076/8645076_32_l.jpg"
+  },
+  {
+    "price": 259,
+    "name": "Courtyard by Marriott Pittsburgh Downtown",
+    "address": "945 Penn Ave, Pittsburgh, PA, 15222 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1040000/1039700/1039665/1039665_26_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "DoubleTree by Hilton Hotel \u0026 Suites Pittsburgh Downtown",
+    "address": "One Bigelow Square, Pittsburgh, PA, 15219 United States",
+    "distance": 0.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6200/6149/6149_57_l.jpg"
+  },
+  {
+    "price": 176,
+    "name": "Drury Plaza Hotel Pittsburgh Downtown",
+    "address": "745 Grant Street, Pittsburgh, PA, 15219 United States",
+    "distance": 0.4,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15180000/15178500/15178439/18ab4cfb_l.jpg"
+  }
+]

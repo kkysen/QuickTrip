@@ -1,0 +1,26 @@
+[
+  {
+    "price": 175,
+    "name": "La Quinta Inn \u0026 Suites Boston-Somerville",
+    "address": "23 Cummings St, Somerville, MA, 02145 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/544200/544112/443e736f_l.jpg"
+  },
+  {
+    "price": 306,
+    "name": "Assembly Row Apartments by Next Star",
+    "address": "21 Michigan Ave, Somerville, MA, 02145 United States",
+    "distance": 0.9,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16900000/16892600/16892507/78560eff_l.jpg"
+  },
+  {
+    "price": 156,
+    "name": "Holiday Inn Boston Bunker Hill Area",
+    "address": "30 Washington Street, Somerville, MA, 02143 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7400/7370/7370_305_l.jpg"
+  }
+]

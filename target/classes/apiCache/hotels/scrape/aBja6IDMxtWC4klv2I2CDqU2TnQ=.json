@@ -1,0 +1,66 @@
+[
+  {
+    "price": 63,
+    "name": "Americas Best Value Inn Neptune",
+    "address": "111 New York Rd, Neptune City, NJ, 07753 United States",
+    "distance": 0.6,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/890000/883600/883556/883556_73_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Crystal Inn Neptune",
+    "address": "706 Highway 35, Neptune City, NJ, 07753 United States",
+    "distance": 1.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1870000/1862500/1862448/1862448_9_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Red Roof Inn Neptune",
+    "address": "3310 Highway 33, Neptune City, NJ, 07753 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/538500/538453/538453_60_l.jpg"
+  },
+  {
+    "price": 151,
+    "name": "Holiday Inn Express Hotel of Neptune",
+    "address": "3510 Highway 66, Neptune City, NJ, 07753 United States",
+    "distance": 3.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3730000/3723900/3723891/3723891_200_l.jpg"
+  },
+  {
+    "price": 229,
+    "name": "Residence Inn by Marriott Neptune at Gateway Center",
+    "address": "230 Jumping Brook Rd, Neptune City, NJ, 07753 United States",
+    "distance": 3.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1630000/1620700/1620675/1620675_62_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Hampton Inn Neptune Wall",
+    "address": "4 Mcnamara Way, Neptune City, NJ, 07753 United States",
+    "distance": 3.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5300000/5290400/5290328/5290328_1_l.jpg"
+  },
+  {
+    "price": 86,
+    "name": "Executive Inn and Suites",
+    "address": "4035 NJ-33, Neptune City, NJ, 07753 United States",
+    "distance": 4.2,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4260000/4253900/4253896/c0cd5a93_l.jpg"
+  },
+  {
+    "price": 185,
+    "name": "Courtyard by Marriott Wall at Monmouth Shores Corporate Park",
+    "address": "1302 Campus Pkwy, Neptune City, NJ, 07753 United States",
+    "distance": 5.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1660000/1659000/1658946/1658946_73_l.jpg"
+  }
+]

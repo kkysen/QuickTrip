@@ -1,0 +1,66 @@
+[
+  {
+    "price": 67,
+    "name": "Monticello Days Inn",
+    "address": "200 E Oakwood dr, Monticello, MN, 55362 United States",
+    "distance": 0.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25900/25871/25871_125_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "Best Western Chelsea Inn \u0026 Suites",
+    "address": "89 Chelsea Road, Monticello, MN, 55362 United States",
+    "distance": 0.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/480000/474300/474271/474271_76_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Super 8 Monticello",
+    "address": "1114 Cedar Street, Monticello, MN, 55362 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3700/3661/4cf319a2_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Crossings by GrandStay Inn \u0026 Suites",
+    "address": "14435 Bank St, Becker, MN, 55308 United States",
+    "distance": 6.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1110000/1106700/1106641/daed1f4a_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Country Inn \u0026 Suites By Carlson, Albertville, MN",
+    "address": "6554 Lamplight Dr, Albertville, MN, 55301 United States",
+    "distance": 7.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1150000/1142300/1142270/1773d6a7_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Super 8 Buffalo MN",
+    "address": "303 10th Ave S, Buffalo, MN, 55313-2302 United States",
+    "distance": 10.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/905900/905843/9c26f0ab_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "Country Inn \u0026 Suites By Carlson Elk River",
+    "address": "18894 Dodge St Nw, Elk River, MN, 55330 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/300000/297200/297139/297139_38_l.jpg"
+  },
+  {
+    "price": 121,
+    "name": "Holiday Inn Minneapolis NW-Elk River",
+    "address": "9200 Quaday Ave Ne, Otsego, MN, 55330 United States",
+    "distance": 12.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1330000/1327400/1327334/1327334_123_l.jpg"
+  }
+]

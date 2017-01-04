@@ -1,0 +1,42 @@
+[
+  {
+    "price": 66,
+    "name": "Super 8 Bourbonnais/kankakee Area",
+    "address": "1390 Lock Dr, I-57 and Hwy 50 Exit 315, Bourbonnais, IL, 60914 United States",
+    "distance": 1.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/861400/861364/861364_86_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Comfort Inn",
+    "address": "1500 Illinois Highway 50, Bourbonnais, IL, 60914 United States",
+    "distance": 1.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/74100/74036/74036_76_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Fairfield Inn by Marriott Kankakee Bourbonnais",
+    "address": "1550 N State Route 50, Bourbonnais, IL, 60914 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14200/14128/14128_26_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Magnuson Hotel Bourbonnais",
+    "address": "60 Ken Hayes Dr, Bourbonnais, IL, 60914 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42100/42043/42043_85_l.jpg"
+  },
+  {
+    "price": 126,
+    "name": "Holiday Inn Express \u0026 Suites Bourbonnais",
+    "address": "62 Ken Hayes Dr, Bourbonnais, IL, 60914 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/110000/102600/102507/102507_136_l.jpg"
+  }
+]

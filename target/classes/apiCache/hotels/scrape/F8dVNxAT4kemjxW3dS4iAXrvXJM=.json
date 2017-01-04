@@ -1,0 +1,74 @@
+[
+  {
+    "price": 60,
+    "name": "Americas Best Value Inn - Edmond/Oklahoma City North",
+    "address": "1809 E. 2nd St., Edmond, OK, 73034 United States",
+    "distance": 4.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1160000/1159000/1158983/1158983_49_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Stratford House Inns - Edmond",
+    "address": "3020 S. Broadway, Edmond, OK, 73013 United States",
+    "distance": 4.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10540000/10539300/10539202/10539202_66_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Best Western Edmond Inn \u0026 Suites",
+    "address": "2700 E 2nd St, Edmond, OK, 73034 United States",
+    "distance": 4.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/455400/455387/455387_102_l.jpg"
+  },
+  {
+    "price": 61,
+    "name": "Sleep Inn \u0026 Suites",
+    "address": "3608 S Broadway Extention, Edmond, OK, 73013 United States",
+    "distance": 4.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/126900/126875/126875_77_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Edmond",
+    "address": "3840 E 2nd St, Edmond, OK, 73034 United States",
+    "distance": 5.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/914500/914421/914421_237_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "La Quinta Inn \u0026 Suites Edmond",
+    "address": "200 Meline Dr, Edmond, OK, 73034 United States",
+    "distance": 5.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2900000/2899900/2899827/ed548cde_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Edmond",
+    "address": "301 Meline Dr, Edmond, OK, 73034 United States",
+    "distance": 5.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1570000/1562800/1562745/1562745_35_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Hampton Inn Oklahoma City/Edmond",
+    "address": "300 Meline Dr, Edmond, OK, 73034 United States",
+    "distance": 5.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/116800/116711/116711_46_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Home2Suites by Hilton Edmond",
+    "address": "321 Meline Drive, Edmond, OK, 73034 United States",
+    "distance": 5.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11800000/11794100/11794020/11794020_4_l.jpg"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "price": 70,
+    "name": "Super 8 Eureka/Six Flags Nearby",
+    "address": "1733 W 5th St, Eureka, MO, 63025 United States",
+    "distance": 2.5,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856300/856255/fba1bed0_l.jpg"
+  },
+  {
+    "price": 162,
+    "name": "Holiday Inn St. Louis West Six Flags",
+    "address": "4901 Six Flags Rd, Eureka, MO, 63025 United States",
+    "distance": 3.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5400/5369/5369_130_l.jpg"
+  }
+]

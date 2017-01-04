@@ -1,0 +1,82 @@
+[
+  {
+    "price": 59,
+    "name": "Super 8 Pennsville/Wilmington",
+    "address": "413 N Broadway, Pennsville, NJ, 08070 United States",
+    "distance": 8.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3540000/3536800/3536721/bb729000_l.jpg"
+  },
+  {
+    "price": 165,
+    "name": "Hampton Inn Pennsville",
+    "address": "429 N Broadway, Pennsville, NJ, 08070 United States",
+    "distance": 8.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/282000/281912/281912_57_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Red Carpet Inn \u0026 Suites Carneys Point",
+    "address": "632 S Pennsville Auburn Rd, Carneys Point, NJ, 08069 United States",
+    "distance": 8.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/790000/787200/787169/787169_101_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Comfort Inn And Suites",
+    "address": "634 Soders Rd, Carneys Point, NJ, 08069 United States",
+    "distance": 8.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/918600/918501/918501_57_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Carneys Point",
+    "address": "506 S. Pennsville Auburn Road, Carneys Point, NJ, 08069 United States",
+    "distance": 8.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/480000/477600/477573/477573_232_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "Super 8 New Castle DE",
+    "address": "215 S Dupont Hwy, New Castle, DE, 19720 United States",
+    "distance": 11.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/50000/49905/d58b6dd2_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Quality Inn And Suites Skyways",
+    "address": "147 N Dupont Hwy, New Castle, DE, 19720 United States",
+    "distance": 11.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17400/17305/17305_45_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Best Western Plus Newark/Christiana Inn",
+    "address": "875 Pulaski Highway, Bear, DE, 19701 United States",
+    "distance": 11.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/900500/900419/900419_46_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Clarion Hotel The Belle",
+    "address": "1612 North DuPont Highway, New Castle, DE, 19720 United States",
+    "distance": 12.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25100/25051/25051_43_l.jpg"
+  },
+  {
+    "price": 151,
+    "name": "Fairfield Inn \u0026 Suites Wilmington New Castle",
+    "address": "2117 North DuPont Highway, New Castle, DE, 19720 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8510000/8507200/8507156/8507156_8_l.jpg"
+  }
+]

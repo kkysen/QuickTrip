@@ -1,0 +1,82 @@
+[
+  {
+    "price": 62,
+    "name": "Melbourne Apartments",
+    "address": "Black Rock, Bridgetown, St. Michael, Barbados",
+    "distance": 1.9,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2920000/2920000/2919945/2919945_5_l.jpg"
+  },
+  {
+    "price": 292,
+    "name": "Radisson Aquatica Resort Barbados",
+    "address": "Aquatic Gap, Carlisle Bay, Bridgetown, St. Michael, Barbados",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4700/4686/4686_91_l.jpg"
+  },
+  {
+    "price": 520,
+    "name": "Hilton Barbados Resort",
+    "address": "Needhams Point, Bridgetown, St. Michael, BB11000 Barbados",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/901900/901879/901879_305_l.jpg"
+  },
+  {
+    "price": 192,
+    "name": "Savannah Beach Hotel",
+    "address": "Hastings, Hastings, Christ Church, Barbados",
+    "distance": 2.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/530000/527700/527642/527642_3_l.jpg"
+  },
+  {
+    "price": 503,
+    "name": "Sugar Bay Barbados - All Inclusive",
+    "address": "Garrison Historic Area, Hastings, Barbados",
+    "distance": 2.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10030000/10023300/10023253/f6ec080d_l.jpg"
+  },
+  {
+    "price": 153,
+    "name": "Blue Horizon Hotel",
+    "address": "Rockley, Rockley, Christ Church, BB15137 Barbados",
+    "distance": 2.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/530000/527700/527640/527640_29_l.jpg"
+  },
+  {
+    "price": 144,
+    "name": "Worthing Court Apartment Hotel",
+    "address": "Worthing Court, Main Road, Worthing, Christ Church, BB0000 Barbados",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/530000/527700/527645/527645_71_l.jpg"
+  },
+  {
+    "price": 121,
+    "name": "Melrose Beach Apartments",
+    "address": "Worthing, Worthing, Christ Church, Barbados",
+    "distance": 3.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10260000/10253400/10253354/10253354_5_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Winchelsea Guesthouse",
+    "address": "4th Avenue 72 West Terrace Gardens, Husbands, St. James, Barbados",
+    "distance": 3.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10490000/10489500/10489450/10489450_7_l.jpg"
+  },
+  {
+    "price": 528,
+    "name": "Waves Hotel \u0026 Spa by Elegant Hotels - All Inclusive",
+    "address": "Prospect Bay Beach, Prospect, St. James, 00000 Barbados",
+    "distance": 3.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1800000/1793200/1793115/3431a454_l.jpg"
+  }
+]

@@ -1,6 +1,6 @@
 package io.github.kkysen.quicktrip.app;
 
-import io.github.kkysen.quicktrip.apis.Json;
+import io.github.kkysen.quicktrip.json.Json;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

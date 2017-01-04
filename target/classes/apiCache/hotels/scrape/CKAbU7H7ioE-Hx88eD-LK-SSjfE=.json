@@ -1,0 +1,82 @@
+[
+  {
+    "price": 65,
+    "name": "Econo Lodge",
+    "address": "2200 North Arkansas Ave, Russellville, AR, 72802 United States",
+    "distance": 1.6,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7600000/7596500/7596455/7596455_52_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Hampton Inn Russellville",
+    "address": "2304 NW Arkansas Ave, Russellville, AR, 72802 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41700/41670/41670_8_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Best Western Inn",
+    "address": "2326 N Arkansas Avenue, Russellville, AR, 72802 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9500/9404/d966b8c1_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Clarion Inn \u0026 Suites Russellville",
+    "address": "2407 N Arkansas, Russellville, AR, 72802 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15800/15771/83a62096_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Super 8 - Russellville",
+    "address": "2404 N Arkansas Ave, I-40 Exit 81 turn East, Russellville, AR, 72802 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/51100/51051/7de4d93d_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Americas Best Value Inn \u0026 Suites - Russellville",
+    "address": "204 Lake Front Dr, Russellville, AR, 72802 United States",
+    "distance": 1.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/37000/36991/36991_111_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Comfort Inn \u0026 Suites of Russellville",
+    "address": "2714 E Parkway Drive, Russellville, AR, 72802 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1860000/1852700/1852682/1852682_65_l.jpg"
+  },
+  {
+    "price": 42,
+    "name": "Motel 6 Russellville AR",
+    "address": "215 W Birch St, Russellville, AR, 72802 United States",
+    "distance": 2.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/996400/996301/9b9879fa_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Quality Inn Russellville",
+    "address": "3091 E Parkway Dr, Russellville, AR, 72802 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/300/212/212_69_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Super 8 Clarksville",
+    "address": "1238 S Rogers St, Clarksville, AR, 72830 United States",
+    "distance": 22.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/122900/122863/122863_45_l.jpg"
+  }
+]

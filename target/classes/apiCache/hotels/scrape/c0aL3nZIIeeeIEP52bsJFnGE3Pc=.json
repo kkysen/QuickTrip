@@ -1,0 +1,82 @@
+[
+  {
+    "price": 152,
+    "name": "Sleep Inn \u0026 Suites Austin Northeast",
+    "address": "8410 East US Highway 290, Austin, TX, 78724 United States",
+    "distance": 0.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6450000/6442500/6442432/6442432_63_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Super 8 Austin Airport North",
+    "address": "5606 E 51st Street, Austin, TX, 78723 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1860000/1857800/1857780/490e236c_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "Extended Stay America Austin - Metro",
+    "address": "6300 US Hwy 290 E, Austin, TX, 78723 United States",
+    "distance": 2.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84800/84777/84777_46_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Rodeway Inn \u0026 Suites Downtown North",
+    "address": "6201 US 290 E., Austin, TX, 78723 United States",
+    "distance": 2.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5800/5702/5702_42_l.jpg"
+  },
+  {
+    "price": 145,
+    "name": "Orangewood Suites University, Austin Texas",
+    "address": "935 La Posada Dr, Austin, TX, 78752 United States",
+    "distance": 2.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24000/23968/23968_53_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "DoubleTree by Hilton Austin",
+    "address": "6505 Interstate Highway 35 North, Austin, TX, 78752 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27100/27028/27028_88_l.jpg"
+  },
+  {
+    "price": 160,
+    "name": "Crowne Plaza Austin",
+    "address": "6121 North Ih 35, Austin, TX, 78752 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22900/22852/22852_279_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Econo Lodge",
+    "address": "6911 N. Interstate Highway 35, Austin, TX, 78752 United States",
+    "distance": 2.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/980000/970600/970513/970513_140_l.jpg"
+  },
+  {
+    "price": 143,
+    "name": "Hampton Inn Austin North @ I - 35 \u0026 Hwy 183",
+    "address": "7619 N I 35, Austin, TX, 78752 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1800/1765/1c3a6206_l.jpg"
+  },
+  {
+    "price": 167,
+    "name": "Embassy Suites Austin Central",
+    "address": "5901 N I 35, Austin, TX, 78723 United States",
+    "distance": 2.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15800/15792/15792_104_l.jpg"
+  }
+]

@@ -1,6 +1,6 @@
 package io.github.kkysen.quicktrip.apis.google.maps.directions.response;
 
-import io.github.kkysen.quicktrip.apis.Json;
+import io.github.kkysen.quicktrip.json.Json;
 import io.github.kkysen.quicktrip.reflect.Reflect;
 
 import java.util.List;

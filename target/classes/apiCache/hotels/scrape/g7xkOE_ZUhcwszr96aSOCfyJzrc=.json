@@ -1,0 +1,82 @@
+[
+  {
+    "price": 47,
+    "name": "Motel 6 Hays",
+    "address": "3404 Vine St, Hays, KS, 67601 United States",
+    "distance": 1.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/996300/996250/00ccc24c_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Super 8 Hays KS",
+    "address": "3730 Vine St, Hays, KS, 67601 United States",
+    "distance": 1.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50800/50716/50716_33_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Hampton Inn HaysNorth of I70",
+    "address": "4002 General Hays Rd, Hays, KS, 67601 United States",
+    "distance": 2.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1640000/1635900/1635848/1635848_8_l.jpg"
+  },
+  {
+    "price": 154,
+    "name": "Best Western Butterfield Inn",
+    "address": "1010 E 41st Street, Hays, KS, 67601 United States",
+    "distance": 2.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2200000/2191700/2191692/2191692_129_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "The Lodge at Russell",
+    "address": "901 S. Fossil, Russell, KS, 67665 United States",
+    "distance": 26.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11850000/11845000/11844930/11844930_1_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Fossil Creek Hotel And Suites",
+    "address": "1430 South Fossil Street, Russell, KS, 67665 United States",
+    "distance": 26.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7320000/7316600/7316553/7316553_25_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Days Inn Russell KS",
+    "address": "1225 S Fossil St, Russell, KS, 67665 United States",
+    "distance": 26.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/110000/101000/100927/fd272e4e_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Super 8 Wakeeney KS",
+    "address": "709 S 13th St, Wa Keeney, KS, 67672 United States",
+    "distance": 31.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/450000/448700/448688/1c4a82d4_l.jpg"
+  },
+  {
+    "price": 48,
+    "name": "Econo Lodge",
+    "address": "705 S 2nd St, Wa Keeney, KS, 67672 United States",
+    "distance": 32.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/990000/988700/988642/988642_7_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Best Western Plus Wakeeney Inn \u0026 Suites",
+    "address": "525 S 1st Street, Wa Keeney, KS, 67672 United States",
+    "distance": 32.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1450000/1445800/1445715/1445715_107_l.jpg"
+  }
+]

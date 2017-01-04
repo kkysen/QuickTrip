@@ -1,0 +1,82 @@
+[
+  {
+    "price": 81,
+    "name": "Super 8 Harrisonburg",
+    "address": "3330 S. Main, I-81 Exit 243, Harrisonburg, VA, 22801 United States",
+    "distance": 6.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/49900/49899/49899_24_l.jpg"
+  },
+  {
+    "price": 153,
+    "name": "Hampton Inn Harrisonburg South",
+    "address": "43 Covenant Drive, Harrisonburg, VA, 22801 United States",
+    "distance": 6.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2280000/2270700/2270685/e428e139_l.jpg"
+  },
+  {
+    "price": 131,
+    "name": "Holiday Inn Express Harrisonburg",
+    "address": "3325 S Main St, Harrisonburg, VA, 22801 United States",
+    "distance": 6.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/450000/446100/446046/cea90c0e_l.jpg"
+  },
+  {
+    "price": 131,
+    "name": "Country Inn \u0026 Suites By Carlson, Harrisonburg, VA",
+    "address": "27 Covenant Drive, Harrisonburg, VA, 22801 United States",
+    "distance": 6.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1550000/1544100/1544025/1544025_27_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Ramada Harrisonburg",
+    "address": "91 Pleasant Valley Rd, I-81 Exit 243, Harrisonburg, VA, 22801 United States",
+    "distance": 6.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6200/6187/d56c0fd4_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Harrisonburg",
+    "address": "85 Pleasant Valley Rd, Harrisonburg, VA, 22801 United States",
+    "distance": 6.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4320000/4313000/4312931/2b237b2e_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Motel 6 Harrisonburg - South VA",
+    "address": "3210 South Main Street, Harrisonburg, VA, 22801 United States",
+    "distance": 6.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/903400/903356/903356_84_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "Days Inn Harrisonburg",
+    "address": "1131 Forest Hill Rd, Harrisonburg, VA, 22801 United States",
+    "distance": 9.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21900/21877/931b33ea_l.jpg"
+  },
+  {
+    "price": 140,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Harrisonburg",
+    "address": "1946 Medical Ave, Harrisonburg, VA, 22801 United States",
+    "distance": 10.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3830000/3824000/3823919/95b18208_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Residence Inn by Marriott Harrisonburg",
+    "address": "1945 Deyerle Ave, Harrisonburg, VA, 22801 United States",
+    "distance": 10.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2740000/2733300/2733280/921a5821_l.jpg"
+  }
+]

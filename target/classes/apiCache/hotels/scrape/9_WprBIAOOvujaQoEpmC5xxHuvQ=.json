@@ -1,0 +1,82 @@
+[
+  {
+    "price": 45,
+    "name": "Palos Motel",
+    "address": "10600 S. Harlem Ave, Worth, IL, 60482 United States",
+    "distance": 1.0,
+    "rating": 3.3,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12010000/12001300/12001300/12001300_5_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Sharn\u0027s Motel",
+    "address": "7240 Southwest Hwy, Worth, IL, 60482 United States",
+    "distance": 1.2,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16820000/16819700/16819644/7f3b4834_l.jpg"
+  },
+  {
+    "price": 41,
+    "name": "Motel 6 Bridgeview",
+    "address": "9625 S 76th Ave, Bridgeview, IL, 60455 United States",
+    "distance": 1.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7700/7646/7646_65_l.jpg"
+  },
+  {
+    "price": 219,
+    "name": "Hilton Chicago/Oak Lawn",
+    "address": "9333 S Cicero Ave, Oak Lawn, IL, 60453 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17700/17618/17618_84_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Gateway Inn",
+    "address": "4657 W 95th Street, Oak Lawn, IL, 60453 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5540000/5538000/5537993/5537993_1_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "DoubleTree by Hilton Chicago - Alsip",
+    "address": "5000 W 127th St, Alsip, IL, 60803 United States",
+    "distance": 3.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25600/25507/25507_43_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Best Western Inn \u0026 Suites - Midway Airport",
+    "address": "8220 S Cicero Ave, Burbank, IL, 60459 United States",
+    "distance": 3.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/520000/517500/517495/517495_150_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Baymont Inn \u0026 Suites Chicago / Alsip",
+    "address": "12801 South Cicero, Alsip, IL, 60803 United States",
+    "distance": 3.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50900/50833/50833_97_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Super 8 Bridgeview/Chicago Area",
+    "address": "7887 W 79th St, Bridgeview, IL, 60455 United States",
+    "distance": 3.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50300/50205/50205_105_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "New Relax INN",
+    "address": "7336 Harlem Ave, Bridgeview, IL, 60455 United States",
+    "distance": 4.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16820000/16819000/16818922/879b631f_l.jpg"
+  }
+]

@@ -3,6 +3,7 @@ package io.github.kkysen.quicktrip.apis.hotels.secret;
 import io.github.kkysen.quicktrip.apis.AbstractJsonRequest;
 import io.github.kkysen.quicktrip.apis.hotels.HotelsHotelsQuery;
 import io.github.kkysen.quicktrip.app.Destination;
+import io.github.kkysen.quicktrip.app.Hotel;
 import io.github.kkysen.quicktrip.web.Internet;
 
 import java.io.IOException;
@@ -21,7 +22,7 @@ import com.google.gson.reflect.TypeToken;
  * 
  * @author Khyber Sen
  */
-public class HotelsHotelsSecretRequest extends AbstractJsonRequest<List<JsonHotelsHotel>> {
+public class HotelsHotelsSecretRequest extends AbstractJsonRequest<List<Hotel>> {
     
     private static final String BASE_URL = "https://www.hotels.com/search/listings.json";
     
@@ -36,7 +37,7 @@ public class HotelsHotelsSecretRequest extends AbstractJsonRequest<List<JsonHote
     
     public HotelsHotelsSecretRequest(final HotelsHotelsQuery hotelsQuery, final int numHotels) {
         this.hotelsQuery = hotelsQuery;
-        lastPageNum = (int) Math.ceil((double) numHotels / 10) + 1;
+        lastPageNum = (int) Math.ceil((double) numHotels / 10);
     }
     
     public HotelsHotelsSecretRequest(final Destination dest, final int numHotels) {
@@ -48,7 +49,7 @@ public class HotelsHotelsSecretRequest extends AbstractJsonRequest<List<JsonHote
     }
     
     @Override
-    protected Class<? extends List<JsonHotelsHotel>> getPojoClass() {
+    protected Class<? extends List<Hotel>> getPojoClass() {
         return null;
     }
     
@@ -80,9 +81,14 @@ public class HotelsHotelsSecretRequest extends AbstractJsonRequest<List<JsonHote
     }
 
     @Override
-    protected List<JsonHotelsHotel> deserializeFromUrl(final String url) throws IOException {
+    protected List<Hotel> deserializeFromUrl(final String url) throws IOException {
         final StringBuilder rawJson = Internet.getStringBuilder(url);
-        rawJson.delete(rawJson.length() / 3, rawJson.length()); // delete last third, unnecessary info
+        // check for json error message
+        if (rawJson.length() < 600) {
+            return new ArrayList<>();
+        }
+        //System.out.println(rawJson);
+        rawJson.delete(rawJson.length() * 2 / 3, rawJson.length()); // delete last third, unnecessary info
         final String startStr = "\"results\":";
         final int startIndex = rawJson.indexOf(startStr) + startStr.length();
         final int endIndex = rawJson.lastIndexOf(",\"debugInfo\":");
@@ -91,11 +97,14 @@ public class HotelsHotelsSecretRequest extends AbstractJsonRequest<List<JsonHote
     }
     
     @Override
-    public List<JsonHotelsHotel> getResponse() throws IOException {
-        final List<JsonHotelsHotel> hotels = new ArrayList<>(curPageNum * 10);
-        while (curPageNum++ < lastPageNum) {
-            hotels.addAll(super.getResponse());
+    public List<Hotel> getResponse() throws IOException {
+        final List<Hotel> hotels = new ArrayList<>(curPageNum * 10);
+        while (curPageNum++ < lastPageNum + 1) {
+            final List<Hotel> hotelsOnOnePage = super.getResponse();
+            System.out.println(hotelsOnOnePage.size());
+            hotels.addAll(hotelsOnOnePage);
         }
+        System.out.println(hotels.size());
         return hotels;
     }
     

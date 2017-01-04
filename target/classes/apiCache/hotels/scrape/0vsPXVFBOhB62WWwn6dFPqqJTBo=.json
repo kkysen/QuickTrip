@@ -1,0 +1,50 @@
+[
+  {
+    "price": 59,
+    "name": "Quality Inn",
+    "address": "701 Nw South Outer Rd, Blue Springs, MO, 64015 United States",
+    "distance": 0.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42300/42246/42246_105_l.jpg"
+  },
+  {
+    "price": 112,
+    "name": "Hampton Inn Kansas City/Blue Springs",
+    "address": "900 NW South Outer Rd, Blue Springs, MO, 64015 United States",
+    "distance": 0.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/118300/118256/118256_52_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Days Inn Blue Springs",
+    "address": "451 N.W. Jefferson St, Blue Springs, MO, 64014 United States",
+    "distance": 1.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42300/42281/d364b06e_l.jpg"
+  },
+  {
+    "price": 96,
+    "name": "La Quinta Inn \u0026 Suites Blue Springs",
+    "address": "3402 NW Jefferson Street, Blue Springs, MO, 64015 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2400000/2393000/2392999/9b93718b_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Courtyard by Marriott Blue Springs",
+    "address": "1500 Ne Coronado, Blue Springs, MO, 64014 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/327500/327437/43ec0602_l.jpg"
+  },
+  {
+    "price": 141,
+    "name": "Drury Inn \u0026 Suites Kansas City Independence",
+    "address": "20300 East 42nd Street, Blue Springs, MO, 64015 United States",
+    "distance": 3.6,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4520000/4510500/4510435/4510435_37_l.jpg"
+  }
+]

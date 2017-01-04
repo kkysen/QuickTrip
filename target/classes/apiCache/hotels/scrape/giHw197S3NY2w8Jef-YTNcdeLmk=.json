@@ -1,0 +1,82 @@
+[
+  {
+    "price": 127,
+    "name": "The Lismore Hotel Eau Claire - a DoubleTree by Hilton Hotel",
+    "address": "333 Gibson Street, Eau Claire, WI, 54701 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15130000/15128000/15127916/2905f46c_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "The Oxbow Hotel",
+    "address": "516 Galloway Street, Eau Claire, WI, 54703 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16200000/16194500/16194449/c6d8e940_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Americas Best Value Inn-Campus View",
+    "address": "809 W. Clairemont Avenue, Eau Claire, WI, 54701 United States",
+    "distance": 1.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11600/11590/11590_149_l.jpg"
+  },
+  {
+    "price": 36,
+    "name": "Motel 6 Eau Claire",
+    "address": "2305 Craig Rd, Eau Claire, WI, 54701 United States",
+    "distance": 1.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15400/15313/575f9e9b_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Hampton Inn Eau Claire",
+    "address": "2622 Craig Rd, Eau Claire, WI, 54701 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14700/14673/14673_34_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "Clarion Hotel Campus Area",
+    "address": "2703 Craig Road, Eau Claire, WI, 54701 United States",
+    "distance": 1.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11300/11229/11229_211_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Scottish Inns \u0026 Suites Eau Claire",
+    "address": "1135 W. MacArthur Ave, Eau Claire, WI, 54701 United States",
+    "distance": 1.8,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11680000/11673000/11672930/bcb2af55_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Super 8 Eau Claire WI",
+    "address": "1151 West MacArthur Avenue, Eau Claire, WI, 54701 United States",
+    "distance": 1.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/930000/922700/922634/922634_44_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Quality Inn",
+    "address": "3117 Craig Rd, Eau Claire, WI, 54701 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17900/17895/17895_163_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Staybridge Suites Eau Claire - Altoona",
+    "address": "1515 Bluestem Blvd, Altoona, WI, 54720 United States",
+    "distance": 2.1,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12810000/12805500/12805409/fa5d2c12_l.jpg"
+  }
+]

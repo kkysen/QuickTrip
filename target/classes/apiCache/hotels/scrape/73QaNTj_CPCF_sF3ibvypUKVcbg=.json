@@ -1,0 +1,18 @@
+[
+  {
+    "price": 128,
+    "name": "Comfort Inn",
+    "address": "1 Ridgecrest Dr, Camden, AR, 71701 United States",
+    "distance": 0.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/520000/518100/518046/fa37a992_l.jpg"
+  },
+  {
+    "price": 117,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Camden",
+    "address": "1450 US Hwy 278 West, Camden, AR, 71701 United States",
+    "distance": 1.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/520000/519900/519867/519867_197_l.jpg"
+  }
+]

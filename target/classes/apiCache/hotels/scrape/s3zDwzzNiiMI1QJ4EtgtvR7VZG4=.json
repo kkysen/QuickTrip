@@ -1,0 +1,82 @@
+[
+  {
+    "price": 63,
+    "name": "Days Inn Wallaceburg",
+    "address": "76 McNaughton Ave, Wallaceburg, ON, N8A 1R9 Canada",
+    "distance": 8.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459700/459602/459602_165_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Bogey\u0027s Inn \u0026 Suites",
+    "address": "2849 St. Clair Parkway, Sombra, ON, N0P 2H0 Canada",
+    "distance": 10.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16610000/16604300/16604252/3ec1cc29_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Hampton Inn and Suites Detroit/Chesterfield Township",
+    "address": "45725 Marketplace Blvd, Chesterfield, MI, 48051 United States",
+    "distance": 16.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4290000/4287400/4287361/4287361_8_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Holiday Inn Express \u0026 Suites Chesterfield",
+    "address": "45825 Marketplace Blvd, Chesterfield, MI, 48051 United States",
+    "distance": 16.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2060000/2057700/2057639/2057639_158_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "ConCorde Inn Clinton Township",
+    "address": "44315 N Gratiot Ave, Clinton Township, MI, 48036 United States",
+    "distance": 17.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/560000/551700/551658/551658_44_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "A Victory Inn - Mount Clemens",
+    "address": "1 N River Rd, Mount Clemens, MI, 48043 United States",
+    "distance": 17.0,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42600/42584/42584_53_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Hampton Inn Detroit/Roseville",
+    "address": "33680 Gratiot Avenue, Clinton Township, MI, 48035 United States",
+    "distance": 20.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3510000/3507500/3507465/3507465_44_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Roseville",
+    "address": "31900 Little Mack Ave, Roseville, MI, 48066 United States",
+    "distance": 20.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/544100/544005/544005_171_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Eastin Inn",
+    "address": "31960 Little Mack, Roseville, MI, 48066 United States",
+    "distance": 20.0,
+    "rating": 1.3,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/862500/862455/862455_2_l.jpg"
+  },
+  {
+    "price": 46,
+    "name": "Red Roof Inn Detroit - Saint Clair Shores",
+    "address": "31800 Little Mack Rd, Roseville, MI, 48066 United States",
+    "distance": 20.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12200/12168/12168_88_l.jpg"
+  }
+]

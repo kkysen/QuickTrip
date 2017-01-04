@@ -1,0 +1,18 @@
+[
+  {
+    "price": 65,
+    "name": "The Plaza Motel",
+    "address": "1604 S Main St, Bryan, OH, 43506 United States",
+    "distance": 0.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1780000/1777200/1777190/1777190_25_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Colonial Manor Motel",
+    "address": "924 East High Street, Bryan, OH, 43506 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1150000/1148900/1148888/1148888_10_l.jpg"
+  }
+]

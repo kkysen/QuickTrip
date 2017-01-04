@@ -1,0 +1,18 @@
+[
+  {
+    "price": 50,
+    "name": "Americas Best Value Inn",
+    "address": "1515 Old Ector Road, Bonham, TX, 75418 United States",
+    "distance": 1.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25000/24902/24902_118_l.jpg"
+  },
+  {
+    "price": 82,
+    "name": "Holiday Inn Express \u0026 Suites Bonham",
+    "address": "1101 Gk Reddy Ave, Bonham, TX, 75418 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9580000/9570700/9570690/9570690_9_l.jpg"
+  }
+]

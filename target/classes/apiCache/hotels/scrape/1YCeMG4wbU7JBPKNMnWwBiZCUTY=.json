@@ -1,0 +1,82 @@
+[
+  {
+    "price": 75,
+    "name": "Hotel International",
+    "address": "5621 196th St Sw, Lynnwood, WA, 98036 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1340000/1334300/1334281/1334281_76_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "La Quinta Inn Lynnwood",
+    "address": "4300 Alderwood Mall Blvd, Lynnwood, WA, 98036 United States",
+    "distance": 1.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/897700/897642/3c915edf_l.jpg"
+  },
+  {
+    "price": 161,
+    "name": "Courtyard by Marriott North Seattle/Lynnwood",
+    "address": "4220 Alderwood Mall Blvd, Lynnwood, WA, 98036 United States",
+    "distance": 1.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/281000/280903/280903_53_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Americas Best Value Inn - Lynnwood / Seattle",
+    "address": "4117 196th Street SW, Lynnwood, WA, 98036 United States",
+    "distance": 1.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17000/16976/78831cb7_l.jpg"
+  },
+  {
+    "price": 143,
+    "name": "Embassy Suites by Hilton Seattle North Lynnwood",
+    "address": "20610 44th Ave West, Lynnwood, WA, 98036 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25600/25579/25579_40_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Best Western Alderwood",
+    "address": "19332 36th Ave W, Lynnwood, WA, 98036 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40300/40278/40278_176_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Extended Stay America Seattle - Lynnwood",
+    "address": "3021 196th St Sw, Lynnwood, WA, 98036 United States",
+    "distance": 1.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84800/84785/84785_48_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Hampton Inn \u0026 Suites Seattle North - Lynnwood",
+    "address": "19324 Alderwood Mall Pkwy, Lynnwood, WA, 98036 United States",
+    "distance": 1.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/127100/127039/a96781fc_l.jpg"
+  },
+  {
+    "price": 132,
+    "name": "Holiday Inn Express \u0026 Suites Seattle North - Lynnwood",
+    "address": "2515 196th Street SW, Lynnwood, WA, 98036 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2980000/2976500/2976408/2976408_30_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Homewood Suites by Hilton Seattle/Lynnwood",
+    "address": "18123 Alderwood Mall Pkwy, Lynnwood, WA, 98037 United States",
+    "distance": 2.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6780000/6772300/6772222/6772222_10_l.jpg"
+  }
+]

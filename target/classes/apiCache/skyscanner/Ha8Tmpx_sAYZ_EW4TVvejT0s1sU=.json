@@ -1,0 +1,523 @@
+{
+  "hotels_prices": [
+    {
+      "id": 47221771,
+      "agent_prices": [
+        {
+          "id": 6,
+          "price_total": 189
+        }
+      ]
+    },
+    {
+      "id": 117334836,
+      "agent_prices": [
+        {
+          "id": 6,
+          "price_total": 175
+        }
+      ]
+    },
+    {
+      "id": 46974582,
+      "agent_prices": [
+        {
+          "id": 6,
+          "price_total": 247
+        }
+      ]
+    },
+    {
+      "id": 46944653,
+      "agent_prices": [
+        {
+          "id": 6,
+          "price_total": 393
+        }
+      ]
+    },
+    {
+      "id": 46959471,
+      "agent_prices": [
+        {
+          "id": 6,
+          "price_total": 179
+        }
+      ]
+    },
+    {
+      "id": 47010500,
+      "agent_prices": [
+        {
+          "id": 6,
+          "price_total": 119
+        }
+      ]
+    },
+    {
+      "id": 46976033,
+      "agent_prices": [
+        {
+          "id": 6,
+          "price_total": 52
+        }
+      ]
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Wyndham Garden Chinatown",
+      "hotel_id": 47221771,
+      "address": ", ",
+      "popularity": 86,
+      "amenities": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "latitude": 40.71703,
+      "longitude": -73.99533,
+      "star_rating": 4.0,
+      "distance_from_search": 0.876
+    },
+    {
+      "name": "Eurostars Wall Street",
+      "hotel_id": 117334836,
+      "address": ", ",
+      "popularity": 76,
+      "amenities": [
+        17,
+        21,
+        22,
+        23,
+        14,
+        7,
+        24,
+        9,
+        13,
+        11,
+        12,
+        25,
+        15,
+        26,
+        16,
+        4
+      ],
+      "latitude": 40.70522,
+      "longitude": -74.00619,
+      "star_rating": 4.0,
+      "distance_from_search": 0.746
+    },
+    {
+      "name": "Duane Street Hotel Tribeca",
+      "hotel_id": 46974582,
+      "address": ", ",
+      "popularity": 84,
+      "amenities": [
+        17,
+        1,
+        22,
+        27,
+        13,
+        23,
+        6,
+        7,
+        8,
+        14,
+        10,
+        28,
+        12,
+        29,
+        30,
+        4,
+        11
+      ],
+      "latitude": 40.71599,
+      "longitude": -74.00743,
+      "star_rating": 4.0,
+      "distance_from_search": 0.915
+    },
+    {
+      "name": "Millenium Hilton",
+      "hotel_id": 46944653,
+      "address": ", ",
+      "popularity": 82,
+      "amenities": [
+        31,
+        1,
+        23,
+        7,
+        12,
+        11,
+        32,
+        3,
+        33,
+        10,
+        34,
+        28,
+        13,
+        35,
+        36,
+        19,
+        0,
+        4,
+        9,
+        37,
+        22,
+        38,
+        18,
+        17,
+        2,
+        24,
+        14,
+        16
+      ],
+      "latitude": 40.7112,
+      "longitude": -74.01046,
+      "star_rating": 4.0,
+      "distance_from_search": 0.892
+    },
+    {
+      "name": "Hampton Inn Seaport Financial District",
+      "hotel_id": 46959471,
+      "address": ", ",
+      "popularity": 80,
+      "amenities": [
+        0,
+        5,
+        8,
+        4,
+        22,
+        23,
+        3,
+        7,
+        24,
+        14,
+        10,
+        6,
+        11,
+        12,
+        15,
+        30,
+        16,
+        17,
+        18,
+        19
+      ],
+      "latitude": 40.70895,
+      "longitude": -74.00217,
+      "star_rating": 3.0,
+      "distance_from_search": 0.217
+    },
+    {
+      "name": "Comfort Inn Manhattan Bridge",
+      "hotel_id": 47010500,
+      "address": ", ",
+      "popularity": 78,
+      "amenities": [
+        17,
+        16,
+        22,
+        39,
+        28,
+        26,
+        23,
+        6,
+        7,
+        8,
+        14,
+        10,
+        11,
+        40,
+        12,
+        36,
+        41,
+        15,
+        4,
+        19,
+        42
+      ],
+      "latitude": 40.71663,
+      "longitude": -73.99479,
+      "star_rating": 2.0,
+      "distance_from_search": 0.859
+    },
+    {
+      "name": "World Hotel",
+      "hotel_id": 46976033,
+      "address": ", ",
+      "popularity": 40,
+      "amenities": [
+        23,
+        12,
+        19,
+        15
+      ],
+      "latitude": 40.71754,
+      "longitude": -73.99511,
+      "star_rating": 1.0,
+      "distance_from_search": 0.935
+    }
+  ],
+  "amenities": [
+    {
+      "id": 1,
+      "name": "Express check-out",
+      "key": "EXPRESSCHECKOUTSERVICE"
+    },
+    {
+      "id": 3,
+      "name": "Meeting facilities",
+      "key": "MEETINGROOM"
+    },
+    {
+      "id": 43,
+      "name": "Satellite TV",
+      "key": "SATELLITETV"
+    },
+    {
+      "id": 31,
+      "name": "ATM machine",
+      "key": "CASHMACHINE"
+    },
+    {
+      "id": 23,
+      "name": "24-hour Front Desk Service",
+      "key": "FRONTDESK24HSERVICE"
+    },
+    {
+      "id": 7,
+      "name": "Laundry",
+      "key": "LAUNDRY"
+    },
+    {
+      "id": 39,
+      "name": "Iron",
+      "key": "IRONINGSERVICE"
+    },
+    {
+      "id": 12,
+      "name": "WiFi",
+      "key": "WIFISERVICE"
+    },
+    {
+      "id": 15,
+      "name": "Luggage storage",
+      "key": "LUGGAGESTORAGE"
+    },
+    {
+      "id": 44,
+      "name": "Bathrobe",
+      "key": "BATHROBESERVICE"
+    },
+    {
+      "id": 11,
+      "name": "Elevator",
+      "key": "LIFT"
+    },
+    {
+      "id": 42,
+      "name": "Telephone",
+      "key": "TELEPHONE"
+    },
+    {
+      "id": 5,
+      "name": "Balcony",
+      "key": "BALCONY"
+    },
+    {
+      "id": 32,
+      "name": "Television",
+      "key": "TELEVISION"
+    },
+    {
+      "id": 45,
+      "name": "Minibar",
+      "key": "MINIBAR"
+    },
+    {
+      "id": 8,
+      "name": "Pets allowed",
+      "key": "PETSALLOWEDSERVICE"
+    },
+    {
+      "id": 33,
+      "name": "Indoor pool",
+      "key": "INDOORSWIMMINGPOOL"
+    },
+    {
+      "id": 10,
+      "name": "Business center",
+      "key": "BUSINESSCENTER"
+    },
+    {
+      "id": 34,
+      "name": "Currency exchange",
+      "key": "CURRENCYEXCHANGESERVICE"
+    },
+    {
+      "id": 28,
+      "name": "Express check-in",
+      "key": "EXPRESSCHECKINSERVICE"
+    },
+    {
+      "id": 13,
+      "name": "Restaurant",
+      "key": "RESTAURANT"
+    },
+    {
+      "id": 25,
+      "name": "Airport Shuttle",
+      "key": "AIRPORTSHUTTLESERVICE"
+    },
+    {
+      "id": 35,
+      "name": "Limousine",
+      "key": "LIMOUSINESERVICE"
+    },
+    {
+      "id": 36,
+      "name": "Hairdryer",
+      "key": "HAIRDRYER"
+    },
+    {
+      "id": 19,
+      "name": "Daily newspaper",
+      "key": "DAILYNEWSPAPERSERVICE"
+    },
+    {
+      "id": 0,
+      "name": "Fitness Center",
+      "key": "FITNESSCENTER"
+    },
+    {
+      "id": 21,
+      "name": "Bell staff",
+      "key": "BELLSTAFFSERVICE"
+    },
+    {
+      "id": 27,
+      "name": "Baby-sitting",
+      "key": "BABYSITTINGSERVICE"
+    },
+    {
+      "id": 46,
+      "name": "Valet parking",
+      "key": "VALETPARKINGSERVICE"
+    },
+    {
+      "id": 41,
+      "name": "Coffee-maker",
+      "key": "COFFEEMAKER"
+    },
+    {
+      "id": 6,
+      "name": "Non-smoking",
+      "key": "NONSMOKINGSERVICE"
+    },
+    {
+      "id": 9,
+      "name": "Bar",
+      "key": "BAR"
+    },
+    {
+      "id": 37,
+      "name": "Pool",
+      "key": "POOL"
+    },
+    {
+      "id": 22,
+      "name": "Parking",
+      "key": "PARKING"
+    },
+    {
+      "id": 38,
+      "name": "Shops",
+      "key": "SHOP"
+    },
+    {
+      "id": 16,
+      "name": "Safe deposit box",
+      "key": "SAFEDEPOSITBOX"
+    },
+    {
+      "id": 18,
+      "name": "Conference facilities",
+      "key": "CONFERENCEFACILITY"
+    },
+    {
+      "id": 47,
+      "name": "Library",
+      "key": "LIBRARY"
+    },
+    {
+      "id": 17,
+      "name": "Concierge",
+      "key": "CONCIERGESERVICE"
+    },
+    {
+      "id": 2,
+      "name": "Wedding facilities",
+      "key": "WEDDINGFACILITY"
+    },
+    {
+      "id": 26,
+      "name": "Handicap Accessible",
+      "key": "DISABLEDFACILITY"
+    },
+    {
+      "id": 40,
+      "name": "Desk",
+      "key": "DESK"
+    },
+    {
+      "id": 24,
+      "name": "Room service",
+      "key": "ROOMSERVICE"
+    },
+    {
+      "id": 14,
+      "name": "Air conditioning",
+      "key": "AIRCONDITIONING"
+    },
+    {
+      "id": 29,
+      "name": "Spa",
+      "key": "SPA"
+    },
+    {
+      "id": 30,
+      "name": "Internet access",
+      "key": "INTERNETACCESSSERVICE"
+    },
+    {
+      "id": 4,
+      "name": "Multilingual staff",
+      "key": "MULTILINGUALSTAFFSERVICE"
+    }
+  ],
+  "places": [],
+  "urls": {
+    "hotel_details": "/apiservices/hotels/livedetails/v2/details/H4sIAAAAAAAEAE3IsQqAMBAD0H_JfC13tXLS2T9QJ5Hi4FbaRSfx3y2dCiEJ70VB2LEtIFzZtN2WuXY67-jZqlAqORr1lqs6FjUsRnRlDi29Tp06EoIM5OoZBZSflA5CRtDBfT9AZTZjeQAAAA2?apikey\u003d_eAbQgkSE-Lu4NlRVFTE6zbDeodaKVmz5nl-fCuNqEM97dhRdOvC7YDcg6ihmP3lcqilvjr8F-kjOY4DB1nEEJA%3D%3D"
+  },
+  "status": "PENDING",
+  "total_hotels": 91,
+  "total_available_hotels": 7
+}

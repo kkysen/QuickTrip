@@ -1,0 +1,82 @@
+[
+  {
+    "price": 120,
+    "name": "Best Western Plus Coon Rapids North Metro Hotel",
+    "address": "3420 Northdale Blvd NW, Coon Rapids, MN, 55448 United States",
+    "distance": 3.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1510000/1507600/1507587/1507587_173_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "AmericInn Lodge \u0026 Suites Coon Rapids",
+    "address": "3430 Northdale Blvd, Coon Rapids, MN, 55448 United States",
+    "distance": 3.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/220000/214600/214525/214525_20_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "AmericInn Lodge \u0026 Suites Ham Lake",
+    "address": "13440 Highway 65, Ham Lake, MN, 55304 United States",
+    "distance": 3.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/548000/547987/547987_78_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Regency Inn and Suites, Anoka",
+    "address": "1129 Hwy 10 West, Hwy 10 \u0026 Thurston Ave, Anoka, MN, 55303 United States",
+    "distance": 5.8,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/897900/897859/897859_2_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Comfort Suites Ramsey",
+    "address": "6440 US 10 West, Ramsey, MN, 55303 United States",
+    "distance": 6.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/151300/151225/151225_62_l.jpg"
+  },
+  {
+    "price": 130,
+    "name": "Best Western Plus Blaine at the National Sports Center",
+    "address": "10580 Baltimore St. NE, Blaine, MN, 55449 United States",
+    "distance": 6.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1460000/1452100/1452044/1452044_57_l.jpg"
+  },
+  {
+    "price": 151,
+    "name": "Holiday Inn Express Minneapolis/Coon Rapids/Blaine",
+    "address": "9333 Springbrook Drive NW, Coon Rapids, MN, 55433 United States",
+    "distance": 7.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/64300/64228/4c48227d_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Country Inn and Suites Coon Rapids",
+    "address": "155 Coon Rapids Blvd NW, Coon Rapids, MN, 55433 United States",
+    "distance": 7.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16300/16300/16300_86_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Quality Inn Northtown",
+    "address": "9052 University Avenue Northwest, Coon Rapids, MN, 55448 United States",
+    "distance": 7.6,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43500/43436/43436_59_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Fairfield Inn by Marriott Minneapolis/Coon Rapids",
+    "address": "8965 Springbrook Drive, Coon Rapids, MN, 55433 United States",
+    "distance": 7.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43500/43425/43425_56_l.jpg"
+  }
+]

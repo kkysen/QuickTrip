@@ -1,0 +1,82 @@
+[
+  {
+    "price": 64,
+    "name": "Days Inn Wilkes Barre",
+    "address": "760 Kidder St, Wilkes-Barre, PA, 18702 United States",
+    "distance": 3.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43400/43305/6f8d05f0_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "Best Western Genetti Hotel \u0026 Conference Center",
+    "address": "77 E Market St., Wilkes-Barre, PA, 18701 United States",
+    "distance": 3.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9700/9683/96bfe2b8_l.jpg"
+  },
+  {
+    "price": 126,
+    "name": "Fairfield Inn \u0026 Suites Wilkes-Barre Scranton",
+    "address": "884 Kidder Street, Wilkes-Barre, PA, 18702 United States",
+    "distance": 3.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2440000/2431700/2431606/93b5f96a_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Red Roof Inn Wilkes - Barre Arena",
+    "address": "1035 Highway 315, Wilkes-Barre, PA, 18702 United States",
+    "distance": 3.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4600/4522/4522_62_l.jpg"
+  },
+  {
+    "price": 184,
+    "name": "Mohegan Sun Pocono",
+    "address": "1280 Highway 315, Wilkes-Barre, PA, 18702 United States",
+    "distance": 3.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7370000/7364000/7363955/7363955_70_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Holiday Inn Express Wilkes Barre East",
+    "address": "1063 Highway 315 Blvd, Wilkes-Barre, PA, 18702 United States",
+    "distance": 3.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2160000/2150400/2150395/2150395_86_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "The Woodlands Inn, an Ascend Hotel Collection Member",
+    "address": "1073 Highway 315, Wilkes-Barre, PA, 18702 United States",
+    "distance": 3.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28300/28231/28231_213_l.jpg"
+  },
+  {
+    "price": 120,
+    "name": "Hilton Garden Inn Wilkes Barre",
+    "address": "242 Highland Park Blvd, Wilkes-Barre, PA, 18702 United States",
+    "distance": 3.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/904800/904763/904763_21_l.jpg"
+  },
+  {
+    "price": 121,
+    "name": "Courtyard by Marriott Wilkes-Barre Arena",
+    "address": "879 Schechter Dr, Wilkes-barre, PA, 18702 United States",
+    "distance": 4.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8270000/8268800/8268771/8268771_15_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "Hampton Inn \u0026 Suites Wilkes-Barre/Scranton",
+    "address": "876 Schechter Dr, Wilkes-Barre, PA, 18702 United States",
+    "distance": 4.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3080000/3074000/3073952/3073952_68_l.jpg"
+  }
+]

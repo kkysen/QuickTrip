@@ -1,0 +1,18 @@
+[
+  {
+    "price": 68,
+    "name": "Best Western Glenpool/tulsa",
+    "address": "14831 S Casper Street, Glenpool, OK, 74033 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18500/18448/18448_90_l.jpg"
+  },
+  {
+    "price": 86,
+    "name": "Holiday Inn Express \u0026 Suites Glenpool-Tulsa South",
+    "address": "12209 S Yukon Ave, Glenpool, OK, 74033 United States",
+    "distance": 2.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8380000/8370300/8370282/684419b8_l.jpg"
+  }
+]

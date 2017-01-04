@@ -1,0 +1,34 @@
+[
+  {
+    "price": 72,
+    "name": "Arizona Inn of Prescott Valley",
+    "address": "7875 E Hwy 69, Prescott Valley, AZ, 86314 United States",
+    "distance": 0.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42400/42397/d86c7e02_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Super 8 Prescott Valley",
+    "address": "7801 E Highway 69, Prescott Valley, AZ, 86314 United States",
+    "distance": 0.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856000/855938/855938_118_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Americas Best Value Inn",
+    "address": "8383 E State Route 69, Prescott Valley, AZ, 86314 United States",
+    "distance": 0.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2890000/2889700/2889699/2889699_64_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Hampton Inn \u0026 Suites Prescott Valley",
+    "address": "2901 N Glassford Hill Rd, Prescott Valley, AZ, 86314 United States",
+    "distance": 1.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2340000/2335200/2335193/2335193_16_l.jpg"
+  }
+]

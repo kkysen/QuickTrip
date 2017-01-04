@@ -1,0 +1,18 @@
+[
+  {
+    "price": 141,
+    "name": "Holiday Inn Express St. George North - Zion",
+    "address": "2450 N Town Center Dr, Washington, UT, 84780 United States",
+    "distance": 1.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1660000/1659000/1658967/26810e6c_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Quality Inn I-15 Red Cliffs",
+    "address": "912 W Red Cliffs Dr, Washington, UT, 84780 United States",
+    "distance": 3.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2240000/2233000/2232943/2cb6f39e_l.jpg"
+  }
+]

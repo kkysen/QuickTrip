@@ -1,0 +1,42 @@
+[
+  {
+    "price": 87,
+    "name": "Best Western Motor Inn",
+    "address": "1446 W Broad Street, Quakertown, PA, 18951 United States",
+    "distance": 1.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9700/9641/b14043a9_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Quakertown",
+    "address": "1918 John Fries Highway, Quakertown, PA, 18951 United States",
+    "distance": 4.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/795000/794981/794981_168_l.jpg"
+  },
+  {
+    "price": 146,
+    "name": "SpringHill Suites by Marriott Quakertown",
+    "address": "1930 John Fries Hwy, Quakertown, PA, 18951 United States",
+    "distance": 4.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2690000/2680900/2680827/88a3eb6f_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Hampton Inn Quakertown",
+    "address": "1915 John Fries Hwy, Quakertown, PA, 18951 United States",
+    "distance": 4.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/798800/798779/798779_9_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "1905 John Fries Hwy, Quakertown, PA, 18951 United States",
+    "distance": 4.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27100/27018/27018_230_l.jpg"
+  }
+]

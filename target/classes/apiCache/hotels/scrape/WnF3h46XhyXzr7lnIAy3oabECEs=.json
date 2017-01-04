@@ -1,0 +1,82 @@
+[
+  {
+    "price": 270,
+    "name": "Columbia Marriott",
+    "address": "1200 Hampton St, Columbia, SC, 29201-2826 United States",
+    "distance": 0.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17400/17353/17353_103_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Sheraton Columbia Downtown Hotel",
+    "address": "1400 Main St, Columbia, SC, 29201-2806 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1810000/1805100/1805074/1805074_83_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Aloft Columbia Downtown",
+    "address": "823 Lady St, Columbia, SC, 29201 United States",
+    "distance": 0.4,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16710000/16706100/16706011/075f1b09_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Hyatt Place Columbia/Downtown/The Vista",
+    "address": "819 Gervais Street, Columbia, SC, 29201 United States",
+    "distance": 0.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8700000/8690600/8690567/8690567_19_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "The 1425 Inn",
+    "address": "1425 Richland St., Columbia, SC, 29201 United States",
+    "distance": 0.5,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9410000/9400800/9400765/9400765_7_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Hampton Inn Columbia-Downtown Historic District",
+    "address": "822 Gervais St, Columbia, SC, 29201-3126 United States",
+    "distance": 0.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/580000/570500/570428/570428_38_l.jpg"
+  },
+  {
+    "price": 161,
+    "name": "Hilton Columbia Center",
+    "address": "924 Senate St, Columbia, SC, 29201 United States",
+    "distance": 0.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1740000/1730200/1730120/1730120_43_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "SpringHill Suites by Marriott Columbia Downtown/The Vista",
+    "address": "511 Lady Street, Columbia, SC, 29201-3015 United States",
+    "distance": 0.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2570000/2564900/2564892/2564892_51_l.jpg"
+  },
+  {
+    "price": 143,
+    "name": "Inn at USC Wyndham Garden Columbia",
+    "address": "1619 Pendleton Street, Columbia, SC, 29201 United States",
+    "distance": 0.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2520000/2515100/2515057/2515057_140_l.jpg"
+  },
+  {
+    "price": 121,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Columbia - Downtown",
+    "address": "501 Taylor St, Columbia, SC, 29201-2738 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/868400/868345/868345_65_l.jpg"
+  }
+]

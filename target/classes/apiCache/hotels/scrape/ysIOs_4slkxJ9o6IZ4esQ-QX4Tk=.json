@@ -1,0 +1,18 @@
+[
+  {
+    "price": 85,
+    "name": "Holiday Inn Express Leland - Wilmington Area",
+    "address": "1020 Grandiflora Drive, Leland, NC, 28451 United States",
+    "distance": 5.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2580000/2574500/2574486/2574486_220_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Best Western Plus Westgate Inn \u0026 Suites",
+    "address": "1120 Town Lake Dr, Leland, NC, 28451 United States",
+    "distance": 5.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3170000/3160100/3160008/3160008_182_l.jpg"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "price": 59,
+    "name": "Regency Inn and Suites Rosenberg",
+    "address": "28382 Southwest Fwy, Rosenberg, TX, 77471 United States",
+    "distance": 3.5,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1120000/1119000/1118911/1118911_147_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "La Quinta Inn \u0026 Suites Houston - Rosenberg, TX",
+    "address": "28332 Southwest Fwy 59, Rosenberg, TX, 77471 United States",
+    "distance": 3.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1690000/1683000/1682927/d8a2aaf0_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Super 8 Rosenberg TX",
+    "address": "3314 1st St, Rosenberg, TX, 77471 United States",
+    "distance": 3.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3030000/3025100/3025097/3025097_105_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "Comfort Inn Rosenberg",
+    "address": "3555 Route 36 South Hwy 59, Rosenberg, TX, 77471 United States",
+    "distance": 3.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84800/84767/84767_72_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Motel 6 Rosenberg, TX",
+    "address": "27927 Southwest Fwy, 59 South from Houston exit Hwy 36, Rosenberg, TX, 77471 United States",
+    "distance": 4.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/520000/519800/519760/519760_92_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "SpringHill Suites by Marriott-Houston/Rosenberg",
+    "address": "6815 Reading Rd, Rosenberg, TX, 77471 United States",
+    "distance": 5.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2690000/2680900/2680828/c15c683d_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Knights Inn Rosenberg",
+    "address": "26010 Sw Freeway Fairgr, Rosenberg, TX, 77471 United States",
+    "distance": 5.9,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1340000/1338100/1338059/1338059_139_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Hampton Inn and Suites Houston-Rosenberg",
+    "address": "3312 Vista Dr, Rosenberg, TX, 77471 United States",
+    "distance": 6.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1800000/1793700/1793629/1793629_65_l.jpg"
+  }
+]

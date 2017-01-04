@@ -1,0 +1,82 @@
+[
+  {
+    "price": 64,
+    "name": "Comfort Inn Hayti",
+    "address": "1500 Highway 84, Hayti, MO, 63851 United States",
+    "distance": 5.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42200/42106/42106_26_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Drury Inn \u0026 Suites Hayti Caruthersville",
+    "address": "1317 Highway 84, Hayti, MO, 63851 United States",
+    "distance": 5.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42200/42109/42109_69_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Deerfield Inn \u0026 Suites",
+    "address": "144 US Hwy 61, Steele, MO, 63877 United States",
+    "distance": 12.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2950000/2944400/2944317/2944317_7_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Quality Inn Dyersburg",
+    "address": "800 Silver Road, Dyersburg, TN, 38024 United States",
+    "distance": 17.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4170000/4167700/4167619/4167619_25_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Econo Lodge",
+    "address": "815 Reelfoot Dr, Dyersburg, TN, 38024 United States",
+    "distance": 17.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4800/4707/4707_27_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Dyersburg",
+    "address": "822 Reelfoot Dr, Dyersburg, TN, 38024 United States",
+    "distance": 17.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1550000/1541100/1541081/1541081_131_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Sleep Inn \u0026 Suites",
+    "address": "824 Reelfoot Drive, Dyersburg, TN, 38024 United States",
+    "distance": 17.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2680000/2674400/2674308/2674308_29_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Days Inn Dyersburg",
+    "address": "2600 Lake Rd, Dyersburg, TN, 38024 United States",
+    "distance": 17.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18600/18594/4ed03eef_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Executive Inn \u0026 Suites Dyersburg",
+    "address": "2331 Lake Road, Dyersburg, TN, 38024 United States",
+    "distance": 17.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13150000/13145700/13145674/13145674_9_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Hampton Inn Dyersburg",
+    "address": "2750 Mall Loop Rd, Dyersburg, TN, 38024 United States",
+    "distance": 17.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13500/13437/13437_16_l.jpg"
+  }
+]

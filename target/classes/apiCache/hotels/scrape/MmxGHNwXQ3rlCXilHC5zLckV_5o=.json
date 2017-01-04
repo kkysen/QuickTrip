@@ -1,0 +1,66 @@
+[
+  {
+    "price": 111,
+    "name": "Holiday Inn Hotel \u0026 Suites Bolingbrook",
+    "address": "205 Remington Blvd, Bolingbrook, IL, 60440 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/110000/102500/102472/4b29c426_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Hilton Garden Inn Bolingbrook I-55",
+    "address": "135 Remington Blvd., Bolingbrook, IL, 60440 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11800000/11795200/11795140/11795140_59_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Quality Inn",
+    "address": "175 Remington Boulevard, Bolingbrook, IL, 60440 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/793500/793472/793472_50_l.jpg"
+  },
+  {
+    "price": 124,
+    "name": "Hampton Inn \u0026 Suites Bolingbrook",
+    "address": "165 Remington Blvd, Bolingbrook, IL, 60440 United States",
+    "distance": 1.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1150000/1147800/1147770/1147770_2_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "Bolingbrook Inn \u0026 Suites",
+    "address": "225 W. South Frontage Rd, Bolingbrook, IL, 60440 United States",
+    "distance": 1.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42100/42042/87dbf987_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "Springhill Suites By Marriott Bolingbrook",
+    "address": "125 Remington Blvd, Bolingbrook, IL, 60440 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/490000/487700/487606/487606_42_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Ramada Bolingbrook",
+    "address": "520 S Bolingbrook Dr, Bolingbrook, IL, 60440 United States",
+    "distance": 1.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/55500/55474/55474_125_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Aloft Bolingbrook",
+    "address": "500 N Janes Avenue, Bolingbrook, IL, 60440 United States",
+    "distance": 3.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2520000/2514100/2514083/2514083_65_l.jpg"
+  }
+]

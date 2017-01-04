@@ -1,0 +1,82 @@
+[
+  {
+    "price": 65,
+    "name": "Rodeway Inn",
+    "address": "1115 W North Blvd 3 Blks S, Leesburg, FL, 34748 United States",
+    "distance": 0.8,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22000/21974/21974_1_l.jpg"
+  },
+  {
+    "price": 82,
+    "name": "Quality Inn",
+    "address": "1392 North Blvd W, Leesburg, FL, 34748 United States",
+    "distance": 1.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50300/50238/50238_45_l.jpg"
+  },
+  {
+    "price": 108,
+    "name": "Best Western Plus Chain of Lakes Inn \u0026 Suites",
+    "address": "1321 N 14th St, Leesburg, FL, 34748 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3080000/3071700/3071682/3071682_114_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Sleep Inn Leesburg",
+    "address": "2476 N. Citrus Blvd, Leesburg, FL, 34748 United States",
+    "distance": 2.5,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/670000/665100/665073/665073_40_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Leesburg/Mt Dora",
+    "address": "9700 Us Highway 441, Leesburg, FL, 34788 United States",
+    "distance": 5.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/328900/328816/328816_116_l.jpg"
+  },
+  {
+    "price": 96,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Lady Lake/The Villages",
+    "address": "850 South US Hwy 27/441, Lady Lake, FL, 32159 United States",
+    "distance": 6.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/892800/892737/892737_307_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Classic Inn",
+    "address": "101 West Burleigh Boulevard, Tavares, FL, 32778 United States",
+    "distance": 9.0,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1940000/1932400/1932347/1932347_65_l.jpg"
+  },
+  {
+    "price": 194,
+    "name": "The Waterfront Inn",
+    "address": "1105 Lake Shore Drive, The Villages, FL, 32162 United States",
+    "distance": 9.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1800000/1790600/1790521/1790521_42_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "Inn On The Green",
+    "address": "700 E Burleigh Blvd, Tavares, FL, 32778 United States",
+    "distance": 9.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1350000/1343800/1343757/1343757_13_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Best Western Plus Lake County Inn \u0026 Suites",
+    "address": "1380 E Burleigh Boulevard, Tavares, FL, 32778 United States",
+    "distance": 9.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1190000/1184000/1183971/1183971_35_l.jpg"
+  }
+]

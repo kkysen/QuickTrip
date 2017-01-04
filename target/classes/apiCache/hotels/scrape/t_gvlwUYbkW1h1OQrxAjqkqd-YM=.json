@@ -1,0 +1,82 @@
+[
+  {
+    "price": 58,
+    "name": "Village Inn Motel Holt",
+    "address": "2211 Cedar St, Holt, MI, 48842 United States",
+    "distance": 5.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5240000/5238000/5237952/6f1de25a_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Causeway Bay Hotel",
+    "address": "6820 S Cedar St, Lansing, MI, 48911 United States",
+    "distance": 6.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11700/11688/11688_28_l.jpg"
+  },
+  {
+    "price": 136,
+    "name": "Holiday Inn Express \u0026 Suites Lansing-Okemos (MSU Area)",
+    "address": "2209 University Park Dr, Okemos, MI, 48864 United States",
+    "distance": 6.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13300/13228/13228_124_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Staybridge Suites Lansing - Okemos",
+    "address": "3553 Meridian Crossings Drive, Okemos, MI, 48864 United States",
+    "distance": 7.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2050000/2041500/2041465/2041465_171_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Magnuson Hotel Lansing",
+    "address": "6501 S Pennsylvania Ave, Lansing, MI, 48911 United States",
+    "distance": 7.2,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2700/2608/c8bcd2bf_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Americas Best Value Inn",
+    "address": "1100 Ramada Dr, Lansing, MI, 48911 United States",
+    "distance": 7.4,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84600/84533/84533_57_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Red Roof Inn Lansing East - Michigan State University",
+    "address": "3615 Dunckel Road, Lansing, MI, 48910 United States",
+    "distance": 7.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21700/21653/21653_67_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Candlewood Suites East Lansing",
+    "address": "3545 Forest Rd, Lansing, MI, 48910 United States",
+    "distance": 8.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/670000/663100/663046/12d286ba_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Towneplace Suites by Marriott East Lansing",
+    "address": "2855 Hannah Blvd, East Lansing, MI, 48823 United States",
+    "distance": 9.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/560000/558500/558413/d67c5a66_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Residence Inn East Lansing",
+    "address": "2841 Hannah Blvd, East Lansing, MI, 48823 United States",
+    "distance": 9.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11550000/11547200/11547186/11547186_28_l.jpg"
+  }
+]

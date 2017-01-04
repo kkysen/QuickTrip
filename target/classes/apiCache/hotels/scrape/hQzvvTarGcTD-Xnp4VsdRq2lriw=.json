@@ -1,0 +1,26 @@
+[
+  {
+    "price": 66,
+    "name": "Super 8 DeKalb IL",
+    "address": "800 W Fairview Dr, Jct I-88 and Annie Glidden Road, DeKalb, IL, 60115 United States",
+    "distance": 1.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50200/50158/5be135ee_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Hampton Inn DeKalb, IL",
+    "address": "663 S. Annie Glidden Road, Dekalb, IL, 60115 United States",
+    "distance": 1.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7430000/7422200/7422102/7422102_6_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Red Roof Inn \u0026 Suites DeKalb",
+    "address": "1212 West Lincoln Highway, DeKalb, IL, 60115 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/49900/49827/94b45c96_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 129,
+    "name": "Fairfield Inn by Marriott Philadelphia Airport",
+    "address": "8800 Bartram Ave, Philadelphia, PA, 19153 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/564000/563987/567a50de_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Philadelphia Airport",
+    "address": "8840 Tinicum Blvd, Philadelphia, PA, 19153 United States",
+    "distance": 1.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/328900/328828/e6815c36_l.jpg"
+  },
+  {
+    "price": 150,
+    "name": "Hampton Inn Philadelphia Airport",
+    "address": "8600 Bartram Ave, Philadelphia, PA, 19153 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/151400/151359/151359_53_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Extended Stay America Philadelphia-Airport- Bartram Ave.",
+    "address": "8880 Bartram Ave, Philadelphia, PA, 19153 United States",
+    "distance": 1.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/117200/117104/117104_39_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Philadelphia Airport Courtyard by Marriott",
+    "address": "8900 Bartram Ave, Philadelphia, PA, 19153 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26000/25919/25919_90_l.jpg"
+  },
+  {
+    "price": 209,
+    "name": "Residence Inn by Marriott Philadelphia Airport",
+    "address": "3701 Island Ave, Philadelphia, PA, 19153 United States",
+    "distance": 1.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13130000/13125600/13125518/5de9e78a_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Embassy Suites Philadelphia - Airport",
+    "address": "9000 Bartram Avenue, Philadelphia, PA, 19153 United States",
+    "distance": 2.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2700/2610/c17298ff_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "Extended Stay America Philadelphia - Airport - Tinicum Blvd",
+    "address": "9000 Tinicum Blvd, Philadelphia, PA, 19153 United States",
+    "distance": 2.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/110000/104200/104135/104135_35_l.jpg"
+  },
+  {
+    "price": 128,
+    "name": "Aloft Philadelphia Airport",
+    "address": "4301 Island Ave, Philadelphia, PA, 19153 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1920000/1916900/1916897/e9dd3c81_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Four Points By Sheraton Philadelphia Airport",
+    "address": "4101a Island Ave, Philadelphia, PA, 19153 United States",
+    "distance": 2.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16100/16024/1efc2422_l.jpg"
+  }
+]

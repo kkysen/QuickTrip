@@ -1,0 +1,26 @@
+[
+  {
+    "price": 124,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Lansing-Leavenworth",
+    "address": "120 Express Dr, Lansing, KS, 66043 United States",
+    "distance": 0.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/116800/116737/116737_128_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Econo Lodge Lansing - Leavenworth",
+    "address": "504 N Main St, Lansing, KS, 66043 United States",
+    "distance": 0.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7500/7452/8378282b_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Condotels",
+    "address": "801 W. Eisenhower Rd, Lansing, KS, 66043 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8110000/8107900/8107875/8107875_7_l.jpg"
+  }
+]

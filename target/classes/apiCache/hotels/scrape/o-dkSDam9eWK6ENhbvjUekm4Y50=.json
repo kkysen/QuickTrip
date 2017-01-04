@@ -1,0 +1,82 @@
+[
+  {
+    "price": 129,
+    "name": "Hampton Inn Lehighton - Jim Thorpe",
+    "address": "877 Interchange Rd, Lehighton, PA, 18235 United States",
+    "distance": 6.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1110000/1103400/1103356/1103356_49_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Country Inn \u0026 Suites By Carlson, Lehighton (Jim Thorpe), PA",
+    "address": "1619 Interchange Rd, Lehighton, PA, 18235 United States",
+    "distance": 6.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1120000/1115400/1115322/1115322_54_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "Comfort Inn - Pocono Mountains",
+    "address": "At I 80 Rr 940, White Haven, PA, 18661 United States",
+    "distance": 10.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43500/43475/43475_51_l.jpg"
+  },
+  {
+    "price": 124,
+    "name": "Holiday Inn Express Hotel \u0026 Suites White Haven-Lake Harmony",
+    "address": "Route 940, Lake Harmony, PA, 18661 United States",
+    "distance": 10.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/898200/898108/898108_110_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Mountain Laurel Resort",
+    "address": "PA-940, White Haven, PA, 18661 United States",
+    "distance": 10.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4230000/4221400/4221333/4221333_36_l.jpg"
+  },
+  {
+    "price": 78,
+    "name": "Pocono Resort Conference Center",
+    "address": "Route 940, Lake Harmony, PA, 18624 United States",
+    "distance": 10.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4430000/4426100/4426028/4426028_70_l.jpg"
+  },
+  {
+    "price": 199,
+    "name": "Split Rock Resort",
+    "address": "100 Moseywood Road, Lake Harmony, PA, 18624 United States",
+    "distance": 10.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28100/28091/28091_34_l.jpg"
+  },
+  {
+    "price": 160,
+    "name": "Lake Harmony Inn",
+    "address": "90 N Lake Dr, Lake Harmony, PA, 18624 United States",
+    "distance": 11.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9460000/9451000/9450927/9450927_35_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Best Western Inn At Blakeslee-pocono",
+    "address": "Route 115, Blakeslee, PA, 18610 United States",
+    "distance": 12.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/470000/461200/461186/24e5d4cc_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Econo Lodge Inn And Suites",
+    "address": "Route 940 Hc 1 Box 35, White Haven, PA, 18661 United States",
+    "distance": 13.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1070000/1064300/1064277/ef39704f_l.jpg"
+  }
+]

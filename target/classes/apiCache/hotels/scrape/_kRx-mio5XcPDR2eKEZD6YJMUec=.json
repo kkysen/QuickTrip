@@ -1,0 +1,42 @@
+[
+  {
+    "price": 127,
+    "name": "Country Inn \u0026 Suites by Carlson Bel Air East- I-95 Riverside",
+    "address": "1435 Handlir Dr, Bel Air, MD, 21015 United States",
+    "distance": 5.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/891500/891451/891451_83_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "SpringHill Suites by Marriott Edgewood/Aberdeen",
+    "address": "1420 Handlir Dr, Bel Air, MD, 21015 United States",
+    "distance": 5.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/700000/696300/696211/59f892ed_l.jpg"
+  },
+  {
+    "price": 124,
+    "name": "Homewood Suites by Hilton Bel Air",
+    "address": "4170 Philadelphia Road, Bel Air, MD, 21015 United States",
+    "distance": 5.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2780000/2774600/2774553/2774553_5_l.jpg"
+  },
+  {
+    "price": 108,
+    "name": "Candlewood Suites Aberdeen - Edgewood-Bel Air",
+    "address": "4216 Philadelphia Rd, Bel Air, MD, 21015 United States",
+    "distance": 5.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2360000/2355900/2355869/2355869_141_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "Extended Stay America Baltimore - Bel Air- Aberdeen",
+    "address": "1361 James Way, Bel Air, MD, 21015 United States",
+    "distance": 5.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1160000/1157700/1157601/1157601_32_l.jpg"
+  }
+]

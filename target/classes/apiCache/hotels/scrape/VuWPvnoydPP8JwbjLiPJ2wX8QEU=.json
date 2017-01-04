@@ -1,0 +1,82 @@
+[
+  {
+    "price": 71,
+    "name": "WoodSpring Suites Fort Worth Trophy Club",
+    "address": "306 Trophy Branch Drive, Southlake, TX, 76092 United States",
+    "distance": 5.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1800000/1793100/1793070/d50d14a8_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Hampton Inn \u0026 Suites Trophy Club - Fort Worth North",
+    "address": "525 Plaza Drive, Trophy Club, Roanoke, TX, 76262 United States",
+    "distance": 5.1,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5960000/5955700/5955637/5955637_128_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "Homewood Suites by Hilton Trophy Club Fort Worth North",
+    "address": "2900 East Hwy 114, Trophy Club, Roanoke, TX, 76262 United States",
+    "distance": 5.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14890000/14885900/14885894/efd0d5fa_l.jpg"
+  },
+  {
+    "price": 239,
+    "name": "Dallas/Fort Worth Marriott Solana",
+    "address": "1301 Solana Boulevard, Building 3, Westlake, Roanoke, TX, 76262 United States",
+    "distance": 5.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26500/26418/7cc6a666_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Select Inn Lewisville",
+    "address": "200 N Stemmons Fwy, Lewisville, TX, 75067 United States",
+    "distance": 5.3,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8800/8775/8775_27_l.jpg"
+  },
+  {
+    "price": 309,
+    "name": "Gaylord Texan Resort \u0026 Convention Center",
+    "address": "1501 Gaylord Trl, Grapevine, TX, 76051 United States",
+    "distance": 5.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/990000/985100/985065/985065_151_l.jpg"
+  },
+  {
+    "price": 189,
+    "name": "SpringHill Suites by Marriott Dallas DFW Airport N/Grapevine",
+    "address": "2240 W Grapevine Mills Cir, Grapevine, TX, 76051 United States",
+    "distance": 5.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1100000/1097600/1097549/1097549_30_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Homewood Suites by Hilton Dallas-DFW Airport N-Grapevine",
+    "address": "2214 Grapevine Mills Circle West, Grapevine, TX, 76051 United States",
+    "distance": 5.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/790000/787600/787571/787571_10_l.jpg"
+  },
+  {
+    "price": 170,
+    "name": "Hyatt Place Dallas/Grapevine",
+    "address": "2220 W Grapevine Mills Cir, Grapevine, TX, 76051 United States",
+    "distance": 5.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/450000/445300/445281/445281_57_l.jpg"
+  },
+  {
+    "price": 44,
+    "name": "Econolodge",
+    "address": "881 S Stemmons Fwy, Lewisville, TX, 75067 United States",
+    "distance": 5.6,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/151500/151416/151416_30_l.jpg"
+  }
+]

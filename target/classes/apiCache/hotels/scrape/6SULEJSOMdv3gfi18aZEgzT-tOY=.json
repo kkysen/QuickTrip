@@ -1,0 +1,82 @@
+[
+  {
+    "price": 75,
+    "name": "Isola Bella",
+    "address": "6303 N.W. 63rd Street, Oklahoma City, OK, 73132 United States",
+    "distance": 1.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2830000/2824300/2824221/2824221_38_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "La Quinta Inn \u0026 Suites Oklahoma City NW Expwy",
+    "address": "4829 Nw Expressway, Oklahoma City, OK, 73132 United States",
+    "distance": 1.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/170000/165600/165560/7a82ef66_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Extended Stay America - Oklahoma City - Northwest",
+    "address": "4811 Nw Expressway, Oklahoma City, OK, 73132 United States",
+    "distance": 1.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/80900/80867/23eb945e_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Oklahoma City-Warr Acres",
+    "address": "5700 Northwest Expressway, Oklahoma City, OK, 73132 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3110000/3104800/3104755/31c8c823_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Oklahoma City - Bethany",
+    "address": "7840 Nw 39th Expy, Bethany, OK, 73008 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1740000/1730200/1730150/1730150_91_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Motel 6 Oklahoma City NW",
+    "address": "6600 Northwest Expressway, Oklahoma City, OK, 73132 United States",
+    "distance": 2.4,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9130000/9127800/9127752/9127752_13_l.jpg"
+  },
+  {
+    "price": 36,
+    "name": "WoodSpring Suites Oklahoma City Northwest",
+    "address": "3800 N I 44 Service Rd, Oklahoma City, OK, 73112 United States",
+    "distance": 2.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1390000/1385400/1385316/9387cac6_l.jpg"
+  },
+  {
+    "price": 82,
+    "name": "Tower Hotel Oklahoma City",
+    "address": "3233 Northwest Expressway, Oklahoma City, OK, 73112 United States",
+    "distance": 2.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22200/22191/22191_24_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Residence Inn by Marriott Oklahoma City Northwest",
+    "address": "3151 Northwest Expressway, Oklahoma City, OK, 73112 United States",
+    "distance": 2.7,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15710000/15701600/15701559/352db7b1_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Country Inn \u0026 Suites By Carlson NW Expressway Oklahoma City",
+    "address": "3141 Nw Expressway, Oklahoma City, OK, 73112 United States",
+    "distance": 2.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/854500/854401/854401_78_l.jpg"
+  }
+]

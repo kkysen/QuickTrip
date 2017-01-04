@@ -1,6 +1,6 @@
 package io.github.kkysen.quicktrip.apis.skyscanner.hotels.prices.response;
 
-import io.github.kkysen.quicktrip.apis.Json;
+import io.github.kkysen.quicktrip.json.Json;
 
 import com.google.gson.annotations.SerializedName;
 

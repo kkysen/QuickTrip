@@ -1,0 +1,82 @@
+[
+  {
+    "price": 69,
+    "name": "Best Western Grand Victorian Inn",
+    "address": "255 Spring St, Sayre, PA, 18840 United States",
+    "distance": 3.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12800/12722/12722_173_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Hampton Inn Sayre",
+    "address": "3080 Elmira St, Sayre, PA, 18840 United States",
+    "distance": 3.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1980000/1973100/1973027/1973027_31_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Candlewood Suites Sayre",
+    "address": "2775 Elmira St, Sayre, PA, 18840 United States",
+    "distance": 4.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7870000/7864800/7864723/6620d097_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Comfort Inn \u0026 Suites",
+    "address": "2160 Elmira Street, Sayre, PA, 18840 United States",
+    "distance": 4.0,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5810000/5809200/5809138/05c17405_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Microtel Inn And Suites Sayre PA",
+    "address": "1775 Elmira St, Sayre, PA, 18840 United States",
+    "distance": 4.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5460000/5453500/5453464/4b1f4a84_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "The BriMarie Inn",
+    "address": "119 South Elmer Avenue, Sayre, PA, 18840 United States",
+    "distance": 4.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9620000/9612500/9612424/9612424_16_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Sunrise Motel",
+    "address": "3778 Waverly Rd, Owego, NY, 13827 United States",
+    "distance": 12.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12340000/12333400/12333351/12333351_10_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "Holiday Inn Elmira - Riverview",
+    "address": "760 E Water St, Elmira, NY, 14901 United States",
+    "distance": 14.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24600/24579/24579_141_l.jpg"
+  },
+  {
+    "price": 123,
+    "name": "Hampton Inn Owego",
+    "address": "1030 State Route 17c, Owego, NY, 13827 United States",
+    "distance": 15.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1590000/1587200/1587117/1587117_4_l.jpg"
+  },
+  {
+    "price": 61,
+    "name": "Red Roof Inn \u0026 Suites Owego",
+    "address": "1100 State Route 17C, Owego, NY, 13827 United States",
+    "distance": 15.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/918200/918198/918198_30_l.jpg"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "price": 89,
+    "name": "La Quinta Inn \u0026 Suites Pampa",
+    "address": "500 W Harvester, Pampa, TX, 79065 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13350000/13340500/13340452/65f469d1_l.jpg"
+  },
+  {
+    "price": 94,
+    "name": "Hampton Inn Pampa TX",
+    "address": "2820 North Perryton Parkway, Pampa, TX, 79065 United States",
+    "distance": 12.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3130000/3123200/3123102/52c73fd5_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Best Western Northgate Inn",
+    "address": "2831 Perryton Pkwy, Pampa, TX, 79065 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15500/15412/15412_95_l.jpg"
+  }
+]

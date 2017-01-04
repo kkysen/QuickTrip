@@ -1,0 +1,82 @@
+[
+  {
+    "price": 59,
+    "name": "Super 8 Kingston",
+    "address": "487 Washington Ave, Kingston, NY, 12401 United States",
+    "distance": 1.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/897900/897881/f2ebd121_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Best Western Plus Kingston Hotel And Conference Center",
+    "address": "503 Washington Ave, Kingston, NY, 12401 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6100/6056/c8a53015_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "114 State Route 28, Kingston, NY, 12401 United States",
+    "distance": 2.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6600/6536/6536_94_l.jpg"
+  },
+  {
+    "price": 154,
+    "name": "Courtyard by Marriott Kingston",
+    "address": "500 Frank Sottile Blvd, Kingston, NY, 12401 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1370000/1364000/1363973/1363973_54_l.jpg"
+  },
+  {
+    "price": 49,
+    "name": "Rodeway Inn Skytop",
+    "address": "239 Forest Hill Dr, Kingston, NY, 12401 United States",
+    "distance": 2.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2310000/2301400/2301399/2301399_14_l.jpg"
+  },
+  {
+    "price": 132,
+    "name": "Hampton Inn Kingston",
+    "address": "1307 Ulster Ave, Kingston, NY, 12401 United States",
+    "distance": 2.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1670000/1662000/1661941/1661941_4_l.jpg"
+  },
+  {
+    "price": 152,
+    "name": "Residence Inn by Marriott Kingston",
+    "address": "800 Frank Sottile Boulevard, Kingston, NY, 12401 United States",
+    "distance": 3.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15720000/15715300/15715238/c877642b_l.jpg"
+  },
+  {
+    "price": 145,
+    "name": "Twin Lakes Lodge",
+    "address": "198 Heritage Dr, Kingston, NY, 12443 United States",
+    "distance": 4.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15770000/15760600/15760512/15760512_1_l.jpg"
+  },
+  {
+    "price": 209,
+    "name": "Hotel Dylan",
+    "address": "320 Maverick Road, Woodstock, NY, 12498 United States",
+    "distance": 8.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13170000/13166800/13166724/7a1f24b5_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Wenton Motel",
+    "address": "3127 Route 9w, Saugerties, NY, 12477 United States",
+    "distance": 9.1,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4770000/4764200/4764114/71a0e829_l.jpg"
+  }
+]

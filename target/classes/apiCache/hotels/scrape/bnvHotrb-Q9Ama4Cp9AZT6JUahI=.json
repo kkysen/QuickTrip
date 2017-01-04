@@ -1,0 +1,58 @@
+[
+  {
+    "price": 87,
+    "name": "Sleep Inn",
+    "address": "109 City Cir, Peachtree City, GA, 30269 United States",
+    "distance": 0.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/85000/84973/8b730066_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Hampton Inn Atlanta/Peachtree City",
+    "address": "300 Westpark Dr, Peachtree City, GA, 30269 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19000/19000/19000_7_l.jpg"
+  },
+  {
+    "price": 142,
+    "name": "Crowne Plaza Atlanta SW - Peachtree City",
+    "address": "201 Aberdeen Parkway, Peachtree City, GA, 30269 United States",
+    "distance": 0.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1830000/1828400/1828363/1828363_79_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Hilton Garden Inn Atlanta/Peachtree City",
+    "address": "2010 N Commerce Drive, Peachtree City, GA, 30269 United States",
+    "distance": 0.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3480000/3470500/3470451/3470451_36_l.jpg"
+  },
+  {
+    "price": 143,
+    "name": "Wyndham Peachtree Hotel and Conference Center",
+    "address": "2443 Highway 54 West, Peachtree City, GA, 30269 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/34500/34487/34487_769_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Days Inn And Suites Peachtree City",
+    "address": "976 Crosstown Rd, Peachtree City, GA, 30269 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/531800/531782/531782_158_l.jpg"
+  },
+  {
+    "price": 153,
+    "name": "Holiday Inn Hotel \u0026 Suites Peachtree City",
+    "address": "203 Newgate Road, Peachtree City, GA, 30269 United States",
+    "distance": 2.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/61000/60976/60976_171_l.jpg"
+  }
+]

@@ -32,6 +32,7 @@ public class Hotels implements AnnealingState {
         size = dests.size();
         pools = new ArrayList<>(size);
         numDays = new ArrayList<>(size);
+        avgRatings = new ArrayList<>(size);
         
         // getPossibleHotels takes a while, so did it parallel
         // b/c parallel, order won't be defined it use dests::add
@@ -45,13 +46,13 @@ public class Hotels implements AnnealingState {
                 .forEach(i -> {
                     final Destination dest = dests.get(i);
                     dest.addHotelsHotelsScrapeRequest();
-                    List<Hotel> possibleHotels = dest.getPossibleHotels();
+                    final List<Hotel> possibleHotels = dest.getPossibleHotels();
                     pools.set(i, possibleHotels);
                     double totalRating = 0;
-                    for (Hotel hotel : possibleHotels) {
+                    for (final Hotel hotel : possibleHotels) {
                         totalRating += hotel.getRating();
                     }
-                    double avgRating = totalRating / possibleHotels.size();
+                    final double avgRating = totalRating / possibleHotels.size();
                     avgRatings.set(i, avgRating);
                 });
         
@@ -82,6 +83,7 @@ public class Hotels implements AnnealingState {
         size = other.size;
         pools = other.pools;
         numDays = other.numDays;
+        avgRatings = other.avgRatings;
         maxRating = other.maxRating;
         budget = other.budget;
         hotels = new ArrayList<>(other.hotels);
@@ -127,14 +129,14 @@ public class Hotels implements AnnealingState {
     }
     
     private double ratingEnergy() {
-        //final double ratingDiff = totalRating() - maxRating;
-        //return -Math.exp(-ratingDiff);
-        int totalRatingDiff = 0;
-        for (int i = 0; i < size; i++) {
-            double ratingDiff = hotels.get(i).getRating() * numDays.get(i);
-            totalRatingDiff = avgRatings.get(i) - ratingDiff;
-        }
-        return Math.pow(totalRatingDiff / maxRating, 3) * RATING_SCALE_FACTOR;
+        final double ratingDiff = totalRating() - maxRating;
+        return -Math.exp(-ratingDiff);
+//        double totalRatingDiff = 0;
+//        for (int i = 0; i < size; i++) {
+//            final double ratingDiff = hotels.get(i).getRating() * numDays.get(i);
+//            totalRatingDiff = avgRatings.get(i) - ratingDiff;
+//        }
+//        return Math.pow(totalRatingDiff / maxRating, 3) * RATING_SCALE_FACTOR;
     }
     
     @Override

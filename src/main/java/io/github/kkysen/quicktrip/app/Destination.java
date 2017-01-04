@@ -2,6 +2,7 @@ package io.github.kkysen.quicktrip.app;
 
 import io.github.kkysen.quicktrip.apis.ApiRequest;
 import io.github.kkysen.quicktrip.apis.hotels.scrape.HotelsHotelsScrapeRequest;
+import io.github.kkysen.quicktrip.apis.hotels.secret.HotelsHotelsSecretRequest;
 
 import java.io.IOException;
 import java.time.LocalDate;
@@ -54,12 +55,17 @@ public class Destination {
         addHotelsRequest(new HotelsHotelsScrapeRequest(this));
     }
     
+    public void addHotelHotelsSecretRequest() {
+        addHotelsRequest(new HotelsHotelsSecretRequest(this, 1000));
+    }
+    
     public static void main(final String[] args) {
         final long start = System.currentTimeMillis();
-        final Destination dest = new Destination("Brooklyn, NY", 5, LocalDate.parse("2017-01-03"),
-                LocalDate.parse("2017-01-07"), 2);
+        final Destination dest = new Destination("Brooklyn, NY", 5, LocalDate.parse("2017-01-05"),
+                LocalDate.parse("2017-01-08"), 2);
         //dest.possibleHotels().forEach(System.out::println);
-        dest.addHotelsHotelsScrapeRequest();
+        //dest.addHotelsHotelsScrapeRequest();
+        dest.addHotelHotelsSecretRequest();
         final List<Hotel> hotels = dest.getPossibleHotels();
         System.out.println(hotels.get(0));
         for (final Hotel hotel : dest.getPossibleHotels()) {

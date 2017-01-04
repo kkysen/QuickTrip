@@ -1,0 +1,82 @@
+[
+  {
+    "price": 95,
+    "name": "Comfort Suites",
+    "address": "1345 N Baldwin Ave, Marion, IN, 46952 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28000/27961/27961_81_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Hampton Inn Marion",
+    "address": "1502 N Baldwin Ave, Marion, IN, 46952 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/282000/281925/281925_58_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Econo Lodge",
+    "address": "1615 N Baldwin Ave, Marion, IN, 46952 United States",
+    "distance": 1.7,
+    "rating": 2.0,
+    "imgUrl": ""
+  },
+  {
+    "price": 70,
+    "name": "Americas Best Value Inn \u0026 Suites",
+    "address": "6138 East Corridor Drive, Marion, IN, 46953 United States",
+    "distance": 5.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/796900/796871/796871_120_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Holiday Inn Express Gas City",
+    "address": "4914 N Beaner Blvd, Gas City, IN, 46933 United States",
+    "distance": 7.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1070000/1062900/1062830/1062830_164_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Best Western Plus Gas City",
+    "address": "4936 Kay Bee Drive, Gas City, IN, 46953 United States",
+    "distance": 7.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84400/84381/edce8137_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Super 8 Gas City Marion Area",
+    "address": "5172 Kaybee Dr, I-69 Exit 259, SR 22, Gas City, IN, 46953 United States",
+    "distance": 8.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/320000/317100/317042/7553ae14_l.jpg"
+  },
+  {
+    "price": 46,
+    "name": "Huggy Bear Motel",
+    "address": "7588 S Warren Rd, Warren, IN, 46792 United States",
+    "distance": 16.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6200000/6193600/6193547/9a7e7169_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Comfort Inn",
+    "address": "7275 S County Rd 75 E, Exit 78, I-69, Warren, IN, 46792 United States",
+    "distance": 16.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1220000/1216300/1216226/1216226_35_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Charley Creek Inn",
+    "address": "111 W Market St, Wabash, IN, 46992 United States",
+    "distance": 19.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3630000/3621800/3621728/3621728_45_l.jpg"
+  }
+]

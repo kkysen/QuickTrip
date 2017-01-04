@@ -1,0 +1,34 @@
+[
+  {
+    "price": 130,
+    "name": "The Historic Clewiston Inn",
+    "address": "108 Royal Palm Avenue, Clewiston, FL, 33440 United States",
+    "distance": 18.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1870000/1861600/1861598/1861598_49_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Executive Royal Inn Clewiston",
+    "address": "335 W Sugarland Hwy, Clewiston, FL, 33440 United States",
+    "distance": 18.0,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2190000/2184200/2184179/2184179_29_l.jpg"
+  },
+  {
+    "price": 160,
+    "name": "Best Western Of Clewiston",
+    "address": "1020 W Sugarland Highway, Clewiston, FL, 33440 United States",
+    "distance": 18.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/203500/203500/56227947_l.jpg"
+  },
+  {
+    "price": 188,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Clewiston",
+    "address": "1024 W Sugarland Hwy, Clewiston, FL, 33440 United States",
+    "distance": 19.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1450000/1445800/1445727/1445727_163_l.jpg"
+  }
+]

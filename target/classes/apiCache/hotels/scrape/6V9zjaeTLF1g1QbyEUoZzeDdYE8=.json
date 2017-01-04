@@ -1,0 +1,82 @@
+[
+  {
+    "price": 97,
+    "name": "Four Points by Sheraton Houston Greenway Plaza",
+    "address": "2828 Southwest Fwy, Houston, TX, 77098 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/990000/983300/983269/983269_51_l.jpg"
+  },
+  {
+    "price": 133,
+    "name": "Crowne Plaza Houston River Oaks",
+    "address": "2712 Southwest Fwy, Houston, TX, 77098 United States",
+    "distance": 1.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28100/28060/84582d2a_l.jpg"
+  },
+  {
+    "price": 326,
+    "name": "The St. Regis Houston",
+    "address": "1919 Briar Oaks Ln, Houston, TX, 77027 United States",
+    "distance": 1.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15000/14958/14958_366_l.jpg"
+  },
+  {
+    "price": 193,
+    "name": "DoubleTree by Hilton Hotel Houston - Greenway Plaza",
+    "address": "6 Greenway Plaza East, Houston, TX, 77046 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20200/20177/ca5d42b2_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "Extended Stay America - Houston - Greenway Plaza",
+    "address": "2330 Southwest Fwy, Houston, TX, 77098 United States",
+    "distance": 1.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/127000/126962/126962_55_l.jpg"
+  },
+  {
+    "price": 239,
+    "name": "Courtyard by Marriott Houston West University",
+    "address": "2929 Westpark Dr, Houston, TX, 77005 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/990000/982600/982518/982518_12_l.jpg"
+  },
+  {
+    "price": 199,
+    "name": "Residence Inn by Marriott Houston West University",
+    "address": "2939 Westpark Dr, Houston, TX, 77005 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/990000/984900/984887/984887_40_l.jpg"
+  },
+  {
+    "price": 111,
+    "name": "Hampton Inn Houston Galleria",
+    "address": "4500 Post Oak Pkwy, Houston, TX, 77027 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28100/28077/28077_76_l.jpg"
+  },
+  {
+    "price": 132,
+    "name": "Drury Inn \u0026 Suites Houston Galleria",
+    "address": "1615 West Loop South, Houston, TX, 77027 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41200/41180/41180_108_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "La Quinta Inn \u0026 Suites Houston Galleria Area",
+    "address": "1625 West Loop S, Houston, TX, 77027 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84800/84738/84738_172_l.jpg"
+  }
+]

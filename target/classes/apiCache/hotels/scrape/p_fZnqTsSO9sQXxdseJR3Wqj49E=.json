@@ -1,0 +1,26 @@
+[
+  {
+    "price": 68,
+    "name": "Quality Inn Magnolia",
+    "address": "411 E Main St, Magnolia, AR, 71753 United States",
+    "distance": 0.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/50000/49915/49915_20_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Magnolia-Lake Columbia",
+    "address": "1604 E Main Street, Magnolia, AR, 71753 United States",
+    "distance": 0.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1130000/1124300/1124292/1124292_128_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Hampton Inn Magnolia",
+    "address": "128 Hwy 79 Bypass North, Magnolia, AR, 71753 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5660000/5659300/5659297/5659297_5_l.jpg"
+  }
+]

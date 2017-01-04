@@ -1,0 +1,82 @@
+[
+  {
+    "price": 87,
+    "name": "Gateway Inn",
+    "address": "4657 W 95th Street, Oak Lawn, IL, 60453 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5540000/5538000/5537993/5537993_1_l.jpg"
+  },
+  {
+    "price": 212,
+    "name": "Hilton Chicago/Oak Lawn",
+    "address": "9333 S Cicero Ave, Oak Lawn, IL, 60453 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17700/17618/17618_84_l.jpg"
+  },
+  {
+    "price": 160,
+    "name": "Best Western Inn \u0026 Suites - Midway Airport",
+    "address": "8220 S Cicero Ave, Burbank, IL, 60459 United States",
+    "distance": 2.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/520000/517500/517495/517495_150_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Quality Inn Midway Airport",
+    "address": "7353 S Cicero Avenue, Chicago, IL, 60629 United States",
+    "distance": 3.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2200/2190/cf048ae4_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Extended Stay America Chicago - Midway",
+    "address": "7524 State Rd, Bedford Park, Chicago, IL, 60638 United States",
+    "distance": 3.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/970000/969600/969522/969522_25_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Sleep Inn Midway Airport Bedford Park",
+    "address": "6650 S Cicero Ave, Chicago, IL, 60638 United States",
+    "distance": 4.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27900/27873/27873_53_l.jpg"
+  },
+  {
+    "price": 203,
+    "name": "Residence Inn Marriott Chicago Midway",
+    "address": "6638 S Cicero Ave, Chicago, IL, 60638 United States",
+    "distance": 4.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2140000/2132100/2132096/c366fe65_l.jpg"
+  },
+  {
+    "price": 184,
+    "name": "Fairfield Inn and Suites by Marriott Chicago Midway Airport",
+    "address": "6630 S Cicero Ave, Chicago, IL, 60638 United States",
+    "distance": 4.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/64200/64177/64177_81_l.jpg"
+  },
+  {
+    "price": 203,
+    "name": "Hyatt Place Chicago Midway Airport",
+    "address": "6550 S Cicero Ave, Chicago, IL, 60638 United States",
+    "distance": 4.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9740000/9735000/9734905/9734905_35_l.jpg"
+  },
+  {
+    "price": 191,
+    "name": "Courtyard Chicago Midway Airport",
+    "address": "6610 S Cicero Ave, Chicago, IL, 60638 United States",
+    "distance": 4.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/64200/64153/3300eb6a_l.jpg"
+  }
+]

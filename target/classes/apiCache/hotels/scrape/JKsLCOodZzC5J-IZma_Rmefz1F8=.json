@@ -1,0 +1,18 @@
+[
+  {
+    "price": 126,
+    "name": "Homewood Suites by Hilton Aliso Viejo - Laguna Beach",
+    "address": "110 Vantis Drive, Aliso Viejo, CA, 92656 United States",
+    "distance": 0.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12680000/12678100/12678001/12678001_2_l.jpg"
+  },
+  {
+    "price": 277,
+    "name": "Renaissance ClubSport Aliso Viejo Laguna Beach Hotel",
+    "address": "50 Enterprise, Aliso Viejo, CA, 92656 United States",
+    "distance": 0.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2050000/2048100/2048020/2048020_101_l.jpg"
+  }
+]

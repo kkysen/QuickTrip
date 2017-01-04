@@ -1,0 +1,474 @@
+{
+  "hotels_prices": [
+    {
+      "id": 46985037,
+      "agent_prices": [
+        {
+          "id": 239,
+          "price_total": 972
+        }
+      ]
+    },
+    {
+      "id": 46944653,
+      "agent_prices": [
+        {
+          "id": 106,
+          "price_total": 885
+        }
+      ]
+    },
+    {
+      "id": 46959471,
+      "agent_prices": [
+        {
+          "id": 106,
+          "price_total": 534
+        }
+      ]
+    },
+    {
+      "id": 46954935,
+      "agent_prices": [
+        {
+          "id": 106,
+          "price_total": 498
+        }
+      ]
+    },
+    {
+      "id": 128471122,
+      "agent_prices": [
+        {
+          "id": 106,
+          "price_total": 498
+        }
+      ]
+    },
+    {
+      "id": 115085641,
+      "agent_prices": [
+        {
+          "id": 106,
+          "price_total": 484
+        }
+      ]
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Andaz Wall Street - A Hyatt Hotel",
+      "hotel_id": 46985037,
+      "address": ", ",
+      "popularity": 90,
+      "amenities": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "latitude": 40.70531,
+      "longitude": -74.00792,
+      "star_rating": 4.0,
+      "distance_from_search": 0.847
+    },
+    {
+      "name": "Millenium Hilton",
+      "hotel_id": 46944653,
+      "address": ", ",
+      "popularity": 82,
+      "amenities": [
+        30,
+        0,
+        3,
+        4,
+        5,
+        8,
+        31,
+        10,
+        32,
+        11,
+        12,
+        23,
+        14,
+        33,
+        15,
+        16,
+        17,
+        28,
+        19,
+        34,
+        20,
+        35,
+        13,
+        22,
+        36,
+        25,
+        26,
+        21
+      ],
+      "latitude": 40.7112,
+      "longitude": -74.01046,
+      "star_rating": 4.0,
+      "distance_from_search": 0.892
+    },
+    {
+      "name": "Hampton Inn Seaport Financial District",
+      "hotel_id": 46959471,
+      "address": ", ",
+      "popularity": 80,
+      "amenities": [
+        17,
+        37,
+        1,
+        28,
+        20,
+        3,
+        10,
+        4,
+        25,
+        26,
+        11,
+        18,
+        8,
+        5,
+        6,
+        38,
+        21,
+        22,
+        13,
+        16
+      ],
+      "latitude": 40.70895,
+      "longitude": -74.00217,
+      "star_rating": 3.0,
+      "distance_from_search": 0.217
+    },
+    {
+      "name": "Holiday Inn Wall Street",
+      "hotel_id": 46954935,
+      "address": ", ",
+      "popularity": 76,
+      "amenities": [
+        17,
+        0,
+        20,
+        23,
+        5,
+        3,
+        18,
+        4,
+        25,
+        26,
+        11,
+        8,
+        14,
+        6,
+        38,
+        19
+      ],
+      "latitude": 40.70897,
+      "longitude": -74.00909,
+      "star_rating": 3.0,
+      "distance_from_search": 0.776
+    },
+    {
+      "name": "Holiday Inn Express New York City-Wall Street",
+      "hotel_id": 128471122,
+      "address": ", ",
+      "popularity": 80,
+      "amenities": [
+        17,
+        30,
+        35,
+        3,
+        18,
+        4,
+        11,
+        23,
+        5,
+        21,
+        28,
+        16
+      ],
+      "latitude": 40.70554,
+      "longitude": -74.00718,
+      "star_rating": 3.0,
+      "distance_from_search": 0.783
+    },
+    {
+      "name": "Fairfield Inn \u0026 Suites New York Manhattan/Downtown East",
+      "hotel_id": 115085641,
+      "address": ", ",
+      "popularity": 82,
+      "amenities": [
+        17,
+        5,
+        18,
+        4,
+        10,
+        39,
+        11,
+        20,
+        26,
+        6,
+        38,
+        21,
+        16
+      ],
+      "latitude": 40.71318,
+      "longitude": -73.9929,
+      "star_rating": 2.0,
+      "distance_from_search": 0.696
+    }
+  ],
+  "amenities": [
+    {
+      "id": 0,
+      "name": "Express check-out",
+      "key": "EXPRESSCHECKOUTSERVICE"
+    },
+    {
+      "id": 1,
+      "name": "Pets allowed",
+      "key": "PETSALLOWEDSERVICE"
+    },
+    {
+      "id": 2,
+      "name": "Satellite TV",
+      "key": "SATELLITETV"
+    },
+    {
+      "id": 30,
+      "name": "ATM machine",
+      "key": "CASHMACHINE"
+    },
+    {
+      "id": 3,
+      "name": "24-hour Front Desk Service",
+      "key": "FRONTDESK24HSERVICE"
+    },
+    {
+      "id": 4,
+      "name": "Laundry",
+      "key": "LAUNDRY"
+    },
+    {
+      "id": 5,
+      "name": "WiFi",
+      "key": "WIFISERVICE"
+    },
+    {
+      "id": 6,
+      "name": "Luggage storage",
+      "key": "LUGGAGESTORAGE"
+    },
+    {
+      "id": 7,
+      "name": "Bathrobe",
+      "key": "BATHROBESERVICE"
+    },
+    {
+      "id": 8,
+      "name": "Elevator",
+      "key": "LIFT"
+    },
+    {
+      "id": 42,
+      "name": "Telephone",
+      "key": "TELEPHONE"
+    },
+    {
+      "id": 37,
+      "name": "Balcony",
+      "key": "BALCONY"
+    },
+    {
+      "id": 31,
+      "name": "Television",
+      "key": "TELEVISION"
+    },
+    {
+      "id": 9,
+      "name": "Minibar",
+      "key": "MINIBAR"
+    },
+    {
+      "id": 43,
+      "name": "Baby-sitting",
+      "key": "BABYSITTINGSERVICE"
+    },
+    {
+      "id": 10,
+      "name": "Meeting facilities",
+      "key": "MEETINGROOM"
+    },
+    {
+      "id": 32,
+      "name": "Indoor pool",
+      "key": "INDOORSWIMMINGPOOL"
+    },
+    {
+      "id": 11,
+      "name": "Business center",
+      "key": "BUSINESSCENTER"
+    },
+    {
+      "id": 12,
+      "name": "Currency exchange",
+      "key": "CURRENCYEXCHANGESERVICE"
+    },
+    {
+      "id": 23,
+      "name": "Express check-in",
+      "key": "EXPRESSCHECKINSERVICE"
+    },
+    {
+      "id": 14,
+      "name": "Restaurant",
+      "key": "RESTAURANT"
+    },
+    {
+      "id": 33,
+      "name": "Limousine",
+      "key": "LIMOUSINESERVICE"
+    },
+    {
+      "id": 15,
+      "name": "Hairdryer",
+      "key": "HAIRDRYER"
+    },
+    {
+      "id": 16,
+      "name": "Daily newspaper",
+      "key": "DAILYNEWSPAPERSERVICE"
+    },
+    {
+      "id": 17,
+      "name": "Fitness Center",
+      "key": "FITNESSCENTER"
+    },
+    {
+      "id": 28,
+      "name": "Multilingual staff",
+      "key": "MULTILINGUALSTAFFSERVICE"
+    },
+    {
+      "id": 40,
+      "name": "Valet parking",
+      "key": "VALETPARKINGSERVICE"
+    },
+    {
+      "id": 18,
+      "name": "Non-smoking",
+      "key": "NONSMOKINGSERVICE"
+    },
+    {
+      "id": 19,
+      "name": "Bar",
+      "key": "BAR"
+    },
+    {
+      "id": 34,
+      "name": "Pool",
+      "key": "POOL"
+    },
+    {
+      "id": 20,
+      "name": "Parking",
+      "key": "PARKING"
+    },
+    {
+      "id": 35,
+      "name": "Shops",
+      "key": "SHOP"
+    },
+    {
+      "id": 13,
+      "name": "Conference facilities",
+      "key": "CONFERENCEFACILITY"
+    },
+    {
+      "id": 41,
+      "name": "Library",
+      "key": "LIBRARY"
+    },
+    {
+      "id": 22,
+      "name": "Concierge",
+      "key": "CONCIERGESERVICE"
+    },
+    {
+      "id": 36,
+      "name": "Wedding facilities",
+      "key": "WEDDINGFACILITY"
+    },
+    {
+      "id": 39,
+      "name": "Handicap Accessible",
+      "key": "DISABLEDFACILITY"
+    },
+    {
+      "id": 24,
+      "name": "Desk",
+      "key": "DESK"
+    },
+    {
+      "id": 25,
+      "name": "Room service",
+      "key": "ROOMSERVICE"
+    },
+    {
+      "id": 26,
+      "name": "Air conditioning",
+      "key": "AIRCONDITIONING"
+    },
+    {
+      "id": 27,
+      "name": "Spa",
+      "key": "SPA"
+    },
+    {
+      "id": 38,
+      "name": "Internet access",
+      "key": "INTERNETACCESSSERVICE"
+    },
+    {
+      "id": 21,
+      "name": "Safe deposit box",
+      "key": "SAFEDEPOSITBOX"
+    }
+  ],
+  "places": [],
+  "urls": {
+    "hotel_details": "/apiservices/hotels/livedetails/v2/details/H4sIAAAAAAAEAE3IsQqAMBAD0H_JfC13tVra2T-oTiLi4FbORSfx3y1OhZCE9-BEWjBnEA41_855rF32a_Nsg1A5dTPBW67qWIJhMTJMzOlPq7FRR0KQjlw9vYD0LmUlKJK4Lob3AwcbHHV7AAAA0?apikey\u003d_RRfyd6UoXFf-fGw-IEfhESQC0nnUvtAfj87hPBOutfljtWfi8Ujge4UW03f22RijzNiQ04ianK3g8wtwKct3ag%3D%3D"
+  },
+  "status": "PENDING",
+  "total_hotels": 91,
+  "total_available_hotels": 6
+}

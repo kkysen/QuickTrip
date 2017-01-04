@@ -1,0 +1,74 @@
+[
+  {
+    "price": 55,
+    "name": "Americas Best Value Inn Woodward",
+    "address": "910 NW Highway 270, Woodward, OK, 73801 United States",
+    "distance": 3.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8710000/8702000/8701915/8701915_5_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Candlewood Suites Woodward",
+    "address": "3350 Oklahoma Ave, Woodward, OK, 73801 United States",
+    "distance": 3.6,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6630000/6622800/6622783/6622783_28_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Sands Inn \u0026 Kitchen Suites",
+    "address": "2325 Oklahoma Ave, Woodward, OK, 73801 United States",
+    "distance": 3.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12260000/12254600/12254595/12254595_1_l.jpg"
+  },
+  {
+    "price": 44,
+    "name": "RED COUNTRY INN",
+    "address": "2314 8th Street, Woodward, OK, 73801 United States",
+    "distance": 4.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9660000/9659600/9659552/9659552_55_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Hampton Inn \u0026 Suites Woodward",
+    "address": "2814 Williams Avenue, Woodward, OK, 73801 United States",
+    "distance": 5.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2850000/2840600/2840560/2840560_7_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "La Quinta Inn \u0026 Suites Woodward",
+    "address": "3410 Williams Ave, Woodward, OK, 73810 United States",
+    "distance": 5.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2850000/2841700/2841620/2b1921e6_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Comfort Inn \u0026 Suites",
+    "address": "2930 Williams Ave, Woodward, OK, 73801 United States",
+    "distance": 5.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10350000/10344600/10344556/10344556_17_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Northwest Inn",
+    "address": "3202 1st St, Woodward, OK, 73802 United States",
+    "distance": 5.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/897700/897624/897624_46_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Holiday Inn Express \u0026 Suites Woodward",
+    "address": "3333 Williams Ave, Woodward, OK, 73801 United States",
+    "distance": 5.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1440000/1431900/1431859/2a1b9a98_l.jpg"
+  }
+]

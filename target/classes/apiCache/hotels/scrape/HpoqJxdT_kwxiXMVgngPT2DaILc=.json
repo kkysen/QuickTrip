@@ -1,0 +1,42 @@
+[
+  {
+    "price": 84,
+    "name": "Laguna Hills Lodge",
+    "address": "23932 Paseo De Valencia, Laguna Hills, CA, 92653 United States",
+    "distance": 1.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1870000/1864000/1863932/9d1a0297_l.jpg"
+  },
+  {
+    "price": 156,
+    "name": "Courtyard by Marriott Laguna Hills Irvine Spectrum",
+    "address": "23175 Avenida De La Carlota, Laguna Hills, CA, 92653 United States",
+    "distance": 1.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10600/10566/7c1f6951_l.jpg"
+  },
+  {
+    "price": 131,
+    "name": "The Hills Hotel, an Ascend Hotel Collection Member",
+    "address": "25205 La Paz Rd, Laguna Hills, CA, 92653 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17100/17012/fb2c63b1_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Comfort Inn Laguna Hills at Irvine Spectrum",
+    "address": "23061 Avenida De La Carlota, Laguna Hills, CA, 92653 United States",
+    "distance": 2.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9500/9410/9410_113_l.jpg"
+  },
+  {
+    "price": 147,
+    "name": "Fairfield Inn by Marriott Mission Viejo / Orange County",
+    "address": "26328 Oso Pkwy, Mission Viejo, CA, 92691 United States",
+    "distance": 2.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24400/24308/24308_14_l.jpg"
+  }
+]

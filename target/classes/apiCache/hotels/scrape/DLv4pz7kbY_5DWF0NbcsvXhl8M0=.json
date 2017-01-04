@@ -1,0 +1,18 @@
+[
+  {
+    "price": 92,
+    "name": "Four Points by Sheraton Buffalo Grove",
+    "address": "900 West Lake Cook Road, Buffalo Grove, IL, 60089 United States",
+    "distance": 1.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17000/16965/bcd00be4_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Extended Stay America Chicago - Buffalo Grove - Deerfield",
+    "address": "1525 Busch Pkwy, Buffalo Grove, IL, 60089 United States",
+    "distance": 1.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/110000/104100/104089/104089_49_l.jpg"
+  }
+]

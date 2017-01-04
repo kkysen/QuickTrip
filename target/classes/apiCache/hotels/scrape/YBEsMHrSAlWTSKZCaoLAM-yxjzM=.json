@@ -1,0 +1,82 @@
+[
+  {
+    "price": 110,
+    "name": "Hampton Inn and Suites Owensboro/Downtown-Waterfront",
+    "address": "401 West 2nd Street, Owensboro, KY, 42301 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6970000/6963800/6963707/6963707_16_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Holiday Inn Owensboro Dwtn - Ohio River",
+    "address": "701 West 1st Street, Owensboro, KY, 42301 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9270000/9270000/9269913/9269913_76_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Ramada Owensboro",
+    "address": "3136 W 2nd St, Owensboro, KY, 42301 United States",
+    "distance": 2.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22000/21971/17b23d7a_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Wingfield Inn \u0026 Suites",
+    "address": "3220 W Parrish Ave, Owensboro, KY, 42301 United States",
+    "distance": 2.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/63100/63087/63087_120_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "Courtyard by Marriott Owensboro",
+    "address": "3120 Highland Pointe Dr, Owensboro, KY, 42303 United States",
+    "distance": 2.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3640000/3633300/3633211/3633211_23_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Sleep Inn",
+    "address": "51 Bon Harbor Hls, Owensboro, KY, 42301 United States",
+    "distance": 2.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/300000/296100/296068/296068_104_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Days Inn Owensboro",
+    "address": "3720 New Hartford Rd, US-231S and US-60 Bypass, Owensboro, KY, 42303 United States",
+    "distance": 3.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3600/3567/bbb0ab70_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Hampton Inn Owensboro South",
+    "address": "615 Salem Drive, Owensboro, KY, 42303 United States",
+    "distance": 3.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18700/18617/18617_23_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Super 8 Owensboro",
+    "address": "1027 Goetz Dr, By-pass 60, Exit 14 Frederica, Owensboro, KY, 42301-7461 United States",
+    "distance": 3.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/49900/49863/d2b1ee84_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Fairfield Inn by Marriott Owensboro",
+    "address": "800 Salem Dr, Owensboro, KY, 42303 United States",
+    "distance": 3.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/64200/64180/64180_61_l.jpg"
+  }
+]

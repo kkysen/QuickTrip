@@ -1,0 +1,26 @@
+[
+  {
+    "price": 70,
+    "name": "Sunset Motel",
+    "address": "1210 E. Hwy #2, Alliance, NE, United States",
+    "distance": 2.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14810000/14805700/14805673/ac748df8_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Alliance Hotel And Suites",
+    "address": "117 Cody Ave, Alliance, NE, 69301 United States",
+    "distance": 3.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42700/42622/42622_72_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "American Inn",
+    "address": "1419 West Third Street, Alliance, NE, 69301 United States",
+    "distance": 3.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459600/459507/459507_1_l.jpg"
+  }
+]

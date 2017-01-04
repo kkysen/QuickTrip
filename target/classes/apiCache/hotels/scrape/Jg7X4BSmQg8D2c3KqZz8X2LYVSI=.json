@@ -1,0 +1,26 @@
+[
+  {
+    "price": 46,
+    "name": "Royal Inn",
+    "address": "144 E Dykes Street, Cochran, GA, 31014 United States",
+    "distance": 16.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3180000/3173300/3173211/3173211_6_l.jpg"
+  },
+  {
+    "price": 46,
+    "name": "Americas Best Value Inn",
+    "address": "20 North Warren Street, Hawkinsville, GA, 31036 United States",
+    "distance": 17.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2030000/2027100/2027061/2027061_3_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Magnolia Inn",
+    "address": "149 East Oak Street, McRae, GA, 31055 United States",
+    "distance": 20.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11240000/11237100/11237078/11237078_8_l.jpg"
+  }
+]

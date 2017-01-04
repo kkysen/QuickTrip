@@ -1,0 +1,26 @@
+[
+  {
+    "price": 140,
+    "name": "AmericInn Lodge \u0026 Suites Hailey - Sun Valley",
+    "address": "51 Cobblestone Ln, Hailey, ID, 83333 United States",
+    "distance": 7.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1520000/1518000/1517979/1517979_3_l.jpg"
+  },
+  {
+    "price": 117,
+    "name": "Wood River Inn \u0026 Suites",
+    "address": "601 N Main St, Hailey, ID, 83333 United States",
+    "distance": 7.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4970000/4966600/4966582/a0f6db41_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Airport Inn",
+    "address": "820 4th Avenue South, Hailey, ID, 83333 United States",
+    "distance": 7.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2520000/2512900/2512810/2512810_11_l.jpg"
+  }
+]

@@ -1,7 +1,7 @@
 package io.github.kkysen.quicktrip.apis.hotels.secret;
 
-import io.github.kkysen.quicktrip.apis.Json;
 import io.github.kkysen.quicktrip.app.Hotel;
+import io.github.kkysen.quicktrip.json.Json;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -12,10 +12,10 @@ import lombok.Getter;
  * @author Khyber Sen
  */
 @Json
-//@NoArgsConstructor my own Adapter uses AllArgsConstructor only
+//@NoArgsConstructor // my own Adapter uses AllArgsConstructor only
 @AllArgsConstructor
 @Getter
-//@Setter final fields
+//@Setter // final fields
 public class JsonHotelsHotel implements Hotel {
     
     /*
@@ -31,5 +31,12 @@ public class JsonHotelsHotel implements Hotel {
     private final double rating;
     private final double distance;
     private final int price;
+    
+    @Override
+    public String toString() {
+        return "JsonHotelsHotel [name=" + name + ", phoneNumber=" + phoneNumber + ", address="
+                + address + ", imgUrl=" + imgUrl + ", rating=" + rating + ", distance=" + distance
+                + ", price=" + price + "]";
+    }
     
 }

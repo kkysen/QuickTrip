@@ -1,0 +1,82 @@
+[
+  {
+    "price": 93,
+    "name": "Hampton Inn \u0026 Suites Milwaukee / Franklin",
+    "address": "6901 S 76th St, Franklin, WI, 53132 United States",
+    "distance": 2.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10430000/10423500/10423477/10423477_2_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Quality Suites Milwaukee Airport",
+    "address": "4488 S 27th Street, Milwaukee, WI, 53221 United States",
+    "distance": 3.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12000/11945/11945_103_l.jpg"
+  },
+  {
+    "price": 44,
+    "name": "Rodeway Inn \u0026 Suites Milwaukee Airport",
+    "address": "4400 S. 27th Street, Milwaukee, WI, 53221 United States",
+    "distance": 3.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2800000/2790100/2790071/2790071_26_l.jpg"
+  },
+  {
+    "price": 46,
+    "name": "Milwaukee Airport Inn",
+    "address": "1716 W Layton Avenue, Milwaukee, WI, 53221 United States",
+    "distance": 3.5,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16600/16536/16536_73_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Country Inn \u0026 Suites By Carlson, Milwaukee Airport, WI",
+    "address": "6200 S 13th St, Milwaukee, WI, 53221 United States",
+    "distance": 4.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/300000/297200/297174/297174_27_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "Days Inn \u0026 Suites Milwaukee Airport",
+    "address": "6331 S 13th St, Milwaukee, WI, 53221 United States",
+    "distance": 4.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14700/14649/ef157ad8_l.jpg"
+  },
+  {
+    "price": 122,
+    "name": "Crowne Plaza Milwaukee Airport",
+    "address": "6401 S 13th Street, Milwaukee, WI, 53221 United States",
+    "distance": 4.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24700/24676/24676_222_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Red Roof Inn Milwaukee Airport",
+    "address": "6360 S 13th St, Oak Creek, WI, 53154 United States",
+    "distance": 4.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17000/16971/16971_110_l.jpg"
+  },
+  {
+    "price": 131,
+    "name": "Comfort Suites Milwaukee Airport",
+    "address": "6362 S. 13th Street, Oak Creek, WI, 53154 United States",
+    "distance": 4.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/300000/296500/296500/296500_152_l.jpg"
+  },
+  {
+    "price": 131,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Milwaukee Airport",
+    "address": "6460 S 13th St, Oak Creek, WI, 53154 United States",
+    "distance": 4.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2760000/2758900/2758849/07c5cd97_l.jpg"
+  }
+]

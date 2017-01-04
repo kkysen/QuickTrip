@@ -1,0 +1,82 @@
+[
+  {
+    "price": 299,
+    "name": "Manatee Bay Inn",
+    "address": "932 Third St, Fort Myers Beach, FL, 33931 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1540000/1534700/1534656/1534656_26_l.jpg"
+  },
+  {
+    "price": 219,
+    "name": "Sun Deck Inn and Suites",
+    "address": "1051 3rd St, Fort Myers Beach, FL, 33931 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/970000/966200/966136/966136_42_l.jpg"
+  },
+  {
+    "price": 201,
+    "name": "Matanzas Inn Bayside Resort and Marina",
+    "address": "414 Crescent Street, Fort Myers Beach, FL, 33931 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2670000/2665100/2665085/2665085_14_l.jpg"
+  },
+  {
+    "price": 229,
+    "name": "Harbour House At The Inn",
+    "address": "450 Old San Carlos Blvd, Fort Myers Beach, FL, 33931 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3090000/3084900/3084873/3084873_1_l.jpg"
+  },
+  {
+    "price": 399,
+    "name": "Best Western Plus Beach Resort",
+    "address": "684 Estero Boulevard, Fort Myers Beach, FL, 33931 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4000/3993/b7fc4a12_l.jpg"
+  },
+  {
+    "price": 270,
+    "name": "Lani Kai Beachfront Resort",
+    "address": "1400 Estero Blvd, Fort Myers Beach, FL, 33931 United States",
+    "distance": 0.3,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/440000/438800/438796/438796_232_l.jpg"
+  },
+  {
+    "price": 202,
+    "name": "The Bay Inn at Lani Kai",
+    "address": "1401 Estero Blvd, Fort Myers Beach, FL, 33931 United States",
+    "distance": 0.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/440000/437300/437294/437294_47_l.jpg"
+  },
+  {
+    "price": 449,
+    "name": "DiamondHead Beach Resort",
+    "address": "2000 Estero Blvd, Fort Myers Beach, FL, 33931 United States",
+    "distance": 0.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/200700/200632/263a5daf_l.jpg"
+  },
+  {
+    "price": 450,
+    "name": "The Neptune Resort",
+    "address": "2310 Estero Blvd, Fort Myers Beach, FL, 33931 United States",
+    "distance": 0.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1530000/1524300/1524295/1524295_19_l.jpg"
+  },
+  {
+    "price": 430,
+    "name": "Pink Shell Beach Resort and Marina",
+    "address": "275 Estero Blvd, Fort Myers Beach, FL, 33931 United States",
+    "distance": 0.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15700/15603/15603_35_l.jpg"
+  }
+]

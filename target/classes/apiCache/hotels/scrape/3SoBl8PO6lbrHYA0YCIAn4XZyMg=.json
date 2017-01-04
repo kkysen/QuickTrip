@@ -1,0 +1,82 @@
+[
+  {
+    "price": 88,
+    "name": "Holiday Inn Chicago - Elk Grove",
+    "address": "1000 Busse Rd, Elk Grove Village, IL, 60007 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15400/15335/19dfa52f_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Elk Grove Hotel",
+    "address": "1600 Oakton Street, Elk Grove Village, IL, 60007 United States",
+    "distance": 1.5,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15300/15299/9edec261_l.jpg"
+  },
+  {
+    "price": 40,
+    "name": "Motel 6 Chicago - Elk Grove",
+    "address": "1601 Oakton St, Elk Grove Village, IL, 60007 United States",
+    "distance": 1.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/57900/57862/c94caf35_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "La Quinta Inn Chicago O\u0027Hare Airport",
+    "address": "1900 East Oakton St, Elk Grove Village, IL, 60007 United States",
+    "distance": 1.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20800/20721/22c87e96_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Best Western O\u0027Hare/Elk Grove",
+    "address": "100 Busse Rd, Elk Grove Village, IL, 60007 United States",
+    "distance": 1.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2300/2238/7bf9220b_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Howard Johnson Inn and Suites Elk Grove Village OHare",
+    "address": "1925 E Higgins Rd, Elk Grove Village, IL, 60007 United States",
+    "distance": 1.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/690000/688100/688019/54e63135_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Days Inn Elk Grove Village/Chicago/OHare Airport West",
+    "address": "1920 E Higgins Road, Higgins \u0026 Oakton/I-90, Elk Grove Village, IL, 60007 United States",
+    "distance": 1.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18700/18622/18622_140_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Sheraton Suites Chicago Elk Grove",
+    "address": "121 Northwest Point Boulevard, Elk Grove Village, IL, 60007 United States",
+    "distance": 1.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16600/16543/16543_85_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "Wyndham Garden Elk Grove Village/O\u0027Hare",
+    "address": "2550 Landmeier Road, Elk Grove Village, IL, 60007 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13600/13519/13519_49_l.jpg"
+  },
+  {
+    "price": 38,
+    "name": "Motel 6 Elk Grove Village",
+    "address": "1000 W Devon Ave, Elk Grove Village, IL, 60007 United States",
+    "distance": 2.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21200/21109/49476cfb_l.jpg"
+  }
+]

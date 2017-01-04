@@ -1,0 +1,50 @@
+[
+  {
+    "price": 190,
+    "name": "WorldMark Solvang",
+    "address": "280 Alisal Road, Solvang, CA, 93463 United States",
+    "distance": 0.8,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8520000/8516000/8515928/8515928_6_l.jpg"
+  },
+  {
+    "price": 156,
+    "name": "Solvang Gardens Lodge an Ascend Hotel Collection",
+    "address": "293 Alisal Rd, Solvang, CA, 93463 United States",
+    "distance": 0.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1320000/1317000/1316966/1316966_64_l.jpg"
+  },
+  {
+    "price": 158,
+    "name": "Atterdag Inn",
+    "address": "467 Atterdag Road, Solvang, CA, 93463 United States",
+    "distance": 1.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11680000/11670200/11670161/11670161_22_l.jpg"
+  },
+  {
+    "price": 152,
+    "name": "Holiday Inn Express Solvang - Santa Ynez Valley",
+    "address": "1455 Mission Dr, Solvang, CA, 93463 United States",
+    "distance": 1.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19500/19473/19473_261_l.jpg"
+  },
+  {
+    "price": 157,
+    "name": "Hadsten House",
+    "address": "1450 Mission Dr, Solvang, CA, 93463 United States",
+    "distance": 1.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/898800/898756/898756_40_l.jpg"
+  },
+  {
+    "price": 177,
+    "name": "Kronborg Inn",
+    "address": "1440 Mission Dr, Solvang, CA, 93463 United States",
+    "distance": 1.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19200/19199/aadf92ee_l.jpg"
+  }
+]

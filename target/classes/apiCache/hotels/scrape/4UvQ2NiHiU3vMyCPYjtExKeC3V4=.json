@@ -1,0 +1,82 @@
+[
+  {
+    "price": 60,
+    "name": "Spring Motor Inn",
+    "address": "215 Broadway, Fort Edward, NY, 12828 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16190000/16180500/16180497/a1346723_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "ClearView Motel",
+    "address": "129 Saratoga Avenue, South Glens Falls, NY, 12803 United States",
+    "distance": 2.8,
+    "rating": 1.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15750000/15748800/15748701/e7795fa5_l.jpg"
+  },
+  {
+    "price": 78,
+    "name": "The Queensbury Hotel",
+    "address": "88 Ridge St, Glens Falls, NY, 12801 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40400/40334/3fd2c9aa_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Budgetel Inn South Glens Falls",
+    "address": "1660 US Rt 9, South Glens Falls, NY, 12803 United States",
+    "distance": 3.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2970000/2961600/2961587/2961587_58_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "Sara Glen Motel",
+    "address": "1518 Route 9 / Saratoga Road, I-87 Exit 17 N, Fort Edward, NY, 12828 United States",
+    "distance": 4.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10940000/10939400/10939378/c3f75a2d_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Days Inn Queensbury / Lake George",
+    "address": "24 Big Boom Rd, Queensbury, NY, 12804-7859 United States",
+    "distance": 4.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4500/4493/4493_90_l.jpg"
+  },
+  {
+    "price": 57,
+    "name": "Super 8 Queensbury, Glens Falls",
+    "address": "191 Corinth Road, Queensbury, NY, 12804 United States",
+    "distance": 4.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42300/42259/a6c88282_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "Quality Inn Glens Falls",
+    "address": "547 Aviation Rd, Queensbury, NY, 12804 United States",
+    "distance": 5.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1160000/1153100/1153062/1153062_62_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Econo Lodge",
+    "address": "543 Aviation Rd, Queensbury, NY, 12804 United States",
+    "distance": 5.2,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/60500/60459/60459_32_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Ramada Queensbury/Lake George",
+    "address": "1 Abbey Ln, Queensbury, NY, 12804 United States",
+    "distance": 5.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23700/23630/075a646b_l.jpg"
+  }
+]

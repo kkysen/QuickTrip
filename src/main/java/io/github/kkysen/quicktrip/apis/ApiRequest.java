@@ -720,6 +720,35 @@ public abstract class ApiRequest<R> {
      */
     protected abstract void cache(Path path, R response) throws IOException;
     
+    private void setNonCachedResponse() {
+        try {
+            if (isCached()) {
+                final Path cachePath = requestCache.getPath(url);
+                response = deserializeFromFile(cachePath);
+            } else {
+                response = deserializeFromUrl(url);
+                requestCache.put(this);
+                final Path cachePath = requestCache.getPath(url);
+                cache(cachePath, response);
+                //requestCache.serializeTypeToken(cachePath);
+            }
+        } catch (final IOException e) {
+            throw new WrappedIOException(e);
+        }
+    }
+    
+    private static class WrappedIOException extends RuntimeException {
+        
+        @Getter
+        IOException cause;
+        
+        public WrappedIOException(final IOException cause) {
+            super(cause);
+            this.cause = cause;
+        }
+        
+    }
+    
     /**
      * gets the response for this request
      * If this request has already been made, then it deserializes R from the
@@ -735,15 +764,11 @@ public abstract class ApiRequest<R> {
      */
     public R getResponse() throws IOException {
         setQueryAndUrl();
-        if (isCached()) {
-            final Path cachePath = requestCache.getPath(url);
-            response = deserializeFromFile(cachePath);
-        } else {
-            response = deserializeFromUrl(url);
-            requestCache.put(this);
-            final Path cachePath = requestCache.getPath(url);
-            cache(cachePath, response);
-            //requestCache.serializeTypeToken(cachePath);
+        final Thread setNonCachedResponse = new Thread(this::setNonCachedResponse);
+        try {
+            setNonCachedResponse.run();
+        } catch (final WrappedIOException e) {
+            throw e.getCause();
         }
         return response;
     }

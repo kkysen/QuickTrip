@@ -1,0 +1,82 @@
+[
+  {
+    "price": 58,
+    "name": "Howard Johnson Inn Kent",
+    "address": "1233 North Central Avenue, Hwy 167-84th Ave Exit, Kent, WA, 98032 United States",
+    "distance": 5.5,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17000/16956/16956_165_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Days Inn Kent WA",
+    "address": "22420 84th Ave S, Kent, WA, 98032 United States",
+    "distance": 5.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1340000/1339000/1338989/1338989_149_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Ramada Kent Seattle Area",
+    "address": "22318 84th Ave S, Kent, WA, 98032 United States",
+    "distance": 5.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26100/26086/26086_302_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Comfort Inn Kent - Seattle",
+    "address": "22311 84th Ave S, Kent, WA, 98032 United States",
+    "distance": 5.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/67900/67854/67854_120_l.jpg"
+  },
+  {
+    "price": 108,
+    "name": "Extended Stay America Seattle - Kent",
+    "address": "22520 83rd Ave S, Kent, WA, 98032 United States",
+    "distance": 5.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/119200/119199/119199_67_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "Red Lion Inn \u0026 Suites Kent",
+    "address": "25100 74th Ave S, Kent, WA, 98032 United States",
+    "distance": 5.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/455400/455328/455328_127_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Days Inn Auburn",
+    "address": "1521 D Street NE, Auburn, WA, 98002 United States",
+    "distance": 6.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22900/22811/474087d9_l.jpg"
+  },
+  {
+    "price": 188,
+    "name": "Comfort Inn Auburn - Seattle",
+    "address": "One - 16th Street NE, Auburn, WA, 98002 United States",
+    "distance": 6.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/64100/64093/64093_73_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Rodeway Inn Auburn - Seattle",
+    "address": "102 15th Street Northeast, Auburn, WA, 98002 United States",
+    "distance": 6.2,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/810000/801100/801017/af17f14c_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Auburn Travelodge Inn and Suites",
+    "address": "Nine 16th St North West, Auburn, WA, 98001 United States",
+    "distance": 6.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/990000/984600/984577/984577_169_l.jpg"
+  }
+]

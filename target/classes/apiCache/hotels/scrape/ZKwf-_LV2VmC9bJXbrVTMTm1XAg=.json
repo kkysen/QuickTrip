@@ -1,0 +1,58 @@
+[
+  {
+    "price": 55,
+    "name": "Econo Lodge Lexington",
+    "address": "2503 Plum Creek Pkwy, Lexington, NE, 68850 United States",
+    "distance": 2.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3950000/3948600/3948564/3948564_29_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Days Inn - Lexington Nebraska",
+    "address": "2506 Plumcreek Center Pkwy, Lexington, NE, 68850 United States",
+    "distance": 2.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42700/42621/403bd63a_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Lexington-Dwtn/University",
+    "address": "2605 Plum Creek Pkwy, Lexington, NE, 68850 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/560000/551200/551173/551173_84_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Comfort Inn Lexington",
+    "address": "2810 Plum Creek Pkwy, Lexington, NE, 68850 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15700/15685/7fdfb8c0_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Super 8 Lexington NE",
+    "address": "104 E River Rd, Lexington, NE, 68850 United States",
+    "distance": 2.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459900/459880/20f28c2a_l.jpg"
+  },
+  {
+    "price": 43,
+    "name": "Knights Inn Cozad Lexington Area",
+    "address": "440 S Meridian Ave, Cozad, NE, 69130 United States",
+    "distance": 14.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/890000/883600/883560/883560_80_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Howard Johnson Gothenburg",
+    "address": "401 Platte River Dr, Gothenburg, NE, 69138 United States",
+    "distance": 24.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/320000/317100/317073/317073_75_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 70,
+    "name": "Americas Best Value Inn \u0026 Suites - Stockbridge / Atlanta",
+    "address": "110 Hwy 138, Stockbridge, GA, 30281 United States",
+    "distance": 3.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1110000/1101800/1101742/1101742_85_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Econo Lodge Stockbridge",
+    "address": "7395 Davidson Circle E, Stockbridge, GA, 30281 United States",
+    "distance": 3.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28400/28377/8faacfc1_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Quality Inn And Suites",
+    "address": "7325 Davidson Parkway North, Stockbridge, GA, 30281 United States",
+    "distance": 3.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27900/27831/27831_55_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Stay Inn \u0026 Suites",
+    "address": "7465 Davidson Parkway South, Stockbridge, GA, 30281 United States",
+    "distance": 4.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/450000/448500/448410/448410_38_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Sleep Inn \u0026 Suites",
+    "address": "7423 Davidson Cir W, Stockbridge, GA, 30281 United States",
+    "distance": 4.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1570000/1567300/1567232/1567232_22_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Days Inn Stockbridge",
+    "address": "7385 Hannover Pkwy North, Ext 228 on I75 or Ex 1 on I675, Stockbridge, GA, 30281 United States",
+    "distance": 4.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42200/42159/42159_115_l.jpg"
+  },
+  {
+    "price": 142,
+    "name": "Hampton Inn Atlanta - Stockbridge",
+    "address": "7342 Hannover Pkwy N, Stockbridge, GA, 30281 United States",
+    "distance": 4.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/892600/892573/892573_23_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Quality Inn",
+    "address": "100 North Park Court, Stockbridge, GA, 30281 United States",
+    "distance": 4.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11230000/11223100/11223085/263fbe12_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "La Quinta Inn \u0026 Suites Atlanta Stockbridge",
+    "address": "3581 Cameron Pkwy, Stockbridge, GA, 30281 United States",
+    "distance": 4.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/890000/889400/889356/6a0bf95c_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Stockbridge/Atlanta South/A",
+    "address": "195 Country Club Drive, Exit 224 Off I-75, Stockbridge, GA, 30281 United States",
+    "distance": 4.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/894700/894616/894616_348_l.jpg"
+  }
+]

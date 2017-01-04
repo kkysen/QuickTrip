@@ -1,0 +1,82 @@
+[
+  {
+    "price": 75,
+    "name": "Executive Inn Express Abbeville",
+    "address": "730 Veterans Memorial Dr, Abbeville, LA, 70510 United States",
+    "distance": 9.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1550000/1541800/1541713/1541713_41_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Sunbelt Lodge Motel",
+    "address": "1903 Veterans Memorial Drive, Abbeville, LA, 70510 United States",
+    "distance": 11.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12530000/12525600/12525572/12525572_5_l.jpg"
+  },
+  {
+    "price": 46,
+    "name": "Budget Inn And Suites",
+    "address": "2115 Charity Street, Abbeville, LA, 70510 United States",
+    "distance": 11.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3890000/3889900/3889832/3889832_1_l.jpg"
+  },
+  {
+    "price": 94,
+    "name": "Best Western Abbeville Inn \u0026 Suites",
+    "address": "3515 Veterans Memorial Dr, Abbeville, LA, 70510 United States",
+    "distance": 12.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3530000/3529600/3529573/3529573_69_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Best Western Rayne Inn",
+    "address": "1422 N Polk St, Rayne, LA, 70578 United States",
+    "distance": 17.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5770000/5762200/5762122/5762122_91_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Super 8 -Duson/Lafayette West Area",
+    "address": "3001 Daulaut Dr, Duson, LA, 70529 United States",
+    "distance": 17.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/670000/664100/664066/664066_39_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Lafayette",
+    "address": "3903 Ambassador Caffery Pkwy, Lafayette, LA, 70503 United States",
+    "distance": 18.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1090000/1083200/1083189/1083189_156_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Candlewood Suites Lafayette",
+    "address": "2105 Kaliste Saloom Rd, Lafayette, LA, 70508 United States",
+    "distance": 19.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1740000/1730200/1730172/1730172_210_l.jpg"
+  },
+  {
+    "price": 143,
+    "name": "SpringHill Suites by Marriott Lafayette South at River Ranch",
+    "address": "321 Settlers Trace Blvd, Lafayette, LA, 70508 United States",
+    "distance": 19.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4450000/4441800/4441714/a50712e7_l.jpg"
+  },
+  {
+    "price": 199,
+    "name": "Carriage House Hotel",
+    "address": "603 Silverstone Road, Lafayette, LA, 70508 United States",
+    "distance": 19.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1760000/1753900/1753860/1dad497d_l.jpg"
+  }
+]

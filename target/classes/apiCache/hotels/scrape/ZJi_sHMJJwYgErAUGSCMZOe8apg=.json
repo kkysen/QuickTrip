@@ -1,0 +1,82 @@
+[
+  {
+    "price": 64,
+    "name": "Days Inn and Suites Clermont",
+    "address": "20390 US Highway 27, Clermont, FL, 34715 United States",
+    "distance": 7.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1790000/1784800/1784771/9d8dd536_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Vacation Homes Network",
+    "address": "Various Addresses, Clermont, FL, 34711 United States",
+    "distance": 7.8,
+    "rating": 3.3,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8380000/8379300/8379242/e9285ece_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Pool Homes by Holiday Villas Clermont",
+    "address": "Various Addresses, Clermont, FL, 34714 United States",
+    "distance": 7.8,
+    "rating": 1.8,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11560000/11557500/11557444/11557444_9_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "Holiday Inn Express Clermont",
+    "address": "1810 South Hwy 27, Clermont, FL, 34711 United States",
+    "distance": 9.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/470000/463400/463332/463332_223_l.jpg"
+  },
+  {
+    "price": 131,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Clermont",
+    "address": "1750 Hunt Trace, Clermont, FL, 34711 United States",
+    "distance": 11.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1560000/1558900/1558832/1558832_86_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Hampton Inn and Suites Clermont",
+    "address": "2200 E Highway 50, Clermont, FL, 34711 United States",
+    "distance": 11.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1290000/1287500/1287493/1287493_38_l.jpg"
+  },
+  {
+    "price": 138,
+    "name": "Legacy Park by IPG",
+    "address": "Various Addresses, Clermont, FL, 34714 United States",
+    "distance": 12.0,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9620000/9614800/9614742/9614742_1_l.jpg"
+  },
+  {
+    "price": 106,
+    "name": "The Palisades by IPG",
+    "address": "Various Addresses, Clermont, FL, 34714 United States",
+    "distance": 12.0,
+    "rating": 1.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9620000/9614800/9614776/9614776_7_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Blueberry Hill RV Resort",
+    "address": "6233 Lowery Street, Bushnell, FL, 33513 United States",
+    "distance": 16.0,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7430000/7420900/7420851/7bc37982_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Bushnell Inn",
+    "address": "2224 W C 48, Bushnell, FL, 33513 United States",
+    "distance": 16.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11010000/11005800/11005714/4b2b43ad_l.jpg"
+  }
+]

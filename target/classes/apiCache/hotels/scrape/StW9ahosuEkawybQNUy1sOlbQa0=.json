@@ -1,0 +1,82 @@
+[
+  {
+    "price": 335,
+    "name": "Hilton Checkers",
+    "address": "535 South Grand Avenue, Los Angeles, CA, 90071 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26700/26663/26663_58_l.jpg"
+  },
+  {
+    "price": 374,
+    "name": "The Standard Downtown LA",
+    "address": "550 S Flower St, Los Angeles, CA, 90071 United States",
+    "distance": 0.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/890000/887000/886918/b90e737f_l.jpg"
+  },
+  {
+    "price": 279,
+    "name": "The Westin Bonaventure Hotel and Suites, Los Angeles",
+    "address": "404 S Figueroa St, Los Angeles, CA, 90071 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11400/11376/11376_227_l.jpg"
+  },
+  {
+    "price": 255,
+    "name": "Sunshine Suites at 616 St. Paul",
+    "address": "616/609 St. Paul Avenue, Los Angeles, CA, 90017 United States",
+    "distance": 0.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6850000/6846700/6846624/6846624_85_l.jpg"
+  },
+  {
+    "price": 174,
+    "name": "The Milner Hotel",
+    "address": "813 S Flower St, Los Angeles, CA, 90017 United States",
+    "distance": 0.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2400/2312/2312_24_l.jpg"
+  },
+  {
+    "price": 130,
+    "name": "Kawada Hotel",
+    "address": "200 S Hill St, Los Angeles, CA, 90012 United States",
+    "distance": 0.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25200/25151/1f85d99b_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "Stillwell Hotel",
+    "address": "838 S Grand Ave, Los Angeles, CA, 90017 United States",
+    "distance": 0.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8100/8017/9b5a866d_l.jpg"
+  },
+  {
+    "price": 141,
+    "name": "The Angels Suites",
+    "address": "650 South Bixel Street, Los Angeles, CA, 90017 United States",
+    "distance": 0.5,
+    "rating": 3.1,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11520000/11517200/11517149/11517149_21_l.jpg"
+  },
+  {
+    "price": 335,
+    "name": "LEVEL Furnished Living Suites",
+    "address": "888 S. Olive St, Los Angeles, CA, 90014 United States",
+    "distance": 0.5,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10650000/10649700/10649672/10649672_74_l.jpg"
+  },
+  {
+    "price": 141,
+    "name": "Ginosi Wilshire Apartel",
+    "address": "1111 Wilshire Boulevard, Los Angeles, CA, 90017 United States",
+    "distance": 0.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9130000/9128200/9128102/9128102_127_l.jpg"
+  }
+]

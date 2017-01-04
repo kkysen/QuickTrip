@@ -2,6 +2,7 @@ package io.github.kkysen.quicktrip.apis.hotels.scrape;
 
 import io.github.kkysen.quicktrip.apis.HtmlRequest;
 import io.github.kkysen.quicktrip.apis.hotels.HotelsHotelsQuery;
+import io.github.kkysen.quicktrip.apis.hotels.MissingHotelInformationException;
 import io.github.kkysen.quicktrip.app.Destination;
 import io.github.kkysen.quicktrip.app.Hotel;
 

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 127,
+    "name": "Hampton Inn \u0026 Suites Clayton/St Louis-Galleria Area",
+    "address": "216 N Meramec Ave, St. Louis, MO, 63105 United States",
+    "distance": 1.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17600/17599/17599_9_l.jpg"
+  },
+  {
+    "price": 439,
+    "name": "The Ritz-Carlton, St. Louis",
+    "address": "100 Carondelet Plaza, St. Louis, MO, 63105 United States",
+    "distance": 1.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6200/6132/243ca4c8_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Seven Gables Inn",
+    "address": "26 North Meramec Avenue, St. Louis, MO, 63105 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4600/4507/ebc86ea7_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Clayton Plaza Hotel",
+    "address": "7750 Carondelet Avenue, St. Louis, MO, 63105 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18200/18144/18144_381_l.jpg"
+  },
+  {
+    "price": 219,
+    "name": "Sheraton Clayton Plaza Hotel St. Louis",
+    "address": "7730 Bonhomme Ave, St. Louis, MO, 63105 United States",
+    "distance": 1.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3100/3072/3072_101_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Moonrise Hotel",
+    "address": "6177 Delmar Blvd, St. Louis, MO, 63112 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2300000/2292900/2292856/2292856_46_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Homewood Suites by Hilton St Louis - Galleria",
+    "address": "8040 Clayton Road, Richmond Heights, MO, 63117 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2670000/2665100/2665070/2665070_9_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "The Cheshire",
+    "address": "6300 Clayton Rd, Richmond Heights, MO, 63117 United States",
+    "distance": 2.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26100/26061/26061_198_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Residence Inn by Marriott St. Louis Galleria",
+    "address": "8011 Galleria Parkway, Richmond Heights, MO, 63117 United States",
+    "distance": 2.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19300/19292/19292_22_l.jpg"
+  },
+  {
+    "price": 180,
+    "name": "Drury Inn \u0026 Suites St. Louis Brentwood",
+    "address": "8700 Eager Rd, Brentwood, MO, 63144 United States",
+    "distance": 2.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8360000/8354200/8354160/8354160_1_l.jpg"
+  }
+]

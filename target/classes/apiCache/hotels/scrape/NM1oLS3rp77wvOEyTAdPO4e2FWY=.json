@@ -1,0 +1,82 @@
+[
+  {
+    "price": 89,
+    "name": "Days Inn Clackamas / Portland",
+    "address": "9717 SE Sunnyside Rd, Clackamas, OR, 97015 United States",
+    "distance": 1.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22000/21901/21901_142_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Monarch Hotel \u0026 Conference Center",
+    "address": "12566 Se 93rd Ave, Clackamas, OR, 97015 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18300/18236/18236_15_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Courtyard by Marriott Portland Southeast/Clackamas",
+    "address": "9300 SE Sunnybrook Blvd, Clackamas, OR, 97015 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/280900/280898/ae5577d4_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Hampton Inn Clackamas",
+    "address": "9040 SE Adams St, Clackamas, OR, 97015 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26100/26007/26007_17_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Clackamas Inn \u0026 Suites",
+    "address": "16010 Se 82nd Dr, Clackamas, OR, 97015 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1350000/1343800/1343779/1343779_43_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Comfort Suites Clackamas",
+    "address": "15929 Se Mckinley Ave, Clackamas, OR, 97015 United States",
+    "distance": 3.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/327400/327369/327369_44_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Econo Lodge Portland - I-205",
+    "address": "4512 Se 82nd Ave, Portland, OR, 97266 United States",
+    "distance": 3.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25400/25372/25372_44_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Best Value Inns",
+    "address": "3310 SE 82nd Ave, Portland, OR, 97266 United States",
+    "distance": 4.4,
+    "rating": 1.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15210000/15208700/15208693/15208693_3_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Briarwood Suites",
+    "address": "7740 Se Powell Blvd, Portland, OR, 97206 United States",
+    "distance": 4.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14800/14779/14779_46_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Holiday Inn Express Portland SE- Clackamas Area",
+    "address": "75 82nd Drive, Gladstone, OR, 97027 United States",
+    "distance": 5.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/328700/328647/328647_278_l.jpg"
+  }
+]

@@ -628,8 +628,6 @@ public abstract class CachedApiRequest<R> implements Request<R> {
         }
     }
     
-    protected CachedApiRequest() {}
-    
     /**
      * @return a complete URL that overrides all the other URL stuff
      *         null if no overriding URL
@@ -709,6 +707,14 @@ public abstract class CachedApiRequest<R> implements Request<R> {
      */
     protected abstract void cache(Path path, R response) throws IOException;
     
+//    protected String getCachedApiKey() {
+//        return getApiKey();
+//    }
+//    
+//    protected void hotSwapApiKey() {
+//        setQueryAndUrl();
+//    }
+    
     private void setNonCachedResponse() {
         try {
             if (isCached()) {
@@ -744,6 +750,10 @@ public abstract class CachedApiRequest<R> implements Request<R> {
         
     }
     
+    protected void clearResponse() {
+        response = null;
+    }
+    
     /**
      * gets the response for this request
      * If this request has already been made, then it deserializes R from the
@@ -759,12 +769,14 @@ public abstract class CachedApiRequest<R> implements Request<R> {
      */
     @Override
     public R getResponse() throws IOException {
-        setQueryAndUrl();
-        final Thread setNonCachedResponse = new Thread(this::setNonCachedResponse);
-        try {
-            setNonCachedResponse.run();
-        } catch (final RuntimeIOException e) {
-            throw e.getCause();
+        if (response == null) {
+            setQueryAndUrl();
+            final Thread setNonCachedResponse = new Thread(this::setNonCachedResponse);
+            try {
+                setNonCachedResponse.run();
+            } catch (final RuntimeIOException e) {
+                throw e.getCause();
+            }
         }
         return response;
     }

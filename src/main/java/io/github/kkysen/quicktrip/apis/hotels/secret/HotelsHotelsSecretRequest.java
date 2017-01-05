@@ -101,6 +101,7 @@ public class HotelsHotelsSecretRequest extends AbstractJsonRequest<List<Hotel>> 
         final List<Hotel> hotels = new ArrayList<>(curPageNum * 10);
         while (curPageNum++ < lastPageNum + 1) {
             final List<Hotel> hotelsOnOnePage = super.getResponse();
+            clearResponse();
             System.out.println(hotelsOnOnePage.size());
             hotels.addAll(hotelsOnOnePage);
         }

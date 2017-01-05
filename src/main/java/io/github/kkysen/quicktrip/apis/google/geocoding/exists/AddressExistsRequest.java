@@ -18,6 +18,7 @@ import lombok.RequiredArgsConstructor;
 public class AddressExistsRequest extends GoogleMapsApiRequest<AddressExistsOnly> {
     
     private final @QueryField String address;
+    private final @QueryField String fields = "status";
     
     @Override
     protected String getRequestType() {

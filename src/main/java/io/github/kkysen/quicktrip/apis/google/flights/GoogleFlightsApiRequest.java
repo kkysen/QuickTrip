@@ -17,8 +17,7 @@ import lombok.RequiredArgsConstructor;
 @Json
 @RequiredArgsConstructor
 @Getter
-public class GoogleFlightsApiRequest
-        extends GoogleApiPostRequest<GoogleFlights> {
+public class GoogleFlightsApiRequest extends GoogleApiPostRequest<GoogleFlights> {
     
     private static final String BASE_URL = "https://www.googleapis.com/qpxExpress/v1/trips/search";
     

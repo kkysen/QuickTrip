@@ -1,5 +1,7 @@
 package io.github.kkysen.quicktrip.apis.google;
 
+import io.github.kkysen.quicktrip.apis.CachedApiRequest.QueryParams;
+
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
@@ -39,7 +41,7 @@ public abstract class GoogleApiPostRequest<R> extends GoogleApiRequest<R> {
         try {
             in = response.getEntity().getContent();
         } catch (final UnsupportedOperationException e) {
-            throw new RuntimeException("shouldn't happend", e); // shouldn't happen with JSON
+            throw new RuntimeException("shouldn't happen", e); // shouldn't happen with JSON
         } catch (final IOException e) {
             throw new RuntimeException("not sure why there was an IOException here", e);
         }
@@ -52,8 +54,7 @@ public abstract class GoogleApiPostRequest<R> extends GoogleApiRequest<R> {
     }
     
     @Override
-    protected final void modifyQuery(
-            final io.github.kkysen.quicktrip.apis.CachedApiRequest.QueryParams query) {
+    protected final void modifyQuery(final QueryParams query) {
         super.modifyQuery(query);
     }
     

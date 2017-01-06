@@ -1,7 +1,5 @@
 package io.github.kkysen.quicktrip.apis.google;
 
-import io.github.kkysen.quicktrip.apis.CachedApiRequest.QueryParams;
-
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;

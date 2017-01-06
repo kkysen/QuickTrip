@@ -23,6 +23,7 @@ import java.security.NoSuchAlgorithmException;
 import java.time.Duration;
 import java.time.Instant;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Base64;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -502,6 +503,35 @@ public abstract class CachedApiRequest<R> implements Request<R> {
         
     }
     
+    private static final class KeyManager {
+        
+        private int index = 0;
+        private final List<String> keys = new ArrayList<>();
+        
+        public KeyManager() {}
+        
+        public boolean addKey(final String key) {
+            if (keys.contains(key)) {
+                return false;
+            }
+            keys.add(key);
+            return true;
+        }
+        
+        public String get() {
+            return keys.get(index);
+        }
+        
+        public String next() {
+            index++;
+            if (index > keys.size()) {
+                index = 0;
+            }
+            return get();
+        }
+        
+    }
+    
     /**
      * the one and only {@link RequestCache} that caches all the requests made
      */
@@ -519,6 +549,8 @@ public abstract class CachedApiRequest<R> implements Request<R> {
     }
     
     private final QueryParams query = new QueryParams();
+    
+    private final KeyManager apiKeys = new KeyManager();
     
     private @Getter(AccessLevel.PROTECTED) String url;
     
@@ -553,6 +585,10 @@ public abstract class CachedApiRequest<R> implements Request<R> {
      *         included in the query string
      */
     protected abstract String getApiKey();
+    
+    protected List<String> getApiKeys() {
+        return Arrays.asList(getApiKey());
+    }
     
     /**
      * @return the base URL of the request (everything before the query string)
@@ -621,13 +657,6 @@ public abstract class CachedApiRequest<R> implements Request<R> {
      */
     protected abstract String getFileExtension();
     
-    private void addApiKey() {
-        final String apiKey = getApiKey();
-        if (!apiKey.isEmpty()) {
-            query.put(getApiKeyQueryName(), apiKey);
-        }
-    }
-    
     /**
      * @return a complete URL that overrides all the other URL stuff
      *         null if no overriding URL
@@ -636,15 +665,26 @@ public abstract class CachedApiRequest<R> implements Request<R> {
         return null;
     }
     
-    private void setQueryAndUrl() {
+    private void setApiKey() {
+        getApiKeys().forEach(apiKeys::addKey);
+        final String apiKey = apiKeys.get();
+        if (!apiKey.isEmpty()) {
+            query.put(getApiKeyQueryName(), apiKey);
+        }
+    }
+    
+    private void setQuery() {
+        reflectQuery();
+        setApiKey();
+        modifyQuery(query);
+    }
+    
+    private void setUrl() {
         final String overridingUrl = getOverridingUrl();
         if (overridingUrl != null) {
             url = overridingUrl;
             return;
         }
-        reflectQuery();
-        addApiKey();
-        modifyQuery(query);
         url = getBaseUrl() + query.toString();
     }
     
@@ -707,20 +747,16 @@ public abstract class CachedApiRequest<R> implements Request<R> {
      */
     protected abstract void cache(Path path, R response) throws IOException;
     
-//    protected String getCachedApiKey() {
-//        return getApiKey();
-//    }
-//    
-//    protected void hotSwapApiKey() {
-//        setQueryAndUrl();
-//    }
-    
     private void setNonCachedResponse() {
         try {
             if (isCached()) {
                 final Path cachePath = requestCache.getPath(url);
                 response = deserializeFromFile(cachePath);
             } else {
+                // if new request, use next apiKey
+                apiKeys.next();
+                setApiKey();
+                setUrl();
                 response = deserializeFromUrl(url);
                 requestCache.put(this);
                 final Path cachePath = requestCache.getPath(url);
@@ -770,7 +806,8 @@ public abstract class CachedApiRequest<R> implements Request<R> {
     @Override
     public R getResponse() throws IOException {
         if (response == null) {
-            setQueryAndUrl();
+            setQuery();
+            setUrl();
             final Thread setNonCachedResponse = new Thread(this::setNonCachedResponse);
             try {
                 setNonCachedResponse.run();

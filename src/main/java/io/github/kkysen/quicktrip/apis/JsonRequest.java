@@ -3,6 +3,7 @@ package io.github.kkysen.quicktrip.apis;
 import io.github.kkysen.quicktrip.web.Internet;
 
 import java.io.IOException;
+import java.io.Reader;
 import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
@@ -55,9 +56,13 @@ public abstract class JsonRequest<R> extends AbstractJsonRequest<R> {
     
     private final Gson gson = buildGson();
     
+    protected R deserializeFromReader(final Reader reader) {
+        return gson.fromJson(reader, getResponseType());
+    }
+    
     @Override
     protected R deserializeFromUrl(final String url) throws IOException {
-        return gson.fromJson(Internet.getJsonInputStreamReader(url), getResponseType());
+        return deserializeFromReader(Internet.getJsonInputStreamReader(url));
     }
     
 }

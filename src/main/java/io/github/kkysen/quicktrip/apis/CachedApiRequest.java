@@ -576,7 +576,18 @@ public abstract class CachedApiRequest<R> implements Request<R> {
         return TypeToken.of(getResponseClass()).getType();
     }
     
+    /**
+     * @return the base URL of the request (everything before the query string)
+     */
+    protected abstract String getBaseUrl();
     
+    /**
+     * @return a complete URL that overrides all the other URL stuff
+     *         null if no overriding URL
+     */
+    protected String getOverridingUrl() {
+        return null;
+    }
     
     /**
      * @return the name of the API key in the query string
@@ -595,18 +606,7 @@ public abstract class CachedApiRequest<R> implements Request<R> {
     
     protected abstract List<String> getApiKeys();
     
-    /**
-     * @return the base URL of the request (everything before the query string)
-     */
-    protected abstract String getBaseUrl();
     
-    /**
-     * @return a complete URL that overrides all the other URL stuff
-     *         null if no overriding URL
-     */
-    protected String getOverridingUrl() {
-        return null;
-    }
     
     
     
@@ -619,10 +619,7 @@ public abstract class CachedApiRequest<R> implements Request<R> {
      */
     protected abstract Path getRelativeCachePath();
     
-    /**
-     * @return the file extension for the cachePath of this request
-     */
-    protected abstract String getFileExtension();
+    
     
     
     
@@ -700,15 +697,7 @@ public abstract class CachedApiRequest<R> implements Request<R> {
         setUrlWithApiKey();
     }
     
-    /**
-     * allows a subclass to modify the final query before it's assembled into
-     * the final url
-     * without overriding, this method does nothing
-     * 
-     * @param query the existing query with the reflected query fields and API
-     *            key added
-     */
-    protected void modifyQuery(final QueryParams query) {}
+    
     
     
     
@@ -752,6 +741,16 @@ public abstract class CachedApiRequest<R> implements Request<R> {
         }
     }
     
+    /**
+     * allows a subclass to modify the final query before it's assembled into
+     * the final url
+     * without overriding, this method does nothing
+     * 
+     * @param query the existing query with the reflected query fields and API
+     *            key added
+     */
+    protected void modifyQuery(final QueryParams query) {}
+    
     private void setQuery() {
         reflectQuery();
         modifyQuery(query);
@@ -766,6 +765,11 @@ public abstract class CachedApiRequest<R> implements Request<R> {
         setQuery();
         findUrl();
     }
+    
+    /**
+     * @return the file extension for the cachePath of this request
+     */
+    protected abstract String getFileExtension();
     
     /**
      * called when the request has been cached

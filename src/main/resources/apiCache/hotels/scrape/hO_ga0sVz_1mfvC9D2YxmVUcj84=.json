@@ -1,0 +1,82 @@
+[
+  {
+    "price": 47,
+    "name": "Ramada Draper",
+    "address": "12605 South Minuteman Drive, Draper, UT, 84020 United States",
+    "distance": 4.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43100/43037/43037_103_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Fairfield Inn by Marriott Salt Lake City Draper",
+    "address": "12117 Factory Outlet Dr, Draper, UT, 84020 United States",
+    "distance": 4.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/890000/889300/889218/89a9026b_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Comfort Inn Salt Lake City Draper",
+    "address": "12033 South State Street, Draper, UT, 84020 United States",
+    "distance": 4.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43100/43042/195c0eed_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "SpringHill Suites by Marriott Salt Lake City Draper",
+    "address": "12111 S State Street, Draper, UT, 84020 United States",
+    "distance": 4.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4730000/4720500/4720464/4720464_1_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Super 8 Jordan / Sandy/ SLC Area",
+    "address": "10722 S 300 W, Interstate 15 Exit 293 or 292, South Jordan, UT, 84095 United States",
+    "distance": 4.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/470000/460100/460008/460008_147_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Sleep Inn South Jordan / Sandy",
+    "address": "10676 S 300 W, South Jordan, UT, 84095 United States",
+    "distance": 4.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26400/26304/26304_43_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Holiday Inn South Jordan - SLC South",
+    "address": "10499 South Jordan Gateway, South Jordan, UT, 84095 United States",
+    "distance": 4.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/205200/205145/a924acc6_l.jpg"
+  },
+  {
+    "price": 124,
+    "name": "Courtyard by Marriott Sandy",
+    "address": "10701 Holiday Park Dr, Sandy, UT, 84070 United States",
+    "distance": 4.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26700/26626/26626_53_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Hampton Inn Salt Lake City/Sandy",
+    "address": "10690 S Holiday Park Dr, Sandy, UT, 84070 United States",
+    "distance": 4.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12800/12725/12725_43_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Extended Stay America - Salt Lake City - Sandy",
+    "address": "10715 Auto Mall Dr, Sandy, UT, 84070 United States",
+    "distance": 4.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84900/84837/84837_52_l.jpg"
+  }
+]

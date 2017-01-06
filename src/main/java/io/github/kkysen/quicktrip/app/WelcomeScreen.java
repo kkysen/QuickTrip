@@ -18,6 +18,7 @@ import javafx.event.ActionEvent;
  * 
  * 
  * @author Khyber Sen
+ * @author Stanley Lin
  */
 public class WelcomeScreen implements Screen {
 	private static final String VIEW_FILE = "view/WelcomeScreenView.fxml";
@@ -28,10 +29,10 @@ public class WelcomeScreen implements Screen {
     @FXML private Text welcomeMsg;
     @FXML private Button startBtn;
     
-    private void setupVBox() {
+    /*private void setupVBox() {
         //vBox.setAlignment(Pos.CENTER);
         //vBox.setPadding(new Insets(25, 25, 25, 25));
-    }
+    }*/
     
     public WelcomeScreen() {
     	vBox = new VBox();

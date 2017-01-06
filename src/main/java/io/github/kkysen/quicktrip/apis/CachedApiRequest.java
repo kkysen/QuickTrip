@@ -503,6 +503,11 @@ public abstract class CachedApiRequest<R> implements Request<R> {
         
     }
     
+    /**
+     *
+     *
+     * @author Khyber Sen
+     */
     private static final class KeyManager implements Iterable<String> {
         
         private final Deque<String> keys = new ArrayDeque<>();
@@ -677,7 +682,7 @@ public abstract class CachedApiRequest<R> implements Request<R> {
     
     private void findUrl() {
         List<String> apiKeyList = getApiKeys();
-        if (apiKeyList.size() == 0) {
+        if (apiKeyList == null || apiKeyList.size() == 0) {
             apiKey = null;
             setUrlWithApiKey();
             return;

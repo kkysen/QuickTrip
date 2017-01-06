@@ -24,8 +24,8 @@ public abstract class AbstractHtmlRequest<R> extends AbstractJsonRequest<R> {
      * not used
      */
     @Override
-    protected final String getApiKey() {
-        return "";
+    protected final List<String> getApiKeys() {
+        return null;
     }
     
     /**

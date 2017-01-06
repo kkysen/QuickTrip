@@ -602,13 +602,12 @@ public abstract class CachedApiRequest<R> implements Request<R> {
         return "key";
     }
     
-    /**
-     * @return the API key
-     *         if "" (empty String) is returned, then no API key will be
-     *         included in the query string
-     */
-    protected abstract String getApiKey();
     
+    /**
+     * @return a list of  API keys
+     *         if null or an empty List are returned, then no API keys are used
+     *         any nulls or empty Strings are interpreted as no API key
+     */
     protected abstract List<String> getApiKeys();
     
     
@@ -631,11 +630,19 @@ public abstract class CachedApiRequest<R> implements Request<R> {
     private String apiKeyQueryName;
     private String apiKey;
     private String baseUrl;
-    private @Getter(AccessLevel.PROTECTED) String url;
+    private String url;
     private boolean isCached = false;
     private R response;
     
+    protected String getApiKey() {
+        setUrl();
+        return apiKey;
+    }
     
+    protected String getUrl() {
+        setUrl();
+        return url;
+    }
     
     /**
      * If a cached response for this request is more than
@@ -670,7 +677,7 @@ public abstract class CachedApiRequest<R> implements Request<R> {
     
     
     private void setQueryWithApiKey() {
-        if (!apiKey == null) {
+        if (!(apiKey == null || apiKey.isEmpty())) {
             query.put(apiKeyQueryName, apiKey);
         }
     }

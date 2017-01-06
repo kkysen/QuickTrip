@@ -29,8 +29,8 @@ public abstract class SkyscannerApiRequest<R> extends JsonRequest<R> {
     
     // FIXME not sure if API key is different for flights, hotels, etc. or just one key for everything
     @Override
-    protected String getApiKey() {
-        return API_KEY;
+    protected List<String> getApiKeys() {
+        return Arrays.asList(API_KEY);
     }
     
     @Override

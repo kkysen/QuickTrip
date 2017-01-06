@@ -12,7 +12,7 @@ import javafx.stage.Stage;
  */
 public class QuickTrip extends Application {
     
-    static final String TITLE = "Quick Trip";
+    public static final String TITLE = "Quick Trip";
     
     private Stage stage;
     

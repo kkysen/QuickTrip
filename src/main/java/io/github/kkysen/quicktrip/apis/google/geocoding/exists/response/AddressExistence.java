@@ -19,7 +19,7 @@ import lombok.Setter;
 @AllArgsConstructor
 @Getter
 @Setter
-public class AddressExistsOnly {
+public class AddressExistence {
     
     @SerializedName("status")
     private String status;

@@ -4,11 +4,16 @@ import io.github.kkysen.quicktrip.apis.google.GoogleApiPostRequest;
 import io.github.kkysen.quicktrip.json.Json;
 
 import java.io.IOException;
+import java.lang.reflect.Type;
 import java.nio.file.Path;
 import java.time.LocalDate;
-import java.util.LinkedHashMap;
+import java.util.List;
 
+import org.apache.commons.lang3.tuple.Pair;
+
+import com.google.gson.TypeAdapter;
 import com.google.gson.annotations.JsonAdapter;
+import com.google.gson.reflect.TypeToken;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
@@ -17,7 +22,9 @@ import lombok.RequiredArgsConstructor;
 @Json
 @RequiredArgsConstructor
 @Getter
-public class GoogleFlightsApiRequest extends GoogleApiPostRequest<GoogleFlights> {
+public class GoogleFlightsApiRequest extends GoogleApiPostRequest<List<GoogleFlight>> {
+    
+    private static final Type RESPONSE_TYPE = new TypeToken<List<GoogleFlight>>() {}.getType();
     
     private static final String BASE_URL = "https://www.googleapis.com/qpxExpress/v1/trips/search";
     
@@ -27,17 +34,24 @@ public class GoogleFlightsApiRequest extends GoogleApiPostRequest<GoogleFlights>
     private final int numPeople;
     private final int numSolutions;
     
-    public GoogleFlightsApiRequest(final String origin, final String destination, final LocalDate date, final int numPeople) {
+    public GoogleFlightsApiRequest(final String origin, final String destination,
+            final LocalDate date, final int numPeople) {
         this(origin, destination, date, numPeople, 1);
     }
     
-    public GoogleFlightsApiRequest(final String origin, final String destination, final int numPeople) {
+    public GoogleFlightsApiRequest(final String origin, final String destination,
+            final int numPeople) {
         this(origin, destination, LocalDate.now(), numPeople);
     }
     
     @Override
-    protected Class<? extends GoogleFlights> getResponseClass() {
-        return GoogleFlights.class;
+    protected Class<? extends List<GoogleFlight>> getResponseClass() {
+        return null;
+    }
+    
+    @Override
+    protected Type getResponseType() {
+        return RESPONSE_TYPE;
     }
     
     @Override
@@ -50,11 +64,16 @@ public class GoogleFlightsApiRequest extends GoogleApiPostRequest<GoogleFlights>
         return super.getRelativeCachePath().resolve("flights");
     }
     
-    @SuppressWarnings({"rawtypes", "unchecked"})
+    @Override
+    protected void addTypeAdapters(final List<Pair<Type, ? extends TypeAdapter<?>>> adapters) {
+        super.addTypeAdapters(adapters);
+        adapters.add(Pair.of(RESPONSE_TYPE, new GoogleFlightsAdapter()));
+    }
+    
     public static void main(final String[] args) throws IOException {
         final GoogleFlightsApiRequest request = new GoogleFlightsApiRequest("JFK", "SFO", 5);
-        final LinkedHashMap response = request.getResponse();
-        response.entrySet().forEach(System.out::println);
+        final List<GoogleFlight> response = request.getResponse();
+        response.forEach(System.out::println);
     }
     
 }

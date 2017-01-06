@@ -29,7 +29,7 @@ public class WaypointOrderRequest<E> extends GoogleMapsApiRequest<WaypointOrderO
     private final Function<E, String> addressExtractor;
     
     @Override
-    protected String getRequestType() {
+    protected String getMapsRequestType() {
         return "directions";
     }
     

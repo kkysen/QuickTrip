@@ -4,7 +4,6 @@ import io.github.kkysen.quicktrip.Constants;
 import io.github.kkysen.quicktrip.io.MyFiles;
 
 import java.io.IOException;
-import java.io.Reader;
 import java.nio.file.Files;
 import java.nio.file.Path;
 
@@ -26,13 +25,9 @@ public abstract class AbstractJsonRequest<R> extends CachedApiRequest<R> {
         return "json";
     }
     
-    protected final R deserializeFromReader(final Reader reader) {
-        return GSON.fromJson(reader, getResponseType());
-    }
-    
     @Override
     protected final R deserializeFromFile(final Path path) throws IOException {
-        return deserializeFromReader(Files.newBufferedReader(path, Constants.CHARSET));
+        return GSON.fromJson(Files.newBufferedReader(path, Constants.CHARSET), getResponseType());
     }
     
     @Override

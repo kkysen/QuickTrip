@@ -1,7 +1,7 @@
 package io.github.kkysen.quicktrip.apis.google.geocoding.exists;
 
 import io.github.kkysen.quicktrip.apis.QueryField;
-import io.github.kkysen.quicktrip.apis.google.geocoding.exists.response.AddressExistsOnly;
+import io.github.kkysen.quicktrip.apis.google.geocoding.exists.response.AddressExistence;
 import io.github.kkysen.quicktrip.apis.google.maps.GoogleMapsApiRequest;
 
 import java.io.IOException;
@@ -15,19 +15,19 @@ import lombok.RequiredArgsConstructor;
  * @author Khyber Sen
  */
 @RequiredArgsConstructor
-public class AddressExistsRequest extends GoogleMapsApiRequest<AddressExistsOnly> {
+public class AddressExistsRequest extends GoogleMapsApiRequest<AddressExistence> {
     
     private final @QueryField String address;
     private final @QueryField String fields = "status";
     
     @Override
-    protected String getRequestType() {
+    protected String getMapsRequestType() {
         return "geocode";
     }
     
     @Override
-    protected Class<? extends AddressExistsOnly> getResponseClass() {
-        return AddressExistsOnly.class;
+    protected Class<? extends AddressExistence> getResponseClass() {
+        return AddressExistence.class;
     }
     
     @Override

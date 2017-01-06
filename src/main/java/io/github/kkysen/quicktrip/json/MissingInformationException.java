@@ -9,13 +9,14 @@ import java.util.Collection;
  */
 public class MissingInformationException extends Exception {
     
-    public MissingInformationException() {}
+    private static final long serialVersionUID = 1002695619260309449L;
     
     public MissingInformationException(final Throwable cause, final String... missingInfo) {
         super("missing: " + String.join(", ", missingInfo), cause);
     }
     
-    public MissingInformationException(final Throwable cause, final Collection<String> missingInfo) {
+    public MissingInformationException(final Throwable cause,
+            final Collection<String> missingInfo) {
         super("missing: " + String.join(", ", missingInfo), cause);
     }
     
@@ -28,7 +29,11 @@ public class MissingInformationException extends Exception {
     }
     
     public MissingInformationException(final Throwable cause) {
-        super(cause);
+        this(cause, "unknown");
+    }
+    
+    public MissingInformationException() {
+        this("unknown");
     }
     
 }

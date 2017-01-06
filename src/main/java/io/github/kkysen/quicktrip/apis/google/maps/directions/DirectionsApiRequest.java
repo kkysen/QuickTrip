@@ -35,7 +35,7 @@ public class DirectionsApiRequest extends GoogleMapsApiRequest<Directions> {
     private final @QueryField String arrivalTime;
     
     @Override
-    protected String getRequestType() {
+    protected String getMapsRequestType() {
         return "directions";
     }
     

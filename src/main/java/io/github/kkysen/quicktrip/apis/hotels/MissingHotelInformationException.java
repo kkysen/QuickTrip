@@ -1,28 +1,41 @@
 package io.github.kkysen.quicktrip.apis.hotels;
 
+import io.github.kkysen.quicktrip.json.MissingInformationException;
+
+import java.util.Collection;
 
 /**
  * 
  * 
  * @author Khyber Sen
  */
-public class MissingHotelInformationException extends Exception {
+public class MissingHotelInformationException extends MissingInformationException {
     
-    public MissingHotelInformationException(final String missingInfo) {
-        super("missing " + missingInfo);
-    }
+    private static final long serialVersionUID = -6961085226898461370L;
     
     public MissingHotelInformationException() {
-        this("unknown");
+        super();
     }
     
-    public MissingHotelInformationException(final String missingInfo, final Throwable cause) {
-        super("missing " + missingInfo, cause);
+    public MissingHotelInformationException(final Collection<String> missingInfo) {
+        super(missingInfo);
+    }
+    
+    public MissingHotelInformationException(final String... missingInfo) {
+        super(missingInfo);
+    }
+    
+    public MissingHotelInformationException(final Throwable cause,
+            final Collection<String> missingInfo) {
+        super(cause, missingInfo);
+    }
+    
+    public MissingHotelInformationException(final Throwable cause, final String... missingInfo) {
+        super(cause, missingInfo);
     }
     
     public MissingHotelInformationException(final Throwable cause) {
-        this("unknown", cause);
+        super(cause);
     }
-    
     
 }

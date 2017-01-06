@@ -503,10 +503,9 @@ public abstract class CachedApiRequest<R> implements Request<R> {
         
     }
     
-    private static final class KeyManager {
+    private static final class KeyManager implements Iterable<String> {
         
-        private int index = 0;
-        private final List<String> keys = new ArrayList<>();
+        private final Deque<String> keys = new ArrayDeque<>();
         
         public KeyManager() {}
         
@@ -519,15 +518,20 @@ public abstract class CachedApiRequest<R> implements Request<R> {
         }
         
         public String get() {
-            return keys.get(index);
+            return keys.getFirst();
+        }
+        
+        public void rotate() {
+            keys.addFirst(keys.pollLast());
         }
         
         public String next() {
-            index++;
-            if (index > keys.size()) {
-                index = 0;
-            }
+            rotate();
             return get();
+        }
+        
+        public Iterator<String> iterator() {
+            return keys.iterator();
         }
         
     }
@@ -552,7 +556,10 @@ public abstract class CachedApiRequest<R> implements Request<R> {
     
     private final KeyManager apiKeys = new KeyManager();
     
-    private @Getter(AccessLevel.PROTECTED) String url;
+    
+    
+    
+    
     
     /**
      * @return the Class of type R of this request's response
@@ -569,7 +576,7 @@ public abstract class CachedApiRequest<R> implements Request<R> {
         return TypeToken.of(getResponseClass()).getType();
     }
     
-    private R response;
+    
     
     /**
      * @return the name of the API key in the query string
@@ -586,14 +593,124 @@ public abstract class CachedApiRequest<R> implements Request<R> {
      */
     protected abstract String getApiKey();
     
-    protected List<String> getApiKeys() {
-        return Arrays.asList(getApiKey());
-    }
+    protected abstract List<String> getApiKeys();
     
     /**
      * @return the base URL of the request (everything before the query string)
      */
     protected abstract String getBaseUrl();
+    
+    /**
+     * @return a complete URL that overrides all the other URL stuff
+     *         null if no overriding URL
+     */
+    protected String getOverridingUrl() {
+        return null;
+    }
+    
+    
+    
+    
+    
+    /**
+     * @return the relative Path of the directory in which this request should
+     *         be cached. The absolute Path is {@value #CACHE_DIR} +
+     *         {@link #getRelativeCachePath()}.
+     */
+    protected abstract Path getRelativeCachePath();
+    
+    /**
+     * @return the file extension for the cachePath of this request
+     */
+    protected abstract String getFileExtension();
+    
+    
+    
+    private String apiKeyQueryName;
+    private String apiKey;
+    private String baseUrl;
+    private @Getter(AccessLevel.PROTECTED) String url;
+    private boolean isCached = false;
+    private R response;
+    
+    
+    
+    /**
+     * If a cached response for this request is more than
+     * {@link #getRefreshDuration()} old, then a new request is made.
+     * 
+     * @return the Duration for how long a response is still valid
+     *         defaults to 1 day
+     */
+    protected Duration getRefreshDuration() {
+        return Duration.ofDays(1);
+    }
+    
+    /**
+     * @return true if the last cached request is expired (i.e. the time between
+     *         now and the last cache is greater than
+     *         {@link #getRefreshDuration()})
+     */
+    private boolean isExpired() {
+        final Instant lastTime = requestCache.getTime(url);
+        final Duration elapsed = Duration.between(lastTime, Instant.now());
+        final Duration refreshDuration = getRefreshDuration();
+        return refreshDuration.minus(elapsed).isNegative();
+    }
+    
+    /**
+     * @return true if the response has been cached and is recent enough
+     */
+    private boolean isCached() {
+        return requestCache.containsUrl(url) && !isExpired();
+    }
+    
+    
+    
+    private void setQueryWithApiKey() {
+        if (!apiKey == null) {
+            query.put(apiKeyQueryName, apiKey);
+        }
+    }
+    
+    private void setUrlWithApiKey() {
+        setQueryWithApiKey();
+        url = baseUrl + query.toString();
+    }
+    
+    private void findUrl() {
+        List<String> apiKeyList = getApiKeys();
+        if (apiKeyList.size() == 0) {
+            apiKey = null;
+            setUrlWithApiKey();
+            return;
+        }
+        apiKeyList.forEach(apiKeys::addKey);
+        baseUrl = getBaseUrl();
+        apiKeyQueryName = getApiKeyQueryName();
+        for (String apiKey : apiKeys) {
+            this.apiKey = apiKey;
+            setUrlWithApiKey();
+            if (isCached()) {
+                isCached = true;
+                return;
+            }
+        }
+        apiKey = apiKeys.next();
+        setUrlWithApiKey();
+    }
+    
+    /**
+     * allows a subclass to modify the final query before it's assembled into
+     * the final url
+     * without overriding, this method does nothing
+     * 
+     * @param query the existing query with the reflected query fields and API
+     *            key added
+     */
+    protected void modifyQuery(final QueryParams query) {}
+    
+    
     
     /**
      * uses reflection to find all the {@link QueryField}s and adds them to the
@@ -635,47 +752,8 @@ public abstract class CachedApiRequest<R> implements Request<R> {
         }
     }
     
-    /**
-     * allows a subclass to modify the final query before it's assembled into
-     * the final url
-     * without overriding, this method does nothing
-     * 
-     * @param query the existing query with the reflected query fields and API
-     *            key added
-     */
-    protected void modifyQuery(final QueryParams query) {}
-    
-    /**
-     * @return the relative Path of the directory in which this request should
-     *         be cached. The absolute Path is {@value #CACHE_DIR} +
-     *         {@link #getRelativeCachePath()}.
-     */
-    protected abstract Path getRelativeCachePath();
-    
-    /**
-     * @return the file extension for the cachePath of this request
-     */
-    protected abstract String getFileExtension();
-    
-    /**
-     * @return a complete URL that overrides all the other URL stuff
-     *         null if no overriding URL
-     */
-    protected String getOverridingUrl() {
-        return null;
-    }
-    
-    private void setApiKey() {
-        getApiKeys().forEach(apiKeys::addKey);
-        final String apiKey = apiKeys.get();
-        if (!apiKey.isEmpty()) {
-            query.put(getApiKeyQueryName(), apiKey);
-        }
-    }
-    
     private void setQuery() {
         reflectQuery();
-        setApiKey();
         modifyQuery(query);
     }
     
@@ -685,37 +763,8 @@ public abstract class CachedApiRequest<R> implements Request<R> {
             url = overridingUrl;
             return;
         }
-        url = getBaseUrl() + query.toString();
-    }
-    
-    /**
-     * If a cached response for this request is more than
-     * {@link #getRefreshDuration()} old, then a new request is made.
-     * 
-     * @return the Duration for how long a response is still valid
-     *         defaults to 1 day
-     */
-    protected Duration getRefreshDuration() {
-        return Duration.ofDays(1);
-    }
-    
-    /**
-     * @return true if the last cached request is expired (i.e. the time between
-     *         now and the last cache is greater than
-     *         {@link #getRefreshDuration()})
-     */
-    private boolean isExpired() {
-        final Instant lastTime = requestCache.getTime(url);
-        final Duration elapsed = Duration.between(lastTime, Instant.now());
-        final Duration refreshDuration = getRefreshDuration();
-        return refreshDuration.minus(elapsed).isNegative();
-    }
-    
-    /**
-     * @return true if the response has been cached and is recent enough
-     */
-    private boolean isCached() {
-        return requestCache.containsUrl(url) && !isExpired();
+        setQuery();
+        findUrl();
     }
     
     /**
@@ -749,14 +798,10 @@ public abstract class CachedApiRequest<R> implements Request<R> {
     
     private void setNonCachedResponse() {
         try {
-            if (isCached()) {
+            if (isCached) {
                 final Path cachePath = requestCache.getPath(url);
                 response = deserializeFromFile(cachePath);
             } else {
-                // if new request, use next apiKey
-                apiKeys.next();
-                setApiKey();
-                setUrl();
                 response = deserializeFromUrl(url);
                 requestCache.put(this);
                 final Path cachePath = requestCache.getPath(url);

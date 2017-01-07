@@ -74,7 +74,7 @@ public class SearchScreen implements Screen {
      * 
      * @author Khyber Sen
      */
-    private class DestField {
+    public class DestField {
         
         private final int destNum;
         private final Label label;

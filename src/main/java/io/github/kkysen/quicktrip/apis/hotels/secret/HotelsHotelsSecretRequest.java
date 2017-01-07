@@ -59,8 +59,8 @@ public class HotelsHotelsSecretRequest extends AbstractJsonRequest<List<Hotel>> 
     }
     
     @Override
-    protected String getApiKey() {
-        return "";
+    protected List<String> getApiKeys() {
+        return null;
     }
     
     @Override

@@ -22,11 +22,13 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.time.Duration;
 import java.time.Instant;
+import java.util.ArrayDeque;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Base64;
+import java.util.Deque;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Iterator;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
@@ -38,7 +40,6 @@ import java.util.concurrent.ConcurrentSkipListMap;
 
 import com.google.common.reflect.TypeToken;
 
-import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 
@@ -535,6 +536,7 @@ public abstract class CachedApiRequest<R> implements Request<R> {
             return get();
         }
         
+        @Override
         public Iterator<String> iterator() {
             return keys.iterator();
         }
@@ -560,11 +562,6 @@ public abstract class CachedApiRequest<R> implements Request<R> {
     private final QueryParams query = new QueryParams();
     
     private final KeyManager apiKeys = new KeyManager();
-    
-    
-    
-    
-    
     
     /**
      * @return the Class of type R of this request's response
@@ -602,19 +599,12 @@ public abstract class CachedApiRequest<R> implements Request<R> {
         return "key";
     }
     
-    
     /**
-     * @return a list of  API keys
+     * @return a list of API keys
      *         if null or an empty List are returned, then no API keys are used
      *         any nulls or empty Strings are interpreted as no API key
      */
     protected abstract List<String> getApiKeys();
-    
-    
-    
-    
-    
-    
     
     /**
      * @return the relative Path of the directory in which this request should
@@ -622,10 +612,6 @@ public abstract class CachedApiRequest<R> implements Request<R> {
      *         {@link #getRelativeCachePath()}.
      */
     protected abstract Path getRelativeCachePath();
-    
-    
-    
-    
     
     private String apiKeyQueryName;
     private String apiKey;
@@ -674,8 +660,6 @@ public abstract class CachedApiRequest<R> implements Request<R> {
         return requestCache.containsUrl(url) && !isExpired();
     }
     
-    
-    
     private void setQueryWithApiKey() {
         if (!(apiKey == null || apiKey.isEmpty())) {
             query.put(apiKeyQueryName, apiKey);
@@ -688,7 +672,7 @@ public abstract class CachedApiRequest<R> implements Request<R> {
     }
     
     private void findUrl() {
-        List<String> apiKeyList = getApiKeys();
+        final List<String> apiKeyList = getApiKeys();
         if (apiKeyList == null || apiKeyList.size() == 0) {
             apiKey = null;
             setUrlWithApiKey();
@@ -697,7 +681,7 @@ public abstract class CachedApiRequest<R> implements Request<R> {
         apiKeyList.forEach(apiKeys::addKey);
         baseUrl = getBaseUrl();
         apiKeyQueryName = getApiKeyQueryName();
-        for (String apiKey : apiKeys) {
+        for (final String apiKey : apiKeys) {
             this.apiKey = apiKey;
             setUrlWithApiKey();
             if (isCached()) {
@@ -708,10 +692,6 @@ public abstract class CachedApiRequest<R> implements Request<R> {
         apiKey = apiKeys.next();
         setUrlWithApiKey();
     }
-    
-    
-    
-    
     
     /**
      * uses reflection to find all the {@link QueryField}s and adds them to the

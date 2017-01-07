@@ -1,6 +1,7 @@
 package io.github.kkysen.quicktrip.apis;
 
 import java.io.IOException;
+import java.util.List;
 
 import org.jsoup.nodes.Document;
 

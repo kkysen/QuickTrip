@@ -1,11 +1,9 @@
 package io.github.kkysen.quicktrip.app;
 
 import io.github.kkysen.quicktrip.apis.google.maps.directions.order.WaypointOrderRequest;
-import io.github.kkysen.quicktrip.io.MyFiles;
 import io.github.kkysen.quicktrip.optimization.simulatedAnnealing.SimulatedAnnealer;
 
 import java.io.IOException;
-import java.nio.file.Paths;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
@@ -28,16 +26,6 @@ public class ItineraryModel {
     private @Getter final List<Destination> destinations;
     private final List<Hotel> hotels;
     private @Getter final int cost;
-    
-    private SearchModel deserializeSearchArgs() {
-        String json;
-        try {
-            json = MyFiles.read(Paths.get(QuickTripConstants.SEARCH_ARGS_PATH));
-        } catch (final IOException e) {
-            throw new RuntimeException(e);
-        }
-        return QuickTripConstants.GSON.fromJson(json, SearchModel.class);
-    }
     
     private List<Destination> orderDestinations() {
         List<NoDateDestination> orderedDestinations;
@@ -68,7 +56,7 @@ public class ItineraryModel {
     }
     
     public ItineraryModel() {
-        final SearchModel searchArgs = deserializeSearchArgs();
+        final SearchModel searchArgs = SearchModel.deserialize();
         numPeople = searchArgs.getNumPeople();
         budget = searchArgs.getBudget();
         startDate = searchArgs.getStartDate();

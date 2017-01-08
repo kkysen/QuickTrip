@@ -239,11 +239,11 @@ public class SearchScreen implements Screen {
     }
     
     private void loadItineraryScreen() {
-        final ItineraryScreenController itineraryScreen = //
-                (ItineraryScreenController) QuickTrip.SCREENS.get(ItineraryScreenController.class);
+        final ItineraryController itineraryScreen = //
+                (ItineraryController) QuickTrip.SCREENS.get(ItineraryController.class);
         itineraryScreen.load();
         // when ItineraryScreen is finished loading, switch to it
-        QuickTrip.SCREENS.load(ItineraryScreenController.class);
+        QuickTrip.SCREENS.load(ItineraryController.class);
     }
     
     public void noSerializeSearch() {

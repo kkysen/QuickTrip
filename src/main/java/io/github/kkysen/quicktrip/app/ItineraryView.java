@@ -16,12 +16,12 @@ import javafx.scene.text.Text;
  * @author Khyber Sen
  */
 @Getter
-public class ItineraryScreenView {
+public class ItineraryView {
     
     private final GridPane grid = new GridPane();
     private final GridRows rows = new GridRows(grid);
     
-    public ItineraryScreenView() {
+    public ItineraryView() {
         
     }
     

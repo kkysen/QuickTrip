@@ -7,16 +7,16 @@ import javafx.scene.layout.Pane;
  * 
  * @author Khyber Sen
  */
-public class ItineraryScreenController implements Screen {
+public class ItineraryController implements Screen {
     
     private ItineraryModel model;
-    private ItineraryScreenView view;
+    private ItineraryView view;
     
-    public ItineraryScreenController() {}
+    public ItineraryController() {}
     
     public void load() {
         model = new ItineraryModel();
-        view = new ItineraryScreenView();
+        view = new ItineraryView();
         view.addDestinations(model.getDestinations());
     }
     

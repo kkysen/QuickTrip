@@ -55,8 +55,7 @@ public class ItineraryModel {
         return annealer.getMinState();
     }
     
-    public ItineraryModel() {
-        final SearchModel searchArgs = SearchModel.deserialize();
+    public ItineraryModel(final SearchModel searchArgs) {
         numPeople = searchArgs.getNumPeople();
         budget = searchArgs.getBudget();
         startDate = searchArgs.getStartDate();

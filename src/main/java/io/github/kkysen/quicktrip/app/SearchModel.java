@@ -1,6 +1,6 @@
 package io.github.kkysen.quicktrip.app;
 
-import io.github.kkysen.quicktrip.app.SearchScreen.DestField;
+import io.github.kkysen.quicktrip.app.SearchView.DestField;
 import io.github.kkysen.quicktrip.json.Json;
 
 import java.io.IOException;
@@ -21,8 +21,8 @@ import lombok.Setter;
  */
 @Json
 @NoArgsConstructor
-@Getter
-@Setter
+//@Getter
+//@Setter
 public class SearchModel implements Model {
     
     private static final Path PATH = Paths.get("searchArgs.json");
@@ -34,19 +34,20 @@ public class SearchModel implements Model {
     //    private transient WholeNumberField numPeopleInput;
     //    private transient WholeNumberField budgetInput;
     
-    private transient String originInput;
-    private transient LocalDate startDateInput;
-    private transient String numDestinationsInput;
-    private transient List<DestField> destinationInputs;
-    private transient String numPeopleInput;
-    private transient String budgetInput;
+    private transient @Setter String originInput;
+    private transient @Setter LocalDate startDateInput;
+    private transient @Setter String numDestinationsInput;
+    private transient @Setter List<DestField> destinationInputs;
+    private transient @Setter String numPeopleInput;
+    private transient @Setter String budgetInput;
     
-    private String origin;
-    private LocalDate startDate;
-    private int numDestinations;
-    private List<NoDateDestination> destinations;
-    private long budget;
-    private int numPeople;
+    private transient @Getter int numDestinations;
+    
+    private @Getter String origin;
+    private @Getter LocalDate startDate;
+    private @Getter List<NoDateDestination> destinations;
+    private @Getter long budget;
+    private @Getter int numPeople;
     
     public SearchModel(final String originInput, final LocalDate startDateInput,
             final String numDestinationsInput, final List<DestField> destinationInputs,
@@ -96,7 +97,7 @@ public class SearchModel implements Model {
     }
     
     @Validation
-    public boolean validateNumDestinations() throws WholeNumberInputError {
+    public boolean validateNumDestinations() throws WholeNumberInputError, EmptyInputError {
         numDestinations = (int) WholeNumberInputError.validate(numDestinationsInput,
                 "Number of Destinations", 23);
         return true;
@@ -115,7 +116,7 @@ public class SearchModel implements Model {
     }
     
     @Validation
-    public boolean validateNumPeople() throws WholeNumberInputError {
+    public boolean validateNumPeople() throws WholeNumberInputError, EmptyInputError {
         numPeople = (int) WholeNumberInputError.validate(numPeopleInput, "Number of People",
                 Integer.MAX_VALUE);
         return true;

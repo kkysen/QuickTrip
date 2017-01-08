@@ -14,8 +14,8 @@ public class ItineraryController implements Screen {
     
     public ItineraryController() {}
     
-    public void load() {
-        model = new ItineraryModel();
+    public void load(final SearchModel searchArgs) {
+        model = new ItineraryModel(searchArgs);
         view = new ItineraryView();
         view.addDestinations(model.getDestinations());
     }

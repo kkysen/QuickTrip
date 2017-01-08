@@ -14,7 +14,10 @@ public class WholeNumberInputError extends InputError {
     }
     
     public static long validate(final String input, final WholeNumberInputError error)
-            throws WholeNumberInputError {
+            throws WholeNumberInputError, EmptyInputError {
+        if (input.isEmpty()) {
+            throw new EmptyInputError(error.getError(), error.getMsg());
+        }
         long number = 0;
         try {
             number = Long.parseLong(input);
@@ -28,7 +31,7 @@ public class WholeNumberInputError extends InputError {
     }
     
     public static long validate(final String input, final String numberOfWhat,
-            final long max) throws WholeNumberInputError {
+            final long max) throws WholeNumberInputError, EmptyInputError {
         return validate(input, new WholeNumberInputError(numberOfWhat, max));
     }
     

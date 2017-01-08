@@ -2,17 +2,13 @@ package io.github.kkysen.quicktrip.app;
 
 import java.io.IOException;
 
+import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
-import javafx.geometry.Insets;
-import javafx.geometry.Pos;
 import javafx.scene.control.Button;
 import javafx.scene.layout.Pane;
 import javafx.scene.layout.VBox;
-import javafx.scene.text.Font;
-import javafx.scene.text.FontWeight;
 import javafx.scene.text.Text;
-import javafx.event.ActionEvent;
 
 /**
  * 
@@ -26,8 +22,8 @@ public class WelcomeScreen implements Screen {
     private FXMLLoader loader;
 	
     @FXML private VBox vBox;
-    @FXML private Text welcomeMsg;
-    @FXML private Button startBtn;
+    @FXML private final Text welcomeMsg;
+    @FXML private final Button startBtn;
     
     /*private void setupVBox() {
         //vBox.setAlignment(Pos.CENTER);
@@ -47,14 +43,14 @@ public class WelcomeScreen implements Screen {
         //startBtn.setAlignment(Pos.CENTER);
         //startBtn.setFont(Font.font(48));
         
-        //startBtn.setOnAction(event -> QuickTrip.SCREENS.load(SearchScreen.class));
+        //startBtn.setOnAction(event -> QuickTrip.SCREENS.load(SearchView.class));
         
         //vBox = new VBox(300, welcomeMsg, startBtn);
         //setupVBox();
     }
     
-    @FXML public void onButtonClick(ActionEvent event) {
-    	QuickTrip.SCREENS.load(SearchScreen.class);
+    @FXML public void onButtonClick(final ActionEvent event) {
+    	QuickTrip.SCREENS.load(SearchController.class);
     }
     
     @Override
@@ -64,7 +60,7 @@ public class WelcomeScreen implements Screen {
     	
     	try {
 			vBox = loader.load();	//might cause problems cuz @FXML already used
-		} catch (IOException e) {
+		} catch (final IOException e) {
 			e.printStackTrace();
 		}
     	

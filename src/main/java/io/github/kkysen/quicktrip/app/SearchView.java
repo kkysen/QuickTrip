@@ -4,8 +4,8 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-import javafx.event.ActionEvent;
-import javafx.event.EventHandler;
+import lombok.Getter;
+
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.Node;
@@ -16,14 +16,14 @@ import javafx.scene.control.DatePicker;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.GridPane;
-import javafx.scene.layout.Pane;
 
 /**
  * 
  * 
  * @author Khyber Sen
  */
-public class SearchScreen implements Screen {
+@Getter
+public class SearchView {
     
     private final GridPane grid = new GridPane();
     private final GridRows rows = new GridRows(grid);
@@ -31,6 +31,7 @@ public class SearchScreen implements Screen {
     private TextField origin;
     private DatePicker startDate;
     private DestField dest;
+    private Button moreDestsBtn;
     private WholeNumberField numDests;
     private final List<DestField> destFields = new ArrayList<>();
     private WholeNumberField numPeople;
@@ -41,7 +42,7 @@ public class SearchScreen implements Screen {
     private Button lastSearchBtn;
     
     /**
-     * 
+     * model and view
      * 
      * @author Khyber Sen
      */
@@ -88,7 +89,7 @@ public class SearchScreen implements Screen {
         }
         
         @Validation
-        private boolean validateNumDays() throws WholeNumberInputError {
+        private boolean validateNumDays() throws WholeNumberInputError, EmptyInputError {
             WholeNumberInputError.validate(numDays.getText(), "Number of Days", MAX_NUM_DAYS);
             return true;
         }
@@ -127,43 +128,13 @@ public class SearchScreen implements Screen {
         return text;
     }
     
-    private Button createButton(final String name, final int columnIndex,
-            final EventHandler<ActionEvent> onAction) {
+    private Button createButton(final String name, final int columnIndex) {
         final Button btn = new Button(name);
-        btn.setOnAction(onAction);
         return btn;
     }
     
-    private void numDestsError() throws InputError {
-        final String error = "Invalid Number of Destinations";
-        final String msg = "You must enter a whole number less than or equal to 100";
-        throw new InputError(error, msg);
-    }
-    
-    private void tryMakeMoreDests() throws InputError {
-        final String numDestsStr = numDests.getText();
-        if (numDestsStr.isEmpty()) {
-            return;
-        }
-        
-        int numDests;
-        try {
-            numDests = Integer.parseInt(numDestsStr);
-        } catch (final NumberFormatException e) {
-            numDestsError();
-            return;
-        }
-        
-        if (numDests < 1 || numDests > 100) {
-            numDestsError();
-            return;
-        }
-        
-        if (numDests == destFields.size()) {
-            return; // nothing changes
-        }
-        
-        //        final int numToRemove = destFields.size() - numDests;
+    public void setNumDestinations(final int numDests) {
+        //      final int numToRemove = destFields.size() - numDests;
         //        if (numToRemove > 0) {
         //            final int fromRowIndex = GridPane
         //                    .getRowIndex(destFields.get(destFields.size() - numToRemove).address);
@@ -197,7 +168,7 @@ public class SearchScreen implements Screen {
             rows.add(fromRowIndex, dest.toNodeArray());
             destFields.add(dest);
         } else {
-            final List<Node[]> destFieldNodes = new ArrayList<>(numDests);
+            //final List<Node[]> destFieldNodes = new ArrayList<>(numDests);
             for (int i = 0; i < numDests; i++) {
                 rows.add(fromRowIndex + i, new DestField(i + 1).toNodeArray());
                 //destFieldNodes.add(new DestField(i + 1).toNodeArray());
@@ -214,52 +185,6 @@ public class SearchScreen implements Screen {
     
     private void alert() {
         alert("");
-    }
-    
-    private void makeMoreDests() {
-        try {
-            tryMakeMoreDests();
-        } catch (final InputError e) {
-            e.getErrorDialog().showAndWait();
-            return;
-        }
-    }
-    
-    private void serializeSearchArgs() throws InputError {
-        final SearchModel searchArgs = new SearchModel(
-                origin.getText(),
-                startDate.getValue(),
-                String.valueOf(destFields.size()), // FIXME
-                destFields,
-                numPeople.getText(),
-                budget.getText()
-        );
-        searchArgs.validate();
-        searchArgs.serialize();
-    }
-    
-    private void loadItineraryScreen() {
-        final ItineraryController itineraryScreen = //
-                (ItineraryController) QuickTrip.SCREENS.get(ItineraryController.class);
-        itineraryScreen.load();
-        // when ItineraryScreen is finished loading, switch to it
-        QuickTrip.SCREENS.load(ItineraryController.class);
-    }
-    
-    public void noSerializeSearch() {
-        // switch to SearchingScreen while ItineraryScreen loads
-        QuickTrip.SCREENS.load(SearchingScreen.class);
-        new Thread(this::loadItineraryScreen).run();
-    }
-    
-    public void search() {
-        try {
-            serializeSearchArgs();
-        } catch (final InputError e) {
-            e.getErrorDialog().showAndWait();
-            return; // stop serialization
-        }
-        noSerializeSearch();
     }
     
     private WholeNumberField addWholeNumberField(final String name, final long max) {
@@ -287,8 +212,7 @@ public class SearchScreen implements Screen {
         dest = new DestField(0);
         dest.addToGrid();
         
-        final Button moreDestsBtn = new Button("Number of Destinations");
-        moreDestsBtn.setOnAction(event -> makeMoreDests());
+        moreDestsBtn = new Button("Number of Destinations");
         numDests = new WholeNumberField(23);
         rows.add(moreDestsBtn, numDests);
         
@@ -298,30 +222,22 @@ public class SearchScreen implements Screen {
         
         budget = addWholeNumberField("Budget");
         
-        searchBtn = createButton("Search", 0, event -> search());
+        searchBtn = new Button("Search");
         rows.add(searchBtn);
         
-        resetBtn = createButton("Reset", 0, event -> reset());
+        resetBtn = new Button("Reset");
         rows.add(resetBtn);
         
-        backBtn = createButton("Back", 0, event -> {
-            QuickTrip.SCREENS.load(WelcomeScreen.class);
-            reset();
-        });
+        backBtn = new Button("Back");
         rows.add(backBtn);
         
-        lastSearchBtn = createButton("Last Search", 0, event -> noSerializeSearch());
+        lastSearchBtn = new Button("Last Search");
         rows.add(lastSearchBtn);
     }
     
-    public SearchScreen() {
+    public SearchView() {
         setupGrid();
         reset();
-    }
-    
-    @Override
-    public Pane getPane() {
-        return grid;
     }
     
 }

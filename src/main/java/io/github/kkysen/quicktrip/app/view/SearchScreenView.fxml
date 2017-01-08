@@ -14,17 +14,24 @@
 <?import javafx.scene.layout.GridPane?>
 
 <GridPane xmlns:fx="http://javafx.com/fxml" fx:id="grid" hgap="10" vgap="10">
+	<fx:define>
+		<String fx:id="now"/> 
+	</fx:define>
 
 	<Label text="Origin" GridPane.columnIndex="0" GridPane.rowIndex="0"/> 
 	<TextField fx:id="origin" GridPane.columnIndex="1" GridPane.rowIndex="0"/> 
 	<Label text="Start Date" GridPane.columnIndex="0" GridPane.rowIndex="1"/> 
-	<DatePicker GridPane.columnIndex="1" GridPane.rowIndex="1"/> 
-	<Button fx:id="moreDestsButton" text="Number of Destinations" GridPane.columnIndex="0" GridPane.rowIndex="3"/> 
+	<DatePicker fx:id="startDate" GridPane.columnIndex="1" GridPane.rowIndex="1"/> 
+	<Button fx:id="moreDestsBtn" text="Number of Destinations" GridPane.columnIndex="0" GridPane.rowIndex="3"/> 
 	<WholeNumberField fx:id="numDests" GridPane.columnIndex="1" GridPane.rowIndex="3"/> 
 	<Label text="Number of People" GridPane.columnIndex="0" GridPane.rowIndex="4"/> 
 	<WholeNumberField fx:id="numPeople" GridPane.columnIndex="1" GridPane.rowIndex="4"/> 
-	<Label text="Budget"/> 
-	<WholeNumberField fx:id="budget"/> 
+	<Label text="Budget" GridPane.columnIndex="0" GridPane.rowIndex="5"/> 
+	<WholeNumberField fx:id="budget" GridPane.columnIndex="1" GridPane.rowIndex="5"/> 
+	<Button fx:id="searchBtn" text="Search" GridPane.columnIndex="0" GridPane.rowIndex="6"/> 
+	<Button fx:id="resetBtn" text="Reset" GridPane.columnIndex="0" GridPane.rowIndex="7"/> 
+	<Button fx:id="backBtn" text="Back" GridPane.columnIndex="0" GridPane.rowIndex="8"/> 
+	<Button fx:id="lastSearchBtn" text="Last Search" GridPane.columnIndex="0" GridPane.rowIndex="9"/> 
 	<alignment><Pos fx:constant="CENTER" /></alignment>
 	<padding>
 		<Insets top="25" right="25" bottom="25" left="25"/> 

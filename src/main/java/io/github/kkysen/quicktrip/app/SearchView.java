@@ -27,22 +27,23 @@ import javafx.scene.layout.GridPane;
 @Getter
 public class SearchView {
     
-    private GridPane grid = new GridPane();
+    @FXML private GridPane grid = new GridPane();
     private final GridRows rows = new GridRows(grid);
     
     @FXML private TextField origin;
     @FXML private DatePicker startDate;
     private DestField dest;
     @FXML private Button moreDestsBtn;
-    private WholeNumberField numDests;
+    @FXML private WholeNumberField numDests;
     private final List<DestField> destFields = new ArrayList<>();
-    private WholeNumberField numPeople;
-    private WholeNumberField budget;
+    @FXML private WholeNumberField numPeople;
+    @FXML private WholeNumberField budget;
     @FXML private Button searchBtn;
     @FXML private Button backBtn;
     @FXML private Button resetBtn;
     @FXML private Button lastSearchBtn;
-    @FXML private final LocalDate now = LocalDate.now();
+    
+    @FXML private final String now = LocalDate.now().toString();
     
     /**
      * model and view
@@ -220,27 +221,38 @@ public class SearchView {
         return addWholeNumberField(name, Long.MAX_VALUE);
     }
     
+    
     public void reset() {
+    	origin = new TextField();
+        moreDestsBtn = new Button();
+        numDests = new WholeNumberField();
+        numPeople = new WholeNumberField();
+        budget = new WholeNumberField();
+        searchBtn = new Button();
+        backBtn = new Button();
+        resetBtn = new Button();
+        lastSearchBtn = new Button();
+    	
         rows.clear();
         
-        origin = addLabeledInputField("Origin");
+        //origin = addLabeledInputField("Origin");
         
         //        startDate = addLabeledInputField("Start Date");
         //        rowIndex++;
-        final Label startDateLabel = new Label("Start Date");
-        startDate = new DatePicker(LocalDate.now());
-        rows.add(startDateLabel, startDate);
+        //final Label startDateLabel = new Label("Start Date");
+        //startDate = new DatePicker(LocalDate.now());
+        //rows.add(startDateLabel, startDate);
         
         dest = new DestField(0);
         dest.addToGrid();
         
-        moreDestsBtn = new Button("Number of Destinations");
+        /*moreDestsBtn = new Button("Number of Destinations");
         numDests = new WholeNumberField(23);
-        rows.add(moreDestsBtn, numDests);
+        rows.add(moreDestsBtn, numDests);*/
         
         //numDests = addButtonedInputField("Number of Destinations", event -> makeMoreDests());
         
-        numPeople = addWholeNumberField("Number of People");
+        /*numPeople = addWholeNumberField("Number of People");
         
         budget = addWholeNumberField("Budget");
         
@@ -254,7 +266,7 @@ public class SearchView {
         rows.add(backBtn);
         
         lastSearchBtn = new Button("Last Search");
-        rows.add(lastSearchBtn);
+        rows.add(lastSearchBtn);*/
     }
     
     public SearchView() {
@@ -268,6 +280,7 @@ public class SearchView {
 			e.printStackTrace();
 		}
     	
+    	((DatePicker)grid.lookup("#startDate")).setValue(LocalDate.now());
         //setupGrid();
         reset();
     }

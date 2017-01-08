@@ -1,5 +1,8 @@
 package io.github.kkysen.quicktrip.app;
 
+import javafx.beans.property.LongProperty;
+import javafx.beans.property.ReadOnlyLongWrapper;
+import javafx.beans.property.SimpleLongProperty;
 import javafx.scene.control.TextField;
 
 /**
@@ -9,12 +12,18 @@ import javafx.scene.control.TextField;
  */
 public class WholeNumberField extends TextField {
     
-    private long max;
+    private final long max;
     private final String maxString;
+    
+    private ReadOnlyLongWrapper pMax;
     
     public WholeNumberField(long max) {
         this.max = max;
         maxString = String.valueOf(max);
+        
+        //For fxgraph support
+        //pMax = new ReadOnlyLongWrapper();
+    	//pMax.set(max);
     }
     
     public WholeNumberField() {

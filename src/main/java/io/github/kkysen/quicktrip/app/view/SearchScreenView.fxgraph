@@ -16,6 +16,7 @@ component SearchScreenView
 		//controlledby  io.github.kkysen.quicktrip.app.SearchScreen 
 		{
 	//define LocalDate id now
+	define String id now
 	
 	GridPane id grid {
 		alignment : const Pos#CENTER,
@@ -42,9 +43,10 @@ component SearchScreenView
 			static columnIndex : 0,
 			static rowIndex : 1
 		},
-		DatePicker {
+		DatePicker id startDate {
 			//need to manually set
-			//localDate : idref now,
+			//converter : idref now,
+			//showWeekNumbers : true,
 			static columnIndex : 1,
 			static rowIndex : 1
 		},
@@ -53,7 +55,7 @@ component SearchScreenView
 		//row 2
 		
 		
-		Button id moreDestsButton {
+		Button id moreDestsBtn {
 			text : "Number of Destinations",
 			static columnIndex : 0,
 			static rowIndex : 3
@@ -76,11 +78,40 @@ component SearchScreenView
 		},
 		
 		Label {
-			text : "Budget"
+			text : "Budget",
+			static columnIndex : 0,
+			static rowIndex : 5
 		},
 		WholeNumberField id budget {
-			//max : const Long#MAX_VALUE
+			//max : const Long#MAX_VALUE,
+			static columnIndex : 1,
+			static rowIndex : 5
+		},
+		
+		Button id searchBtn {
+			text : "Search",
+			static columnIndex : 0,
+			static rowIndex : 6
+		},
+		
+		Button id resetBtn {
+			text : "Reset",
+			static columnIndex : 0,
+			static rowIndex : 7
+		},
+		
+		Button id backBtn {
+			text : "Back",
+			static columnIndex : 0,
+			static rowIndex : 8
+		},
+		
+		Button id lastSearchBtn {
+			text : "Last Search",
+			static columnIndex : 0,
+			static rowIndex : 9
 		}
+		
 		
 		
 	}

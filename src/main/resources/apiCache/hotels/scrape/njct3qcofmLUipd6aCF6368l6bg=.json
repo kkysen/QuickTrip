@@ -1,0 +1,82 @@
+[
+  {
+    "price": 339,
+    "name": "Embassy Suites Orlando - Downtown",
+    "address": "191 E Pine St, Orlando, FL, 32801 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/480000/471300/471273/471273_22_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Travelodge Orlando Downtown Centroplex",
+    "address": "409 N Magnolia Ave, Orlando, FL, 32801 United States",
+    "distance": 0.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10100/10026/9038b220_l.jpg"
+  },
+  {
+    "price": 215,
+    "name": "DoubleTree by Hilton Orlando Downtown",
+    "address": "60 South Ivanhoe Boulevard, Orlando, FL, 32804 United States",
+    "distance": 1.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10600/10565/e7f2ada0_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "Best Western Orlando West",
+    "address": "2014 W Colonial Dr, Orlando, FL, 32804 United States",
+    "distance": 1.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15600/15524/15524_84_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Days Inn Orlando Downtown",
+    "address": "3300 S Orange Blossom Trl, Orlando, FL, 32839 United States",
+    "distance": 2.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41500/41487/41487_181_l.jpg"
+  },
+  {
+    "price": 44,
+    "name": "Days Inn Orlando Near Millennia Mall",
+    "address": "2500 West 33rd Street, Orlando, FL, 32839 United States",
+    "distance": 3.1,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13200/13149/e05b6291_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Ramada Orlando Downtown",
+    "address": "3155 S John Young Pkwy, Orlando, FL, 32805 United States",
+    "distance": 3.1,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/203000/202918/202918_29_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Quality Inn \u0026 Suites Winter Park Village Area",
+    "address": "626 Lee Road, Orlando, FL, 32810 United States",
+    "distance": 4.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25100/25059/e398dd80_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Motel 6 Orlando - Winter Park",
+    "address": "5300 Adanson Road, I-4 at Lee Road, Exit #88, Orlando, FL, 32810 United States",
+    "distance": 4.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1040000/1039800/1039764/1039764_19_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Katerina Hotel Orlando",
+    "address": "830 Lee Road, Orlando, FL, 32810 United States",
+    "distance": 4.9,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4670000/4663500/4663480/6a1bca4b_l.jpg"
+  }
+]

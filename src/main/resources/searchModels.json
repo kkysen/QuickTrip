@@ -1,0 +1,46 @@
+[
+  {
+    "origin": "296 6th St, Brooklyn, NY",
+    "startDate": "2017-01-08",
+    "destinations": [
+      {
+        "address": "San Francisco, CA",
+        "numDays": 2
+      },
+      {
+        "address": "Orlando, FL",
+        "numDays": 3
+      },
+      {
+        "address": "Seattle, Washington",
+        "numDays": 4
+      },
+      {
+        "address": "San Antonio, TX",
+        "numDays": 5
+      },
+      {
+        "address": "Chicago, IL",
+        "numDays": 6
+      }
+    ],
+    "budget": 5000,
+    "numPeople": 5
+  },
+  {
+    "budget": 0,
+    "numPeople": 0
+  },
+  {
+    "origin": "Brooklyn, NY",
+    "startDate": "2017-01-08",
+    "destinations": [
+      {
+        "address": "Manhattan, NY",
+        "numDays": 5
+      }
+    ],
+    "budget": 2000,
+    "numPeople": 5
+  }
+]

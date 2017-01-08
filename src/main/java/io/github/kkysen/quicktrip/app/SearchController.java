@@ -65,13 +65,20 @@ public class SearchController implements Screen {
         return QuickTripConstants.GSON.fromJson(reader, MODEL_LIST_TYPE);
     }
     
-    private void serializeModels() {
+    private void removeModelIfInvalid() {
         boolean isValid = false;
         try {
             isValid = model.validate();
-        } catch (final InputError e1) {}
+        } catch (final InputError e) {}
         if (!isValid) {
             models.remove(0); // don't serialize invalid model
+        }
+    }
+    
+    private void serializeModels() {
+        System.out.println("serializingModels");
+        if (!QuickTrip.SCREENS.getCurrentScreen().equals(ItineraryController.class)) {
+            removeModelIfInvalid();
         }
         final String json = QuickTripConstants.GSON.toJson(models, MODEL_LIST_TYPE);
         try {

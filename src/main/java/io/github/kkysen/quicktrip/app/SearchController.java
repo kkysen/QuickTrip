@@ -1,5 +1,18 @@
 package io.github.kkysen.quicktrip.app;
 
+import io.github.kkysen.quicktrip.Constants;
+import io.github.kkysen.quicktrip.io.MyFiles;
+
+import java.io.IOException;
+import java.io.Reader;
+import java.lang.reflect.Type;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.List;
+
+import com.google.gson.reflect.TypeToken;
+
 import javafx.scene.control.Button;
 import javafx.scene.layout.Pane;
 
@@ -10,8 +23,19 @@ import javafx.scene.layout.Pane;
  */
 public class SearchController implements Screen {
     
+    private static final Path MODEL_PATH = Paths.get("src/main/resources/searchModels.json");
+    
+    private static final Type MODEL_LIST_TYPE = new TypeToken<List<SearchModel>>() {}.getType();
+    
+    private final Thread SAVE_MODELS_ON_EXIT = new Thread(this::serializeModels);
+    {
+        Runtime.getRuntime().addShutdownHook(SAVE_MODELS_ON_EXIT);
+    }
+    
+    private final List<SearchModel> models;
+    
     private final SearchView view;
-    private final SearchModel model;
+    private SearchModel model;
     
     private final Button moreDestinationsBtn;
     private final Button searchBtn;
@@ -31,6 +55,32 @@ public class SearchController implements Screen {
         lastSearchBtn.setOnAction(event -> oldSearch());
     }
     
+    private List<SearchModel> deserializeModels() {
+        Reader reader;
+        try {
+            reader = Files.newBufferedReader(MODEL_PATH, Constants.CHARSET);
+        } catch (final IOException e) {
+            throw new RuntimeException(e); // shouldn't happen
+        }
+        return QuickTripConstants.GSON.fromJson(reader, MODEL_LIST_TYPE);
+    }
+    
+    private void serializeModels() {
+        boolean isValid = false;
+        try {
+            isValid = model.validate();
+        } catch (final InputError e1) {}
+        if (!isValid) {
+            models.remove(0); // don't serialize invalid model
+        }
+        final String json = QuickTripConstants.GSON.toJson(models, MODEL_LIST_TYPE);
+        try {
+            MyFiles.write(MODEL_PATH, json);
+        } catch (final IOException e) {
+            throw new RuntimeException(e); // shouldn't happen
+        }
+    }
+    
     public SearchController() {
         view = new SearchView();
         
@@ -41,7 +91,10 @@ public class SearchController implements Screen {
         lastSearchBtn = view.getLastSearchBtn();
         addButtonActions();
         
+        models = deserializeModels();
+        
         model = new SearchModel();
+        models.add(0, model);
     }
     
     private void addMoreDestinations() {
@@ -84,7 +137,7 @@ public class SearchController implements Screen {
         QuickTrip.SCREENS.load(ItineraryController.class);
     }
     
-    private void oldSearch() {
+    private void loadedSearch() {
         // switch to SearchingScreen while ItineraryScreen loads
         QuickTrip.SCREENS.load(SearchingScreen.class);
         try {
@@ -95,10 +148,20 @@ public class SearchController implements Screen {
         new Thread(this::loadItineraryScreen).run();
     }
     
-    public void search() {
+    private void search() {
         if (validateNewSearch()) {
-            oldSearch();
+            loadedSearch();
         }
+    }
+    
+    private void oldSearch(final int searchNum) {
+        models.add(0, models.remove(searchNum));
+        model = models.get(0);
+        loadedSearch();
+    }
+    
+    private void oldSearch() {
+        oldSearch(1);
     }
     
     @Override

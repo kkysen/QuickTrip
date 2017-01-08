@@ -3,9 +3,6 @@ package io.github.kkysen.quicktrip.app;
 import io.github.kkysen.quicktrip.app.SearchView.DestField;
 import io.github.kkysen.quicktrip.json.Json;
 
-import java.io.IOException;
-import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
@@ -21,18 +18,7 @@ import lombok.Setter;
  */
 @Json
 @NoArgsConstructor
-//@Getter
-//@Setter
 public class SearchModel implements Model {
-    
-    private static final Path PATH = Paths.get("searchArgs.json");
-    
-    //    private transient TextField originInput;
-    //    private transient DatePicker dateInput;
-    //    private transient WholeNumberField numDestinations;
-    //    private transient List<DestField> destinationInputs;
-    //    private transient WholeNumberField numPeopleInput;
-    //    private transient WholeNumberField budgetInput;
     
     private transient @Setter String originInput;
     private transient @Setter LocalDate startDateInput;
@@ -126,22 +112,6 @@ public class SearchModel implements Model {
     public boolean validateBudget() throws InputError {
         budget = WholeNumberInputError.validate(budgetInput, "Budget", Long.MAX_VALUE);
         return true;
-    }
-    
-    public void serialize() {
-        try {
-            serialize(PATH);
-        } catch (final IOException e) {
-            throw new RuntimeException(e); // shouldn't happen
-        }
-    }
-    
-    public static SearchModel deserialize() {
-        try {
-            return Model.deserialize(PATH, SearchModel.class);
-        } catch (final IOException e) {
-            throw new RuntimeException(e); // shouldn't happen
-        }
     }
     
 }

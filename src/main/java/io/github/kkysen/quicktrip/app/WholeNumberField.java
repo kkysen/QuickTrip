@@ -9,10 +9,10 @@ import javafx.scene.control.TextField;
  */
 public class WholeNumberField extends TextField {
     
-    private final long max;
+    private long max;
     private final String maxString;
     
-    public WholeNumberField(final long max) {
+    public WholeNumberField(long max) {
         this.max = max;
         maxString = String.valueOf(max);
     }

@@ -1,11 +1,13 @@
 package io.github.kkysen.quicktrip.app;
 
+import java.io.IOException;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
 import lombok.Getter;
-
+import javafx.fxml.FXML;
+import javafx.fxml.FXMLLoader;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.Node;
@@ -25,21 +27,22 @@ import javafx.scene.layout.GridPane;
 @Getter
 public class SearchView {
     
-    private final GridPane grid = new GridPane();
+    private GridPane grid = new GridPane();
     private final GridRows rows = new GridRows(grid);
     
-    private TextField origin;
-    private DatePicker startDate;
+    @FXML private TextField origin;
+    @FXML private DatePicker startDate;
     private DestField dest;
-    private Button moreDestsBtn;
+    @FXML private Button moreDestsBtn;
     private WholeNumberField numDests;
     private final List<DestField> destFields = new ArrayList<>();
     private WholeNumberField numPeople;
     private WholeNumberField budget;
-    private Button searchBtn;
-    private Button backBtn;
-    private Button resetBtn;
-    private Button lastSearchBtn;
+    @FXML private Button searchBtn;
+    @FXML private Button backBtn;
+    @FXML private Button resetBtn;
+    @FXML private Button lastSearchBtn;
+    @FXML private final LocalDate now = LocalDate.now();
     
     /**
      * model and view
@@ -255,7 +258,17 @@ public class SearchView {
     }
     
     public SearchView() {
-        setupGrid();
+    	FXMLLoader loader = new FXMLLoader();
+    	loader.setLocation(getClass().getResource("view/SearchScreenView.fxml"));
+    	loader.setController(SearchController.class);
+    	
+    	try {
+			grid = loader.load();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+    	
+        //setupGrid();
         reset();
     }
     

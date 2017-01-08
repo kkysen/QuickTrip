@@ -52,4 +52,8 @@ public class WholeNumberField extends TextField {
         }
     }
     
+    public long getValue() {
+        return Long.parseLong(getText());
+    }
+    
 }

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 333,
+    "name": "The Westin St. Francis San Francisco on Union Square",
+    "address": "335 Powell Street, San Francisco, CA, 94102 United States",
+    "distance": 0.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26800/26760/26760_517_l.jpg"
+  },
+  {
+    "price": 197,
+    "name": "Villa Florence",
+    "address": "225 Powell St, San Francisco, CA, 94102 United States",
+    "distance": 0.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5500/5425/5425_93_l.jpg"
+  },
+  {
+    "price": 162,
+    "name": "Handlery Union Square Hotel",
+    "address": "351 Geary St, San Francisco, CA, 94102 United States",
+    "distance": 0.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6700/6666/b9b43d8b_l.jpg"
+  },
+  {
+    "price": 192,
+    "name": "Hotel G San Francisco",
+    "address": "386 Geary Street, San Francisco, CA, 94102 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24600/24540/9070ebee_l.jpg"
+  },
+  {
+    "price": 229,
+    "name": "Holiday Inn Express San Francisco Union Square",
+    "address": "235 O Farrell Street, San Francisco, CA, 94102 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/151000/150946/150946_15_l.jpg"
+  },
+  {
+    "price": 194,
+    "name": "Kensington Park Hotel",
+    "address": "450 Post St, San Francisco, CA, 94102 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17700/17616/17616_46_l.jpg"
+  },
+  {
+    "price": 156,
+    "name": "King George Hotel",
+    "address": "334 Mason Street, San Francisco, CA, 94102 United States",
+    "distance": 0.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14500/14451/b49e1a92_l.jpg"
+  },
+  {
+    "price": 224,
+    "name": "Kimpton Sir Francis Drake Hotel",
+    "address": "450 Powell Street, San Francisco, CA, 94102 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15300/15254/859aca2b_l.jpg"
+  },
+  {
+    "price": 176,
+    "name": "Hotel Union Square",
+    "address": "114 Powell St, San Francisco, CA, 94102 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23400/23395/3e548c73_l.jpg"
+  },
+  {
+    "price": 324,
+    "name": "JW Marriott San Francisco Union Square",
+    "address": "500 Post Street, San Francisco, CA, 94102 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2100/2063/2063_241_l.jpg"
+  }
+]

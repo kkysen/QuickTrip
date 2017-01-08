@@ -22,7 +22,7 @@ public class ItineraryScreenModel {
     private final List<NoDateDestination> noDateDests;
     
     private @Getter final int numPeople;
-    private @Getter final int budget;
+    private @Getter final long budget;
     private @Getter final LocalDate startDate;
     private @Getter final String origin;
     private @Getter final List<Destination> destinations;
@@ -71,7 +71,7 @@ public class ItineraryScreenModel {
         final SearchArgs searchArgs = deserializeSearchArgs();
         numPeople = searchArgs.getNumPeople();
         budget = searchArgs.getBudget();
-        startDate = searchArgs.getDate();
+        startDate = searchArgs.getStartDate();
         origin = searchArgs.getOrigin();
         noDateDests = searchArgs.getDestinations();
         

@@ -672,6 +672,7 @@ public abstract class CachedApiRequest<R> implements Request<R> {
     }
     
     private void findUrl() {
+        baseUrl = getBaseUrl();
         final List<String> apiKeyList = getApiKeys();
         if (apiKeyList == null || apiKeyList.size() == 0) {
             apiKey = null;
@@ -679,12 +680,12 @@ public abstract class CachedApiRequest<R> implements Request<R> {
             return;
         }
         apiKeyList.forEach(apiKeys::addKey);
-        baseUrl = getBaseUrl();
         apiKeyQueryName = getApiKeyQueryName();
         for (final String apiKey : apiKeys) {
             this.apiKey = apiKey;
             setUrlWithApiKey();
             if (isCached()) {
+                setUrlWithApiKey();
                 isCached = true;
                 return;
             }
@@ -793,6 +794,7 @@ public abstract class CachedApiRequest<R> implements Request<R> {
     protected abstract void cache(Path path, R response) throws IOException;
     
     private void setNonCachedResponse() {
+        System.out.println(getClass().getSimpleName() + ": " + url);
         try {
             if (isCached) {
                 final Path cachePath = requestCache.getPath(url);
@@ -847,7 +849,6 @@ public abstract class CachedApiRequest<R> implements Request<R> {
     @Override
     public R getResponse() throws IOException {
         if (response == null) {
-            setQuery();
             setUrl();
             final Thread setNonCachedResponse = new Thread(this::setNonCachedResponse);
             try {

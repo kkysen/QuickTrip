@@ -1,0 +1,82 @@
+[
+  {
+    "price": 267,
+    "name": "Millennium Biltmore Hotel Los Angeles",
+    "address": "506 S Grand Ave, Los Angeles, CA, 90071 United States",
+    "distance": 0.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25800/25715/25715_87_l.jpg"
+  },
+  {
+    "price": 233,
+    "name": "Hilton Checkers",
+    "address": "535 South Grand Avenue, Los Angeles, CA, 90071 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26700/26663/26663_58_l.jpg"
+  },
+  {
+    "price": 381,
+    "name": "The Standard Downtown LA",
+    "address": "550 S Flower St, Los Angeles, CA, 90071 United States",
+    "distance": 0.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/890000/887000/886918/b90e737f_l.jpg"
+  },
+  {
+    "price": 229,
+    "name": "The Westin Bonaventure Hotel and Suites, Los Angeles",
+    "address": "404 S Figueroa St, Los Angeles, CA, 90071 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11400/11376/11376_227_l.jpg"
+  },
+  {
+    "price": 294,
+    "name": "Sheraton Grand Los Angeles",
+    "address": "711 S Hope St, Los Angeles, CA, 90017 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17500/17422/6954a231_l.jpg"
+  },
+  {
+    "price": 249,
+    "name": "Omni Los Angeles Hotel at California Plaza",
+    "address": "251 S Olive St, Los Angeles, CA, 90012 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18600/18595/18595_103_l.jpg"
+  },
+  {
+    "price": 219,
+    "name": "The Milner Hotel",
+    "address": "813 S Flower St, Los Angeles, CA, 90017 United States",
+    "distance": 0.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2400/2312/2312_24_l.jpg"
+  },
+  {
+    "price": 130,
+    "name": "Kawada Hotel",
+    "address": "200 S Hill St, Los Angeles, CA, 90012 United States",
+    "distance": 0.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25200/25151/1f85d99b_l.jpg"
+  },
+  {
+    "price": 133,
+    "name": "Stillwell Hotel",
+    "address": "838 S Grand Ave, Los Angeles, CA, 90017 United States",
+    "distance": 0.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8100/8017/9b5a866d_l.jpg"
+  },
+  {
+    "price": 160,
+    "name": "The Angels Suites",
+    "address": "650 South Bixel Street, Los Angeles, CA, 90017 United States",
+    "distance": 0.5,
+    "rating": 3.1,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11520000/11517200/11517149/11517149_21_l.jpg"
+  }
+]

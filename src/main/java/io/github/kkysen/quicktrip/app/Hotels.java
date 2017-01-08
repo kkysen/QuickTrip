@@ -20,14 +20,14 @@ public class Hotels implements AnnealingState {
     private final List<Integer> numDays;
     private final List<Double> avgRatings;
     private final double maxRating;
-    private final int budget;
+    private final long budget;
     
     private final List<Hotel> hotels;
     
     private Hotel prevHotel;
     private int prevIndex;
     
-    public Hotels(final List<Destination> dests, final int budget) {
+    public Hotels(final List<Destination> dests, final long budget) {
         this.budget = budget;
         size = dests.size();
         pools = new ArrayList<>(size);

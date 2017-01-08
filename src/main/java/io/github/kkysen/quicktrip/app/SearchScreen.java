@@ -1,10 +1,5 @@
 package io.github.kkysen.quicktrip.app;
 
-import io.github.kkysen.quicktrip.apis.google.geocoding.exists.AddressExistsRequest;
-import io.github.kkysen.quicktrip.io.MyFiles;
-
-import java.io.IOException;
-import java.nio.file.Paths;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
@@ -45,36 +40,14 @@ public class SearchScreen implements Screen {
     private Button resetBtn;
     private Button lastSearchBtn;
     
-    private static String quote(final Object o) {
-        return '"' + o.toString() + '"';
-    }
-    
-    private void nonExistentAddressError(final String address) throws InputError {
-        final String error = "Nonexistent Address";
-        final String msg = quote(address) + " does not exist.";
-        throw new InputError(error, msg);
-    }
-    
-    private void validateAddress(final TextField address) throws InputError {
-        final String addressText = address.getText();
-        if (addressText.isEmpty()) {
-            throw new InputError("No Address", "Please enter an address");
-        }
-        try {
-            if (!AddressExistsRequest.exists(addressText)) {
-                nonExistentAddressError(addressText);
-            }
-        } catch (final IOException e) {
-            throw new RuntimeException(e);
-        }
-    }
-    
     /**
      * 
      * 
      * @author Khyber Sen
      */
-    public class DestField {
+    public class DestField implements Model {
+        
+        private static final int MAX_NUM_DAYS = 365;
         
         private final int destNum;
         private final Label label;
@@ -91,11 +64,8 @@ public class SearchScreen implements Screen {
             }
             
             label = new Label(labelText);
-            
             address = new TextField();
-            
-            numDays = new WholeNumberField(365);
-            
+            numDays = new WholeNumberField(MAX_NUM_DAYS);
             destFields.add(this);
         }
         
@@ -112,42 +82,15 @@ public class SearchScreen implements Screen {
          * 
          * @throws InputError if the address doesn't exist
          */
-        private void validateAddress() throws InputError {
-            SearchScreen.this.validateAddress(address);
+        @Validation
+        private boolean validateAddress() throws AddressInputError {
+            return AddressInputError.validate(address.getText());
         }
         
-        private void invalidNumDaysError(final String numDays) throws InputError {
-            final String error = "Invalid Number of Days";
-            final String msg = quote(numDays) + " is not a valid number of days. "
-                    + "It must be a whole number.";
-            throw new InputError(error, msg);
-        }
-        
-        private void validateNumDays() throws InputError {
-            final String numDaysText = numDays.getText();
-            int numDays;
-            try {
-                numDays = Integer.parseInt(numDaysText);
-            } catch (final NumberFormatException e) {
-                invalidNumDaysError(numDaysText);
-                return;
-            }
-            if (numDays < 1) {
-                invalidNumDaysError(numDaysText);
-            }
-        }
-        
-        /**
-         * validates input (i.e. error dialog if invalid)
-         * should be called before {@link #serialize()}
-         * 
-         * @throws InputError if the user input was invalid
-         * 
-         * @see #serialize()
-         */
-        public void validate() throws InputError {
-            validateAddress();
-            validateNumDays();
+        @Validation
+        private boolean validateNumDays() throws WholeNumberInputError {
+            WholeNumberInputError.validate(numDays.getText(), "Number of Days", MAX_NUM_DAYS);
+            return true;
         }
         
         /**
@@ -158,10 +101,10 @@ public class SearchScreen implements Screen {
          * 
          * @return Json Pojo NoDateDestination for serialization
          */
-        public NoDateDestination serialize() {
+        public NoDateDestination toNoDateDestination() {
             return new NoDateDestination(address.getText(), Integer.parseInt(numDays.getText()));
         }
-
+        
         @Override
         public String toString() {
             return "DestField [destNum=" + destNum + ", label=" + label + ", address=" + address
@@ -215,7 +158,7 @@ public class SearchScreen implements Screen {
             numDestsError();
             return;
         }
-                
+        
         if (numDests == destFields.size()) {
             return; // nothing changes
         }
@@ -282,77 +225,17 @@ public class SearchScreen implements Screen {
         }
     }
     
-    private String serializeOrigin() throws InputError {
-        validateAddress(origin);
-        return origin.getText();
-    }
-    
-    private LocalDate serializeStartDate() {
-        // FIXME
-        //return startDate.getText();
-        return startDate.getValue();
-    }
-    
-    private List<NoDateDestination> serializeDests() throws InputError {
-        for (final DestField destField : destFields) {
-            destField.validate();
-        }
-        final List<NoDateDestination> serializedDests = new ArrayList<>();
-        destFields.forEach(dest -> serializedDests.add(dest.serialize()));
-        return serializedDests;
-    }
-    
-    private void invalidNumPeopleError() throws InputError {
-        final String error = "Invalid Number of People";
-        final String msg = "You must enter a whole number.";
-        throw new InputError(error, msg);
-    }
-    
-    private int serializeNumPeople() throws InputError {
-        int numPeople = 0;
-        try {
-            numPeople = Integer.parseInt(this.numPeople.getText());
-        } catch (final NumberFormatException e) {
-            invalidNumPeopleError();
-        }
-        if (numPeople < 1) {
-            invalidNumPeopleError();
-        }
-        return numPeople;
-    }
-    
-    private void invalidBudgetError() throws InputError {
-        final String error = "Invalid Budget";
-        final String msg = "You must enter a whole number.";
-        throw new InputError(error, msg);
-    }
-    
-    private int serializeBudget() throws InputError {
-        int budget = 0;
-        try {
-            budget = Integer.parseInt(this.budget.getText());
-        } catch (final NumberFormatException e) {
-            invalidBudgetError();
-        }
-        if (budget < 1) {
-            invalidBudgetError();
-        }
-        return budget;
-    }
-    
     private void serializeSearchArgs() throws InputError {
-        final String origin = serializeOrigin();
-        final LocalDate startDate = serializeStartDate();
-        final List<NoDateDestination> dests = serializeDests();
-        final int numPeople = serializeNumPeople();
-        final int budget = serializeBudget();
-        final SearchArgs searchArgs = new SearchArgs(origin, startDate, dests, budget, numPeople);
-        final String json = QuickTripConstants.GSON.toJson(searchArgs);
-        try {
-            MyFiles.write(Paths.get(QuickTripConstants.SEARCH_ARGS_PATH), json);
-        } catch (final IOException e) {
-            throw new RuntimeException(e);
-        }
+        final SearchArgs searchArgs = new SearchArgs(
+                origin.getText(),
+                startDate.getValue(),
+                String.valueOf(destFields.size()), // FIXME
+                destFields,
+                numPeople.getText(),
+                budget.getText()
+        );
+        searchArgs.validate();
+        searchArgs.serialize();
     }
     
     private void loadItineraryScreen() {

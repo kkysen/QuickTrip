@@ -4,9 +4,11 @@ import java.util.List;
 
 import lombok.Getter;
 
+import javafx.scene.Node;
 import javafx.scene.control.Label;
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.GridPane;
+import javafx.scene.text.Text;
 
 /**
  * 
@@ -25,7 +27,13 @@ public class ItineraryScreenView {
     
     private void addDestination(final Destination dest) {
         final Hotel hotel = dest.getHotel();
-        final ImageView img = new ImageView(hotel.getImgUrl());
+        final String imgUrl = hotel.getImgUrl();
+        Node img;
+        if (imgUrl.isEmpty()) {
+            img = new Text("No Image Found");
+        } else {
+            img = new ImageView(imgUrl);
+        }
         final Label name = new Label(hotel.getName());
         final Label address = new Label(hotel.getAddress());
         final Label numDays = new Label("(" + dest.getNumDays() + " days)");

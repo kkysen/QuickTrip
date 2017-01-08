@@ -1,1 +1,25 @@
-{"origin":"Bloomington, IN","date":"2017-03-31","destinations":[{"address":"Fort Wayne, IN","numDays":2},{"address":"Riverside, OH","numDays":1},{"address":"Woodbury, NY","numDays":2},{"address":"San Antonio, TX","numDays":3},{"address":"Eagle, CO","numDays":8},{"address":"La Follette, TN","numDays":3},{"address":"Berkeley, MO","numDays":8},{"address":"Bulverde, TX","numDays":8},{"address":"Roseburg, OR","numDays":7},{"address":"Tacoma, WA","numDays":5},{"address":"Salem, NJ","numDays":5},{"address":"St. Joseph, MO","numDays":2},{"address":"Mount Joy, PA","numDays":5},{"address":"Dinuba, CA","numDays":6},{"address":"Macedonia, OH","numDays":1},{"address":"Streetsboro, OH","numDays":2},{"address":"Collingswood, NJ","numDays":2},{"address":"Norwalk, CA","numDays":1},{"address":"Robstown, TX","numDays":7},{"address":"Presque Isle, ME","numDays":3},{"address":"Brier, WA","numDays":2}],"budget":33200,"numPeople":2}
+{
+  "origin": "Brooklyn, NY",
+  "startDate": "2017-01-08",
+  "numDestinations": 4,
+  "destinations": [
+    {
+      "address": "Los Angeles, CA",
+      "numDays": 2
+    },
+    {
+      "address": "Manhattan, NY",
+      "numDays": 3
+    },
+    {
+      "address": "San Francisco, CA",
+      "numDays": 4
+    },
+    {
+      "address": "Chicago, IL",
+      "numDays": 5
+    }
+  ],
+  "budget": 5000,
+  "numPeople": 5
+}

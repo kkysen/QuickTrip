@@ -42,7 +42,12 @@ public interface Model {
             } catch (final IllegalArgumentException e) {
                 throw new RuntimeException(e); // shouldn't happen
             } catch (final InvocationTargetException e) {
-                throw (InputError) e.getCause();
+                final Throwable cause = e.getCause();
+                if (cause instanceof InputError) {
+                    throw (InputError) cause;
+                } else {
+                    throw new RuntimeException(cause);
+                }
             }
             if (method.getReturnType().equals(Boolean.TYPE)) {
                 validated = validated && (boolean) retValue;

@@ -82,7 +82,7 @@ public class SearchModel implements Model {
         return true;
     }
     
-    @Validation
+    //@Validation
     public boolean validateNumDestinations() throws WholeNumberInputError, EmptyInputError {
         numDestinations = (int) WholeNumberInputError.validate(numDestinationsInput,
                 "Number of Destinations", 23);

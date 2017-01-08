@@ -46,7 +46,7 @@ public class SearchView {
      * 
      * @author Khyber Sen
      */
-    public class DestField implements Model {
+    public class DestField implements Model, Nodes {
         
         private static final int MAX_NUM_DAYS = 365;
         
@@ -74,17 +74,19 @@ public class SearchView {
             rows.add(label, address, numDays);
         }
         
+        @Override
         public Node[] toNodeArray() {
             return new Node[] {label, address, numDays};
         }
         
         /**
          * makes an error dialog if the address does not exist
+         * @throws EmptyInputError if there's no address
          * 
          * @throws InputError if the address doesn't exist
          */
         @Validation
-        private boolean validateAddress() throws AddressInputError {
+        private boolean validateAddress() throws AddressInputError, EmptyInputError {
             return AddressInputError.validate(address.getText());
         }
         
@@ -134,6 +136,23 @@ public class SearchView {
     }
     
     public void setNumDestinations(final int numDests) {
+//        final int numToAdd = numDests - destFields.size();
+//        if (numToAdd == 0) {
+//            return;
+//        }
+//        final boolean adding = numToAdd > 0;
+//        
+//        final DestField lastDest = destFields.get(destFields.size() - 1);
+//        final int fromRowIndex = GridPane.getRowIndex(lastDest.address);
+//        if (adding) {
+//            for (int i = 0; i < numToAdd; i++) {
+//                rows.addNodes(i + fromRowIndex, destFields.get(i));
+//            }
+//        } else {
+//            final int numToRemove = - numToAdd;
+//            rows.removeRange(fromRowIndex - numToRemove, fromRowIndex);
+//        }
+        
         //      final int numToRemove = destFields.size() - numDests;
         //        if (numToRemove > 0) {
         //            final int fromRowIndex = GridPane

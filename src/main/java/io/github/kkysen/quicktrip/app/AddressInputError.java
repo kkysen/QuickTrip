@@ -16,15 +16,15 @@ public class AddressInputError extends InputError {
         super(error, msg);
     }
     
-    public static AddressInputError none() {
-        return new AddressInputError("No Address", "Please enter an address");
+    public static EmptyInputError none() {
+        return new EmptyInputError("No Address", "Please enter an address");
     }
     
     public static AddressInputError nonexistent(final String address) {
         return new AddressInputError("Nonexistent Addres", quote(address) + " does not exist.");
     }
     
-    public static boolean validate(final String address) throws AddressInputError {
+    public static boolean validate(final String address) throws AddressInputError, EmptyInputError {
         if (address.isEmpty()) {
             throw none();
         }

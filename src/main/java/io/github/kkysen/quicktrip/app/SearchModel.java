@@ -57,7 +57,7 @@ public class SearchModel implements Model {
     }
     
     @Validation
-    public boolean validateOrigin() throws AddressInputError {
+    public boolean validateOrigin() throws AddressInputError, EmptyInputError {
         final boolean validated = AddressInputError.validate(originInput);
         origin = originInput;
         return validated;

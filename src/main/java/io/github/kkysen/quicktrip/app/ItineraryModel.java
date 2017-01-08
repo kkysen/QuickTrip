@@ -17,7 +17,7 @@ import lombok.Getter;
  * 
  * @author Khyber Sen
  */
-public class ItineraryScreenModel {
+public class ItineraryModel {
     
     private final List<NoDateDestination> noDateDests;
     
@@ -67,7 +67,7 @@ public class ItineraryScreenModel {
         return annealer.getMinState();
     }
     
-    public ItineraryScreenModel() {
+    public ItineraryModel() {
         final SearchModel searchArgs = deserializeSearchArgs();
         numPeople = searchArgs.getNumPeople();
         budget = searchArgs.getBudget();

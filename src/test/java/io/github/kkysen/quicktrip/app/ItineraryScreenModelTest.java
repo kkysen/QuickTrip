@@ -68,7 +68,7 @@ public class ItineraryScreenModelTest {
             throw new RuntimeException(e);
         }
         
-        final ItineraryScreenModel model = new ItineraryScreenModel();
+        final ItineraryModel model = new ItineraryModel();
         assertEquals(numDests, model.getDestinations().size());
     }
     

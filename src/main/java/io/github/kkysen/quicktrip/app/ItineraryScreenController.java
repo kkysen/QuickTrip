@@ -9,13 +9,13 @@ import javafx.scene.layout.Pane;
  */
 public class ItineraryScreenController implements Screen {
     
-    private ItineraryScreenModel model;
+    private ItineraryModel model;
     private ItineraryScreenView view;
     
     public ItineraryScreenController() {}
     
     public void load() {
-        model = new ItineraryScreenModel();
+        model = new ItineraryModel();
         view = new ItineraryScreenView();
         view.addDestinations(model.getDestinations());
     }

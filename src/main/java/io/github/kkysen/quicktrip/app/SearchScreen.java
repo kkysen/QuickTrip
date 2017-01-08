@@ -226,7 +226,7 @@ public class SearchScreen implements Screen {
     }
     
     private void serializeSearchArgs() throws InputError {
-        final SearchArgs searchArgs = new SearchArgs(
+        final SearchModel searchArgs = new SearchModel(
                 origin.getText(),
                 startDate.getValue(),
                 String.valueOf(destFields.size()), // FIXME

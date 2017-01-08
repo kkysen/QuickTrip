@@ -39,7 +39,7 @@ public class ItineraryScreenModelTest {
     
     
     public void test() {
-        final SearchArgs searchArgs = new SearchArgs();
+        final SearchModel searchArgs = new SearchModel();
         
         LocalDate date = LocalDate.now();
         date = date.plusDays(random.nextInt(100));

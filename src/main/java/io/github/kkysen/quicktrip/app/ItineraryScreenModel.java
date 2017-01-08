@@ -29,14 +29,14 @@ public class ItineraryScreenModel {
     private final List<Hotel> hotels;
     private @Getter final int cost;
     
-    private SearchArgs deserializeSearchArgs() {
+    private SearchModel deserializeSearchArgs() {
         String json;
         try {
             json = MyFiles.read(Paths.get(QuickTripConstants.SEARCH_ARGS_PATH));
         } catch (final IOException e) {
             throw new RuntimeException(e);
         }
-        return QuickTripConstants.GSON.fromJson(json, SearchArgs.class);
+        return QuickTripConstants.GSON.fromJson(json, SearchModel.class);
     }
     
     private List<Destination> orderDestinations() {
@@ -68,7 +68,7 @@ public class ItineraryScreenModel {
     }
     
     public ItineraryScreenModel() {
-        final SearchArgs searchArgs = deserializeSearchArgs();
+        final SearchModel searchArgs = deserializeSearchArgs();
         numPeople = searchArgs.getNumPeople();
         budget = searchArgs.getBudget();
         startDate = searchArgs.getStartDate();

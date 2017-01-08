@@ -23,7 +23,7 @@ import lombok.Setter;
 @NoArgsConstructor
 @Getter
 @Setter
-public class SearchArgs implements Model {
+public class SearchModel implements Model {
     
     private static final Path PATH = Paths.get("searchArgs.json");
     
@@ -48,7 +48,7 @@ public class SearchArgs implements Model {
     private long budget;
     private int numPeople;
     
-    public SearchArgs(final String originInput, final LocalDate startDateInput,
+    public SearchModel(final String originInput, final LocalDate startDateInput,
             final String numDestinationsInput, final List<DestField> destinationInputs,
             final String numPeopleInput, final String budgetInput) {
         this.originInput = originInput;
@@ -59,7 +59,7 @@ public class SearchArgs implements Model {
         this.budgetInput = budgetInput;
     }
     
-    public SearchArgs(final String origin, final LocalDate date, final int numDestinations,
+    public SearchModel(final String origin, final LocalDate date, final int numDestinations,
             final List<NoDateDestination> destinations, final int budget, final int numPeople) {
         this.origin = origin;
         this.startDate = date;
@@ -135,9 +135,9 @@ public class SearchArgs implements Model {
         }
     }
     
-    public static SearchArgs deserialize() {
+    public static SearchModel deserialize() {
         try {
-            return Model.deserialize(PATH, SearchArgs.class);
+            return Model.deserialize(PATH, SearchModel.class);
         } catch (final IOException e) {
             throw new RuntimeException(e); // shouldn't happen
         }

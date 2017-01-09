@@ -1,0 +1,82 @@
+[
+  {
+    "price": 60,
+    "name": "Howard Johnson Inn Concord/Kannapolis",
+    "address": "1601 Concord Parkway, I-85 Exit 58, Concord, NC, 28025 United States",
+    "distance": 3.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21600/21511/d2983700_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Sleep Inn Concord - Kannapolis",
+    "address": "1120 Copperfield Blvd Ne, Concord, NC, 28025 United States",
+    "distance": 4.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/151400/151309/151309_77_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Hampton Inn by Hilton Concord/Kannapolis",
+    "address": "612 Dickens Pl Ne, Concord, NC, 28025 United States",
+    "distance": 4.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42800/42733/42733_55_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Days Inn Concord",
+    "address": "5125 Davidson Hwy/I-85, I-85 \u0026 Route 73 Exit 55, Concord, NC, 28027 United States",
+    "distance": 5.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7500/7422/32cf63eb_l.jpg"
+  },
+  {
+    "price": 211,
+    "name": "Embassy Suites Charlotte-Concord/Golf Resort \u0026 Spa",
+    "address": "5400 John Q Hammon Dr, Concord, NC, 28027 United States",
+    "distance": 6.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1550000/1545200/1545114/1545114_120_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Homewood Suites by Hilton Concord Charlotte",
+    "address": "7300 Scott Padgett Parkway, Concord, NC, 28027 United States",
+    "distance": 7.1,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16130000/16128900/16128823/cf259338_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Residence Inn Marriott Concord",
+    "address": "7601 Scott Padgett Parkway, Concord, NC, 28027 United States",
+    "distance": 7.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2560000/2559500/2559455/cd01651c_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Hampton Inn \u0026 Suites Concord/Charlotte",
+    "address": "9850 Weddington Road Ext, Concord, NC, 28027 United States",
+    "distance": 7.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/458700/458629/458629_39_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Hilton Garden Inn Charlotte-Concord",
+    "address": "7831 Gateway Ln Nw, Concord, NC, 28027 United States",
+    "distance": 7.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3350000/3348100/3348064/3348064_9_l.jpg"
+  },
+  {
+    "price": 136,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Charlotte-Concord-I-85",
+    "address": "7772 Gateway Lane NW, Concord, NC, 28027 United States",
+    "distance": 7.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/520000/519800/519793/519793_267_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 91,
+    "name": "Hampton Inn \u0026 Suites Petoskey",
+    "address": "920 Spring St, Petoskey, MI, 49770 United States",
+    "distance": 1.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/854800/854790/c9b0f8c1_l.jpg"
+  },
+  {
+    "price": 61,
+    "name": "Americas Best Value Inn",
+    "address": "1300 Spring St, Petoskey, MI, 49770 United States",
+    "distance": 1.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24800/24800/24800_59_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "@ Michigan Inn \u0026 Lodge",
+    "address": "1420 S. US-131 (Spring St.), Petoskey, MI, 49770 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/930000/921900/921825/921825_88_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Stafford\u0027s Bay View Inn",
+    "address": "2011 Woodland Ave, Petoskey, MI, 49770 United States",
+    "distance": 1.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2870000/2868000/2867914/2867914_28_l.jpg"
+  },
+  {
+    "price": 117,
+    "name": "Holiday Inn Express \u0026 Suites Petoskey",
+    "address": "1751 S Us Highway 131, Petoskey, MI, 49770 United States",
+    "distance": 1.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1710000/1705900/1705835/1705835_129_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Bay Inn of Petoskey",
+    "address": "2445 Charlevoix Ave US-31, Petoskey, MI, 49770 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3040000/3034800/3034731/3034731_57_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Super 8 Hotel - Petoskey",
+    "address": "2645 Charlevoix Ave, Petoskey, MI, 49770 United States",
+    "distance": 1.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459400/459372/459372_116_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Odawa Hotel",
+    "address": "1444 US Highway 131 South, Petoskey, MI, 49770 United States",
+    "distance": 2.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11910000/11901900/11901899/11901899_9_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Comfort Inn",
+    "address": "1314 US 31 N., Petoskey, MI, 49770 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19000/18932/18932_66_l.jpg"
+  },
+  {
+    "price": 187,
+    "name": "Bay Harbor Cottages",
+    "address": "3600 Village Harbor Drive, Bay Harbor, MI, 49770 United States",
+    "distance": 2.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1430000/1429000/1428949/52a5e175_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 103,
+    "name": "Candlewood Suites Nanuet - Rockland County",
+    "address": "20 Overlook Blvd, Nanuet, NY, 10954 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/700000/694300/694250/694250_93_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Days Inn Nanuet Spring Valley",
+    "address": "367 W Route 59, Nanuet, NY, 10954 United States",
+    "distance": 2.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/180000/172100/172075/172075_105_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Quality Inn",
+    "address": "100 Spring Valley Marketplace, Spring Valley, NY, 10977 United States",
+    "distance": 2.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25400/25400/cc4c1ff7_l.jpg"
+  },
+  {
+    "price": 94,
+    "name": "Howard Johnson Inn Suffern",
+    "address": "17 N Airmont Rd, Suffern, NY, 10901 United States",
+    "distance": 2.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/20000/19934/5ee2d883_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Crowne Plaza Suffern - Mahwah",
+    "address": "3 Executive Blvd, Suffern, NY, 10901 United States",
+    "distance": 2.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2400/2358/2358_289_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Hilton Garden Inn Nanuet",
+    "address": "270 W Route 59, Nanuet, NY, 10954 United States",
+    "distance": 2.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/990000/986000/985904/985904_17_l.jpg"
+  },
+  {
+    "price": 122,
+    "name": "Hampton Inn Nanuet",
+    "address": "260 W Route 59, Nanuet, NY, 10954 United States",
+    "distance": 2.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1560000/1551400/1551336/1551336_24_l.jpg"
+  },
+  {
+    "price": 145,
+    "name": "DoubleTree by Hilton Hotel Nanuet",
+    "address": "425 E Route 59, Nanuet, NY, 10954 United States",
+    "distance": 4.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/800/736/736_73_l.jpg"
+  },
+  {
+    "price": 234,
+    "name": "Courtyard by Marriott Montvale",
+    "address": "100 Chestnut Ridge Road, Montvale, NJ, 07645 United States",
+    "distance": 4.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21800/21786/b23695ad_l.jpg"
+  },
+  {
+    "price": 151,
+    "name": "Hampton Inn \u0026 Suites Mahwah",
+    "address": "290 Rt 17s, Mahwah, NJ, 07430 United States",
+    "distance": 5.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3560000/3555900/3555820/3555820_73_l.jpg"
+  }
+]

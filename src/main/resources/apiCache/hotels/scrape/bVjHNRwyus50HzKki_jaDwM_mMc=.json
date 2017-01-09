@@ -1,0 +1,82 @@
+[
+  {
+    "price": 162,
+    "name": "The Inn At Virginia Tech and Skelton Conference Center",
+    "address": "901 Prices Fork Road, Blacksburg, VA, 24061 United States",
+    "distance": 1.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1320000/1312200/1312191/1312191_54_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Main \u0026 Henry Extended Stay Residences",
+    "address": "1307 North Main Street, Blacksburg, VA, 24060 United States",
+    "distance": 1.1,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/18000000/17140000/17138500/17138488/8265ee97_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "Hilton Garden Inn Blacksburg",
+    "address": "900 Plantation Rd, Blacksburg, VA, 24060 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18500/18446/b5df24de_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Holiday Inn Express \u0026 Suites Blacksburg - University Area",
+    "address": "1020 Plantation Rd, Blacksburg, VA, 24060 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/542300/542228/542228_236_l.jpg"
+  },
+  {
+    "price": 197,
+    "name": "Courtyard by Marriott Blacksburg",
+    "address": "105 Southpark Drive, Blacksburg, VA, 24060 United States",
+    "distance": 2.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1740000/1738500/1738447/1738447_76_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Days Inn Blacksburg Conference Center",
+    "address": "3503 Holiday Ln, Blacksburg, VA, 24060 United States",
+    "distance": 2.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15100/15033/15033_80_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "Comfort Inn",
+    "address": "3705 S Main St, Blacksburg, VA, 24060 United States",
+    "distance": 3.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6700/6633/6633_55_l.jpg"
+  },
+  {
+    "price": 193,
+    "name": "Hampton Inn Christiansburg",
+    "address": "380 Arbor Dr, Christiansburg, VA, 24073 United States",
+    "distance": 4.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/538700/538632/538632_51_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Holiday Inn Christiansburg Blacksburg",
+    "address": "99 Bradley Dr, Christiansburg, VA, 24073 United States",
+    "distance": 4.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4530000/4521900/4521812/4521812_75_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Super 8 Christiansburg/Blacksburg Area",
+    "address": "55 Laurel St, Christiansburg, VA, 24073 United States",
+    "distance": 4.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/39900/39811/6afb5736_l.jpg"
+  }
+]

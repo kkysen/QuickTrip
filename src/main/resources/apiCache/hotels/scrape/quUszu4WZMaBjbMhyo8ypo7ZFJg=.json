@@ -1,0 +1,18 @@
+[
+  {
+    "price": 93,
+    "name": "Eagle Fire Lodge \u0026 Cabins",
+    "address": "777 US Highway 24 East, Woodland Park, CO, 80866 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3030000/3020800/3020715/3020715_11_l.jpg"
+  },
+  {
+    "price": 188,
+    "name": "Pikes Peak Paradise - Woodland Park",
+    "address": "236 Pinecrest Rd, Woodland Park, CO, 80863 United States",
+    "distance": 2.5,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/67800/67766/67766_6_l.jpg"
+  }
+]

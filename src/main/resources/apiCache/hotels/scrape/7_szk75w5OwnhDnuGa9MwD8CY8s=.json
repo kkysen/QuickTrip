@@ -1,0 +1,18 @@
+[
+  {
+    "price": 64,
+    "name": "Days Inn West Allis/Milwaukee",
+    "address": "1673 S. 108th St., Hwy-100 \u0026 Mitchell, S 2-Blks, Milwaukee, WI, 53214 United States",
+    "distance": 0.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15100/15085/15085_130_l.jpg"
+  },
+  {
+    "price": 106,
+    "name": "Hampton Inn \u0026 Suites Milwaukee West",
+    "address": "8201 W. Greenfield Avenue, Milwaukee, WI, 53214 United States",
+    "distance": 1.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10370000/10368500/10368493/10368493_1_l.jpg"
+  }
+]

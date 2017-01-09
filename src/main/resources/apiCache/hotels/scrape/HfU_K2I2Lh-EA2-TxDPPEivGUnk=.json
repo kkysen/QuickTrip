@@ -1,0 +1,82 @@
+[
+  {
+    "price": 51,
+    "name": "Econo Lodge Inn \u0026 Suites At Ft. Benning",
+    "address": "4483 Victory Dr, Columbus, GA, 31903 United States",
+    "distance": 11.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10900/10836/10836_21_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Hampton Inn Columbus / South - Fort Benning",
+    "address": "1776 Legacy Way, Columbus, GA, 31903 United States",
+    "distance": 12.0,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5820000/5814900/5814811/5814811_1_l.jpg"
+  },
+  {
+    "price": 122,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Columbus-Fort Benning",
+    "address": "3901 Victory Dr, Columbus, GA, 31903 United States",
+    "distance": 12.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2980000/2976500/2976404/2976404_93_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Hawthorn Suites by Wyndham Columbus Fort Benning",
+    "address": "3662 Victory Dr, Columbus, GA, 31903 United States",
+    "distance": 13.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2150000/2149000/2148965/06f46d61_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Columbus/Near Fort Benning",
+    "address": "3930 Saint Marys Road, Columbus, GA, 31907 United States",
+    "distance": 13.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2310000/2301400/2301395/2301395_135_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Candlewood Suites Columbus Fort Benning",
+    "address": "3389 Victory Dr, Columbus, GA, 31903 United States",
+    "distance": 13.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2620000/2614800/2614745/2614745_136_l.jpg"
+  },
+  {
+    "price": 49,
+    "name": "Motel 6 Columbus",
+    "address": "3050 Victory Dr, Columbus, GA, 31903 United States",
+    "distance": 14.0,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/992600/992565/992565_29_l.jpg"
+  },
+  {
+    "price": 39,
+    "name": "Value Place Columbus, GA (Victory Dr.)",
+    "address": "1801 Victory Drive Muscogee, Columbus, GA, 31901 United States",
+    "distance": 15.0,
+    "rating": 3.3,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1610000/1601100/1601021/1601021_13_l.jpg"
+  },
+  {
+    "price": 39,
+    "name": "Value Place Columbus, GA (Blanchard Blvd.)",
+    "address": "1801 Victory Dr, Columbus, GA, 31901 United States",
+    "distance": 15.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2140000/2133800/2133753/2133753_18_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Comfort Inn Columbus",
+    "address": "3460 Macon Rd, Columbus, GA, 31907 United States",
+    "distance": 15.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/850000/849300/849294/849294_62_l.jpg"
+  }
+]

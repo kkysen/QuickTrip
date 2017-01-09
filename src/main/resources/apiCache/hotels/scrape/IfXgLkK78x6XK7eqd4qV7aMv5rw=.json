@@ -1,0 +1,82 @@
+[
+  {
+    "price": 76,
+    "name": "SummerPlace Inn Destin",
+    "address": "14047 Emerald Coast Pkwy, Destin, FL, 32541 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/77600/77552/77552_88_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Home2 Suites By Hilton Destin",
+    "address": "14060 Emerald Coast Pkwy, Destin, FL, 32541 United States",
+    "distance": 0.3,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15920000/15914000/15913932/897b6a95_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Club Destin",
+    "address": "1085 Highway 98 E, Destin, FL, 32541 United States",
+    "distance": 0.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22000/21976/e5ee79ed_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Days Inn Destin",
+    "address": "1029 Highway 98 East, Hwy 98 And Airport Road, Destin, FL, 32541 United States",
+    "distance": 0.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10100/10088/10088_34_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Hampton Inn \u0026 Suites Destin",
+    "address": "1625 Hwy 98 East, Destin, FL, 32541 United States",
+    "distance": 0.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7200/7129/7129_81_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Wingate by Wyndham - Destin FL",
+    "address": "117 Palms St, Destin, FL, 32541 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1090000/1088200/1088178/853835f6_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Destin",
+    "address": "19001 Emerald Coast Pkwy, Destin, FL, 32541 United States",
+    "distance": 0.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/422600/422592/422592_101_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Destin Inn and Suites",
+    "address": "713 Harbor Blvd.( highway 98 east), Destin, FL, 32541 United States",
+    "distance": 1.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41600/41548/f30dbc24_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Destin Harbor Houseboat",
+    "address": "718 Harbor Boulevard, Destin, FL, 32541 United States",
+    "distance": 1.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10360000/10356800/10356792/10356792_17_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Emerald Coast Houseboat",
+    "address": "718 Harbor Boulevard, Destin, FL, 32541 United States",
+    "distance": 1.7,
+    "rating": 4.7,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15140000/15137800/15137726/15137726_4_l.jpg"
+  }
+]

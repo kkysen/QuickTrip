@@ -1,0 +1,18 @@
+[
+  {
+    "price": 60,
+    "name": "Super 8 Indianola",
+    "address": "601 Highway 82 W, Indianola, MS, 38751 United States",
+    "distance": 1.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/220000/214900/214874/c408cc0b_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Rodeway Inn",
+    "address": "1112 Highway 82 E, Indianola, MS, 38751 United States",
+    "distance": 2.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6970000/6968400/6968369/6968369_2_l.jpg"
+  }
+]

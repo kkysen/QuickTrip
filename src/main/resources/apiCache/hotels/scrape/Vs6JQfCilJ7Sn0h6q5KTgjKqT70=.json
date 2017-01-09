@@ -1,0 +1,82 @@
+[
+  {
+    "price": 51,
+    "name": "Red Roof Inn Chicago - Joliet",
+    "address": "1750 Mcdonough St, Joliet, IL, 60436 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3000/2961/2961_142_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "Harrah\u0027s Joliet Casino \u0026 Hotel",
+    "address": "151 N Joliet St, Joliet, IL, 60432 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/560000/554500/554417/554417_13_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Quality Inn \u0026 Suites South",
+    "address": "135 S Larkin Ave, Joliet, IL, 60436 United States",
+    "distance": 1.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11300/11263/11263_42_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Motel 6 Joliet - I-80",
+    "address": "1850 McDonough Road, Joliet, IL, 60436 United States",
+    "distance": 1.3,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1040000/1037800/1037765/1037765_79_l.jpg"
+  },
+  {
+    "price": 82,
+    "name": "Clarion Hotel \u0026 Convention Center Joliet",
+    "address": "411 S Larkin Ave, Joliet, IL, 60436 United States",
+    "distance": 1.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8200/8184/8184_206_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Hollywood Casino Joliet",
+    "address": "777 Hollywood Blvd, Joliet, IL, 60436 United States",
+    "distance": 3.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6290000/6289400/6289328/6289328_7_l.jpg"
+  },
+  {
+    "price": 157,
+    "name": "Hampton Inn Joliet I-80",
+    "address": "1521 Riverboat Center Drive, Joliet, IL, 60431 United States",
+    "distance": 3.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42100/42030/42030_119_l.jpg"
+  },
+  {
+    "price": 132,
+    "name": "Fairfield Inn by Marriott Joliet South",
+    "address": "1501 Riverboat Center Dr, Joliet, IL, 60431 United States",
+    "distance": 3.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28400/28366/054a7d25_l.jpg"
+  },
+  {
+    "price": 145,
+    "name": "TownePlace Suites by Marriott Joliet South",
+    "address": "1515 Riverboat Center Dr, Joliet, IL, 60431 United States",
+    "distance": 3.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2170000/2161800/2161739/8f5aa0ba_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "Comfort Inn",
+    "address": "1520 Commerce Lane, Joliet, IL, 60431-9026 United States",
+    "distance": 3.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/64300/64282/64282_97_l.jpg"
+  }
+]

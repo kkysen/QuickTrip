@@ -1,0 +1,66 @@
+[
+  {
+    "price": 63,
+    "name": "Quality Inn",
+    "address": "809 Highway 332, Clute, TX, 77531 United States",
+    "distance": 1.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9100/9044/9044_74_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Baymont Inn and Suites Clute",
+    "address": "900 West Highway 332, Clute, TX, 77531 United States",
+    "distance": 1.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/913200/913180/44c02b9c_l.jpg"
+  },
+  {
+    "price": 130,
+    "name": "TownePlace Suites by Marriott Lake Jackson Clute",
+    "address": "1003 Highway 332, Clute, TX, 77531 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/700000/695400/695364/695364_68_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Clute - Lake Jackson",
+    "address": "1117 Highway 332, Clute, TX, 77531 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2670000/2665100/2665064/2665064_124_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "La Quinta Inn Clute Lake Jackson",
+    "address": "1126 South Hwy 332 West, Clute, TX, 77531 United States",
+    "distance": 1.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18100/18022/b4ec96b5_l.jpg"
+  },
+  {
+    "price": 167,
+    "name": "Hampton Inn and Suites Lake Jackson Clute",
+    "address": "1121 Highway 332, Clute, TX, 77531 United States",
+    "distance": 1.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2280000/2270700/2270694/80a907a2_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Americas Best Value Inn Clute/Lake Jackson",
+    "address": "805 West Hwy. 332, Clute, TX, 77531 United States",
+    "distance": 1.5,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7600/7570/7570_41_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Super 8 Lake Jackson / Clute",
+    "address": "915 Highway 332, Lake Jackson, TX, 77566 United States",
+    "distance": 1.7,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1400/1352/1352_148_l.jpg"
+  }
+]

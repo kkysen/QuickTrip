@@ -1,0 +1,82 @@
+[
+  {
+    "price": 97,
+    "name": "Candlewood Suites Junction City Fort Riley",
+    "address": "100 Hammons Drive, Junction City, KS, 66441 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1660000/1652900/1652867/1652867_71_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Quality Inn Near Fort Riley",
+    "address": "305 E Chestnut St, Junction City, KS, 66441 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1670000/1669200/1669184/4acc89e8_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Best Western J. C. Inn",
+    "address": "604 E Chestnut Street, Junction City, KS, 66441 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/999000/998932/998932_82_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Courtyard by Marriott Junction City",
+    "address": "310 Hammons Dr, Junction City, KS, 66441 United States",
+    "distance": 0.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1110000/1101900/1101836/1101836_24_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Budget Host Golden Wheat Motel",
+    "address": "820 S Washington St, Junction City, KS, 66441 United States",
+    "distance": 0.4,
+    "rating": 1.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1330000/1329500/1329462/1329462_19_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Junction City Inn \u0026 Suites",
+    "address": "221 E Ash St, Junction City, KS, 66441 United States",
+    "distance": 0.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4760000/4758600/4758594/4758594_27_l.jpg"
+  },
+  {
+    "price": 106,
+    "name": "Holiday Inn Express Junction City",
+    "address": "120 N East St, Junction City, KS, 66441 United States",
+    "distance": 0.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42600/42536/42536_128_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Hampton Inn Junction City",
+    "address": "1039 S Washington St, Junction City, KS, 66441 United States",
+    "distance": 0.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3770000/3764400/3764351/3764351_20_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Usa Inn Extended stay",
+    "address": "1001 E 6st, Junction City, KS, 66441 United States",
+    "distance": 0.8,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/908400/908312/908312_1_l.jpg"
+  },
+  {
+    "price": 48,
+    "name": "Super 8 Junction City",
+    "address": "1133 S Washington St, I-70 at Exit 296 North, Junction City, KS, 66441 United States",
+    "distance": 0.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50300/50215/50215_89_l.jpg"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "price": 40,
+    "name": "Budget Lodge Inn Abilene",
+    "address": "101 NW 14th St, Abilene, KS, 67410 United States",
+    "distance": 0.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3560000/3554800/3554728/58fafae5_l.jpg"
+  },
+  {
+    "price": 40,
+    "name": "Diamond Motel Abilene",
+    "address": "1407 N.W. 3rd St, Abilene, KS, 67410 United States",
+    "distance": 1.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1710000/1705900/1705874/836baf06_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Abilene",
+    "address": "110 E. Lafayette, Abilene, KS, 67410 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/531100/531041/531041_149_l.jpg"
+  }
+]

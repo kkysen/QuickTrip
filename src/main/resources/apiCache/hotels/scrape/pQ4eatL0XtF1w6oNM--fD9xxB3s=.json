@@ -1,0 +1,82 @@
+[
+  {
+    "price": 109,
+    "name": "The Glendalia Boutique Hotel \u0026 Culinary Studio",
+    "address": "11 Village Sq, Cincinnati, OH, 45246 United States",
+    "distance": 3.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6660000/6650100/6650009/6650009_25_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Baymont Inn \u0026 Suites Cincinnati",
+    "address": "10900 Crowne Point Dr, Cincinnati, OH, 45241 United States",
+    "distance": 3.5,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9700/9619/38a71af8_l.jpg"
+  },
+  {
+    "price": 145,
+    "name": "Drury Inn \u0026 Suites Cincinnati Sharonville",
+    "address": "2265 E Sharon Rd, Cincinnati, OH, 45241 United States",
+    "distance": 3.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1500000/1499600/1499563/1499563_98_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Red Roof Inn Cincinnati - Sharonville",
+    "address": "2301 E Sharon Road, I-75 at Exit #15 / Sharon Road, Cincinnati, OH, 45241 United States",
+    "distance": 3.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3000/2984/0bef9d4a_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "La Quinta Inn \u0026 Suites Cincinnati Sharonville",
+    "address": "11029 Dowlin Dr, Cincinnati, OH, 45241 United States",
+    "distance": 3.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9300/9296/de5e2915_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "2463 E Sharon Rd, Cincinnati, OH, 45241 United States",
+    "distance": 3.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/560000/551100/551050/551050_58_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Hilton Garden Inn Cincinnati/Sharonville",
+    "address": "11149 Dowlin Dr, Cincinnati, OH, 45241 United States",
+    "distance": 3.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/890500/890425/890425_37_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Holiday Inn Express \u0026 Suites Cincinnati-N/Sharonville",
+    "address": "11160 Dowlin Dr, Cincinnati, OH, 45241 United States",
+    "distance": 3.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/116800/116726/116726_139_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Hawthorn Suites by Wyndham Cincinnati",
+    "address": "11180 Dowlin Dr, Cincinnati, OH, 45241 United States",
+    "distance": 3.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/915700/915655/915655_248_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Ramada Plaza Cincinnati Sharonville",
+    "address": "11320 Chester Rd, Cincinnati, OH, 45246 United States",
+    "distance": 4.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/564700/564603/4e68fe1f_l.jpg"
+  }
+]

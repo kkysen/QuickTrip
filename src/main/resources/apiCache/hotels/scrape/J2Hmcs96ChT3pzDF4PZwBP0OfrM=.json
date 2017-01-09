@@ -1,0 +1,82 @@
+[
+  {
+    "price": 349,
+    "name": "Hilton Tampa Downtown",
+    "address": "211 N Tampa Street, Tampa, FL, 33602 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7500/7497/7497_69_l.jpg"
+  },
+  {
+    "price": 309,
+    "name": "Sheraton Tampa Riverwalk Hotel",
+    "address": "200 N Ashley Dr, Tampa, FL, 33602 United States",
+    "distance": 0.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22400/22354/22354_116_l.jpg"
+  },
+  {
+    "price": 305,
+    "name": "Le Meridien Tampa",
+    "address": "601 North Florida Avenue, Tampa, FL, 33602 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8150000/8144200/8144115/8144115_29_l.jpg"
+  },
+  {
+    "price": 218,
+    "name": "Aloft Tampa Downtown",
+    "address": "100 W Kennedy Blvd, Tampa, FL, 33602 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8350000/8343400/8343315/8343315_43_l.jpg"
+  },
+  {
+    "price": 259,
+    "name": "Floridan",
+    "address": "905 N Florida Ave, Tampa, FL, 33602 United States",
+    "distance": 0.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6140000/6139700/6139615/6139615_23_l.jpg"
+  },
+  {
+    "price": 239,
+    "name": "Courtyard by Marriott Tampa Downtown",
+    "address": "102 E Cass St, Tampa, FL, 33602 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/116700/116643/3a694c20_l.jpg"
+  },
+  {
+    "price": 269,
+    "name": "Residence Inn By Marriott Tampa Downtown",
+    "address": "101 E Tyler St, Tampa, FL, 33602 United States",
+    "distance": 0.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/542100/542037/542037_44_l.jpg"
+  },
+  {
+    "price": 369,
+    "name": "Embassy Suites Tampa Downtown",
+    "address": "513 S Florida Ave, Tampa, FL, 33602 United States",
+    "distance": 0.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1410000/1407200/1407138/4785b5a9_l.jpg"
+  },
+  {
+    "price": 180,
+    "name": "The Barrymore Hotel Tampa Riverwalk",
+    "address": "111 W Fortune St, Tampa, FL, 33602 United States",
+    "distance": 0.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2100/2040/cb5d2df6_l.jpg"
+  },
+  {
+    "price": 339,
+    "name": "The Westin Tampa Harbour Island",
+    "address": "725 S Harbour Island Blvd, Tampa, FL, 33602 United States",
+    "distance": 0.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2100/2051/2051_257_l.jpg"
+  }
+]

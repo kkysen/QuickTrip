@@ -1,0 +1,82 @@
+[
+  {
+    "price": 321,
+    "name": "The Townsend Hotel",
+    "address": "100 Townsend St, Birmingham, MI, 48009 United States",
+    "distance": 1.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19300/19216/a56fa62a_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Holiday Inn Express Detroit-Birmingham",
+    "address": "35270 Woodward Avenue, Birmingham, MI, 48009 United States",
+    "distance": 2.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8300/8230/8230_223_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Hawthorn Suites by Wyndham Detroit Southfield",
+    "address": "26700 Central Park Blvd, Southfield, MI, 48076 United States",
+    "distance": 2.6,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2400/2396/3fc1fda4_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Candlewood Suites Detroit-Southfield",
+    "address": "1 Corporate Dr, Southfield, MI, 48076 United States",
+    "distance": 2.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/77800/77709/77709_105_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Baymont Inn \u0026 Suites - Southfield/ Detroit",
+    "address": "27500 Northwestern Hwy, Southfield, MI, 48034 United States",
+    "distance": 3.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26100/26044/26044_138_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Marvin\u0027s Garden Inn",
+    "address": "27650 Northwestern Hwy, Southfield, MI, 48034 United States",
+    "distance": 3.3,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1690000/1682500/1682409/1682409_16_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Courtyard by Marriott Southfield",
+    "address": "27027 Northwestern Hwy, Southfield, MI, 48033 United States",
+    "distance": 3.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21400/21344/21344_66_l.jpg"
+  },
+  {
+    "price": 181,
+    "name": "The Westin Southfield Detroit",
+    "address": "1500 Town Center, Southfield, MI, 48075 United States",
+    "distance": 3.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11000/10988/84372b4f_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Red Roof Inn Detroit - Southfield",
+    "address": "27660 Northwestern Highway, Southfield, MI, 48034 United States",
+    "distance": 3.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20700/20687/20687_43_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Detroit Marriott Southfield",
+    "address": "27033 Northwestern Hwy, Southfield, MI, 48034 United States",
+    "distance": 3.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15300/15277/15277_35_l.jpg"
+  }
+]

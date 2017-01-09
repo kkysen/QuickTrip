@@ -1,0 +1,42 @@
+[
+  {
+    "price": 48,
+    "name": "Super 8 Blackwell OK",
+    "address": "1014 W Doolin Ave, Blackwell, OK, 74631 United States",
+    "distance": 1.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/861500/861433/861433_127_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Holiday Inn Express \u0026 Suites Blackwell",
+    "address": "827 S. 44th Street, Blackwell, OK, 74631 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14620000/14612500/14612441/1c049c57_l.jpg"
+  },
+  {
+    "price": 46,
+    "name": "Econo Lodge Blackwell - I-35",
+    "address": "1201 N 44th St, Blackwell, OK, 74631 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1400/1342/1342_107_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Best Western Blackwell Inn",
+    "address": "4545 W White Avenue, Blackwell, OK, 74631 United States",
+    "distance": 3.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8160000/8152800/8152745/8152745_123_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Sleep Inn \u0026 Suites",
+    "address": "4530 West White Avenue, Blackwell, OK, 74631 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10250000/10246100/10246097/10246097_14_l.jpg"
+  }
+]

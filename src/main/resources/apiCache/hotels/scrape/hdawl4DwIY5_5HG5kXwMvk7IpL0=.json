@@ -1,0 +1,74 @@
+[
+  {
+    "price": 116,
+    "name": "Hampton Inn \u0026 Suites Manchester",
+    "address": "1143 Woodbury Hwy, Manchester, TN, 37355 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10430000/10423500/10423470/10423470_4_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Manchester",
+    "address": "201 Expressway Dr, Manchester, TN, 37355 United States",
+    "distance": 2.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1920000/1916100/1916021/7fee323c_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Red Roof Inn \u0026 Suites Manchester, TN",
+    "address": "126 Expressway Drive, Manchester, TN, 37355 United States",
+    "distance": 2.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/810000/809200/809151/809151_60_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Comfort Suites Manchester",
+    "address": "152 Hospitality Blvd, Manchester, TN, 37355 United States",
+    "distance": 2.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2570000/2561100/2561048/2561048_30_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "Holiday Inn Express \u0026 Suites Manchester",
+    "address": "111 Hospitality Blvd, Manchester, TN, 37355 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/793800/793725/793725_152_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Quality Inn",
+    "address": "2314 Hillsboro Blvd, Manchester, TN, 37355 United States",
+    "distance": 2.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4700/4653/4653_75_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Sleep Inn And Suites Manchester",
+    "address": "84 Relco Drive, Manchester, TN, 37355 United States",
+    "distance": 3.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2720000/2716700/2716644/2716644_41_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Motel 6 Manchester TN",
+    "address": "2430 Hillsboro Blvd, Manchester, TN, 37355 United States",
+    "distance": 3.0,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856000/855907/855907_21_l.jpg"
+  },
+  {
+    "price": 42,
+    "name": "Scottish Inn Manchester",
+    "address": "2457 Hillsboro Blvd, Manchester, TN, 37355 United States",
+    "distance": 3.0,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/869200/869108/5c836c79_l.jpg"
+  }
+]

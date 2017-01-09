@@ -1,0 +1,82 @@
+[
+  {
+    "price": 120,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Oroville Lake",
+    "address": "550 Oro Dam Blvd E, Oroville, CA, 95965 United States",
+    "distance": 15.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2210000/2201800/2201790/2201790_118_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Sunset Inn Lake Oroville",
+    "address": "1835 Feather River Blvd, Oroville, CA, 95965 United States",
+    "distance": 15.0,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/790000/789000/788904/788904_26_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Super 8 Oroville",
+    "address": "1470 Feather River Blvd, Oroville, CA, 95965 United States",
+    "distance": 15.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/670000/663100/663070/0823953c_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Motel 6 Oroville",
+    "address": "505 Montgomery St, Oroville, CA, 95965 United States",
+    "distance": 15.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1040000/1039800/1039722/1039722_7_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Lodge At Feather Falls Casino",
+    "address": "3 Alverda Dr, Oroville, CA, 95966 United States",
+    "distance": 15.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2200000/2193300/2193211/2193211_1_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Magnuson Grand Bonanza Inn",
+    "address": "1001 Clark Avenue, Yuba City, CA, 95991 United States",
+    "distance": 16.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17800/17714/d7bbcb76_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Travelodge Yuba City",
+    "address": "965 Gray Ave, Yuba City, CA, 95991 United States",
+    "distance": 16.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1050000/1040800/1040731/186ff1d9_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Best Western Yuba City Inn",
+    "address": "894 W Onstott Road, Yuba City, CA, 95991 United States",
+    "distance": 16.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50800/50781/50781_69_l.jpg"
+  },
+  {
+    "price": 131,
+    "name": "Hampton Inn \u0026 Suites Yuba City",
+    "address": "1375 Sunsweet Blvd, Yuba City, CA, 95993 United States",
+    "distance": 16.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1550000/1545200/1545120/1545120_42_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Econo Lodge Inn \u0026 Suites Yuba City - Marysville",
+    "address": "730 N Palora Avenue, Yuba City, CA, 95991 United States",
+    "distance": 16.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/49700/49688/49688_68_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 90,
+    "name": "Best Western Heritage Inn \u0026 Suites",
+    "address": "2727 US Highway 17 N, Bowling Green, FL, 33834 United States",
+    "distance": 9.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1210000/1206800/1206779/1206779_349_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Stay Inn and Suites",
+    "address": "1035 North Broadway Avenue, Bartow, FL, 33830 United States",
+    "distance": 13.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3080000/3074000/3073957/f61ba93f_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Hampton Inn by Hilton Bartow",
+    "address": "205 Old Bartow Eagle Lake Rd, Bartow, FL, 33830 United States",
+    "distance": 13.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12820000/12817800/12817781/12817781_21_l.jpg"
+  },
+  {
+    "price": 96,
+    "name": "Holiday Inn Express Bartow",
+    "address": "1565 N Broadway Ave, Bartow, FL, 33830 United States",
+    "distance": 13.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1500000/1498000/1497928/1497928_95_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Peace River RV \u0026 Camping Resort",
+    "address": "2555 River Road, Zolfo Springs, FL, 33873 United States",
+    "distance": 15.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9130000/9126600/9126531/9126531_10_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Best Western Mulberry Hotel",
+    "address": "2525 St. Road 60 East, Mulberry, FL, 33860 United States",
+    "distance": 16.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/480000/472000/471990/d295dab7_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Vintage Inn Lake Wales",
+    "address": "541 W. Central Avenue, Lake Wales, FL, 33853 United States",
+    "distance": 16.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50300/50288/50288_31_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Budget Inn",
+    "address": "530 South Scenic Highway, Lake Wales, FL, 33853 United States",
+    "distance": 17.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10090000/10087200/10087112/10087112_74_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Prince of Wales Motel",
+    "address": "513 S Scenic Hwy, Lake Wales, FL, 33853 United States",
+    "distance": 17.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13500000/13497300/13497277/13497277_9_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Green Gables Inn",
+    "address": "21380 Highway 27, Lake Wales, FL, 33859 United States",
+    "distance": 18.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2480000/2479900/2479851/2479851_8_l.jpg"
+  }
+]

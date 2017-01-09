@@ -1,0 +1,26 @@
+[
+  {
+    "price": 60,
+    "name": "Americas Best Value Inn and Suites San Benito",
+    "address": "175 W Expressway 83, Exit Sam Houston Blvd, San Benito, TX, 78586 United States",
+    "distance": 0.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/890000/888700/888664/888664_83_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Executive Inn \u0026 Suites",
+    "address": "1451 W. Expressway 83/I-69, San Benito, TX, 78586 United States",
+    "distance": 1.7,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/34300/34250/34250_12_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Americas Best Value Inn and Suites San Benito/Medical Center",
+    "address": "2597 W Business 77, San Benito, TX, 78586 United States",
+    "distance": 3.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4020000/4011800/4011730/4011730_53_l.jpg"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "price": 179,
+    "name": "Residence Inn by Marriott St. Louis Galleria",
+    "address": "8011 Galleria Parkway, Richmond Heights, MO, 63117 United States",
+    "distance": 0.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19300/19292/19292_22_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Homewood Suites by Hilton St Louis - Galleria",
+    "address": "8040 Clayton Road, Richmond Heights, MO, 63117 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2670000/2665100/2665070/2665070_9_l.jpg"
+  },
+  {
+    "price": 156,
+    "name": "The Cheshire",
+    "address": "6300 Clayton Rd, Richmond Heights, MO, 63117 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26100/26061/26061_198_l.jpg"
+  }
+]

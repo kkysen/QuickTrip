@@ -1,0 +1,82 @@
+[
+  {
+    "price": 59,
+    "name": "Daynite Inn",
+    "address": "1679 Anderson Hwy, Hartwell, GA, 30643 United States",
+    "distance": 1.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42400/42353/42353_12_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Days Inn Royston",
+    "address": "841 Hartwell Street, Royston, GA, 30662 United States",
+    "distance": 10.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/119400/119303/119303_84_l.jpg"
+  },
+  {
+    "price": 43,
+    "name": "Econo Lodge",
+    "address": "13705 Jones St. Building B, Lavonia, GA, 30553 United States",
+    "distance": 12.0,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/18000000/17120000/17116300/17116242/24bd967d_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Days Inn Lavonia",
+    "address": "13705 Jones St, Lavonia, GA, 30553 United States",
+    "distance": 12.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6400/6374/8be0b9e2_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Magnuson Hotel Lavonia",
+    "address": "890 Ross Pl, Lavonia, GA, 30553 United States",
+    "distance": 13.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17400/17354/17354_44_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Super 8 Lavonia",
+    "address": "14227 Jones Street, Hwy 17 I-85 at Exit 173, Lavonia, GA, 30553 United States",
+    "distance": 13.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/62500/62404/62404_171_l.jpg"
+  },
+  {
+    "price": 153,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Lavonia",
+    "address": "110 Owens Drive, Lavonia, GA, 30553 United States",
+    "distance": 13.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1930000/1927100/1927075/1927075_277_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Hampton Inn \u0026 Suites Lavonia",
+    "address": "115 Owens Drive, Lavonia, GA, 30553 United States",
+    "distance": 13.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9110000/9105300/9105285/9105285_30_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Days Inn Elberton",
+    "address": "302 Elbert St, Hwy 72 \u0026 Hwy 17, Elberton, GA, 30635 United States",
+    "distance": 17.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6500/6498/e08d2f3e_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Daynite Inn",
+    "address": "925 Elbert Street, Elberton, GA, 30635 United States",
+    "distance": 19.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856400/856346/856346_2_l.jpg"
+  }
+]

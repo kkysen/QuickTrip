@@ -1,0 +1,82 @@
+[
+  {
+    "price": 75,
+    "name": "Hawthorn Suites by Wyndham Green Bay",
+    "address": "335 W Saint Joseph Street, Green Bay, WI, 54301 United States",
+    "distance": 0.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2300/2211/d4912088_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Mariner Motel",
+    "address": "2222 Riverside Drive, Green Bay, WI, 54301 United States",
+    "distance": 0.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1040000/1038000/1037945/1037945_17_l.jpg"
+  },
+  {
+    "price": 138,
+    "name": "Residence Inn by Marriott Green Bay Downtown",
+    "address": "470 Marina Lane, Green Bay, WI, 54304 United States",
+    "distance": 1.7,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16400000/16398000/16397997/58223bd6_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Aloft Green Bay",
+    "address": "465 Pilgrim Way, Green Bay, WI, 54304 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2570000/2561100/2561058/2561058_74_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Days Inn and Suites Green Bay WI",
+    "address": "1125 E Mason Street, Green Bay, WI, 54301 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/549100/549036/12b64e19_l.jpg"
+  },
+  {
+    "price": 111,
+    "name": "Holiday Inn Express \u0026 Suites Green Bay East",
+    "address": "1663 Hoffman Rd., Green Bay, WI, 54311 United States",
+    "distance": 1.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2290000/2281300/2281268/2281268_102_l.jpg"
+  },
+  {
+    "price": 42,
+    "name": "Economy Inn",
+    "address": "1704 s ashland ave, Green Bay, WI, 54304 United States",
+    "distance": 1.9,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8020000/8015700/8015694/8015694_27_l.jpg"
+  },
+  {
+    "price": 185,
+    "name": "Tundra Lodge",
+    "address": "865 Lombardi Ave, Green Bay, WI, 54304 United States",
+    "distance": 1.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1050000/1046200/1046164/1046164_51_l.jpg"
+  },
+  {
+    "price": 123,
+    "name": "SpringHill Suites Green Bay",
+    "address": "1011 Tony Canadeo Run, \u0026 Brett Favre Pass, Green Bay, WI, 54304 United States",
+    "distance": 2.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1750000/1750000/1749923/9f098a6b_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Hilton Garden Inn Green Bay",
+    "address": "1015 Lombardi Ave, Green Bay, WI, 54304 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/300000/297000/296999/296999_6_l.jpg"
+  }
+]

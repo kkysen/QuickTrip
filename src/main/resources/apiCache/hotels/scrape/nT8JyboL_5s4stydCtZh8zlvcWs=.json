@@ -1,0 +1,82 @@
+[
+  {
+    "price": 118,
+    "name": "Holiday Inn Helena Downtown Conference Center",
+    "address": "22 N Last Chance Gulch Street, Helena, MT, 59601 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40100/40047/fa2787bb_l.jpg"
+  },
+  {
+    "price": 166,
+    "name": "Best Western Premier Helena Great Northern Hotel",
+    "address": "835 Great Northern Boulevard, Helena, MT, 59601-3315 United States",
+    "distance": 0.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/980000/970600/970516/f286d6eb_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Jorgenson\u0027s Inn \u0026 Suites",
+    "address": "1714 11th Ave, Helena, MT, 59601 United States",
+    "distance": 1.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40100/40040/40040_99_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Days Inn Helena",
+    "address": "2001 Prospect Ave, Helena, MT, 59601 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21600/21508/adcd17d7_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Baymont Inn \u0026 Suites Helena",
+    "address": "750 N Fee St, Helena, MT, 59601 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14400/14395/14395_208_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Shilo Inn \u0026 Suites - Helena",
+    "address": "2020 Prospect Ave, Helena, MT, 59601 United States",
+    "distance": 1.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23500/23429/23429_4_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Howard Johnson Helena",
+    "address": "2101 11th Ave, Helena, MT, 59601 United States",
+    "distance": 1.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1190000/1181100/1181016/d7572cc8_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "La Quinta Inn \u0026 Suites Helena",
+    "address": "701 Washington St, Helena, MT, 59601 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19200/19156/806483bd_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Helena",
+    "address": "2150 11th Ave, Helena, MT, 59601 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/119200/119181/de9051ad_l.jpg"
+  },
+  {
+    "price": 106,
+    "name": "Wingate by Wyndham Helena Airport",
+    "address": "2007 N Oakes St, Helena, MT, 59601 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/790900/790807/790807_166_l.jpg"
+  }
+]

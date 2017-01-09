@@ -1,0 +1,18 @@
+[
+  {
+    "price": 124,
+    "name": "Best Western University Inn",
+    "address": "90 E Main Street, Canton, NY, 13617-1452 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14900/14895/69a7f59e_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "White Pillars Lodging",
+    "address": "395 Old State Road, Canton, NY, 13617 United States",
+    "distance": 5.5,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/18000000/17260000/17255200/17255101/99376ff9_l.jpg"
+  }
+]

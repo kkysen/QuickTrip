@@ -1,0 +1,18 @@
+[
+  {
+    "price": 129,
+    "name": "Best Western Brentwood Inn",
+    "address": "8820 Brentwood Blvd, Brentwood, CA, 94513 United States",
+    "distance": 0.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41700/41606/23435201_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Hampton Inn Brentwood",
+    "address": "7605 Brentwood Boulevard, Brentwood, CA, 94513 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2140000/2135000/2134980/2134980_7_l.jpg"
+  }
+]

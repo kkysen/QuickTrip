@@ -1,0 +1,18 @@
+[
+  {
+    "price": 164,
+    "name": "Courtyard Columbus New Albany",
+    "address": "5211 Forest Dr, New Albany, OH, 43054 United States",
+    "distance": 0.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5520000/5511600/5511580/5511580_9_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Hampton Inn \u0026 Suites New Albany Columbus",
+    "address": "5220 Forest Drive, New Albany, OH, 43054 United States",
+    "distance": 1.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12040000/12033300/12033281/12033281_14_l.jpg"
+  }
+]

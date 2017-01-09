@@ -1,0 +1,82 @@
+[
+  {
+    "price": 108,
+    "name": "La Quinta Inn \u0026 Suites NW Tucson/Marana",
+    "address": "6020 West Hospitality Rd, Tucson, AZ, 85743 United States",
+    "distance": 13.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/790000/788300/788206/9af494a7_l.jpg"
+  },
+  {
+    "price": 131,
+    "name": "Holiday Inn Express \u0026 Suites Marana",
+    "address": "8373 North Cracker Barrel, Tucson, AZ, 85743 United States",
+    "distance": 13.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/880000/871300/871209/871209_157_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Super 8 Marana/Tucson Area",
+    "address": "8351 North Cracker Barrel Road, Tucson, AZ, 85743 United States",
+    "distance": 13.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/320000/317200/317172/858beb34_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Days Inn \u0026 Suites Tucson/Marana",
+    "address": "8370 N Cracker Barrel Rd, Tucson, AZ, 85743 United States",
+    "distance": 13.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/480000/474600/474582/474582_170_l.jpg"
+  },
+  {
+    "price": 94,
+    "name": "Red Roof Inn Tucson North - Marana",
+    "address": "4940 W Ina Rd, Tucson, AZ, 85743 United States",
+    "distance": 15.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41500/41416/41416_74_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Tucson AZ Travelodge",
+    "address": "4910 W Ina Rd, Tucson, AZ, 85743 United States",
+    "distance": 15.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/869500/869435/6791eb61_l.jpg"
+  },
+  {
+    "price": 212,
+    "name": "Omni Tucson National Resort",
+    "address": "2727 W Club Dr, Tucson, AZ, 85742 United States",
+    "distance": 17.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28500/28458/28458_92_l.jpg"
+  },
+  {
+    "price": 153,
+    "name": "Fairfield Inn \u0026 Suites Tucson North/Oro Valley",
+    "address": "10150 N Oracle Road, Oro Valley, AZ, 85737 United States",
+    "distance": 19.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/560000/551900/551839/551839_140_l.jpg"
+  },
+  {
+    "price": 229,
+    "name": "Hilton Tucson El Conquistador Golf \u0026 Tennis Resort",
+    "address": "10000 North Oracle Road, Oro Valley, AZ, 85704 United States",
+    "distance": 20.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16000/15981/d187a640_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Red Lion Inn \u0026 Suites Tucson North - Foothills",
+    "address": "7411 N Oracle Rd, Tucson, AZ, 85704 United States",
+    "distance": 20.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15800/15776/7eec98df_l.jpg"
+  }
+]

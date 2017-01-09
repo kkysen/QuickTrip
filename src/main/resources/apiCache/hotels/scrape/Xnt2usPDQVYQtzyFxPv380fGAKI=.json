@@ -1,0 +1,50 @@
+[
+  {
+    "price": 69,
+    "name": "Travelers Inn Manteca",
+    "address": "1106 W Yosemite Ave, Manteca, CA, 95337 United States",
+    "distance": 0.9,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3570000/3566100/3566051/3566051_1_l.jpg"
+  },
+  {
+    "price": 133,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Manteca",
+    "address": "Yosemite and Commerce, Manteca, CA, 95336 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1030000/1029900/1029853/1029853_281_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Best Western Plus Executive Inn \u0026 Suites",
+    "address": "1415 E Yosemite Ave, Manteca, CA, 95336 United States",
+    "distance": 1.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5600/5586/5586_126_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Motel 6 Manteca",
+    "address": "150 Northwoods Ave, Manteca, CA, 95336 United States",
+    "distance": 1.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5510000/5502000/5501918/5501918_50_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Hampton Inn and Suites Manteca",
+    "address": "1461 Bass Pro Dr, Manteca, CA, 95336 United States",
+    "distance": 1.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3580000/3576700/3576618/3576618_5_l.jpg"
+  },
+  {
+    "price": 94,
+    "name": "Americas Best Value Inn",
+    "address": "1920 E Yosemite Ave, Manteca, CA, 95336 United States",
+    "distance": 1.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/60100/60017/60017_165_l.jpg"
+  }
+]

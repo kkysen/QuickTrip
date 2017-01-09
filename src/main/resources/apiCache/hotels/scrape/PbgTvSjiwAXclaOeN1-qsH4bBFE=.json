@@ -1,0 +1,74 @@
+[
+  {
+    "price": 55,
+    "name": "National 9 Price",
+    "address": "641 W Price River Dr, Price, UT, 84501 United States",
+    "distance": 0.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25600/25545/25545_34_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Legacy Inn",
+    "address": "145 North Carbonville Road, Price, UT, 84501 United States",
+    "distance": 0.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13060000/13060000/13059991/13059991_3_l.jpg"
+  },
+  {
+    "price": 61,
+    "name": "Quality Inn",
+    "address": "590 E Main St, Price, UT, 84501 United States",
+    "distance": 0.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/117100/117058/117058_132_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "The Greenwell Inn",
+    "address": "655 East Main, Price, UT, 84501 United States",
+    "distance": 0.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/880000/874700/874684/ec011b2f_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Ramada Price",
+    "address": "838 Westwood Blvd, Price, UT, 84501 United States",
+    "distance": 1.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14700/14630/14630_277_l.jpg"
+  },
+  {
+    "price": 121,
+    "name": "Holiday Inn Express \u0026 Suites Price",
+    "address": "925 West Westwood Boulevard, Price, UT, 84501 United States",
+    "distance": 1.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9260000/9253400/9253345/9253345_74_l.jpg"
+  },
+  {
+    "price": 37,
+    "name": "Pillow Talk Motel",
+    "address": "430 E Main St Highway 6, Wellington, UT, 84501 United States",
+    "distance": 5.9,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13430000/13422700/13422672/e4039d21_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "National 9 Inn Wellington",
+    "address": "50 S 700 E, Wellington, UT, 84542 United States",
+    "distance": 6.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1120000/1118500/1118446/1118446_27_l.jpg"
+  },
+  {
+    "price": 44,
+    "name": "Riverside Motel",
+    "address": "99 N Main St, Helper, UT, 84526 United States",
+    "distance": 6.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13430000/13422300/13422236/13422236_7_l.jpg"
+  }
+]

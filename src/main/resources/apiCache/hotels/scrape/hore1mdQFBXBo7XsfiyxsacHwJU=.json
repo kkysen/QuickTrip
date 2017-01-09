@@ -1,0 +1,74 @@
+[
+  {
+    "price": 140,
+    "name": "Cliff House at Pikes Peak",
+    "address": "306 Canon Ave, Manitou Springs, CO, 80829 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/490000/487100/487035/487035_86_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Americas Best Value Inn Villa Motel",
+    "address": "481 Manitou Ave, Manitou Springs, CO, 80829 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/118600/118520/118520_157_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Eagle Motel",
+    "address": "423 Manitou Avenue, Manitou Springs, CO, 80829 United States",
+    "distance": 0.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6790000/6784900/6784897/6784897_1_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Magnuson Hotel Manitou Springs",
+    "address": "311 Manitou Ave, Manitou Springs, CO, 80829 United States",
+    "distance": 0.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/980000/976000/975978/a9d70454_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Silver Saddle Motel",
+    "address": "215 Manitou Ave, Manitou Springs, CO, 80829 United States",
+    "distance": 1.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2460000/2455400/2455340/2455340_14_l.jpg"
+  },
+  {
+    "price": 150,
+    "name": "Days Inn Manitou Springs",
+    "address": "120 Manitou Ave, Manitou Springs, CO, 80829 United States",
+    "distance": 1.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1280000/1277600/1277556/1277556_121_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Park Row Lodge",
+    "address": "54 Manitou Ave, Manitou Springs, CO, 80829 United States",
+    "distance": 1.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4590000/4585600/4585596/4585596_4_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "Comfort Inn",
+    "address": "45 Manitou Ave, Manitou Springs, CO, 80829 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1650000/1644700/1644620/1644620_41_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "El Colorado Lodge",
+    "address": "23 Manitou Avenue, Manitou Springs, CO, 80829 United States",
+    "distance": 1.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9460000/9450900/9450864/9450864_22_l.jpg"
+  }
+]

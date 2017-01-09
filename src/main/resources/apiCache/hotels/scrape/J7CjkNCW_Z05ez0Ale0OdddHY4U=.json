@@ -1,0 +1,26 @@
+[
+  {
+    "price": 66,
+    "name": "Econo Lodge Mayport",
+    "address": "2401 Mayport Rd, Atlantic Beach, FL, 32233 United States",
+    "distance": 0.4,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22700/22667/22667_66_l.jpg"
+  },
+  {
+    "price": 133,
+    "name": "Best Western Mayport Inn \u0026 Suites",
+    "address": "2389 Mayport Road, Atlantic Beach, FL, 32233 United States",
+    "distance": 0.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/670000/663100/663076/06585e5f_l.jpg"
+  },
+  {
+    "price": 160,
+    "name": "Holiday Inn Express \u0026 Suites Jacksonville-Mayport/Beach",
+    "address": "2040 Mayport Road, Atlantic Beach, FL, 32233 United States",
+    "distance": 1.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2640000/2631600/2631505/2631505_118_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 65,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "5200 Lincoln Hwy, Matteson, IL, 60443 United States",
+    "distance": 6.2,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4600/4530/4530_94_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "Country Inn Suites Matteson",
+    "address": "950 Lake Superior Dr, Matteson, IL, 60443 United States",
+    "distance": 6.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/810000/804400/804324/e38de4ab_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Hampton Inn \u0026 Suites Chicago Southland-Matteson",
+    "address": "20920 Matteson Avenue, Matteson, IL, 60443 United States",
+    "distance": 6.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2420000/2419000/2418924/49ea9fb5_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Holiday Inn Chicago Matteson Conf Center",
+    "address": "500 Holiday Plaza Dr, Matteson, IL, 60443 United States",
+    "distance": 6.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1200/1174/1174_217_l.jpg"
+  },
+  {
+    "price": 195,
+    "name": "La Banque Hotel",
+    "address": "2034 Ridge Rd, Homewood, IL, 60430 United States",
+    "distance": 6.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14710000/14702200/14702161/14702161_12_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Americas Best Value Inn Monee / Chicago Area",
+    "address": "5815 West Monee-Manhattan Road, Monee, IL, 60449 United States",
+    "distance": 7.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/896800/896800/896800_72_l.jpg"
+  },
+  {
+    "price": 61,
+    "name": "Super 8 Monee",
+    "address": "5825 W Monee Manhattan Rd, Monee, IL, 60449 United States",
+    "distance": 7.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/855700/855666/855666_157_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Motel 6 Harvey, IL",
+    "address": "16940 South Halsted Street, Harvey, IL, 60426 United States",
+    "distance": 7.5,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/902600/902538/902538_34_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Days Inn Harvey IL",
+    "address": "16900 Halsted St, Harvey, IL, 60426 United States",
+    "distance": 7.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84300/84224/a591619b_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Lee Motel",
+    "address": "1234 Lincoln Hwy, Schererville, IN, 46375 United States",
+    "distance": 7.5,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12580000/12572200/12572121/12572121_4_l.jpg"
+  }
+]

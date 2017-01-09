@@ -1,0 +1,82 @@
+[
+  {
+    "price": 144,
+    "name": "Hilton Garden Inn Bridgewater",
+    "address": "500 Promenade Blvd, Bridgewater, NJ, 08807 United States",
+    "distance": 1.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/795000/794941/794941_22_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Clarion Hotel",
+    "address": "60 Cottontail Lane, Somerset, NJ, 08873 United States",
+    "distance": 1.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10800/10713/10713_79_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Bridgewater Days Inn Conference Center Somerville Area",
+    "address": "1260 Us Highway 22, Bridgewater, NJ, 08807 United States",
+    "distance": 2.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24700/24654/24654_172_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Americas Best Value Inn Bridgewater",
+    "address": "1271 Route 22 West, Bridgewater, NJ, 08807 United States",
+    "distance": 2.3,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6200000/6190400/6190322/6190322_34_l.jpg"
+  },
+  {
+    "price": 108,
+    "name": "Holiday Inn Somerset",
+    "address": "195 Davidson Ave, Somerset, NJ, 08873 United States",
+    "distance": 2.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3300/3210/3210_178_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Doubletree by Hilton Somerset Hotel and Conference Center",
+    "address": "200 Atrium Dr, Somerset, NJ, 08873 United States",
+    "distance": 2.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2200/2169/2169_70_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Comfort Inn \u0026 Suites",
+    "address": "255 Davidson Ave, Somerset, NJ, 08873 United States",
+    "distance": 2.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12800/12756/12756_105_l.jpg"
+  },
+  {
+    "price": 279,
+    "name": "Courtyard Somerset by Marriott",
+    "address": "250 Davidson Ave, Somerset, NJ, 08873 United States",
+    "distance": 2.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/880000/874400/874390/874390_35_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Sonesta ES Suites Somerset",
+    "address": "260 Davidson Ave, Somerset, NJ, 08873 United States",
+    "distance": 2.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8100/8035/8035_155_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Econo Lodge",
+    "address": "1850 Easton Ave, Somerset, NJ, 08873 United States",
+    "distance": 2.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4800/4775/4775_62_l.jpg"
+  }
+]

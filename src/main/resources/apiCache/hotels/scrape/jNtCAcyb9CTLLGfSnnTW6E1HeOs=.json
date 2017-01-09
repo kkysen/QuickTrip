@@ -1,0 +1,82 @@
+[
+  {
+    "price": 310,
+    "name": "Gorgeous Boardwalk 103 by RedAwning",
+    "address": "15 N Atlantic Ave, Cocoa Beach, FL, 32931 United States",
+    "distance": 0.1,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16400000/16393600/16393514/4bff7939_l.jpg"
+  },
+  {
+    "price": 223,
+    "name": "Best Direct Oceanfront Condo on Beach by RedAwning",
+    "address": "35 Sunflower St, Cocoa Beach, FL, 32931 United States",
+    "distance": 0.6,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16400000/16393600/16393520/7102a3ec_l.jpg"
+  },
+  {
+    "price": 213,
+    "name": "The Resort on Cocoa Beach, a VRI resort",
+    "address": "1600 N Atlantic Ave, Cocoa Beach, FL, 32931 United States",
+    "distance": 1.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/330000/329971/329971_23_l.jpg"
+  },
+  {
+    "price": 140,
+    "name": "Stunning Oceanfront 704 by RedAwning",
+    "address": "22 Tulip Ave, Cocoa Beach, FL, 32931 United States",
+    "distance": 1.0,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16400000/16393600/16393517/3cfb5069_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "International Palms Oceanfront Resort Cocoa Beach",
+    "address": "1300 N Atlantic Avenue, Cocoa Beach, FL, 32913 United States",
+    "distance": 1.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2200/2163/2163_267_l.jpg"
+  },
+  {
+    "price": 120,
+    "name": "La Quinta Inn Cocoa Beach-Port Canaveral",
+    "address": "1275 N Atlantic Ave, Cocoa Beach, FL, 32931 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2500/2416/6134c3e4_l.jpg"
+  },
+  {
+    "price": 199,
+    "name": "Hilton Cocoa Beach Oceanfront",
+    "address": "1550 N Atlantic Ave, Cocoa Beach, FL, 32931 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12600/12537/37d0d952_l.jpg"
+  },
+  {
+    "price": 174,
+    "name": "DoubleTree by Hilton Cocoa Beach Oceanfront",
+    "address": "2080 N Atlantic Ave, Cocoa Beach, FL, 32931 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4400/4398/5894c9ee_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Econo Lodge Cocoa Beach - near the Port",
+    "address": "3185 N Atlantic Ave, Cocoa Beach, FL, 32931 United States",
+    "distance": 2.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/894000/893935/893935_23_l.jpg"
+  },
+  {
+    "price": 158,
+    "name": "Surf Studio Beach Resort",
+    "address": "1801 S. Atlantic Avenue, Cocoa Beach, FL, 32931 United States",
+    "distance": 2.1,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9370000/9361800/9361758/9361758_30_l.jpg"
+  }
+]

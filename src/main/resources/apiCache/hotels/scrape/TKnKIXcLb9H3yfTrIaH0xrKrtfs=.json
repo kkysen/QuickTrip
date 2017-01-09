@@ -1,0 +1,82 @@
+[
+  {
+    "price": 51,
+    "name": "Red Roof Inn Cedar Rapids",
+    "address": "3243 S Ridge Dr Sw, Cedar Rapids, IA, 52404 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13200/13197/13197_48_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Economy Inn \u0026 Suites Cedar Rapids",
+    "address": "3245 Southgate Pl Sw, Cedar Rapids, IA, 52404 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/500/419/419_18_l.jpg"
+  },
+  {
+    "price": 133,
+    "name": "Fairfield Inn \u0026 Suites Cedar Rapids",
+    "address": "605 32nd Ave Sw, Cedar Rapids, IA, 52404 United States",
+    "distance": 2.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4610000/4603200/4603188/81af5b2f_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Quality Inn South",
+    "address": "390 33rd Ave Sw, Cedar Rapids, IA, 52404 United States",
+    "distance": 2.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17800/17731/17731_81_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Super 8 Cedar Rapids",
+    "address": "400 33rd Ave Sw, Cedar Rapids, IA, 52404 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50600/50564/b95bca7d_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Hampton Inn - Cedar Rapids",
+    "address": "3265 6th St Sw, Cedar Rapids, IA, 52404 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16800/16800/34d4a415_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Hometown Inn \u0026 Suites Cedar Rapids",
+    "address": "3315 Southgate Ct Sw, Cedar Rapids, IA, 52404 United States",
+    "distance": 2.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10270000/10266800/10266777/10266777_2_l.jpg"
+  },
+  {
+    "price": 106,
+    "name": "Holiday Inn Express \u0026 Suites - Interstate 380 at 33rd Avenue",
+    "address": "3320 Southgate Court SW, Cedar Rapids, IA, 52404 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/81400/81386/81386_299_l.jpg"
+  },
+  {
+    "price": 36,
+    "name": "Motel 6 Cedar Rapids - Airport",
+    "address": "616 33rd Ave S.W., I-380 Exit 17, Cedar Rapids, IA, 52404 United States",
+    "distance": 2.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13500/13484/a71076e3_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Econo Lodge Cedar Rapids",
+    "address": "622 33rd Ave Sw, Cedar Rapids, IA, 52404 United States",
+    "distance": 2.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26900/26869/26869_68_l.jpg"
+  }
+]

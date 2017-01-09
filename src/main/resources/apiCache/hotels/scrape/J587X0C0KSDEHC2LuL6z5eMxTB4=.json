@@ -1,0 +1,82 @@
+[
+  {
+    "price": 209,
+    "name": "Residence Inn by Marriott Princeton at Carnegie Center",
+    "address": "3563 Route 1, Princeton, NJ, 08540 United States",
+    "distance": 0.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1070000/1069400/1069337/6ab413f0_l.jpg"
+  },
+  {
+    "price": 199,
+    "name": "Hyatt Place Princeton",
+    "address": "3565 US Highway 1, Princeton, NJ, 08540 United States",
+    "distance": 1.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/79300/79290/79290_28_l.jpg"
+  },
+  {
+    "price": 203,
+    "name": "Hyatt Regency Princeton",
+    "address": "102 Carnegie Ctr, Princeton, NJ, 08540 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18400/18381/18381_100_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Clarion Hotel Palmer Inn",
+    "address": "3499 Route 1 South, Princeton, NJ, 08540 United States",
+    "distance": 1.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10400/10349/10349_76_l.jpg"
+  },
+  {
+    "price": 375,
+    "name": "The Peacock Inn, an Ascend Hotel Collection Member",
+    "address": "20 Bayard Ln, Princeton, NJ, 08540 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40400/40326/40326_87_l.jpg"
+  },
+  {
+    "price": 223,
+    "name": "Nassau Inn",
+    "address": "Ten Palmer Square East, Princeton, NJ, 08542 United States",
+    "distance": 1.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10600/10583/10583_2_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Extended Stay America Princeton - West Windsor",
+    "address": "3450 Brunswick Pike, Princeton, NJ, 08540 United States",
+    "distance": 1.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/569200/569188/569188_36_l.jpg"
+  },
+  {
+    "price": 161,
+    "name": "Inn at Glencairn",
+    "address": "3301 Lawrenceville Rd, Princeton, NJ, 08540 United States",
+    "distance": 2.4,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1580000/1571600/1571555/1571555_39_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Courtyard by Marriott Princeton",
+    "address": "3815 Route 1 at Mapleton Road, Princeton, NJ, 08540 United States",
+    "distance": 2.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/203000/202985/202985_27_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "Homewood Suites by Hilton Princeton",
+    "address": "3819 Route 1 S, Princeton, NJ, 08540 United States",
+    "distance": 2.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1560000/1558900/1558829/890f5cdf_l.jpg"
+  }
+]

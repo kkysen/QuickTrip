@@ -1,0 +1,18 @@
+[
+  {
+    "price": 79,
+    "name": "Best Western Plus Manvel Inn \u0026 Suites",
+    "address": "19301 Highway 6, Manvel, TX, 77578 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2810000/2803700/2803627/2803627_32_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Country Regency Inn \u0026 Suites",
+    "address": "22111 Highway 6, Manvel, TX, 77578 United States",
+    "distance": 3.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11010000/11009300/11009278/fe9a0b1f_l.jpg"
+  }
+]

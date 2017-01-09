@@ -1,0 +1,82 @@
+[
+  {
+    "price": 169,
+    "name": "Glen Cove Mansion Hotel",
+    "address": "200 Dosoris Ln, Glen Cove, NY, 11542 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/862800/862714/862714_80_l.jpg"
+  },
+  {
+    "price": 203,
+    "name": "The Roslyn Hotel",
+    "address": "1221 Old Northern Blvd, Roslyn, NY, 11576 United States",
+    "distance": 3.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21300/21238/21238_53_l.jpg"
+  },
+  {
+    "price": 174,
+    "name": "Holiday Inn Express Roslyn - Manhasset Area",
+    "address": "1053 Northern Boulevard, Roslyn, NY, 11576 United States",
+    "distance": 4.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1970000/1967000/1966955/1966955_45_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "The Tides Motor Inn",
+    "address": "2 Bayville Avenue, Locust Valley, NY, 11560 United States",
+    "distance": 4.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1540000/1531600/1531533/1531533_1_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "East Norwich Inn",
+    "address": "6321 Northern Blvd., East Norwich, NY, 11732 United States",
+    "distance": 4.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2100/2024/2024_23_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Travelodge Manhasset",
+    "address": "1177 Northern Blvd., Manhasset, NY, 11030 United States",
+    "distance": 5.8,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10630000/10620700/10620700/10620700_14_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Edgewood Motel",
+    "address": "38 Jericho Turnpike, Jericho, NY, 11753 United States",
+    "distance": 6.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1510000/1503400/1503326/1503326_22_l.jpg"
+  },
+  {
+    "price": 178,
+    "name": "Hampton Inn Jericho - Westbury",
+    "address": "120 Jericho Turnpike, Jericho, NY, 11753 United States",
+    "distance": 6.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10400/10393/10393_45_l.jpg"
+  },
+  {
+    "price": 82,
+    "name": "Meadowbrook Motor Lodge",
+    "address": "440 Jericho Turnpike, Jericho, NY, 11753 United States",
+    "distance": 6.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/995300/995256/995256_22_l.jpg"
+  },
+  {
+    "price": 167,
+    "name": "Viana Hotel \u0026 Spa, BW Premier Collection",
+    "address": "3998 Brush Hollow Rd, Westbury, NY, 11590 United States",
+    "distance": 6.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3060000/3056400/3056354/2030c9fd_l.jpg"
+  }
+]

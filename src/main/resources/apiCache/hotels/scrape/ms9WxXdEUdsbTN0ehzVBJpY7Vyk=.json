@@ -1,0 +1,82 @@
+[
+  {
+    "price": 149,
+    "name": "TownePlace Suites by Marriott Bethlehem Easton",
+    "address": "3800 Easton/Nazareth Highway, Easton, PA, 18045 United States",
+    "distance": 3.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2770000/2761700/2761683/2761683_9_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Hampton Inn Easton",
+    "address": "3723 Easton Nazareth Hwy, Easton, PA, 18045 United States",
+    "distance": 3.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/980000/973700/973635/973635_2_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "The View Inn \u0026 Suites",
+    "address": "3191 Highfield Drive, Bethlehem, PA, 18020 United States",
+    "distance": 5.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13800/13759/13759_69_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "WoodSpring Suites Allentown Bethlehem",
+    "address": "4016 Christian Springs Rd., Bethlehem, PA, 18020 United States",
+    "distance": 5.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3440000/3430700/3430690/fac66c91_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Quality Inn",
+    "address": "2415 Nazareth Rd., Easton, PA, 18045 United States",
+    "distance": 6.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/500/493/493_93_l.jpg"
+  },
+  {
+    "price": 154,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Easton",
+    "address": "90 Kunkle Dr, Easton, PA, 18045 United States",
+    "distance": 6.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/890000/880200/880123/ed5a79fe_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Best Western Lehigh Valley Hotel \u0026 Conference Center",
+    "address": "300 Gateway Drive, Bethlehem, PA, 18017 United States",
+    "distance": 7.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2800/2786/2786_67_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Hampton Inn \u0026 Suites Bethlehem",
+    "address": "200 Gateway Dr, Bethlehem, PA, 18017 United States",
+    "distance": 7.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42900/42851/42851_58_l.jpg"
+  },
+  {
+    "price": 187,
+    "name": "Courtyard by Marriott Bethlehem Lehigh Valley/I-78",
+    "address": "2220 Emrick Blvd, Bethlehem, PA, 18020 United States",
+    "distance": 7.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1960000/1956100/1956002/1956002_57_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Days Inn Easton",
+    "address": "185 S 3rd Street, Easton, PA, 18042 United States",
+    "distance": 7.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11500/11440/11440_70_l.jpg"
+  }
+]

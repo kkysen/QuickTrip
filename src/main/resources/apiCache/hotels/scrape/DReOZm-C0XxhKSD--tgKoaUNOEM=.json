@@ -1,0 +1,82 @@
+[
+  {
+    "price": 172,
+    "name": "Courtyard By Marriott Dallas DFW Airport North/Irving",
+    "address": "4949 Regent Blvd, Irving, TX, 75063 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42000/41917/95e616e5_l.jpg"
+  },
+  {
+    "price": 170,
+    "name": "Hilton Garden Inn Dallas Lewisville",
+    "address": "785 SH 121 Bypass, Lewisville, TX, 75067 United States",
+    "distance": 2.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1650000/1644700/1644618/1644618_58_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "SpringHill Suites Dallas Lewisville",
+    "address": "720 East Vista Ridge Mall Drive, Lewisville, TX, 75067 United States",
+    "distance": 2.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9600000/9597800/9597793/9597793_28_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Courtyard By Marriott Dallas - Lewisville",
+    "address": "2701 Lake Vista Dr, Lewisville, TX, 75067 United States",
+    "distance": 2.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/563900/563892/563892_128_l.jpg"
+  },
+  {
+    "price": 117,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Dallas Lewisville",
+    "address": "2697 Lake Vista Dr, Lewisville, TX, 75067 United States",
+    "distance": 2.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/564000/563979/563979_108_l.jpg"
+  },
+  {
+    "price": 128,
+    "name": "TownePlace Suites by Marriott Dallas Lewisville",
+    "address": "731 E Vista Ridge Mall Dr, Lewisville, TX, 75067 United States",
+    "distance": 2.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2720000/2717700/2717615/2717615_67_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Hampton Inn \u0026 Suites Dallas/Lewisville-Vista Ridge Mall, TX",
+    "address": "2650 Lake Vista Dr, Lewisville, TX, 75067 United States",
+    "distance": 2.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3040000/3036600/3036593/3036593_30_l.jpg"
+  },
+  {
+    "price": 172,
+    "name": "Staybridge Suites DFW Airport North",
+    "address": "2220 Market Place Blvd, Irving, TX, 75063 United States",
+    "distance": 2.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1870000/1867000/1866949/1866949_184_l.jpg"
+  },
+  {
+    "price": 122,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Dallas Lewisville",
+    "address": "780 E Vista Ridge Mall Drive, Lewisville, TX, 75067 United States",
+    "distance": 2.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/859200/859165/859165_154_l.jpg"
+  },
+  {
+    "price": 156,
+    "name": "Element Dallas Fort Worth Airport North",
+    "address": "3550 W. IH 635, Irving, TX, 75063 United States",
+    "distance": 2.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2730000/2729000/2728940/2728940_34_l.jpg"
+  }
+]

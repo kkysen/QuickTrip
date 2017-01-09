@@ -1,0 +1,82 @@
+[
+  {
+    "price": 72,
+    "name": "Vagabond Inn Executive - Green Valley Tucson Airport",
+    "address": "19200 S I 19 Frontage Rd, Green Valley, AZ, 85614 United States",
+    "distance": 7.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/64300/64233/62f74aab_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Desert Diamond Casino \u0026 Hotel",
+    "address": "7350 S Nogales Hwy, Tucson, AZ, 85756 United States",
+    "distance": 8.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1780000/1777700/1777624/52c95fa3_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Four Points by Sheraton Tucson Airport",
+    "address": "7060 S Tucson Blvd, Tucson, AZ, 85756 United States",
+    "distance": 8.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10900/10869/10869_99_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "DoubleTree Suites by Hilton Tucson Airport",
+    "address": "7051 South Tucson Airport Blvd., Tucson, AZ, 85756 United States",
+    "distance": 8.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6300/6211/6211_43_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "La Quinta Inn \u0026 Suites Tucson Airport",
+    "address": "7001 S Tucson Blvd, Tucson, AZ, 85706 United States",
+    "distance": 9.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41500/41411/882a897d_l.jpg"
+  },
+  {
+    "price": 112,
+    "name": "Hampton Inn Tucson-Airport",
+    "address": "6971 S Tucson Blvd, Tucson, AZ, 85756 United States",
+    "distance": 9.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21700/21611/21611_81_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Baymont Inn \u0026 Suites Tucson Airport",
+    "address": "6955 S Tucson Blvd, Tucson, AZ, 85706 United States",
+    "distance": 9.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/798400/798379/798379_50_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Comfort Suites Tucson Airport",
+    "address": "6935 S Tucson Blvd, Tucson, AZ, 85706 United States",
+    "distance": 9.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/300000/295800/295702/295702_115_l.jpg"
+  },
+  {
+    "price": 155,
+    "name": "Hyatt Place Tucson Airport",
+    "address": "6885 S Tucson Blvd, Tucson, AZ, 85706 United States",
+    "distance": 9.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/563200/563166/95d76573_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Best Western Plus Tucson Int\u0027l Airport Hotel \u0026 Suites",
+    "address": "6801 S Tucson Blvd, Tucson, AZ, 85756 United States",
+    "distance": 9.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12700/12653/9adfe726_l.jpg"
+  }
+]

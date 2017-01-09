@@ -1,0 +1,82 @@
+[
+  {
+    "price": 65,
+    "name": "Quality Inn Stone Mountain",
+    "address": "1595 E Park Place Blvd, Stone Mountain, GA, 30087 United States",
+    "distance": 3.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/100000/98900/98899/98899_101_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Days Inn Stone Mountain",
+    "address": "2006 Glenn Club Dr, Hwy 78 E, Stone Mountain, GA, 30087 United States",
+    "distance": 3.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27200/27133/27133_166_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Country Inn \u0026 Suites by Carlson, Stone Mountain",
+    "address": "1852 Rockbridge Road SW, Stone Mountain, GA, 30087 United States",
+    "distance": 3.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/990000/987100/987067/987067_183_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Highlands Homestead",
+    "address": "1607 Howell Highlands Dr, Stone Mountain, GA, 30087 United States",
+    "distance": 3.5,
+    "rating": 0.0,
+    "imgUrl": ""
+  },
+  {
+    "price": 131,
+    "name": "Stone Mountain Inn",
+    "address": "1058 Robert E Lee Drive, Stone Mountain, GA, 30083 United States",
+    "distance": 4.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/564000/563957/563957_25_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "La Quinta Inn \u0026 Suites Snellville/Stone Mountain",
+    "address": "2971 W Main St, Snellville, GA, 30078 United States",
+    "distance": 4.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/892900/892801/2c0ba3a3_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Super 8 Norcross/I-85 Atlanta",
+    "address": "5150 Willow Oak Trail, Exit 101 Indian Trail Rd, Norcross, GA, 30093 United States",
+    "distance": 5.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/123900/123810/123810_40_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Brick Lodge Atlanta/Norcross",
+    "address": "2050 Willow Trail Pkwy, Norcross, GA, 30093 United States",
+    "distance": 5.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24700/24668/334968b2_l.jpg"
+  },
+  {
+    "price": 35,
+    "name": "Sun Suites of Duluth, Gwinnett County",
+    "address": "3720 Steve Reynolds Blvd, Duluth, GA, 30096 United States",
+    "distance": 5.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/893000/892944/892944_54_l.jpg"
+  },
+  {
+    "price": 123,
+    "name": "Stone Mountain Manor",
+    "address": "1037 Main Street, Stone Mountain, GA, 30083 United States",
+    "distance": 5.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12660000/12651700/12651688/5a173c32_l.jpg"
+  }
+]

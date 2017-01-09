@@ -1,0 +1,82 @@
+[
+  {
+    "price": 54,
+    "name": "Econo Lodge Sebring",
+    "address": "2511 Us Highway 27 S, Avon Park, FL, 33825 United States",
+    "distance": 18.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10500/10492/10492_36_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Reeds Motel",
+    "address": "102 US Highway 27 South, Avon Park, FL, 33825 United States",
+    "distance": 19.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2410000/2400900/2400900/2400900_12_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "6525 Us Highway 27 N, Sebring, FL, 33870 United States",
+    "distance": 19.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18900/18854/18854_77_l.jpg"
+  },
+  {
+    "price": 130,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Sebring",
+    "address": "4400 Us 27 N, Sebring, FL, 33870 United States",
+    "distance": 19.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1230000/1222200/1222184/1222184_197_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Inn On The Lakes",
+    "address": "3101 Golfview Road, Sebring, FL, 33870 United States",
+    "distance": 22.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2720000/2717600/2717560/2717560_43_l.jpg"
+  },
+  {
+    "price": 184,
+    "name": "Residence Inn by Marriott Sebring",
+    "address": "3221 Tubbs Rd, Sebring, FL, 33875 United States",
+    "distance": 22.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1660000/1658100/1658041/3d57afd9_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Budget Inn",
+    "address": "2803 U.S. Hwy 27 S, Sebring, FL, 33870 United States",
+    "distance": 23.0,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12760000/12752900/12752804/12752804_20_l.jpg"
+  },
+  {
+    "price": 145,
+    "name": "Holiday Inn Express Hotel and Suites Arcadia",
+    "address": "2709 Se Highway 70, Arcadia, FL, 34266 United States",
+    "distance": 23.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1070000/1061800/1061713/1061713_92_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Economy Inn",
+    "address": "324 S Brevard Ave, Arcadia, FL, 34266 United States",
+    "distance": 24.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14840000/14831800/14831788/14831788_2_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Knights Inn Arcadia",
+    "address": "504 S Brevard Ave, Arcadia, FL, 34266 United States",
+    "distance": 24.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15700/15609/15609_154_l.jpg"
+  }
+]

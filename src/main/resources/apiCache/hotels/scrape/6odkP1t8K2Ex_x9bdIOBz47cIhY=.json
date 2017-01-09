@@ -1,0 +1,82 @@
+[
+  {
+    "price": 76,
+    "name": "Quality Inn \u0026 Suites Matthews - Charlotte",
+    "address": "13470 E Independence Blvd, Matthews, NC, 28105 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42800/42712/42712_90_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Country Inn \u0026 Suites By Carlson, Charlotte I-485 at Hwy 74E",
+    "address": "2001 Mount Harmony Ch Rd, Matthews, NC, 28104 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/794800/794800/6ec97929_l.jpg"
+  },
+  {
+    "price": 124,
+    "name": "Courtyard by Marriott Charlotte/Matthews",
+    "address": "11425 East Independence Blvd, Matthews, NC, 28106 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84600/84521/84521_90_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Econo Lodge Inn \u0026 Suites Matthews - Charlotte",
+    "address": "1938 Moore Rd, Matthews, NC, 28105 United States",
+    "distance": 2.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24300/24216/9f5be292_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Microtel Inn by Wyndham Matthews/Charlotte",
+    "address": "1603 Matthews Mint Hill Rd, Matthews, NC, 28105 United States",
+    "distance": 2.1,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/116600/116555/116555_114_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Sleep Inn Matthews-Charlotte",
+    "address": "9900 Matthews Park Dr, Matthews, NC, 28105 United States",
+    "distance": 3.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84600/84517/84517_91_l.jpg"
+  },
+  {
+    "price": 82,
+    "name": "Comfort Inn Matthews - Charlotte",
+    "address": "1718 Windsor Crossing Dr., Matthews, NC, 28105 United States",
+    "distance": 3.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43400/43327/43327_224_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Hampton Inn by Hilton Charlotte/Matthews",
+    "address": "9615 Independence Pointe Pkwy, Matthews, NC, 28105 United States",
+    "distance": 3.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/34500/34428/34428_50_l.jpg"
+  },
+  {
+    "price": 128,
+    "name": "Holiday Inn Express \u0026 Suites Charlotte Southeast - Matthews",
+    "address": "9420 E Independence Blvd, Matthews, NC, 28105 United States",
+    "distance": 3.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2750000/2745500/2745432/2745432_139_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Best Western Plus Charlotte/Matthews Hotel",
+    "address": "2501 Sardis Road N, Charlotte, NC, 28227 United States",
+    "distance": 4.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8700/8654/8654_58_l.jpg"
+  }
+]

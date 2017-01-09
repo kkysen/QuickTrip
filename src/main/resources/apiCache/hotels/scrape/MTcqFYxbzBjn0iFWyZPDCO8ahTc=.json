@@ -1,0 +1,26 @@
+[
+  {
+    "price": 50,
+    "name": "Masters Inn Columbia I-26",
+    "address": "2125 Commerce Drive, Cayce, SC, 29033-1524 United States",
+    "distance": 1.8,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43600/43530/a81556f2_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Knights Inn Columbia Airport/Cayce",
+    "address": "1987 Airport Blvd, Cayce, SC, 29033-1530 United States",
+    "distance": 1.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43600/43526/43526_26_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Country Inn \u0026 Suites by Carlson Columbia Airport",
+    "address": "2245 Airport Blvd, Cayce, SC, 29033-1403 United States",
+    "distance": 2.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1170000/1160800/1160796/e141df25_l.jpg"
+  }
+]

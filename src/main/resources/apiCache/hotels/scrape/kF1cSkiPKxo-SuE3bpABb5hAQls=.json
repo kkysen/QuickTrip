@@ -1,0 +1,82 @@
+[
+  {
+    "price": 111,
+    "name": "Hotel Royal Oak",
+    "address": "811 East 11 Mile Rd, Royal Oak, MI, 48067 United States",
+    "distance": 2.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9050000/9043700/9043626/e2252ec4_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "A Victory Suites Warren",
+    "address": "2020 Walter P. Reuther Drive, Warren, MI, 48091 United States",
+    "distance": 3.2,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/458300/458247/458247_32_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Red Roof Inn Detroit - Warren",
+    "address": "26300 Dequindre Rd, Warren, MI, 48091 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14900/14825/14825_81_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Hampton Inn Detroit/Madison Heights/South Troy",
+    "address": "32420 Stephenson Hwy, Madison Heights, MI, 48071 United States",
+    "distance": 5.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10400/10342/10342_37_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Residence Inn by Marriott Detroit Troy/Madison Heights",
+    "address": "32650 Stephenson Hwy, Madison Heights, MI, 48071 United States",
+    "distance": 5.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24900/24874/24874_45_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "Extended Stay America - Detroit - Madison Heights",
+    "address": "32690 Stephenson Hwy, Madison Heights, MI, 48071 United States",
+    "distance": 5.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/64300/64257/64257_29_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Red Roof Inn Detroit - Royal Oak Madison Heights",
+    "address": "32511 Concord Drive, Madison Heights, MI, 48071 United States",
+    "distance": 5.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5100/5063/ace39e30_l.jpg"
+  },
+  {
+    "price": 42,
+    "name": "Econo Lodge Madison Heights",
+    "address": "32703 Stephenson Hwy, Madison Heights, MI, 48071 United States",
+    "distance": 5.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/123900/123869/123869_25_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Baymont Inn \u0026 Suites Madison Heights Detroit Area",
+    "address": "32800 Stephenson Hwy, Madison Heights, MI, 48071 United States",
+    "distance": 5.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12400/12348/12348_22_l.jpg"
+  },
+  {
+    "price": 48,
+    "name": "Motel 6 Detroit Northeast - Madison Heights",
+    "address": "32700 Barrington St, Madison Heights, MI, 48071 United States",
+    "distance": 5.2,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1040000/1039700/1039692/1039692_11_l.jpg"
+  }
+]

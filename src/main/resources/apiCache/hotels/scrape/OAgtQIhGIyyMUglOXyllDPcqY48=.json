@@ -1,0 +1,82 @@
+[
+  {
+    "price": 204,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Oakland Hayward",
+    "address": "25921 Industrial Blvd, Hayward, CA, 94545 United States",
+    "distance": 0.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/810000/802300/802226/802226_41_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "La Quinta Inn \u0026 Suites Oakland - Hayward",
+    "address": "20777 Hesperian Blvd, Hayward, CA, 94541 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8000/7973/7973_113_l.jpg"
+  },
+  {
+    "price": 108,
+    "name": "Vagabond Inn Executive Hayward",
+    "address": "500 W A St, Hayward, CA, 94541 United States",
+    "distance": 2.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16190000/16181600/16181514/d0c73019_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Heritage Inn Express Hayward",
+    "address": "410 W A St, Hayward, CA, 94541 United States",
+    "distance": 2.3,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/116800/116787/116787_65_l.jpg"
+  },
+  {
+    "price": 126,
+    "name": "Best Western Plus Inn of Hayward",
+    "address": "360 W A Street, Hayward, CA, 94541 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23200/23140/23140_26_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Days Inn Hayward Airport",
+    "address": "450 W A St, Hayward, CA, 94541 United States",
+    "distance": 2.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27500/27451/9f5d71d4_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Rodeway Inn \u0026 Suites",
+    "address": "835 West A St., Hayward, CA, 94541 United States",
+    "distance": 2.3,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/867100/867041/867041_42_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Discovery Inn",
+    "address": "333 Jackson St, Hayward, CA, 94544 United States",
+    "distance": 2.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1360000/1353500/1353419/1353419_4_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Quality Inn Hayward",
+    "address": "24997 Mission Blvd, Hayward, CA, 94544 United States",
+    "distance": 2.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15300/15210/92d53be7_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "Days Inn And Suites Hayward",
+    "address": "24400 Mission Blvd, Hayward, CA, 94544 United States",
+    "distance": 2.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1620000/1612500/1612447/1612447_24_l.jpg"
+  }
+]

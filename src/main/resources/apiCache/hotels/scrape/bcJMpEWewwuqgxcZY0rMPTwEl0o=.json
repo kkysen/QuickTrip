@@ -1,0 +1,66 @@
+[
+  {
+    "price": 67,
+    "name": "Sleep Inn Ontario",
+    "address": "1221 Se 1st Ct, Ontario, OR, 97914 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42900/42818/42818_87_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Quality Inn",
+    "address": "139 Ne Goodfellow St, Ontario, OR, 97914 United States",
+    "distance": 1.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9750000/9742000/9741993/9741993_11_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Best Western Inn \u0026 Suites",
+    "address": "251 Goodfellow St, Ontario, OR, 97914 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25000/24979/24979_144_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Red Lion Inn \u0026 Suites Ontario",
+    "address": "266 NE Goodfellow St., Ontario, OR, 97914 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459400/459387/459387_176_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Clarion Inn Ontario",
+    "address": "1249 Tapadera Ave, Ontario, OR, 97914 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22000/21912/21912_93_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Holiday Inn Express \u0026 Suites Ontario",
+    "address": "212 Se 10th St, Ontario, OR, 97914 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2120000/2117500/2117417/2117417_134_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Super 8 Ontario",
+    "address": "615 E Idaho Ave, Ontario, OR, 97914 United States",
+    "distance": 2.2,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1490000/1485700/1485642/1485642_34_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Ontario Inn",
+    "address": "1144 SW 4th Avenue, Ontario, OR, 97914 United States",
+    "distance": 3.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1940000/1932400/1932348/1932348_44_l.jpg"
+  }
+]

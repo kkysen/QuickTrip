@@ -1,0 +1,82 @@
+[
+  {
+    "price": 300,
+    "name": "Hampton Inn \u0026 Suites Wellington",
+    "address": "2155 Wellington Green Dr, Wellington, FL, 33414 United States",
+    "distance": 4.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1330000/1322000/1321942/1321942_45_l.jpg"
+  },
+  {
+    "price": 219,
+    "name": "Hampton Inn West Palm Beach Florida Turnpike",
+    "address": "2025 Vista Parkway, West Palm Beach, FL, 33411 United States",
+    "distance": 4.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/810000/809400/809368/7a660fbb_l.jpg"
+  },
+  {
+    "price": 174,
+    "name": "La Quinta Inn West Palm Beach-Florida Turnpike",
+    "address": "5981 Okeechobee Blvd, West Palm Beach, FL, 33417 United States",
+    "distance": 5.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19000/18939/fcdc87d8_l.jpg"
+  },
+  {
+    "price": 229,
+    "name": "Hampton Inn West Palm Beach-Lake Worth-Turnpike",
+    "address": "8205 Lake Worth Rd, Lake Worth, FL, 33467 United States",
+    "distance": 6.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1510000/1507300/1507210/1507210_14_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Ramada West Palm Beach Airport",
+    "address": "1901 Palm Beach Lakes Blvd, West Palm Beach, FL, 33409 United States",
+    "distance": 8.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2900/2852/ce5aee46_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "La Quinta Inn \u0026 Suites West Palm Beach Airport",
+    "address": "1910 Palm Beach Lakes Blvd, West Palm Beach, FL, 33409 United States",
+    "distance": 8.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41400/41387/db3ddf19_l.jpg"
+  },
+  {
+    "price": 170,
+    "name": "Best Western Palm Beach Lakes",
+    "address": "1800 Palm Beach Lakes Blvd, West Palm Beach, FL, 33401 United States",
+    "distance": 8.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25400/25397/25397_226_l.jpg"
+  },
+  {
+    "price": 207,
+    "name": "Holiday Inn Express \u0026 Suites West Palm Beach Metrocentre",
+    "address": "2485 Metrocentre Blvd, West Palm Beach, FL, 33407 United States",
+    "distance": 8.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1650000/1647600/1647512/1647512_56_l.jpg"
+  },
+  {
+    "price": 319,
+    "name": "Homewood Suites West Palm Beach",
+    "address": "2455 Metrocentre Blvd, West Palm Beach, FL, 33407 United States",
+    "distance": 8.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2750000/2744700/2744608/4bce0a9e_l.jpg"
+  },
+  {
+    "price": 309,
+    "name": "Hawthorn Suites by Wyndham West Palm Beach",
+    "address": "301 Lamberton Dr, West Palm Beach, FL, 33401 United States",
+    "distance": 8.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1780000/1776500/1776483/1776483_150_l.jpg"
+  }
+]

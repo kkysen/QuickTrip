@@ -1,0 +1,82 @@
+[
+  {
+    "price": 97,
+    "name": "Knights Inn South Portland",
+    "address": "634 Main St, South Portland, ME, 04106 United States",
+    "distance": 1.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2190000/2184200/2184158/2184158_107_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Howard Johnson Hotel South Portland",
+    "address": "675 Main Street I-95, Rt 1-I95 ex 45-I295 Ex 3, South Portland, ME, 04106 United States",
+    "distance": 1.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23800/23779/23779_38_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Best Western Merry Manor Inn",
+    "address": "700 Main St, South Portland, ME, 04106 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15900/15845/15845_74_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "738 Main Street, South Portland, ME, 04106 United States",
+    "distance": 1.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/200/141/141_85_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Econo Lodge Maine Mall",
+    "address": "80 John Roberts Rd., South Portland, ME, 04106 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1090000/1085000/1084959/1084959_25_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Hampton Inn Portland Airport",
+    "address": "171 Philbrook Ave, South Portland, ME, 04106 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24300/24280/24280_38_l.jpg"
+  },
+  {
+    "price": 122,
+    "name": "Comfort Inn Airport",
+    "address": "90 Maine Mall Rd, South Portland, ME, 04106 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27100/27041/27041_80_l.jpg"
+  },
+  {
+    "price": 122,
+    "name": "DoubleTree by Hilton Hotel Portland",
+    "address": "363 Maine Mall Rd, South Portland, ME, 04106 United States",
+    "distance": 2.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8200/8166/8166_137_l.jpg"
+  },
+  {
+    "price": 148,
+    "name": "Holiday Inn Express Hotel \u0026 Suites South Portland",
+    "address": "303 Sable Oaks Dr, South Portland, ME, 04106 United States",
+    "distance": 2.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/126800/126757/126757_102_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Marriott Portland at Sable Oaks",
+    "address": "200 Sable Oaks Dr, South Portland, ME, 04106 United States",
+    "distance": 2.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12000/11961/11961_62_l.jpg"
+  }
+]

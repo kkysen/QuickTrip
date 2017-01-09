@@ -1,0 +1,50 @@
+[
+  {
+    "price": 70,
+    "name": "Grand Inn",
+    "address": "1000 S Euclid Street, Fullerton, CA, 92832 United States",
+    "distance": 1.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41600/41527/41527_26_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Travelodge Fullerton Near Anaheim",
+    "address": "1415 S Euclid St, Fullerton, CA, 92832 United States",
+    "distance": 2.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/590000/580500/580407/580407_48_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Days Inn And Suites Fullerton",
+    "address": "333 E. Imperial Hwy, Fullerton, CA, 92835 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17900/17868/17868_85_l.jpg"
+  },
+  {
+    "price": 173,
+    "name": "The Hotel Fullerton Anaheim",
+    "address": "1500 S Raymond Avenue, Fullerton, CA, 92831 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20300/20287/20287_315_l.jpg"
+  },
+  {
+    "price": 177,
+    "name": "Fullerton Marriott at California State University",
+    "address": "2701 Nutwood Ave, Fullerton, CA, 92831 United States",
+    "distance": 2.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14200/14116/14116_108_l.jpg"
+  },
+  {
+    "price": 171,
+    "name": "Holiday Inn Anaheim - Fullerton",
+    "address": "2932 Nutwood Ave, Fullerton, CA, 92831 United States",
+    "distance": 2.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28200/28133/28133_252_l.jpg"
+  }
+]

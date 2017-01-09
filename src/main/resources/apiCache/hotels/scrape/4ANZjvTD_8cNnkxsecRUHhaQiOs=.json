@@ -1,0 +1,82 @@
+[
+  {
+    "price": 267,
+    "name": "Holiday Inn Express Hotel Scottsdale North",
+    "address": "7350 E Gold Dust Ave, Scottsdale, AZ, 85258 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41100/41027/41027_114_l.jpg"
+  },
+  {
+    "price": 166,
+    "name": "Extended Stay America - Phoenix - Scottsdale",
+    "address": "10660 N 69th St, Scottsdale, AZ, 85254 United States",
+    "distance": 0.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/64700/64624/55cc1ba4_l.jpg"
+  },
+  {
+    "price": 514,
+    "name": "Hyatt Regency Scottsdale Resort and Spa at Gainey Ranch",
+    "address": "7500 E Doubletree Ranch Rd, Scottsdale, AZ, 85258 United States",
+    "distance": 1.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24200/24193/b8fa4473_l.jpg"
+  },
+  {
+    "price": 345,
+    "name": "Gainey Suites Hotel",
+    "address": "7300 E Gainey Suites Dr, Scottsdale, AZ, 85258 United States",
+    "distance": 1.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/200800/200705/200705_19_l.jpg"
+  },
+  {
+    "price": 246,
+    "name": "Fairfield Inn by Marriott Scottsdale North",
+    "address": "13440 N Scottsdale Rd, Scottsdale, AZ, 85254 United States",
+    "distance": 1.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/100/96/3283b7cd_l.jpg"
+  },
+  {
+    "price": 224,
+    "name": "La Quinta Inn \u0026 Suites Phoenix-Scottsdale",
+    "address": "8888 E Shea Blvd, Scottsdale, AZ, 85260 United States",
+    "distance": 2.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41100/41050/10286f05_l.jpg"
+  },
+  {
+    "price": 229,
+    "name": "Country Inn \u0026 Suites By Carlson Scottsdale",
+    "address": "10801 N 89th Pl, Scottsdale, AZ, 85260 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28400/28338/28338_84_l.jpg"
+  },
+  {
+    "price": 364,
+    "name": "The McCormick Scottsdale - A Millennium Hotel",
+    "address": "7401 N Scottsdale Rd, Scottsdale, AZ, 85253 United States",
+    "distance": 2.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11300/11221/11221_115_l.jpg"
+  },
+  {
+    "price": 270,
+    "name": "Best Western Plus Scottsdale Thunderbird Suites",
+    "address": "7515 E Butherus Drive, Scottsdale, AZ, 85260 United States",
+    "distance": 2.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7000/6996/6996_168_l.jpg"
+  },
+  {
+    "price": 524,
+    "name": "The Westin Kierland Resort and Spa",
+    "address": "6902 E Greenway Pkwy, Scottsdale, AZ, 85254 United States",
+    "distance": 2.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/893100/893067/893067_243_l.jpg"
+  }
+]

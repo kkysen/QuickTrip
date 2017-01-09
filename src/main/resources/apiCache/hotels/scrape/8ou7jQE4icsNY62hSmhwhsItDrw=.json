@@ -1,0 +1,82 @@
+[
+  {
+    "price": 80,
+    "name": "Sleep Inn \u0026 Suites Emmitsburg",
+    "address": "501 Silo Hill Pkwy, Emmitsburg, MD, 21727 United States",
+    "distance": 8.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/790000/789100/789046/789046_67_l.jpg"
+  },
+  {
+    "price": 128,
+    "name": "Lightner Farmhouse B\u0026B",
+    "address": "2350 Baltimore Pike, Gettysburg, PA, 17325 United States",
+    "distance": 8.2,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1680000/1676000/1675908/1675908_4_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Eisenhower Hotel \u0026 Conference Center",
+    "address": "2634 Emmitsburg Road, Gettysburg, PA, 17325 United States",
+    "distance": 8.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2010000/2009600/2009517/ae8e24a0_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Red Carpet Inn",
+    "address": "2450 Emmitsburg Rd, Gettysburg, PA, 17325 United States",
+    "distance": 8.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6600000/6596100/6596023/6596023_24_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Western Inn",
+    "address": "2520 Emmitsburg Road, Gettysburg, PA, 17325 United States",
+    "distance": 8.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10010000/10003900/10003829/10003829_1_l.jpg"
+  },
+  {
+    "price": 185,
+    "name": "Battlefield Bed \u0026 Breakfast Inn",
+    "address": "2264 Emmitsburg Road, Gettysburg, PA, 17325 United States",
+    "distance": 8.4,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5120000/5111900/5111884/ee2f9f90_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Country Inn \u0026 Suites By Carlson Gettysburg",
+    "address": "1857 Gettysburg Village Dr, Gettysburg, PA, 17325 United States",
+    "distance": 8.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/790000/787700/787654/787654_33_l.jpg"
+  },
+  {
+    "price": 140,
+    "name": "Baladerry Inn",
+    "address": "40 Hospital Road, Gettysburg, PA, 17325 United States",
+    "distance": 8.9,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5190000/5187200/5187150/5187150_4_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Best Western Westminster Catering \u0026 Conference Center",
+    "address": "451 WMC Drive, Westminster, MD, 21158 United States",
+    "distance": 10.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5600/5535/5535_271_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Quality Inn Gettysburg Battlefield",
+    "address": "380 Steinwehr Ave, Gettysburg, PA, 17325 United States",
+    "distance": 11.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16100/16043/16043_44_l.jpg"
+  }
+]

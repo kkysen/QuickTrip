@@ -1,0 +1,82 @@
+[
+  {
+    "price": 55,
+    "name": "Marion Airport Inn \u0026 Suites",
+    "address": "8101 Express Dr, Marion, IL, 62959 United States",
+    "distance": 4.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/913000/912916/912916_46_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Comfort Inn Marion",
+    "address": "2403 Black Diamond Dr, Marion, IL, 62959 United States",
+    "distance": 5.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5160000/5156200/5156103/5156103_41_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Hampton Inn Marion",
+    "address": "2710 West DeYoung, Marion, IL, 62959 United States",
+    "distance": 5.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/110000/103100/103081/103081_25_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Drury Inn Marion",
+    "address": "2706 W DeYoung St, Marion, IL, 62959 United States",
+    "distance": 5.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42100/42025/42025_63_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Marion Northeast",
+    "address": "2609 Blue Heron Drive, Marion, IL, 62959 United States",
+    "distance": 5.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4980000/4970900/4970883/4970883_98_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Country Inn \u0026 Suites By Carlson, Marion, IL",
+    "address": "1306 Halfway Road, Marion, IL, 62959 United States",
+    "distance": 5.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2460000/2457400/2457332/2457332_23_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Fairfield Inn and Suites by Marriott Marion",
+    "address": "1400 Champion Drive, Marion, IL, 62959 United States",
+    "distance": 5.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1090000/1088200/1088153/128407d9_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Super 8 Marion",
+    "address": "2601 Vernell Rd, Marion, IL, 62959 United States",
+    "distance": 5.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/440000/439800/439711/4eeece82_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Econo Lodge",
+    "address": "1806 Bittle Place, Marion, IL, 62959 United States",
+    "distance": 6.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1060000/1050900/1050830/89a0f240_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Best Western Plus Marion Hotel",
+    "address": "400 Comfort Dr, Marion, IL, 62959 United States",
+    "distance": 6.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/100000/98000/97975/97975_163_l.jpg"
+  }
+]

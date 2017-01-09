@@ -1,0 +1,82 @@
+[
+  {
+    "price": 59,
+    "name": "Woodridge Inn \u0026 Suites",
+    "address": "7996 N. Alger Rd., Alma, MI, 48801 United States",
+    "distance": 6.4,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/56000/55928/55928_2_l.jpg"
+  },
+  {
+    "price": 49,
+    "name": "Alma Motel Alma",
+    "address": "1575 North Wright Avenue, Alma, MI, 48801 United States",
+    "distance": 7.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3030000/3024200/3024176/3024176_15_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Saravilla Bed and Breakfast",
+    "address": "633 N. State Street, Alma, MI, 48801 United States",
+    "distance": 7.4,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9620000/9615800/9615765/4535f8d0_l.jpg"
+  },
+  {
+    "price": 146,
+    "name": "Comfort Inn \u0026 Suites and Conference Center",
+    "address": "2424 S Mission St, Mount Pleasant, MI, 48858 United States",
+    "distance": 13.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13500/13479/c16e493d_l.jpg"
+  },
+  {
+    "price": 136,
+    "name": "Fairfield by Marriott Mt Pleasant",
+    "address": "2525 University Park, Mount Pleasant, MI, 48858 United States",
+    "distance": 13.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25400/25324/25324_5_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Super 8 Mount Pleasant",
+    "address": "2323 S Mission St, Off Hwy 27N on Bus Rt 27N, Mount Pleasant, MI, 48858 United States",
+    "distance": 13.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/855400/855318/47b6957e_l.jpg"
+  },
+  {
+    "price": 148,
+    "name": "Courtyard Mt. Pleasant at Central Michigan University",
+    "address": "2400 East Campus Drive, Mount Pleasant, MI, 48858 United States",
+    "distance": 13.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15430000/15420800/15420757/d507404f_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "Baymont Inn \u0026 Suites Mt. Pleasant",
+    "address": "5858 E Pickard St, Mount Pleasant, MI, 48858 United States",
+    "distance": 13.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/67600/67585/67585_97_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Days Inn \u0026 Suites Mt Pleasant",
+    "address": "5770 East Pickard Street, Mount Pleasant, MI, 48858 United States",
+    "distance": 13.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5200/5120/5120_89_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Chippewa Motel",
+    "address": "5662 E Pickard Rd, Mount Pleasant, MI, 48858 United States",
+    "distance": 13.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1590000/1580200/1580171/39693355_l.jpg"
+  }
+]

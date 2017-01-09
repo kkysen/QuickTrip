@@ -1,0 +1,82 @@
+[
+  {
+    "price": 92,
+    "name": "Holiday Inn Elmira - Riverview",
+    "address": "760 E Water St, Elmira, NY, 14901 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24600/24579/24579_141_l.jpg"
+  },
+  {
+    "price": 280,
+    "name": "Castle on Glen",
+    "address": "320 Glen Avenue, Elmira, NY, 14905 United States",
+    "distance": 2.3,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14680000/14674700/14674636/dbc9f3d4_l.jpg"
+  },
+  {
+    "price": 40,
+    "name": "MARK TWAIN MOTOR INN",
+    "address": "1996 Lake Street, Elmira, NY, 14901 United States",
+    "distance": 2.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/980000/978100/978099/978099_4_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Budget Inn Horseheads",
+    "address": "4133 Route 17, Horseheads, NY, 14845 United States",
+    "distance": 4.7,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/996200/996185/996185_22_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "Holiday Inn Express Elmira - Horseheads",
+    "address": "2666 Corning Rd, Horseheads, NY, 14845 United States",
+    "distance": 5.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5600/5538/5538_234_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Horseheads Knights Inn",
+    "address": "2707 Westinghouse Rd, Horseheads, NY, 14845 United States",
+    "distance": 5.6,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/123500/123436/123436_36_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Fairfield Inn \u0026 Suites Elmira Corning",
+    "address": "1600 County Route 64, Elmira, NY, 14845 United States",
+    "distance": 5.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5860000/5851200/5851150/5851150_13_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Relax Inn Elmira",
+    "address": "45 Fisherville Road, Elmira, NY, 14903 United States",
+    "distance": 5.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/893000/892952/892952_1_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Candlewood Suites Elmira Horseheads",
+    "address": "198 Colonial Drive, Horseheads, NY, 14845 United States",
+    "distance": 5.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4610000/4605100/4605091/4605091_87_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Country Inn \u0026 Suites By Carlson Big Flats (Elmira)",
+    "address": "105 E Mall Rd, Horseheads, NY, 14845 United States",
+    "distance": 5.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/610000/600500/600473/600473_55_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 51,
+    "name": "Super 8 Morton Grove/Chicago",
+    "address": "9110 Waukegan Rd, 1 Blk N of Dempster St, Morton Grove, IL, 60053 United States",
+    "distance": 1.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/990000/986100/986074/986074_57_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "Holiday Inn Chicago North Shore",
+    "address": "5300 West Touhy Ave, Skokie, IL, 60077 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27000/26925/26925_365_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Best Western Morton Grove Inn",
+    "address": "9424 Waukegan Rd, Morton Grove, IL, 60053 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/542200/542112/d9614564_l.jpg"
+  },
+  {
+    "price": 117,
+    "name": "SpringHill Suites Chicago O\u0027Hare by Marriott",
+    "address": "8101 West Higgins Road, Chicago, IL, 60631 United States",
+    "distance": 2.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/561500/561495/561495_165_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Holiday Inn O\u0027Hare",
+    "address": "5615 North Cumberland Avenue, Chicago, IL, 60631 United States",
+    "distance": 3.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2400/2332/32aff702_l.jpg"
+  },
+  {
+    "price": 145,
+    "name": "Renaissance Chicago O\u0027Hare Suites Hotel",
+    "address": "8500 West Bryn Mawr Avenue, Chicago, IL, 60631 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/899300/899245/899245_230_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Hilton Garden Inn Chicago/O\u0027Hare Airport",
+    "address": "2930 South River Road, Des Plaines, IL, 60018 United States",
+    "distance": 3.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1200000/1200000/1199960/1199960_12_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Courtyard by Marriott Chicago O\u0027Hare",
+    "address": "2950 S River Rd, Des Plaines, IL, 60018 United States",
+    "distance": 3.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17900/17810/3cce49f4_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Hyatt Rosemont Near O\u0027Hare",
+    "address": "6350 N River Rd, Rosemont, IL, 60018 United States",
+    "distance": 3.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/328200/328182/328182_114_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Comfort Inn O\u0027Hare - Convention Center",
+    "address": "2175 E Touhy Ave, Des Plaines, IL, 60018 United States",
+    "distance": 3.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11100/11013/11013_148_l.jpg"
+  }
+]

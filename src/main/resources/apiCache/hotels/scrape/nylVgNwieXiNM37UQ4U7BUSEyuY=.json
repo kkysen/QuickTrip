@@ -1,0 +1,82 @@
+[
+  {
+    "price": 76,
+    "name": "Quality Suites",
+    "address": "401 Lakeshore Drive, Lake Charles, LA, 70601 United States",
+    "distance": 0.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/284500/284423/0532410d_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Howard Johnson Inn - Historic Lake Charles",
+    "address": "825 Broad St, Lake Charles, LA, 70601 United States",
+    "distance": 0.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/530000/520100/520048/520048_125_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Days Inn Lake Charles",
+    "address": "1212 N Lake Shore Dr, Lake Charles, LA, 70601 United States",
+    "distance": 0.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22500/22412/22412_51_l.jpg"
+  },
+  {
+    "price": 183,
+    "name": "Holiday Inn Hotel \u0026 Suites Lake Charles South",
+    "address": "2940 Lake Street, Lake Charles, LA, 70601 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2450000/2440200/2440179/2440179_18_l.jpg"
+  },
+  {
+    "price": 140,
+    "name": "Isle of Capri Casino Hotel Lake Charles",
+    "address": "100 Westlake Ave, Westlake, LA, 70669 United States",
+    "distance": 2.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4130000/4120200/4120147/4120147_1_l.jpg"
+  },
+  {
+    "price": 144,
+    "name": "Comfort Inn Lake Charles",
+    "address": "607 E Prien Lake Rd, Lake Charles, LA, 70601 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2100000/2097300/2097249/2097249_52_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Americas Best Value Inn \u0026 Suites - Lake Charles/I-210 Exit 5",
+    "address": "3231 Lake St, Lake Charles, LA, 70601 United States",
+    "distance": 2.3,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/990000/987800/987792/987792_143_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Best Western Plus Prien Lake Inn \u0026 Suites",
+    "address": "1245 E Prien Lake Road, Lake Charles, LA, 70601 United States",
+    "distance": 2.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14800000/14798400/14798392/14798392_62_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Super 8 Lake Charles/Sulphur",
+    "address": "1350 E Prien Lake Rd, Lake Charles, LA, 70601 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856300/856278/856278_101_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Econo Lodge",
+    "address": "351 N Martin Luther King Hwy, Lake Charles, LA, 70601 United States",
+    "distance": 2.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1890000/1880400/1880312/0c7a70f6_l.jpg"
+  }
+]

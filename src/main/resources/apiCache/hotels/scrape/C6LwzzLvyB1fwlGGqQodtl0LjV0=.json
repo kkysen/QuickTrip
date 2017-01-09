@@ -1,0 +1,82 @@
+[
+  {
+    "price": 103,
+    "name": "SpringHill Suites by Marriott Gallup",
+    "address": "1105 W Lincoln Ave, Gallup, NM, 87301 United States",
+    "distance": 0.9,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14750000/14742400/14742377/6d9a2ed0_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Quality Inn And Suites Gallup",
+    "address": "1500 W Maloney Ave, Gallup, NM, 87301 United States",
+    "distance": 1.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/63100/63041/63041_45_l.jpg"
+  },
+  {
+    "price": 78,
+    "name": "Comfort Inn Gallup",
+    "address": "1440 W Maloney Ave, Gallup, NM, 87301 United States",
+    "distance": 1.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/329300/329212/329212_90_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "Hilton Garden Inn Gallup",
+    "address": "1530 W Maloney Ave, Gallup, NM, 87301 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8780000/8778800/8778745/8778745_1_l.jpg"
+  },
+  {
+    "price": 33,
+    "name": "Colonial Motel",
+    "address": "1007 West Coal Ave, Gallup, NM, 87301 United States",
+    "distance": 1.5,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14890000/14884500/14884420/14884420_1_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Best Western Plus Gallup Inn \u0026 Suites",
+    "address": "910 E Aztec Ave, Gallup, NM, 87301 United States",
+    "distance": 1.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11920000/11910700/11910618/11910618_11_l.jpg"
+  },
+  {
+    "price": 48,
+    "name": "Days Inn Gallup",
+    "address": "1603 W. Hwy 66, Gallup, NM, 87301 United States",
+    "distance": 1.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12400/12338/051f6010_l.jpg"
+  },
+  {
+    "price": 35,
+    "name": "Desert Skies Motel",
+    "address": "1703 West Hwy 66, Gallup, NM, 87301 United States",
+    "distance": 1.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14880000/14874000/14873908/14873908_16_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Super 8 - Gallup",
+    "address": "1715 Hwy 66 Mckinley, Gallup, NM, 87301 United States",
+    "distance": 1.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1150000/1145700/1145647/1145647_60_l.jpg"
+  },
+  {
+    "price": 36,
+    "name": "El Capitan motel",
+    "address": "1300 East Historic Hwy 66, Gallup, NM, 87301 United States",
+    "distance": 2.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10120000/10117600/10117561/10117561_23_l.jpg"
+  }
+]

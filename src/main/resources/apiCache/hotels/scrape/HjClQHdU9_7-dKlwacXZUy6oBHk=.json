@@ -1,0 +1,82 @@
+[
+  {
+    "price": 104,
+    "name": "Holiday Inn Express \u0026 Suites - O\u0027Fallon /Shiloh",
+    "address": "3396 Green Mount Crossing Dr, O\u0027Fallon, IL, 62269 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1040000/1037700/1037681/1037681_145_l.jpg"
+  },
+  {
+    "price": 122,
+    "name": "Drury Inn \u0026 Suites St. Louis O\u0027Fallon, IL",
+    "address": "1118 Central Park Drive, O\u0027Fallon, IL, 62269 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1550000/1544100/1544028/1544028_65_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Super 8 O\u0027Fallon",
+    "address": "1100 Eastgate Dr, O\u0027Fallon, IL, 62269 United States",
+    "distance": 2.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11100/11071/8e38ae39_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Hilton Garden Inn St. Louis Shiloh/O\u0027Fallon",
+    "address": "360 Regency Park Drive, O\u0027Fallon, IL, 62269 United States",
+    "distance": 2.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2110000/2109900/2109882/2109882_34_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Extended Stay America - St. Louis - O\u0027 Fallon, IL",
+    "address": "154 Regency Park, O\u0027Fallon, IL, 62269 United States",
+    "distance": 3.0,
+    "rating": 3.5,
+    "imgUrl": ""
+  },
+  {
+    "price": 55,
+    "name": "Home Towne Suites - O\u0027Fallon",
+    "address": "148 Regency Park, O\u0027Fallon, IL, 62269 United States",
+    "distance": 3.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2150000/2141800/2141767/2141767_46_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "La Quinta Inn \u0026 Suites O\u0027Fallon, IL - St. Louis",
+    "address": "136 Regency Park, O\u0027Fallon, IL, 62269 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/201300/201286/72e5a0a3_l.jpg"
+  },
+  {
+    "price": 78,
+    "name": "Country Inn \u0026 Suites By Carlson, O\u0027Fallon, IL",
+    "address": "116 Regency Park, O\u0027Fallon, IL, 62269 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42100/42017/42017_64_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Candlewood Suites O Fallon",
+    "address": "1332 Park Plaza Dr, O\u0027Fallon, IL, 62269 United States",
+    "distance": 3.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1510000/1503900/1503826/1503826_146_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Quality Inn O\u0027fallon",
+    "address": "1409 W US 50, O\u0027Fallon, IL, 62269 United States",
+    "distance": 3.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/64700/64675/64675_87_l.jpg"
+  }
+]

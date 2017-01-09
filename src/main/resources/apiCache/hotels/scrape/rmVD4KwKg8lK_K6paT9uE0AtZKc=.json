@@ -1,0 +1,82 @@
+[
+  {
+    "price": 105,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Carneys Point",
+    "address": "506 S. Pennsville Auburn Road, Carneys Point, NJ, 08069 United States",
+    "distance": 2.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/480000/477600/477573/477573_232_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Comfort Inn And Suites",
+    "address": "634 Soders Rd, Carneys Point, NJ, 08069 United States",
+    "distance": 2.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/918600/918501/918501_57_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Red Carpet Inn \u0026 Suites Carneys Point",
+    "address": "632 S Pennsville Auburn Rd, Carneys Point, NJ, 08069 United States",
+    "distance": 3.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/790000/787200/787169/787169_101_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Hampton Inn Pennsville",
+    "address": "429 N Broadway, Pennsville, NJ, 08070 United States",
+    "distance": 3.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/282000/281912/281912_57_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Super 8 Pennsville/Wilmington",
+    "address": "413 N Broadway, Pennsville, NJ, 08070 United States",
+    "distance": 3.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3540000/3536800/3536721/bb729000_l.jpg"
+  },
+  {
+    "price": 174,
+    "name": "DoubleTree by Hilton Downtown Wilmington - Legal District",
+    "address": "700 N King St, Wilmington, DE, 19801 United States",
+    "distance": 4.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20900/20863/20863_43_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Luxiasuites Rodney Square",
+    "address": "902 North Market Street, Wilmington, DE, 19801 United States",
+    "distance": 4.4,
+    "rating": 0.0,
+    "imgUrl": ""
+  },
+  {
+    "price": 439,
+    "name": "Hotel du Pont",
+    "address": "11th and Market Streets, Wilmington, DE, 19801 United States",
+    "distance": 4.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19900/19839/19839_5_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "LuxiaSuites City Center",
+    "address": "1007 North Orange Street, Wilmington, DE, 19801 United States",
+    "distance": 4.5,
+    "rating": 3.7,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1820000/1810300/1810221/1810221_13_l.jpg"
+  },
+  {
+    "price": 194,
+    "name": "Courtyard by Marriott Wilmington Downtown",
+    "address": "1102 N West St, Wilmington, DE, 19801 United States",
+    "distance": 4.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17700/17693/17693_42_l.jpg"
+  }
+]

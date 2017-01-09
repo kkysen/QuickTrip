@@ -1,0 +1,82 @@
+[
+  {
+    "price": 104,
+    "name": "Red Roof PLUS+ Mt Pleasant - Patriots Point",
+    "address": "301 Johnnie Dodds Blvd, Mount Pleasant, SC, 29464-2901 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22800/22726/22726_71_l.jpg"
+  },
+  {
+    "price": 130,
+    "name": "Best Western Patriots Point",
+    "address": "259 McGrath Darby Blvd, Mount Pleasant, SC, 29464 United States",
+    "distance": 0.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/328800/328796/328796_60_l.jpg"
+  },
+  {
+    "price": 222,
+    "name": "Springhill Suites by Marriott Charleston Mount Pleasant",
+    "address": "245 Magrath Darby Boulevard, Mount Pleasant, SC, 29464 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14610000/14607400/14607385/14607385_3_l.jpg"
+  },
+  {
+    "price": 178,
+    "name": "Hampton Inn Charleston/Mount Pleasant-Patriots Point",
+    "address": "255 Sessions Way, Mount Pleasant, SC, 29464 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1400/1304/1304_59_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Clarion Inn Mt. Pleasant - Charleston",
+    "address": "310 Johnnie Dodds Blvd., Mount Pleasant, SC, 29464 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12800/12796/12796_85_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Days Inn Mount Pleasant - Charleston - Patriots Point",
+    "address": "261 Johnnie Dodds Blvd, Hwy. 17 North, Mount Pleasant, SC, 29464 United States",
+    "distance": 0.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11400/11334/11334_174_l.jpg"
+  },
+  {
+    "price": 166,
+    "name": "Holiday Inn Express \u0026 Suites Mt. Pleasant",
+    "address": "350 Johnnie Dodds Blvd, Mount Pleasant, SC, 29464-2931 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3010000/3006300/3006245/c70d3950_l.jpg"
+  },
+  {
+    "price": 152,
+    "name": "Mainstay Suites",
+    "address": "400 Magrath Darby Blvd, Mount Pleasant, SC, 29464 United States",
+    "distance": 0.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/282900/282804/41c5aa86_l.jpg"
+  },
+  {
+    "price": 170,
+    "name": "Hilton Garden Inn Charleston / Mt. Pleasant",
+    "address": "300 Wingo Way, Mount Pleasant, SC, 29464-2839 United States",
+    "distance": 0.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/530000/522700/522689/522689_26_l.jpg"
+  },
+  {
+    "price": 141,
+    "name": "Extended Stay America Charleston - Mt. Pleasant",
+    "address": "304 Wingo Way, Mount Pleasant, SC, 29464-2839 United States",
+    "distance": 0.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84900/84867/84867_33_l.jpg"
+  }
+]

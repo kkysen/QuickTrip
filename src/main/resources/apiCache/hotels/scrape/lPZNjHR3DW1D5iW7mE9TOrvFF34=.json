@@ -1,0 +1,82 @@
+[
+  {
+    "price": 54,
+    "name": "Sleep Inn Frederick",
+    "address": "5361 Spectrum Dr, Frederick, MD, 21703 United States",
+    "distance": 14.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/530000/529900/529899/b4ff714c_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Holiday Inn Frederick-Conference Center at FSK Mall",
+    "address": "5400 Holiday Dr, Frederick, MD, 21703 United States",
+    "distance": 14.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27300/27260/27260_231_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "Country Inn \u0026 Suites By Carlson, Frederick, MD",
+    "address": "5579 Spectrum Dr, Frederick, MD, 21703 United States",
+    "distance": 14.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/59600/59588/59588_177_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Econo Lodge",
+    "address": "6021 Francis Scott Key Drive, Frederick, MD, 21704 United States",
+    "distance": 14.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/120700/120659/da1f42ae_l.jpg"
+  },
+  {
+    "price": 44,
+    "name": "Super 8 Frederick",
+    "address": "20 Monocacy Blvd, Frederick, MD, 21704 United States",
+    "distance": 14.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/329900/329814/401e5f3e_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Days Inn Frederick",
+    "address": "5646 Buckeystown Pike, Frederick, MD, 21704 United States",
+    "distance": 14.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13000/12946/12946_215_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Hampton Inn - Frederick",
+    "address": "5311 Buckeystown Pike, Frederick, MD, 21704 United States",
+    "distance": 14.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21500/21470/21470_36_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Extended Stay America - Washington DC - Germantown-Milestone",
+    "address": "12450 Milestone Center Dr, Germantown, MD, 20876 United States",
+    "distance": 14.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/159000/158943/158943_30_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Mainstay Suites Frederick",
+    "address": "7310 Executive Way, Frederick, MD, 21704 United States",
+    "distance": 14.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/530400/530328/17b189a5_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Comfort Inn",
+    "address": "7300 Executive Way, Frederick, MD, 21704 United States",
+    "distance": 14.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1100000/1092700/1092683/2492150b_l.jpg"
+  }
+]

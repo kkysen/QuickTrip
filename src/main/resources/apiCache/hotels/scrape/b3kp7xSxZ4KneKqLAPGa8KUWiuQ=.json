@@ -1,0 +1,82 @@
+[
+  {
+    "price": 94,
+    "name": "Fairfield Inn \u0026 Suites Colorado Springs N./Air Force Academy",
+    "address": "15275 Struthers Road, Colorado Springs, CO, 80921 United States",
+    "distance": 13.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2610000/2601700/2601608/ed05833b_l.jpg"
+  },
+  {
+    "price": 34,
+    "name": "Ramada Monument",
+    "address": "1865 Woodmoor Dr, Monument, CO, 80132 United States",
+    "distance": 13.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2260000/2256600/2256515/2256515_168_l.jpg"
+  },
+  {
+    "price": 162,
+    "name": "Cliff House at Pikes Peak",
+    "address": "306 Canon Ave, Manitou Springs, CO, 80829 United States",
+    "distance": 14.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/490000/487100/487035/487035_86_l.jpg"
+  },
+  {
+    "price": 86,
+    "name": "Americas Best Value Inn Villa Motel",
+    "address": "481 Manitou Ave, Manitou Springs, CO, 80829 United States",
+    "distance": 14.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/118600/118520/118520_157_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Eagle Motel",
+    "address": "423 Manitou Avenue, Manitou Springs, CO, 80829 United States",
+    "distance": 14.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6790000/6784900/6784897/6784897_1_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "TownePlace Suites Colorado Springs Garden of the Gods",
+    "address": "4760 Centennial Blvd, Colorado Springs, CO, 80919 United States",
+    "distance": 14.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/329900/329833/329833_80_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "Magnuson Hotel Manitou Springs",
+    "address": "311 Manitou Ave, Manitou Springs, CO, 80829 United States",
+    "distance": 14.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/980000/976000/975978/a9d70454_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Silver Saddle Motel",
+    "address": "215 Manitou Ave, Manitou Springs, CO, 80829 United States",
+    "distance": 15.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2460000/2455400/2455340/2455340_14_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Drury Inn \u0026 Suites Colorado Springs",
+    "address": "1170 InterQuest Parkway, Colorado Springs, CO, 80921 United States",
+    "distance": 15.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10090000/10087100/10087027/10087027_20_l.jpg"
+  },
+  {
+    "price": 215,
+    "name": "Garden of the Gods Club and Resort",
+    "address": "3320 Mesa Rd, Colorado Springs, CO, 80904 United States",
+    "distance": 15.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/909800/909713/909713_199_l.jpg"
+  }
+]

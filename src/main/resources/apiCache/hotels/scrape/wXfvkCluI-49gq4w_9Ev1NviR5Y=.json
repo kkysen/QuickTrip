@@ -1,0 +1,26 @@
+[
+  {
+    "price": 84,
+    "name": "Mountain Home Inn",
+    "address": "1180 Highway 20, Mountain Home, ID, 83647 United States",
+    "distance": 13.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26800/26749/c024e595_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Best Western Foothills Inn",
+    "address": "1080 Highway 20, Mountain Home, ID, 83647 United States",
+    "distance": 13.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9000/8960/8960_129_l.jpg"
+  },
+  {
+    "price": 124,
+    "name": "Hampton Inn \u0026 Suites Mountain Home",
+    "address": "3175 NE Foothills Avenue, Mountain Home, ID, 83647 United States",
+    "distance": 13.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1330000/1322000/1321941/1321941_11_l.jpg"
+  }
+]

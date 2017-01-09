@@ -1,0 +1,82 @@
+[
+  {
+    "price": 139,
+    "name": "Hampton Inn \u0026 Suites-Downtown-Tutwiler",
+    "address": "2021 Park Place, Birmingham, AL, 35203 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21800/21777/21777_80_l.jpg"
+  },
+  {
+    "price": 122,
+    "name": "Redmont Hotel Birmingham, Curio Collection by Hilton",
+    "address": "2101 Fifth Avenue North, Birmingham, AL, 35203 United States",
+    "distance": 0.1,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/562000/561953/561953_41_l.jpg"
+  },
+  {
+    "price": 170,
+    "name": "Sheraton Birmingham Hotel",
+    "address": "2101 Richard Arrington Jr Blvd N, Birmingham, AL, 35203 United States",
+    "distance": 0.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24600/24583/24583_123_l.jpg"
+  },
+  {
+    "price": 224,
+    "name": "The Westin Birmingham",
+    "address": "2221 Richard Arrington Jr. Blvd North, Birmingham, AL, 35203 United States",
+    "distance": 0.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5570000/5563500/5563431/5563431_45_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Tourway Inn",
+    "address": "1101 6th Ave N, Birmingham, AL, 35203 United States",
+    "distance": 0.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9300000/9299600/9299564/9299564_54_l.jpg"
+  },
+  {
+    "price": 152,
+    "name": "SpringHill Suites Birmingham Downtown at UAB",
+    "address": "2024 4th Avenue South, Birmingham, AL, 35233 United States",
+    "distance": 0.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2470000/2469900/2469850/2469850_33_l.jpg"
+  },
+  {
+    "price": 182,
+    "name": "Courtyard Birmingham Downtown at UAB",
+    "address": "1820 5th Avenue South, Birmingham, AL, 35233 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1220000/1217400/1217359/1217359_40_l.jpg"
+  },
+  {
+    "price": 153,
+    "name": "DoubleTree by Hilton Hotel Birmingham",
+    "address": "808 20th Street S, Birmingham, AL, 35205 United States",
+    "distance": 1.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5900/5824/5824_37_l.jpg"
+  },
+  {
+    "price": 190,
+    "name": "Residence Inn by Marriott Birmingham Downtown at UAB",
+    "address": "821 20th Street S, Birmingham, AL, 35205 United States",
+    "distance": 1.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2790000/2784600/2784509/2784509_14_l.jpg"
+  },
+  {
+    "price": 175,
+    "name": "Homewood Suites by Hilton Birmingham Downtown Near UAB",
+    "address": "1016 20th Street, Birmingham, AL, 35205 United States",
+    "distance": 1.4,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15230000/15228700/15228638/15228638_1_l.jpg"
+  }
+]

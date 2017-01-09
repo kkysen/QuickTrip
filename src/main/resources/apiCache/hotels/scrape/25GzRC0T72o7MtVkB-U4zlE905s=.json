@@ -1,0 +1,18 @@
+[
+  {
+    "price": 77,
+    "name": "Comfort Inn \u0026 Suites",
+    "address": "2209 John Deere Expressway, East Moline, IL, 61244 United States",
+    "distance": 1.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1130000/1126900/1126878/1126878_53_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Super 8 East Moline IL",
+    "address": "2201 John Deere Rd, East Moline, IL, 61244 United States",
+    "distance": 2.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/49800/49705/bf792458_l.jpg"
+  }
+]

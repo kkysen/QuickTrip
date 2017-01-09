@@ -1,0 +1,82 @@
+[
+  {
+    "price": 157,
+    "name": "Hilton Garden Inn Lancaster",
+    "address": "101 Granite Run Dr, Lancaster, PA, 17601 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19100/19051/19051_68_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Lancaster",
+    "address": "150 Granite Run Drive, Lancaster, PA, 17601 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/60800/60723/60723_50_l.jpg"
+  },
+  {
+    "price": 157,
+    "name": "Homewood Suites Lancaster",
+    "address": "200 Granite Run Drive, Lancaster, PA, 17601 United States",
+    "distance": 1.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/2000000/1990300/1990246/1990246_22_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Americas Best Value Inn",
+    "address": "1320 Harrisburg Pike, Lancaster, PA, 17603 United States",
+    "distance": 3.2,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1560000/1559300/1559265/1559265_48_l.jpg"
+  },
+  {
+    "price": 144,
+    "name": "Warehouse Hotel",
+    "address": "75 Champ Boulevard, Manheim, PA, 17545 United States",
+    "distance": 3.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12010000/12000600/12000599/4d2e0682_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Days Inn and Suites Lancaster",
+    "address": "1492 Lititz Pike, Lancaster, PA, 17601 United States",
+    "distance": 3.6,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27100/27012/58642534_l.jpg"
+  },
+  {
+    "price": 158,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Lancaster-Lititz",
+    "address": "101 Crosswinds Dr, Lititz, PA, 17543 United States",
+    "distance": 3.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1390000/1385500/1385438/1385438_211_l.jpg"
+  },
+  {
+    "price": 123,
+    "name": "Comfort Suites Manheim - Lancaster",
+    "address": "543 Champ Blvd, Manheim, PA, 17545 United States",
+    "distance": 3.9,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13380000/13378300/13378222/ef6c46d3_l.jpg"
+  },
+  {
+    "price": 390,
+    "name": "Heritage Hotel Lancaster",
+    "address": "500 Centerville Rd, Lancaster, PA, 17601 United States",
+    "distance": 4.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24000/23904/b061957a_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Lancaster Amish Country Travelodge",
+    "address": "2101 Columbia Ave, Lancaster, PA, 17603 United States",
+    "distance": 4.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3800/3738/c1e62b61_l.jpg"
+  }
+]

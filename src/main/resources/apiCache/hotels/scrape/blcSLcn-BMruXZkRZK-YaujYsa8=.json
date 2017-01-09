@@ -1,0 +1,50 @@
+[
+  {
+    "price": 44,
+    "name": "El Rey Motel",
+    "address": "1201 East Ash Street, Globe, AZ, 85501 United States",
+    "distance": 0.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5190000/5183400/5183368/a9a6f2bb_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Best Western Copper Hills Inn",
+    "address": "1565 E South Street, Globe, AZ, 85501 United States",
+    "distance": 1.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2630000/2621700/2621654/2621654_150_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Days Inn Globe",
+    "address": "1630 E Ash St, Globe, AZ, 85501 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42400/42374/42374_72_l.jpg"
+  },
+  {
+    "price": 43,
+    "name": "Belle-Aire Motel",
+    "address": "1600 N. Broad St., Globe, AZ, 85501 United States",
+    "distance": 1.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6180000/6174100/6174014/6174014_45_l.jpg"
+  },
+  {
+    "price": 133,
+    "name": "Holiday Inn Express \u0026 Suites Globe",
+    "address": "1890 East Ash Street, Globe, AZ, 85501 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8380000/8375800/8375701/1df70831_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Travelodge Globe Az",
+    "address": "2119 W. US 60, Hwy 60 West Side Of Town, Globe, AZ, 85502 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/913000/912979/912979_67_l.jpg"
+  }
+]

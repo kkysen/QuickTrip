@@ -1,0 +1,82 @@
+[
+  {
+    "price": 50,
+    "name": "Days Inn Forsyth",
+    "address": "343 North Lee Street, I-75 and GA Hwy 83 at Exit 187, Forsyth, GA, 31029 United States",
+    "distance": 0.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9300/9235/98704e65_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "La Quinta Inn \u0026 Suites Forsyth",
+    "address": "400 Russell Parkway, Forsyth, GA, 31029 United States",
+    "distance": 0.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15670000/15661000/15660969/bde4adfb_l.jpg"
+  },
+  {
+    "price": 37,
+    "name": "Econo Lodge Forsyth",
+    "address": "320 Cabiness Road, Forsyth, GA, 31029 United States",
+    "distance": 0.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42400/42365/ce653a24_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Super 8 Forsyth GA",
+    "address": "436 Tift College Dr, I-75, Exit 186, Forsyth, GA, 31029 United States",
+    "distance": 0.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1040000/1037500/1037408/1037408_85_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "Holiday Inn Express Forsyth",
+    "address": "520 Holiday Circle, Forsyth, GA, 31029 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25400/25391/5c942e3f_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Red Roof Inn Forsyth",
+    "address": "480 Holiday Circle, Forsyth, GA, 31029 United States",
+    "distance": 0.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1900/1858/57f8d697_l.jpg"
+  },
+  {
+    "price": 44,
+    "name": "Quality Inn",
+    "address": "951 Hwy 42 N Building A, Forsyth, GA, 31029 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14780000/14770600/14770511/65fe17bc_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Comfort Suites Forsyth",
+    "address": "343 Harold G Clarke Pkwy, Forsyth, GA, 31029 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1930000/1927100/1927059/e0595e9b_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Comfort Inn Forsyth",
+    "address": "333 Harold G. Clark Pkwy, Forsyth, GA, 31029 United States",
+    "distance": 1.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40400/40355/80a0d5e8_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "High Falls Hide A Way Lodging",
+    "address": "5047 High Falls Road, Forsyth, GA, 30204 United States",
+    "distance": 11.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7630000/7623800/7623790/7623790_11_l.jpg"
+  }
+]

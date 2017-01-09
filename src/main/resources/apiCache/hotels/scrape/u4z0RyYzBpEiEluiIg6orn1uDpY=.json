@@ -1,0 +1,18 @@
+[
+  {
+    "price": 83,
+    "name": "St. Charles Hotel",
+    "address": "16-18 Park Place, Hudson, NY, 12534 United States",
+    "distance": 2.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1640000/1639400/1639318/1639318_9_l.jpg"
+  },
+  {
+    "price": 218,
+    "name": "26 Warren B\u0026B",
+    "address": "26 Warren Street, Hudson, NY, 12534 United States",
+    "distance": 3.1,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10540000/10538700/10538604/10538604_28_l.jpg"
+  }
+]

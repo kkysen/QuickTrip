@@ -1,0 +1,82 @@
+[
+  {
+    "price": 78,
+    "name": "Ramada Cumberland Downtown",
+    "address": "100 South George Street, Cumberland, MD, 21502 United States",
+    "distance": 0.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7000/6988/73a166d3_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Cumberland",
+    "address": "21 N Wineow Street, Cumberland, MD, 21502 United States",
+    "distance": 0.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2760000/2758900/2758850/7302266a_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "Sleep Inn \u0026 Suites Cumberland",
+    "address": "13320 Ali Ghan Road NE, Cumberland, MD, 21502 United States",
+    "distance": 2.0,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15690000/15687200/15687145/1d8e8ec2_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Holiday Inn Express \u0026 Suites La Vale - Cumberland",
+    "address": "1076 National Hwy, LaVale, MD, 21502 United States",
+    "distance": 4.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11510000/11501300/11501232/11501232_16_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Comfort Inn \u0026 Suites LaVale - Cumberland",
+    "address": "1216 National Hwy, LaVale, MD, 21502 United States",
+    "distance": 4.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/907700/907682/907682_80_l.jpg"
+  },
+  {
+    "price": 61,
+    "name": "Best Western Braddock Motor Inn",
+    "address": "1268 National Hwy, LaVale, MD, 21502 United States",
+    "distance": 5.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20300/20208/20208_63_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Super 8 La Vale Cumberland",
+    "address": "1301 National Hwy, LaVale, MD, 21502 United States",
+    "distance": 5.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/855500/855459/855459_93_l.jpg"
+  },
+  {
+    "price": 132,
+    "name": "Rocky Gap Casino \u0026 Resort",
+    "address": "16701 Lakeview Road NE, Flintstone, MD, 21530 United States",
+    "distance": 5.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/119400/119318/119318_6_l.jpg"
+  },
+  {
+    "price": 154,
+    "name": "Hampton Inn Frostburg",
+    "address": "11200 New Georges Creek Rd Sw, Frostburg, MD, 21532 United States",
+    "distance": 8.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/119300/119265/119265_22_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Allegheny Trail House",
+    "address": "156 E Main St, Frostburg, MD, 21532 United States",
+    "distance": 9.3,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15930000/15922300/15922249/d456d926_l.jpg"
+  }
+]

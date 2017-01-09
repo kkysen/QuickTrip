@@ -1,0 +1,82 @@
+[
+  {
+    "price": 62,
+    "name": "Red Roof Inn Hickory",
+    "address": "1184 Lenoir Rhyne Blvd Se, Hickory, NC, 28602 United States",
+    "distance": 1.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25700/25602/6d85e139_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Baymont Inn and Suites Hickory",
+    "address": "1120 13th Avenue Dr Se, Hickory, NC, 28602 United States",
+    "distance": 1.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/530000/525800/525725/525725_135_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Quality Suites",
+    "address": "1125 13th Avenue Dr Se, Hickory, NC, 28602 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15100/15029/15029_63_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Sleep Inn",
+    "address": "1179 13th Avenue Dr Se, Hickory, NC, 28602 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22600/22525/22525_62_l.jpg"
+  },
+  {
+    "price": 57,
+    "name": "Days Inn \u0026 Suites Hickory",
+    "address": "1725 13th Avenue Dr Nw, Hickory, NC, 28601 United States",
+    "distance": 2.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42800/42715/42715_39_l.jpg"
+  },
+  {
+    "price": 108,
+    "name": "Crowne Plaza Hotel Hickory",
+    "address": "1385 Lenoir Rhyne Blvd Se, Hickory, NC, 28602 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16100/16016/16016_194_l.jpg"
+  },
+  {
+    "price": 154,
+    "name": "Courtyard by Marriott Hickory",
+    "address": "1946 13th Avenue Dr Se, Hickory, NC, 28602 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/560400/560303/560303_85_l.jpg"
+  },
+  {
+    "price": 130,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Hickory",
+    "address": "1950 13th Avenue Drive SE, Hickory, NC, 28602 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28100/28047/96d34f9d_l.jpg"
+  },
+  {
+    "price": 142,
+    "name": "Hampton Inn Hickory",
+    "address": "1956 13th Avenue Dr Se, Hickory, NC, 28602 United States",
+    "distance": 2.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2880000/2870900/2870856/7f3de7dc_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Best Western Hickory",
+    "address": "1520 13th Avenue Dr SE, Hickory, NC, 28602 United States",
+    "distance": 2.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8200/8167/8167_55_l.jpg"
+  }
+]

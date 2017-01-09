@@ -1,0 +1,82 @@
+[
+  {
+    "price": 159,
+    "name": "Aloft El Segundo - Los Angeles Airport",
+    "address": "475 North Sepulveda Boulevard, El Segundo, CA, 90245 United States",
+    "distance": 0.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10250000/10246100/10246030/26748b17_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Fairfield Inn \u0026 Suites Los Angeles LAX/El Segundo",
+    "address": "525 North Sepulveda Boulevard, El Segundo, CA, 90245 United States",
+    "distance": 0.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15800/15727/15727_100_l.jpg"
+  },
+  {
+    "price": 189,
+    "name": "DoubleTree by Hilton LAX - El Segundo",
+    "address": "1985 E Grand Ave, El Segundo, CA, 90245 United States",
+    "distance": 0.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16500/16424/16424_143_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Extended Stay America - Los Angeles - LAX Airport-El Segundo",
+    "address": "1910 E Mariposa Ave, El Segundo, CA, 90245 United States",
+    "distance": 0.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/119000/118953/118953_57_l.jpg"
+  },
+  {
+    "price": 144,
+    "name": "Courtyard by Marriott Los Angeles LAX El Segundo",
+    "address": "2000 E Mariposa Ave, El Segundo, CA, 90245 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2600/2551/2551_63_l.jpg"
+  },
+  {
+    "price": 234,
+    "name": "Residence Inn Los Angeles LAX / El Segundo",
+    "address": "2135 East El Segundo Blvd, El Segundo, CA, 90245 United States",
+    "distance": 0.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/590000/580600/580512/7a25277d_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Travelodge Los Angeles Airport South",
+    "address": "1804 E Sycamore Ave, El Segundo, CA, 90245 United States",
+    "distance": 0.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19900/19832/19832_123_l.jpg"
+  },
+  {
+    "price": 174,
+    "name": "Hampton Inn \u0026 Suites LAX El Segundo",
+    "address": "888 N Sepulveda Boulevard, El Segundo, CA, 90245 United States",
+    "distance": 0.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16130000/16128800/16128743/c6391850_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Hilton Garden Inn LAX El Segundo",
+    "address": "2100 E Mariposa Ave, El Segundo, CA, 90245 United States",
+    "distance": 0.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/424200/424167/424167_30_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Embassy Suites Los Angeles Intl Airport South",
+    "address": "1440 E Imperial Ave, El Segundo, CA, 90245 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40500/40444/40444_127_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 61,
+    "name": "Super 8 Mokena/Frankfort /I-80",
+    "address": "9485 West 191 Street, Mokena, IL, 60448 United States",
+    "distance": 4.2,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/440000/439800/439713/770aac7e_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Hilton Garden Inn Chicago/Tinley Park",
+    "address": "18335 LaGrange Rd, Tinley Park, IL, 60487 United States",
+    "distance": 5.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1180000/1172300/1172220/954813fd_l.jpg"
+  },
+  {
+    "price": 96,
+    "name": "Country Inn \u0026 Suites By Carlson, Tinley Park, IL",
+    "address": "18315 South LaGrange Road, Tinley Park, IL, 60487 United States",
+    "distance": 5.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1640000/1635700/1635683/1635683_34_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "La Quinta Inn Chicago Matteson",
+    "address": "5210 West Southwick Dr, Matteson, IL, 60443 United States",
+    "distance": 5.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/49500/49440/024a8f85_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Holiday Inn Chicago Matteson Conf Center",
+    "address": "500 Holiday Plaza Dr, Matteson, IL, 60443 United States",
+    "distance": 5.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1200/1174/1174_217_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Sleep Inn Tinley Park",
+    "address": "18420 Spring Creek Dr, Tinley Park, IL, 60477 United States",
+    "distance": 5.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/490000/484600/484516/484516_48_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Hampton Inn Chicago / Tinley Park",
+    "address": "18501 North Creek Drive, Tinley Park, IL, 60477 United States",
+    "distance": 5.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42600/42539/42539_44_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Fairfield Inn \u0026 Suites Chicago Tinley Park",
+    "address": "18511 North Creek Drive, Tinley Park, IL, 60477 United States",
+    "distance": 5.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42600/42537/42537_54_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Country Inn Suites Matteson",
+    "address": "950 Lake Superior Dr, Matteson, IL, 60443 United States",
+    "distance": 5.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/810000/804400/804324/e38de4ab_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Hampton Inn \u0026 Suites Chicago Southland-Matteson",
+    "address": "20920 Matteson Avenue, Matteson, IL, 60443 United States",
+    "distance": 5.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2420000/2419000/2418924/49ea9fb5_l.jpg"
+  }
+]

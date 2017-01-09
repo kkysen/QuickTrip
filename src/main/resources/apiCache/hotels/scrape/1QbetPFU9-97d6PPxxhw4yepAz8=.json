@@ -1,0 +1,82 @@
+[
+  {
+    "price": 70,
+    "name": "Americas Best Value Inn-Madison",
+    "address": "3438 Hwy 12-18, Madison, WI, 53718 United States",
+    "distance": 9.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/867800/867765/867765_92_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Magnuson Grand Hotel Madison",
+    "address": "3510 Millpond Rd, Madison, WI, 53718 United States",
+    "distance": 9.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41900/41863/41863_61_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Sleep Inn And Suites Madison",
+    "address": "4802 Tradewinds Pkwy, Madison, WI, 53718 United States",
+    "distance": 9.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2790000/2784600/2784518/2784518_36_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Days Inn \u0026 Suites Madison",
+    "address": "4402 E Broadway Srvcs Rd, Madison, WI, 53716 United States",
+    "distance": 10.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21800/21796/5233fed8_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Country Inn \u0026 Suites By Carlson Madison",
+    "address": "400 River Pl, Madison, WI, 53716 United States",
+    "distance": 10.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/62500/62456/62456_90_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "AmericInn Lodge \u0026 Suites Madison South",
+    "address": "101 W Broadway, Madison, WI, 53716 United States",
+    "distance": 11.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5800000/5795900/5795842/5795842_3_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "Comfort Inn Edgerton",
+    "address": "11102 N Goede Rd, Edgerton, WI, 53534 United States",
+    "distance": 11.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/200600/200562/200562_46_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Clarion Suites at the Alliant Energy Center",
+    "address": "2110 Rimrock Rd, Madison, WI, 53713 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/700000/693700/693613/693613_110_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Comfort Inn Madison - Downtown",
+    "address": "722 John Nolen Drive, Madison, WI, 53713 United States",
+    "distance": 12.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41700/41637/41637_353_l.jpg"
+  },
+  {
+    "price": 164,
+    "name": "Sheraton Madison Hotel",
+    "address": "706 John Nolen Dr, Madison, WI, 53713 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18200/18183/18183_75_l.jpg"
+  }
+]

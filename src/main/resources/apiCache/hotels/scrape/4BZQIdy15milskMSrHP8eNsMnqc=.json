@@ -1,0 +1,82 @@
+[
+  {
+    "price": 115,
+    "name": "Fairfield Inn \u0026 Suites Marriott San Antonio Boerne",
+    "address": "6 Cascade Caverns Road, Boerne, TX, 78006 United States",
+    "distance": 4.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2710000/2709500/2709493/2709493_23_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "La Quinta Inn \u0026 Suites San Antonio The Dominion",
+    "address": "25042 IH-10 West, San Antonio, TX, 78257 United States",
+    "distance": 5.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2300000/2292900/2292838/5c17ce0c_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Motel 6 Boerne TX",
+    "address": "1228 S Main St, Boerne, TX, 78006 United States",
+    "distance": 6.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4960000/4952200/4952103/4952103_22_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "Comfort Inn \u0026 Suites Texas Hill Country",
+    "address": "35000 H I 10 W, Boerne, TX, 78006 United States",
+    "distance": 6.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/792000/791901/791901_113_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Hampton Inn \u0026 Suites Boerne",
+    "address": "34935 IH-10 West, Boerne, TX, 78006 United States",
+    "distance": 6.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2050000/2041500/2041435/2041435_52_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Ye Kendall Inn",
+    "address": "128 W. Blanco, Boerne, TX, 78006 United States",
+    "distance": 6.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/908300/908269/908269_54_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Best Western Boerne Inn \u0026 Suites",
+    "address": "36756 I 10 Johns Rd, Boerne, TX, 78006 United States",
+    "distance": 7.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1860000/1855600/1855509/7c8b7faa_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Rodeway Inn At Six Flags",
+    "address": "19793 I 10 W, San Antonio, TX, 78257 United States",
+    "distance": 9.0,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4400/4307/a65ca126_l.jpg"
+  },
+  {
+    "price": 117,
+    "name": "SpringHill Suites by Marriott San Antonio NW at The Rim",
+    "address": "18119 Talavera Rdg, San Antonio, TX, 78257 United States",
+    "distance": 9.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14790000/14786800/14786793/beb41539_l.jpg"
+  },
+  {
+    "price": 253,
+    "name": "Eilan Hotel \u0026 Spa, Autograph Collection",
+    "address": "18603 La Cantera Terrace, San Antonio, TX, 78256 United States",
+    "distance": 10.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4920000/4919800/4919718/a54b295b_l.jpg"
+  }
+]

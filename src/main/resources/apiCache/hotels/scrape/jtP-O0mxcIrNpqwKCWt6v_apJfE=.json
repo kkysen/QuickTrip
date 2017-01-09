@@ -1,0 +1,82 @@
+[
+  {
+    "price": 80,
+    "name": "Studio 6 Sweetwater TX",
+    "address": "501 Northeast Georgia Avenue\u0026nbsp;, I-20 Exit #245\u0026nbsp;, Sweetwater, TX, 79556\u0026nbsp; United States",
+    "distance": 4.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10940000/10938300/10938254/10938254_22_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Holiday Inn Express Sweetwater",
+    "address": "300 Se Georgia Ave, Sweetwater, TX, 79556 United States",
+    "distance": 4.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1620000/1612900/1612860/1612860_101_l.jpg"
+  },
+  {
+    "price": 112,
+    "name": "Hampton Inn Sweetwater",
+    "address": "302 Se Georgia Ave, Sweetwater, TX, 79556 United States",
+    "distance": 5.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3120000/3114300/3114283/3114283_13_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Best Western Plus Sweetwater Inn \u0026 Suites",
+    "address": "300 NW Georgia Avenue, Sweetwater, TX, 79556 United States",
+    "distance": 5.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1800000/1797300/1797260/1797260_12_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Ranch House Motel",
+    "address": "301 Southwest Georgia Avenue, Sweetwater, TX, 79556 United States",
+    "distance": 5.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12690000/12684800/12684730/28b2f40f_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Country Hearth Inn Sweetwater TX",
+    "address": "216 SE Georgia Ave, Sweetwater, TX, 79556 United States",
+    "distance": 5.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43000/42936/42936_21_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Stay Express Inn And Suites - Sweetwater TX",
+    "address": "703 Sw Georgia Ave, Sweetwater, TX, 79556 United States",
+    "distance": 5.7,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4350000/4345700/4345635/4345635_18_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "La Quinta Inn Sweetwater",
+    "address": "500 Nw Georgia Ave, Sweetwater, TX, 79556 United States",
+    "distance": 5.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4200/4109/2173c6a0_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Microtel Inn and Suites by Wyndham Sweetwater",
+    "address": "9416 N Interstate 20, Sweetwater, TX, 79556 United States",
+    "distance": 7.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9790000/9784700/9784700/9784700_71_l.jpg"
+  },
+  {
+    "price": 49,
+    "name": "Windword Inn",
+    "address": "311 N Cleveland, Rotan, TX, 79546 United States",
+    "distance": 27.0,
+    "rating": 2.3,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7910000/7900900/7900849/7900849_20_l.jpg"
+  }
+]

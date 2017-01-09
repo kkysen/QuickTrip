@@ -1,0 +1,50 @@
+[
+  {
+    "price": 95,
+    "name": "Days Inn Dover",
+    "address": "481 Central Ave, Dover, NH, 03820 United States",
+    "distance": 0.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13400/13395/13395_190_l.jpg"
+  },
+  {
+    "price": 122,
+    "name": "The Silver Fountain Inn",
+    "address": "103 Silver Street, Dover, NH, 03820 United States",
+    "distance": 0.6,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1200000/1190100/1190086/e3fcd21f_l.jpg"
+  },
+  {
+    "price": 117,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Dover",
+    "address": "31 Webb Pl, Dover, NH, 03820 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1710000/1705900/1705849/ab94f1d3_l.jpg"
+  },
+  {
+    "price": 160,
+    "name": "Homewood Suites Dover",
+    "address": "21 Members Way, Dover, NH, 03820 United States",
+    "distance": 1.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2210000/2202700/2202669/2202669_112_l.jpg"
+  },
+  {
+    "price": 131,
+    "name": "Comfort Inn And Suites Dover",
+    "address": "10 Hotel Dr, (route 9 \u0026 108), Dover, NH, 03820 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1100000/1097500/1097481/1097481_178_l.jpg"
+  },
+  {
+    "price": 164,
+    "name": "Hampton Inn Dover",
+    "address": "9 Hotel Drive, GPS: 17 New Rochester Rd, Dover, NH, 03820 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1760000/1753900/1753841/1753841_129_l.jpg"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "price": 89,
+    "name": "Ornl Guest House",
+    "address": "8640 Nano Center Drive, Oak Ridge, TN, 37830 United States",
+    "distance": 1.0,
+    "rating": 0.0,
+    "imgUrl": ""
+  },
+  {
+    "price": 94,
+    "name": "Hampton Inn Oak Ridge",
+    "address": "208 S Illinois Ave, Oak Ridge, TN, 37830 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14400/14312/14312_26_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "DoubleTree by Hilton Hotel Oak Ridge - Knoxville",
+    "address": "215 S Illinois Ave, Oak Ridge, TN, 37830 United States",
+    "distance": 3.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40400/40384/edfede93_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Staybridge Suites Oak Ridge",
+    "address": "420 S Illinois Ave, Oak Ridge, TN, 37830 United States",
+    "distance": 3.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15000/14950/14950_113_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Comfort Inn Oak Ridge - Knoxville",
+    "address": "433 S Rutgers Ave, Oak Ridge, TN, 37830 United States",
+    "distance": 3.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24400/24381/24381_75_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Quality Inn Oak Ridge",
+    "address": "216 S Rutgers Ave, Oak Ridge, TN, 37830 United States",
+    "distance": 3.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/470000/464800/464773/464773_46_l.jpg"
+  }
+]

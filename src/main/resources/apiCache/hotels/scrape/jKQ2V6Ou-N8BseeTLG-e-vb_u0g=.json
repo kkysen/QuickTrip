@@ -1,0 +1,82 @@
+[
+  {
+    "price": 101,
+    "name": "Baymont Inn and Suites Georgetown",
+    "address": "250 Outlet Center Dr, Georgetown, KY, 40324 United States",
+    "distance": 1.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42500/42465/58d4a8c6_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Microtel Inn by Wyndham Georgetown",
+    "address": "111 Darby Dr, Georgetown, KY, 40324 United States",
+    "distance": 1.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/310000/304900/304814/304814_86_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "Comfort Suites",
+    "address": "121 Darby Dr, Georgetown, KY, 40324 United States",
+    "distance": 1.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/77600/77541/77541_119_l.jpg"
+  },
+  {
+    "price": 94,
+    "name": "Country Inn \u0026 Suites Georgetown",
+    "address": "131 Darby Dr, Georgetown, KY, 40324 United States",
+    "distance": 1.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/532100/532007/532007_91_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Hampton Inn Lexington/Georgetown",
+    "address": "128 Darby Dr, Georgetown, KY, 40324 United States",
+    "distance": 1.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/68000/67968/67968_20_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Best Western Plus Georgetown Corporate Center Hotel",
+    "address": "132 Darby Drive, Georgetown, KY, 40324 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/532700/532630/b5429f5d_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Super 8 Georgetown",
+    "address": "250 Tiger Way, I-75 \u0026 US 62 Exit 126, Georgetown, KY, 40324 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459900/459849/459849_156_l.jpg"
+  },
+  {
+    "price": 131,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Lexington Georgetown",
+    "address": "200 Tiger Way, Georgetown, KY, 40324 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4600/4557/4557_98_l.jpg"
+  },
+  {
+    "price": 143,
+    "name": "Hilton Garden Inn Lexington-Georgetown",
+    "address": "110 Grandstand Dr, Georgetown, KY, 40324 United States",
+    "distance": 1.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1680000/1674700/1674666/1674666_18_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Deluxe Inn Georgetown",
+    "address": "3075 Paris Pike, Georgetown, KY, 40324 United States",
+    "distance": 1.7,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25700/25603/25603_36_l.jpg"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "price": 104,
+    "name": "Radisson Hotel Freehold",
+    "address": "50 Gibson Pl, Freehold, NJ, 07728 United States",
+    "distance": 1.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7300/7272/7272_93_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "Days Inn Freehold",
+    "address": "4089 Route 9 N, Freehold, NJ, 07728 United States",
+    "distance": 2.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42700/42652/42652_112_l.jpg"
+  }
+]

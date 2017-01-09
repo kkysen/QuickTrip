@@ -1,0 +1,82 @@
+[
+  {
+    "price": 92,
+    "name": "Best Western Kirkwood Inn",
+    "address": "1200 S Kirkwood Road, Kirkwood, MO, 63122 United States",
+    "distance": 3.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/500/415/06547ccd_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Hilton St. Louis Frontenac",
+    "address": "1335 S Lindbergh Blvd, Frontenac, MO, 63131 United States",
+    "distance": 3.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2100/2054/2054_10_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Holiday Inn St Louis SW - Route 66",
+    "address": "10709 Watson Rd, St. Louis, MO, 63127 United States",
+    "distance": 3.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26900/26898/b4ce6375_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Super 8 - Fenton/St. Louis Area",
+    "address": "650 S Highway Dr, Fenton, MO, 63026 United States",
+    "distance": 3.8,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3500/3490/f3605338_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Days Inn St. Louis - Lindbergh Boulevard",
+    "address": "3660 South Lindbergh Boulevard, St. Louis, MO, 63127 United States",
+    "distance": 3.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12500/12448/12448_265_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Fairfield Inn By Marriott Fenton",
+    "address": "1680 Fenton Business Park Ct, Fenton, MO, 63026 United States",
+    "distance": 3.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42200/42127/3a0117c8_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Drury Inn \u0026 Suites St. Louis Fenton",
+    "address": "1088 South Highway Drive, Fenton, MO, 63026 United States",
+    "distance": 3.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42200/42122/42122_63_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Pear Tree Inn St. Louis Fenton",
+    "address": "1100 S Highway Dr, Fenton, MO, 63026 United States",
+    "distance": 3.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40200/40102/40102_33_l.jpg"
+  },
+  {
+    "price": 123,
+    "name": "Holiday Inn Express \u0026 Suites St. Louis West - Fenton",
+    "address": "1848 Bowles Ave, Fenton, MO, 63026 United States",
+    "distance": 4.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/74300/74268/74268_342_l.jpg"
+  },
+  {
+    "price": 158,
+    "name": "Marriott St. Louis West",
+    "address": "660 Maryville Centre Dr, St. Louis, MO, 63141 United States",
+    "distance": 4.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17400/17345/2e6c5273_l.jpg"
+  }
+]

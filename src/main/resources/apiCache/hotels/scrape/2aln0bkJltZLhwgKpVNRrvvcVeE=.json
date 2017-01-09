@@ -1,0 +1,82 @@
+[
+  {
+    "price": 38,
+    "name": "Motel 7",
+    "address": "729 E Veterans Memorial Blvd, Killeen, TX, 76541 United States",
+    "distance": 0.3,
+    "rating": 1.8,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12520000/12513400/12513333/12513333_8_l.jpg"
+  },
+  {
+    "price": 44,
+    "name": "Economy Motel",
+    "address": "817 E Veterans Memorial Blvd, Killeen, TX, 76541 United States",
+    "distance": 0.4,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11880000/11876200/11876199/11876199_15_l.jpg"
+  },
+  {
+    "price": 44,
+    "name": "Nites Inn",
+    "address": "517 W Veterans Memorial Blvd, Killeen, TX, 76541 United States",
+    "distance": 0.5,
+    "rating": 1.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43000/42996/161f9f1b_l.jpg"
+  },
+  {
+    "price": 41,
+    "name": "Amco Hotel \u0026 Suites - Killeen",
+    "address": "404 South Fort Hood Street, Killeen, TX, 76541 United States",
+    "distance": 1.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/282100/282027/282027_69_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Shilo Inn Suites Hotel - Killeen",
+    "address": "3701 S W S Young Dr, Killeen, TX, 76542 United States",
+    "distance": 1.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1570000/1562800/1562703/1562703_13_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Inko Hotel",
+    "address": "1100 S. Fort Hood St, Killeen, TX, 76541 United States",
+    "distance": 1.3,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9770000/9768100/9768002/9768002_22_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "La Quinta Inn Killeen",
+    "address": "1112 S Fort Hood St, Killeen, TX, 76541 United States",
+    "distance": 1.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2500/2455/91e360b5_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Americas Best Value Inn Killeen/Fort Hood",
+    "address": "2709 East Veterans Memorial Boulevard, Killeen, TX, 76543 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9200/9171/4e96c4c9_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Fairfield Inn by Marriott Killeen",
+    "address": "200 E Centex Expy, Killeen, TX, 76541 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/880000/878500/878481/878481_41_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Holiday Inn Killeen Fort Hood",
+    "address": "300 E Central Texas Expy, Killeen, TX, 76541 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1720000/1717400/1717383/1717383_272_l.jpg"
+  }
+]

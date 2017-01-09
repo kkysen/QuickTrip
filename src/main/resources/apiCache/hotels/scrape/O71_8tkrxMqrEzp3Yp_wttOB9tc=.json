@@ -1,0 +1,82 @@
+[
+  {
+    "price": 96,
+    "name": "Holiday Inn Express \u0026 Suites Southport - Oak Island Area",
+    "address": "3400 Southport Supply Road, Bolivia, NC, 28422 United States",
+    "distance": 5.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8290000/8282600/8282528/8282528_44_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "Comfort Suites Southport",
+    "address": "4963 Southport Supply Rd., Southport, NC, 28461 United States",
+    "distance": 5.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/890200/890146/890146_47_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Hampton Inn Southport",
+    "address": "5181 Southport Supply Rd Se, Southport, NC, 28461 United States",
+    "distance": 5.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/480000/471500/471446/471446_21_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "Wingate By Wyndham Southport",
+    "address": "1511 N Howe Street, Southport, NC, 28461 United States",
+    "distance": 6.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2490000/2484800/2484727/f86e76d1_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Captain\u0027s Cove Motel",
+    "address": "6401 Oak Island Drive, Oak Island, NC, 28461 United States",
+    "distance": 8.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10990000/10986500/10986426/10986426_9_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Moran Motel",
+    "address": "118 S Fort Fisher Blvd, Kure Beach, NC, 28449 United States",
+    "distance": 9.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15120000/15118800/15118710/15118710_14_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Carolina Beach",
+    "address": "907 N Lake Park Blvd, Carolina Beach, NC, 28428 United States",
+    "distance": 9.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/930000/920100/920015/920015_45_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Dry Dock Vacation Club",
+    "address": "300 S. Lake Park Blvd, Carolina Beach, NC, 28428 United States",
+    "distance": 9.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9750000/9744300/9744227/9744227_3_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Drifters Reef Motel",
+    "address": "701 North Lake Park Blvd, Carolina Beach, NC, 28428 United States",
+    "distance": 9.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9730000/9730000/9729995/a09c2dd0_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Carolina Beach Inn",
+    "address": "205 Harper Ave , Carolina Beach , NC, 28428 United States",
+    "distance": 9.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9730000/9728400/9728313/9728313_80_l.jpg"
+  }
+]

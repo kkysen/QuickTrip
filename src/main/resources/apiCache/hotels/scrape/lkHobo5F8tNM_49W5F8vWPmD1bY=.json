@@ -1,0 +1,82 @@
+[
+  {
+    "price": 135,
+    "name": "Country Inn \u0026 Suites By Carlson, St. Charles, MO",
+    "address": "1190 S Main St, St. Charles, MO, 63301 United States",
+    "distance": 0.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1340000/1330400/1330309/1330309_48_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Best Western Plus The Charles Hotel",
+    "address": "1425 South 5th Street, St. Charles, MO, 63301 United States",
+    "distance": 0.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40300/40297/40297_259_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Comfort Suites",
+    "address": "1400 S 5th St, St. Charles, MO, 63301 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/670000/664500/664414/7ae1a86c_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Americas Best Value Inn \u0026 Suites-St. Charles Inn/St. Louis",
+    "address": "1310 Bass Pro Drive, St. Charles, MO, 63301 United States",
+    "distance": 0.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/68200/68132/68132_119_l.jpg"
+  },
+  {
+    "price": 199,
+    "name": "Embassy Suites St. Louis - St. Charles",
+    "address": "2 Convention Center Plz, St. Charles, MO, 63303 United States",
+    "distance": 1.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1140000/1131200/1131105/1131105_30_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Towneplace Suites By Marriott St Charles",
+    "address": "1800 Zumbehl Rd, St. Charles, MO, 63303 United States",
+    "distance": 2.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/202300/202216/202216_33_l.jpg"
+  },
+  {
+    "price": 48,
+    "name": "Red Roof Inn St Louis - St Charles",
+    "address": "2010 Zumbehl Rd, St. Charles, MO, 63303 United States",
+    "distance": 2.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3600/3579/3579_102_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Super 8 St Charles",
+    "address": "3040 W Clay St, St. Charles, MO, 63301 United States",
+    "distance": 2.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/800/704/12ec2ca4_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Holiday Inn Express Hotel and Suites St. Charles",
+    "address": "3098 Elm Point Industrial Drive, St. Charles, MO, 63301 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2640000/2631600/2631507/2631507_141_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "Sleep Inn \u0026 Suites",
+    "address": "150 Fountain Lakes Blvd, St. Charles, MO, 63301 United States",
+    "distance": 3.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/546000/545993/e79f4782_l.jpg"
+  }
+]

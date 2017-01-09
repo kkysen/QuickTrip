@@ -1,0 +1,82 @@
+[
+  {
+    "price": 100,
+    "name": "Holiday Inn Express Nicholasville",
+    "address": "164 Imperial Way, Nicholasville, KY, 40356 United States",
+    "distance": 6.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/424300/424216/424216_438_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Baymont Inn and Suites Harrodsburg",
+    "address": "105 Commercial Drive, Harrodsburg, KY, 40330 United States",
+    "distance": 11.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84200/84198/84198_81_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Days Inn Harrodsburg",
+    "address": "1680 Danville Rd, Harrodsburg, KY, 40330 United States",
+    "distance": 12.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11200/11103/11103_156_l.jpg"
+  },
+  {
+    "price": 189,
+    "name": "Hilton Lexington Suites",
+    "address": "245 Lexington Green Circle, Lexington, KY, 40503-3309 United States",
+    "distance": 13.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1600/1598/1598_19_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Homewood Suites by Hilton Lexington",
+    "address": "249 Ruccio Way, Lexington, KY, 40503 United States",
+    "distance": 13.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/970000/968000/967959/ed3dca8f_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Comfort Suites",
+    "address": "3060 Fieldstone Way, Lexington, KY, 40513 United States",
+    "distance": 13.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/201300/201262/201262_61_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "The Farm Inn",
+    "address": "450 Waterworks Rd, Danville, KY, 40422 United States",
+    "distance": 13.0,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6280000/6278100/6278024/6278024_32_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Red Roof Inn Lexington South",
+    "address": "2651 Wilhite Dr, Lexington, KY, 40503 United States",
+    "distance": 13.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5100/5077/5077_68_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Extended Stay America - Lexington - Nicholasville Road",
+    "address": "2650 Wilhite Dr, Lexington, KY, 40503 United States",
+    "distance": 13.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40900/40849/40849_45_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "Fairfield Inn \u0026 Suites Lexington Keeneland Airport",
+    "address": "3050 Lakecrest Cir, Lexington, KY, 40513 United States",
+    "distance": 13.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24000/23910/23910_36_l.jpg"
+  }
+]

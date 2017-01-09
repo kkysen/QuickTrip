@@ -1,0 +1,58 @@
+[
+  {
+    "price": 65,
+    "name": "Quality Inn Hamburg",
+    "address": "5440 Camp Road, Hamburg, NY, 14075 United States",
+    "distance": 1.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3500/3439/cf3510e8_l.jpg"
+  },
+  {
+    "price": 86,
+    "name": "Super 8 Hamburg",
+    "address": "5442 Camp Rd, Hamburg, NY, 14075 United States",
+    "distance": 1.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3170000/3169800/3169797/6ec5b0f4_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Red Roof Inn Buffalo - Hamburg",
+    "address": "5370 Camp Road, Hamburg, NY, 14075 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17500/17404/17404_49_l.jpg"
+  },
+  {
+    "price": 106,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Hamburg",
+    "address": "3565 Commerce Place, Hamburg, NY, 14075 United States",
+    "distance": 1.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2520000/2511100/2511057/2511057_120_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Comfort Inn And Suites Hamburg",
+    "address": "3615 Commerce Pl, Hamburg, NY, 14075 United States",
+    "distance": 1.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/532900/532803/532803_43_l.jpg"
+  },
+  {
+    "price": 57,
+    "name": "Motel 6 Hamburg, NY",
+    "address": "5245 Camp Rd, Hamburg, NY, 14075 United States",
+    "distance": 2.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5920000/5914200/5914180/edbeb8de_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Stadium View Inn",
+    "address": "4414 Southwestern Blvd, Hamburg, NY, 14075 United States",
+    "distance": 3.4,
+    "rating": 1.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13430000/13429000/13428974/13428974_13_l.jpg"
+  }
+]

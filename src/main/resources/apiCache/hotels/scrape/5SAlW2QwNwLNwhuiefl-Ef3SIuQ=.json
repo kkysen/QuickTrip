@@ -1,0 +1,18 @@
+[
+  {
+    "price": 59,
+    "name": "Hotel Eastin Riverwalk",
+    "address": "401 S 10th St, Atchison, KS, 66002 United States",
+    "distance": 0.2,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14840000/14833200/14833162/14833162_4_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Super 8 Atchison",
+    "address": "509 S 9th St, Atchison, KS, 66002 United States",
+    "distance": 0.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19900/19845/19845_77_l.jpg"
+  }
+]

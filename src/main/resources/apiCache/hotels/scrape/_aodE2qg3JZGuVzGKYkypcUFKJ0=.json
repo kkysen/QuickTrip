@@ -1,0 +1,66 @@
+[
+  {
+    "price": 90,
+    "name": "Sutton Inn",
+    "address": "405 E Pulaski Hwy, Elkton, MD, 21921 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4620000/4610200/4610171/5d39b660_l.jpg"
+  },
+  {
+    "price": 120,
+    "name": "Hampton Inn Elkton",
+    "address": "2 Warner Rd, Elkton, MD, 21921 United States",
+    "distance": 2.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/892600/892594/892594_33_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Elkton Knights Inn",
+    "address": "262 Belle Hill Rd, Elkton, MD, 21921 United States",
+    "distance": 2.3,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/867700/867633/867633_110_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Motel 6 Elkton",
+    "address": "223 Belle Hill Rd, Elkton, MD, 21921 United States",
+    "distance": 2.3,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1040000/1037800/1037776/1037776_43_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "La Quinta Inn \u0026 Suites Newark - Elkton",
+    "address": "304 Belle Hill Rd, Elkton, MD, 21921 United States",
+    "distance": 2.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1290000/1283800/1283746/69dffe72_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Days Inn - Elkton",
+    "address": "311 Belle Hill Rd, I-95 Exit 109A, Elkton, MD, 21921 United States",
+    "distance": 2.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20500/20479/20479_81_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Holiday Inn Express \u0026 Suites Elkton - University Area",
+    "address": "1570 Elkton Rd, Elkton, MD, 21921 United States",
+    "distance": 3.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3610000/3605700/3605636/3605636_65_l.jpg"
+  },
+  {
+    "price": 137,
+    "name": "Elk Forge B\u0026B Inn \u0026 Day Spa",
+    "address": "807 Elk Mills Road, Elkton, MD, 21921 United States",
+    "distance": 3.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1160000/1153700/1153614/1153614_79_l.jpg"
+  }
+]

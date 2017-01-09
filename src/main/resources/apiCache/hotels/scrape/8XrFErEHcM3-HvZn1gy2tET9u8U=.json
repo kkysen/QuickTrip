@@ -1,0 +1,82 @@
+[
+  {
+    "price": 104,
+    "name": "Crowne Plaza Phoenix - Chandler Golf Resort",
+    "address": "1 San Marcos Pl, Chandler, AZ, 85225 United States",
+    "distance": 0.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15000/14981/14981_489_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Chandler Inn",
+    "address": "700 North Arizona Avenue, Chandler, AZ, 85225 United States",
+    "distance": 0.9,
+    "rating": 1.8,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9660000/9652600/9652524/9652524_8_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Best Western Inn of Chandler",
+    "address": "950 N Arizona Avenue, Chandler, AZ, 85225 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/64500/64484/64484_85_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Homewood Suites by Hilton Phoenix Chandler/Fashion Center",
+    "address": "1221 S Spectrum Blvd, Chandler, AZ, 85286 United States",
+    "distance": 2.9,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2790000/2784500/2784448/2784448_33_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "Hampton Inn Suites Phoenix Chandler Fashion Center",
+    "address": "1231 S Spectrum Blvd, Chandler, AZ, 85286 United States",
+    "distance": 2.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2780000/2774600/2774578/2774578_72_l.jpg"
+  },
+  {
+    "price": 132,
+    "name": "Hilton Phoenix Chandler",
+    "address": "2929 West Frye Road, Chandler, AZ, 85224 United States",
+    "distance": 3.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2390000/2385400/2385327/83741796_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Fairfield Inn \u0026 Suites Phoenix Chandler / Fashion Center",
+    "address": "1100 South Price Road, Chandler, AZ, 85286 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2730000/2720500/2720468/f596a779_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Courtyard Phoenix Chandler/Fashion Center",
+    "address": "1100 South Price Road, Chandler, AZ, 85286 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2740000/2730600/2730593/b5e71517_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Drury Inn \u0026 Suites Phoenix Chandler Fashion Center",
+    "address": "1205 S. Price Rd, Chandler, AZ, 85286 United States",
+    "distance": 3.1,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16450000/16441200/16441115/7c8fd072_l.jpg"
+  },
+  {
+    "price": 130,
+    "name": "Residence Inn by Marriott Phoenix Chandler Fashion Center",
+    "address": "200 N Federal St, Chandler, AZ, 85226 United States",
+    "distance": 3.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/426500/426477/7b447563_l.jpg"
+  }
+]

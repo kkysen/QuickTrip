@@ -1,0 +1,26 @@
+[
+  {
+    "price": 63,
+    "name": "Quality Inn Yakima",
+    "address": "12 E. Valley Mall Blvd., Union Gap, WA, 98903 United States",
+    "distance": 0.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9900/9876/9876_29_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Super 8 Union Gap Yakima Area",
+    "address": "2605 Rudkin Road, Union Gap, WA, 98903 United States",
+    "distance": 0.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/124100/124040/124040_131_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "Best Western Plus Ahtanum Inn",
+    "address": "2408 Rudkin Rd, Union Gap, WA, 98903 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8700/8660/8660_165_l.jpg"
+  }
+]

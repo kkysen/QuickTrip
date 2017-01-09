@@ -1,0 +1,50 @@
+[
+  {
+    "price": 129,
+    "name": "The Inn on Whitworth",
+    "address": "210 South Whitworth Avenue, Brookhaven, MS, 39601 United States",
+    "distance": 0.1,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9540000/9534500/9534453/9534453_13_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Rodeway Inn",
+    "address": "749 Magee Drive, Brookhaven, MS, 39601 United States",
+    "distance": 1.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17900/17808/17808_13_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Brookhaven",
+    "address": "1212 Brookway Blvd And Brookway Blvd, Brookhaven, MS, 39601 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5610000/5606100/5606081/5606081_31_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Americas Best Value Inn - Brookhaven",
+    "address": "811 Magee Dr, Brookhaven, MS, 39601 United States",
+    "distance": 1.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27200/27175/27175_104_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Hampton Inn Brookhaven",
+    "address": "1213 Hampton Drive, Brookhaven, MS, 39601 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/55600/55533/55533_26_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Super 8 Brookhaven MS",
+    "address": "344 Dunn-Ratcliff Rd NW, Brookhaven, MS, 39601 United States",
+    "distance": 2.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856300/856242/856242_82_l.jpg"
+  }
+]

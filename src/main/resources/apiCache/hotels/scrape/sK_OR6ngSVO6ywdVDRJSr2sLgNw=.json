@@ -1,0 +1,18 @@
+[
+  {
+    "price": 89,
+    "name": "Best Western Sawtooth Inn \u0026 Suites",
+    "address": "2653 S Lincoln Avenue, Jerome, ID, 83338 United States",
+    "distance": 2.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/63200/63119/63119_136_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Comfort Inn \u0026 Suites Jerome - Twin Falls",
+    "address": "379 Crossroads Point Blvd, Jerome, ID, 83338 United States",
+    "distance": 6.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2010000/2008700/2008686/2008686_128_l.jpg"
+  }
+]

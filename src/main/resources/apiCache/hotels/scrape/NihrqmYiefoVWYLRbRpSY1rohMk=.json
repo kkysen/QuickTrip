@@ -1,0 +1,34 @@
+[
+  {
+    "price": 131,
+    "name": "1777 Americana Inn",
+    "address": "301 West Main Street, Ephrata, PA, 17522 United States",
+    "distance": 0.3,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5560000/5559500/5559454/5559454_5_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Hampton Inn \u0026 Suites Ephrata Mountain Springs",
+    "address": "380 E Main St, Ephrata, PA, 17522 United States",
+    "distance": 0.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1340000/1330400/1330318/1330318_13_l.jpg"
+  },
+  {
+    "price": 108,
+    "name": "Historic Smithton Inn",
+    "address": "900 W. Main Street, Ephrata, PA, 17522 United States",
+    "distance": 0.9,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4600000/4596200/4596133/4596133_53_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "The Hertzog Homestead Bed \u0026 Breakfast",
+    "address": "470 West Metzler Rd, Ephrata, PA, 17522 United States",
+    "distance": 2.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1830000/1820500/1820468/1820468_3_l.jpg"
+  }
+]

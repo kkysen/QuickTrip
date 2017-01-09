@@ -1,0 +1,50 @@
+[
+  {
+    "price": 103,
+    "name": "Comfort Inn \u0026 Suites Rocklin - Roseville",
+    "address": "4420 Rocklin Rd, Rocklin, CA, 95677 United States",
+    "distance": 0.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/34500/34463/ab1b1bc7_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Heritage Inn Express Rocklin",
+    "address": "4480 Rocklin Rd, Rocklin, CA, 95677 United States",
+    "distance": 0.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/328900/328838/328838_47_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Rocklin Park Hotel",
+    "address": "5450 China Garden Rd, Rocklin, CA, 95677 United States",
+    "distance": 0.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/51000/50980/50980_11_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Days Inn Rocklin",
+    "address": "4515 Granite Dr, Rocklin, CA, 95677 United States",
+    "distance": 0.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19200/19127/19127_71_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Holiday Inn Express Rocklin - Galleria Area",
+    "address": "6830 Five Star Blvd, Rocklin, CA, 95677 United States",
+    "distance": 1.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/327400/327309/327309_134_l.jpg"
+  },
+  {
+    "price": 122,
+    "name": "Staybridge Suites Rocklin",
+    "address": "6664 Lonetree Blvd, Rocklin, CA, 95765 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2210000/2202800/2202722/2202722_108_l.jpg"
+  }
+]

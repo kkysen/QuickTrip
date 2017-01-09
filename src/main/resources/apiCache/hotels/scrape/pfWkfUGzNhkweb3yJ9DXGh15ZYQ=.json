@@ -1,0 +1,34 @@
+[
+  {
+    "price": 169,
+    "name": "Holiday Inn Express \u0026 Suites Albermarle",
+    "address": "500 Leonard Ave, Albemarle, NC, 28001 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/790000/787900/787848/f2f5c563_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Best Western Albemarle Inn",
+    "address": "2300 US Highway 52 N, Albemarle, NC, 28001 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13200/13159/1c8e57cc_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Quality Inn - Albemarle",
+    "address": "735 Highway 24/27 Bypass, Albemarle, NC, 28001 United States",
+    "distance": 2.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20700/20607/f89124d6_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Americas Best Value Inn \u0026 Suites",
+    "address": "200 Henson St, Albemarle, NC, 28001 United States",
+    "distance": 2.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12200/12134/12134_129_l.jpg"
+  }
+]

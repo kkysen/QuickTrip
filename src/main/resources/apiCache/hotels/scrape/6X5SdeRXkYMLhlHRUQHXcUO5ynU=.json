@@ -1,0 +1,82 @@
+[
+  {
+    "price": 150,
+    "name": "Manor on the Mile",
+    "address": "6131 W 3 Mile Rd, Franksville, WI, 53126 United States",
+    "distance": 4.5,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15570000/15568800/15568704/d2570438_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Value Inn Milwaukee Airport South",
+    "address": "9420 South 20th Street, I-94 at Ryan Road Exit 322, Oak Creek, WI, 53154 United States",
+    "distance": 4.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7750000/7747300/7747228/7747228_1_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Staybridge Suites Milwaukee Airport South",
+    "address": "9575 S. 27th street, Franklin, WI, 53132 United States",
+    "distance": 4.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2190000/2185100/2185008/2185008_191_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Days Inn Racine/Sturtevant",
+    "address": "13340 Hospitality Ct, Sturtevant, WI, 53177 United States",
+    "distance": 6.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/61700/61626/dfb9d89b_l.jpg"
+  },
+  {
+    "price": 132,
+    "name": "Quality Inn Sturtevant - Racine",
+    "address": "910 S Sylvania Ave, Sturtevant, WI, 53177 United States",
+    "distance": 6.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5600/5576/6f22ce20_l.jpg"
+  },
+  {
+    "price": 128,
+    "name": "Holiday Inn Express Racine Area / I-94 at Exit 333",
+    "address": "13339 Hospitality Ct, Sturtevant, WI, 53177 United States",
+    "distance": 6.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84500/84410/64a2dfbe_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Super 8 Racine",
+    "address": "1150 Oakes Rd, Racine, WI, 53406 United States",
+    "distance": 6.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40100/40003/9a944aca_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Comfort Inn Racine",
+    "address": "1154 Prairie Dr, Racine, WI, 53406 United States",
+    "distance": 6.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2200/2116/920e43e7_l.jpg"
+  },
+  {
+    "price": 163,
+    "name": "Racine Architect Hotel \u0026 Conference Center",
+    "address": "7111 Washington Ave, Racine, WI, 53406 United States",
+    "distance": 6.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16500/16479/16479_93_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Fairfield Inn Racine",
+    "address": "6421 Washington Ave, Racine, WI, 53406 United States",
+    "distance": 7.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12500/12500/d0769dec_l.jpg"
+  }
+]

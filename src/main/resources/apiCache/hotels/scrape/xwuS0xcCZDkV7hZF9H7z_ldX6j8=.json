@@ -1,0 +1,42 @@
+[
+  {
+    "price": 84,
+    "name": "La Quinta Inn \u0026 Suites Lindale",
+    "address": "204 West Centennial Blvd, Lindale, TX, 75771 United States",
+    "distance": 3.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2170000/2168600/2168591/532ec6a4_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Comfort Suites Lindale - Tyler North",
+    "address": "200 W Centennial Dr, Lindale, TX, 75771 United States",
+    "distance": 3.1,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1830000/1828400/1828346/1828346_62_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Motel 6 Lindale TX",
+    "address": "13307 County Road 472, Lindale, TX, 75771 United States",
+    "distance": 3.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/281000/280943/280943_2_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Best Western Lindale Inn",
+    "address": "3501 S Main St, Lindale, TX, 75771 United States",
+    "distance": 3.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43000/42963/42963_63_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Hampton Inn Lindale/Tyler",
+    "address": "3505 South Main, Lindale, TX, 75771 United States",
+    "distance": 3.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/580000/570500/570431/99eefc34_l.jpg"
+  }
+]

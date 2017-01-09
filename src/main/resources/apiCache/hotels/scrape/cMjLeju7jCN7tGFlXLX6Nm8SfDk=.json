@@ -1,0 +1,82 @@
+[
+  {
+    "price": 121,
+    "name": "Courtyard by Marriott Fort Worth at Alliance Town Center",
+    "address": "3001 Amador Drive, Fort Worth, TX, 76177 United States",
+    "distance": 3.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13510000/13500900/13500889/65fac9e3_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Residence Inn by Marriott Fort Worth Alliance Airport",
+    "address": "13400 North Fwy, Fort Worth, TX, 76177 United States",
+    "distance": 4.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/421600/421544/421544_27_l.jpg"
+  },
+  {
+    "price": 132,
+    "name": "Hilton Garden Inn Fort Worth Alliance Airport",
+    "address": "2600 Westport Pkwy, Fort Worth, TX, 76177 United States",
+    "distance": 4.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4560000/4555100/4555036/4555036_62_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Hampton Inn \u0026 Suites N. Ft. Worth-Alliance Airport",
+    "address": "13600 N Freeway, Fort Worth, TX, 76177 United States",
+    "distance": 4.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/390000/381500/381463/381463_22_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Best Western Roanoke Inn \u0026 Suites",
+    "address": "337 Dorman Rd, Roanoke, TX, 76262 United States",
+    "distance": 5.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/700000/699500/699405/699405_257_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Magnuson Hotel Fossil Creek",
+    "address": "6700 Fossil Bluff Dr, Fort Worth, TX, 76137 United States",
+    "distance": 5.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/520000/517600/517576/517576_37_l.jpg"
+  },
+  {
+    "price": 94,
+    "name": "Comfort Inn-Western Center, Fort Worth",
+    "address": "6455 Old Denton Rd, Fort Worth, TX, 76131 United States",
+    "distance": 6.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3810000/3809000/3808995/3808995_49_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Holiday Inn Exp Hotel \u0026 Suites Fort Worth I-35 Western Ctr",
+    "address": "6351 North Fwy, Fort Worth, TX, 76131 United States",
+    "distance": 6.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1730000/1723200/1723191/1723191_188_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Staybridge Suites Fort Worth - Fossil Creek",
+    "address": "6301 North Fwy, Fort Worth, TX, 76131 United States",
+    "distance": 6.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11770000/11766700/11766665/bcf26ea4_l.jpg"
+  },
+  {
+    "price": 203,
+    "name": "Dallas/Fort Worth Marriott Solana",
+    "address": "1301 Solana Boulevard, Building 3, Westlake, Roanoke, TX, 76262 United States",
+    "distance": 6.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26500/26418/7cc6a666_l.jpg"
+  }
+]

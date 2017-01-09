@@ -1,0 +1,26 @@
+[
+  {
+    "price": 99,
+    "name": "Best Western Firestone Inn \u0026 Suites",
+    "address": "11228 Business Park Circle, Firestone, CO, 80504 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/895400/895378/1527dc5e_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Comfort Suites Longmont",
+    "address": "11292 Business Park Cir, Firestone, CO, 80504 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2300000/2292900/2292810/6acc9065_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "WoodSpring Suites Firestone",
+    "address": "11334 Business Park Cir, Firestone, CO, 80504-5274 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1870000/1865900/1865810/e0998767_l.jpg"
+  }
+]

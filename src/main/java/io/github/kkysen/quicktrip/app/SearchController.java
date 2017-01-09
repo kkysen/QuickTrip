@@ -2,20 +2,16 @@ package io.github.kkysen.quicktrip.app;
 
 import io.github.kkysen.quicktrip.Constants;
 import io.github.kkysen.quicktrip.io.MyFiles;
-import io.github.kkysen.quicktrip.app.SearchView;
 
 import java.io.IOException;
 import java.io.Reader;
 import java.lang.reflect.Type;
 import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.util.List;
 
 import com.google.gson.reflect.TypeToken;
 
 import javafx.fxml.FXMLLoader;
-import javafx.scene.control.Button;
 import javafx.scene.layout.Pane;
 
 /**
@@ -24,8 +20,6 @@ import javafx.scene.layout.Pane;
  * @author Khyber Sen
  */
 public class SearchController implements Screen {
-    
-    private static final Path MODEL_PATH = Paths.get("src/main/resources/searchModels.json");
     
     private static final Type MODEL_LIST_TYPE = new TypeToken<List<SearchModel>>() {}.getType();
     
@@ -39,7 +33,7 @@ public class SearchController implements Screen {
     private final SearchView view;
     private SearchModel model;
     
-    private FXMLLoader loader;
+    //private FXMLLoader loader;
     
     /*private final Button moreDestinationsBtn;
     private final Button searchBtn;
@@ -48,10 +42,10 @@ public class SearchController implements Screen {
     private final Button lastSearchBtn;*/
     
     public SearchController() {
-    	FXMLLoader loader = new FXMLLoader();
-    	loader.setLocation(getClass().getResource(SearchView.VIEW_FILE));
-    	loader.setController(this);
-    	
+        final FXMLLoader loader = new FXMLLoader();
+        loader.setLocation(getClass().getResource(SearchView.VIEW_FILE));
+        loader.setController(this);
+        
         view = new SearchView(loader);
         //view.reset();
         
@@ -83,7 +77,7 @@ public class SearchController implements Screen {
     private List<SearchModel> deserializeModels() {
         Reader reader;
         try {
-            reader = Files.newBufferedReader(MODEL_PATH, Constants.CHARSET);
+            reader = Files.newBufferedReader(QuickTripConstants.SEARCH_MODEL_PATH, Constants.CHARSET);
         } catch (final IOException e) {
             throw new RuntimeException(e); // shouldn't happen
         }
@@ -107,7 +101,7 @@ public class SearchController implements Screen {
         }
         final String json = QuickTripConstants.GSON.toJson(models, MODEL_LIST_TYPE);
         try {
-            MyFiles.write(MODEL_PATH, json);
+            MyFiles.write(QuickTripConstants.SEARCH_MODEL_PATH, json);
         } catch (final IOException e) {
             throw new RuntimeException(e); // shouldn't happen
         }
@@ -149,8 +143,6 @@ public class SearchController implements Screen {
         new Thread(this::loadItineraryScreen).run();
     }
     
-    
-    
     private void oldSearch(final int searchNum) {
         models.add(0, models.remove(searchNum));
         model = models.get(0);
@@ -161,7 +153,6 @@ public class SearchController implements Screen {
     public Pane getPane() {
         return view.getGrid();
     }
-    
     
     /*
      * Button Callbacks
@@ -181,19 +172,23 @@ public class SearchController implements Screen {
         view.setNumDestinations(model.getNumDestinations());
         //view.makeMoreDests();
     }
+    
     public void search() {
         if (validateNewSearch()) {
             loadedSearch();
         }
     }
+    
     public void oldSearch() {
         oldSearch(1);
     }
+    
     public void onBackPressed() {
-    	QuickTrip.SCREENS.load(WelcomeScreen.class);
+        QuickTrip.SCREENS.load(WelcomeScreen.class);
     }
+    
     public void onReset() {
-    	view.reset();
+        view.reset();
     }
     
 }

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 55,
+    "name": "Super 8 Fort Mitchell Cincinnati Area",
+    "address": "2350 Royal Dr, Fort Mitchell, KY, 41017 United States",
+    "distance": 1.6,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/670000/664500/664453/a3c28eee_l.jpg"
+  },
+  {
+    "price": 138,
+    "name": "Holiday Inn Cincinnati Airport",
+    "address": "1717 Airport Exchange Blvd, Erlanger, KY, 41018 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21100/21032/21032_267_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Quality Inn and Suites",
+    "address": "1805 Airport Exchange Blvd, Erlanger, KY, 41018 United States",
+    "distance": 2.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84600/84550/84550_56_l.jpg"
+  },
+  {
+    "price": 142,
+    "name": "Courtyard by Marriott Cincinnati Airport",
+    "address": "3990 Olympic Blvd, Erlanger, KY, 41018 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/532900/532853/027c8310_l.jpg"
+  },
+  {
+    "price": 161,
+    "name": "Residence Inn by Marriott Cincinnati Airport Erlanger",
+    "address": "2811 Circleport Dr, Erlanger, KY, 41018 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42500/42479/d944fce3_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Wingate by Wyndham Cincinnati Airport/Erlanger",
+    "address": "I-75-71 At Exit 184, 605 Viox Dr, Erlanger, KY, 41018 United States",
+    "distance": 2.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2810000/2803900/2803823/2803823_51_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Days Inn Fort Wright Cincinnati Area",
+    "address": "1937 Dixie Highway, Fort Wright, KY, 41011 United States",
+    "distance": 2.6,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2360000/2351600/2351505/2351505_83_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Econo Lodge Erlanger",
+    "address": "633 Donaldson Hwy, Erlanger, KY, 41018 United States",
+    "distance": 2.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4100/4065/4065_35_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Red Roof Inn Cincinnati Airport - Erlanger KY",
+    "address": "630 Donaldson Rd, Erlanger, KY, 41018 United States",
+    "distance": 2.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/900/814/814_53_l.jpg"
+  },
+  {
+    "price": 172,
+    "name": "Cincinnati Airport Marriott",
+    "address": "2395 Progress Dr, Hebron, KY, 41048 United States",
+    "distance": 3.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/285000/284938/284938_174_l.jpg"
+  }
+]

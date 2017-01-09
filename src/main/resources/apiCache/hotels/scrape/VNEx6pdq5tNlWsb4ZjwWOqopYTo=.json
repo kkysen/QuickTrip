@@ -1,0 +1,82 @@
+[
+  {
+    "price": 97,
+    "name": "West Gate Inn Nyack",
+    "address": "26 Route 59, Nyack, NY, 10960 United States",
+    "distance": 0.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5850000/5843400/5843352/11f2cfe4_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Time Nyack",
+    "address": "400 High Avenue, Nyack, NY, 10960 United States",
+    "distance": 0.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11950000/11943100/11943081/11943081_7_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Super 8 Nyack NY",
+    "address": "47 Route 59, Nyack, NY, 10960 United States",
+    "distance": 0.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459800/459797/8a945425_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Nyack Motor Lodge",
+    "address": "110 N Route 303, West Nyack, NY, 10994 United States",
+    "distance": 1.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11550000/11546900/11546856/11546856_4_l.jpg"
+  },
+  {
+    "price": 122,
+    "name": "Holiday Inn Orangeburg-Rockland/Bergen Co",
+    "address": "329 Route 303, Orangeburg, NY, 10962 United States",
+    "distance": 3.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12100/12036/217cb0b0_l.jpg"
+  },
+  {
+    "price": 151,
+    "name": "Residence Inn Orangeburg",
+    "address": "3 Stevens Way, Orangeburg, NY, 10962 United States",
+    "distance": 3.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6810000/6809300/6809210/d3f4bf8c_l.jpg"
+  },
+  {
+    "price": 131,
+    "name": "DoubleTree by Hilton Hotel Nanuet",
+    "address": "425 E Route 59, Nanuet, NY, 10954 United States",
+    "distance": 3.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/800/736/736_73_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "HNA Palisades Premiere Conference Center",
+    "address": "334 Route 9W, Palisades, NY, 10964 United States",
+    "distance": 4.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/810000/800100/800061/31849181_l.jpg"
+  },
+  {
+    "price": 157,
+    "name": "Hilton Pearl River",
+    "address": "500 Veterans Memorial Dr, Pearl River, NY, 10965 United States",
+    "distance": 5.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8300/8288/8288_106_l.jpg"
+  },
+  {
+    "price": 122,
+    "name": "Hampton Inn Nanuet",
+    "address": "260 W Route 59, Nanuet, NY, 10954 United States",
+    "distance": 5.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1560000/1551400/1551336/1551336_24_l.jpg"
+  }
+]

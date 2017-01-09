@@ -1,0 +1,82 @@
+[
+  {
+    "price": 189,
+    "name": "Tarrytown House Estate",
+    "address": "49 E Sunnyside Lane, Tarrytown, NY, 10591 United States",
+    "distance": 0.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/49700/49674/49674_107_l.jpg"
+  },
+  {
+    "price": 157,
+    "name": "DoubleTree by Hilton Tarrytown",
+    "address": "455 S Broadway, Tarrytown, NY, 10591 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4000/3956/49750c4c_l.jpg"
+  },
+  {
+    "price": 219,
+    "name": "SpringHill Suites by Marriott Tarrytown/Greenburgh",
+    "address": "480 White Plains Rd, Tarrytown, NY, 10591 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/918700/918639/7e3ce5e8_l.jpg"
+  },
+  {
+    "price": 236,
+    "name": "Courtyard by Marriott Tarrytown Greenburgh",
+    "address": "475 White Plains Rd, Tarrytown, NY, 10591 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25400/25340/25340_129_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Sheraton Tarrytown Hotel",
+    "address": "600 White Plains Rd, Tarrytown, NY, 10591 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1580000/1577100/1577022/1577022_120_l.jpg"
+  },
+  {
+    "price": 195,
+    "name": "Westchester Marriott",
+    "address": "670 White Plains Rd, Tarrytown, NY, 10591 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10900/10829/10829_174_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "Ardsley Acres Hotel Westchester",
+    "address": "560 Saw Mill River Rd, Ardsley, NY, 10502 United States",
+    "distance": 2.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1170000/1166900/1166864/1166864_18_l.jpg"
+  },
+  {
+    "price": 143,
+    "name": "Hampton Inn White Plains",
+    "address": "200 West Main Street, Elmsford, NY, 10523 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23300/23291/23291_43_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Days Inn Elmsford",
+    "address": "25 Valley Ave, Elmsford, NY, 10523 United States",
+    "distance": 2.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1460000/1451600/1451596/1451596_51_l.jpg"
+  },
+  {
+    "price": 132,
+    "name": "Extended Stay America - White Plains - Elmsford",
+    "address": "118 West Main Street, Elmsford, NY, 10523 United States",
+    "distance": 2.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/580000/573900/573804/573804_40_l.jpg"
+  }
+]

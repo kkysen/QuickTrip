@@ -1,0 +1,82 @@
+[
+  {
+    "price": 99,
+    "name": "Best Western Plus Wausau/Rothschild Hotel",
+    "address": "803 Industrial Park Avenue, Rothschild, WI, 54474 United States",
+    "distance": 3.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1660000/1652900/1652873/1652873_190_l.jpg"
+  },
+  {
+    "price": 126,
+    "name": "Grand Lodge Waterpark Resort",
+    "address": "805 Creske Ave, Rothschild, WI, 54474 United States",
+    "distance": 3.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1110000/1103000/1102923/1102923_113_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Motel 6 Rothschild",
+    "address": "904 Industrial Park Avenue, Rothschild, WI, 54474 United States",
+    "distance": 3.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/548900/548801/548801_43_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Econo Lodge Rothschild",
+    "address": "1510 County Highway XX, Rothschild, WI, 54474 United States",
+    "distance": 3.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12100/12068/37354989_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Holiday Inn \u0026 Suites Wausau-Rothschild",
+    "address": "1000 Imperial Ave, Rothschild, WI, 54474 United States",
+    "distance": 3.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/74600/74587/74587_136_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "Stoney Creek Hotel \u0026 Conference Center Wausau",
+    "address": "1100 Imperial Ave, Rothschild, WI, 54474 United States",
+    "distance": 3.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1190000/1189800/1189793/1189793_51_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Wausau",
+    "address": "7100 Stone Ridge Drive, Weston, WI, 54476 United States",
+    "distance": 5.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1400000/1392400/1392394/1392394_33_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "AmericInn Wausau",
+    "address": "4115 Barbican Ave, Weston, WI, 54476 United States",
+    "distance": 5.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1290000/1282200/1282198/48f99afb_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Wausau",
+    "address": "4210 Barbican Ave, Weston, WI, 54476 United States",
+    "distance": 5.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1700000/1696000/1695919/1695919_154_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Quality Inn Central Wisconsin Airport",
+    "address": "400 Orbiting Dr, Mosinee, WI, 54455 United States",
+    "distance": 5.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9000/8935/8935_38_l.jpg"
+  }
+]

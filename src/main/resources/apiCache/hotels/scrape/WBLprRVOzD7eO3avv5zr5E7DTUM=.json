@@ -1,0 +1,74 @@
+[
+  {
+    "price": 60,
+    "name": "Americas Best Value Palmer Inn",
+    "address": "2426 S Lincoln Avenue, York, NE, 68467 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40600/40544/40544_166_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Yorkshire Motel",
+    "address": "3402 S Lincoln Avenue, York, NE, 68467 United States",
+    "distance": 1.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11060000/11056000/11055934/11055934_2_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Days Inn York",
+    "address": "3710 S Lincoln Ave, York, NE, 68467 United States",
+    "distance": 2.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15400/15371/b3b253a5_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Hampton Inn York",
+    "address": "309 W David Dr, York, NE, 68467 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1500000/1494800/1494792/1494792_16_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "New Victorian Inn York",
+    "address": "3724 S. US Hwy 81, York, NE, 68467 United States",
+    "distance": 2.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24700/24671/24671_148_l.jpg"
+  },
+  {
+    "price": 82,
+    "name": "Comfort Inn York",
+    "address": "3815 S Lincoln Ave, York, NE, 68467 United States",
+    "distance": 2.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15900/15801/688568fb_l.jpg"
+  },
+  {
+    "price": 44,
+    "name": "Super 8 - York",
+    "address": "4112 S Lincoln Ave, York, NE, 68467 United States",
+    "distance": 2.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/180000/171800/171742/171742_38_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Holiday Inn Express \u0026 Suites York",
+    "address": "4020 Grand Avenue, York, NE, 68467 United States",
+    "distance": 2.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8100000/8094600/8094515/8094515_14_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Motel 6 York",
+    "address": "4817 South Lincoln Ave, York, NE, 68467 United States",
+    "distance": 2.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1150000/1149500/1149473/2cacd01a_l.jpg"
+  }
+]

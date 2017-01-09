@@ -1,0 +1,82 @@
+[
+  {
+    "price": 81,
+    "name": "Western Inn Spanish Fork",
+    "address": "632 Kirby Ln, Spanish Fork, UT, 84660 United States",
+    "distance": 3.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5030000/5027500/5027421/2473507a_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "Days Inn Springville",
+    "address": "520 S 2000 W, I-15 Exit 260, Springville, UT, 84663 United States",
+    "distance": 4.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/327500/327465/327465_95_l.jpg"
+  },
+  {
+    "price": 153,
+    "name": "Best Western Mountain View Inn",
+    "address": "1455 N 1750 W, Springville, UT, 84663 United States",
+    "distance": 5.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/67900/67844/67844_329_l.jpg"
+  },
+  {
+    "price": 126,
+    "name": "Holiday Inn Express \u0026 Suites Springville-South Provo Area",
+    "address": "1502 North 1750 West, Springville, UT, 84663 United States",
+    "distance": 5.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8310000/8308900/8308801/8308801_38_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Sleep Inn Provo",
+    "address": "1505 S 40 E, Provo, UT, 84606 United States",
+    "distance": 7.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/34800/34719/34719_58_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "Hampton Inn Provo",
+    "address": "1511 S 40 E, Provo, UT, 84606 United States",
+    "distance": 7.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/34500/34432/34432_40_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Little Suites Provo",
+    "address": "1380 S University Ave, Provo, UT, 84601 United States",
+    "distance": 7.3,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19700/19661/dc42a838_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Provo Inn \u0026 Suites Provo",
+    "address": "150 west 300 South, Provo, UT, 84601 United States",
+    "distance": 8.1,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9670000/9665000/9664933/9664933_4_l.jpg"
+  },
+  {
+    "price": 173,
+    "name": "Marriott Provo Hotel and Conference Center",
+    "address": "101 W 100 N, Provo, UT, 84601 United States",
+    "distance": 8.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14600/14579/14579_114_l.jpg"
+  },
+  {
+    "price": 78,
+    "name": "Super 8 Provo BYU Orem",
+    "address": "1555 N Canyon Rd, Provo, UT, 84604 United States",
+    "distance": 9.5,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/546200/546165/546165_88_l.jpg"
+  }
+]

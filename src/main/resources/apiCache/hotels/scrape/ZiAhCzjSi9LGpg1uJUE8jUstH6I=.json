@@ -1,0 +1,26 @@
+[
+  {
+    "price": 57,
+    "name": "Super 8 Mundelein/Libertyville Area",
+    "address": "1950 S. Lake St., Mundelein, IL, 60060 United States",
+    "distance": 1.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/440000/439800/439707/439707_174_l.jpg"
+  },
+  {
+    "price": 136,
+    "name": "DoubleTree by Hilton Libertyville - Mundelein",
+    "address": "510 E IL Route 83, Mundelein, IL, 60060 United States",
+    "distance": 1.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14800/14710/14710_94_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Baymont Inn \u0026 Suites Mundelein Libertyville Area",
+    "address": "517 E Highway 83, Mundelein, IL, 60060 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20100/20021/90cce7cf_l.jpg"
+  }
+]

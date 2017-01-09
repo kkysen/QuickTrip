@@ -1,0 +1,82 @@
+[
+  {
+    "price": 342,
+    "name": "Hotel San Carlos - Downtown Convention Center",
+    "address": "202 N Central Ave, Phoenix, AZ, 85004 United States",
+    "distance": 0.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/530000/529500/529455/529455_27_l.jpg"
+  },
+  {
+    "price": 153,
+    "name": "Rodeway Inn Downtown Phoenix",
+    "address": "402 W. Van Buren St., Phoenix, AZ, 85003 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2260000/2256600/2256587/2256587_50_l.jpg"
+  },
+  {
+    "price": 153,
+    "name": "Americas Best Value Inn",
+    "address": "424 W Van Buren St, Phoenix, AZ, 85003 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1840000/1832700/1832631/1832631_105_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Travelodge Phoenix Downtown",
+    "address": "600 W. Van Buren St., Phoenix, AZ, 85003 United States",
+    "distance": 0.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9990000/9985700/9985665/9985665_51_l.jpg"
+  },
+  {
+    "price": 299,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Phoenix Downtown-Ballpark",
+    "address": "620 N 6th St, Phoenix, AZ, 85004 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/116800/116701/116701_263_l.jpg"
+  },
+  {
+    "price": 155,
+    "name": "Super 8 Phoenix Downtown",
+    "address": "965 East Van Buren, 1-10 East, Take 7th St Exit, Phoenix, AZ, 85006 United States",
+    "distance": 0.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1070000/1062900/1062851/1062851_89_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "E-Z 8 Motel Phoenix Airporter",
+    "address": "1820 South 7th Street, Phoenix, AZ, 85034 United States",
+    "distance": 1.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16090000/16081200/16081156/16081156_1_l.jpg"
+  },
+  {
+    "price": 342,
+    "name": "Hampton Inn Phoenix Midtown - Downtown Area",
+    "address": "160 W Catalina Dr, Phoenix, AZ, 85013 United States",
+    "distance": 2.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/150900/150801/d272253a_l.jpg"
+  },
+  {
+    "price": 120,
+    "name": "Knights Inn Fairground-Phoenix",
+    "address": "1624 N Black Canyon Hwy, Phoenix, AZ, 85009 United States",
+    "distance": 2.5,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/535900/535805/474f2b4d_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Motel 6 Phoenix Airport - 24th Street",
+    "address": "214 S 24th St, Phoenix, AZ, 85034 United States",
+    "distance": 2.6,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/996300/996213/996213_54_l.jpg"
+  }
+]

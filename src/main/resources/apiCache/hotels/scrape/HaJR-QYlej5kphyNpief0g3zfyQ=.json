@@ -1,0 +1,74 @@
+[
+  {
+    "price": 107,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Bartlesville",
+    "address": "4016 Price Rd, Bartlesville, OK, 74006 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2200000/2193200/2193200/2193200_84_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Bartlesville",
+    "address": "2107 Southeast Washington Boulevard, Bartlesville, OK, 74006 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2610000/2602900/2602825/2602825_27_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Motel 6 Bartlesville",
+    "address": "2696 SE Washington Blvd, Bartlesville, OK, 74006 United States",
+    "distance": 2.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1260000/1259400/1259369/60772504_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Econo Lodge Bartlesville",
+    "address": "3910 Nowata Rd, Hwy 75 \u0026 60 East, Bartlesville, OK, 74006 United States",
+    "distance": 2.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/913200/913188/913188_75_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Candlewood Suites Bartlesville East",
+    "address": "3812 Se Wasington Place, Bartlesville, OK, 74006 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2580000/2571900/2571848/2e5d0bb1_l.jpg"
+  },
+  {
+    "price": 46,
+    "name": "Days Inn \u0026 Suites Bartlesville",
+    "address": "1410 Southeast Washington Blvd, Suite A, Bartlesville, OK, 74006-4514 United States",
+    "distance": 2.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22100/22024/e3b3f5d9_l.jpg"
+  },
+  {
+    "price": 145,
+    "name": "Inn at Price Tower",
+    "address": "510 Dewey Ave, Bartlesville, OK, 74003 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1580000/1579500/1579427/1579427_1_l.jpg"
+  },
+  {
+    "price": 120,
+    "name": "Hilton Garden Inn Bartlesville",
+    "address": "205 Sw Frank Phillips, Bartlesville, OK, 74003 United States",
+    "distance": 2.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3530000/3526400/3526318/3526318_31_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "The Emerald House Hotel",
+    "address": "222 Southeast Washington Boulevard, Bartlesville, OK, 74006 United States",
+    "distance": 3.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18500/18428/365daeb9_l.jpg"
+  }
+]

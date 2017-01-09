@@ -1,0 +1,50 @@
+[
+  {
+    "price": 142,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Corpus Christi-Portland",
+    "address": "220 Reliant Drive, Portland, TX, 78374 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2560000/2559500/2559431/2559431_99_l.jpg"
+  },
+  {
+    "price": 131,
+    "name": "Hampton Inn Corpus Christi/Portland",
+    "address": "1705 N 181, Portland, TX, 78374 United States",
+    "distance": 0.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/480000/479200/479123/479123_13_l.jpg"
+  },
+  {
+    "price": 86,
+    "name": "Best Western Plus Northshore Inn",
+    "address": "1707 Highway 181, Portland, TX, 78374 United States",
+    "distance": 0.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1580000/1576600/1576533/1576533_51_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "TownePlace Suites Corpus Christi Portland",
+    "address": "109 Esplanade Drive, Portland, TX, 78374 United States",
+    "distance": 0.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10920000/10915400/10915375/10915375_42_l.jpg"
+  },
+  {
+    "price": 132,
+    "name": "La Quinta Inn \u0026 Suites Corpus Christi - Portland",
+    "address": "201 Buddy Ganem Drive, Portland, TX, 78374 United States",
+    "distance": 1.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10620000/10613900/10613855/0a135b43_l.jpg"
+  },
+  {
+    "price": 111,
+    "name": "Home2 Suites by Hilton Portland",
+    "address": "139 Buddy Ganem Drive, Portland, TX, 78374 United States",
+    "distance": 1.1,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16240000/16238800/16238731/873c819d_l.jpg"
+  }
+]

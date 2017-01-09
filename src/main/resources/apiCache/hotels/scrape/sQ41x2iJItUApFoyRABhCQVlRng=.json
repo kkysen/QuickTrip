@@ -1,0 +1,26 @@
+[
+  {
+    "price": 113,
+    "name": "Best Western Maple City Inn",
+    "address": "1 Canisteo Sq, Hornell, NY, 14843 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8800/8707/8707_50_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Econo Lodge Hornell",
+    "address": "7462 Seneca Rd N, Hornell, NY, 14843 United States",
+    "distance": 2.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/39800/39756/39756_56_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Days Inn",
+    "address": "Route 36 and Webb Crossing, I-86 Exit 34 South, Hornell, NY, 14843 United States",
+    "distance": 2.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42300/42266/9f14107d_l.jpg"
+  }
+]

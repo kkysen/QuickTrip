@@ -1,0 +1,18 @@
+[
+  {
+    "price": 60,
+    "name": "Parkview Motel",
+    "address": "429 N Broadway St, Hastings, MI, 49058 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10210000/10203500/10203471/10203471_1_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Holiday Inn Express Hastings",
+    "address": "1099 W M43 Hwy, Hastings, MI, 49058 United States",
+    "distance": 0.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6320000/6318200/6318179/6318179_126_l.jpg"
+  }
+]

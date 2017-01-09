@@ -1,0 +1,82 @@
+[
+  {
+    "price": 118,
+    "name": "Whitney Peak Hotel",
+    "address": "255 N Virginia St, Reno, NV, 89501 United States",
+    "distance": 0.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/880000/874200/874164/874164_71_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Eldorado Resort Casino",
+    "address": "345 N Virginia St, Reno, NV, 89501 United States",
+    "distance": 0.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7900/7868/878c10e3_l.jpg"
+  },
+  {
+    "price": 43,
+    "name": "Harrah\u0027s Casino Hotel Reno",
+    "address": "219 N Center St, Reno, NV, 89501 United States",
+    "distance": 0.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40400/40311/40311_66_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Silver Legacy Resort Casino",
+    "address": "407 N. Virginia Street, Reno, NV, 89501 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5000/4973/2d466edb_l.jpg"
+  },
+  {
+    "price": 61,
+    "name": "Circus Circus Hotel \u0026 Casino Reno",
+    "address": "500 N Sierra St, Reno, NV, 89503 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28600/28594/28594_103_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Plaza Resort Club",
+    "address": "121 West Street, Reno, NV, 89501 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8380000/8377500/8377468/6b596426_l.jpg"
+  },
+  {
+    "price": 40,
+    "name": "Sands Regency Casino Hotel",
+    "address": "345 N Arlington Ave, Reno, NV, 89501 United States",
+    "distance": 0.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19000/18990/18990_57_l.jpg"
+  },
+  {
+    "price": 122,
+    "name": "Courtyard Reno Downtown/Riverfront",
+    "address": "1 Ballpark Lane, Reno, NV, 89501 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15230000/15228700/15228629/4a069080_l.jpg"
+  },
+  {
+    "price": 106,
+    "name": "Siena Hotel",
+    "address": "1 S Lake St, Reno, NV, 89501 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/850000/846200/846129/846129_100_l.jpg"
+  },
+  {
+    "price": 44,
+    "name": "Travelodge Reno",
+    "address": "636 N. Virginia St., Reno, NV, 89501 United States",
+    "distance": 0.3,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10400000/10397000/10396914/10396914_6_l.jpg"
+  }
+]

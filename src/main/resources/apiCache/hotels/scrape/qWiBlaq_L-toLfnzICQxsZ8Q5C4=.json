@@ -1,0 +1,82 @@
+[
+  {
+    "price": 72,
+    "name": "Best Western Oak Meadows Inn",
+    "address": "585 S Columbia River Highway, St. Helens, OR, 97051 United States",
+    "distance": 8.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9300/9261/9261_146_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Americas Best Value Inn St. Helen",
+    "address": "535 South Columbia River Highway, St. Helens, OR, 97051 United States",
+    "distance": 8.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4330000/4326700/4326655/4326655_14_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Best Western Woodland Inn",
+    "address": "1380 Atlantic Avenue, Woodland, WA, 98674 United States",
+    "distance": 14.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/455500/455402/c5b09080_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Rodeway Inn",
+    "address": "1500 Atlantic Ave, Woodland, WA, 98674 United States",
+    "distance": 14.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/590000/581100/581065/581065_79_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Lewis River Inn",
+    "address": "1100 Lewis River Rd., Woodland, WA, 98674 United States",
+    "distance": 14.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13330000/13328300/13328249/13328249_47_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "La Quinta Inn \u0026 Suites Vancouver",
+    "address": "1500 Northeast 134th St, Vancouver, WA, 98685 United States",
+    "distance": 16.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/892900/892867/2aec9821_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "Shilo Inn \u0026 Suites Salmon Creek / Vancouver - Washington",
+    "address": "13206 Highway 99, Vancouver, WA, 98686 United States",
+    "distance": 16.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2700/2626/2626_15_l.jpg"
+  },
+  {
+    "price": 61,
+    "name": "Quality Inn \u0026 Suites Vancouver North",
+    "address": "13207 North East 20th Ave., Vancouver, WA, 98686 United States",
+    "distance": 16.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24300/24238/24238_151_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "The Inn At Salmon Creek",
+    "address": "11901 NE Hwy 99, Vancouver, WA, 98686 United States",
+    "distance": 16.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1250000/1248300/1248230/1248230_60_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Holiday Inn Express Vancouver North - Salmon Creek",
+    "address": "13101 NE 27th Ave., Vancouver, WA, 98686 United States",
+    "distance": 16.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/546400/546339/8d69f22b_l.jpg"
+  }
+]

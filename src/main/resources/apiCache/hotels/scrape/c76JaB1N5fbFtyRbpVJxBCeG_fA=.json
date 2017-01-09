@@ -1,0 +1,82 @@
+[
+  {
+    "price": 58,
+    "name": "Riverside Inn",
+    "address": "250 Broadway Avenue, Alamosa, CO, 81101 United States",
+    "distance": 0.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12260000/12252700/12252658/12252658_26_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "Rodeway Inn",
+    "address": "333 Santa Fe Avenue, Alamosa, CO, 81101 United States",
+    "distance": 0.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4400/4337/4337_182_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Days Inn Alamosa CO",
+    "address": "223 Santa Fe Avenue, Alamosa, CO, 81101 United States",
+    "distance": 0.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26500/26448/26448_86_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Best Western Alamosa Inn",
+    "address": "2005 Main Street, Alamosa, CO, 81101 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16300/16247/16247_130_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Valley Motel",
+    "address": "2051 Main Street, Alamosa, CO, 81101 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5320000/5315900/5315832/5315832_4_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "Super 8 Alamosa",
+    "address": "2505 West Main, Hwy 160 West End of Town, Alamosa, CO, 81101-2239 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/123200/123195/6515eb90_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Holiday Inn Express \u0026 Suites Alamosa",
+    "address": "3418 Mariposa, Alamosa, CO, 81101 United States",
+    "distance": 2.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1280000/1273400/1273397/1273397_202_l.jpg"
+  },
+  {
+    "price": 157,
+    "name": "Comfort Inn \u0026 Suites",
+    "address": "6301 US HWY 160, Alamosa, CO, 81101 United States",
+    "distance": 2.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42000/41996/41996_163_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Sandhill Inn \u0026 Suites",
+    "address": "1519 Grande Avenue, Monte Vista, CO, 81144 United States",
+    "distance": 17.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26100/26010/73e3d3cb_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Monte Villa Inn",
+    "address": "925 1st Ave, Monte Vista, CO, 81144 United States",
+    "distance": 17.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7020000/7010300/7010224/7010224_3_l.jpg"
+  }
+]

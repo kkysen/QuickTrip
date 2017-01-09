@@ -1,0 +1,82 @@
+[
+  {
+    "price": 136,
+    "name": "Country Inn \u0026 Suites By Carlson, Albertville, MN",
+    "address": "6554 Lamplight Dr, Albertville, MN, 55301 United States",
+    "distance": 3.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1150000/1142300/1142270/1773d6a7_l.jpg"
+  },
+  {
+    "price": 96,
+    "name": "Country Inn \u0026 Suites By Carlson Elk River",
+    "address": "18894 Dodge St Nw, Elk River, MN, 55330 United States",
+    "distance": 4.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/300000/297200/297139/297139_38_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Rogers",
+    "address": "20930 135th Ave North, Rogers, MN, 55374 United States",
+    "distance": 5.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2940000/2936800/2936774/842052fa_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Hampton Inn \u0026 Suites Rogers",
+    "address": "13550 Commerce Blvd, Rogers, MN, 55374 United States",
+    "distance": 5.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1710000/1700800/1700719/1700719_9_l.jpg"
+  },
+  {
+    "price": 108,
+    "name": "AmericInn Lodge \u0026 Suites Rogers",
+    "address": "21800 Industrial Blvd, Rogers, MN, 55374 United States",
+    "distance": 5.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/561500/561455/561455_77_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Comfort Suites Ramsey",
+    "address": "6440 US 10 West, Ramsey, MN, 55303 United States",
+    "distance": 9.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/151300/151225/151225_62_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Monticello Days Inn",
+    "address": "200 E Oakwood dr, Monticello, MN, 55362 United States",
+    "distance": 9.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25900/25871/25871_125_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Super 8 Monticello",
+    "address": "1114 Cedar Street, Monticello, MN, 55362 United States",
+    "distance": 9.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3700/3661/4cf319a2_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Regency Inn and Suites, Anoka",
+    "address": "1129 Hwy 10 West, Hwy 10 \u0026 Thurston Ave, Anoka, MN, 55303 United States",
+    "distance": 10.0,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/897900/897859/897859_2_l.jpg"
+  },
+  {
+    "price": 132,
+    "name": "Cambria hotel \u0026 suites Maple Grove - Minneapolis",
+    "address": "9655 Grove Cir N, Maple Grove, MN, 55369 United States",
+    "distance": 12.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1950000/1946400/1946362/1946362_51_l.jpg"
+  }
+]

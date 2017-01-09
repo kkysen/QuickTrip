@@ -1,0 +1,82 @@
+[
+  {
+    "price": 129,
+    "name": "Residence Inn by Marriott Saddle River",
+    "address": "7 Boroline Rd, Saddle River, NJ, 07458 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/892900/892852/892852_50_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "Extended Stay America Ramsey - Upper Saddle River",
+    "address": "112 State Hwy. 17, Ramsey, NJ, 07446 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/867400/867313/867313_39_l.jpg"
+  },
+  {
+    "price": 170,
+    "name": "Hilton Woodcliff Lake",
+    "address": "200 Tice Blvd, Woodcliff Lake, NJ, 07677 United States",
+    "distance": 3.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13800/13762/13762_110_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Holiday Inn Express Ramsey-Mahwah",
+    "address": "946 Route 17 North, Ramsey, NJ, 07446 United States",
+    "distance": 3.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4700/4613/c1539625_l.jpg"
+  },
+  {
+    "price": 170,
+    "name": "Park Ridge Marriott",
+    "address": "300 Brae Blvd, Park Ridge, NJ, 07656 United States",
+    "distance": 3.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26100/26056/26056_108_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Best Western The Inn At Ramsey",
+    "address": "1315 Route 17 South, Ramsey, NJ, 07446 United States",
+    "distance": 4.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/480000/473500/473490/473490_78_l.jpg"
+  },
+  {
+    "price": 192,
+    "name": "Courtyard by Marriott Montvale",
+    "address": "100 Chestnut Ridge Road, Montvale, NJ, 07645 United States",
+    "distance": 4.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21800/21786/b23695ad_l.jpg"
+  },
+  {
+    "price": 161,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Paramus",
+    "address": "601 From Rd, Paramus, NJ, 07652 United States",
+    "distance": 4.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27200/27156/755c2ff3_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Homewood Suites by Hilton Mahwah",
+    "address": "375 Corporate Dr, Mahwah, NJ, 07430 United States",
+    "distance": 5.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/700000/699300/699247/699247_39_l.jpg"
+  },
+  {
+    "price": 122,
+    "name": "Comfort Suites Mahwah",
+    "address": "220 Route 17 South, Mahwah, NJ, 07430 United States",
+    "distance": 5.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2150000/2149000/2148969/2148969_50_l.jpg"
+  }
+]

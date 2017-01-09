@@ -1,0 +1,42 @@
+[
+  {
+    "price": 117,
+    "name": "Sheraton Chicago Northbrook Hotel",
+    "address": "1110 Willow Rd, Northbrook, IL, 60062 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2300000/2292900/2292844/2292844_35_l.jpg"
+  },
+  {
+    "price": 117,
+    "name": "Renaissance Chicago North Shore Hotel",
+    "address": "933 Skokie Blvd, Northbrook, IL, 60062 United States",
+    "distance": 2.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5600/5555/5555_139_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Hilton Chicago / Northbrook",
+    "address": "2855 N. Milwaukee Ave, Northbrook, IL, 60062 United States",
+    "distance": 2.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3100/3008/3008_58_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Crowne Plaza Chicago-Northbrook",
+    "address": "2875 North Milwaukee Ave, Northbrook, IL, 60062 United States",
+    "distance": 2.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27800/27767/27767_235_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Courtyard by Marriott Chicago Glenview/Northbrook",
+    "address": "1801 Milwaukee Ave, Glenview, IL, 60025 United States",
+    "distance": 3.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14600/14589/14589_54_l.jpg"
+  }
+]

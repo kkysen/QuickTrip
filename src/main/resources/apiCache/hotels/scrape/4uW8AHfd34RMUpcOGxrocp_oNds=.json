@@ -1,0 +1,82 @@
+[
+  {
+    "price": 439,
+    "name": "Hotel du Pont",
+    "address": "11th and Market Streets, Wilmington, DE, 19801 United States",
+    "distance": 0.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19900/19839/19839_5_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "LuxiaSuites City Center",
+    "address": "1007 North Orange Street, Wilmington, DE, 19801 United States",
+    "distance": 0.1,
+    "rating": 3.7,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1820000/1810300/1810221/1810221_13_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Luxiasuites Rodney Square",
+    "address": "902 North Market Street, Wilmington, DE, 19801 United States",
+    "distance": 0.1,
+    "rating": 0.0,
+    "imgUrl": ""
+  },
+  {
+    "price": 165,
+    "name": "Courtyard by Marriott Wilmington Downtown",
+    "address": "1102 N West St, Wilmington, DE, 19801 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17700/17693/17693_42_l.jpg"
+  },
+  {
+    "price": 144,
+    "name": "Sheraton Suites Wilmington Downtown",
+    "address": "422 Delaware Ave, Wilmington, DE, 19801 United States",
+    "distance": 0.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4700/4693/4693_107_l.jpg"
+  },
+  {
+    "price": 163,
+    "name": "DoubleTree by Hilton Downtown Wilmington - Legal District",
+    "address": "700 N King St, Wilmington, DE, 19801 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20900/20863/20863_43_l.jpg"
+  },
+  {
+    "price": 177,
+    "name": "The Westin Wilmington",
+    "address": "818 Shipyard Dr, Wilmington, DE, 19801 United States",
+    "distance": 1.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7420000/7415800/7415754/7415754_29_l.jpg"
+  },
+  {
+    "price": 122,
+    "name": "Best Western Brandywine Valley Inn",
+    "address": "1807 Concord Pike (Route 202), Wilmington, DE, 19803 United States",
+    "distance": 2.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9300/9227/9227_56_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Clarion Hotel The Belle",
+    "address": "1612 North DuPont Highway, New Castle, DE, 19720 United States",
+    "distance": 3.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25100/25051/25051_43_l.jpg"
+  },
+  {
+    "price": 128,
+    "name": "Fairfield Inn \u0026 Suites Wilmington New Castle",
+    "address": "2117 North DuPont Highway, New Castle, DE, 19720 United States",
+    "distance": 3.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8510000/8507200/8507156/8507156_8_l.jpg"
+  }
+]

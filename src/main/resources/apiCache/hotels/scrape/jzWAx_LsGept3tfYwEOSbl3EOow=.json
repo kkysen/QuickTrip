@@ -1,0 +1,82 @@
+[
+  {
+    "price": 315,
+    "name": "Holiday Inn Club Vacations Sunset Cove Resort",
+    "address": "571 W. Elkcam Cir, Marco Island, FL, 34145 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1580000/1574100/1574073/90148863_l.jpg"
+  },
+  {
+    "price": 600,
+    "name": "Angler\u0027s Cove",
+    "address": "999 Anglers Cove, Marco Island, FL, 34145 United States",
+    "distance": 0.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1150000/1140500/1140488/1140488_25_l.jpg"
+  },
+  {
+    "price": 230,
+    "name": "Marco Island Lakeside Inn",
+    "address": "155 First Avenue, Marco Island, FL, 34145 United States",
+    "distance": 0.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1190000/1187400/1187306/1187306_229_l.jpg"
+  },
+  {
+    "price": 925,
+    "name": "South Seas on the Gulf",
+    "address": "380-440 Seaview Court, Marco Island, FL, 34145 United States",
+    "distance": 1.0,
+    "rating": 3.8,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/850000/842000/841956/841956_10_l.jpg"
+  },
+  {
+    "price": 225,
+    "name": "Olde Marco Island Inn and Suites",
+    "address": "100 Palm St, Marco Island, FL, 34145 United States",
+    "distance": 1.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/490000/486500/486461/51ab4e54_l.jpg"
+  },
+  {
+    "price": 167,
+    "name": "The Boat House",
+    "address": "1180 Edington Place, Marco Island, FL, 34145 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4440000/4437700/4437617/4437617_35_l.jpg"
+  },
+  {
+    "price": 367,
+    "name": "JW Marriott Marco Island Beach Resort",
+    "address": "400 S Collier Blvd, Marco Island, FL, 34145 United States",
+    "distance": 1.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14400/14344/f27e552c_l.jpg"
+  },
+  {
+    "price": 314,
+    "name": "Marco Beach Ocean Resort",
+    "address": "480 S Collier Blvd, Marco Island, FL, 34145 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/798500/798448/798448_72_l.jpg"
+  },
+  {
+    "price": 246,
+    "name": "Hilton Marco Island Beach Resort and Spa",
+    "address": "560 S Collier Blvd, Marco Island, FL, 34145 United States",
+    "distance": 2.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17600/17575/17575_120_l.jpg"
+  },
+  {
+    "price": 350,
+    "name": "Vacation Pool Homes- Marco Island",
+    "address": "661 S Collier Blvd, Marco Island, FL, 34145 United States",
+    "distance": 2.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1150000/1140500/1140487/1140487_12_l.jpg"
+  }
+]

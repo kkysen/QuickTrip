@@ -1,0 +1,82 @@
+[
+  {
+    "price": 67,
+    "name": "Super 8 Chicago/Rosemont/Ohare/SE",
+    "address": "3160 North River Road, River \u0026 Belmont, River Grove, IL, 60171 United States",
+    "distance": 1.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/450000/448700/448684/448684_143_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Comfort Suites O\u0027Hare Airport",
+    "address": "4200 North River Road, Schiller Park, IL, 60176 United States",
+    "distance": 1.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/670000/665000/664918/664918_89_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Motel 6 Chicago O\u0027hare - Schiller Park",
+    "address": "9408 West Lawrence Avenue, I-90 at Kennedy Expwy, Exit 79-A S., Schiller Park, IL, 60176 United States",
+    "distance": 2.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/990000/983700/983642/79241d08_l.jpg"
+  },
+  {
+    "price": 146,
+    "name": "Holiday Inn O\u0027Hare",
+    "address": "5615 North Cumberland Avenue, Chicago, IL, 60631 United States",
+    "distance": 2.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2400/2332/32aff702_l.jpg"
+  },
+  {
+    "price": 291,
+    "name": "Renaissance Chicago O\u0027Hare Suites Hotel",
+    "address": "8500 West Bryn Mawr Avenue, Chicago, IL, 60631 United States",
+    "distance": 2.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/899300/899245/899245_230_l.jpg"
+  },
+  {
+    "price": 239,
+    "name": "Loews Chicago O\u0027Hare Hotel",
+    "address": "5300 N River Rd, Rosemont, IL, 60018 United States",
+    "distance": 2.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1820000/1818400/1818376/1818376_176_l.jpg"
+  },
+  {
+    "price": 161,
+    "name": "SpringHill Suites Chicago O\u0027Hare by Marriott",
+    "address": "8101 West Higgins Road, Chicago, IL, 60631 United States",
+    "distance": 2.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/561500/561495/561495_165_l.jpg"
+  },
+  {
+    "price": 153,
+    "name": "Crowne Plaza Hotel Chicago O\u0027Hare",
+    "address": "5440 N River Rd, Rosemont, IL, 60018 United States",
+    "distance": 3.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20400/20348/02ed01d0_l.jpg"
+  },
+  {
+    "price": 270,
+    "name": "Chicago Marriott O\u0027Hare",
+    "address": "8535 West Higgins Road, Chicago, IL, 60631 United States",
+    "distance": 3.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/300/281/281_144_l.jpg"
+  },
+  {
+    "price": 269,
+    "name": "Embassy Suites - Chicago O\u0027Hare - Rosemont",
+    "address": "5500 N River Rd, Rosemont, IL, 60018 United States",
+    "distance": 3.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12700/12636/12636_94_l.jpg"
+  }
+]

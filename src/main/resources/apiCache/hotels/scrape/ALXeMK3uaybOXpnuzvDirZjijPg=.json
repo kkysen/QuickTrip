@@ -1,0 +1,82 @@
+[
+  {
+    "price": 50,
+    "name": "Knights Inn - Wilmington",
+    "address": "24001 Lorenzo Rd, Wilmington, IL, 60481 United States",
+    "distance": 6.1,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2230000/2227700/2227675/2227675_31_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Super 8 Morris IL",
+    "address": "70 Green Acres Dr, Morris, IL, 60450 United States",
+    "distance": 9.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/123200/123171/123171_102_l.jpg"
+  },
+  {
+    "price": 148,
+    "name": "Holiday Inn Express \u0026 Suites Morris",
+    "address": "222 Gore Rd, Morris, IL, 60450 United States",
+    "distance": 9.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1860000/1852700/1852690/1852690_130_l.jpg"
+  },
+  {
+    "price": 96,
+    "name": "Quality Inn Morris",
+    "address": "200 Gore Rd, Morris, IL, 60450 United States",
+    "distance": 9.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7300/7264/b1f42fa6_l.jpg"
+  },
+  {
+    "price": 96,
+    "name": "Comfort Inn",
+    "address": "70 Gore Rd, Morris, IL, 60450 United States",
+    "distance": 9.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5600/5599/5599_80_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Days Inn And Suites Of Morris",
+    "address": "80 Hampton Road, Morris, IL, 60450 United States",
+    "distance": 9.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/280700/280636/280636_190_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Hampton Inn \u0026 Suites Minooka",
+    "address": "621 Bob Blair Rd, Minooka, IL, 60447 United States",
+    "distance": 11.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11920000/11919200/11919193/11919193_3_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "Super 8 Dwight",
+    "address": "14 E Northbrook Dr, Dwight, IL, 60420-9701 United States",
+    "distance": 14.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/855800/855752/855752_97_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Hollywood Casino Joliet",
+    "address": "777 Hollywood Blvd, Joliet, IL, 60436 United States",
+    "distance": 15.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6290000/6289400/6289328/6289328_7_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Comfort Inn",
+    "address": "1520 Commerce Lane, Joliet, IL, 60431-9026 United States",
+    "distance": 15.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/64300/64282/64282_97_l.jpg"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "price": 68,
+    "name": "Motel 6 New Brunswick",
+    "address": "26 US Highway 1 North, New Brunswick, NJ, 08901 United States",
+    "distance": 1.6,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10300/10263/a26c10dc_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Red Carpet Inn New Brunswick",
+    "address": "26 Route 1 North, New Brunswick, NJ, 08901 United States",
+    "distance": 1.6,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11460000/11453300/11453225/11453225_1_l.jpg"
+  }
+]

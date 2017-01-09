@@ -1,0 +1,26 @@
+[
+  {
+    "price": 129,
+    "name": "Hyatt Regency Westlake",
+    "address": "880 S Westlake Blvd, Westlake Village, CA, 91361 United States",
+    "distance": 0.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11900/11888/60a93083_l.jpg"
+  },
+  {
+    "price": 328,
+    "name": "Four Seasons Hotel Los Angeles at Westlake Village",
+    "address": "2 Dole Dr, Westlake Village, CA, 91362 United States",
+    "distance": 0.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1560000/1551400/1551334/1551334_80_l.jpg"
+  },
+  {
+    "price": 219,
+    "name": "Residence Inn by Marriott Los Angeles Westlake Village",
+    "address": "30950 Russell Ranch Rd, Westlake Village, CA, 91362 United States",
+    "distance": 1.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1590000/1586800/1586771/1586771_37_l.jpg"
+  }
+]

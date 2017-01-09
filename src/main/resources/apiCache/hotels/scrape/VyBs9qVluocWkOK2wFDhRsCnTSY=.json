@@ -1,0 +1,18 @@
+[
+  {
+    "price": 51,
+    "name": "Super 8 Gretna NE",
+    "address": "14355 S Highway 31, Gretna, NE, 68028 United States",
+    "distance": 0.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/158800/158725/158725_205_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Holiday Inn Express \u0026 Suites Omaha I-80",
+    "address": "16175 Stevens Pt, Gretna, NE, 68028 United States",
+    "distance": 5.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3910000/3900900/3900837/3900837_126_l.jpg"
+  }
+]

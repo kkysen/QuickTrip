@@ -1,0 +1,50 @@
+[
+  {
+    "price": 52,
+    "name": "Budget Inn",
+    "address": "1122 N State St., Fairmont, MN, 56031 United States",
+    "distance": 1.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12300000/12294800/12294793/12294793_5_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Super 8 - Fairmont",
+    "address": "1200 Torgerson Dr., Fairmont, MN, 56031 United States",
+    "distance": 1.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/51100/51087/9a751ae7_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Holiday Inn Fairmont",
+    "address": "1201 Torgerson Drive, Fairmont, MN, 56031-0902 United States",
+    "distance": 1.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10700/10624/10624_169_l.jpg"
+  },
+  {
+    "price": 140,
+    "name": "Hampton Inn Fairmont",
+    "address": "100 Hampton Drive, Fairmont, MN, 56031 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2690000/2682700/2682639/2682639_4_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Super 8 Blue Earth",
+    "address": "1420 Giant Drive, I90 and I69, Blue Earth, MN, 56013 United States",
+    "distance": 18.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50900/50817/312f732b_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "AmericInn Lodge \u0026 Suites Blue Earth",
+    "address": "1495 Domes Dr, Blue Earth, MN, 56013 United States",
+    "distance": 18.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/480000/471600/471550/471550_57_l.jpg"
+  }
+]

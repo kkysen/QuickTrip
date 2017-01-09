@@ -1,0 +1,82 @@
+[
+  {
+    "price": 42,
+    "name": "Americas Best Value Inn Page",
+    "address": "75 South 7th Avenue, Page, AZ, 86040 United States",
+    "distance": 0.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/123500/123480/123480_125_l.jpg"
+  },
+  {
+    "price": 106,
+    "name": "Page Boy Motel",
+    "address": "150 N Lake Powell Blvd, Page, AZ, 86040 United States",
+    "distance": 0.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7060000/7050600/7050524/7050524_6_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Rodeway Inn Page",
+    "address": "107 S Lake Powell Blvd, Page, AZ, 86040 United States",
+    "distance": 0.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/893600/893525/893525_79_l.jpg"
+  },
+  {
+    "price": 40,
+    "name": "Travelodge Page AZ",
+    "address": "207 N Lake Powell Blvd, Page, AZ, 86040 United States",
+    "distance": 0.2,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20800/20773/1529e435_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Best Western Plus At Lake Powell",
+    "address": "208 N Lake Powell Blvd, Page, AZ, 86040 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7200/7186/12cad815_l.jpg"
+  },
+  {
+    "price": 48,
+    "name": "Best Western View Of Lake Powell Hotel",
+    "address": "716 Rimview Drive, Page, AZ, 86040 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6430000/6422800/6422793/6422793_159_l.jpg"
+  },
+  {
+    "price": 36,
+    "name": "Quality Inn at Lake Powell",
+    "address": "287 N Lake Powell Blvd, Page, AZ, 86040 United States",
+    "distance": 0.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/100/93/93_26_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Clarion Inn",
+    "address": "751 S Navajo Dr, Page, AZ, 86040 United States",
+    "distance": 0.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/110000/102200/102163/2c14fceb_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Courtyard by Marriott Lake Powell",
+    "address": "600 Clubhouse Dr, Page, AZ, 86040 United States",
+    "distance": 0.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21500/21475/21475_30_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Sleep Inn \u0026 Suites Lake Powell",
+    "address": "673 Scenic View Drive, Page, AZ, 86040 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10120000/10118800/10118752/10118752_54_l.jpg"
+  }
+]

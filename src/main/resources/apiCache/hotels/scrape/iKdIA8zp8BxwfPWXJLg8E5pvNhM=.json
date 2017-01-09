@@ -1,0 +1,26 @@
+[
+  {
+    "price": 69,
+    "name": "Days Inn Villa Rica",
+    "address": "195 Commerce Drive, Villa Rica, GA, 30180 United States",
+    "distance": 1.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/450000/440300/440220/440220_150_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Comfort Inn Villa Rica",
+    "address": "132 Hwy 61 Connector, Villa Rica, GA, 30180 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1790000/1784600/1784503/ee95cff7_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Fairfield Plantation",
+    "address": "1602 Lakeview Pkwy, Villa Rica, GA, 30180 United States",
+    "distance": 5.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1400000/1398000/1397905/1397905_1_l.jpg"
+  }
+]

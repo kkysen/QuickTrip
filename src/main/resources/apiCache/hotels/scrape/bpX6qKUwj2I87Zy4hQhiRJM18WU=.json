@@ -1,0 +1,82 @@
+[
+  {
+    "price": 115,
+    "name": "Comfort Inn Marshalltown",
+    "address": "2613 S Center St, Marshalltown, IA, 50158 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7900/7850/7850_50_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Super 8 Marshalltown IA",
+    "address": "3315 South Center Street, US 30 Exit 185 N on St HWY 14, Marshalltown, IA, 50158 United States",
+    "distance": 2.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42600/42545/42545_106_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Motel 6 Marshalltown, IA",
+    "address": "18 East Berle Road, Marshalltown, IA, 50158 United States",
+    "distance": 2.9,
+    "rating": 3.5,
+    "imgUrl": ""
+  },
+  {
+    "price": 64,
+    "name": "Baymont Inn \u0026 Suites Marshalltown",
+    "address": "115 Iowa Ave W, Marshalltown, IA, 50158 United States",
+    "distance": 2.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/565100/565098/137f47ff_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Hampton Inn \u0026 Suites Marshalltown",
+    "address": "20 W Iowa Ave, Marshalltown, IA, 50158 United States",
+    "distance": 2.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2890000/2880200/2880175/2880175_3_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Best Western Regency Inn",
+    "address": "3303 S Center St, Marshalltown, IA, 50158 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2500/2471/2471_206_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Designer Inn \u0026 Suites",
+    "address": "403 Bus Hwy 30 West, Toledo, IA, 52342 United States",
+    "distance": 17.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7020000/7017200/7017180/7017180_10_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Super 8 Toledo IA",
+    "address": "207 W Highway 30, P.o. Box 81, Toledo, IA, 52342 United States",
+    "distance": 18.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/897900/897844/897844_57_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "AmericInn Grundy Center",
+    "address": "2101 Commerce Drive, Grundy Center, IA, 50638 United States",
+    "distance": 23.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/561200/561151/561151_5_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Comfort Inn And Suites",
+    "address": "1630 West Street South, NE Side, Grinnell, IA, 50112 United States",
+    "distance": 23.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1670000/1668000/1667983/1667983_36_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 349,
+    "name": "Hilton West Palm Beach",
+    "address": "600 Okeechobee Blvd, West Palm Beach, FL, 33401 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12360000/12354700/12354695/707c55da_l.jpg"
+  },
+  {
+    "price": 259,
+    "name": "Residence Inn West Palm Beach Downtown",
+    "address": "455 Hibiscus St, West Palm Beach, FL, 33401 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9420000/9419900/9419883/9419883_105_l.jpg"
+  },
+  {
+    "price": 227,
+    "name": "Hyatt Place West Palm Beach/Downtown",
+    "address": "295 Lakeview Avenue, West Palm Beach, FL, 33401 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2400000/2393000/2392990/2392990_59_l.jpg"
+  },
+  {
+    "price": 240,
+    "name": "Marriott West Palm Beach Hotel",
+    "address": "1001 Okeechobee Blvd, West Palm Beach, FL, 33401 United States",
+    "distance": 0.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27900/27824/27824_98_l.jpg"
+  },
+  {
+    "price": 137,
+    "name": "Hotel Biba",
+    "address": "320 Belvedere Rd, West Palm Beach, FL, 33405 United States",
+    "distance": 1.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/790000/787200/787144/787144_61_l.jpg"
+  },
+  {
+    "price": 112,
+    "name": "Studio 6 West Palm Beach",
+    "address": "1535 Centrepark Drive North, West Palm Beach, FL, 33401 United States",
+    "distance": 1.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/151100/151093/8f446b0c_l.jpg"
+  },
+  {
+    "price": 220,
+    "name": "Courtyard by Marriott West Palm Beach Airport",
+    "address": "1800 Centrepark Dr E, West Palm Beach, FL, 33401 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/790000/786800/786797/786797_92_l.jpg"
+  },
+  {
+    "price": 220,
+    "name": "DoubleTree by Hilton West Palm Beach Airport",
+    "address": "1808 S Australian Ave, West Palm Beach, FL, 33409 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17700/17651/636455ba_l.jpg"
+  },
+  {
+    "price": 213,
+    "name": "Holiday Inn Palm Beach - Airport Conf Ctr",
+    "address": "1301 Belvedere Rd, West Palm Beach, FL, 33405 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21500/21491/21491_251_l.jpg"
+  },
+  {
+    "price": 207,
+    "name": "Hilton Garden Inn West Palm Beach Airport",
+    "address": "1611 Worthington Road, West Palm Beach, FL, 33409 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1570000/1567200/1567175/1567175_80_l.jpg"
+  }
+]

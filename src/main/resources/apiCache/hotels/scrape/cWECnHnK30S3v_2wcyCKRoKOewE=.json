@@ -1,0 +1,82 @@
+[
+  {
+    "price": 77,
+    "name": "Best Western Rayne Inn",
+    "address": "1422 N Polk St, Rayne, LA, 70578 United States",
+    "distance": 6.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5770000/5762200/5762122/5762122_91_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Super 8 -Duson/Lafayette West Area",
+    "address": "3001 Daulaut Dr, Duson, LA, 70529 United States",
+    "distance": 11.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/670000/664100/664066/664066_39_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Howard Johnson Scott Lafayette",
+    "address": "103 Harold Gauthe Drive, I-10, Exit 97, Scott, LA, 70583 United States",
+    "distance": 16.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/569000/568989/f473b3aa_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Comfort Inn And Suites",
+    "address": "1636 Saint Mary St, Scott, LA, 70583 United States",
+    "distance": 16.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4490000/4488600/4488576/18a17b68_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Scott - Lafayette West",
+    "address": "736 I 10 S Frontage Rd, Scott, LA, 70583 United States",
+    "distance": 17.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1670000/1668500/1668422/1668422_143_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "Hampton Suites Jennings",
+    "address": "310 Fred Ruth Zigler Meml Dr St, Jennings, LA, 70546 United States",
+    "distance": 17.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2470000/2463500/2463442/2463442_57_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Days Inn",
+    "address": "603 Holiday Dr, Jennings, LA, 70546 United States",
+    "distance": 18.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8100/8100/8100_63_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Motel 6 Jennings LA",
+    "address": "607 Holiday Drive, Jennings, LA, 70546 United States",
+    "distance": 18.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/440000/430900/430855/430855_9_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Ambassador Inn Lafayette",
+    "address": "220 Ambassador Caffery Pkwy, Scott, LA, 70583 United States",
+    "distance": 18.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2130000/2126900/2126823/96617305_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Scott/Lafayette",
+    "address": "301 Ambassador Caffery Pkwy, Scott, LA, 70583 United States",
+    "distance": 18.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/285000/284947/7785743f_l.jpg"
+  }
+]

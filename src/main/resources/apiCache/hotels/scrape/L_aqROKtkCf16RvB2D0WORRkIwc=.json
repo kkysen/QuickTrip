@@ -1,0 +1,82 @@
+[
+  {
+    "price": 66,
+    "name": "Quality Inn Vineland - Millville",
+    "address": "29 W Landis Ave, Vineland, NJ, 08360 United States",
+    "distance": 0.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/287700/287604/287604_44_l.jpg"
+  },
+  {
+    "price": 44,
+    "name": "Rodeway Inn",
+    "address": "998 W Landis Ave, Vineland, NJ, 08360 United States",
+    "distance": 1.0,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/117400/117320/2972c3b1_l.jpg"
+  },
+  {
+    "price": 128,
+    "name": "Days Inn Vineland",
+    "address": "1001 W Landis Ave, Vineland, NJ, 08360 United States",
+    "distance": 1.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18800/18750/18750_96_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Wingate by Wyndham - Vineland NJ",
+    "address": "2196 W Landis Ave, Vineland, NJ, 08360 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/670000/664200/664200/67ce8e08_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Hampton Inn \u0026 Suites Vineland",
+    "address": "2134 W Landis Ave, Vineland, NJ, 08360 United States",
+    "distance": 2.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3380000/3374600/3374524/3374524_32_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Ramada Vineland Millville Area",
+    "address": "2216 W Landis Ave, Route 55, Exit 32A, Vineland, NJ, 08360 United States",
+    "distance": 2.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21600/21552/21552_150_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Holiday Inn Express and Suites Vineland Millville",
+    "address": "398 Smith St, Vineland, NJ, 08360 United States",
+    "distance": 3.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/600000/597800/597747/597747_221_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Millville Vineland",
+    "address": "301 Bluebird Ln, Millville, NJ, 08332 United States",
+    "distance": 4.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4260000/4258000/4257998/4257998_11_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "Country Inn By Carlson Millville",
+    "address": "1125 Village Dr, Millville, NJ, 08332 United States",
+    "distance": 5.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26500/26419/26419_22_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Budget Lodge Buena",
+    "address": "736 S Harding Highway, Buena, NJ, 08310 United States",
+    "distance": 5.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2810000/2803800/2803787/2803787_31_l.jpg"
+  }
+]

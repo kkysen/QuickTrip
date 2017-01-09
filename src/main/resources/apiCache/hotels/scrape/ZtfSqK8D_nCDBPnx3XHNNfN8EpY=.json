@@ -1,0 +1,50 @@
+[
+  {
+    "price": 64,
+    "name": "Days Inn Selma",
+    "address": "115 US Hwy 70A, Selma, NC, 27576 United States",
+    "distance": 2.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/34400/34383/34383_186_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Masters Inn",
+    "address": "318 US Highway 70 E, Selma, NC, 27576 United States",
+    "distance": 3.2,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15850000/15849500/15849492/cf0e5afa_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Suburban Extended Stay Hotel",
+    "address": "1780 Industrial Park Drive, Building B, Selma, NC, 27576 United States",
+    "distance": 3.2,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9250000/9249600/9249595/9249595_7_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Econo Lodge",
+    "address": "1780 Industrial Park Dr, Selma, NC, 27576 United States",
+    "distance": 3.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8330000/8322700/8322678/8322678_17_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Quality Inn Selma",
+    "address": "1705 Industrial Park Dr, Selma, NC, 27576 United States",
+    "distance": 3.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10900/10832/10832_51_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Hampton Inn Selma NC",
+    "address": "1695 Industrial Park Dr, Selma, NC, 27576 United States",
+    "distance": 3.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84400/84388/84388_39_l.jpg"
+  }
+]

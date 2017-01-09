@@ -1,0 +1,18 @@
+[
+  {
+    "price": 107,
+    "name": "Hotel Executive Suites",
+    "address": "30 Minue Street, Carteret, NJ, 07008 United States",
+    "distance": 0.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1510000/1503900/1503823/1503823_25_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Holiday Inn Carteret Rahway",
+    "address": "1000 Roosevelt Ave, Carteret, NJ, 07008 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7200/7104/7104_144_l.jpg"
+  }
+]

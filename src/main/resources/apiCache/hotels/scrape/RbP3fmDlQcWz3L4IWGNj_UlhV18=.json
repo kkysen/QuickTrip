@@ -1,0 +1,82 @@
+[
+  {
+    "price": 112,
+    "name": "Holiday Inn Express \u0026 Suites Conyers",
+    "address": "1302 Green St, Conyers, GA, 30012 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2080000/2078500/2078432/2078432_138_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Jameson Inn Conyers",
+    "address": "1070 Dogwood Drive SE, Conyers, GA, 30012 United States",
+    "distance": 0.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42500/42427/42427_34_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Quality Inn Conyers",
+    "address": "1164 Dogwood Dr, Conyers, GA, 30012 United States",
+    "distance": 0.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/200000/199300/199298/199298_53_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Conyers/Atlanta Area",
+    "address": "1412 Old Mcdonough Hwy, Conyers, GA, 30094 United States",
+    "distance": 0.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1640000/1639800/1639751/1639751_200_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "La Quinta Inn \u0026 Suites Atlanta Conyers",
+    "address": "1184 Dogwood Dr, Conyers, GA, 30012 United States",
+    "distance": 0.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/74700/74631/9911d5a6_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Country Inn \u0026 Suites By Carlson, Conyers, GA",
+    "address": "1312 Old Covington Hwy Se, Conyers, GA, 30012 United States",
+    "distance": 0.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1580000/1570400/1570371/1570371_38_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Courtyard Atlanta Conyers",
+    "address": "1337 Old Covington Highway SE, Conyers, GA, 30013 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6400000/6395300/6395279/8be5d185_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Hampton Inn Conyers",
+    "address": "1340 Dogwood Dr SE, Conyers, GA, 30013 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41800/41759/41759_86_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Econo Lodge",
+    "address": "1350 Dogwood Drive, I-20, I-20 Exit 82, Conyers, GA, 30013 United States",
+    "distance": 0.8,
+    "rating": 1.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10100/10039/2c65ad27_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Americas Best Value Inn Suites",
+    "address": "1297 Dogwood Drive SW, Conyers, GA, 30012 United States",
+    "distance": 1.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2440000/2432300/2432249/2432249_48_l.jpg"
+  }
+]

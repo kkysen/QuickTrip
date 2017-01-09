@@ -1,0 +1,82 @@
+[
+  {
+    "price": 134,
+    "name": "Hotel Bentley",
+    "address": "200 DeSoto St, Alexandria, LA, 71301 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16090000/16081000/16080916/1d0ddb7c_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Baymont Inn and Suites Alexandria",
+    "address": "2301 N MacArthur Dr, Alexandria, LA, 71303 United States",
+    "distance": 1.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42500/42414/42414_64_l.jpg"
+  },
+  {
+    "price": 131,
+    "name": "Holiday Inn Express \u0026 Suites Alexandria",
+    "address": "2340 N Macarthur Dr, Alexandria, LA, 71303 United States",
+    "distance": 1.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1650000/1640100/1640092/1640092_118_l.jpg"
+  },
+  {
+    "price": 148,
+    "name": "Candlewood Suites Alexandria",
+    "address": "2344 N Macarthur Dr, Alexandria, LA, 71303 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5430000/5426900/5426811/5426811_47_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Comfort Inn Alexandria",
+    "address": "2001 N Bolton Ave, Alexandria, LA, 71303 United States",
+    "distance": 1.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84700/84655/2a2bdb7c_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Best Western Of Alexandria Inn \u0026 Suites \u0026 Conference Center",
+    "address": "2720 N MacArthur Drive, Alexandria, LA, 71303 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3900/3822/3822_54_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Quality Inn Alexandria",
+    "address": "3010 N Macarthur Drive, Alexandria, LA, 71303 United States",
+    "distance": 1.9,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84700/84656/faf07125_l.jpg"
+  },
+  {
+    "price": 39,
+    "name": "Motel 6 Alexandria",
+    "address": "546 MacArthur Dr, Alexandria, LA, 71303 United States",
+    "distance": 2.2,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1030000/1030000/1029936/1029936_44_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Home Towne Studios - Alexandria",
+    "address": "1000 MacArthur Drive, Alexandria, LA, 71303 United States",
+    "distance": 2.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1400000/1400000/1399992/1399992_29_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Americas Best Value Inn",
+    "address": "1146 Macarthur Drive, Alexandria, LA, 71303 United States",
+    "distance": 2.3,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13900/13804/13804_75_l.jpg"
+  }
+]

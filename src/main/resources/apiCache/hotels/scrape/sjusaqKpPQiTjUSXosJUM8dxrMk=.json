@@ -1,0 +1,18 @@
+[
+  {
+    "price": 139,
+    "name": "DoubleTree by Hilton Chicago - Alsip",
+    "address": "5000 W 127th St, Alsip, IL, 60803 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25600/25507/25507_43_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "Baymont Inn \u0026 Suites Chicago / Alsip",
+    "address": "12801 South Cicero, Alsip, IL, 60803 United States",
+    "distance": 1.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50900/50833/50833_97_l.jpg"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "price": 66,
+    "name": "Days Inn \u0026 Suites Sellersburg",
+    "address": "363 Triangle Dr, Sellersburg, IN, 47172 United States",
+    "distance": 0.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1550000/1546000/1545948/4318da17_l.jpg"
+  },
+  {
+    "price": 82,
+    "name": "Travelodge Sellersburg",
+    "address": "7618 Old State Road 60, Sellersburg, IN, 47172 United States",
+    "distance": 1.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21200/21199/21199_158_l.jpg"
+  }
+]

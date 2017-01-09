@@ -1,0 +1,82 @@
+[
+  {
+    "price": 181,
+    "name": "Crowne Plaza Boston - Woburn",
+    "address": "15 Middlesex Canal Park, Woburn, MA, 01801 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19600/19526/19526_303_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "Extended Stay America - Boston - Woburn",
+    "address": "831 Main St, Woburn, MA, 01801 United States",
+    "distance": 1.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/110000/104200/104190/104190_92_l.jpg"
+  },
+  {
+    "price": 227,
+    "name": "Courtyard by Marriott Boston Woburn/Burlington",
+    "address": "240 Mishawum Rd, Woburn, MA, 01801 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14200/14191/1582f22a_l.jpg"
+  },
+  {
+    "price": 145,
+    "name": "Fairfield Inn by Marriott Boston Woburn-Burlington",
+    "address": "285 Mishawum Rd, Woburn, MA, 01801 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2100/2047/029997a3_l.jpg"
+  },
+  {
+    "price": 180,
+    "name": "Holiday Inn Express Boston North-Woburn",
+    "address": "315 Mishawum Rd, Woburn, MA, 01801 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4200/4175/4175_105_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Red Roof PLUS+ Boston - Woburn",
+    "address": "19 Commerce Way, Woburn, MA, 01801 United States",
+    "distance": 1.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/34700/34605/7ee73c0b_l.jpg"
+  },
+  {
+    "price": 237,
+    "name": "Hilton Boston/Woburn",
+    "address": "2 Forbes Rd, Woburn, MA, 01801 United States",
+    "distance": 1.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10600/10575/c4675453_l.jpg"
+  },
+  {
+    "price": 131,
+    "name": "Best Western Plus New Englander",
+    "address": "1 Rainin Road, Woburn, MA, 01801 United States",
+    "distance": 1.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23200/23170/08beb39a_l.jpg"
+  },
+  {
+    "price": 161,
+    "name": "Courtyard by Marriott Woburn/Boston North",
+    "address": "700 Unicorn Park Dr, Woburn, MA, 01801 United States",
+    "distance": 1.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/891500/891461/891461_103_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Comfort Inn Woburn",
+    "address": "14 Hill St, Woburn, MA, 01801 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/859800/859778/859778_70_l.jpg"
+  }
+]

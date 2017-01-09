@@ -1,0 +1,82 @@
+[
+  {
+    "price": 111,
+    "name": "Hampton Inn Eagle Pass",
+    "address": "3301 E Main St, Eagle Pass, TX, 78852 United States",
+    "distance": 15.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/690000/688000/687915/687915_171_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "La Quinta Inn Eagle Pass",
+    "address": "2525 East Main St, Eagle Pass, TX, 78852 United States",
+    "distance": 16.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19600/19532/fdc68d50_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "Quality Inn \u0026 Suites Eagle Pass",
+    "address": "1923 N Veterans Blvd, Eagle Pass, TX, 78852 United States",
+    "distance": 16.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3600/3590/3590_105_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Towneplace Suites Eagle Pass",
+    "address": "2033 North Veterans Boulevard, Eagle Pass, TX, 78852 United States",
+    "distance": 16.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5320000/5315900/5315835/eeaa6ef1_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Motel 6 Eagle Pass Lakeside",
+    "address": "2338 E Main St, Eagle Pass, TX, 78852 United States",
+    "distance": 16.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3810000/3803000/3802936/99e8efb7_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Camino Real Hotel Eagle Pass",
+    "address": "2856 E Main St, Eagle Pass, TX, 78852 United States",
+    "distance": 16.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1790000/1789400/1789332/65308a6e_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Holiday Inn Express \u0026 Suites Eagle Pass",
+    "address": "2007 Veteran\u0027s Boulevard, Eagle Pass, TX, 78852 United States",
+    "distance": 17.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/480000/477700/477699/477699_180_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Maverick Inn",
+    "address": "1711 E Main St., Eagle Pass, TX, 78852 United States",
+    "distance": 17.0,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7110000/7100100/7100040/7100040_1_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Comfort Inn \u0026 Suites Lakeside",
+    "address": "402 South Texas Drive, Eagle Pass, TX, 78852 United States",
+    "distance": 17.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6580000/6572800/6572772/6572772_53_l.jpg"
+  },
+  {
+    "price": 34,
+    "name": "Knights Inn \u0026 Suites Eagle Pass",
+    "address": "1395 Del Rio blvd, Eagle Pass, TX, 78852 United States",
+    "distance": 18.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4890000/4883300/4883280/4883280_16_l.jpg"
+  }
+]

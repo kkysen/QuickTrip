@@ -1,0 +1,18 @@
+[
+  {
+    "price": 109,
+    "name": "Echo Bluff State Park",
+    "address": "34489 Echo Bluff Dr, Eminence, MO, 65466 United States",
+    "distance": 15.0,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15490000/15487700/15487684/81cddc6c_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Country Inn Motel",
+    "address": "201 W Highway 32, Licking, MO, 65542 United States",
+    "distance": 22.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10270000/10269500/10269458/10269458_8_l.jpg"
+  }
+]

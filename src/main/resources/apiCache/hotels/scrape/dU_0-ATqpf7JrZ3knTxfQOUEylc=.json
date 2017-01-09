@@ -1,0 +1,82 @@
+[
+  {
+    "price": 177,
+    "name": "The Inn on the Mexican War Streets",
+    "address": "604 W North Ave, Pittsburgh, PA, 15212 United States",
+    "distance": 2.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11010000/11006200/11006150/11006150_52_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Motel 6 Pittsburgh - Crafton",
+    "address": "211 Beecham Dr, Pittsburgh, PA, 15205 United States",
+    "distance": 3.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1070000/1069000/1068962/1068962_59_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Fineview Inn",
+    "address": "419 Catoma Street, Pittsburgh, PA, 15212 United States",
+    "distance": 3.0,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12260000/12252300/12252206/12252206_22_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Hilltop Inn",
+    "address": "100 Kisow Dr, Pittsburgh, PA, 15205 United States",
+    "distance": 3.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26400/26335/26335_50_l.jpg"
+  },
+  {
+    "price": 78,
+    "name": "Comfort Inn Pittsburgh",
+    "address": "4770 Steubenville Pike, Pittsburgh, PA, 15205 United States",
+    "distance": 3.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/880000/874400/874377/874377_103_l.jpg"
+  },
+  {
+    "price": 236,
+    "name": "Residence Inn by Marriott Pittsburgh North Shore",
+    "address": "574 W General Robinson Street, Pittsburgh, PA, 15212 United States",
+    "distance": 3.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3450000/3445700/3445699/5774ed35_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Hampton Inn Pittsburgh McKnight Road",
+    "address": "4575 Mcknight Rd, Pittsburgh, PA, 15237 United States",
+    "distance": 3.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42900/42855/42855_100_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Hyatt Place Pittsburgh-North Shore",
+    "address": "260 North Shore Drive, Pittsburgh, PA, 15212 United States",
+    "distance": 3.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3610000/3608300/3608245/3608245_18_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Comfort Inn",
+    "address": "4607 Mcknight Rd, Pittsburgh, PA, 15237 United States",
+    "distance": 3.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5150000/5144900/5144850/5144850_22_l.jpg"
+  },
+  {
+    "price": 191,
+    "name": "Holiday Inn Express \u0026 Suites Pittsburgh North Shore",
+    "address": "228 Federal St, Pittsburgh, PA, 15212 United States",
+    "distance": 3.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10920000/10914800/10914769/10914769_32_l.jpg"
+  }
+]

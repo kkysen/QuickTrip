@@ -1,0 +1,34 @@
+[
+  {
+    "price": 144,
+    "name": "Homewood Suites by Hilton Kalamazoo-Portage",
+    "address": "500 Trade Centre Way, Portage, MI, 49002 United States",
+    "distance": 2.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12070000/12069700/12069671/12069671_18_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Courtyard Kalamazoo Portage",
+    "address": "400 Trade Centre Way, Portage, MI, 49002 United States",
+    "distance": 2.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6450000/6447900/6447847/6447847_76_l.jpg"
+  },
+  {
+    "price": 143,
+    "name": "Hampton Inn Kalamazoo",
+    "address": "2610 Airview Boulevard, Portage, MI, 49001 United States",
+    "distance": 3.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9480000/9478400/9478392/9478392_8_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Days Inn \u0026 Suites Kalamazoo",
+    "address": "2615 Airview Blvd, Portage, MI, 49002 United States",
+    "distance": 3.2,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5780000/5770100/5770035/873dd666_l.jpg"
+  }
+]

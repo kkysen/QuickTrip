@@ -1,0 +1,18 @@
+[
+  {
+    "price": 101,
+    "name": "Best Western Plus Sebastian Hotel \u0026 Suites",
+    "address": "1655 Us Highway 1, Sebastian, FL, 32958 United States",
+    "distance": 3.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1250000/1246300/1246238/1246238_128_l.jpg"
+  },
+  {
+    "price": 144,
+    "name": "Capt Hiram\u0027s Resort",
+    "address": "1580 US Highway 1, Sebastian, FL, 32958 United States",
+    "distance": 3.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7720000/7719700/7719643/7719643_13_l.jpg"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "price": 152,
+    "name": "Hampton Inn \u0026 Suites by Hilton Murrieta",
+    "address": "25140 Hancock Ave, Murrieta, CA, 92562 United States",
+    "distance": 0.2,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15480000/15478400/15478324/ff8a934f_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Residence Inn by Marriott Temecula Murrieta",
+    "address": "25407 Madison Avenue, Murrieta, CA, 92562 United States",
+    "distance": 1.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10400000/10396800/10396708/4c79ad85_l.jpg"
+  },
+  {
+    "price": 82,
+    "name": "Comfort Inn \u0026 Suites Near Temecula Wine Country",
+    "address": "41005 California Oaks Rd, Murrieta, CA, 92562 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/990000/982000/981965/981965_76_l.jpg"
+  }
+]

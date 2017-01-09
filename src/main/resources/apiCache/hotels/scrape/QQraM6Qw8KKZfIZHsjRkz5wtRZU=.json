@@ -1,0 +1,82 @@
+[
+  {
+    "price": 115,
+    "name": "Shelby Mansfield KOA Resort",
+    "address": "6787 Baker 47, Shelby, OH, 44875 United States",
+    "distance": 8.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13220000/13219700/13219602/13219602_7_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Relax Inn",
+    "address": "178 Mansfield Ave, Shelby, OH, 44875 United States",
+    "distance": 14.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13350000/13349500/13349485/13349485_13_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "Bellevue Hotel \u0026 Suites",
+    "address": "1120 E Main St, Bellevue, OH, 44811 United States",
+    "distance": 15.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/700/621/9e561b20_l.jpg"
+  },
+  {
+    "price": 130,
+    "name": "Best Western Norwalk",
+    "address": "351 Milan Ave, Norwalk, OH, 44857 United States",
+    "distance": 15.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/124500/124483/124483_322_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Econo Lodge Norwalk",
+    "address": "342 Milan Ave, Norwalk, OH, 44857 United States",
+    "distance": 15.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20300/20260/20260_51_l.jpg"
+  },
+  {
+    "price": 259,
+    "name": "All American Inn \u0026 Suites Norwalk",
+    "address": "415 Milan Ave, Norwalk, OH, 44857 United States",
+    "distance": 16.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/563200/563164/563164_55_l.jpg"
+  },
+  {
+    "price": 170,
+    "name": "Days Inn Milan Sandusky South",
+    "address": "11410 State Rt 250, I-80/90 \u0026 State Rt 250, Milan, OH, 44846 United States",
+    "distance": 19.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6900/6825/892698e2_l.jpg"
+  },
+  {
+    "price": 120,
+    "name": "Motel 6 Sandusky - Milan",
+    "address": "11406 US 250 North, Milan, OH, 44846 United States",
+    "distance": 19.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1040000/1037800/1037716/4a8061a6_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Red Roof Inn Sandusky - Milan",
+    "address": "11303 US Route 250 North, Milan, OH, 44846 United States",
+    "distance": 19.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/914100/914069/914069_81_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Super 8 Milan/Sandusky Area",
+    "address": "11313 Rt. 250, I-80/90 N of OH Turnpk, Milan, OH, 44846 United States",
+    "distance": 19.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/907700/907631/907631_44_l.jpg"
+  }
+]

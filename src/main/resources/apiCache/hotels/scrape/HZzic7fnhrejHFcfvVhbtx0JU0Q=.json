@@ -1,0 +1,26 @@
+[
+  {
+    "price": 92,
+    "name": "FairBridge Inn \u0026 Suites Dupont",
+    "address": "1609 McNeil St., DuPont, WA, 98327 United States",
+    "distance": 0.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6990000/6986600/6986501/6986501_80_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "Best Western Liberty Inn DuPont",
+    "address": "1400 Wilmington Drive, DuPont, WA, 98327 United States",
+    "distance": 1.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4890000/4889000/4888929/4888929_15_l.jpg"
+  },
+  {
+    "price": 124,
+    "name": "Hampton Inn and Suites DuPont",
+    "address": "800 Station Drive, Dupont, WA, 98327 United States",
+    "distance": 1.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5320000/5315900/5315812/5315812_44_l.jpg"
+  }
+]

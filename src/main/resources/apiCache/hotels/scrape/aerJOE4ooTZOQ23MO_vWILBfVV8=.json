@@ -1,0 +1,82 @@
+[
+  {
+    "price": 165,
+    "name": "Fredericksburg Bakery B\u0026B Suite 3",
+    "address": "141 E. Main St, Fredericksburg, TX, 78624 United States",
+    "distance": 0.1,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16760000/16751800/16751789/10ebecdc_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Fredericksburg Bakery B\u0026B Suite 2",
+    "address": "141 E. Main St, Fredericksburg, TX, 78624 United States",
+    "distance": 0.1,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16760000/16751800/16751716/6046a393_l.jpg"
+  },
+  {
+    "price": 165,
+    "name": "Fredericksburg Bakery B\u0026B Suite 1",
+    "address": "141 E. Main St, Fredericksburg, TX, 78624 United States",
+    "distance": 0.1,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16760000/16751700/16751692/bc09440d_l.jpg"
+  },
+  {
+    "price": 190,
+    "name": "Double Deer Ranch - Paloma",
+    "address": "294 Venado Doble Road, Fredericksburg, TX, 78624 United States",
+    "distance": 0.1,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/18000000/17230000/17227300/17227246/d8a3b313_l.jpg"
+  },
+  {
+    "price": 190,
+    "name": "Double Deer Ranch - Coyote",
+    "address": "84 Venado Doble Road, Fredericksburg, TX, 78624 United States",
+    "distance": 0.1,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/18000000/17160000/17154100/17154001/7d696a6e_l.jpg"
+  },
+  {
+    "price": 165,
+    "name": "Town Creek Warren - Suite B",
+    "address": "212 E. Austin Street, Fredericksburg, TX, 78624 United States",
+    "distance": 0.1,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16180000/16171700/16171667/464ee080_l.jpg"
+  },
+  {
+    "price": 165,
+    "name": "Town Creek Warren- Suite A",
+    "address": "212 E. Austin St., Fredericksburg, TX, 78624 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16180000/16171500/16171410/fa4166cf_l.jpg"
+  },
+  {
+    "price": 120,
+    "name": "Cyclismo - Suite 3",
+    "address": "103 E. Creek St., Fredericksburg, TX, 78624 United States",
+    "distance": 0.2,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15400000/15396400/15396365/15396365_1_l.jpg"
+  },
+  {
+    "price": 120,
+    "name": "Cyclismo - Suite 2",
+    "address": "103 E Creek St, Fredericksburg, TX, 78624 United States",
+    "distance": 0.2,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15340000/15339500/15339402/15339402_1_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Fredericksburg Inn \u0026 Suites",
+    "address": "201 S Washington, Fredericksburg, TX, 78624 United States",
+    "distance": 0.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1100000/1090100/1090008/a408544c_l.jpg"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "price": 65,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Johnstown",
+    "address": "136 N Comrie Ave, Johnstown, NY, 12095 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1850000/1841600/1841533/26085f90_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Super 8 Johnstown Gloversville Area",
+    "address": "301 N Comrie Ave, Johnstown, NY, 12095 United States",
+    "distance": 1.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/76500/76427/66c5ba83_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Holiday Inn Johnstown-Gloversville",
+    "address": "308 N Comrie Ave, Johnstown, NY, 12095 United States",
+    "distance": 1.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7200/7108/7108_185_l.jpg"
+  }
+]

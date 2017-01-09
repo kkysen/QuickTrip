@@ -14,7 +14,6 @@ import java.util.stream.IntStream;
 
 import org.junit.Test;
 
-
 /**
  * 
  * 
@@ -37,17 +36,13 @@ public class ItineraryScreenModelTest {
         return cities.get(random.nextInt(cities.size()));
     }
     
-    
     public void test() {
-        final SearchModel searchArgs = new SearchModel();
-        
         LocalDate date = LocalDate.now();
         date = date.plusDays(random.nextInt(100));
-        searchArgs.setDate(date);
         
-        searchArgs.setNumPeople(random.nextInt(5) + 1);
+        final int numPeople = random.nextInt(5) + 1;
         
-        searchArgs.setOrigin(randomCity());
+        final String origin = randomCity();
         
         final int numDests = random.nextInt(23);
         int numDays = 0;
@@ -57,18 +52,18 @@ public class ItineraryScreenModelTest {
             numDays += singleNumDays;
             dests.add(new NoDateDestination(randomCity(), singleNumDays));
         }
-        searchArgs.setDestinations(dests);
         
-        searchArgs.setBudget(numDays * 400);
+        final int budget = numDays * 400;
         
-        try {
-            final String json = QuickTripConstants.GSON.toJson(searchArgs);
-            MyFiles.write(Paths.get(QuickTripConstants.SEARCH_ARGS_PATH), json);
-        } catch (final IOException e) {
-            throw new RuntimeException(e);
-        }
+//        try {
+//            final String json = QuickTripConstants.GSON.toJson(searchArgs);
+//            MyFiles.write(QuickTripConstants.SEARCH_MODEL_PATH, json);
+//        } catch (final IOException e) {
+//            throw new RuntimeException(e);
+//        }
         
-        final ItineraryModel model = new ItineraryModel();
+        final SearchModel searchArgs = new SearchModel(origin, date, numDests, dests, budget, numPeople);
+        final ItineraryModel model = new ItineraryModel(searchArgs);
         assertEquals(numDests, model.getDestinations().size());
     }
     

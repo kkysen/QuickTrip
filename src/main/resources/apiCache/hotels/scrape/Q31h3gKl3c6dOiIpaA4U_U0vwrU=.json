@@ -1,0 +1,18 @@
+[
+  {
+    "price": 85,
+    "name": "Best Western Kendallville Inn",
+    "address": "621 Professional Way, Kendallville, IN, 46755 United States",
+    "distance": 0.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2900/2871/6a1b3890_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "Holiday Inn Express Kendallville",
+    "address": "1917 Dowling St, Kendallville, IN, 46755 United States",
+    "distance": 1.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/327900/327850/62dfb78b_l.jpg"
+  }
+]

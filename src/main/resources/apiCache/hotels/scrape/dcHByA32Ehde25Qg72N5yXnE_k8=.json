@@ -1,0 +1,42 @@
+[
+  {
+    "price": 90,
+    "name": "Best Western Chester Hotel",
+    "address": "2150 State Street, Chester, IL, 62233 United States",
+    "distance": 1.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1700/1699/1699_111_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Sparta Motel",
+    "address": "700 South Saint Louis Street, Sparta, IL, 62286 United States",
+    "distance": 13.0,
+    "rating": 1.4,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11250000/11249000/11249000/11249000_7_l.jpg"
+  },
+  {
+    "price": 49,
+    "name": "Budget Inn - Sparta",
+    "address": "402 E Broadway St, Sparta, IL, 62286 United States",
+    "distance": 14.0,
+    "rating": 1.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12340000/12338400/12338311/12338311_2_l.jpg"
+  },
+  {
+    "price": 106,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Sparta",
+    "address": "1301 N Market St, Sparta, IL, 62286 United States",
+    "distance": 14.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1700000/1691200/1691121/1691121_293_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Briarwood Inn of Sparta",
+    "address": "1755 North Market Street, Sparta, IL, 62286 United States",
+    "distance": 15.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/700000/692700/692668/692668_15_l.jpg"
+  }
+]

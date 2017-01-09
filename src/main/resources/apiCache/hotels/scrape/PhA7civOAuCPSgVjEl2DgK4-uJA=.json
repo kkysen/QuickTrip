@@ -1,0 +1,82 @@
+[
+  {
+    "price": 195,
+    "name": "Holiday Inn Express Lynbrook",
+    "address": "1 Sunrise Hwy, Lynbrook, NY, 11563 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1880000/1871700/1871643/a86050a5_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Rockville Centre Inn",
+    "address": "415 Ocean Avenue, Rockville Centre, NY, 11570 United States",
+    "distance": 1.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7720000/7710900/7710861/7710861_2_l.jpg"
+  },
+  {
+    "price": 184,
+    "name": "Hampton Inn \u0026 Suites by Hilton Rockville Centre",
+    "address": "125 Merrick Rd, Rockville Centre, NY, 11570 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/970000/967400/967342/967342_43_l.jpg"
+  },
+  {
+    "price": 143,
+    "name": "Best Western Mill River Manor",
+    "address": "173 Sunrise Hwy, Rockville Centre, NY, 11570 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1100/1030/649f6d88_l.jpg"
+  },
+  {
+    "price": 128,
+    "name": "Ramada Rockville Centre",
+    "address": "1000 Sunrise Hwy, Rockville Centre, NY, 11570 United States",
+    "distance": 2.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1410000/1407200/1407174/1407174_78_l.jpg"
+  },
+  {
+    "price": 244,
+    "name": "The Garden City Hotel",
+    "address": "45 7th St, Garden City, NY, 11530 United States",
+    "distance": 3.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17800/17703/17703_106_l.jpg"
+  },
+  {
+    "price": 126,
+    "name": "The Floral Park Motor Lodge",
+    "address": "30 Jericho Turnpike, Floral Park, NY, 11001 United States",
+    "distance": 4.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9810000/9803000/9802999/9802999_9_l.jpg"
+  },
+  {
+    "price": 188,
+    "name": "Holiday Inn New York JFK Airport Area",
+    "address": "154-71 Brookville Boulevard Rosedal, Jamaica, NY, 11422 United States",
+    "distance": 4.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6330000/6325600/6325550/6325550_127_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Howard Johnson Inn Queens",
+    "address": "220 - 16 Jamaica Avenue, Queens Village, NY, 11428 United States",
+    "distance": 4.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1430000/1426800/1426782/1426782_29_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Five Towns Inn - JFK Airport",
+    "address": "655 Rockaway Tpke, Lawrence, NY, 11559 United States",
+    "distance": 4.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1340000/1339900/1339831/1339831_50_l.jpg"
+  }
+]

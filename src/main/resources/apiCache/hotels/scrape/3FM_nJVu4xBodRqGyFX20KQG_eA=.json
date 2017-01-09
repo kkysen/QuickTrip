@@ -1,0 +1,42 @@
+[
+  {
+    "price": 164,
+    "name": "TownePlace Suites by Marriott -Minneapolis West/StLouis Park",
+    "address": "1400 Zarthan Ave S, St. Louis Park, MN, 55416 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/700000/699700/699630/699630_15_l.jpg"
+  },
+  {
+    "price": 188,
+    "name": "Springhill Suites Minneapolis St Louis Park by Marriott",
+    "address": "5901 Wayzata Boulvevard, St. Louis Park, MN, 55416 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/858800/858726/858726_23_l.jpg"
+  },
+  {
+    "price": 146,
+    "name": "DoubleTree by Hilton Minneapolis - Park Place",
+    "address": "1500 Park Place Blvd, St. Louis Park, MN, 55416 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23000/22949/eebd4da7_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Homewood Suites by Hilton St Louis Park at West End",
+    "address": "5305 Wayzata Blvd, St. Louis Park, MN, 55416 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2940000/2936800/2936711/2936711_21_l.jpg"
+  },
+  {
+    "price": 279,
+    "name": "Minneapolis Marriott West",
+    "address": "9960 Wayzata Boulevard, St. Louis Park, MN, 55426 United States",
+    "distance": 2.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1230000/1227200/1227102/dfa1080c_l.jpg"
+  }
+]

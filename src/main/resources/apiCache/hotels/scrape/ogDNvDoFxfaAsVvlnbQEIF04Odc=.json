@@ -1,0 +1,34 @@
+[
+  {
+    "price": 66,
+    "name": "Super 8 Fremont NE",
+    "address": "1250 E 23rd Street, Fremont, NE, 68025 United States",
+    "distance": 1.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43400/43341/43341_95_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Fairfield Inn \u0026 Suites Fremont",
+    "address": "2410 North Yager Road, Fremont, NE, 68025 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15840000/15835300/15835232/671402ec_l.jpg"
+  },
+  {
+    "price": 106,
+    "name": "Holiday Inn Express Fremont",
+    "address": "2415 N Lincoln Ave, Fremont, NE, 68025 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/910400/910321/910321_240_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Oak Tree Inn Fremont",
+    "address": "2700 N. Diers Pkwy, Fremont, NE, 68025 United States",
+    "distance": 2.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2350000/2348300/2348252/2348252_10_l.jpg"
+  }
+]

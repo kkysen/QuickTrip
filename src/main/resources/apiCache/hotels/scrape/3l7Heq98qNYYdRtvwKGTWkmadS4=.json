@@ -1,0 +1,82 @@
+[
+  {
+    "price": 179,
+    "name": "Lancaster Marriott at Penn Square",
+    "address": "25 South Queen Street, Lancaster, PA, 17603 United States",
+    "distance": 0.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2480000/2473700/2473637/2473637_32_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "The Hotel Lancaster",
+    "address": "26 East Chestnut Street, Lancaster, PA, 17602 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6660000/6655200/6655191/6655191_26_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Cork Factory Hotel",
+    "address": "480 New Holland Avenue Suite 3000, Lancaster, PA, 17602 United States",
+    "distance": 0.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3200000/3197000/3196998/ef67706f_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Days Inn and Suites Lancaster",
+    "address": "1492 Lititz Pike, Lancaster, PA, 17601 United States",
+    "distance": 1.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27100/27012/58642534_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Americas Best Value Inn",
+    "address": "1320 Harrisburg Pike, Lancaster, PA, 17603 United States",
+    "distance": 1.8,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1560000/1559300/1559265/1559265_48_l.jpg"
+  },
+  {
+    "price": 150,
+    "name": "Eden Resort \u0026 Suites",
+    "address": "222 Eden Road, Lancaster, Pennsylvania, 17601 United States",
+    "distance": 2.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27300/27257/6932e8e8_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Circle M RV \u0026 Camping Resort - Caravan Park",
+    "address": "2111 Millersville Road, Lancaster, PA, 17603 United States",
+    "distance": 2.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9130000/9126600/9126568/f7547862_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Courtyard by Marriott Lancaster",
+    "address": "1931 Hospitality Dr, Lancaster, PA, 17601 United States",
+    "distance": 2.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1240000/1235300/1235279/1235279_54_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Lancaster Amish Country Travelodge",
+    "address": "2101 Columbia Ave, Lancaster, PA, 17603 United States",
+    "distance": 2.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3800/3738/c1e62b61_l.jpg"
+  },
+  {
+    "price": 130,
+    "name": "Hampton Inn Lancaster",
+    "address": "545 Greenfield Rd, Lancaster, PA, 17601 United States",
+    "distance": 2.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23600/23519/23519_84_l.jpg"
+  }
+]

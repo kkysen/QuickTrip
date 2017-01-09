@@ -1,0 +1,82 @@
+[
+  {
+    "price": 149,
+    "name": "Embassy Suites Tuscaloosa Alabama Downtown",
+    "address": "2410 University Boulevard, Tuscaloosa, AL, 35401 United States",
+    "distance": 0.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8810000/8804500/8804402/8804402_4_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Home2 Suites by Hilton Tuscaloosa Downtown University Blvd",
+    "address": "2610 University Boulevard, Tuscaloosa, AL, 35401 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10630000/10627800/10627722/1af18629_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Hotel Indigo Tuscaloosa Downtown",
+    "address": "111 Greensboro Avenue, Tuscaloosa, AL, 35401 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14770000/14760400/14760365/87e6e13b_l.jpg"
+  },
+  {
+    "price": 189,
+    "name": "Hotel Capstone",
+    "address": "320 Paul W Bryant Dr, Tuscaloosa, AL, 35401 United States",
+    "distance": 1.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24100/24048/a5c02606_l.jpeg"
+  },
+  {
+    "price": 54,
+    "name": "Econo Lodge Inn \u0026 Suites",
+    "address": "1930 Mcfarland Blvd, Northport, AL, 35476 United States",
+    "distance": 2.1,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42600/42532/38cbc42a_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Best Western Catalina Inn",
+    "address": "2015 Mcfarland Blvd, Northport, AL, 35476 United States",
+    "distance": 2.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20200/20117/20117_63_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Hampton Inn Tuscaloosa-University",
+    "address": "600 Harper Lee Dr, Tuscaloosa, AL, 35404 United States",
+    "distance": 2.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/900/854/854_56_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "SpringHill Suites Tuscaloosa",
+    "address": "4020 Greensboro Avenue, Tuscaloosa, AL, 35405 United States",
+    "distance": 3.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10100000/10090200/10090197/6a35668b_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Hilton Garden Inn Tuscaloosa",
+    "address": "800 Hollywood Blvd, Tuscaloosa, AL, 35405 United States",
+    "distance": 3.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1570000/1562800/1562744/1562744_65_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Tuscaloosa/Near University",
+    "address": "1417 Veterans Pkwy, Tuscaloosa, AL, 35404 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2020000/2019700/2019695/2019695_145_l.jpg"
+  }
+]

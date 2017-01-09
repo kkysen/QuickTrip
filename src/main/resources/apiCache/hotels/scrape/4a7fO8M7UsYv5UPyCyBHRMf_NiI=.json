@@ -1,0 +1,82 @@
+[
+  {
+    "price": 134,
+    "name": "Homewood Suites by Hilton Orland Park",
+    "address": "16245 South La Grange Road, Orland Park, IL, 60467 United States",
+    "distance": 4.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1780000/1774900/1774834/1774834_4_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "8800 W 159th St, Orland Park, IL, 60462 United States",
+    "distance": 5.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5500/5448/5448_113_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Country Inn \u0026 Suites By Carlson, Tinley Park, IL",
+    "address": "18315 South LaGrange Road, Tinley Park, IL, 60487 United States",
+    "distance": 5.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1640000/1635700/1635683/1635683_34_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Hilton Garden Inn Chicago/Tinley Park",
+    "address": "18335 LaGrange Rd, Tinley Park, IL, 60487 United States",
+    "distance": 5.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1180000/1172300/1172220/954813fd_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Super 8 Mokena/Frankfort /I-80",
+    "address": "9485 West 191 Street, Mokena, IL, 60448 United States",
+    "distance": 6.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/440000/439800/439713/770aac7e_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Sleep Inn Tinley Park",
+    "address": "18420 Spring Creek Dr, Tinley Park, IL, 60477 United States",
+    "distance": 7.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/490000/484600/484516/484516_48_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Wingate by Wyndham Tinley Park",
+    "address": "18421 N Creek Drive, Tinley Park, IL, 60477 United States",
+    "distance": 7.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/203200/203191/203191_323_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Comfort Inn and Suites",
+    "address": "18400 Spring Creek Dr, Tinley Park, IL, 60477 United States",
+    "distance": 7.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/480000/474300/474231/474231_68_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "La Quinta Inn \u0026 Suites Chicago Tinley Park",
+    "address": "7255 West 183rd St., Tinley Park, IL, 60477 United States",
+    "distance": 8.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50900/50831/d9dc2c01_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Hampton Inn Chicago / Tinley Park",
+    "address": "18501 North Creek Drive, Tinley Park, IL, 60477 United States",
+    "distance": 8.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42600/42539/42539_44_l.jpg"
+  }
+]

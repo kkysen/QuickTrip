@@ -1,0 +1,82 @@
+[
+  {
+    "price": 98,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "4922 Paradise Rd, Mattoon, IL, 61938 United States",
+    "distance": 16.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3850000/3844200/3844154/3844154_11_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Suite Dreams Hotel",
+    "address": "300 Broadway Avenue East, Mattoon, IL, 61938 United States",
+    "distance": 16.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15350000/15340400/15340340/15340340_4_l.jpg"
+  },
+  {
+    "price": 57,
+    "name": "Spillway Motel",
+    "address": "1295 County Highway 6, Shelbyville, IL, 62565 United States",
+    "distance": 16.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16390000/16387200/16387191/943724fe_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Motel 6 Mattoon IL",
+    "address": "4200 Lake Land Boulevard, I-57 Exit 184, Mattoon, IL, 61968 United States",
+    "distance": 17.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9420000/9415600/9415584/c2494138_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Holiday Inn Express \u0026 Suites Mattoon",
+    "address": "121 Swords Dr, Mattoon, IL, 61938 United States",
+    "distance": 17.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1860000/1850700/1850633/1850633_81_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Baymont Inn and Suites of Mattoon",
+    "address": "206 Mcfall Rd, Mattoon, IL, 61938 United States",
+    "distance": 17.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10800/10742/f0a23ab7_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Super 8 Mattoon",
+    "address": "205 Mcfall Rd, Mattoon, IL, 61938 United States",
+    "distance": 17.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/49800/49707/49707_163_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "Comfort Suites Mattoon",
+    "address": "1408 Broadway Ave E, Mattoon, IL, 61938 United States",
+    "distance": 17.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/480000/474300/474235/474235_59_l.jpg"
+  },
+  {
+    "price": 108,
+    "name": "Hampton Inn Mattoon",
+    "address": "1416 Broadway Avenue East, Mattoon, IL, 61938 United States",
+    "distance": 17.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42100/42026/42026_55_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "Comfort Inn Arcola",
+    "address": "610 E Springfield Rd, Arcola, IL, 61910 United States",
+    "distance": 18.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/520000/518200/518146/518146_32_l.jpg"
+  }
+]

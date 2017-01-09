@@ -1,0 +1,82 @@
+[
+  {
+    "price": 118,
+    "name": "Crowne Plaza Pittsburgh West-Green Tree",
+    "address": "401 Holiday Dr, Pittsburgh, PA, 15220 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21300/21265/b0072a05_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "DoubleTree by Hilton Hotel Pittsburgh - Green Tree",
+    "address": "500 Mansfield Avenue, Pittsburgh, PA, 15205 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12400/12343/12343_74_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Hampton Inn Pittsburgh Greentree",
+    "address": "555 Trumbull Dr, Pittsburgh, PA, 15205 United States",
+    "distance": 1.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18400/18384/3c62b24d_l.jpg"
+  },
+  {
+    "price": 120,
+    "name": "Holiday Inn Express \u0026 Suites Pittsburgh West - Greentree",
+    "address": "875 Greentree Road, Pittsburgh, PA, 15220 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4000/3950/3950_171_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Extended Stay America Pittsburgh - Carnegie",
+    "address": "520 N Bell Ave, Carnegie, PA, 15106 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/79500/79489/79489_45_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "Days Inn Pittsburgh PA",
+    "address": "1150 Banksville Rd, Pittsburgh, PA, 15216 United States",
+    "distance": 2.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5300/5222/5222_173_l.jpg"
+  },
+  {
+    "price": 111,
+    "name": "Comfort Inn and Suites",
+    "address": "1100 Banksville Rd., Pittsburgh, PA, 15216 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12760000/12755400/12755348/12755348_26_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Comfort Inn Pittsburgh",
+    "address": "4770 Steubenville Pike, Pittsburgh, PA, 15205 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/880000/874400/874377/874377_103_l.jpg"
+  },
+  {
+    "price": 57,
+    "name": "Hilltop Inn",
+    "address": "100 Kisow Dr, Pittsburgh, PA, 15205 United States",
+    "distance": 2.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26400/26335/26335_50_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Motel 6 Pittsburgh - Crafton",
+    "address": "211 Beecham Dr, Pittsburgh, PA, 15205 United States",
+    "distance": 2.5,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1070000/1069000/1068962/1068962_59_l.jpg"
+  }
+]

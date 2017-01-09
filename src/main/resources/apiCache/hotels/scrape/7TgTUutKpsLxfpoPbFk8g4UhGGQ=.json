@@ -1,0 +1,26 @@
+[
+  {
+    "price": 75,
+    "name": "Valley Inn",
+    "address": "2885 S Santiam Hwy, Lebanon, OR, 97335 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1630000/1627400/1627334/1627334_27_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Shanico Inn",
+    "address": "1840 Main Street, Lebanon, OR, 97355 United States",
+    "distance": 0.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9990000/9985800/9985744/9985744_6_l.jpg"
+  },
+  {
+    "price": 123,
+    "name": "Best Western Premier Boulder Falls Inn",
+    "address": "505 Mullins Drive, Lebanon, OR, 97355 United States",
+    "distance": 2.0,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10080000/10077000/10076972/5850d6f4_l.jpg"
+  }
+]

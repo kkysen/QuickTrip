@@ -1,0 +1,82 @@
+[
+  {
+    "price": 218,
+    "name": "Hyatt Place Chicago-South/University Medical Center",
+    "address": "5225 S Harper Ave, Chicago, IL, 60615 United States",
+    "distance": 4.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6060000/6059100/6059069/6059069_6_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Chicago Lake Shore Hotel",
+    "address": "4900 S Lake Shore Dr, Chicago, IL, 60615 United States",
+    "distance": 4.5,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7400/7341/abf656ff_l.jpg"
+  },
+  {
+    "price": 201,
+    "name": "La Quinta Inn \u0026 Suites Chicago - Lake Shore",
+    "address": "4900A S. Lake Shore Drive, Chicago, IL, 60615 United States",
+    "distance": 4.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9280000/9277300/9277286/d8e97371_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Amber Inn",
+    "address": "3901 S. Michigan Ave., Chicago, IL, 60653 United States",
+    "distance": 5.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3660000/3657500/3657476/3657476_23_l.jpg"
+  },
+  {
+    "price": 111,
+    "name": "Best Western Inn \u0026 Suites - Midway Airport",
+    "address": "8220 S Cicero Ave, Burbank, IL, 60459 United States",
+    "distance": 5.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/520000/517500/517495/517495_150_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Quality Inn Midway Airport",
+    "address": "7353 S Cicero Avenue, Chicago, IL, 60629 United States",
+    "distance": 5.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2200/2190/cf048ae4_l.jpg"
+  },
+  {
+    "price": 126,
+    "name": "Sleep Inn Midway Airport Bedford Park",
+    "address": "6650 S Cicero Ave, Chicago, IL, 60638 United States",
+    "distance": 5.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27900/27873/27873_53_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Carlton Inn Midway",
+    "address": "4944 S Archer Ave, Chicago, IL, 60632 United States",
+    "distance": 5.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2950000/2949200/2949171/ce687edd_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Extended Stay America Chicago - Midway",
+    "address": "7524 State Rd, Bedford Park, Chicago, IL, 60638 United States",
+    "distance": 5.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/970000/969600/969522/969522_25_l.jpg"
+  },
+  {
+    "price": 161,
+    "name": "Hyatt Place Chicago Midway Airport",
+    "address": "6550 S Cicero Ave, Chicago, IL, 60638 United States",
+    "distance": 5.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9740000/9735000/9734905/9734905_35_l.jpg"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "price": 129,
+    "name": "Smithfield Station",
+    "address": "415 South Church Street, Smithfield, VA, 23430 United States",
+    "distance": 2.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3110000/3105600/3105529/3105529_76_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Hampton Inn Suites Smithfield",
+    "address": "200 Vincents Xing, Smithfield, VA, 23430 United States",
+    "distance": 4.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2490000/2484800/2484715/2484715_44_l.jpg"
+  }
+]

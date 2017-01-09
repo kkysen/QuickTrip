@@ -1,0 +1,66 @@
+[
+  {
+    "price": 129,
+    "name": "Murray Hotel",
+    "address": "201 W Park St, Livingston, MT, 59047 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8120000/8116500/8116451/8116451_1_l.jpg"
+  },
+  {
+    "price": 49,
+    "name": "Country Motor Inn",
+    "address": "814 East Park Street, Livingston, MT, 59047 United States",
+    "distance": 0.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4930000/4928400/4928334/17b1b678_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Yellowstone Pioneer Lodge",
+    "address": "1515 W Park St, Livingston, MT, 59047 United States",
+    "distance": 1.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/63100/63069/63069_80_l.jpg"
+  },
+  {
+    "price": 48,
+    "name": "Quality Inn Livingston",
+    "address": "111 Rogers Ln, Livingston, MT, 59047 United States",
+    "distance": 1.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/117300/117290/117290_48_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Super 8 Livingston",
+    "address": "105 Centennial Dr, Livingston, MT, 59047-1385 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459900/459869/bc76193a_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Comfort Inn Livingston",
+    "address": "114 Loves Ln, Livingston, MT, 59047 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14500/14469/14469_59_l.jpg"
+  },
+  {
+    "price": 259,
+    "name": "Erik\u0027s Ranch in Montana",
+    "address": "144 North Dry Creek Road, Livingston, MT, 59027 United States",
+    "distance": 15.0,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9840000/9838500/9838451/9838451_5_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Yellowstone Valley Lodge, an Ascend Hotel Collection Member",
+    "address": "3840 US Highway 89 South, Livingston, MT, 59047 United States",
+    "distance": 16.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4510000/4501700/4501686/4501686_20_l.jpg"
+  }
+]

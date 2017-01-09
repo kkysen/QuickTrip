@@ -1,0 +1,82 @@
+[
+  {
+    "price": 148,
+    "name": "Residence Inn by Marriott Boulder Louisville",
+    "address": "845 Coal Creek Cir, Louisville, CO, 80027 United States",
+    "distance": 1.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/456800/456783/9302f462_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "La Quinta Inn \u0026 Suites Denver Boulder - Louisville",
+    "address": "902 W Dillon Rd, Louisville, CO, 80027 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/59200/59199/7c4b1f29_l.jpg"
+  },
+  {
+    "price": 108,
+    "name": "Courtyard Boulder - Louisville by Marriott",
+    "address": "948 West Dillon Road, Louisville, CO, 80027 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41900/41837/41837_48_l.jpg"
+  },
+  {
+    "price": 124,
+    "name": "Hampton Inn Boulder - Louisville",
+    "address": "912 W. Dillon Road, Louisville, CO, 80027 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41900/41828/41828_24_l.jpg"
+  },
+  {
+    "price": 128,
+    "name": "Best Western Plus Louisville Inn \u0026 Suites",
+    "address": "960 W Dillon Rd, Louisville, CO, 80027 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/426300/426210/54197983_l.jpg"
+  },
+  {
+    "price": 249,
+    "name": "Renaissance Boulder FlatIron Hotel",
+    "address": "500 Flatiron Blvd, Broomfield, CO, 80021 United States",
+    "distance": 1.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/891300/891250/7e7ab0b1_l.jpg"
+  },
+  {
+    "price": 124,
+    "name": "TownePlace Suites by Marriott Boulder Broomfield",
+    "address": "480 Flatirons Blvd, Broomfield, CO, 80021 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/560000/554900/554819/554819_44_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Quality Inn Louisville - Boulder",
+    "address": "1196 Dillon Rd., Louisville, CO, 80027 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41900/41836/41836_138_l.jpg"
+  },
+  {
+    "price": 145,
+    "name": "Holiday Inn Express and Suites Broomfield",
+    "address": "11401 Via Varra, Broomfield, CO, 80020 United States",
+    "distance": 1.9,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15920000/15914000/15913929/fd9f3550_l.jpg"
+  },
+  {
+    "price": 161,
+    "name": "HYATT house Boulder/Broomfield",
+    "address": "13351 W Midway Blvd, Broomfield, CO, 80020 United States",
+    "distance": 2.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3640000/3635200/3635133/3635133_45_l.jpg"
+  }
+]

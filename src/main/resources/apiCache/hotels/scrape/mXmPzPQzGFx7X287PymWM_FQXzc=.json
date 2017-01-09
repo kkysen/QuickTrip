@@ -1,0 +1,26 @@
+[
+  {
+    "price": 74,
+    "name": "Extended Stay America Chicago - Hillside",
+    "address": "4575 Frontage Rd, Hillside, IL, 60162 United States",
+    "distance": 0.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/425300/425216/fccd169a_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Best Western Plus Chicago Hillside",
+    "address": "4400 Frontage Road, Hillside, IL, 60162 United States",
+    "distance": 0.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16900/16890/8d320fc8_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Chicago West-O\u0027hare Arpt",
+    "address": "200 S Mannheim Road, Hillside, IL, 60162 United States",
+    "distance": 1.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2370000/2363600/2363526/2363526_148_l.jpg"
+  }
+]

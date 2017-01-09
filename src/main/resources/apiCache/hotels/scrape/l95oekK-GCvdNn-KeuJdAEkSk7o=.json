@@ -1,0 +1,82 @@
+[
+  {
+    "price": 210,
+    "name": "Menlo Park Inn",
+    "address": "1315 El Camino Real, Menlo Park, CA, 94025 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/890000/887400/887333/887333_25_l.jpg"
+  },
+  {
+    "price": 334,
+    "name": "Residence Inn Palo Alto Menlo Park",
+    "address": "555 Glenwood Avenue, Menlo Park, CA, 94025 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9500000/9494400/9494369/9494369_111_l.jpg"
+  },
+  {
+    "price": 184,
+    "name": "Best Western Plus Executive Suites",
+    "address": "25 5th Ave, Redwood City, CA, 94063 United States",
+    "distance": 1.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11300/11244/11244_144_l.jpg"
+  },
+  {
+    "price": 280,
+    "name": "Atherton Park Inn \u0026 Suites",
+    "address": "2834 El Camino Real, Redwood City, CA, 94061 United States",
+    "distance": 1.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6200/6165/6165_133_l.jpg"
+  },
+  {
+    "price": 214,
+    "name": "Hotel Lucent",
+    "address": "727 El Camino Real, Menlo Park, CA, 94025 United States",
+    "distance": 1.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11480000/11477000/11476991/11476991_52_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Days Inn Redwood City",
+    "address": "2650 El Camino Real, Redwood City, CA, 94061 United States",
+    "distance": 1.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41600/41600/6348802b_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Pacific Inn of Redwood City",
+    "address": "2610 El Camino Real, Redwood City, CA, 94061 United States",
+    "distance": 1.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/180000/170300/170205/170205_82_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Budget Inn Redwood City",
+    "address": "2526 El Camino Real, Redwood City, CA, 94061 United States",
+    "distance": 1.6,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/918800/918796/918796_33_l.jpg"
+  },
+  {
+    "price": 194,
+    "name": "Stanford Inn - Stanford Univ/ Medical Center",
+    "address": "115 El Camino Real, Menlo Park, CA, 94025 United States",
+    "distance": 1.7,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3420000/3414400/3414357/3414357_13_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Capri Motel",
+    "address": "2380 El Camino Real, Redwood City, CA, 94063 United States",
+    "distance": 1.7,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16430000/16427700/16427695/0ccece0e_l.jpg"
+  }
+]

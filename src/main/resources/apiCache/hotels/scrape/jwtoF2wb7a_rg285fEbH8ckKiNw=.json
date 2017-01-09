@@ -1,0 +1,82 @@
+[
+  {
+    "price": 141,
+    "name": "Staybridge Suites - Louisville - East",
+    "address": "11711 Gateworth Way, Louisville, KY, 40299 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/610000/603300/603256/603256_183_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "WoodSpring Suites Louisville Jeffersontown",
+    "address": "1201 Kentucky Mills Drive, Louisville, KY, 40299 United States",
+    "distance": 1.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11080000/11078000/11077956/b88c6cb1_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Hampton Inn Suites Louisville East",
+    "address": "1451 Alliant Ave, Louisville, KY, 40299 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1480000/1478200/1478190/1478190_32_l.jpg"
+  },
+  {
+    "price": 82,
+    "name": "Wingate by Wyndham Louisville East",
+    "address": "12301 Alliant Ct, Louisville, KY, 40299 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1500000/1499600/1499561/1499561_93_l.jpg"
+  },
+  {
+    "price": 82,
+    "name": "Microtel Inn by Wyndham Louisville East",
+    "address": "1221 Kentucky Mills Drive, Louisville, KY, 40299 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/119400/119314/a29e2fe2_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "La Quinta Inn \u0026 Suites Louisville",
+    "address": "1501 Alliant Avenue, Louisville, KY, 40299 United States",
+    "distance": 2.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/892900/892811/6e0b0b24_l.jpg"
+  },
+  {
+    "price": 130,
+    "name": "Hilton Garden Inn Louisville East",
+    "address": "1530 Alliant Ave, Louisville, KY, 40299 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/220000/213100/213038/213038_36_l.jpg"
+  },
+  {
+    "price": 166,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Louisville East",
+    "address": "1220 Kentucky Mills Drive, Louisville, KY, 40299 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2590000/2589500/2589455/7fe54210_l.jpg"
+  },
+  {
+    "price": 162,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Louisville East",
+    "address": "1620 Alliant Ave, Louisville, KY, 40299 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/533300/533262/533262_134_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "Extended Stay America - Louisville - Alliant Avenue",
+    "address": "1650 Alliant Avenue, Louisville, KY, 40299 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/110000/104400/104344/104344_56_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 156,
+    "name": "Extended Stay America Seattle - Bothell - West",
+    "address": "923 228th St Se, Bothell, WA, 98021 United States",
+    "distance": 2.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/670000/662100/662013/662013_48_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "Holiday Inn Express Bothell",
+    "address": "22922 15th Ave Se, Bothell, WA, 98021 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/864000/863975/863975_292_l.jpg"
+  },
+  {
+    "price": 143,
+    "name": "Comfort Inn Bothell - Seattle North",
+    "address": "1414 228th Street SE, Bothell, WA, 98021 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28000/27970/27970_140_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Country Inn \u0026 Suites By Carlson, Bothell, WA",
+    "address": "19333 N Creek Pkwy, Bothell, WA, 98011 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20200/20110/20110_18_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Hilton Garden Inn Seattle Bothell",
+    "address": "22600 Bothell Everett Hwy, Bothell, WA, 98021 United States",
+    "distance": 3.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3150000/3145400/3145304/3145304_6_l.jpg"
+  },
+  {
+    "price": 279,
+    "name": "Residence Inn by Marriott Seattle Northeast-Bothell",
+    "address": "11920 Ne 195th St, Bothell, WA, 98011 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11700/11690/11690_42_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Extended Stay America - Seattle - Bothell - Canyon Park",
+    "address": "22122 17th Ave Se, Bothell, WA, 98021 United States",
+    "distance": 3.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/340000/330300/330299/330299_85_l.jpg"
+  },
+  {
+    "price": 170,
+    "name": "Red Lion Inn \u0026 Suites Bothell",
+    "address": "3850 Monte Villa Pkwy, Bothell, WA, 98021 United States",
+    "distance": 3.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/450000/447800/447788/447788_109_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "Studio 6 Seattle - Mountlake Terrace",
+    "address": "6017 244th Street Southwest, Mountlake Terrace, WA, 98043 United States",
+    "distance": 3.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/126200/126123/126123_17_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Courtyard by Marriott Seattle Kirkland",
+    "address": "11215 NE 124th St, Kirkland, WA, 98034 United States",
+    "distance": 4.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1510000/1503700/1503685/999508b3_l.jpg"
+  }
+]

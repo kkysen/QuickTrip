@@ -1,0 +1,82 @@
+[
+  {
+    "price": 51,
+    "name": "Super 8 Marietta",
+    "address": "46 Acme St Washington Centre, I-77/Exit 1/Rt 7W to 1st Light, Marietta, OH, 45750 United States",
+    "distance": 1.2,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459600/459585/b9710e72_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Hampton Inn Marietta",
+    "address": "508 Pike St, Marietta, OH, 45750 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/660000/658700/658669/658669_42_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Marietta",
+    "address": "506 Pike Street, Marietta, OH, 45750 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/123900/123877/123877_52_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Best Western Plus Marietta Hotel",
+    "address": "701 Pike St, Marietta, OH, 45750 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18600/18502/18502_120_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Quality Inn",
+    "address": "700 Pike St, Marietta, OH, 45750 United States",
+    "distance": 1.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10600/10560/10560_107_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Red Roof Inn Marietta",
+    "address": "702 Pike Street, Marietta, OH, 45750 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20300/20212/20212_25_l.jpg"
+  },
+  {
+    "price": 123,
+    "name": "Holiday Inn Express \u0026 Suites Marietta",
+    "address": "970 Pike St, Marietta, OH, 45750 United States",
+    "distance": 1.8,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15870000/15864800/15864709/3cd1e514_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Comfort Suites Marietta",
+    "address": "202 Cherry Tree Lane, Marietta, OH, 45750 United States",
+    "distance": 1.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6790000/6783700/6783689/6783689_58_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "The Lafayette A grand Riverboat Era Hotel",
+    "address": "101 Front St, Marietta, OH, 45750 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40200/40137/40137_50_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Fairfield Inn \u0026 Suites Marietta",
+    "address": "200 Cherry Tree Ln, Marietta, OH, 45750 United States",
+    "distance": 1.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4830000/4821700/4821657/39e1d075_l.jpg"
+  }
+]

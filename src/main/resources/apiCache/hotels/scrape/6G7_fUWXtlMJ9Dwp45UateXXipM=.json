@@ -1,0 +1,82 @@
+[
+  {
+    "price": 72,
+    "name": "Days Inn Florence Cincinnati Area",
+    "address": "50 Cavalier Blvd, Florence, KY, 41042 United States",
+    "distance": 0.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16600/16567/16567_109_l.jpg"
+  },
+  {
+    "price": 130,
+    "name": "Courtyard by Marriott Cincinnati Airport South/Florence",
+    "address": "46 Cavalier Blvd, Florence, KY, 41042 United States",
+    "distance": 0.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26400/26314/0f2997a1_l.jpg"
+  },
+  {
+    "price": 44,
+    "name": "WoodSpring Suites Cincinnati Airport Florence",
+    "address": "40 Cavalier Blvd, Florence, KY, 41042-1645 United States",
+    "distance": 0.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2420000/2411700/2411637/b01b7da9_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "30 Cavalier Court, Florence, KY, 41042 United States",
+    "distance": 0.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23500/23466/8c6bccb6_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Americas Best Value Inn - Florence/Cincinnati",
+    "address": "7810 Commerce Dr, Florence, KY, 41042 United States",
+    "distance": 0.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/670000/664500/664452/664452_103_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Florence/Cincinnati Airport",
+    "address": "7490 Woodspoint Dr, Florence, KY, 41042 United States",
+    "distance": 0.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/890000/887000/886904/ddf2278a_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "La Quinta Inn \u0026 Suites Cincinnati Airport/Florence",
+    "address": "350 Meijer Drive, Florence, KY, 41042 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1430000/1422500/1422429/9b9aebc8_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Wildwood Inn Tropical Dome \u0026 Theme Suites",
+    "address": "7809 Us 42, Florence, KY, 41042 United States",
+    "distance": 0.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/904900/904825/904825_314_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Extended Stay America - Cincinnati - Florence - Meijer Drive",
+    "address": "200 Meijer Drive, Florence, KY, 41042 United States",
+    "distance": 0.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40400/40321/40321_38_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "Hyatt Place Cincinnati Airport / Florence",
+    "address": "300 Meijer Dr, Florence, KY, 41042 United States",
+    "distance": 0.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/67800/67750/67750_77_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 112,
+    "name": "Comfort Suites Grand Rapids North",
+    "address": "350 Dodge St, Comstock Park, MI, 49321 United States",
+    "distance": 10.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1320000/1312500/1312445/1312445_96_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "Americinn Greenville",
+    "address": "2525 W. Washington, Greenville, MI, 48838 United States",
+    "distance": 11.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1620000/1612900/1612870/22250b9e_l.jpg"
+  },
+  {
+    "price": 136,
+    "name": "Country Inn \u0026 Suites By Carlson, Grand Rapids East, MI",
+    "address": "3251 Deposit Dr, Grand Rapids, MI, 49546 United States",
+    "distance": 12.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1660000/1652900/1652829/1652829_60_l.jpg"
+  },
+  {
+    "price": 154,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Grand Rapids-North",
+    "address": "358 River Ridge Dr, Walker, MI, 49544 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/892300/892223/be256bb1_l.jpg"
+  },
+  {
+    "price": 166,
+    "name": "SpringHill Suites by Marriott Grand Rapids North",
+    "address": "450 N Center Dr Nw, Walker, MI, 49544 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/894300/894238/fdbc9116_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Hampton Inn Grand Rapids North",
+    "address": "500 Center Dr NW, Grand Rapids, MI, 49544 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/151300/151213/510cf74b_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "The Winter Inn",
+    "address": "100 N. Lafayette, Greenville, MI, 48838 United States",
+    "distance": 13.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12620000/12612000/12611930/12611930_18_l.jpg"
+  },
+  {
+    "price": 158,
+    "name": "Hampton Inn \u0026 Suites Grand Rapids Downtown",
+    "address": "433 Dudley Place NE, Grand Rapids, MI, 49503 United States",
+    "distance": 14.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12670000/12667000/12666936/ae217400_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Baymont Inn \u0026 Suites Grand Rapids North",
+    "address": "2151 Holton Court NW, Walker, MI, 49544 United States",
+    "distance": 14.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/700000/695000/694945/b4254208_l.jpg"
+  },
+  {
+    "price": 178,
+    "name": "Homewood Suites by Hilton Grand Rapids Downtown",
+    "address": "161 Ottawa Avenue N.W., Grand Rapids, MI, 49503 United States",
+    "distance": 14.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12790000/12786700/12786623/1db23929_l.jpg"
+  }
+]

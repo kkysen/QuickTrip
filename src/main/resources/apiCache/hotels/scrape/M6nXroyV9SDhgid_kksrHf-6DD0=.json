@@ -1,0 +1,18 @@
+[
+  {
+    "price": 84,
+    "name": "Sleep Inn \u0026 Suites",
+    "address": "2295 Cobbs Ford Road, Millbrook, AL, 36054 United States",
+    "distance": 1.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1740000/1737600/1737549/1737549_87_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Key West Inn Millbrook",
+    "address": "2275 Cobbs Ford Rd, Millbrook, AL, 36054 United States",
+    "distance": 1.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1130000/1126000/1125968/1125968_1_l.jpg"
+  }
+]

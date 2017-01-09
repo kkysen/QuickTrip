@@ -1,0 +1,26 @@
+[
+  {
+    "price": 58,
+    "name": "Americas Best Value Inn",
+    "address": "1114 West Main Street, Cabot, AR, 72023 United States",
+    "distance": 2.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20800/20787/5274d96c_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Super 8 Cabot",
+    "address": "15 Ryeland Drive, Hwy 67/167 Exit #19, Cabot, AR, 72023 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856200/856103/856103_37_l.jpg"
+  },
+  {
+    "price": 82,
+    "name": "Days Inn and Suites Cabot",
+    "address": "1302 W Locust St, Cabot, AR, 72023 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2820000/2813100/2813081/2813081_73_l.jpg"
+  }
+]

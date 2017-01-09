@@ -1,0 +1,50 @@
+[
+  {
+    "price": 58,
+    "name": "The Inn at Boynton Beach",
+    "address": "480 W Boynton Beach Blvd, Boynton Beach, FL, 33435 United States",
+    "distance": 0.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13900/13881/13881_86_l.jpg"
+  },
+  {
+    "price": 191,
+    "name": "Holiday Inn Express \u0026 Suites Boynton Beach East",
+    "address": "2001 Ocean Drive, Boynton Beach, FL, 33426 United States",
+    "distance": 1.6,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13180000/13179700/13179636/13179636_12_l.jpg"
+  },
+  {
+    "price": 57,
+    "name": "Homing Inn",
+    "address": "2821 S Federal Hwy, Boynton Beach, FL, 33435 United States",
+    "distance": 1.7,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/200000/197800/197786/197786_36_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "Hampton Inn \u0026 Suites Boynton Beach",
+    "address": "1475 Gateway Blvd, Boynton Beach, FL, 33426 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/68000/67960/67960_43_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Courtyard by Marriott Boynton Beach",
+    "address": "1601 N Congress Avenue, Boynton Beach, FL, 33426 United States",
+    "distance": 2.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2300/2232/2232_43_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "TownePlace Suites By Marriott Boynton Beach",
+    "address": "2450 Quantum Boulevard, Boynton Beach, FL, 33426 United States",
+    "distance": 2.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14710000/14700600/14700523/14700523_50_l.jpg"
+  }
+]

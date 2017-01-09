@@ -1,0 +1,82 @@
+[
+  {
+    "price": 30,
+    "name": "Melrose Hotel",
+    "address": "337 Colorado Ave, Grand Junction, CO, 81501 United States",
+    "distance": 0.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9330000/9325300/9325254/9325254_2_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "SpringHill Suites Grand Junction Downtown/Historic Main St.",
+    "address": "236 Main St, Grand Junction, CO, 81501 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4330000/4323600/4323538/4323538_37_l.jpg"
+  },
+  {
+    "price": 164,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Grand Junction Downtown",
+    "address": "225 Main Street, Grand Junction, CO, 81501 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/543800/543731/4680f5d5_l.jpg"
+  },
+  {
+    "price": 189,
+    "name": "Hampton Inn Grand Junction Downtown/Historic Main Street",
+    "address": "205 Main St, Grand Junction, CO, 81501 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/915700/915633/915633_24_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Knights Inn Grand Junction",
+    "address": "141 N First Street, Grand Junction, CO, 81501 United States",
+    "distance": 0.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1790000/1787900/1787857/6cec822c_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Mesa Inn",
+    "address": "704 Horizon Dr, Grand Junction, CO, 81506 United States",
+    "distance": 2.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/151100/151008/151008_53_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Days Inn Grand Junction",
+    "address": "708 Horizon Dr, Grand Junction, CO, 81506 United States",
+    "distance": 3.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14000/13962/13962_268_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Travelodge Grand Junction",
+    "address": "718 Horizon Dr, Grand Junction, CO, 81506 United States",
+    "distance": 3.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/894300/894220/894220_12_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Candlewood Suites Grand Junction",
+    "address": "654 Market St, Grand Junction, CO, 81505 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3980000/3970800/3970787/3970787_85_l.jpg"
+  },
+  {
+    "price": 144,
+    "name": "Holiday Inn Express \u0026 Suites Grand Junction",
+    "address": "625 Rae Lynn St, Grand Junction, CO, 81505 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/912000/911982/a90e5c2c_l.jpg"
+  }
+]

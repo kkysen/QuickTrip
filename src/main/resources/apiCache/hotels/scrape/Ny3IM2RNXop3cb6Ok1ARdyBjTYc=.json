@@ -1,0 +1,82 @@
+[
+  {
+    "price": 91,
+    "name": "Holiday Inn Express Vernal-Dinosaurland",
+    "address": "1515 Highway 40, Vernal, UT, 84078 United States",
+    "distance": 1.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1700000/1691200/1691122/1691122_145_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Quality Inn",
+    "address": "1684 West Hwy 40, Vernal, UT, 84078 United States",
+    "distance": 1.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8680000/8679800/8679737/8679737_54_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "TownePlace Suites by Marriott Vernal",
+    "address": "1219 West Highway 40, Vernal, UT, 84078 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5470000/5468500/5468408/5468408_42_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "SpringHill Suites by Marriott Vernal",
+    "address": "1205 W Highway 40, Vernal, UT, 84078 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2920000/2917600/2917543/2917543_71_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Days Inn Vernal",
+    "address": "1092 W Highway 40, Vernal, UT, 84078 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1040000/1037800/1037732/23146bef_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Comfort Inn \u0026 Suites",
+    "address": "2500 West 1500 South, Vernal, UT, 84078 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9680000/9678200/9678145/5cfc9829_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Ledgestone Hotel Vernal",
+    "address": "679 West Main Street, Vernal, UT, 84078 United States",
+    "distance": 1.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10430000/10423900/10423868/10423868_14_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Motel 6 Vernal",
+    "address": "590 W Main St, Vernal, UT, 84078 United States",
+    "distance": 1.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2500/2423/2423_20_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "Best Western Antlers",
+    "address": "423 W Main Street, Vernal, UT, 84078 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8100/8031/8031_95_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Sage Motel",
+    "address": "54 W Main St, Vernal, UT, 84078 United States",
+    "distance": 1.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2900000/2900000/2899910/2899910_1_l.jpg"
+  }
+]

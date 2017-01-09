@@ -1,0 +1,82 @@
+[
+  {
+    "price": 87,
+    "name": "Motel 6 Pompano Beach",
+    "address": "1201 NW 31st Avenue, Pompano Beach, FL, 33069 United States",
+    "distance": 2.1,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1030000/1029900/1029898/1029898_31_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Budgetel Pompano Beach",
+    "address": "1411 NW 31st Ave, Pompano Beach, FL, 33069 United States",
+    "distance": 2.1,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24900/24877/24877_51_l.jpg"
+  },
+  {
+    "price": 312,
+    "name": "Wyndham Palm-Aire",
+    "address": "2601 N Palm Aire Dr, Pompano Beach, FL, 33069 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19800/19798/19798_80_l.jpg"
+  },
+  {
+    "price": 207,
+    "name": "Courtyard by Marriott Fort Lauderdale North/Cypress Creek",
+    "address": "2440 West Cypress Creek Road, Fort Lauderdale, FL, 33309 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4000/3901/112728d1_l.jpg"
+  },
+  {
+    "price": 161,
+    "name": "Towneplace Suites by Marriott Ft Lauderdale West",
+    "address": "3100 W Prospect Rd, Fort Lauderdale, FL, 33309 United States",
+    "distance": 3.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/457300/457275/457275_89_l.jpg"
+  },
+  {
+    "price": 189,
+    "name": "Courtyard By Marriott Fort Lauderdale Coral Springs",
+    "address": "620 North University Drive, Coral Springs, FL, 33071 United States",
+    "distance": 3.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/455600/455567/455567_79_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "La Quinta Inn \u0026 Suites Coral Springs South",
+    "address": "3100 N University Dr, Coral Springs, FL, 33065 United States",
+    "distance": 3.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4300/4284/d0e6211c_l.jpg"
+  },
+  {
+    "price": 160,
+    "name": "La Quinta Inn \u0026 Suites Coral Springs University Drive",
+    "address": "3701 University Drive, Coral Springs, FL, 33065 United States",
+    "distance": 3.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26200/26172/22c1594f_l.jpg"
+  },
+  {
+    "price": 210,
+    "name": "Hampton Inn Commercial Boulevard Fort Lauderdale",
+    "address": "4499 W Commercial Blvd, Tamarac, FL, 33319 United States",
+    "distance": 3.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/535600/535509/535509_58_l.jpg"
+  },
+  {
+    "price": 163,
+    "name": "La Quinta Inn \u0026 Suites Ft. Lauderdale Cypress Creek",
+    "address": "999 W Cypress Creek Rd, Fort Lauderdale, FL, 33309 United States",
+    "distance": 3.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28200/28137/bbac1ced_l.jpg"
+  }
+]

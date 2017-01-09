@@ -1,0 +1,82 @@
+[
+  {
+    "price": 109,
+    "name": "Hampton Inn ToledoSouth/Maumee",
+    "address": "1409 Reynolds Rd, Maumee, OH, 43537 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7600/7544/7544_60_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Comfort Inn Maumee - Perrysburgh Area",
+    "address": "1426 S. Reynolds Rd., Maumee, OH, 43537 United States",
+    "distance": 1.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8900/8868/8868_98_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Americas Best Value Inn",
+    "address": "150 Dussel Dr, Maumee, OH, 43537 United States",
+    "distance": 1.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16600/16544/16544_62_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Budget Inn Toledo Maumee",
+    "address": "156 Dussel Dr, Maumee, OH, 43537 United States",
+    "distance": 1.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4050000/4040100/4040011/4040011_12_l.jpg"
+  },
+  {
+    "price": 173,
+    "name": "Courtyard by Marriott Maumee",
+    "address": "415 W Dussel Dr, Maumee, OH, 43537 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/100000/99900/99861/99861_22_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Red Roof Inn Toledo Maumee",
+    "address": "1570 Reynolds Road, Maumee, OH, 43537 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22800/22741/22741_64_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Holiday Inn Toledo-Maumee (I-80/90)",
+    "address": "1705 Tollgate Drive, Maumee, OH, 43537 United States",
+    "distance": 1.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1730000/1723200/1723188/1723188_152_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Days Inn Maumee/Toledo",
+    "address": "1704 Toll Gate Dr, Maumee, OH, 43537 United States",
+    "distance": 2.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/892900/892817/b261098f_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Comfort Inn \u0026 Suites Maumee - Toledo (I80-90)",
+    "address": "1702 Toll Gate Dr, Maumee, OH, 43537 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/117200/117105/117105_66_l.jpg"
+  },
+  {
+    "price": 121,
+    "name": "Fairfield Inn \u0026 Suites Toledo Maumee",
+    "address": "521 West Dussel Drive, Maumee, OH, 43537 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/40000/39938/39938_57_l.jpg"
+  }
+]

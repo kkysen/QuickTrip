@@ -1,0 +1,66 @@
+[
+  {
+    "price": 94,
+    "name": "La Quinta Inn \u0026 Suites Claremore",
+    "address": "774 S Lynn Riggs Blvd, Claremore, OK, 74017 United States",
+    "distance": 0.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10920000/10914800/10914774/35c36fbe_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Will Rogers Hotel",
+    "address": "940 S Lynn Riggs Blvd, Claremore, OK, 74017 United States",
+    "distance": 1.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16700/16675/79f08a94_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Super 8 Claremore OK",
+    "address": "1100 East Will Roger Blvd, I-44 Trunpike Exit 255 (HWY20), Claremore, OK, 74017 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/892800/892799/892799_39_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Claremore Motor Inn",
+    "address": "1709 N Lynn Riggs Blvd, Claremore, OK, 74017 United States",
+    "distance": 1.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2210000/2206400/2206334/2206334_30_l.jpg"
+  },
+  {
+    "price": 82,
+    "name": "Holiday Inn Express \u0026 Suites Tulsa NE - Claremore",
+    "address": "1400 Country Club Drive, Claremore, OK, 74017 United States",
+    "distance": 1.5,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9510000/9509600/9509587/9509587_190_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Quality Inn",
+    "address": "1720 South Lynn Riggs Blvd., Claremore, OK, 74019 United States",
+    "distance": 1.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27400/27334/85cf5d48_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Hampton Inn and Suites Claremore OK",
+    "address": "1811 S. Scissortail Avenue, Claremore, OK, 74017 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11900000/11895200/11895163/11895163_3_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Claremore",
+    "address": "10600 E Mallard Lake Rd, Claremore, OK, 74017 United States",
+    "distance": 2.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/810000/801800/801776/ee3fffcd_l.jpg"
+  }
+]

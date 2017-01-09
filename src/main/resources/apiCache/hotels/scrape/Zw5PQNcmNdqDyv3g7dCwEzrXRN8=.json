@@ -1,0 +1,66 @@
+[
+  {
+    "price": 137,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Buford-Mall of Georgia",
+    "address": "2499 Satellite Blvd., Buford, GA, 30518 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/895800/895779/895779_149_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Holiday Inn Express \u0026 Suites Buford NE - Lake Lanier Area",
+    "address": "4951 Bristol Industrial Way, Buford, GA, 30518 United States",
+    "distance": 3.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1750000/1746300/1746273/1746273_104_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "SpringHill Suites by Marriott Atlanta Buford",
+    "address": "3250 Buford Dr, Buford, GA, 30519 United States",
+    "distance": 3.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/810000/803000/802991/802991_108_l.jpg"
+  },
+  {
+    "price": 152,
+    "name": "Hampton Inn Atlanta-Mall of Georgia",
+    "address": "3240 Buford Drive, Buford, GA, 30519 United States",
+    "distance": 3.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/424900/424885/424885_86_l.jpg"
+  },
+  {
+    "price": 189,
+    "name": "Lanier Islands Legacy Lodge",
+    "address": "7000 Lanier Islands Parkway, Buford, GA, 30518 United States",
+    "distance": 4.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23300/23247/23247_46_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Courtyard by Marriott Atlanta Buford Mall of Georgia",
+    "address": "1405 Mall of Georgia Boulevard, Buford, GA, 30519 United States",
+    "distance": 4.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2570000/2566600/2566535/2566535_44_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "Country Inn \u0026 Suites By Carlson-Buford at Mall of Georgia",
+    "address": "1395 Mall of Georgia Boulevard, Buford, GA, 30519 United States",
+    "distance": 4.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/899300/899267/899267_106_l.jpg"
+  },
+  {
+    "price": 111,
+    "name": "Fairfield Inn \u0026 Suites Atlanta Buford / Mall of Georgia",
+    "address": "1355 Mall of Georgia Boulevard, Buford, GA, 30519 United States",
+    "distance": 4.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12620000/12613100/12613045/12613045_33_l.jpg"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "price": 115,
+    "name": "Holiday Inn Southgate (Detroit-South)",
+    "address": "17201 Northline Road, Southgate, MI, 48195 United States",
+    "distance": 0.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2600/2508/1252e30d_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Hampton Inn Detroit/Southgate",
+    "address": "13555 Prechter Blvd, Southgate, MI, 48195 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6920000/6916400/6916396/607880ef_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Motel 6 Detroit - Southgate",
+    "address": "18777 Northline Rd, Southgate, MI, 48195 United States",
+    "distance": 1.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/690000/687800/687711/12a323dd_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Comfort Suites Southgate",
+    "address": "18950 Northline Rd, Southgate, MI, 48195 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/796300/796229/796229_75_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "La Quinta Inn Detroit/Southgate",
+    "address": "12888 Reeck Rd, (782), Southgate, MI, 48195 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/50000/49999/2f491244_l.jpg"
+  }
+]

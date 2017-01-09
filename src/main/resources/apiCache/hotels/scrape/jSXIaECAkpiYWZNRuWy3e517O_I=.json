@@ -1,0 +1,82 @@
+[
+  {
+    "price": 140,
+    "name": "Town and Country Inn \u0026 Resort",
+    "address": "20 State Route 2, Gorham, NH, 03581 United States",
+    "distance": 7.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1280000/1273800/1273730/1273730_82_l.jpg"
+  },
+  {
+    "price": 82,
+    "name": "Mount Jefferson View",
+    "address": "1322 U.S. Route 2, Randolph, NH, 03593 United States",
+    "distance": 8.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8400000/8398300/8398229/2641b270_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "Cabot Inn \u0026 Suites",
+    "address": "200 Portland Street, Lancaster, NH, 03584 United States",
+    "distance": 14.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1510000/1509700/1509669/9ce4b9a5_l.jpg"
+  },
+  {
+    "price": 262,
+    "name": "Mountain View Grand Resort \u0026 Spa",
+    "address": "101 Mountain View Rd, Whitefield, NH, 03598 United States",
+    "distance": 16.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1070000/1069000/1068947/1068947_118_l.jpg"
+  },
+  {
+    "price": 469,
+    "name": "Omni Mount Washington Resort",
+    "address": "310 Mt Washington Hotel Rd, Bretton Woods, NH, 03575 United States",
+    "distance": 17.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2510000/2504500/2504470/2504470_146_l.jpg"
+  },
+  {
+    "price": 449,
+    "name": "Omni Bretton Arms Inn at Mount Washington",
+    "address": "173 Mount Washington Road, Bretton Woods, NH, 03575 United States",
+    "distance": 17.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1050000/1044200/1044194/1044194_86_l.jpg"
+  },
+  {
+    "price": 219,
+    "name": "The Lodge at Bretton Woods",
+    "address": "2653 Route 302 East, Bretton Woods, NH, 03575 United States",
+    "distance": 17.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/893600/893599/893599_81_l.jpg"
+  },
+  {
+    "price": 756,
+    "name": "Townhomes at Bretton Woods",
+    "address": "2653 Route 302 East, C.O. The Lodge, Bretton Woods, NH, 03575 United States",
+    "distance": 17.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1050000/1044200/1044196/1044196_41_l.jpg"
+  },
+  {
+    "price": 148,
+    "name": "Eagle Mountain House \u0026 Golf Club",
+    "address": "179 Carter Notch Rd, Jackson, NH, 03846 United States",
+    "distance": 21.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1500000/1497800/1497741/1497741_65_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Evergreen Valley",
+    "address": "82 Mountain Road, Stoneham, ME, 04231 United States",
+    "distance": 22.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5420000/5413100/5413034/5413034_2_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 50,
+    "name": "Econo Lodge Inn Suites Yreka",
+    "address": "526 S Main St, Yreka, CA, 96097 United States",
+    "distance": 0.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42100/42007/42007_51_l.jpg"
+  },
+  {
+    "price": 144,
+    "name": "Best Western Miner\u0027s Inn",
+    "address": "122 E Miner Street, Yreka, CA, 96097 United States",
+    "distance": 0.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21400/21386/21386_73_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Klamath Motor Lodge",
+    "address": "1111 S Main St, Yreka, CA, 96097 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3810000/3801600/3801560/3801560_15_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Relax Inn of Yreka",
+    "address": "1210 S Main St, Yreka, CA, 96097 United States",
+    "distance": 1.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1690000/1684500/1684410/1684410_4_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Rodeway Inn Yreka",
+    "address": "1235 S Main St, Yreka, CA, 96097 United States",
+    "distance": 1.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1110000/1109500/1109424/1109424_51_l.jpg"
+  },
+  {
+    "price": 46,
+    "name": "Mountain View Inn",
+    "address": "801 N Main St, Yreka, CA, 96097 United States",
+    "distance": 1.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/810000/803000/802940/802940_47_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Super 8 Yreka CA",
+    "address": "136 Montague Rd, Yreka, CA, 96097 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/123400/123378/123378_105_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Baymont Inn and Suites Yreka",
+    "address": "148 Moonlit Oaks Ave, Yreka, CA, 96097 United States",
+    "distance": 2.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/124200/124193/124193_79_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Comfort Inn Yreka",
+    "address": "1804b Fort Jones Rd, Yreka, CA, 96097 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/450000/445700/445619/445619_72_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Holiday Inn Express Yreka-Shasta Area",
+    "address": "707 Montague Rd, Yreka, CA, 96097 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1980000/1971500/1971490/82a80476_l.jpg"
+  }
+]

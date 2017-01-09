@@ -1,0 +1,82 @@
+[
+  {
+    "price": 109,
+    "name": "Oak Tree Inn Alpine",
+    "address": "2407 E. Holland Avenue, Alpine, TX, 79830 United States",
+    "distance": 19.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/892700/892696/892696_36_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Quality Inn",
+    "address": "2401 E. Hwy 90, Alpine, TX, 79830 United States",
+    "distance": 20.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28300/28295/b798d9cc_l.jpg"
+  },
+  {
+    "price": 121,
+    "name": "Sunday House Inn",
+    "address": "2010 Hwy 90 East, Alpine, TX, 79830 United States",
+    "distance": 20.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2640000/2631600/2631511/2631511_1_l.jpg"
+  },
+  {
+    "price": 138,
+    "name": "Holiday Inn Express \u0026 Suites Alpine Southeast",
+    "address": "2004 E Hwy 90, Alpine, TX, 79830 United States",
+    "distance": 20.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4600000/4595900/4595814/4595814_173_l.jpg"
+  },
+  {
+    "price": 153,
+    "name": "The Holland Hotel",
+    "address": "209 West Holland Avenue, Alpine, TX, 79830 United States",
+    "distance": 21.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12350000/12349400/12349342/12349342_4_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Hampton Inn Alpine",
+    "address": "2607 W Highway 90, Alpine, TX, 79830 United States",
+    "distance": 22.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2480000/2479600/2479504/2479504_80_l.jpg"
+  },
+  {
+    "price": 111,
+    "name": "Fort Davis Inn \u0026 R.V. Park",
+    "address": "2201 N State St, Fort Davis, TX, 79734 United States",
+    "distance": 30.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7810000/7807200/7807196/7807196_2_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "The Hotel Limpia",
+    "address": "101 Memorial Square, Fort Davis, TX, 79734 United States",
+    "distance": 30.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12250000/12243800/12243745/12243745_52_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Fort Davis Drug Store and Hotel",
+    "address": "113 State Street, Fort Davis, TX, 79734 United States",
+    "distance": 30.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12640000/12637700/12637612/164f883d_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Davis Mountains Inn",
+    "address": "1/2 mile South Hwy 17, 43417 State Hwy 17, Fort Davis, TX, 79734 United States",
+    "distance": 31.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6060000/6057900/6057846/6057846_11_l.jpg"
+  }
+]

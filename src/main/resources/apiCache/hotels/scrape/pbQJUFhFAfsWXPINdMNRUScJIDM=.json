@@ -1,0 +1,82 @@
+[
+  {
+    "price": 35,
+    "name": "The Crow Peak Lodge",
+    "address": "346 West Kansas St, Spearfish, SD, 57783 United States",
+    "distance": 0.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20500/20437/20437_37_l.jpg"
+  },
+  {
+    "price": 44,
+    "name": "Bell\u0027s Motor Lodge Motel",
+    "address": "230 N. Main St, Spearfish, SD, 57783 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9620000/9614800/9614732/9614732_16_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Best Western Black Hills Lodge",
+    "address": "540 E Jackson Boulevard, Spearfish, SD, 57783 United States",
+    "distance": 0.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/544700/544667/544667_79_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Rodeway Inn \u0026 Suites Spearfish",
+    "address": "2275 E Colorado Blvd, Spearfish, SD, 57783 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1920000/1916100/1916023/1916023_59_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "Holiday Inn Spearfish - Convention Center",
+    "address": "I 90 Exit 14 305 North 27th St, Po Box 399, Spearfish, SD, 57783 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27900/27835/27835_119_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Hampton Inn Spearfish",
+    "address": "240 North 27th Street, Spearfish, SD, 57783 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1710000/1705900/1705825/1705825_61_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Quality Inn Spearfish",
+    "address": "2725 1st Ave, Spearfish, SD, 57783 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21600/21523/21523_76_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Spearfish",
+    "address": "2720 1st Avenue East, Spearfish, SD, 57783 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8100/8018/8018_20_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Baymont Inn \u0026 Suites Spearfish",
+    "address": "323 S 27th St, Spearfish, SD, 57783 United States",
+    "distance": 2.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/440000/437700/437692/437692_45_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Super 8 - Spearfish",
+    "address": "440 Heritage Rd, Spearfish, SD, 57783 United States",
+    "distance": 2.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459800/459748/6ad952a2_l.jpg"
+  }
+]

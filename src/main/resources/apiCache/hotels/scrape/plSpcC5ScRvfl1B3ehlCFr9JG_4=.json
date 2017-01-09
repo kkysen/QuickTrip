@@ -1,0 +1,82 @@
+[
+  {
+    "price": 113,
+    "name": "Hampton Inn Chattanooga - North/Ooltewah",
+    "address": "6145 Weir Way, Ooltewah, TN, 37363 United States",
+    "distance": 2.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2240000/2239900/2239830/2239830_43_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Super 8 Chattanooga Ooltewah",
+    "address": "8934 Lee Highway, I-75 Exit 11, Ooltewah, TN, 37363-8752 United States",
+    "distance": 2.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/908600/908528/41d64b99_l.jpg"
+  },
+  {
+    "price": 131,
+    "name": "Holiday Inn Express Hotel Ooltewah Springs-Chattanooga",
+    "address": "6274 Artesian Circle, Ooltewah, TN, 37363 United States",
+    "distance": 3.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2270000/2268400/2268332/2268332_91_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Airport Inn Chattanooga",
+    "address": "7725 Lee Hwy, Chattanooga, TN, 37421 United States",
+    "distance": 4.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27700/27613/27613_25_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "WoodSpring Suites Chattanooga",
+    "address": "7710 Lee Highway, Chattanooga, TN, 37241 United States",
+    "distance": 4.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12780000/12774800/12774773/12774773_6_l.jpg"
+  },
+  {
+    "price": 38,
+    "name": "Motel 6 Chattanooga East",
+    "address": "7707 Lee Hwy, Chattanooga, TN, 37421 United States",
+    "distance": 4.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1050000/1046300/1046253/1046253_41_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Best Western Heritage Inn",
+    "address": "7641 Lee Highway, Chattanooga, TN, 37421 United States",
+    "distance": 5.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10800/10785/f03bfb78_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Americas Best Value Inn-Chattanooga/North",
+    "address": "7638 Lee Hwy, Chattanooga, TN, 37421 United States",
+    "distance": 5.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/34500/34443/34443_79_l.jpg"
+  },
+  {
+    "price": 48,
+    "name": "Rodeway Inn",
+    "address": "7620 Hamilton Park Dr, Chattanooga, TN, 37421 United States",
+    "distance": 5.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/455600/455532/455532_58_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Studio 6 Chattanooga",
+    "address": "7324 Shallowford Rd, Chattanooga, TN, 37421 United States",
+    "distance": 5.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24500/24440/97ea6efe_l.jpg"
+  }
+]

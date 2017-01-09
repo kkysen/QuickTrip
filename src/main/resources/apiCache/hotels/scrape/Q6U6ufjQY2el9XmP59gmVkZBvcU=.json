@@ -1,0 +1,82 @@
+[
+  {
+    "price": 112,
+    "name": "Holiday Inn Lynchburg",
+    "address": "601 Main St, Lynchburg, VA, 24504 United States",
+    "distance": 0.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9900/9878/9878_152_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Hill City Inn",
+    "address": "1500 Main Street, Lynchburg, VA, 24504 United States",
+    "distance": 0.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23300/23202/23202_7_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Econo Lodge Lynchburg",
+    "address": "2400 Stadium Rd, Lynchburg, VA, 24501 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11700/11689/11689_45_l.jpg"
+  },
+  {
+    "price": 37,
+    "name": "Americas Best Value Inn-Lynchburg/Madison Heights",
+    "address": "5016 S Amherst Hwy, Madison Heights, VA, 24572 United States",
+    "distance": 1.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1120000/1113600/1113512/1113512_28_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Courtyard by Marriott Lynchburg",
+    "address": "4640 Murray Place, Lynchburg, VA, 24502 United States",
+    "distance": 3.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/151500/151446/507a0cac_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "La Quinta Inn \u0026 Suites Lynchburg at Liberty Univ.",
+    "address": "3320 Candlers Mountain Rd, Lynchburg, VA, 24502 United States",
+    "distance": 3.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9900/9883/13200940_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "The Kirkley Hotel \u0026 Conference Center Lynchburg",
+    "address": "2900 Candlers Mountain Rd, Lynchburg, VA, 24502 United States",
+    "distance": 3.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/901700/901699/901699_131_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Quality Inn",
+    "address": "5604 Seminole Ave, Lynchburg, VA, 24502 United States",
+    "distance": 3.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21100/21061/fec26c71_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Holiday Inn Express Lynchburg",
+    "address": "5600 Seminole Ave, Lynchburg, VA, 24502 United States",
+    "distance": 3.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14200/14141/14141_173_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Best Western Of Lynchburg",
+    "address": "2815 Candlers Mountain Rd, Lynchburg, VA, 24502 United States",
+    "distance": 3.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18600/18569/7e574d4b_l.jpg"
+  }
+]

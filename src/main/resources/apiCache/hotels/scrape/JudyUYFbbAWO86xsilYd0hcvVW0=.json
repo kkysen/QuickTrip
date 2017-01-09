@@ -1,0 +1,82 @@
+[
+  {
+    "price": 68,
+    "name": "La Quinta Inn \u0026 Suites West Long Branch",
+    "address": "109 Route 36, West Long Branch, NJ, 07764 United States",
+    "distance": 1.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2320000/2319500/2319435/4443d100_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "Holiday Inn Express Hotel \u0026 Suites West Long Branch",
+    "address": "294 Highway 36 East, West Long Branch, NJ, 07764 United States",
+    "distance": 1.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1510000/1507300/1507208/f1e945d6_l.jpg"
+  },
+  {
+    "price": 117,
+    "name": "Bungalow Hotel",
+    "address": "50 Laird Street, Long Branch, NJ, 07740 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9700000/9699500/9699422/f7c08e93_l.jpg"
+  },
+  {
+    "price": 256,
+    "name": "Ocean Court by the Sea",
+    "address": "170 Ocean Ave, Long Branch, NJ, 07740 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5280000/5276200/5276163/5276163_12_l.jpg"
+  },
+  {
+    "price": 61,
+    "name": "Crystal Inn Eatontown",
+    "address": "170 Main Street (Hwy 35), Eatontown, NJ, 07724 United States",
+    "distance": 2.5,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1870000/1862500/1862449/1862449_18_l.jpg"
+  },
+  {
+    "price": 106,
+    "name": "Sheraton Eatontown Hotel",
+    "address": "6 Industrial Way E, Eatontown, NJ, 07724 United States",
+    "distance": 3.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3400/3360/00581f75_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Courtyard by Marriott Tinton Falls Eatontown",
+    "address": "600 Hope Rd, Tinton Falls, NJ, 07724 United States",
+    "distance": 3.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19900/19861/19861_90_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "DoubleTree by Hilton Hotel Tinton Falls - Eatontown",
+    "address": "700 Hope Road, Tinton Falls, NJ, 07724 United States",
+    "distance": 3.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4600/4503/d39e4b4f_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Quality Suites",
+    "address": "3 Centre Plaza, Tinton Falls, NJ, 07724 United States",
+    "distance": 3.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25800/25721/25721_154_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Red Roof Inn Tinton Falls - Jersey Shore",
+    "address": "11 Centre Plaza, Garden State Parkway, Exit #105, Tinton Falls, NJ, 07724 United States",
+    "distance": 3.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24000/23991/23991_113_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 137,
+    "name": "Holiday Inn Express Clermont",
+    "address": "1810 South Hwy 27, Clermont, FL, 34711 United States",
+    "distance": 3.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/470000/463400/463332/463332_223_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Pool Homes by Holiday Villas Clermont",
+    "address": "Various Addresses, Clermont, FL, 34714 United States",
+    "distance": 4.0,
+    "rating": 1.8,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11560000/11557500/11557444/11557444_9_l.jpg"
+  },
+  {
+    "price": 175,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Clermont",
+    "address": "1750 Hunt Trace, Clermont, FL, 34711 United States",
+    "distance": 4.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1560000/1558900/1558832/1558832_86_l.jpg"
+  },
+  {
+    "price": 204,
+    "name": "Hampton Inn and Suites Clermont",
+    "address": "2200 E Highway 50, Clermont, FL, 34711 United States",
+    "distance": 4.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1290000/1287500/1287493/1287493_38_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Value Place Orlando Clermont",
+    "address": "16311 SR 50, Clermont, FL, 34711 United States",
+    "distance": 5.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1670000/1662000/1661937/1661937_24_l.jpg"
+  },
+  {
+    "price": 193,
+    "name": "Florida Vacation Villas",
+    "address": "Four Corners, PO Box 1563, Clermont, FL, 33896 United States",
+    "distance": 6.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1340000/1337000/1336960/c6d9dddb_l.jpg"
+  },
+  {
+    "price": 150,
+    "name": "Orange Tree by Homes of America",
+    "address": "Various Addresses, Clermont, FL, 34711 United States",
+    "distance": 8.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11950000/11946700/11946604/11946604_11_l.jpg"
+  },
+  {
+    "price": 160,
+    "name": "Summer Bay Orlando by Exploria Resorts",
+    "address": "17805 US Highway 192, Clermont, FL, 34714 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/110000/104100/104060/104060_103_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Quality Inn Maingate West",
+    "address": "9330 W US Highway 192, Clermont, FL, 34714 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1580000/1576800/1576770/173a3ba6_l.jpg"
+  },
+  {
+    "price": 78,
+    "name": "Days Inn Clermont Theme Park West",
+    "address": "9240 W Highway 192, Clermont, FL, 34714 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/423000/422993/c64a8f0c_l.jpg"
+  }
+]

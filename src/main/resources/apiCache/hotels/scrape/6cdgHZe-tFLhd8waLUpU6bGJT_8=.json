@@ -1,0 +1,18 @@
+[
+  {
+    "price": 50,
+    "name": "Super 8 - Cleveland/N. Ridgeville",
+    "address": "32801 Lorain Rd, I-80 Exit 9 Rt 10 Exit 480, North Ridgeville, OH, 44039 United States",
+    "distance": 2.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/906800/906719/5060b620_l.jpg"
+  },
+  {
+    "price": 49,
+    "name": "Motel 6 North Ridgeville",
+    "address": "32751 Lorain Rd, North Ridgeville, OH, 44039 United States",
+    "distance": 2.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/180000/172300/172242/172242_19_l.jpg"
+  }
+]

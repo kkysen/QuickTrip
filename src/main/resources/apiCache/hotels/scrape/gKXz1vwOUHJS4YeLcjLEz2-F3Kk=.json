@@ -1,0 +1,50 @@
+[
+  {
+    "price": 60,
+    "name": "Days Inn Greenville",
+    "address": "946 Fort Dale Rd, Greenville, AL, 36037 United States",
+    "distance": 1.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14400/14393/14393_102_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Hampton Inn Greenville",
+    "address": "219 Interstate Plaza Dr, Greenville, AL, 36037 United States",
+    "distance": 1.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/61300/61232/61232_99_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Baymont Inn And Suites Greenville/At I-65",
+    "address": "71 Jameson Ln, Greenville, AL, 36037 United States",
+    "distance": 1.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/580000/572500/572418/572418_188_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Best Western Inn",
+    "address": "56 Cahaba Road, Greenville, AL, 36037 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/500/405/405_82_l.jpg"
+  },
+  {
+    "price": 96,
+    "name": "Holiday Inn Express Greenville",
+    "address": "100 Paul Stabler Dr, Greenville, AL, 36037 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2190000/2182200/2182110/2182110_98_l.jpg"
+  },
+  {
+    "price": 86,
+    "name": "Comfort Inn Greenville",
+    "address": "1029 Fort Dale Rd, Greenville, AL, 36037 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/300000/296200/296170/296170_109_l.jpg"
+  }
+]

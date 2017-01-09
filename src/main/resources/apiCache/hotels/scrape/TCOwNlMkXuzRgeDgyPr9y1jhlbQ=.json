@@ -1,0 +1,82 @@
+[
+  {
+    "price": 422,
+    "name": "The Oxford Hotel Bend",
+    "address": "10 NW Minnesota Avenue, Bend, OR, 97701 United States",
+    "distance": 0.1,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3050000/3048600/3048562/3048562_93_l.jpg"
+  },
+  {
+    "price": 230,
+    "name": "Wall Street Suites",
+    "address": "1430 Wall Street, Bend, OR, 97701 United States",
+    "distance": 0.4,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8180000/8172500/8172411/8172411_34_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Rainbow Motel",
+    "address": "154 NE Franklin Ave, Bend, OR, 97701 United States",
+    "distance": 0.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8060000/8051800/8051715/8051715_30_l.jpg"
+  },
+  {
+    "price": 300,
+    "name": "Motel West",
+    "address": "228 NE Irving Avenue, Bend, OR, 97701 United States",
+    "distance": 0.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4560000/4555100/4555052/4555052_36_l.jpg"
+  },
+  {
+    "price": 299,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Bend Downtown",
+    "address": "1626 NW Wall St, Bend, OR, 97701 United States",
+    "distance": 0.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/911300/911262/911262_3_l.jpg"
+  },
+  {
+    "price": 183,
+    "name": "Days Inn Bend",
+    "address": "849 NE Third Street, Bend, OR, 97701 United States",
+    "distance": 0.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24900/24889/24889_175_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Econo Lodge",
+    "address": "437 NE 3rd St., Bend, OR, 97701 United States",
+    "distance": 0.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/440000/437800/437720/437720_150_l.jpg"
+  },
+  {
+    "price": 247,
+    "name": "Red Lion Hotel Bend",
+    "address": "1415 NE 3rd Street, Bend, OR, 97701 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16300/16211/16211_48_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Motel 6 Bend",
+    "address": "201 NE 3rd Street, Bend, OR, 97701 United States",
+    "distance": 0.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1050000/1049700/1049647/1049647_88_l.jpg"
+  },
+  {
+    "price": 284,
+    "name": "Hilton Garden Inn Bend",
+    "address": "425 Sw Bluff Dr, Bend, OR, 97702 United States",
+    "distance": 0.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1070000/1068200/1068160/1068160_29_l.jpg"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "price": 111,
+    "name": "Fairfield Inn \u0026 Suites by Marriott San Antonio NE/ Schertz",
+    "address": "5008 Corridor Loop Road, Schertz, TX, 78154 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2630000/2620500/2620412/2620412_78_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "Best Western Plus Atrium Inn",
+    "address": "17401 IH 35 N, Schertz, TX, 78154-1265 United States",
+    "distance": 2.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7090000/7084100/7084081/7084081_47_l.jpg"
+  },
+  {
+    "price": 106,
+    "name": "Hampton Inn And Suites Schertz",
+    "address": "17702 Ih 35 N, Schertz, TX, 78154 United States",
+    "distance": 2.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1340000/1330400/1330319/1330319_65_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "La Quinta Inn \u0026 Suites - Schertz",
+    "address": "17650 Four Oaks Lane, Schertz, TX, 78154 United States",
+    "distance": 2.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2360000/2353800/2353756/eb277e44_l.jpg"
+  }
+]

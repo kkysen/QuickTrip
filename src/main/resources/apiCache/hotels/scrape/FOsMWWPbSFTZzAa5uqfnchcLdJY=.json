@@ -1,0 +1,82 @@
+[
+  {
+    "price": 64,
+    "name": "Super 8 Stafford TX",
+    "address": "12845 Murphy Rd, Stafford, TX, 77477 United States",
+    "distance": 0.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1170000/1160200/1160187/1160187_43_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Homewood Suites by Hilton Houston-Stafford",
+    "address": "4520 Techniplex Dr, Stafford, TX, 77477 United States",
+    "distance": 1.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1530000/1523000/1522914/1522914_115_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Days Inn \u0026 Suites Sugarland / Stafford",
+    "address": "4630 Techniplex Drive, Stafford, TX, 77477 United States",
+    "distance": 1.2,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/202200/202138/08bb8d43_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Hampton Inn Houston Stafford",
+    "address": "4714 Techniplex Dr, Stafford, TX, 77477 United States",
+    "distance": 1.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/68000/67959/6db07d29_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Americas Best Value Inn \u0026 Suites - Stafford / Houston",
+    "address": "11206 W Airport Blvd, Stafford, TX, 77477 United States",
+    "distance": 1.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84800/84739/84739_141_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Sleep Inn \u0026 Suites Stafford - Sugarland",
+    "address": "4810 Alpine Rd, Stafford, TX, 77477 United States",
+    "distance": 1.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1410000/1407200/1407167/1407167_112_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "La Quinta Inn \u0026 Suites Houston-Stafford/Sugarland",
+    "address": "12727 Southwest Fwy, Stafford, TX, 77477 United States",
+    "distance": 1.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3600/3540/7a5a5030_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Comfort Suites",
+    "address": "4820 Techniplex Dr, Stafford, TX, 77477 United States",
+    "distance": 1.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43000/42965/42965_86_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Courtyard by Marriott Houston Sugar Land",
+    "address": "12655 Southwest Fwy, Stafford, TX, 77477 United States",
+    "distance": 1.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/79500/79412/79412_43_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Residence Inn By Marriott Houston Sugar Land",
+    "address": "12703 Southwest Fwy, Stafford, TX, 77477 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/64200/64193/64193_62_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 139,
+    "name": "SpringHill Suites Pittsburgh Latrobe",
+    "address": "115 Arnold Palmer Dr, Latrobe, PA, 15650 United States",
+    "distance": 0.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4940000/4933800/4933742/df3d3ce6_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "The Inn at Mountainview",
+    "address": "300 Scenery Lane, Greensburg, PA, 15601 United States",
+    "distance": 3.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3870000/3860200/3860162/3860162_75_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Quality Inn",
+    "address": "5064 Route 30, Greensburg, PA, 15601 United States",
+    "distance": 4.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12500/12454/12454_50_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Ramada Greensburg Hotel and Conference Center",
+    "address": "100 Ramada Inn Drive, Greensburg, PA, 15601 United States",
+    "distance": 6.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1300/1236/1236_306_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Super 8 Greensburg",
+    "address": "111 Sheraton Dr Rt 30, Greensburg, PA, 15601 United States",
+    "distance": 6.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/892800/892767/892767_115_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Mallview Motel",
+    "address": "935 East Pittsburgh Street, Greensburg, PA, 15601 United States",
+    "distance": 6.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2110000/2102700/2102642/42bae127_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Hampton Inn Greensburg",
+    "address": "1000 Towne Square Drive, Greensburg, PA, 15601 United States",
+    "distance": 6.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/328200/328169/328169_25_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Knights Inn Greensburg",
+    "address": "1215 S Main St, Greensburg, PA, 15601 United States",
+    "distance": 7.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43600/43572/43572_74_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Robertshaw Country House Bed \u0026 Breakfast",
+    "address": "1001 Harvey Avenue, Greensburg, PA, 15601 United States",
+    "distance": 8.1,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5530000/5527100/5527076/5527076_8_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Ramada Ligonier",
+    "address": "216 W Loyalhanna St, Ligonier, PA, 15658 United States",
+    "distance": 8.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19900/19803/7b368086_l.jpg"
+  }
+]

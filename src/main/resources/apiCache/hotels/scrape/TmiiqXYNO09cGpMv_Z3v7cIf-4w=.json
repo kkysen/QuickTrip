@@ -1,0 +1,50 @@
+[
+  {
+    "price": 205,
+    "name": "Marriott East Lansing at University Place",
+    "address": "300 Mac Ave, East Lansing, MI, 48823 United States",
+    "distance": 0.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1900/1847/eba0fc7e_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Super 8 East Lansing / University Area",
+    "address": "2736 E Grand River Ave, East Lansing, MI, 48823 United States",
+    "distance": 1.5,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/898000/897981/897981_30_l.jpg"
+  },
+  {
+    "price": 167,
+    "name": "Residence Inn East Lansing",
+    "address": "2841 Hannah Blvd, East Lansing, MI, 48823 United States",
+    "distance": 1.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11550000/11547200/11547186/11547186_28_l.jpg"
+  },
+  {
+    "price": 123,
+    "name": "Towneplace Suites by Marriott East Lansing",
+    "address": "2855 Hannah Blvd, East Lansing, MI, 48823 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/560000/558500/558413/d67c5a66_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Hampton Inn East Lansing",
+    "address": "2500 Coolidge Rd, East Lansing, MI, 48823 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/544100/544027/544027_8_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "Holiday Inn Express Hotel \u0026 Suites East Lansing",
+    "address": "2924 West Rd, East Lansing, MI, 48823 United States",
+    "distance": 2.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2500000/2498000/2497929/2497929_128_l.jpg"
+  }
+]

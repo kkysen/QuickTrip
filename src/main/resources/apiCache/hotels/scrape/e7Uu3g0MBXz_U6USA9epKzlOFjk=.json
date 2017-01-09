@@ -1,0 +1,82 @@
+[
+  {
+    "price": 118,
+    "name": "Best Western Premier Plaza Hotel \u0026 Conference Center",
+    "address": "620 South Hill Park Drive, Puyallup, WA, 98373 United States",
+    "distance": 6.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3500/3428/3428_108_l.jpg"
+  },
+  {
+    "price": 121,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Puyallup (Tacoma Area)",
+    "address": "812 S Hill Park Drive, Puyallup, WA, 98373 United States",
+    "distance": 6.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/120500/120485/120485_220_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Hampton Inn \u0026 Suites Tacoma / Puyallup",
+    "address": "1515 South Meridian, Puyallup, WA, 98371 United States",
+    "distance": 6.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4590000/4585700/4585609/4585609_55_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Motel Puyallup",
+    "address": "1412 S Meridian St, Puyallup, WA, 98371 United States",
+    "distance": 6.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9480000/9479500/9479473/9479473_1_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Northwest Motor Inn",
+    "address": "1409 South Meridian Street, Puyallup, WA, 98371 United States",
+    "distance": 6.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10380000/10373400/10373389/10373389_21_l.jpg"
+  },
+  {
+    "price": 126,
+    "name": "Fairfield Inn \u0026 Suites Tacoma Puyallup",
+    "address": "202 15th Avenue SW, Puyallup, WA, 98371 United States",
+    "distance": 6.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4500000/4497700/4497611/4497611_20_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Sumner Motor Inn",
+    "address": "15506 Main St E, Sumner, WA, 98390 United States",
+    "distance": 7.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12520000/12519000/12518987/12518987_13_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Crossland Tacoma - Puyallup",
+    "address": "2101 N Meridian, Puyallup, WA, 98371 United States",
+    "distance": 8.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/151500/151457/151457_43_l.jpg"
+  },
+  {
+    "price": 61,
+    "name": "Econo Lodge Buckley",
+    "address": "29405 State Route 410 East, Buckley, WA, 98321 United States",
+    "distance": 9.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1370000/1367300/1367256/1367256_35_l.jpg"
+  },
+  {
+    "price": 120,
+    "name": "Holiday Inn Express Suites Sumner",
+    "address": "2500 136th Avenue Court East, Sumner, WA, 98390 United States",
+    "distance": 9.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2170000/2161600/2161515/2161515_205_l.jpg"
+  }
+]

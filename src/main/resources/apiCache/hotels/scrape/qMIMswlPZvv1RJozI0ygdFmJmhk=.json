@@ -1,0 +1,82 @@
+[
+  {
+    "price": 229,
+    "name": "Kimpton Hotel Palomar Phoenix Cityscape",
+    "address": "2 East Jefferson, Phoenix, AZ, 85004 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5060000/5052300/5052263/5052263_53_l.jpg"
+  },
+  {
+    "price": 369,
+    "name": "Renaissance Phoenix Downtown",
+    "address": "100 N 1st Street, Phoenix, AZ, 85004 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6000/5983/fc00b62f_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Hotel San Carlos - Downtown Convention Center",
+    "address": "202 N Central Ave, Phoenix, AZ, 85004 United States",
+    "distance": 0.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/530000/529500/529455/529455_27_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Hilton Garden Inn Phoenix Downtown",
+    "address": "15 E Monroe St, Phoenix, AZ, 85004 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12340000/12334000/12333920/12333920_174_l.jpg"
+  },
+  {
+    "price": 257,
+    "name": "The Westin Phoenix Downtown",
+    "address": "333 N Central Ave, Phoenix, AZ, 85004 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4200000/4190800/4190750/4190750_59_l.jpg"
+  },
+  {
+    "price": 220,
+    "name": "Hyatt Regency Phoenix",
+    "address": "122 N 2nd St, Phoenix, AZ, 85004 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6900/6802/6802_75_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Rodeway Inn Downtown Phoenix",
+    "address": "402 W. Van Buren St., Phoenix, AZ, 85003 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2260000/2256600/2256587/2256587_50_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Americas Best Value Inn",
+    "address": "424 W Van Buren St, Phoenix, AZ, 85003 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1840000/1832700/1832631/1832631_105_l.jpg"
+  },
+  {
+    "price": 300,
+    "name": "Sheraton Grand Phoenix",
+    "address": "340 N 3rd Street, Phoenix, AZ, 85004 United States",
+    "distance": 0.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2010000/2007700/2007681/2007681_164_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Travelodge Phoenix Downtown",
+    "address": "600 W. Van Buren St., Phoenix, AZ, 85003 United States",
+    "distance": 0.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9990000/9985700/9985665/9985665_51_l.jpg"
+  }
+]

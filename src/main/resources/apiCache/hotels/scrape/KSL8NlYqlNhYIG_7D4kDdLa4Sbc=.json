@@ -1,0 +1,58 @@
+[
+  {
+    "price": 98,
+    "name": "Best Western Palm Garden Inn",
+    "address": "13659 Beach Blvd, Westminster, CA, 92683 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5000/4985/4985_154_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Super 8 Westminster",
+    "address": "15559 Beach Blvd, Westminster, CA, 92683 United States",
+    "distance": 1.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/855400/855353/855353_166_l.jpg"
+  },
+  {
+    "price": 131,
+    "name": "Hotel Huntington Beach",
+    "address": "7667 Center Ave, Huntington Beach, CA, 92647 United States",
+    "distance": 1.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1900/1878/1878_55_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Quality Inn \u0026 Suites Westminster Seal Beach",
+    "address": "6601 Westminster Blvd, Westminster, CA, 92683 United States",
+    "distance": 1.6,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25600/25533/25533_166_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "Motel 6 Westminster South - Long Beach",
+    "address": "6266 Westminster Blvd, Westminster, CA, 92683 United States",
+    "distance": 1.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/996300/996242/996242_41_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "Motel 6 Westminster North",
+    "address": "13100 Goldenwest Street, Westminster, CA, 92683 United States",
+    "distance": 1.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/996200/996167/54c3eb1e_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Best Western Westminster Inn",
+    "address": "5755 Westminster Blvd, Westminster, CA, 92683 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5800/5751/5751_190_l.jpg"
+  }
+]

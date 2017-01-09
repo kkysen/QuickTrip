@@ -1,0 +1,18 @@
+[
+  {
+    "price": 65,
+    "name": "Budget Host Inn Belton",
+    "address": "1520 South I-35, Belton, TX, 76513 United States",
+    "distance": 1.0,
+    "rating": 3.0,
+    "imgUrl": ""
+  },
+  {
+    "price": 89,
+    "name": "La Quinta Inn Suites Belton",
+    "address": "229 W Loop 121, Belton, TX, 76513 United States",
+    "distance": 1.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1500000/1497800/1497713/9fcd358c_l.jpg"
+  }
+]

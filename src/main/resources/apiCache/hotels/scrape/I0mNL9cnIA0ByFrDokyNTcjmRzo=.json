@@ -1,0 +1,82 @@
+[
+  {
+    "price": 109,
+    "name": "Holiday Inn Express Haskell - Wayne Area",
+    "address": "303 Union Avenue, Haskell, NJ, 07420 United States",
+    "distance": 4.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2260000/2256600/2256592/2256592_130_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Best Western Regency House Hotel",
+    "address": "140 Route 23 North, Pompton Plains, NJ, 07444 United States",
+    "distance": 5.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/915900/915875/915875_70_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Hilton Garden Inn Wayne",
+    "address": "15 Nevins Rd, Wayne, NJ, 07470 United States",
+    "distance": 8.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9870000/9866800/9866722/9866722_16_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Residence Inn by Marriott Wayne",
+    "address": "30 Nevins Rd, Wayne, NJ, 07470 United States",
+    "distance": 8.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1330000/1327000/1326980/1326980_139_l.jpg"
+  },
+  {
+    "price": 163,
+    "name": "Embassy Suites by Hilton Parsippany",
+    "address": "909 Parsippany Blvd, Parsippany, NJ, 07054 United States",
+    "distance": 8.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25700/25687/25687_120_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "Hampton Inn Denville - Rockaway - Parsippany",
+    "address": "350 Morris Ave, Denville, NJ, 07834 United States",
+    "distance": 8.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/480000/471500/471431/375c5b7a_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Courtyard by Marriott Parsippany",
+    "address": "3769 Highway 46 East, Parsippany, NJ, 07054 United States",
+    "distance": 9.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/532100/532020/532020_85_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Hampton Inn Parsippany / North",
+    "address": "3737 Route 46 East, Parsippany, NJ, 07054 United States",
+    "distance": 9.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2970000/2967400/2967301/2967301_22_l.jpg"
+  },
+  {
+    "price": 152,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Parsippany",
+    "address": "3535 Us Highway 46, Parsippany, NJ, 07054 United States",
+    "distance": 9.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1380000/1371300/1371209/1371209_44_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Days Inn Parsippany",
+    "address": "3159 Route 46, Parsippany, NJ, 07054 United States",
+    "distance": 9.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4400/4355/4355_132_l.jpg"
+  }
+]

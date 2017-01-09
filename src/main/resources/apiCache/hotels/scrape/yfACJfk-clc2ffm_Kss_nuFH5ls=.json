@@ -1,0 +1,82 @@
+[
+  {
+    "price": 121,
+    "name": "Days Inn Long Island / Copiague",
+    "address": "10 34th St, Copiague, NY, 11726 United States",
+    "distance": 1.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2080000/2078500/2078410/2078410_76_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Budget Inn of Massapequa",
+    "address": "400 Carmen Mill Road, Massapequa, NY, 11758 United States",
+    "distance": 3.3,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2060000/2057700/2057667/2057667_9_l.jpg"
+  },
+  {
+    "price": 86,
+    "name": "Americana Inn Farmingdale",
+    "address": "727 Broadhollow Rd, Farmingdale, NY, 11735 United States",
+    "distance": 3.8,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4030000/4029200/4029106/4029106_12_l.jpg"
+  },
+  {
+    "price": 189,
+    "name": "TownePlace Suites by Marriott Republic Airport Long Island",
+    "address": "1 Marriott Plaza, Farmingdale, NY, 11735 United States",
+    "distance": 3.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1830000/1828900/1828874/1828874_19_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Courtyard by Marriott Republic Aprt Long Island/Farmingdale",
+    "address": "2 Marriott Plaza, Farmingdale, NY, 11735 United States",
+    "distance": 3.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1630000/1620700/1620658/1620658_38_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "Best Western Bar Harbour Inn",
+    "address": "5080 Sunrise Highway, Massapequa Park, NY, 11762 United States",
+    "distance": 4.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13100/13070/6c18bc7e_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Bay Shore Inn",
+    "address": "300 Bay Shore Rd, Bay Shore, NY, 11706 United States",
+    "distance": 5.8,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5710000/5705000/5704947/5704947_6_l.jpg"
+  },
+  {
+    "price": 185,
+    "name": "Hilton Long Island Huntington",
+    "address": "598 Broad Hollow Rd, Melville, NY, 11747 United States",
+    "distance": 5.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15100/15034/15034_75_l.jpg"
+  },
+  {
+    "price": 121,
+    "name": "Extended Stay America - Long Island - Melville",
+    "address": "100 Spagnoli Rd, Melville, NY, 11747 United States",
+    "distance": 5.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459000/458970/458970_43_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "Bethpage Hotel",
+    "address": "4107 Hempstead Turnpike, Bethpage, NY, 11714 United States",
+    "distance": 6.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1780000/1777200/1777189/1777189_51_l.jpg"
+  }
+]

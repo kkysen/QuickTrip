@@ -1,0 +1,26 @@
+[
+  {
+    "price": 62,
+    "name": "Super 8 - Bernalillo",
+    "address": "265 E Hwy 550, Bernalillo, NM, 87004 United States",
+    "distance": 1.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459600/459517/e4a098f2_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Days Inn Bernalillo",
+    "address": "107 N Camino Del Pueblo, Bernalillo, NM, 87004 United States",
+    "distance": 1.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/327500/327458/92bfa045_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Holiday Inn Express Bernalillo",
+    "address": "119 Bell Ln, Bernalillo, NM, 87004 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1140000/1140000/1139921/1139921_474_l.jpg"
+  }
+]

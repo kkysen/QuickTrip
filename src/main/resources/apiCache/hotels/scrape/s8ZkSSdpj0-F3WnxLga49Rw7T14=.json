@@ -1,0 +1,82 @@
+[
+  {
+    "price": 73,
+    "name": "Budget Inn",
+    "address": "320 W Main St, Luray, VA, 22835 United States",
+    "distance": 0.3,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5420000/5419300/5419270/5419270_12_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Best Western Intown Of Luray",
+    "address": "410 W Main St, Luray, VA, 22835 United States",
+    "distance": 0.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/37800/37738/37738_53_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Cardinal Inn",
+    "address": "1005 East Main Street, Luray, VA, 22835 United States",
+    "distance": 1.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/917200/917112/917112_1_l.jpg"
+  },
+  {
+    "price": 96,
+    "name": "Days Inn Luray Shenandoah",
+    "address": "138 Whispering Hill Rd, Luray, VA, 22835 United States",
+    "distance": 2.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/440000/431400/431346/9013d398_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Super 8 Mount Jackson/New Market Area",
+    "address": "250 Conicville Blvd, I-81 Exit 273, Mount Jackson, VA, 22842 United States",
+    "distance": 11.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10900/10897/10897_114_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Days Inn New Market Battlefield",
+    "address": "9360 George Collin Pkwy, New Market, VA, 22844 United States",
+    "distance": 11.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23200/23132/23132_118_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Quality Inn Shenandoah Valley",
+    "address": "162 W Old Cross Rd, New Market, VA, 22844 United States",
+    "distance": 12.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12500/12417/12417_35_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Econo Lodge",
+    "address": "1290 S Main St, Woodstock, VA, 22664 United States",
+    "distance": 14.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1500000/1495000/1494994/ab418b0e_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Hampton Inn \u0026 Suites Woodstock",
+    "address": "1150 Motel Dr, Woodstock, VA, 22664 United States",
+    "distance": 15.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3030000/3025100/3025089/3025089_56_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Holiday Inn Express Woodstock-Shenandoah Valley",
+    "address": "1130 Motel Dr, Woodstock, VA, 22664 United States",
+    "distance": 15.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20600/20598/20598_266_l.jpg"
+  }
+]

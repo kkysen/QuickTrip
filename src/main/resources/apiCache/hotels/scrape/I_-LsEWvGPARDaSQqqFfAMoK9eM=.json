@@ -1,0 +1,50 @@
+[
+  {
+    "price": 82,
+    "name": "Angels Motel Pico Rivera",
+    "address": "6623 South Rosemead Blvd, Pico Rivera, CA, 90660 United States",
+    "distance": 0.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1250000/1248300/1248277/c69e5759_l.jpg"
+  },
+  {
+    "price": 94,
+    "name": "Americas Best Value Inn Pico Rivera/East Los Angeles",
+    "address": "7222 Rosemead Blvd, Pico Rivera, CA, 90660 United States",
+    "distance": 0.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6200/6125/6125_75_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Palms Motel",
+    "address": "9431 Whittier Blvd, Pico Rivera, CA, 90660 United States",
+    "distance": 1.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7740000/7731700/7731670/7731670_1_l.jpg"
+  },
+  {
+    "price": 61,
+    "name": "Howard Johnson Inn and Suites Pico Rivera",
+    "address": "9515 Whittier Blvd, Pico Rivera, CA, 90660 United States",
+    "distance": 1.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1700000/1696000/1695923/f5b2aaf5_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Rivera Motel",
+    "address": "9118 Slauson Avenue, Pico Rivera, CA, 90660 United States",
+    "distance": 1.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2480000/2475100/2475046/2475046_17_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "GuestHouse Inn \u0026 Suites Pico Rivera/Downey",
+    "address": "8455 Telegraph Rd, Pico Rivera, CA, 90660 United States",
+    "distance": 2.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/880000/874500/874434/e3c9acce_l.jpg"
+  }
+]

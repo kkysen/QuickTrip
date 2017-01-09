@@ -1,0 +1,82 @@
+[
+  {
+    "price": 364,
+    "name": "The Inn on Fifth",
+    "address": "699 5th Ave S, Naples, FL, 34102 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/85000/84910/84910_194_l.jpg"
+  },
+  {
+    "price": 254,
+    "name": "Trianon Old Naples",
+    "address": "955 7th Ave South, Naples, FL, 34102 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40900/40859/40859_11_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Lemon Tree Inn",
+    "address": "250 9th St S, Naples, FL, 34102 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/100000/90100/90053/a1f2e6f2_l.jpg"
+  },
+  {
+    "price": 389,
+    "name": "Bellasera Resort",
+    "address": "221 9th St S, Naples, FL, 34102 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4800/4760/83c9c7b5_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Naples Park Central Hotel",
+    "address": "40 9th Street North, Naples, FL, 34102 United States",
+    "distance": 0.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4560000/4550400/4550385/4550385_36_l.jpg"
+  },
+  {
+    "price": 322,
+    "name": "Hyatt House Naples/5th Avenue",
+    "address": "1345 5th Avenue South, Naples, FL, 34102 United States",
+    "distance": 0.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12810000/12805400/12805323/12805323_66_l.jpg"
+  },
+  {
+    "price": 227,
+    "name": "Cove Inn on Naples Bay",
+    "address": "900 Broad Avenue South, Naples, FL, 34102 United States",
+    "distance": 0.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11900000/11898500/11898432/11898432_11_l.jpg"
+  },
+  {
+    "price": 409,
+    "name": "Naples Bay Resort",
+    "address": "1500 Fifth Ave S, Naples, FL, 34102 United States",
+    "distance": 0.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1600000/1599000/1598931/1598931_195_l.jpg"
+  },
+  {
+    "price": 225,
+    "name": "La Quinta Inn \u0026 Suites Naples Downtown",
+    "address": "1555 5th Ave S, Naples, FL, 34102 United States",
+    "distance": 0.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24700/24612/0f248533_l.jpg"
+  },
+  {
+    "price": 297,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Naples Downtown - 5th Ave",
+    "address": "1785 5th Ave. South, Naples, FL, 34102 United States",
+    "distance": 0.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/890000/890000/889926/889926_168_l.jpg"
+  }
+]

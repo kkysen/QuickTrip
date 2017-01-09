@@ -1,0 +1,66 @@
+[
+  {
+    "price": 92,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Sidney",
+    "address": "251 W Holly St, Sidney, MT, 59270 United States",
+    "distance": 1.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5260000/5259300/5259256/5259256_56_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Candlewood Suites Sidney",
+    "address": "201 6th St Nw, Sidney, MT, 59270 United States",
+    "distance": 2.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7120000/7118300/7118299/7118299_59_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Best Western Golden Prairie Inn \u0026 Suites",
+    "address": "820 S Central Ave, Sidney, MT, 59270 United States",
+    "distance": 2.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8130000/8121000/8120940/8120940_72_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Lone Tree Inn",
+    "address": "900 S. Central Ave, Sidney, MT, 59270 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7880000/7874100/7874078/7874078_1_l.jpg"
+  },
+  {
+    "price": 78,
+    "name": "Mainstay Suites Sidney",
+    "address": "3rd Street \u0026 12th Ave, Sidney, MT, 59270 United States",
+    "distance": 2.2,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11720000/11718200/11718118/11718118_21_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Richland Inn \u0026 Suites",
+    "address": "1200 South Central Avenue, Sidney, MT, 59270 United States",
+    "distance": 2.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2240000/2232500/2232455/2232455_47_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Wingate by Wyndham Sidney",
+    "address": "1490 S. Central Ave, Sidney, MT, 59270 United States",
+    "distance": 2.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12370000/12362100/12362041/f54e7ada_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Sidney",
+    "address": "1500 S Central Ave, Sidney, MT, 59270 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5020000/5013300/5013281/5013281_96_l.jpg"
+  }
+]

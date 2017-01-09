@@ -1,0 +1,42 @@
+[
+  {
+    "price": 58,
+    "name": "Motel 6 Marysville CA",
+    "address": "803 E St, Marysville, CA, 95901 United States",
+    "distance": 0.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1860000/1853300/1853295/1853295_26_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Americas Best Value Inn Marysville",
+    "address": "721 10th St, Marysville, CA, 95901 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40700/40603/40603_100_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Comfort Suites Marysville",
+    "address": "1034 N Beale Rd, Marysville, CA, 95901 United States",
+    "distance": 1.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1460000/1457800/1457748/1457748_88_l.jpg"
+  },
+  {
+    "price": 46,
+    "name": "Motel 6 Marysville South",
+    "address": "1111 N Beale Rd, Marysville, CA, 95901 United States",
+    "distance": 1.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/421400/421313/cc11d6b2_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Rio Inn \u0026 Suites-Marysville",
+    "address": "899 N Beale Rd, Marysville, CA, 95901 United States",
+    "distance": 1.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1780000/1777200/1777179/1777179_5_l.jpg"
+  }
+]

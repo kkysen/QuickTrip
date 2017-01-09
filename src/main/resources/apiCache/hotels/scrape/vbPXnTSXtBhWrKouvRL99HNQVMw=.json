@@ -1,0 +1,82 @@
+[
+  {
+    "price": 99,
+    "name": "Ramada Wentzville",
+    "address": "900 Corporate Parkway, Wentzville, MO, 63385 United States",
+    "distance": 2.2,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20100/20037/4cc83382_l.jpg"
+  },
+  {
+    "price": 120,
+    "name": "Hilton Garden Inn St. Louis/O\u0027Fallon",
+    "address": "2310 Technology Dr, O\u0027Fallon, MO, 63366 United States",
+    "distance": 3.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/930000/921500/921433/921433_62_l.jpg"
+  },
+  {
+    "price": 48,
+    "name": "Budget Inn Wentzville",
+    "address": "1258 Continental Dr, Wentzville, MO, 63385 United States",
+    "distance": 3.2,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1470000/1464500/1464430/1464430_22_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Super 8 O\u0027Fallon",
+    "address": "987 W Terra Ln, O\u0027Fallon, MO, 63366 United States",
+    "distance": 4.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/906700/906692/906692_105_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Super 8 Wentzville",
+    "address": "4 Ruggeri Dr, Wentzville, MO, 63385 United States",
+    "distance": 4.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/908100/908040/5781816f_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "Fairfield Inn \u0026 Suites Wentzville",
+    "address": "130 Crossroads South Drive, Wentzville, MO, 63385 United States",
+    "distance": 4.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6580000/6575600/6575600/c632ee36_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Holiday Inn Express St. Louis West - O\u0027Fallon",
+    "address": "1175 Technology Dr, O\u0027Fallon, MO, 63304 United States",
+    "distance": 6.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1210000/1206500/1206489/1206489_120_l.jpg"
+  },
+  {
+    "price": 78,
+    "name": "Sleep Inn and Suites",
+    "address": "1147 Technology Drive, O\u0027Fallon, MO, 63368 United States",
+    "distance": 6.5,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15590000/15583900/15583887/f327a35b_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Staybridge Suites O\u0027Fallon Chesterfield",
+    "address": "1155 Technology Drive, O\u0027Fallon, MO, 63304 United States",
+    "distance": 6.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1290000/1287800/1287747/1287747_421_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Residence Inn by Marriott O\u0027Fallon",
+    "address": "101 Progress Point Ct., O\u0027Fallon, MO, 63368 United States",
+    "distance": 6.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1680000/1671100/1671086/1ddbd916_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 64,
+    "name": "Red Roof Inn Detroit - Dearborn/Greenfield Village",
+    "address": "24130 Michigan Ave, Dearborn, MI, 48124 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1500/1425/1425_113_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "A Victory Inn - West Dearborn",
+    "address": "23730 Michigan Ave, Dearborn, MI, 48124 United States",
+    "distance": 1.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40500/40465/40465_76_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Holiday Inn Express \u0026 Suites Dearborn SW - Detroit Area",
+    "address": "24041 Michigan Ave, Dearborn, MI, 48124 United States",
+    "distance": 1.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11230000/11225100/11225006/a6f266ae_l.jpg"
+  },
+  {
+    "price": 158,
+    "name": "Staybridge Suites Dearborn MI",
+    "address": "24105 Michigan Ave, Dearborn, MI, 48124 United States",
+    "distance": 1.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11720000/11713000/11712978/11712978_28_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "Country Inn and Suites Dearborn",
+    "address": "24555 Michigan Ave, Dearborn, MI, 48124 United States",
+    "distance": 1.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2940000/2933500/2933433/2933433_50_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Hampton Inn by Hilton Detroit Dearborn",
+    "address": "22324 Michigan Avenue, Dearborn, MI, 48124 United States",
+    "distance": 1.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15990000/15985400/15985302/6a80261b_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Rodeway Inn and Suites",
+    "address": "25911 Michigan Ave, Inkster, MI, 48141 United States",
+    "distance": 1.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10960000/10950100/10950010/10950010_8_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Comfort Inn Near Greenfield Village",
+    "address": "20061 Michigan Avenue, Dearborn, MI, 48124 United States",
+    "distance": 2.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25700/25679/25679_90_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Extended Stay America - Detroit - Dearborn",
+    "address": "260 Town Center Drive, Dearborn, MI, 48126 United States",
+    "distance": 2.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/890000/880100/880076/01ff19fe_l.jpg"
+  },
+  {
+    "price": 183,
+    "name": "Dearborn Inn, A Marriott Hotel",
+    "address": "20301 Oakwood Blvd, Dearborn, MI, 48124 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4300/4236/4236_159_l.jpg"
+  }
+]

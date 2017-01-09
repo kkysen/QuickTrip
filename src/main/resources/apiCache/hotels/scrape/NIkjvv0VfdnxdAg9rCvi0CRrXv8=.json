@@ -1,0 +1,82 @@
+[
+  {
+    "price": 149,
+    "name": "Five Towns Inn - JFK Airport",
+    "address": "655 Rockaway Tpke, Lawrence, NY, 11559 United States",
+    "distance": 0.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1340000/1339900/1339831/1339831_50_l.jpg"
+  },
+  {
+    "price": 209,
+    "name": "Holiday Inn New York JFK Airport Area",
+    "address": "154-71 Brookville Boulevard Rosedal, Jamaica, NY, 11422 United States",
+    "distance": 1.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6330000/6325600/6325550/6325550_127_l.jpg"
+  },
+  {
+    "price": 141,
+    "name": "La Quinta Inn \u0026 Suites Far Rockaway - JFK Airport",
+    "address": "4317 Rockaway Beach Blvd., Far Rockaway, NY, 11691 United States",
+    "distance": 3.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12650000/12642000/12641973/4f44ba99_l.jpg"
+  },
+  {
+    "price": 189,
+    "name": "Fairfield Inn by Marriott JFK Airport",
+    "address": "156 08 Rockaway Blvd, Jamaica, NY, 11434 United States",
+    "distance": 3.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/863900/863898/863898_72_l.jpg"
+  },
+  {
+    "price": 126,
+    "name": "JFK Inn",
+    "address": "154-10 S Conduit Ave, Jamaica, NY, 11434 United States",
+    "distance": 4.0,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/534100/534048/534048_22_l.jpg"
+  },
+  {
+    "price": 142,
+    "name": "Days Inn JFK Airport",
+    "address": "144-26 153rd Court, Jamaica, NY, 11434 United States",
+    "distance": 4.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1330000/1327000/1326965/1326965_146_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Best Western JFK Airport Hotel",
+    "address": "14425 153rd Ln, Jamaica, NY, 11434 United States",
+    "distance": 4.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/910900/910807/6b6aaa56_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Howard Johnson Inn Jamaica JFK Airport NYC",
+    "address": "153-95 Rockaway Blvd, Jamaica, NY, 11434 United States",
+    "distance": 4.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/810000/803300/803243/803243_218_l.jpg"
+  },
+  {
+    "price": 146,
+    "name": "Sleep Inn JFK Airport Rockaway Blvd",
+    "address": "153-75 Rockaway Blvd, Jamaica, NY, 11434 United States",
+    "distance": 4.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5070000/5061800/5061708/5061708_38_l.jpg"
+  },
+  {
+    "price": 126,
+    "name": "Super 8 Jamaica North Conduit",
+    "address": "15167 N Conduit Ave, Jamaica, NY, 11434 United States",
+    "distance": 4.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6040000/6036600/6036585/6036585_90_l.jpg"
+  }
+]

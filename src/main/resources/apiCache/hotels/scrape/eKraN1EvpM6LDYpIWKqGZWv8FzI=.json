@@ -1,0 +1,82 @@
+[
+  {
+    "price": 62,
+    "name": "Rodeway Inn",
+    "address": "20 W Mill St, Akron, OH, 44308 United States",
+    "distance": 0.2,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/34600/34579/34579_38_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Courtyard Akron Downtown",
+    "address": "41 Furnace St, Akron, OH, 44308 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12420000/12413200/12413138/12413138_46_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Hilton Garden Inn Akron",
+    "address": "1307 E. Market Street, Akron, OH, 44305 United States",
+    "distance": 2.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8840000/8836300/8836231/30ccf82c_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "Holiday Inn Express Akron South Airport Area",
+    "address": "898 Arlington Ridge E, Akron, OH, 44312 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2260000/2256200/2256169/2256169_77_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Country Inn \u0026 Suites by Carlson Cuyahoga Falls",
+    "address": "1420 Main St, Cuyahoga Falls, OH, 44221 United States",
+    "distance": 3.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/100000/99800/99782/99782_96_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Sheraton Suites Akron Cuyahoga Falls",
+    "address": "1989 Front St, Cuyahoga Falls, OH, 44221 United States",
+    "distance": 3.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22700/22645/22645_132_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "DoubleTree by Hilton Akron - Fairlawn",
+    "address": "3150 W Market Street, Akron, OH, 44333 United States",
+    "distance": 6.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16300/16235/16235_78_l.jpg"
+  },
+  {
+    "price": 289,
+    "name": "Hilton Akron Fairlawn",
+    "address": "3180 W Market St, Akron, OH, 44333 United States",
+    "distance": 6.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4100/4055/4055_19_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Econo Lodge",
+    "address": "2873 S Arlington Rd, Akron, OH, 44312 United States",
+    "distance": 6.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/56700/56615/56615_67_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Red Roof Inn Akron South",
+    "address": "2939 S Arlington Rd, I-77 At Exit #120, Akron, OH, 44312 United States",
+    "distance": 6.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25100/25010/25010_51_l.jpg"
+  }
+]

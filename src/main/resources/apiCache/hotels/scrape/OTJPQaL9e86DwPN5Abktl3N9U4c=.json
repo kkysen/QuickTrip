@@ -1,0 +1,66 @@
+[
+  {
+    "price": 81,
+    "name": "Quality Inn",
+    "address": "1060 Highway 32 S, Thief River Falls, MN, 56701 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25300/25248/25248_2_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Custom Stay Thief River Falls",
+    "address": "1510 Highway 59 SE, Thief River Falls, MN, 56701 United States",
+    "distance": 2.4,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9770000/9767000/9766999/acc37b8e_l.jpg"
+  },
+  {
+    "price": 94,
+    "name": "AmericInn Lodge \u0026 Suites Thief River Falls",
+    "address": "1920 Hwy 59 SE, Thief River Falls, MN, 56701 United States",
+    "distance": 3.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1610000/1608200/1608142/1608142_5_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Americas Best Value Inn and Suites Thief River Falls",
+    "address": "1915 Highway 59 South, Thief River Falls, MN, 56701 United States",
+    "distance": 3.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/855600/855526/855526_81_l.jpg"
+  },
+  {
+    "price": 86,
+    "name": "Crookston Inn and Convention Center",
+    "address": "2200 University Ave, Crookston, MN, 56716 United States",
+    "distance": 29.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4200000/4199000/4198961/4198961_61_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Cobblestone Hotel \u0026 Suites Crookston",
+    "address": "2304 Sahlstrom Drive, Crookston, MN, 56716 United States",
+    "distance": 29.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7120000/7110900/7110814/7110814_11_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Americinn Crookston",
+    "address": "1821 University Avenue, Crookston, MN, 56716 United States",
+    "distance": 29.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/425300/425296/425296_1_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "Fairfield Inn \u0026 Suites East Grand Forks",
+    "address": "514 Gateway Drive NE, East Grand Forks, MN, 56721 United States",
+    "distance": 39.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10650000/10645800/10645720/10645720_13_l.jpg"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "price": 66,
+    "name": "Clarion Inn Stuart",
+    "address": "1200 SE Federal Hwy, Stuart, FL, 34994 United States",
+    "distance": 1.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27800/27738/457f059e_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Best Western Downtown Stuart",
+    "address": "1209 SE Federal Hwy, Stuart, FL, 34994 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/20000/19950/19950_153_l.jpg"
+  },
+  {
+    "price": 150,
+    "name": "Pirate\u0027s Cove Resort \u0026 Marina",
+    "address": "4307 SE Bayview Street, Stuart, FL, 34997 United States",
+    "distance": 3.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7780000/7774600/7774590/7774590_24_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Courtyard By Marriott Stuart",
+    "address": "7615 Sw Lost River Rd, Stuart, FL, 34997 United States",
+    "distance": 3.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2300000/2292900/2292811/2292811_76_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Holiday Inn Express Stuart",
+    "address": "7900 Sw Lost River Rd, Stuart, FL, 34997 United States",
+    "distance": 3.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1800000/1797000/1796908/1796908_114_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Hampton Inn \u0026 Suites Stuart-North",
+    "address": "1150 NW Federal Highway, Stuart, FL, 34994 United States",
+    "distance": 4.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2220000/2212000/2211950/2211950_65_l.jpg"
+  },
+  {
+    "price": 133,
+    "name": "Hutchinson Island Marriott Beach Resort \u0026 Marina",
+    "address": "555 NE Ocean Boulevard, Stuart, FL, 34996 United States",
+    "distance": 4.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11900/11892/2655721c_l.jpg"
+  }
+]

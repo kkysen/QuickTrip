@@ -1,0 +1,82 @@
+[
+  {
+    "price": 132,
+    "name": "Hilton Garden Inn Kansas City",
+    "address": "520 Minnesota Ave, Kansas City, KS, 66101 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/894500/894475/894475_2_l.jpg"
+  },
+  {
+    "price": 180,
+    "name": "Barnett Bed and Breakfast",
+    "address": "829 Barnett Avenue, Kansas City, KS, 66101 United States",
+    "distance": 0.3,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10240000/10231000/10230908/10230908_4_l.jpg"
+  },
+  {
+    "price": 156,
+    "name": "Holiday Inn Express \u0026 Suites Kansas City KU Medical Center",
+    "address": "3932 Rainbow Blvd, Kansas City, KS, 66103 United States",
+    "distance": 4.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4920000/4913700/4913641/4913641_76_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "WoodSpring Suites Kansas City Mission",
+    "address": "6950 Foxridge Drive, Mission, KS, 66202 United States",
+    "distance": 5.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1930000/1925300/1925219/1daafe99_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Days Inn – near Kansas Speedway",
+    "address": "7721 Elizabeth Ave, Kansas City, KS, 66112 United States",
+    "distance": 7.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/892800/892735/892735_104_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Comfort Inn I-70 Near Kansas Speedway",
+    "address": "234 N 78th St, Kansas City, KS, 66112 United States",
+    "distance": 7.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/300000/296100/296067/296067_88_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "American Motel Kansas City, Kansas",
+    "address": "7949 Splitlog Ave, Kansas City, KS, 66112 United States",
+    "distance": 7.3,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8520000/8512800/8512708/9f8c33d0_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Ramada Overland Park",
+    "address": "7240 Shawnee Mission Pkwy, Mission, KS, 66202 United States",
+    "distance": 7.3,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2200/2191/2191_141_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Econolodge Inn \u0026 Suites",
+    "address": "7508 Shawnee Mission Pkwy, I-35 East / Shawnee Mission Parkway, Mission, KS, 66202 United States",
+    "distance": 7.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/918800/918782/2a7401f6_l.jpg"
+  },
+  {
+    "price": 130,
+    "name": "Drury Inn Kansas City Shawnee Mission",
+    "address": "9009 W Shawnee Mission Pkwy, Mission, KS, 66202 United States",
+    "distance": 7.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42600/42529/42529_56_l.jpg"
+  }
+]

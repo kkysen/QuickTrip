@@ -1,0 +1,18 @@
+[
+  {
+    "price": 115,
+    "name": "The Grand Magnolia Ballroom \u0026 Suites",
+    "address": "3604 Magnolia Street, Live Oak Avenue, Pascagoula, MS, 39567 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10330000/10325000/10324975/10324975_15_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Singing River Inn",
+    "address": "4919 Denny Ave., Pascagoula, MS, 39581 United States",
+    "distance": 3.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16180000/16171000/16170987/d2258e50_l.jpg"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "price": 54,
+    "name": "Quality Inn Kings Mountain",
+    "address": "722 York Rd, Kings Mountain, NC, 28086 United States",
+    "distance": 1.2,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24600/24551/24551_65_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Super 8 Kings Mountain",
+    "address": "106 Holiday Inn Drive, Kings Mountain, NC, 28086 United States",
+    "distance": 1.2,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5810000/5806100/5806037/5806037_69_l.jpg"
+  },
+  {
+    "price": 112,
+    "name": "Holiday Inn Express Hotel and Suites Kings Mountain",
+    "address": "100 Woodlake Pkwy, Kings Mountain, NC, 28086 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/520000/520000/519966/519966_133_l.jpg"
+  }
+]

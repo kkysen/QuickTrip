@@ -1,0 +1,26 @@
+[
+  {
+    "price": 51,
+    "name": "Super 8 Adel GA",
+    "address": "1103 W 4th St, I-75 Exit 39 - Hwy 37, Adel, GA, 31620 United States",
+    "distance": 0.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21100/21040/a84150b1_l.jpg"
+  },
+  {
+    "price": 43,
+    "name": "Days Inn-Adel-South Georgia-Motorsports Park",
+    "address": "1204 West Fourth Street, I-75 \u0026 SR 37 Exit 39, Adel, GA, 31620 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9800/9751/9751_100_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "Hampton Inn Adel",
+    "address": "1500 W 4th St, Adel, GA, 31620 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/67400/67393/67393_50_l.jpg"
+  }
+]

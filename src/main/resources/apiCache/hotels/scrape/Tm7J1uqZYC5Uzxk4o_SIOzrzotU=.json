@@ -1,0 +1,82 @@
+[
+  {
+    "price": 116,
+    "name": "Holiday Inn Express \u0026 Suites Waller",
+    "address": "31380 FM 2920, Waller, TX, 77484 United States",
+    "distance": 5.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2520000/2511100/2511058/2511058_108_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Americas Best Value Inn \u0026 Suites-Waller/Prairie View",
+    "address": "19777 Stokes Rd, Waller, TX, 77484 United States",
+    "distance": 5.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1230000/1228400/1228310/1228310_54_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Summit Inn \u0026 Suites - Hempstead",
+    "address": "51325 Hwy 290, Hempstead, TX, 77445 United States",
+    "distance": 6.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/810000/809600/809512/809512_2_l.jpg"
+  },
+  {
+    "price": 153,
+    "name": "Holiday Inn Express \u0026 Suites Houston NW - Cypress",
+    "address": "21410 Fairfield Place Drive, Cypress, TX, 77433 United States",
+    "distance": 15.0,
+    "rating": 1.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15850000/15849800/15849772/3b4904d9_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "Americas Best Value Inn and Suites Tomball",
+    "address": "22420 Park Rd, Tomball, TX, 77377 United States",
+    "distance": 20.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4490000/4484900/4484876/4484876_25_l.jpg"
+  },
+  {
+    "price": 40,
+    "name": "The Brooke Hotel",
+    "address": "542 Koomey Road, Brookshire, TX, 77423 United States",
+    "distance": 21.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1410000/1403900/1403834/1403834_56_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Residence Inn Houston Tomball",
+    "address": "14303 Medical Complex Dr, Tomball, TX, 77377 United States",
+    "distance": 21.0,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16530000/16525800/16525774/b38861ac_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Executive Inn",
+    "address": "217 Waller Avenue, Brookshire, TX, 77423 United States",
+    "distance": 21.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12960000/12959900/12959811/12959811_15_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "La Quinta Inn \u0026 Suites Brookshire",
+    "address": "721 FM 1489, Brookshire, TX, 77423 United States",
+    "distance": 21.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2480000/2470600/2470538/dd50f33f_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Hampton Inn and Suites Tomball",
+    "address": "14100 Medical Complex Dr, Tomball, TX, 77377 United States",
+    "distance": 21.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/3000000/2994900/2994865/2994865_22_l.jpg"
+  }
+]

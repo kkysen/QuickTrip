@@ -1,0 +1,58 @@
+[
+  {
+    "price": 112,
+    "name": "Holiday Inn Express Vincennes",
+    "address": "2720 Battery Rd, Vincennes, IN, 47591 United States",
+    "distance": 7.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1930000/1927100/1927077/1927077_125_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "TownePlace Suites by Marriott Vincennes",
+    "address": "1320 Willow St, Vincennes, IN, 47591 United States",
+    "distance": 7.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4660000/4651300/4651250/05313d19_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Econo Lodge",
+    "address": "600 Old Wheatland Rd, Vincennes, IN, 47591 United States",
+    "distance": 7.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/914000/913951/913951_21_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Super 8 Vincennes",
+    "address": "609 Shirlee St, US 41 at Hart St,, Vincennes, IN, 47591 United States",
+    "distance": 8.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1200000/1195500/1195462/6e6d05cf_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Red Roof Inn Vincennes",
+    "address": "1800 S Old Decker Rd, Vincennes, IN, 47591 United States",
+    "distance": 8.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13800/13713/13713_5_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "Best Western Robinson Inn",
+    "address": "1500 W Main Street, Robinson, IL, 62454 United States",
+    "distance": 19.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4000/3926/3926_50_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Baymont Inn \u0026 Suites Washington",
+    "address": "7 Cumberland Dr, Washington, IN, 47501 United States",
+    "distance": 25.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/67600/67547/67547_60_l.jpg"
+  }
+]

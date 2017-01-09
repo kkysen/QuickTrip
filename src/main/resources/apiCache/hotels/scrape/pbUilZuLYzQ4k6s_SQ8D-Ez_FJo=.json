@@ -1,0 +1,82 @@
+[
+  {
+    "price": 219,
+    "name": "Residence Inn Boston Logan Airport/Chelsea",
+    "address": "200 Maple St, Chelsea, MA, 02150 United States",
+    "distance": 1.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5300000/5292800/5292753/641e8af5_l.jpg"
+  },
+  {
+    "price": 267,
+    "name": "AC Hotel by Marriott Boston North",
+    "address": "95 Station Landing, Medford, MA, 02155 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12710000/12704500/12704475/12704475_64_l.jpg"
+  },
+  {
+    "price": 282,
+    "name": "La Quinta Inn \u0026 Suites Boston-Somerville",
+    "address": "23 Cummings St, Somerville, MA, 02145 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/544200/544112/443e736f_l.jpg"
+  },
+  {
+    "price": 219,
+    "name": "TownePlace Suites Boston Logan Airport/Chelsea",
+    "address": "30 Eastern Avenue, Chelsea, MA, 02150 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9320000/9312600/9312529/9312529_72_l.jpg"
+  },
+  {
+    "price": 156,
+    "name": "Econo Lodge Malden",
+    "address": "321 Broadway, Malden, MA, 02148 United States",
+    "distance": 2.1,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23000/22963/22963_86_l.jpg"
+  },
+  {
+    "price": 239,
+    "name": "The Constitution Inn",
+    "address": "150 3rd Ave, Boston, MA, 02129 United States",
+    "distance": 2.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/930000/922200/922200/922200_27_l.jpg"
+  },
+  {
+    "price": 276,
+    "name": "Holiday Inn Boston Bunker Hill Area",
+    "address": "30 Washington Street, Somerville, MA, 02143 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7400/7370/7370_305_l.jpg"
+  },
+  {
+    "price": 222,
+    "name": "Courtyard by Marriott Boston Logan Airport",
+    "address": "225 William F. McClellan Highway, Boston, MA, 02128 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18900/18890/18890_156_l.jpg"
+  },
+  {
+    "price": 249,
+    "name": "Hilton Garden Inn Boston Logan Airport",
+    "address": "100 Boardman St, Boston, MA, 02128 United States",
+    "distance": 2.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11510000/11501300/11501234/11501234_14_l.jpg"
+  },
+  {
+    "price": 232,
+    "name": "Four Points by Sheraton Boston Logan Airport",
+    "address": "407 Squire Rd, Revere, MA, 02151 United States",
+    "distance": 2.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/700000/690700/690647/690647_56_l.jpg"
+  }
+]

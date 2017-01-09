@@ -1,0 +1,82 @@
+[
+  {
+    "price": 154,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Hillview",
+    "address": "365 Brenton Way, Shepherdsville, KY, 40165 United States",
+    "distance": 0.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1620000/1619200/1619182/1619182_168_l.jpg"
+  },
+  {
+    "price": 145,
+    "name": "Hampton Inn Louisville I-65 @ Brooks Rd.",
+    "address": "180 Willabrook Dr, Brooks, KY, 40109 United States",
+    "distance": 1.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/110000/103200/103116/103116_109_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Baymont Inn \u0026 Suites Brooks",
+    "address": "149 Willabrook Dr, Brooks, KY, 40109 United States",
+    "distance": 1.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12400/12318/12318_225_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "Garden Inn \u0026 Extended Stay Shepherdsville / Louisville",
+    "address": "130 South Lakeview Drive, Shepherdsville, KY, 40165 United States",
+    "distance": 5.3,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42500/42440/42440_30_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "Super 8 Shepherdsville",
+    "address": "275 Keystone Crossroads, I-65 Ex 117 Hwy 44 W, Shepherdsville, KY, 40165 United States",
+    "distance": 5.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856000/855947/855947_111_l.jpg"
+  },
+  {
+    "price": 42,
+    "name": "WoodSpring Suites Louisville South",
+    "address": "6310 Commerce Park Ct., Louisville, KY, 40118 United States",
+    "distance": 5.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1670000/1665200/1665182/24513172_l.jpg"
+  },
+  {
+    "price": 143,
+    "name": "Holiday Inn Louisville Airport South",
+    "address": "6551 Paramount Park Drive, Louisville, KY, 40213 United States",
+    "distance": 6.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2430000/2425500/2425493/2425493_62_l.jpg"
+  },
+  {
+    "price": 151,
+    "name": "Comfort Suites Airport",
+    "address": "6535 Paramount Park Dr, Louisville, KY, 40213 United States",
+    "distance": 6.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1210000/1205100/1205024/1205024_58_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Baymont Inn and Suites Louisville Airport South",
+    "address": "6515 Signature Dr, Louisville, KY, 40213 United States",
+    "distance": 6.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16800/16734/16734_198_l.jpg"
+  },
+  {
+    "price": 120,
+    "name": "Fern Valley Hotel \u0026 Conference Center",
+    "address": "2715 Fern Valley Rd, Louisville, KY, 40213 United States",
+    "distance": 6.2,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8600/8555/8555_51_l.jpg"
+  }
+]

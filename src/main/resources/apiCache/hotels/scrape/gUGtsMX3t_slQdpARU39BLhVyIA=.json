@@ -1,0 +1,82 @@
+[
+  {
+    "price": 36,
+    "name": "Classic Inn Motel",
+    "address": "710 North White Sands Boulevard, Alamogordo, NM, 88310 United States",
+    "distance": 0.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9990000/9985400/9985321/9985321_22_l.jpg"
+  },
+  {
+    "price": 40,
+    "name": "Satellite Inn",
+    "address": "2224 N. White Sands Blvd, Alamogordo, NM, 88310 United States",
+    "distance": 1.2,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10490000/10482800/10482702/10482702_1_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Days Inn Alamogordo",
+    "address": "907 S White Sands Blvd, Alamogordo, NM, 88310 United States",
+    "distance": 1.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12000/11947/11947_92_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "1020 S White Sands Blvd, Alamogordo, NM, 88310 United States",
+    "distance": 1.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42100/42002/867c6440_l.jpg"
+  },
+  {
+    "price": 40,
+    "name": "Budget Motel 7",
+    "address": "2404 N White Sands Blvd, Alamogordo, NM, 88310 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15490000/15489900/15489868/15489868_5_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Magnuson Hotel and Suites Alamogordo",
+    "address": "1021 S White Sands Blvd, Alamogordo, NM, 88310 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16600/16510/16510_112_l.jpg"
+  },
+  {
+    "price": 40,
+    "name": "Motel 6 Alamogordo",
+    "address": "251 Panorama Blvd, Alamogordo, NM, 88310 United States",
+    "distance": 1.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1030000/1029900/1029897/1029897_35_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Fairfield Inn \u0026 Suites Alamogordo",
+    "address": "300 Panorama Blvd, Alamogordo, NM, 88310 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4390000/4386400/4386352/0139eb0b_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Hampton Inn Alamogordo",
+    "address": "1295 Hamilton Road, Alamogordo, NM, 88310 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/300000/297200/297145/297145_34_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Alamogordo Hwy 54/70",
+    "address": "100 Kerry Ave, Alamogordo, NM, 88310 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1470000/1469200/1469191/0860797e_l.jpg"
+  }
+]

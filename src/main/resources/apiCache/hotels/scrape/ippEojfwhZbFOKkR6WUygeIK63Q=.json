@@ -1,0 +1,82 @@
+[
+  {
+    "price": 45,
+    "name": "Travelers Inn",
+    "address": "401 South Sam Rayburn Freeway, Sherman, TX, 75090 United States",
+    "distance": 0.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50800/50710/50710_1_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Sherman Inn",
+    "address": "1831 Texoma Parkway, Sherman, TX, 75090 United States",
+    "distance": 1.4,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12600000/12599800/12599769/12599769_34_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Quality Suites Sherman",
+    "address": "2900 N Highway 75, Sherman, TX, 75090 United States",
+    "distance": 2.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41800/41746/41746_36_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Sherman Highway 75",
+    "address": "2909 Michelle Dr, Sherman, TX, 75092 United States",
+    "distance": 2.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1550000/1541100/1541080/1541080_161_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Hampton Inn Sherman",
+    "address": "2904 Michelle Dr, Sherman, TX, 75092 United States",
+    "distance": 2.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/260000/251500/251490/251490_16_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "La Quinta Inn \u0026 Suites Sherman",
+    "address": "2912 Hwy 75 North, Sherman, TX, 75090 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/59900/59849/4a915386_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Days Inn Sherman",
+    "address": "3605 Highway 75 South, (S. Sam Rayburn Frwy), Sherman, TX, 75090 United States",
+    "distance": 2.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1190000/1181000/1180953/1180953_113_l.jpg"
+  },
+  {
+    "price": 48,
+    "name": "Super 8 Sherman",
+    "address": "111 E Highway 1417, Sherman, TX, 75090 United States",
+    "distance": 2.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50400/50348/50348_45_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Hilton Garden Inn Denison/Sherman/At Texoma Event Center",
+    "address": "5015 South US 75, Denison, TX, 75020 United States",
+    "distance": 5.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9140000/9132200/9132189/9132189_5_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Hampton Inn and Suites Denison, TX",
+    "address": "3415 Ansley Blvd, Denison, TX, 75020 United States",
+    "distance": 8.4,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4020000/4013200/4013175/4013175_7_l.jpg"
+  }
+]

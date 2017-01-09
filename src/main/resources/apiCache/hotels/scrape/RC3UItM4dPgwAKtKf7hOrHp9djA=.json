@@ -1,0 +1,82 @@
+[
+  {
+    "price": 127,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Vermillion",
+    "address": "1200 N Dakota St, Vermillion, SD, 57069 United States",
+    "distance": 4.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1050000/1046300/1046236/1046236_116_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "Best Western Vermillion Inn",
+    "address": "701 W Cherry St, Vermillion, SD, 57069 United States",
+    "distance": 4.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15800/15762/15762_162_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Best Western Kelly Inn",
+    "address": "1607 E Highway 50, Yankton, SD, 57078 United States",
+    "distance": 20.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6850000/6847000/6846956/6846956_201_l.jpg"
+  },
+  {
+    "price": 43,
+    "name": "Travelodge Yankton",
+    "address": "1603 East Highway 50, Yankton, SD, 57078 United States",
+    "distance": 20.0,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/855600/855512/855512_36_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Days Inn Yankton SD",
+    "address": "2410 Broadway Ave, Yankton, SD, 57078 United States",
+    "distance": 21.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27300/27232/e8174646_l.jpg"
+  },
+  {
+    "price": 131,
+    "name": "Holiday Inn Express \u0026 Suites Yankton",
+    "address": "2607 Broadway Ave, Yankton, SD, 57078 United States",
+    "distance": 21.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/970000/966200/966127/966127_188_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Econo Lodge",
+    "address": "611 W 23rd Street, Yankton, SD, 57078 United States",
+    "distance": 21.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10450000/10440200/10440162/10440162_12_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Super 8 North Sioux City",
+    "address": "108 Sodrac Dr, North Sioux City, SD, 57049 United States",
+    "distance": 33.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6030000/6022300/6022230/6022230_45_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "Hampton Inn North Sioux City",
+    "address": "101 Sodrac Dr, North Sioux City, SD, 57049 United States",
+    "distance": 33.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/260000/251100/251083/251083_36_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Days Inn North Sioux City",
+    "address": "1311 River Dr, North Sioux City, SD, 57049 United States",
+    "distance": 33.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15900/15828/e09fe63e_l.jpg"
+  }
+]

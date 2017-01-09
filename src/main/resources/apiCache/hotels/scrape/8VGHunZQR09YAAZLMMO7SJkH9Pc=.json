@@ -1,0 +1,42 @@
+[
+  {
+    "price": 45,
+    "name": "Cambridge Inn Motor Lodge",
+    "address": "100 Cambridge Ave, Coalinga, CA, 93210 United States",
+    "distance": 4.2,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15150000/15145700/15145639/8fa6a933_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Motel 6 Coalinga East",
+    "address": "25008 W Dorris Ave, Coalinga, CA, 93210 United States",
+    "distance": 9.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/996300/996222/996222_129_l.jpg"
+  },
+  {
+    "price": 49,
+    "name": "Coalinga Travelodge",
+    "address": "25278 W Dorris Ave, South I-5, Exit Hwy 198, Coalinga, CA, 93210 United States",
+    "distance": 9.2,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1110000/1103800/1103752/1103752_30_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Best Western Big Country Inn",
+    "address": "25020 W Dorris Avenue, Coalinga, CA, 93210 United States",
+    "distance": 9.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/880000/879700/879643/879643_33_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Harris Ranch Inn",
+    "address": "24505 West Dorris Avenue, Coalinga, CA, 93210 United States",
+    "distance": 9.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11300000/11297900/11297837/11297837_74_l.jpg"
+  }
+]

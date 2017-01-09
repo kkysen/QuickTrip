@@ -1,0 +1,18 @@
+[
+  {
+    "price": 139,
+    "name": "Inn on the Hudson",
+    "address": "634 Main Street, Peekskill, NY, 10566 United States",
+    "distance": 0.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1150000/1148900/1148858/1148858_67_l.jpg"
+  },
+  {
+    "price": 126,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Peekskill - Hudson Valley",
+    "address": "2 John Walsh Boulevard, Peekskill, NY, 10566 United States",
+    "distance": 1.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6550000/6541500/6541495/d293c39f_l.jpg"
+  }
+]

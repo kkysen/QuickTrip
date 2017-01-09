@@ -1,0 +1,26 @@
+[
+  {
+    "price": 54,
+    "name": "Econo Lodge Belton - Kansas City South",
+    "address": "222 Peculiar Dr, Belton, MO, 64012 United States",
+    "distance": 3.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42300/42295/42295_42_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Hampton Inn Belton/Kansas City area",
+    "address": "16410 Cornerstone Drive, Belton, MO, 64012 United States",
+    "distance": 3.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5690000/5685800/5685744/5685744_29_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Quality Inn",
+    "address": "17205 S US Highway 71, Belton, MO, 64012 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/520000/519900/519843/aba820b3_l.jpg"
+  }
+]

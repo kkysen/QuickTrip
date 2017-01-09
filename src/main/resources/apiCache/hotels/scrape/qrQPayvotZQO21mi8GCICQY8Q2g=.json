@@ -1,0 +1,82 @@
+[
+  {
+    "price": 129,
+    "name": "Holiday Inn Express \u0026 Suites Delafield",
+    "address": "3030 Golf Rd, Delafield, WI, 53018 United States",
+    "distance": 3.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/60800/60775/60775_56_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "AmericInn Hotel \u0026 Suites Delafield",
+    "address": "2412 Milwaukee St, Delafield, WI, 53018 United States",
+    "distance": 4.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15730000/15723400/15723341/275e3c93_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "La Quinta Inn \u0026 Suites Milwaukee Delafield",
+    "address": "2801 Hillside Dr, Delafield, WI, 53018 United States",
+    "distance": 4.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/67600/67577/e36ed37e_l.jpg"
+  },
+  {
+    "price": 188,
+    "name": "The Delafield Hotel",
+    "address": "415 Genesee St, Delafield, WI, 53018 United States",
+    "distance": 4.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1480000/1478300/1478232/7996ab8b_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Country Springs Hotel",
+    "address": "2810 Golf Road, Pewaukee, WI, 53072 United States",
+    "distance": 4.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/894100/894006/894006_108_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Best Western Waukesha Grand",
+    "address": "2840 N Grandview Boulevard, Pewaukee, WI, 53072 United States",
+    "distance": 5.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/670000/663900/663812/663812_67_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Wildwood Lodge",
+    "address": "N14 W24121 Tower Place, Pewaukee, WI, 53072 United States",
+    "distance": 6.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/62400/62392/62392_63_l.jpg"
+  },
+  {
+    "price": 136,
+    "name": "Holiday Inn Pewaukee - Milwaukee West",
+    "address": "N 14 W 24140 Tower Place, Pewaukee, WI, 53072 United States",
+    "distance": 6.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/580000/579400/579313/579313_148_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Hilton Garden Inn Oconomowoc",
+    "address": "1443 Pabst Farms Cir, Oconomowoc, WI, 53066 United States",
+    "distance": 6.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1690000/1683700/1683610/1683610_10_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Olympia Resort and Conference Center",
+    "address": "1350 Royale Mile Rd, Oconomowoc, WI, 53066 United States",
+    "distance": 7.2,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/892700/892674/892674_84_l.jpg"
+  }
+]

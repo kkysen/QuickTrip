@@ -1,0 +1,82 @@
+[
+  {
+    "price": 50,
+    "name": "Comfort Inn Pittston - Wilkes-Barre/Scranton Airport",
+    "address": "400 Route 315 Hwy, Pittston, PA, 18640 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3490000/3486700/3486606/ed1e11d8_l.jpg"
+  },
+  {
+    "price": 121,
+    "name": "Holiday Inn Express Wilkes-Barre/Scranton(Airport)",
+    "address": "30 Concorde Drive, Avoca, PA, 18641 United States",
+    "distance": 3.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27900/27830/27830_223_l.jpg"
+  },
+  {
+    "price": 44,
+    "name": "Rodeway Inn Moosic - Scranton",
+    "address": "4130 Birney Avenue, Moosic, PA, 18507 United States",
+    "distance": 5.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13700/13690/13690_21_l.jpg"
+  },
+  {
+    "price": 112,
+    "name": "Holiday Inn Wilkes Barre - East Mountain",
+    "address": "600 Wildflower Drive at Route 115, Wilkes-Barre, PA, 18702 United States",
+    "distance": 5.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5600/5578/5578_279_l.jpg"
+  },
+  {
+    "price": 140,
+    "name": "The Woodlands Inn, an Ascend Hotel Collection Member",
+    "address": "1073 Highway 315, Wilkes-Barre, PA, 18702 United States",
+    "distance": 5.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28300/28231/28231_213_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Extended Stay America - Wilkes-Barre - Hwy. 315",
+    "address": "1067 Highway 315, Wilkes-Barre, PA, 18702 United States",
+    "distance": 5.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/930000/921400/921390/921390_64_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Holiday Inn Express Wilkes Barre East",
+    "address": "1063 Highway 315 Blvd, Wilkes-Barre, PA, 18702 United States",
+    "distance": 5.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2160000/2150400/2150395/2150395_86_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Red Roof Inn Wilkes - Barre Arena",
+    "address": "1035 Highway 315, Wilkes-Barre, PA, 18702 United States",
+    "distance": 5.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4600/4522/4522_62_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Fairfield Inn \u0026 Suites Wilkes-Barre Scranton",
+    "address": "884 Kidder Street, Wilkes-Barre, PA, 18702 United States",
+    "distance": 5.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2440000/2431700/2431606/93b5f96a_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Days Inn Wilkes Barre",
+    "address": "760 Kidder St, Wilkes-Barre, PA, 18702 United States",
+    "distance": 6.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43400/43305/dda3aaae_l.jpg"
+  }
+]

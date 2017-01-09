@@ -1,0 +1,82 @@
+[
+  {
+    "price": 78,
+    "name": "Quality Inn Stillwater",
+    "address": "2515 W 6th Ave, Stillwater, OK, 74074 United States",
+    "distance": 0.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16000/15995/15995_69_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Residence Inn by Marriott Stillwater",
+    "address": "800 S Murphy Street, Stillwater, OK, 74074 United States",
+    "distance": 1.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2750000/2745500/2745493/2745493_95_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Hampton Inn \u0026 Suites Stillwater West",
+    "address": "615 S. Country Club Road, Stillwater, OK, 74074 United States",
+    "distance": 1.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13210000/13206100/13206019/247e205f_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Holiday Inn Stillwater - University West",
+    "address": "715 S Country Club Rd, Stillwater, OK, 74076 United States",
+    "distance": 1.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2210000/2206400/2206327/2206327_45_l.jpg"
+  },
+  {
+    "price": 57,
+    "name": "Days Inn Stillwater",
+    "address": "5010 W 6th Ave, Stillwater, OK, 74074 United States",
+    "distance": 1.7,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3100/3006/6d7ee15f_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "La Quinta Inn \u0026 Suites Stillwater - University Area",
+    "address": "5285 W 6th Ave, Stillwater, OK, 74074 United States",
+    "distance": 1.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2690000/2681400/2681347/2d8d30cc_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Best Western Plus Cimarron Hotel \u0026 Suites",
+    "address": "315 N Husband Street, Stillwater, OK, 74075 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2080000/2070700/2070608/2070608_64_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Home2 Suites by Hilton Stillwater",
+    "address": "306 East Hall of Fame Avenue, Stillwater, OK, 74074 United States",
+    "distance": 2.3,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14930000/14929000/14928989/97ac5e43_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Fairfield Inn \u0026 Suites Stillwater",
+    "address": "418 E Hall Of Fame Avenue, Stillwater, OK, 74075 United States",
+    "distance": 2.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27600/27536/27536_54_l.jpg"
+  },
+  {
+    "price": 510,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Stillwater",
+    "address": "423 E Hall Of Fame Avenue, Stillwater, OK, 74075 United States",
+    "distance": 2.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1820000/1819800/1819731/cc57bc9e_l.jpg"
+  }
+]

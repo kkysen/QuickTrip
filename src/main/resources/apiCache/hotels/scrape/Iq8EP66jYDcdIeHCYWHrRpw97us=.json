@@ -1,0 +1,42 @@
+[
+  {
+    "price": 108,
+    "name": "Best Western Sundowner",
+    "address": "125 Overland Trl, Sterling, CO, 80751 United States",
+    "distance": 4.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4600/4559/4559_204_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "2020 Leisure Ln, Sterling, CO, 80751 United States",
+    "distance": 4.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1320000/1312500/1312442/b1147eff_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Traveler Inn Sterling",
+    "address": "12881 Highway 61, Sterling, CO, 80751 United States",
+    "distance": 4.7,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/180000/170700/170613/170613_6_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Super 8 - Sterling",
+    "address": "12883 Highway 61, Sterling, CO, 80751 United States",
+    "distance": 4.7,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/123200/123167/123167_15_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Ramada Sterling",
+    "address": "2500 East Chestnut, Sterling, CO, 80751 United States",
+    "distance": 5.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/200/195/cb67973e_l.jpg"
+  }
+]

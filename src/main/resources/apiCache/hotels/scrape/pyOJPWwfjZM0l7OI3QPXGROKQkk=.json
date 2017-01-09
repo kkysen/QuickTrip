@@ -1,0 +1,58 @@
+[
+  {
+    "price": 60,
+    "name": "New Sungate Motel",
+    "address": "901 S Federal Hwy, Lake Worth, FL, 33460 United States",
+    "distance": 3.6,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1620000/1614000/1613985/1613985_46_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Lago Mar Motel and Apartments",
+    "address": "317 North Federal Highway, Lake Worth, FL, 33460 United States",
+    "distance": 3.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8320000/8317600/8317589/8317589_1_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Capri Apartments",
+    "address": "911 N Federal Highway, Lake Worth, FL, 33460 United States",
+    "distance": 3.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8320000/8317200/8317139/8317139_16_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Hampton Inn West Palm Beach-Lake Worth-Turnpike",
+    "address": "8205 Lake Worth Rd, Lake Worth, FL, 33467 United States",
+    "distance": 4.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1510000/1507300/1507210/1507210_14_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Fairfield Inn And Suites By Marriott Palm Beach",
+    "address": "2870 S Ocean Blvd, Palm Beach, FL, 33480 United States",
+    "distance": 4.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11700/11628/57c253c3_l.jpg"
+  },
+  {
+    "price": 212,
+    "name": "Kimpton Tideline Ocean Resort \u0026 Spa",
+    "address": "2842 S Ocean Blvd, Palm Beach, FL, 33480 United States",
+    "distance": 4.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2000/1985/1985_184_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Palm Beach Waterfront Suites",
+    "address": "3031 South Ocean Blvd, Palm Beach, FL, 33480 United States",
+    "distance": 4.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/13000000/12990500/12990499/12990499_36_l.jpg"
+  }
+]

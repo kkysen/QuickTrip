@@ -1,0 +1,82 @@
+[
+  {
+    "price": 79,
+    "name": "Comfort Suites",
+    "address": "1775 East Belvidere Road, Grayslake, IL, 60030 United States",
+    "distance": 5.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2370000/2363600/2363522/3c0fcc1e_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Hampton Inn \u0026 Suites Chicago-Libertyville",
+    "address": "2061 Shell Dr, Libertyville, IL, 60048 United States",
+    "distance": 6.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2750000/2745500/2745445/2745445_50_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Candlewood Suites Chicago/Libertyville",
+    "address": "1100 N Us Route 45, Libertyville, IL, 60048 United States",
+    "distance": 6.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/117000/116912/116912_194_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Waterfront Hotel and Marina",
+    "address": "3309 North Chapel Hill Road, Johnsburg, McHenry, IL, 60051-2919 United States",
+    "distance": 7.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9050000/9048100/9048032/9048032_17_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Holiday Inn Gurnee Convention Center",
+    "address": "6161 West Grand Ave, Gurnee, IL, 60031 United States",
+    "distance": 7.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13400/13356/13356_48_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Comfort Inn Gurnee",
+    "address": "6080 Gurnee Mills Circle East, Gurnee, IL, 60031 United States",
+    "distance": 7.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19400/19324/19324_81_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Fairfield Inn By Marriott Gurnee",
+    "address": "6090 Gurnee Mills Blvd E, Gurnee, IL, 60031 United States",
+    "distance": 7.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4800/4715/4715_28_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Best Western Plus Antioch Hotel \u0026 Suites",
+    "address": "350 W Highway 173, Antioch, IL, 60002 United States",
+    "distance": 7.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23200/23196/5859ee70_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Motel 6 Libertyville IL",
+    "address": "1809 N Milwaukee Ave, 94 Exit Buckly Rd HWY137, Libertyville, IL, 60048 United States",
+    "distance": 7.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/49500/49446/49446_102_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Extended Stay America Chicago - Gurnee",
+    "address": "5724 Northridge Dr, Gurnee, IL, 60031 United States",
+    "distance": 8.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40900/40841/40841_25_l.jpg"
+  }
+]

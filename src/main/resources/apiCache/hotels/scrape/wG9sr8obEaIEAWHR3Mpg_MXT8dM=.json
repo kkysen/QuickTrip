@@ -1,0 +1,82 @@
+[
+  {
+    "price": 85,
+    "name": "Hotel Ottumwa",
+    "address": "107 E 2nd St, Ottumwa, IA, 52501 United States",
+    "distance": 0.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6390000/6382400/6382319/6382319_10_l.jpg"
+  },
+  {
+    "price": 96,
+    "name": "Americinn Ottumwa",
+    "address": "222 West Second Street, Ottumwa, IA, 52501 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/970000/970000/969961/969961_1_l.jpg"
+  },
+  {
+    "price": 112,
+    "name": "Hampton Inn Ottumwa",
+    "address": "943 N Quincy Ave, Ottumwa, IA, 52501 United States",
+    "distance": 1.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4730000/4720500/4720459/4720459_20_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Days Inn - Ottumwa",
+    "address": "2824 N Court St, Ottumwa, IA, 52501 United States",
+    "distance": 2.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26000/25964/38dbd319_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Lexington Inn and Suites - Ottumwa",
+    "address": "2813 N Court Street, Ottumwa, IA, 52501 United States",
+    "distance": 2.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7200/7165/7165_63_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Super 8 Ottumwa",
+    "address": "2823 N Court St, Ottumwa, IA, 52501 United States",
+    "distance": 2.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/970000/968600/968519/7a8a7b22_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "Quality Inn And Suites Ottumwa",
+    "address": "125 W Joseph Ave, Ottumwa, IA, 52501 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/51200/51148/51148_81_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Super 8 - Fairfield",
+    "address": "3001 W Burlington Ave, Hwy 34 West, Fairfield, IA, 52556 United States",
+    "distance": 22.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/990000/988100/988010/a407c493_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Super 8 Oskaloosa",
+    "address": "306 S 17th St, Oskaloosa, IA, 52577 United States",
+    "distance": 22.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/51200/51146/fbb3533e_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Best Western Fairfield Inn",
+    "address": "2200 W Burlington Ave, Fairfield, IA, 52556 United States",
+    "distance": 22.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8300/8246/fba03294_l.jpg"
+  }
+]

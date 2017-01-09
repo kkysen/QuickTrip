@@ -1,0 +1,42 @@
+[
+  {
+    "price": 69,
+    "name": "Days Inn Americus",
+    "address": "1605 E Lamar Street, Americus, GA, 31709 United States",
+    "distance": 0.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50800/50754/afa47258_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Hampton Inn Americus",
+    "address": "1609 E Lamar St, Americus, GA, 31709 United States",
+    "distance": 0.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1150000/1142300/1142275/1142275_13_l.jpg"
+  },
+  {
+    "price": 86,
+    "name": "Best Western Plus Windsor Hotel",
+    "address": "125 W Lamar St, Americus, GA, 31709 United States",
+    "distance": 1.9,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1210000/1201800/1201789/1201789_74_l.jpg"
+  },
+  {
+    "price": 61,
+    "name": "Quality Inn Americus",
+    "address": "1205 S Martin Luther King Blvd, Americus, GA, 31709 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50500/50441/50441_73_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Motel 6 Americus, GA",
+    "address": "1007 Martin Luther King, US 280 and US 19, Americus, GA, 31709 United States",
+    "distance": 2.4,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41400/41369/516a78df_l.jpg"
+  }
+]

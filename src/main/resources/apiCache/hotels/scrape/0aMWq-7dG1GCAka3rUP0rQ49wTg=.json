@@ -1,0 +1,82 @@
+[
+  {
+    "price": 42,
+    "name": "Knights Inn Muskogee",
+    "address": "910 N 43rd St., Muskogee, OK, 74403 United States",
+    "distance": 7.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2230000/2227500/2227477/1c2b2405_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Taylor Ferry Marina And Resort",
+    "address": "34179 Marina Drive, Wagoner, OK, 74467 United States",
+    "distance": 11.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11130000/11120100/11120079/11120079_15_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Muskogee",
+    "address": "2701 W Shawnee St, Muskogee, OK, 74401 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1690000/1688400/1688315/1688315_154_l.jpg"
+  },
+  {
+    "price": 82,
+    "name": "Best Western Plus The Inn \u0026 Suites At Muskogee",
+    "address": "2701 Military Blvd, Muskogee, OK, 74401 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11470000/11469000/11468916/11468916_118_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Home2 Suites by Hilton Muskogee",
+    "address": "2819 Military Boulevard, Muskogee, OK, 74401 United States",
+    "distance": 12.0,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15690000/15682600/15682594/7bbdc9ce_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Comfort Inn Muskogee",
+    "address": "3133 Azalea Park Dr, Muskogee, OK, 74401 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42800/42797/42797_48_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Hampton Inn Muskogee",
+    "address": "3100 Military Blvd, Muskogee, OK, 74401 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/538700/538633/538633_32_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Muskogee",
+    "address": "1650 N 32nd Street, Muskogee, OK, 74401 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2600000/2590100/2590016/2590016_27_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Studio 6 Muskogee",
+    "address": "1601 N 32nd Street, Muskogee, OK, 74401 United States",
+    "distance": 12.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15430000/15421100/15421085/15421085_5_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Muskogee Inn And Suites",
+    "address": "1651 N 32nd St, Muskogee, OK, 74401 United States",
+    "distance": 12.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8120000/8115000/8114920/8114920_6_l.jpg"
+  }
+]

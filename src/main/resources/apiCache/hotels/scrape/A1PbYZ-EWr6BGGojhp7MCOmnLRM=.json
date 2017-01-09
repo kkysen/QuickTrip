@@ -1,0 +1,82 @@
+[
+  {
+    "price": 149,
+    "name": "Hampton Inn \u0026 Suites Baton Rouge Downtown",
+    "address": "462 Lafayette St, Baton Rouge, LA, 70801 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5640000/5634000/5633914/5633914_19_l.jpg"
+  },
+  {
+    "price": 170,
+    "name": "WATERMARK Baton Rouge, Autograph Collection",
+    "address": "150 3rd Street, Baton Rouge, LA, 70801 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14910000/14901100/14901014/14901014_4_l.jpg"
+  },
+  {
+    "price": 150,
+    "name": "Hotel Indigo Baton Rouge Downtown",
+    "address": "200 Convention St, Baton Rouge, LA, 70801 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3850000/3849400/3849348/3849348_113_l.jpg"
+  },
+  {
+    "price": 166,
+    "name": "Hilton Baton Rouge Capitol Center",
+    "address": "201 Lafayette St, Baton Rouge, LA, 70801 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1540000/1532700/1532626/1532626_112_l.jpg"
+  },
+  {
+    "price": 121,
+    "name": "Holiday Inn Express Baton Rouge Downtown",
+    "address": "400 North Blvd, Baton Rouge, LA, 70802 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9220000/9215400/9215312/9215312_23_l.jpg"
+  },
+  {
+    "price": 96,
+    "name": "Belle of Baton Rouge Casino Hotel",
+    "address": "102 France St, Baton Rouge, LA, 70802 United States",
+    "distance": 0.6,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/580000/578700/578637/578637_14_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "La Quinta Inn Baton Rouge University Area",
+    "address": "2333 S Acadian Thruway, Baton Rouge, LA, 70808 United States",
+    "distance": 2.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6800/6748/848e259e_l.jpg"
+  },
+  {
+    "price": 137,
+    "name": "Courtyard Baton Rouge Acadian Centre/LSU Area",
+    "address": "2421 S Acadian Thruway, Baton Rouge, LA, 70808 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21700/21620/decddcfe_l.jpg"
+  },
+  {
+    "price": 106,
+    "name": "Radisson Hotel Baton Rouge",
+    "address": "2445 S Acadian Thruway, Baton Rouge, LA, 70808 United States",
+    "distance": 2.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8100/8066/8066_111_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Red Roof Inn Port Allen",
+    "address": "3051 LA Highway 1 South, Port Allen, LA, 70767 United States",
+    "distance": 2.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3530000/3520300/3520236/37705aa7_l.jpg"
+  }
+]

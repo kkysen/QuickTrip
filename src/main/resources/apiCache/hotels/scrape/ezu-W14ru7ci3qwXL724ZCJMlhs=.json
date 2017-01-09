@@ -1,0 +1,26 @@
+[
+  {
+    "price": 52,
+    "name": "Econo Lodge Princeton",
+    "address": "2200 N Main St, Princeton, IL, 61356 United States",
+    "distance": 1.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25100/25022/25022_33_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Days Inn Princeton",
+    "address": "2238 North Main St, Princeton, IL, 61356 United States",
+    "distance": 1.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42200/42112/42112_37_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Super 8 Princeton",
+    "address": "2929 N. Main St., Princeton, IL, 61356 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1150000/1145700/1145646/74ebfe9a_l.jpg"
+  }
+]

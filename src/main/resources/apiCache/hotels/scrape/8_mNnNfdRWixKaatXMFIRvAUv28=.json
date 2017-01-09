@@ -1,0 +1,18 @@
+[
+  {
+    "price": 57,
+    "name": "Hawkeye Motel",
+    "address": "1320 W. Madison St., Washington, IA, 52353 United States",
+    "distance": 1.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11570000/11561700/11561604/11561604_9_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "Hometown Inn \u0026 Suites",
+    "address": "119 Westview Drive, Washington, IA, 52353 United States",
+    "distance": 1.2,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1070000/1067300/1067207/1067207_40_l.jpg"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "price": 64,
+    "name": "Rodeway Inn",
+    "address": "2501 E Main Street, Gatesville, TX, 76528 United States",
+    "distance": 3.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13700/13618/13618_138_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Holiday Inn Express \u0026 Suites Gatesville",
+    "address": "2904 South Highway 36, Gatesville, TX, 76528 United States",
+    "distance": 3.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15270000/15260500/15260495/f70ee2b1_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "Ramada Gatesville",
+    "address": "111 N Highway 36 Byp, Gatesville, TX, 76528 United States",
+    "distance": 4.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1090000/1088200/1088156/13ca9437_l.jpg"
+  }
+]

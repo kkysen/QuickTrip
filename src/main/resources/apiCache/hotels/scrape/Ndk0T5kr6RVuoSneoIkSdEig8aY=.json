@@ -1,0 +1,82 @@
+[
+  {
+    "price": 110,
+    "name": "Hilton Garden Inn Wayne",
+    "address": "15 Nevins Rd, Wayne, NJ, 07470 United States",
+    "distance": 2.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9870000/9866800/9866722/9866722_16_l.jpg"
+  },
+  {
+    "price": 209,
+    "name": "Residence Inn by Marriott Wayne",
+    "address": "30 Nevins Rd, Wayne, NJ, 07470 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1330000/1327000/1326980/1326980_139_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Best Western Regency House Hotel",
+    "address": "140 Route 23 North, Pompton Plains, NJ, 07444 United States",
+    "distance": 4.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/915900/915875/915875_70_l.jpg"
+  },
+  {
+    "price": 122,
+    "name": "Holiday Inn Express Haskell - Wayne Area",
+    "address": "303 Union Avenue, Haskell, NJ, 07420 United States",
+    "distance": 4.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2260000/2256600/2256592/2256592_130_l.jpg"
+  },
+  {
+    "price": 199,
+    "name": "Residence Inn by Marriott Saddle River",
+    "address": "7 Boroline Rd, Saddle River, NJ, 07458 United States",
+    "distance": 5.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/892900/892852/892852_50_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Rodeway Inn",
+    "address": "411 Broadway, Paterson, NJ, 07501 United States",
+    "distance": 6.0,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1720000/1717200/1717131/1717131_24_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Extended Stay America Ramsey - Upper Saddle River",
+    "address": "112 State Hwy. 17, Ramsey, NJ, 07446 United States",
+    "distance": 6.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/867400/867313/867313_39_l.jpg"
+  },
+  {
+    "price": 132,
+    "name": "Holiday Inn Express Ramsey-Mahwah",
+    "address": "946 Route 17 North, Ramsey, NJ, 07446 United States",
+    "distance": 6.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4700/4613/c1539625_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Best Western The Inn At Ramsey",
+    "address": "1315 Route 17 South, Ramsey, NJ, 07446 United States",
+    "distance": 6.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/480000/473500/473490/473490_78_l.jpg"
+  },
+  {
+    "price": 152,
+    "name": "Homewood Suites by Hilton Mahwah",
+    "address": "375 Corporate Dr, Mahwah, NJ, 07430 United States",
+    "distance": 7.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/700000/699300/699247/699247_39_l.jpg"
+  }
+]

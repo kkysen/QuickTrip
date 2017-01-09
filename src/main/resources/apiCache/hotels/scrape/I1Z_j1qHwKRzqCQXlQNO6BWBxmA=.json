@@ -1,0 +1,82 @@
+[
+  {
+    "price": 138,
+    "name": "Edgewater Hotel - Gatlinburg",
+    "address": "402 River Rd, Gatlinburg, TN, 37738 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/898200/898113/898113_33_l.jpg"
+  },
+  {
+    "price": 144,
+    "name": "The Historic Gatlinburg Inn",
+    "address": "755 Parkway, Gatlinburg, TN, 37738 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6550000/6545000/6544999/6544999_23_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "River Terrace Resort \u0026 Convention Center",
+    "address": "240 River Road, Gatlinburg, TN, 37738 United States",
+    "distance": 0.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84900/84853/84853_74_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Econo Lodge Inn \u0026 Suites at the Convention Center",
+    "address": "135 Reagan Dr, Gatlinburg, TN, 37738 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1160000/1159300/1159241/9dab3420_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Country Inn \u0026 Suites By Carlson, Gatlinburg, TN",
+    "address": "421 Reagan Lane, Gatlinburg, TN, 37738 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10540000/10538800/10538767/10538767_30_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Mountain House Inn",
+    "address": "247 Newton Lane, Gatlinburg, TN, 37738 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21800/21708/21708_10_l.jpg"
+  },
+  {
+    "price": 120,
+    "name": "Brevard Inn and Cabins",
+    "address": "225 W Holly Ridge Rd, Gatlinburg, TN, 37738 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11450000/11443000/11442903/11442903_3_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Marshall\u0027s Creek Rest Motel",
+    "address": "313 Baskins Creek Rd, Gatlinburg, TN, 37738 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15060000/15052700/15052685/15052685_4_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Gatlinburg",
+    "address": "211 Historic Nature Trl, Gatlinburg, TN, 37738 United States",
+    "distance": 0.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/200000/191100/191032/191032_217_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Economy Inn \u0026 Suites",
+    "address": "208 Woliss Lane, Gatlinburg, TN, 37738 United States",
+    "distance": 0.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1200000/1199600/1199596/1199596_17_l.jpg"
+  }
+]

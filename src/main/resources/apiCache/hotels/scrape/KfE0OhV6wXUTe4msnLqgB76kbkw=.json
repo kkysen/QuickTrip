@@ -1,0 +1,34 @@
+[
+  {
+    "price": 52,
+    "name": "Super 8 Aberdeen Southern Pines",
+    "address": "1408 N Sandhills Blvd, Aberdeen, NC, 28315 United States",
+    "distance": 3.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/996200/996190/996190_51_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Quality Inn Pinehurst Area",
+    "address": "1405 North Sandhills Boulevard, Aberdeen, NC, 28315 United States",
+    "distance": 3.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8250000/8249400/8249329/223d4548_l.jpg"
+  },
+  {
+    "price": 154,
+    "name": "Towneplace Suites Southern Pines Aberdeen",
+    "address": "205 Columbus Drive, Aberdeen, NC, 28315 United States",
+    "distance": 3.6,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14680000/14678100/14678098/0ffe3556_l.jpg"
+  },
+  {
+    "price": 150,
+    "name": "Hampton Inn \u0026 Suites Southern Pines-Pinehurst",
+    "address": "200 Columbus Drive, Aberdeen, NC, 28315 United States",
+    "distance": 3.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10800/10709/10709_54_l.jpg"
+  }
+]

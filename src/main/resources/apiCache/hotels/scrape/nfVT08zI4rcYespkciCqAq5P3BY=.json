@@ -1,0 +1,42 @@
+[
+  {
+    "price": 76,
+    "name": "Super 8 Wheat Ridge/Denver West",
+    "address": "4700 Kipling St, Wheat Ridge, CO, 80033 United States",
+    "distance": 0.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/80800/80762/b8a474ae_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Holiday Inn Express \u0026 Suites Wheat Ridge-Denver West",
+    "address": "10101 W 48th Avenue, Wheat Ridge, CO, 80033 United States",
+    "distance": 0.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/440000/439800/439787/439787_204_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Comfort Inn Denver West",
+    "address": "10200 W I-70 Frontage Rd S, Wheat Ridge, CO, 80033 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/862500/862452/f2bc9ea7_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Motel 6 Denver West Wheat Ridge - North",
+    "address": "9920 W 49th Ave, Wheat Ridge, CO, 80033 United States",
+    "distance": 0.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/996200/996132/e194efe2_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Howard Johnson Denver/West",
+    "address": "12100 W 44th Ave, Wheat Ridge, CO, 80033 United States",
+    "distance": 1.7,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4000/3990/3990_113_l.jpg"
+  }
+]

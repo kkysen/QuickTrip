@@ -1,0 +1,82 @@
+[
+  {
+    "price": 60,
+    "name": "Days Inn Amherst",
+    "address": "934 N Leavitt Rd, US Route 2 and State Hwy 58, Amherst, OH, 44001 United States",
+    "distance": 2.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2900/2813/2813_33_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Motel 6 Cleveland West - Lorain - Amherst",
+    "address": "704 North Leavitt Road, Amherst, OH, 44001 United States",
+    "distance": 2.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1040000/1039800/1039727/1039727_23_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Quality Inn",
+    "address": "739 Leona St, Elyria, OH, 44035 United States",
+    "distance": 4.5,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15000/14942/14942_55_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Best Western Inn",
+    "address": "636 Griswold Road, Elyria, OH, 44035 United States",
+    "distance": 4.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8060000/8057500/8057478/8057478_145_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "Country Inn \u0026 Suites By Carlson Elyria",
+    "address": "645 Griswold Rd, Elyria, OH, 44035 United States",
+    "distance": 4.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/913000/912940/2c27dab5_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Red Roof Inn \u0026 Suites Cleveland - Elyria",
+    "address": "621 Midway Boulevard, Elyria, OH, 44035 United States",
+    "distance": 4.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6300/6268/6268_37_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Carefree Inn and Arlington Suites",
+    "address": "523 Griswold Road, Elyria, OH, 44035 United States",
+    "distance": 4.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10440000/10435000/10434931/10434931_1_l.jpg"
+  },
+  {
+    "price": 120,
+    "name": "Hampton Inn \u0026 Suites Elyria",
+    "address": "1795 Lorain Blvd, Elyria, OH, 44036 United States",
+    "distance": 4.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5980000/5970100/5970006/5970006_7_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Days Inn \u0026 Suites Elyria",
+    "address": "1825 Lorain Blvd, Elyria, OH, 44035 United States",
+    "distance": 4.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7400/7329/7329_201_l.jpg"
+  },
+  {
+    "price": 124,
+    "name": "Homewood Suites by Hilton Cleveland / Sheffield",
+    "address": "4930 Transportation Drive, Sheffield Lake, OH, 44054 United States",
+    "distance": 5.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12440000/12435200/12435133/12435133_1_l.jpg"
+  }
+]

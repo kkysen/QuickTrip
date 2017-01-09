@@ -1,0 +1,82 @@
+[
+  {
+    "price": 49,
+    "name": "Motel 6 Hinesville GA",
+    "address": "213 W General Screven Way, Hinesville, GA, 31313 United States",
+    "distance": 0.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1600000/1590200/1590139/6f26e302_l.jpg"
+  },
+  {
+    "price": 39,
+    "name": "Americas Best Value Inn Hinesville",
+    "address": "706 E Oglethorpe Hwy, Hinesville, GA, 31313 United States",
+    "distance": 0.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27600/27508/27508_54_l.jpg"
+  },
+  {
+    "price": 43,
+    "name": "Econo Lodge Near Fort Stewart",
+    "address": "726 East Oglethorpe Hwy, Hwy 84, Hinesville, GA, 31313 United States",
+    "distance": 0.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20500/20452/20452_146_l.jpg"
+  },
+  {
+    "price": 42,
+    "name": "Travelodge Hinesville",
+    "address": "738 E Oglethorpe Highway, Hinesville, GA, 31313 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23300/23246/23246_69_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Quality Inn Hinesville - Fort Stewart Area",
+    "address": "1024 E Oglethorpe Hwy, Hinesville, GA, 31313 United States",
+    "distance": 1.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4610000/4603200/4603192/916002e6_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Hampton Inn Hinesville",
+    "address": "1148 E. Oglethorpe Drive, Hinesville, GA, 31313 United States",
+    "distance": 1.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1080000/1071900/1071875/1071875_25_l.jpg"
+  },
+  {
+    "price": 117,
+    "name": "Holiday Inn Express Hinesville",
+    "address": "1388 Oglethorpe Hwy 84 E, Hinesville, GA, 31313 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1010000/1000700/1000699/1000699_218_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Fairfield Inn \u0026 Suites Hinesville",
+    "address": "1494 E Oglethorpe Hwy, Hinesville, GA, 31313 United States",
+    "distance": 1.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1680000/1677600/1677513/17e44593_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Baymont Inn \u0026 Suites Hinesville Fort Stewart Area",
+    "address": "773 Frank Cochran Drive, Hinesville, GA, 31313 United States",
+    "distance": 1.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/890000/881300/881246/881246_193_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "La Quinta Inn \u0026 Suites Hinesville-Fort Stewart",
+    "address": "1740 E Oglethorpe Hwy, Hinesville, GA, 31313 United States",
+    "distance": 1.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3920000/3918100/3918001/b27990ef_l.jpg"
+  }
+]

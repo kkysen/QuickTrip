@@ -1,0 +1,82 @@
+[
+  {
+    "price": 225,
+    "name": "Hilton Garden Inn Portsmouth/Downtown",
+    "address": "100 High St, Portsmouth, NH, 03801 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1470000/1464400/1464340/1464340_162_l.jpg"
+  },
+  {
+    "price": 219,
+    "name": "Hampton Suites Portsmouth Downtown",
+    "address": "23 Portwalk Pl, Portsmouth, NH, 03801 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8270000/8268900/8268861/8268861_12_l.jpg"
+  },
+  {
+    "price": 189,
+    "name": "Residence Inn by Marriott Portsmouth Downtown/ Waterfront",
+    "address": "100 Deer Street, Portsmouth, NH, 03801 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3510000/3500300/3500249/29c768c8_l.jpg"
+  },
+  {
+    "price": 232,
+    "name": "Sheraton Portsmouth Harborside Hotel",
+    "address": "250 Market St, Portsmouth, NH, 03801 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6000/5911/5911_126_l.jpg"
+  },
+  {
+    "price": 240,
+    "name": "The Hotel Portsmouth",
+    "address": "40 Court St., Portsmouth, NH, 03801 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10300/10206/10206_21_l.jpg"
+  },
+  {
+    "price": 157,
+    "name": "Holiday Inn Portsmouth",
+    "address": "300 Woodbury Ave, Portsmouth, NH, 03801 United States",
+    "distance": 1.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1900/1869/1869_85_l.jpg"
+  },
+  {
+    "price": 112,
+    "name": "Americas Best Inns-Portsmouth",
+    "address": "383 Woodbury Ave, Portsmouth, NH, 03801 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/520000/517500/517424/517424_37_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "Anchorage Inns And Suites",
+    "address": "417 Woodbury Ave, Portsmouth, NH, 03801 United States",
+    "distance": 1.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1120000/1110800/1110781/1110781_45_l.jpg"
+  },
+  {
+    "price": 123,
+    "name": "Best Western Plus Portsmouth Hotel \u0026 Suites",
+    "address": "580 US Highway 1 Bypass, Portsmouth, NH, 03801 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6860000/6850800/6850709/6850709_141_l.jpg"
+  },
+  {
+    "price": 180,
+    "name": "Courtyard by Marriott in Portsmouth",
+    "address": "1000 Market St, Portsmouth, NH, 03801 United States",
+    "distance": 1.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42700/42638/42638_10_l.jpg"
+  }
+]

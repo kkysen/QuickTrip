@@ -1,0 +1,82 @@
+[
+  {
+    "price": 90,
+    "name": "Studio 6 Beaumont, TX",
+    "address": "2660 I-10 East\u0026nbsp;, Beaumont, TX, 77703 United States",
+    "distance": 1.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2320000/2319700/2319625/2319625_44_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Midtown Inn",
+    "address": "1295 N 11th St, Beaumont, TX, 77702 United States",
+    "distance": 1.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1110000/1101900/1101839/1101839_28_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Econo Lodge Inn \u0026 Suites",
+    "address": "2030 North 11th St, Beaumont, TX, 77703 United States",
+    "distance": 2.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1550000/1544600/1544540/1544540_119_l.jpg"
+  },
+  {
+    "price": 46,
+    "name": "Motel 6 Beaumont TX",
+    "address": "220 I 10 N, Beaumont, TX, 77702 United States",
+    "distance": 2.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12600/12600/30383879_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Days Inn Beaumont TX",
+    "address": "2155 N 11th St, Beaumont, TX, 77703 United States",
+    "distance": 2.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15300/15252/15252_79_l.jpg"
+  },
+  {
+    "price": 40,
+    "name": "Beaumont Lodge",
+    "address": "2525 N 11th Street, Beaumont, TX, 77703 United States",
+    "distance": 2.2,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12320000/12310800/12310733/12310733_3_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Heritage Inn",
+    "address": "2850 I-10 East, Exit 85, Beaumont, TX, 77703 United States",
+    "distance": 2.2,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/124200/124182/124182_32_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Americas Best Value Inn Beaumont/I-10",
+    "address": "1155 I-10 South, Beaumont, TX, 77701 United States",
+    "distance": 2.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1040000/1037800/1037724/1037724_46_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Super 8 Beaumont",
+    "address": "1110 IH-10 South, Beaumont, TX, 77707 United States",
+    "distance": 2.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/700000/699600/699528/699528_202_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Quality Inn And Suites Beaumont",
+    "address": "1590 S. I-10, Beaumont, TX, 77707 United States",
+    "distance": 2.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/117300/117247/dea979bc_l.jpg"
+  }
+]

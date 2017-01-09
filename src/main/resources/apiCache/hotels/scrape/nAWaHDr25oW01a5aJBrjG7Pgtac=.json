@@ -1,0 +1,82 @@
+[
+  {
+    "price": 85,
+    "name": "Courtesy Inn Monmouth",
+    "address": "270 North Pacific Avenue, Monmouth, OR, 97361 United States",
+    "distance": 2.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1340000/1337800/1337797/1337797_2_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Phoenix Inn Suites South Salem",
+    "address": "4370 Commercial St Se, Salem, OR, 97302 United States",
+    "distance": 7.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/66800/66758/66758_20_l.jpg"
+  },
+  {
+    "price": 121,
+    "name": "Best Western Dallas Inn \u0026 Suites",
+    "address": "250 Orchard Drive, Dallas, OR, 97338 United States",
+    "distance": 9.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/520000/517600/517552/ff8bfa4a_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "The Grand Hotel - Salem",
+    "address": "201 Liberty St Se, Salem, OR, 97301 United States",
+    "distance": 9.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1150000/1149500/1149482/1149482_66_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Howard Johnson Inn Salem",
+    "address": "2250 Mission St Se, Salem, OR, 97302 United States",
+    "distance": 9.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1280000/1272300/1272227/1272227_68_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Knights Inn Salem",
+    "address": "1555 State St, Salem, OR, 97301 United States",
+    "distance": 10.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/120700/120674/ed13bb72_l.jpg"
+  },
+  {
+    "price": 121,
+    "name": "Best Western Plus Mill Creek Inn",
+    "address": "3125 Ryan Drive SE, Salem, OR, 97301 United States",
+    "distance": 10.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3400/3364/07b398d7_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "La Quinta Inn \u0026 Suites Salem",
+    "address": "890 Hawthorne Avenue SE, Salem, OR, 97301 United States",
+    "distance": 11.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/200800/200746/159b24ad_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Residence Inn Marriott Salem",
+    "address": "640 Hawthorne Ave Se, Salem, OR, 97301 United States",
+    "distance": 11.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/795400/795386/795386_126_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Hampton Inn and Suites Salem",
+    "address": "510 Hawthorne Ave Se, Salem, OR, 97301 United States",
+    "distance": 11.0,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4830000/4821100/4821083/4821083_35_l.jpg"
+  }
+]

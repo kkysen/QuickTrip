@@ -1,0 +1,42 @@
+[
+  {
+    "price": 127,
+    "name": "Holiday Inn Express \u0026 Suites Rochester Webster",
+    "address": "860 Holt Rd, Webster, NY, 14580 United States",
+    "distance": 0.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1720000/1717400/1717378/1717378_184_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Fairfield Inn by Marriott Rochester East",
+    "address": "915 Hard Rd, Webster, NY, 14580 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42700/42675/87ea2936_l.jpg"
+  },
+  {
+    "price": 112,
+    "name": "Hampton Inn Rochester Webster",
+    "address": "878 Hard Rd, Webster, NY, 14580 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2420000/2419000/2418923/2418923_76_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Super 8 Webster/Rochester",
+    "address": "2450 Empire Blvd, Webster, NY, 14580 United States",
+    "distance": 3.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/123800/123756/232851b8_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Relax Inn",
+    "address": "2125 Empire Blvd., Webster, NY, 14580 United States",
+    "distance": 3.6,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8460000/8451300/8451226/8451226_28_l.jpg"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "price": 64,
+    "name": "Americas Best Value Inn",
+    "address": "197 Mallard Road, Smithfield, NC, 27577 United States",
+    "distance": 1.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1800/1739/1739_74_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "Best Western Smithfield Inn",
+    "address": "145 S Equity Drive, Smithfield, NC, 27577 United States",
+    "distance": 1.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1330000/1327400/1327322/8b98ef93_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Super 8 Smithfield",
+    "address": "735 Outlet Center Drive, Smithfield, NC, 27577 United States",
+    "distance": 1.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/470000/460200/460177/460177_196_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Baymont Inn And Suites Smithfield",
+    "address": "125 S Equity Dr, Smithfield, NC, 27577 United States",
+    "distance": 2.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/580000/571000/570933/b77ed554_l.jpg"
+  },
+  {
+    "price": 106,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Smithfield - Selma I -95",
+    "address": "190 S Equity Dr, Smithfield, NC, 27577 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4810000/4804600/4804531/4804531_34_l.jpg"
+  },
+  {
+    "price": 106,
+    "name": "Country Inn and Suites By Carlson, Smithfield",
+    "address": "250 North Equity Drive, Smithfield, NC, 27577 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12620000/12612000/12611915/12611915_25_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Sleep Inn \u0026 Suites Smithfield",
+    "address": "270 N Equity Dr, Smithfield, NC, 27577 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1190000/1186700/1186632/1186632_78_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "Fairfield Inn \u0026 Suites Smithfield",
+    "address": "809 Venture Dr, Smithfield, NC, 27577 United States",
+    "distance": 2.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6130000/6121700/6121669/6121669_25_l.jpg"
+  }
+]

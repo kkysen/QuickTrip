@@ -1,0 +1,82 @@
+[
+  {
+    "price": 76,
+    "name": "Comfort Inn Lees Summit @ Hwy 50 \u0026 Hwy 291",
+    "address": "963 Se Oldham Pkwy, Lees Summit, MO, 64081 United States",
+    "distance": 4.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856300/856226/856226_66_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Americas Best Value Inn and Suites",
+    "address": "1020 Se Blue Pkwy, Lees Summit, MO, 64063 United States",
+    "distance": 5.1,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/120400/120375/3f514ea6_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Super 8 Lees Summit",
+    "address": "607 Se Oldham Pkwy, Lees Summit, MO, 64081 United States",
+    "distance": 5.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14700/14698/09c3638c_l.jpg"
+  },
+  {
+    "price": 106,
+    "name": "Fairfield Inn \u0026 Suites Kansas City Lee\u0027s Summit",
+    "address": "1301 Ne Windsor Dr, Lees Summit, MO, 64086 United States",
+    "distance": 7.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24500/24460/24460_62_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Hampton Inn Kansas City-Lee\u0027s Summit",
+    "address": "1751 NE Douglas St, Lees Summit, MO, 64086 United States",
+    "distance": 7.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/480000/479200/479145/479145_53_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Comfort Inn \u0026 Suites Lees Summit - Kansas City",
+    "address": "3701 N.E. Ralph Powell Rd, Lees Summit, MO, 64064 United States",
+    "distance": 9.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/791500/791494/791494_57_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Best Western Plus Lee\u0027s Summit Hotel \u0026 Suites",
+    "address": "4825 NE Lakewood Way, Lees Summit, MO, 64064 United States",
+    "distance": 11.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/85100/85083/5d1eadfe_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Quality Inn",
+    "address": "17205 S US Highway 71, Belton, MO, 64012 United States",
+    "distance": 11.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/520000/519900/519843/aba820b3_l.jpg"
+  },
+  {
+    "price": 57,
+    "name": "Econo Lodge Belton - Kansas City South",
+    "address": "222 Peculiar Dr, Belton, MO, 64012 United States",
+    "distance": 11.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42300/42295/42295_42_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Hampton Inn Belton/Kansas City area",
+    "address": "16410 Cornerstone Drive, Belton, MO, 64012 United States",
+    "distance": 12.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5690000/5685800/5685744/5685744_29_l.jpg"
+  }
+]

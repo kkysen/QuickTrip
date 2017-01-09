@@ -1,0 +1,66 @@
+[
+  {
+    "price": 111,
+    "name": "Best Western Clovis Cole",
+    "address": "415 Clovis Avenue, Clovis, CA, 93612 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/79500/79427/79427_55_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Comfort Suites",
+    "address": "143 Clovis Ave, Clovis, CA, 93612 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1290000/1287500/1287469/1287469_79_l.jpg"
+  },
+  {
+    "price": 121,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Fresno Clovis",
+    "address": "50 N Clovis Ave, Clovis, CA, 93612 United States",
+    "distance": 0.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2340000/2330800/2330752/2330752_38_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Americas Best Value Inn \u0026 Suites-Clovis/Fresno",
+    "address": "1616 Clovis Ave, Clovis, CA, 93612 United States",
+    "distance": 0.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1500000/1494100/1494038/1494038_75_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Hilton Garden Inn Clovis",
+    "address": "520 W Shaw Avenue, Clovis, CA, 93612 United States",
+    "distance": 1.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2480000/2475100/2475061/2475061_25_l.jpg"
+  },
+  {
+    "price": 130,
+    "name": "Hampton Inn \u0026 Suites Clovis-Airport North",
+    "address": "855 Gettysburg Ave, Clovis, CA, 93612 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2860000/2851600/2851510/2851510_23_l.jpg"
+  },
+  {
+    "price": 112,
+    "name": "Homewood Suites by Hilton Fresno Airport-Clovis",
+    "address": "835 Gettysburg Ave, Clovis, CA, 93612 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3410000/3402500/3402438/3402438_18_l.jpg"
+  },
+  {
+    "price": 120,
+    "name": "Holiday Inn Express® Hotel Clovis / Fresno",
+    "address": "650 W Shaw Ave, Clovis, CA, 93612 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2350000/2343300/2343216/2343216_245_l.jpg"
+  }
+]

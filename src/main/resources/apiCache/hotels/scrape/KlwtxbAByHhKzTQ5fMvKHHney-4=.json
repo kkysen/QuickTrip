@@ -1,0 +1,82 @@
+[
+  {
+    "price": 73,
+    "name": "Value Place Fayetteville, NC (Bragg)",
+    "address": "770 W Rowan St, Fayetteville, NC, 28301 United States",
+    "distance": 0.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1670000/1665200/1665181/1665181_7_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "2910 Sigman St, Fayetteville, NC, 28303 United States",
+    "distance": 3.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/201100/201098/201098_129_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Knights Inn Fayetteville/Fort Bragg",
+    "address": "2848 Bragg Blvd, Fayetteville, NC, 28303 United States",
+    "distance": 3.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/123900/123900/123900_138_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Extended Stay America Fayetteville - Owen Dr.",
+    "address": "408 Owen Dr, Fayetteville, NC, 28304 United States",
+    "distance": 3.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/67900/67818/67818_60_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Red Roof Inn \u0026 Suites Fayetteville – Fort Bragg",
+    "address": "3136 Bordeaux Park Drive, Fayetteville, NC, 28306 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/911000/910991/910991_157_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Ramada Plaza Fayetteville Fort Bragg Area",
+    "address": "1707-A Owen Drive, Fayetteville, NC, 28304 United States",
+    "distance": 3.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11940000/11934500/11934470/d9c74f5d_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Baymont Inn \u0026 Suites Fayetteville Fort Bragg Area",
+    "address": "1707-B Owen Drive, Fayetteville, NC, 28304 United States",
+    "distance": 3.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11930000/11925500/11925436/1c65a9ed_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "WoodSpring Suites Fayetteville West",
+    "address": "1381 Walter Reed Road, Fayetteville, NC, 28304-4415 United States",
+    "distance": 3.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2380000/2373600/2373528/e2e184b9_l.jpg"
+  },
+  {
+    "price": 48,
+    "name": "Suburban Extended Stay Hotel Near Fort Bragg",
+    "address": "3719 Bragg Blvd, Fayetteville, NC, 28303 United States",
+    "distance": 4.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/440000/438300/438212/438212_32_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Red Roof Inn Fayetteville I-95",
+    "address": "1902 Cedar Creek Road, Fayetteville, NC, 28312 United States",
+    "distance": 4.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/85100/85069/85069_9_l.jpg"
+  }
+]

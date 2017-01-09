@@ -1,0 +1,82 @@
+[
+  {
+    "price": 170,
+    "name": "The Citizen Hotel, Autograph Collection",
+    "address": "926 J Street, Sacramento, CA, 95814 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2210000/2201800/2201796/2201796_84_l.jpg"
+  },
+  {
+    "price": 209,
+    "name": "Hyatt Regency Sacramento",
+    "address": "1209 L St, Sacramento, CA, 95814 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5300/5274/5274_133_l.jpg"
+  },
+  {
+    "price": 180,
+    "name": "Sheraton Grand Sacramento Hotel",
+    "address": "1230 J St, Sacramento, CA, 95814 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/670000/663600/663590/663590_133_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "Best Western Plus Sutter House",
+    "address": "1100 H Street, Sacramento, CA, 95814 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21600/21551/21551_48_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "The Sterling Hotel",
+    "address": "1300 H St, Sacramento, CA, 95814 United States",
+    "distance": 0.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/904800/904794/ebe47a10_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Holiday Inn Sacramento - Capitol Plaza",
+    "address": "300 J St, Sacramento, CA, 95814 United States",
+    "distance": 0.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10300/10242/10242_321_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Residence Inn Sacramento Downtown at Capitol Park",
+    "address": "1121 15th Street, Sacramento, CA, 95814 United States",
+    "distance": 0.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1620000/1615500/1615498/1615498_86_l.jpg"
+  },
+  {
+    "price": 120,
+    "name": "Vagabond Inn Executive Old Town",
+    "address": "909 3rd St, Sacramento, CA, 95814 United States",
+    "distance": 0.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/57300/57247/57247_24_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "Quality Inn Sacramento Convention Center",
+    "address": "818 15th St, Sacramento, CA, 95814 United States",
+    "distance": 0.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/52900/52822/a8a3795b_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Inn Off Capitol Park, an Ascend Hotel Collection Member",
+    "address": "1530 N St, Sacramento, CA, 95814 United States",
+    "distance": 0.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/580000/577600/577577/99b39a06_l.jpg"
+  }
+]

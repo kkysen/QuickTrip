@@ -1,0 +1,58 @@
+[
+  {
+    "price": 60,
+    "name": "Americas Best Value Inn-Marianna",
+    "address": "2086 Highway 71, Marianna, FL, 32448 United States",
+    "distance": 3.5,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23200/23166/23166_67_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Super 8 Marianna FL",
+    "address": "2226 Highway 71, Marianna, FL, 32448 United States",
+    "distance": 4.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/450000/448700/448677/448677_113_l.jpg"
+  },
+  {
+    "price": 82,
+    "name": "Marianna Inn \u0026 Suites",
+    "address": "2222 Highway 71, Marianna, FL, 32448 United States",
+    "distance": 4.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/56000/55980/55980_103_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Comfort Inn And Suites",
+    "address": "2214 Highway 71, Marianna, FL, 32448 United States",
+    "distance": 4.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1700000/1695600/1695576/1695576_37_l.jpg"
+  },
+  {
+    "price": 115,
+    "name": "Fairfield Inn \u0026 Suites Marianna",
+    "address": "4966 Whitetail Dr, Marianna, FL, 32448 United States",
+    "distance": 4.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1780000/1772100/1772027/1772027_49_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Marianna",
+    "address": "4959 Whitetail Dr, Marianna, FL, 32448 United States",
+    "distance": 4.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/564500/564468/6bb749bb_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Quality Inn Marianna",
+    "address": "2175 Hwy 71 South, Marianna, FL, 32448 United States",
+    "distance": 4.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3300/3218/3218_45_l.jpg"
+  }
+]

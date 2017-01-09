@@ -1,0 +1,74 @@
+[
+  {
+    "price": 239,
+    "name": "Sombrero Resort \u0026 Marina",
+    "address": "19 Sombrero Blvd, Marathon, FL, 33050 United States",
+    "distance": 0.3,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/899000/898967/4720dfbc_l.jpg"
+  },
+  {
+    "price": 212,
+    "name": "Banana Bay Resort \u0026 Marina",
+    "address": "4590 Overseas Highway, Marathon, FL, 33050 United States",
+    "distance": 0.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/930000/921900/921804/2a35fabc_l.jpg"
+  },
+  {
+    "price": 160,
+    "name": "Coconut Cay Resort \u0026 Marina",
+    "address": "7196 Overseas Highway, Marathon, FL, 33050 United States",
+    "distance": 1.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1190000/1181000/1180935/1180935_72_l.jpg"
+  },
+  {
+    "price": 195,
+    "name": "Siesta Motel",
+    "address": "7425 Overseas Highway, Marathon, FL, 33050 United States",
+    "distance": 1.2,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2180000/2172800/2172798/bccf5c21_l.jpg"
+  },
+  {
+    "price": 449,
+    "name": "Tranquility Bay Beachfront Hotel and Resort",
+    "address": "2600 Overseas Hwy, Marathon, FL, 33050 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/117100/117099/916e7762_l.jpg"
+  },
+  {
+    "price": 331,
+    "name": "Courtyard by Marriott Marathon Florida Keys",
+    "address": "2146 Overseas Hwy, Marathon, FL, 33050 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10560000/10554600/10554536/10554536_77_l.jpg"
+  },
+  {
+    "price": 319,
+    "name": "Hyatt Place Marathon Florida Keys",
+    "address": "1996 Overseas Highway, Marathon, FL, 33050 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1170000/1169600/1169583/1169583_23_l.jpg"
+  },
+  {
+    "price": 294,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Marathon",
+    "address": "13201 Overseas Hwy, Marathon, FL, 33050 United States",
+    "distance": 4.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19900/19823/19823_368_l.jpg"
+  },
+  {
+    "price": 219,
+    "name": "Seashell Beach Resort",
+    "address": "57612 Overseas Highway, Marathon, FL, 33050 United States",
+    "distance": 7.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1780000/1773300/1773265/1773265_40_l.jpg"
+  }
+]

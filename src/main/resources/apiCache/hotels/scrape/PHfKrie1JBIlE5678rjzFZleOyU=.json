@@ -1,0 +1,50 @@
+[
+  {
+    "price": 157,
+    "name": "Holiday Inn Express Bluffton at Hilton Head Area",
+    "address": "35 Bluffton Rd, Bluffton, SC, 29910-7620 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/892200/892177/892177_205_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Comfort Suites Hilton Head Island Area",
+    "address": "23 Towne Dr, Bluffton, SC, 29910-4201 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1150000/1141400/1141317/1141317_70_l.jpg"
+  },
+  {
+    "price": 465,
+    "name": "Montage Palmetto Bluff",
+    "address": "1 Village Park Square, Bluffton, SC, 29910 United States",
+    "distance": 2.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1110000/1105600/1105531/4796420f_l.jpg"
+  },
+  {
+    "price": 143,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Bluffton/Hilton Head",
+    "address": "105 Okatie Center Blvd, Bluffton, SC, 29909-7547 United States",
+    "distance": 6.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/520000/519100/519036/fcf443a6_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Hampton Inn \u0026 Suites Bluffton-Sun City",
+    "address": "29 William Pope Dr, Bluffton, SC, 29909-7501 United States",
+    "distance": 6.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/892600/892592/892592_30_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Candlewood Suites Bluffton-Hilton Head",
+    "address": "5 Young Clyde Court, Bluffton, SC, 29909-7545 United States",
+    "distance": 6.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2260000/2256200/2256187/2256187_157_l.jpg"
+  }
+]

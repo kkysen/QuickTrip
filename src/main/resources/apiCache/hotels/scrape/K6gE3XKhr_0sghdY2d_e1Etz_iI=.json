@@ -1,0 +1,74 @@
+[
+  {
+    "price": 115,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Fort Atkinson",
+    "address": "1680 Madison Ave, Fort Atkinson, WI, 53538 United States",
+    "distance": 1.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/548600/548504/548504_194_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Rodeway Inn",
+    "address": "1456 S Ryan Ave, Jefferson, WI, 53549 United States",
+    "distance": 4.5,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/63100/63002/63002_9_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "Baymont Inn and Suites Whitewater",
+    "address": "1355 W Main St, Whitewater, WI, 53190 United States",
+    "distance": 7.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/124500/124482/124482_113_l.jpg"
+  },
+  {
+    "price": 175,
+    "name": "Hamilton House",
+    "address": "328 West Main Street, Whitewater, WI, 53190 United States",
+    "distance": 8.2,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15080000/15071400/15071313/15071313_8_l.jpg"
+  },
+  {
+    "price": 82,
+    "name": "Super 8 Whitewater, WI",
+    "address": "917 E Milwaukee St, Whitewater, WI, 53190 United States",
+    "distance": 9.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459900/459828/459828_128_l.jpg"
+  },
+  {
+    "price": 78,
+    "name": "Comfort Suites Johnson Creek Conference Center",
+    "address": "725 Paradise Ln, Johnson Creek, WI, 53038 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1350000/1340700/1340603/1340603_126_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Days Inn Johnson Creek",
+    "address": "W 4545 Linmar Lane, Johnson Creek, WI, 53038 United States",
+    "distance": 12.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24100/24041/24041_150_l.jpg"
+  },
+  {
+    "price": 57,
+    "name": "Americas Best Value Inn- Lake Mills",
+    "address": "West 7614 Oasis Lane, Lake Mills, WI, 53551 United States",
+    "distance": 12.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1040000/1030900/1030891/1030891_97_l.jpg"
+  },
+  {
+    "price": 120,
+    "name": "Holiday Inn Express Watertown",
+    "address": "101 Aviation Way, Watertown, WI, 53094 United States",
+    "distance": 18.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43200/43136/43136_162_l.jpg"
+  }
+]

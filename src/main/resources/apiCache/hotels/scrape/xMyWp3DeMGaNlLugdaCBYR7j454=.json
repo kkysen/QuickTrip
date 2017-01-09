@@ -1,0 +1,18 @@
+[
+  {
+    "price": 68,
+    "name": "Days Inn Beebe",
+    "address": "100 Tammy Ln, Hwy 67/167 Exit 28 (Hwy64), Beebe, AR, 72012 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/901600/901578/901578_41_l.jpg"
+  },
+  {
+    "price": 42,
+    "name": "Economy Inn Beebe",
+    "address": "2003 West Dewitt Henry Drive, Beebe, AR, 72012 United States",
+    "distance": 2.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15160000/15152000/15151996/15151996_15_l.jpg"
+  }
+]

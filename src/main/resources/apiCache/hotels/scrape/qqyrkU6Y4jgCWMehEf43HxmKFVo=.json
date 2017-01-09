@@ -1,0 +1,82 @@
+[
+  {
+    "price": 72,
+    "name": "Three Rivers Inn",
+    "address": "210 Ball Street, Sedro Woolley, WA, 98284 United States",
+    "distance": 0.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1640000/1638400/1638332/1638332_5_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Skagit Motel",
+    "address": "1862 W State Route 20, Sedro Woolley, WA, 98284 United States",
+    "distance": 1.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16420000/16418600/16418560/7722a548_l.jpg"
+  },
+  {
+    "price": 145,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Burlington",
+    "address": "9384 Old Highway 99 North, Burlington, WA, 98233 United States",
+    "distance": 4.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1660000/1659000/1658953/1658953_27_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Cocusa Motel",
+    "address": "370 W. Rio Vista Ave, Burlington, WA, 98233 United States",
+    "distance": 5.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9440000/9439000/9438939/9438939_5_l.jpg"
+  },
+  {
+    "price": 143,
+    "name": "Holiday Inn Express \u0026 Suites Burlington",
+    "address": "900 Andis Road, Burlington, WA, 98233 United States",
+    "distance": 5.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/281600/281593/281593_213_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "Candlewood Suites Burlington South",
+    "address": "1866 S Burlington Blvd, Burlington, WA, 98233 United States",
+    "distance": 5.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4990000/4981900/4981822/4981822_48_l.jpg"
+  },
+  {
+    "price": 130,
+    "name": "Hampton Inn \u0026 Suites Burlington",
+    "address": "1860 South Burlington Boulevard, Burlington, WA, 98233 United States",
+    "distance": 5.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1510000/1500800/1500732/1500732_75_l.jpg"
+  },
+  {
+    "price": 108,
+    "name": "Best Western Plus Skagit Valley And Convention Center",
+    "address": "2300 Market St, Mount Vernon, WA, 98273 United States",
+    "distance": 6.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7360000/7358200/7358176/ec4dae59_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Days Inn Mt Vernon WA",
+    "address": "2009 Riverside Drive, Mount Vernon, WA, 98273 United States",
+    "distance": 6.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15900/15854/15854_71_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Tulip Inn",
+    "address": "2200 Freeway Drive, Mount Vernon, WA, 98273 United States",
+    "distance": 6.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/880000/873000/872971/872971_53_l.jpg"
+  }
+]

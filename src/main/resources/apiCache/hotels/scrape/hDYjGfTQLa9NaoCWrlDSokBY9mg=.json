@@ -1,0 +1,82 @@
+[
+  {
+    "price": 251,
+    "name": "The Wilshire Grand Hotel",
+    "address": "350 Pleasant Valley Way, West Orange, NJ, 07052 United States",
+    "distance": 2.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1010000/1000500/1000460/8f53578b_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Knights Inn Pine Brook",
+    "address": "55 Route 46 East, Pine Brook, NJ, 07058 United States",
+    "distance": 3.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1380000/1375700/1375649/1375649_108_l.jpg"
+  },
+  {
+    "price": 201,
+    "name": "Westminster Hotel",
+    "address": "550 W Mount Pleasant Ave, Livingston, NJ, 07039 United States",
+    "distance": 3.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21600/21580/21580_105_l.jpg"
+  },
+  {
+    "price": 220,
+    "name": "Residence Inn By Marriott West Orange",
+    "address": "107 Prospect Ave, West Orange, NJ, 07052 United States",
+    "distance": 3.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/810000/801900/801823/801823_88_l.jpg"
+  },
+  {
+    "price": 213,
+    "name": "Courtyard by Marriott West Orange",
+    "address": "8 Rooney Cir, West Orange, NJ, 07052 United States",
+    "distance": 3.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1330000/1322000/1321931/b3f26545_l.jpg"
+  },
+  {
+    "price": 180,
+    "name": "Hampton Inn \u0026 Suites Fairfield",
+    "address": "118-124 Route 46 E, Fairfield, NJ, 07004 United States",
+    "distance": 3.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/560000/550600/550526/550526_17_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Comfort Inn Fairfield",
+    "address": "286 Route 46 East, Fairfield, NJ, 07004 United States",
+    "distance": 3.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42700/42650/42650_36_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "FairBridge Hotel \u0026 Conference Center East Hanover",
+    "address": "130 Route 10 W, East Hanover, NJ, 07936 United States",
+    "distance": 4.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22700/22618/22618_75_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Travelodge Parsippany",
+    "address": "625 Route 46 East, Parsippany, NJ, 07054 United States",
+    "distance": 4.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/500/416/3ca10782_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Ramada Limited Parsippany",
+    "address": "949 Route 46, Parsippany, NJ, 07054 United States",
+    "distance": 4.9,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/34600/34577/b91bcf76_l.jpg"
+  }
+]

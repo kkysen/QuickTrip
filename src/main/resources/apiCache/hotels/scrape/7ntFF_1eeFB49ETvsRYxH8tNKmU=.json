@@ -1,0 +1,82 @@
+[
+  {
+    "price": 99,
+    "name": "Marriott Courtyard Atlantic City",
+    "address": "1212 Pacific Ave, Atlantic City, NJ, 08401 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1780000/1771300/1771293/1771293_153_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Wyndham Skyline Tower",
+    "address": "100 S. North Carolina Ave, Atlantic City, NJ, 08401 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1190000/1184900/1184817/1184817_58_l.jpg"
+  },
+  {
+    "price": 49,
+    "name": "Red Carpet Inn \u0026 Suites",
+    "address": "1104 Pacific Av, Atlantic City, NJ, 08401 United States",
+    "distance": 0.2,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1680000/1680000/1679990/1679990_42_l.jpg"
+  },
+  {
+    "price": 300,
+    "name": "Knights Inn Atlantic City/Near Boardwalk",
+    "address": "1101-1109 Pacific Ave, Atlantic City, NJ, 08401 United States",
+    "distance": 0.2,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/990000/985200/985140/985140_54_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Howard Johnson Inn - Atlantic City",
+    "address": "1339 Pacific Ave, Tennessee and Pacific Ave, Atlantic City, NJ, 08401 United States",
+    "distance": 0.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14400/14326/7d3f29eb_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Rodeway Inn Boardwalk",
+    "address": "124 S. North Carolina Avenue, Atlantic City, NJ, 08401 United States",
+    "distance": 0.2,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/690000/688800/688755/7383e392_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Best Western Envoy Inn",
+    "address": "1416 Pacific Ave, Atlantic City, NJ, 08401 United States",
+    "distance": 0.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16200/16170/16170_160_l.jpg"
+  },
+  {
+    "price": 289,
+    "name": "Super 8 Atlantic City NJ",
+    "address": "175 S Tenneessee Ave, Atlantic City, NJ, 08401 United States",
+    "distance": 0.3,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/868000/867925/867925_101_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Resorts Casino Hotel Atlantic City",
+    "address": "1133 Boardwalk, Atlantic City, NJ, 08401 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40200/40186/db2632a3_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Baymont Inn \u0026 Suites Boardwalk Atlantic City",
+    "address": "125 S Dr Martin Luther King, Atlantic City, NJ, 08401 United States",
+    "distance": 0.4,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7390000/7383200/7383180/7383180_20_l.jpg"
+  }
+]

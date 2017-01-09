@@ -1,0 +1,82 @@
+[
+  {
+    "price": 122,
+    "name": "Crossings by GrandStay Inn \u0026 Suites",
+    "address": "300 Garfield St S, Cambridge, MN, 55008 United States",
+    "distance": 7.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43500/43448/43448_165_l.jpg"
+  },
+  {
+    "price": 123,
+    "name": "AmericInn Lodge \u0026 Suites North Branch",
+    "address": "38675 14th Ave, North Branch, MN, 55056 United States",
+    "distance": 15.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13230000/13230000/13229939/13229939_5_l.jpg"
+  },
+  {
+    "price": 78,
+    "name": "Budget Host Inn \u0026 Suites",
+    "address": "6010 Main St, North Branch, MN, 55056 United States",
+    "distance": 15.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856200/856164/856164_1_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Country Inn \u0026 Suites By Carlson Elk River",
+    "address": "18894 Dodge St Nw, Elk River, MN, 55330 United States",
+    "distance": 17.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/300000/297200/297139/297139_38_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "AmericInn Lodge \u0026 Suites Ham Lake",
+    "address": "13440 Highway 65, Ham Lake, MN, 55304 United States",
+    "distance": 18.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/548000/547987/547987_78_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "AmericInn Lodge \u0026 Suites Coon Rapids",
+    "address": "3430 Northdale Blvd, Coon Rapids, MN, 55448 United States",
+    "distance": 19.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/220000/214600/214525/214525_20_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Best Western Plus Coon Rapids North Metro Hotel",
+    "address": "3420 Northdale Blvd NW, Coon Rapids, MN, 55448 United States",
+    "distance": 19.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1510000/1507600/1507587/1507587_173_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Comfort Suites Ramsey",
+    "address": "6440 US 10 West, Ramsey, MN, 55303 United States",
+    "distance": 19.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/151300/151225/151225_62_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Regency Inn and Suites, Anoka",
+    "address": "1129 Hwy 10 West, Hwy 10 \u0026 Thurston Ave, Anoka, MN, 55303 United States",
+    "distance": 19.0,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/897900/897859/897859_2_l.jpg"
+  },
+  {
+    "price": 142,
+    "name": "Country Inn \u0026 Suites By Carlson, Forest Lake, MN",
+    "address": "1954 West Broadway Avenue, Forest Lake, MN, 55025 United States",
+    "distance": 19.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/118500/118468/118468_3_l.jpg"
+  }
+]

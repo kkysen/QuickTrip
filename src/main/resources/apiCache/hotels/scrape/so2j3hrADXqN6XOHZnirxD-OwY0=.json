@@ -1,0 +1,82 @@
+[
+  {
+    "price": 68,
+    "name": "Centerstone Inn \u0026 Suites",
+    "address": "1371 William Rd, Carlyle, IL, 62231 United States",
+    "distance": 8.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856300/856214/856214_36_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Super 8 - Okawville",
+    "address": "812 North Hen House Road, Okawville, IL, 62271 United States",
+    "distance": 12.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459800/459708/af2d125b_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Baymont Inn \u0026 Suites Highland",
+    "address": "20 Central Blvd, Highland, IL, 62249 United States",
+    "distance": 13.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/202600/202597/202597_200_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Best Western Plus Mascoutah/SAFB",
+    "address": "9730 Hayden Drive, Mascoutah, IL, 62258 United States",
+    "distance": 16.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2670000/2662200/2662110/e2a2203b_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Best Western U. S. Inn",
+    "address": "11640 State Route 127, Nashville, IL, 62263 United States",
+    "distance": 18.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/119400/119307/c4d01b0f_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Super 8 O\u0027Fallon",
+    "address": "1100 Eastgate Dr, O\u0027Fallon, IL, 62269 United States",
+    "distance": 19.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11100/11071/8e38ae39_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Econo Lodge \u0026 Suites",
+    "address": "1731 S State Route 127, Greenville, IL, 62246 United States",
+    "distance": 20.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11500/11487/11487_114_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Super 8 Greenville",
+    "address": "1700 Sate Route 127, Greenville, IL, 62246 United States",
+    "distance": 20.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/855900/855842/7464d7b3_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Red Carpet Inn",
+    "address": "1525 South State Rt 127, Greenville, IL, 62246 United States",
+    "distance": 20.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9790000/9785800/9785796/9785796_3_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Holiday Inn Express \u0026 Suites - O\u0027Fallon /Shiloh",
+    "address": "3396 Green Mount Crossing Dr, O\u0027Fallon, IL, 62269 United States",
+    "distance": 22.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1040000/1037700/1037681/1037681_145_l.jpg"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "price": 124,
+    "name": "Summer Hill Inn \u0026 Suites",
+    "address": "5719 Highway 6, Missouri City, TX, 77459 United States",
+    "distance": 3.0,
+    "rating": 3.2,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4840000/4837100/4837001/01266e2e_l.jpg"
+  },
+  {
+    "price": 137,
+    "name": "Hampton Inn \u0026 Suites Missouri City, TX",
+    "address": "4909 Highway 6, Missouri City, TX, 77459 United States",
+    "distance": 3.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6860000/6850500/6850488/2cd87286_l.jpg"
+  }
+]

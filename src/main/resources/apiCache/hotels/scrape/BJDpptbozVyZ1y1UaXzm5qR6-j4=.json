@@ -1,0 +1,66 @@
+[
+  {
+    "price": 80,
+    "name": "Oak Park Motel",
+    "address": "706 E Downing St, Tahlequah, OK, 74464 United States",
+    "distance": 0.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/16000000/15993700/15993659/30f84c20_l.jpg"
+  },
+  {
+    "price": 44,
+    "name": "Days Inn \u0026 Suites Tahlequah",
+    "address": "701 Holiday Dr, Tahlequah, OK, 74464-5185 United States",
+    "distance": 1.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42800/42798/42798_99_l.jpg"
+  },
+  {
+    "price": 44,
+    "name": "Super Inn and Suites",
+    "address": "1101 E Downing St, Tahlequah, OK, 74464 United States",
+    "distance": 1.0,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1790000/1787400/1787400/1787400_22_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Holiday Inn Express \u0026 Suites Tahlequah",
+    "address": "2142 Mahaney Avenue, Tahlequah, OK, 74464 United States",
+    "distance": 1.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9130000/9127800/9127712/9127712_23_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Econo Lodge Inn and Suites",
+    "address": "101 Reasor Street, Tahlequah, OK, 74464 United States",
+    "distance": 1.5,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1470000/1460500/1460428/1460428_38_l.jpg"
+  },
+  {
+    "price": 48,
+    "name": "Oakhill Inn Tahlequah",
+    "address": "2600 S Muskogee Ave, Tahlequah, OK, 74464 United States",
+    "distance": 1.7,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2780000/2774700/2774623/2774623_11_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Tulequah Motor Lodge",
+    "address": "2501 South Muskogee Ave., Tahlequah, OK, 74464 United States",
+    "distance": 1.7,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1230000/1221000/1220951/1220951_1_l.jpg"
+  },
+  {
+    "price": 57,
+    "name": "Rodeway Inn",
+    "address": "3296 S Muskogee Ave, Tahlequah, OK, 74464 United States",
+    "distance": 2.2,
+    "rating": 3.5,
+    "imgUrl": ""
+  }
+]

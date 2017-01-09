@@ -1,0 +1,82 @@
+[
+  {
+    "price": 69,
+    "name": "Weatherly Suites",
+    "address": "699 Ocean Shores Blvd NW, Ocean Shores, WA, 98569 United States",
+    "distance": 0.2,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9710000/9701800/9701796/9701796_6_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Shilo Inn Suites Hotel - Ocean Shores",
+    "address": "707 Ocean Shores Blvd NW, Ocean Shores, WA, 98569 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8900/8861/8861_20_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "MorningGlory Hotel, Resort \u0026 Suites",
+    "address": "685 Ocean Shores Blvd NW, Ocean Shores, WA, 98569 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41800/41760/41760_115_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Wildwood Crest Bungalows",
+    "address": "131 Barnacle St, Ocean Shores, WA, 98569 United States",
+    "distance": 0.3,
+    "rating": 4.8,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13200000/13191200/13191146/13191146_41_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Ocean Shores Motel",
+    "address": "681 Ocean Shores Boulevard Northwest, Ocean Shores, WA, 98569 United States",
+    "distance": 0.3,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11550000/11545400/11545375/11545375_25_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Quality Inn Ocean Shores",
+    "address": "773 Ocean Shores Blvd. NW, Ocean Shores, WA, 98569 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/119100/119087/b690bff0_l.jpg"
+  },
+  {
+    "price": 94,
+    "name": "The Grey Gull",
+    "address": "651 Ocean Shores Blvd NW, Ocean Shores, WA, 98569 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1080000/1073800/1073799/1073799_10_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Ocean Shores Inn \u0026 Suites",
+    "address": "648 Ocean Shores Blvd NW, Ocean Shores, WA, 98569 United States",
+    "distance": 0.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1480000/1478200/1478173/1478173_41_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "The Sands Resort",
+    "address": "801 Ocean Shores Boulevard Northwest, Ocean Shores, WA, 98569 United States",
+    "distance": 0.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12770000/12766600/12766521/12766521_1_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "The Canterbury Inn",
+    "address": "643 Ocean Shores Blvd. NW, Ocean Shores, WA, 98569 United States",
+    "distance": 0.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2240000/2232500/2232411/ad737ef9_l.jpg"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "price": 131,
+    "name": "Stone Mountain Manor",
+    "address": "1037 Main Street, Stone Mountain, GA, 30083 United States",
+    "distance": 1.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12660000/12651700/12651688/5a173c32_l.jpg"
+  },
+  {
+    "price": 130,
+    "name": "Stone Mountain Inn",
+    "address": "1058 Robert E Lee Drive, Stone Mountain, GA, 30083 United States",
+    "distance": 1.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/564000/563957/563957_25_l.jpg"
+  },
+  {
+    "price": 147,
+    "name": "Atlanta Evergreen Marriott Conference Resort",
+    "address": "4021 Lakeview Drive, Stone Mountain, GA, 30083 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50700/50635/ff418df8_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Country Inn \u0026 Suites by Carlson, Stone Mountain",
+    "address": "1852 Rockbridge Road SW, Stone Mountain, GA, 30087 United States",
+    "distance": 3.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/990000/987100/987067/987067_183_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Holiday Inn Express Atlanta-Stone Mountain",
+    "address": "1790 E Park Place Blvd, Stone Mountain, GA, 30087 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/34400/34357/34357_210_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Hampton Inn Atlanta Stone Mountain",
+    "address": "1737 Mountain Industrial Blvd, Stone Mountain, GA, 30083 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9400/9304/9304_47_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Comfort Inn \u0026 Suites at Stone Mountain",
+    "address": "5355 Stone Mountain Hwy, Hwy 78, Stone Mountain, GA, 30087 United States",
+    "distance": 3.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/422700/422626/422626_145_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Quality Inn Stone Mountain",
+    "address": "1595 E Park Place Blvd, Stone Mountain, GA, 30087 United States",
+    "distance": 3.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/100000/98900/98899/98899_101_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Days Inn Stone Mountain",
+    "address": "2006 Glenn Club Dr, Hwy 78 E, Stone Mountain, GA, 30087 United States",
+    "distance": 3.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27200/27133/27133_166_l.jpg"
+  }
+]

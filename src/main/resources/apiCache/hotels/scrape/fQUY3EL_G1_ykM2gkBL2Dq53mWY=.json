@@ -1,0 +1,82 @@
+[
+  {
+    "price": 86,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Chicago-Algonquin",
+    "address": "2595 Bunker Hill Dr, Algonquin, IL, 60102 United States",
+    "distance": 1.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/660000/658500/658492/269121a7_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Super 8 Crystal Lake",
+    "address": "577 Crystal Point Dr, Hwy 14, 1 Mile W of Hwy 31, Crystal Lake, IL, 60014-8005 United States",
+    "distance": 3.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/49600/49571/9a1f7d48_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Comfort Inn",
+    "address": "595 Tracy Trl, Crystal Lake, IL, 60014 United States",
+    "distance": 3.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/793600/793530/793530_75_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Country Inn \u0026 Suites By Carlson, Crystal Lake, IL",
+    "address": "600 Tracy Trail, Crystal Lake, IL, 60014 United States",
+    "distance": 3.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/548400/548375/548375_47_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Holiday Inn Chicago Nw Crystal Lk Conv Ctr",
+    "address": "800 South Route 31, Crystal Lake, IL, 60014 United States",
+    "distance": 4.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/20000/19951/19951_278_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Comfort Suites Elgin",
+    "address": "2480 Bushwood Drive, Elgin, IL, 60124 United States",
+    "distance": 6.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1530000/1522200/1522193/1522193_79_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Country Inn \u0026 Suites By Carlson, Elgin, IL",
+    "address": "2270 Point Blvd, Elgin, IL, 60123 United States",
+    "distance": 7.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/565200/565186/565186_19_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Candlewood Suites Elgin",
+    "address": "1780 Capital St, Elgin, IL, 60124 United States",
+    "distance": 7.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2470000/2462700/2462675/2462675_59_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Super 8 Woodstock",
+    "address": "1220 Davis Rd, Woodstock, IL, 60098 United States",
+    "distance": 8.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/123800/123730/f6450994_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Quality Inn",
+    "address": "1785 South Eastwood Drive, Woodstock, IL, 60098 United States",
+    "distance": 8.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/56000/55982/55982_111_l.jpg"
+  }
+]

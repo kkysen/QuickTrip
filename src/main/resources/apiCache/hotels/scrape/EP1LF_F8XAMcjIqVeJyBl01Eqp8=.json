@@ -1,0 +1,50 @@
+[
+  {
+    "price": 97,
+    "name": "Comfort Inn \u0026 Suites Cornelius",
+    "address": "19521 Liverpool Pkwy, Cornelius, NC, 28031 United States",
+    "distance": 0.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/283000/282978/85911fec_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Clarion Inn",
+    "address": "19608 Liverpool Pkwy, Cornelius, NC, 28031 United States",
+    "distance": 0.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21300/21205/9172fbca_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Hampton Inn Charlotte / Cornelius - I-77 North",
+    "address": "19501 Statesville Rd, Cornelius, NC, 28031 United States",
+    "distance": 0.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24700/24662/a1e21cb8_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Econo Lodge And Suites Lake",
+    "address": "20740 Torrence Chapel Rd, Cornelius, NC, 28031 United States",
+    "distance": 1.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15000/14938/14938_46_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Days Inn Cornelius Lake Norman",
+    "address": "19901 Holiday Lane, I-77 Exit 28, Cornelius, NC, 28031 United States",
+    "distance": 1.2,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10400/10374/260c5c73_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Microtel Inn by Wyndham Cornelius/Lake Norman",
+    "address": "20820 Torrence Chapel Rd, Cornelius, NC, 28031 United States",
+    "distance": 1.2,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/116600/116557/6326fbce_l.jpg"
+  }
+]

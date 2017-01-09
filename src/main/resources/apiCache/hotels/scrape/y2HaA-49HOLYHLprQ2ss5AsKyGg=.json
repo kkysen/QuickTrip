@@ -1,0 +1,82 @@
+[
+  {
+    "price": 55,
+    "name": "Rodeway Inn",
+    "address": "5090 Buffalo Creek Rd, Elm Creek, NE, 68836 United States",
+    "distance": 18.0,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3890000/3884900/3884841/3884841_7_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Holiday Inn Express and Suites Kearney",
+    "address": "508 2nd Ave S, Kearney, NE, 68847 United States",
+    "distance": 22.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/700000/691900/691847/691847_229_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Best Western Plus Mid Nebraska Inn \u0026 Suites",
+    "address": "224 2nd Avenue S, Kearney, NE, 68847 United States",
+    "distance": 22.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1150000/1142400/1142318/c36d69c0_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Comfort Inn",
+    "address": "118 3rd Ave, Kearney, NE, 68845 United States",
+    "distance": 22.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42700/42624/2d94247a_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "La Quinta Inn \u0026 Suites Kearney",
+    "address": "105 3rd Ave, Kearney, NE, 68845 United States",
+    "distance": 23.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13380000/13378300/13378259/9978e8ac_l.jpg"
+  },
+  {
+    "price": 117,
+    "name": "Fairfield Inn \u0026 Suites Kearney",
+    "address": "510 Talmadge Road, Kearney, NE, 68845 United States",
+    "distance": 23.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4530000/4520700/4520608/4520608_40_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Candlewood Suites Kearney",
+    "address": "210 4th Avenue, Kearney, NE, 68845 United States",
+    "distance": 23.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15140000/15137800/15137736/067d1e4f_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Hampton Inn Kearney",
+    "address": "507 Talmadge Street, Kearney, NE, 68848 United States",
+    "distance": 23.0,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7420000/7416500/7416453/7416453_4_l.jpg"
+  },
+  {
+    "price": 57,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Kearney",
+    "address": "104 Talmadge Rd, Kearney, NE, 68847 United States",
+    "distance": 23.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2190000/2185000/2184993/2184993_141_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "AmericInn Lodge \u0026 Suites Kearney",
+    "address": "215 W Talmadge Rd, Kearney, NE, 68845 United States",
+    "distance": 23.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/328600/328530/328530_126_l.jpg"
+  }
+]

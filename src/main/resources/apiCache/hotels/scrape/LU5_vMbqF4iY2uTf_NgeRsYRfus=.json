@@ -1,0 +1,18 @@
+[
+  {
+    "price": 101,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Waco North",
+    "address": "4257 N Ih 35, Lacy-Lakeview, TX, 76705 United States",
+    "distance": 1.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1050000/1042500/1042420/1042420_68_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Hampton Inn Waco North",
+    "address": "4259 North I-35, Lacy-Lakeview, TX, 76705 United States",
+    "distance": 1.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/68000/67957/67957_24_l.jpg"
+  }
+]

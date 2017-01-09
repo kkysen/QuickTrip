@@ -1,0 +1,74 @@
+[
+  {
+    "price": 118,
+    "name": "Hampton Inn and Suites Baton Rouge/Port Allen",
+    "address": "2755 Commercial Drive, Port Allen, LA, 70767 United States",
+    "distance": 2.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3090000/3084500/3084467/3084467_16_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Comfort Suites Port Allen",
+    "address": "2880 N Westport Dr, Port Allen, LA, 70767 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/890000/885900/885849/885849_79_l.jpg"
+  },
+  {
+    "price": 117,
+    "name": "Holiday Inn Express Hotel \u0026 Suites, a Baton Rouge-Port Allen",
+    "address": "2860 N Westport Drive, Port Allen, LA, 70767 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2440000/2437200/2437154/2437154_112_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Quality Inn \u0026 Suites Port Allen",
+    "address": "131 Lobdell Hwy, Port Allen, LA, 70767 United States",
+    "distance": 2.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/900/837/837_65_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Best Western Magnolia Manor",
+    "address": "234 Lobdell Hwy, Port Allen, LA, 70767 United States",
+    "distance": 2.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/520000/517600/517507/1ec0bdc3_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Super 8 Port Allen/W Baton Rouge",
+    "address": "821 Lobdell Ext S, Port Allen, LA, 70767 United States",
+    "distance": 2.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/460000/459963/793b1cab_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Baton Rouge West Inn",
+    "address": "215 Lobdell Hwy, 1-10 \u0026 LA 415 (Exit 151), Port Allen, LA, 70767 United States",
+    "distance": 2.4,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5100/5026/5026_1_l.jpg"
+  },
+  {
+    "price": 48,
+    "name": "Motel 6 Baton Rouge - Port Allen",
+    "address": "2800 I-10 Frontage Rd, Port Allen, LA, 70767 United States",
+    "distance": 2.5,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1040000/1037800/1037722/1037722_44_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Red Roof Inn Port Allen",
+    "address": "3051 LA Highway 1 South, Port Allen, LA, 70767 United States",
+    "distance": 2.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3530000/3520300/3520236/37705aa7_l.jpg"
+  }
+]

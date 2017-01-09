@@ -1,0 +1,18 @@
+[
+  {
+    "price": 103,
+    "name": "Hampton Inn Princeton",
+    "address": "107 S Richland Creek Dr, Princeton, IN, 47670 United States",
+    "distance": 0.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/74400/74334/74334_87_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Fairfield Inn by Marriott Princeton",
+    "address": "2828 Dixon St, Princeton, IN, 47670 United States",
+    "distance": 1.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/119200/119126/119126_58_l.jpg"
+  }
+]

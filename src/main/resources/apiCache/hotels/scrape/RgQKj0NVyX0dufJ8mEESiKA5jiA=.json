@@ -1,0 +1,82 @@
+[
+  {
+    "price": 62,
+    "name": "Econo Lodge Franklin",
+    "address": "251 Conover Drive, Franklin, OH, 45005-1850 United States",
+    "distance": 8.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20200/20130/20130_34_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Dayton South Franklin",
+    "address": "851 Commerce Center Drive, Franklin, OH, 45005 United States",
+    "distance": 8.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2220000/2219800/2219770/2219770_87_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Super 8 Miamisburg Dayton S Area OH",
+    "address": "155 Monarch Ln, I 75 Exit 44, Miamisburg, OH, 45342 United States",
+    "distance": 8.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14100/14046/14046_101_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Hampton Inn \u0026 Suites Springboro",
+    "address": "25 Greenwood Ln, Springboro, OH, 45066 United States",
+    "distance": 8.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/890500/890491/890491_10_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Comfort Inn Springboro",
+    "address": "15 Sharts Dr, Springboro, OH, 45066 United States",
+    "distance": 8.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12300/12279/12279_132_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Knights Inn Dayton South/Miamisburg OH",
+    "address": "185 Byers Rd, Miamisburg, OH, 45342 United States",
+    "distance": 8.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/440000/437300/437283/437283_216_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "250 Byers Rd, Miamisburg, OH, 45342 United States",
+    "distance": 8.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15500/15474/15474_90_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Red Roof Inn Dayton South - I-75 Miamisburg",
+    "address": "222 Byers Road, Miamisburg, OH, 45342 United States",
+    "distance": 8.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9400/9372/9372_77_l.jpg"
+  },
+  {
+    "price": 82,
+    "name": "Hawthorn Suites by Wyndham Miamisburg/Dayton Mall South",
+    "address": "155 Prestige Place, Miamisburg, OH, 45342 United States",
+    "distance": 9.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24400/24324/870da0ec_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Courtyard by Marriott Dayton South/Mall",
+    "address": "100 Prestige Pl, Miamisburg, OH, 45342 United States",
+    "distance": 9.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7900/7856/c7c64586_l.jpg"
+  }
+]

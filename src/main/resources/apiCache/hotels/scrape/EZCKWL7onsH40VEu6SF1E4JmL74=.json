@@ -1,0 +1,82 @@
+[
+  {
+    "price": 120,
+    "name": "Holiday Inn Express Haskell - Wayne Area",
+    "address": "303 Union Avenue, Haskell, NJ, 07420 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2260000/2256600/2256592/2256592_130_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Best Western Regency House Hotel",
+    "address": "140 Route 23 North, Pompton Plains, NJ, 07444 United States",
+    "distance": 5.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/915900/915875/915875_70_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Hilton Garden Inn Wayne",
+    "address": "15 Nevins Rd, Wayne, NJ, 07470 United States",
+    "distance": 6.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9870000/9866800/9866722/9866722_16_l.jpg"
+  },
+  {
+    "price": 189,
+    "name": "Residence Inn by Marriott Wayne",
+    "address": "30 Nevins Rd, Wayne, NJ, 07470 United States",
+    "distance": 6.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1330000/1327000/1326980/1326980_139_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Fairfield Inn \u0026 Suites Mahwah",
+    "address": "225 Ramapo Valley Road, Mahwah, NJ, 07430 United States",
+    "distance": 7.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4500000/4491800/4491735/4491735_18_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Homewood Suites by Hilton Mahwah",
+    "address": "375 Corporate Dr, Mahwah, NJ, 07430 United States",
+    "distance": 7.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/700000/699300/699247/699247_39_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Courtyard by Marriott Mahwah",
+    "address": "140 Route 17 S, Mahwah, NJ, 07430 United States",
+    "distance": 8.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15300/15280/15280_24_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Comfort Suites Mahwah",
+    "address": "220 Route 17 South, Mahwah, NJ, 07430 United States",
+    "distance": 8.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2150000/2149000/2148969/2148969_50_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Super 8 Mahwah",
+    "address": "160 Sr 17 S, Mahwah, NJ, 07430 United States",
+    "distance": 8.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1200/1157/ff8075b4_l.jpg"
+  },
+  {
+    "price": 161,
+    "name": "Hampton Inn \u0026 Suites Mahwah",
+    "address": "290 Rt 17s, Mahwah, NJ, 07430 United States",
+    "distance": 8.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3560000/3555900/3555820/3555820_73_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 229,
+    "name": "Hyatt Place Windward Parkway",
+    "address": "5595 Windward Parkway, Alpharetta, GA, 30004 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/81500/81450/d95fae27_l.jpg"
+  },
+  {
+    "price": 96,
+    "name": "Extended Stay America - Atlanta - Alpharetta-Northpoint-West",
+    "address": "3329 Old Milton Pkwy, Alpharetta, GA, 30005 United States",
+    "distance": 0.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/300000/297000/296972/296972_81_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Extended Stay America - Atlanta - Alpharetta-Northpoint-East",
+    "address": "3331 Old Milton Pkwy, Alpharetta, GA, 30005 United States",
+    "distance": 0.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/74100/74098/74098_34_l.jpg"
+  },
+  {
+    "price": 236,
+    "name": "Residence Inn by Marriott Alpharetta/Windward",
+    "address": "5465 Windward Pkwy W, Alpharetta, GA, 30004 United States",
+    "distance": 0.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12900/12837/12837_57_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Comfort Inn",
+    "address": "5455 Windward Parkway West, Alpharetta, GA, 30004 United States",
+    "distance": 0.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40800/40789/40789_120_l.jpg"
+  },
+  {
+    "price": 166,
+    "name": "Staybridge Suites - North Point",
+    "address": "3980 N Point Pkwy, Alpharetta, GA, 30005 United States",
+    "distance": 0.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/202200/202175/202175_119_l.jpg"
+  },
+  {
+    "price": 184,
+    "name": "Holiday Inn Express \u0026 Suites Alpharetta - Windward Parkway",
+    "address": "12505 Innovation Way, Alpharetta, GA, 30004 United States",
+    "distance": 0.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/531300/531217/7b736cbe_l.jpg"
+  },
+  {
+    "price": 192,
+    "name": "Courtyard by Marriott Atlanta Alpharetta",
+    "address": "12655 Deerfield Pkwy, Alpharetta, GA, 30004 United States",
+    "distance": 0.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/327500/327431/327431_76_l.jpg"
+  },
+  {
+    "price": 249,
+    "name": "SpringHill Suites by Marriott Atlanta Alpharetta",
+    "address": "12730 Deerfield Pkwy, Alpharetta, GA, 30004 United States",
+    "distance": 1.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/202200/202162/202162_58_l.jpg"
+  },
+  {
+    "price": 279,
+    "name": "Atlanta Marriott Alpharetta",
+    "address": "5750 Windward Pkwy, Alpharetta, GA, 30005 United States",
+    "distance": 1.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/425900/425817/412745a8_l.jpg"
+  }
+]

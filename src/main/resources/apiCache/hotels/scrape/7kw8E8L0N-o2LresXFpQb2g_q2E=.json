@@ -1,0 +1,82 @@
+[
+  {
+    "price": 94,
+    "name": "My Place Hotel - Monaca/Beaver Valley, PA",
+    "address": "138 Stone Quarry Rd, Monaca, PA, 15061 United States",
+    "distance": 4.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9840000/9836700/9836684/9836684_1_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Comfort Suites Monaca",
+    "address": "1523 Old Brodhead Rd, Monaca, PA, 15061 United States",
+    "distance": 4.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1760000/1759600/1759507/1759507_107_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "The Inn Forza",
+    "address": "1525 Old Broadhead Road, Monaca, PA, 15061 United States",
+    "distance": 4.5,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16160000/16151500/16151470/79997045_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Fairfield Inn \u0026 Suites Monaca",
+    "address": "1438 Brodhead Rd, Monaca, PA, 15061 United States",
+    "distance": 4.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8310000/8301500/8301413/8301413_14_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Holiday Inn Express \u0026 Suites Center Township",
+    "address": "105 Stone Quarry Road, Monaca, PA, 15061 United States",
+    "distance": 4.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/906300/906268/906268_152_l.jpg"
+  },
+  {
+    "price": 144,
+    "name": "Hampton Inn Pittsburgh Area Beaver Valley CenterTownship",
+    "address": "202 Fairview Dr, Monaca, PA, 15061 United States",
+    "distance": 4.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1230000/1222200/1222189/1222189_33_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Microtel Inn \u0026 Suites By Wyndham Beaver Falls",
+    "address": "2801 Darlington Rd, Beaver Falls, PA, 15010 United States",
+    "distance": 4.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11500000/11492000/11491962/f03d054c_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Super 8 Beaver Falls",
+    "address": "7099 Big Beaver Blvd, Beaver Falls, PA, 15010 United States",
+    "distance": 5.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2210000/2206000/2205958/2205958_56_l.jpg"
+  },
+  {
+    "price": 121,
+    "name": "Park Inn By Radisson Beaver Falls",
+    "address": "7195 Eastwood Drive, Beaver Falls, PA, 15010 United States",
+    "distance": 5.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19200/19103/59f8fbb1_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Cobblestone Inn \u0026 Suites - Ambridge",
+    "address": "1111 New Economy Drive, Ambridge, PA, 15003 United States",
+    "distance": 11.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11810000/11800800/11800771/11800771_79_l.jpg"
+  }
+]

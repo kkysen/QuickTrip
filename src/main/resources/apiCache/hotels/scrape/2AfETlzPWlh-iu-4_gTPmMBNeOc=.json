@@ -1,0 +1,18 @@
+[
+  {
+    "price": 68,
+    "name": "Super 8 Bedford",
+    "address": "842 Sword Beach Ln, Bedford, VA, 24523 United States",
+    "distance": 1.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/470000/460200/460199/336a3102_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Days Inn Bedford",
+    "address": "921 Blue Ridge Ave, US 460 \u0026 Blue Ridge Ave, Bedford, VA, 24523 United States",
+    "distance": 1.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6900/6866/cd11a0fa_l.jpg"
+  }
+]

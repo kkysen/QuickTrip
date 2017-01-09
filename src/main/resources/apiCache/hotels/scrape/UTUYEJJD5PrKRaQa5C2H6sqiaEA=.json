@@ -1,0 +1,82 @@
+[
+  {
+    "price": 104,
+    "name": "Candlewood Suites Aurora-Naperville",
+    "address": "2625 W Sullivan Road, Aurora, IL, 60506 United States",
+    "distance": 3.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2260000/2256200/2256186/2256186_142_l.jpg"
+  },
+  {
+    "price": 126,
+    "name": "Holiday Inn Aurora",
+    "address": "2424 Sullivan Rd, Aurora, IL, 60506 United States",
+    "distance": 3.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1730000/1723200/1723200/55678764_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Hampton Inn \u0026 Suites Aurora",
+    "address": "2423 Bushwood Dr, Aurora, IL, 60506 United States",
+    "distance": 3.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/700000/691200/691142/691142_103_l.jpg"
+  },
+  {
+    "price": 106,
+    "name": "Holiday Inn Express \u0026 Suites Aurora - Naperville",
+    "address": "111 N Broadway, Aurora, IL, 60505 United States",
+    "distance": 6.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28400/28321/0f5b35ee_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Hampton Inn Yorkville",
+    "address": "310 East Countryside Parkway, Yorkville, IL, 60560 United States",
+    "distance": 6.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3510000/3507500/3507468/3507468_17_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Chicago-Oswego",
+    "address": "2055 Wiesbrook Dr, Oswego, IL, 60543 United States",
+    "distance": 7.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/424400/424318/424318_220_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "AmericInn Lodge \u0026 Suites Oswego",
+    "address": "1050 Douglas Road, Oswego, IL, 60543 United States",
+    "distance": 7.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1110000/1101800/1101748/1101748_17_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Motel 6 Chicago Southwest - Aurora",
+    "address": "2380 N Farnsworth Ave, Aurora, IL, 60504 United States",
+    "distance": 8.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1050000/1040800/1040709/1040709_70_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Aurora Fox Valley Inn",
+    "address": "2450 N Farnsworth Avenue, Aurora, IL, 60502 United States",
+    "distance": 8.8,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9400/9383/8cd0e5b6_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Timber Creek Inn and Suites",
+    "address": "3300 Drew Ave, Sandwich, IL, 60548 United States",
+    "distance": 10.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8120000/8112300/8112274/8112274_93_l.jpg"
+  }
+]

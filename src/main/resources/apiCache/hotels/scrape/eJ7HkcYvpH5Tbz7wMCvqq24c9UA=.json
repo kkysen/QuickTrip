@@ -1,0 +1,50 @@
+[
+  {
+    "price": 189,
+    "name": "Beall Mansion An Elegant Bed \u0026 Breakfast Inn",
+    "address": "407 E. 12th St., Alton, IL, 62002 United States",
+    "distance": 0.6,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/790000/789900/789882/853bb133_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Super 8 Alton",
+    "address": "1800 Homer M. Adams Parkway, Alton, IL, 62002 United States",
+    "distance": 2.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50700/50660/5c9b16ed_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Best Western Plus Parkway Hotel",
+    "address": "1900 Homer Adams Pkwy, Alton, IL, 62002 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/531400/531329/531329_1_l.jpg"
+  },
+  {
+    "price": 96,
+    "name": "Hampton Inn \u0026 Suites St. Louis/Alton",
+    "address": "1904 Homer M Adams Parkway, Alton, IL, 62002 United States",
+    "distance": 2.3,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15800000/15799600/15799597/9d6eed92_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Comfort Inn",
+    "address": "11 Crossroads Ct, Alton, IL, 62002 United States",
+    "distance": 2.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42100/42045/42045_49_l.jpg"
+  },
+  {
+    "price": 140,
+    "name": "Atrium Hotel and Conference Center",
+    "address": "3559 College Avenue, Alton, IL, 62002 United States",
+    "distance": 3.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12100/12034/761c5711_l.jpg"
+  }
+]

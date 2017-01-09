@@ -1,0 +1,82 @@
+[
+  {
+    "price": 46,
+    "name": "Royal Motel",
+    "address": "301 S Hermitage Rd, Hermitage, PA, 16148 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1460000/1456400/1456309/1456309_38_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Econo Lodge",
+    "address": "2810 S Hermitage Rd, Hermitage, PA, 16148 United States",
+    "distance": 2.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2840000/2832200/2832169/2832169_41_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Quality Inn",
+    "address": "3200 S Hermitage Road, Hermitage, PA, 16148 United States",
+    "distance": 2.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25100/25086/b2ee62e3_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Red Roof Inn \u0026 Suites Hermitage",
+    "address": "2700 Wilson Ave., Hermitage, PA, 16148 United States",
+    "distance": 3.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4300/4269/4269_74_l.jpg"
+  },
+  {
+    "price": 61,
+    "name": "Super 8 West Middlesex / Sharon Area",
+    "address": "3369 New Castle Rd, I-80 Exit #4B, West Middlesex, PA, 16159 United States",
+    "distance": 3.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856200/856114/856114_98_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "Park Inn by Radisson Sharon",
+    "address": "3377 New Castle Road, West Middlesex, PA, 16159 United States",
+    "distance": 3.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5900/5898/5898_71_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Hampton Inn and Suites Sharon",
+    "address": "58 Winner Ln, West Middlesex, PA, 16159 United States",
+    "distance": 3.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4890000/4880500/4880430/4880430_3_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Colonial Inn Motel",
+    "address": "383 North Perry Hwy, Mercer, PA, 16137 United States",
+    "distance": 11.0,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6680000/6677200/6677156/6677156_4_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Comfort Inn",
+    "address": "835 Perry Hwy, Mercer, PA, 16137 United States",
+    "distance": 11.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22200/22195/07c692e7_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Monroe Heights Grove City",
+    "address": "2049 Leesburg-Grove City Road, Mercer, PA, 16127 United States",
+    "distance": 16.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1600000/1596700/1596651/1596651_4_l.jpg"
+  }
+]

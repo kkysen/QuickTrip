@@ -1,0 +1,82 @@
+[
+  {
+    "price": 120,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "849 Route 52, Fishkill, NY, 12524 United States",
+    "distance": 2.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1770000/1766700/1766609/1766609_45_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Residence Inn by Marriott Fishkill",
+    "address": "500 Westage Business Center Drive, Fishkill, NY, 12524 United States",
+    "distance": 3.6,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16220000/16211000/16210933/ba3db755_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "SpringHill Suites by Marriott Fishkill",
+    "address": "500 Westage Business Center Drive, Fishkill, NY, 12524 United States",
+    "distance": 3.6,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16200000/16199600/16199528/5dc22c00_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Extended Stay America Fishkill - Westage Center",
+    "address": "55 W Merritt Blvd, Fishkill, NY, 12524 United States",
+    "distance": 3.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/994500/994440/994440_33_l.jpg"
+  },
+  {
+    "price": 227,
+    "name": "HYATT house Fishkill/Poughkeepsie",
+    "address": "100 Westage Business Center Dr., Fishkill, NY, 12524 United States",
+    "distance": 3.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1340000/1336000/1335929/75659e83_l.jpg"
+  },
+  {
+    "price": 148,
+    "name": "Hilton Garden Inn Fishkill",
+    "address": "25 Westage Road, Fishkill, NY, 12524 United States",
+    "distance": 3.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/890500/890436/890436_39_l.jpg"
+  },
+  {
+    "price": 111,
+    "name": "Ramada Fishkill",
+    "address": "542 Route 9, Fishkill, NY, 12524 United States",
+    "distance": 3.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/11000/10929/7c1b7e89_l.jpg"
+  },
+  {
+    "price": 144,
+    "name": "Hampton Inn Fishkill",
+    "address": "544 Route 9, Fishkill, NY, 12524 United States",
+    "distance": 3.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/119300/119273/119273_84_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Windsor Motel",
+    "address": "2976 US Route 9W, New Windsor, NY, 12553 United States",
+    "distance": 3.9,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2820000/2814400/2814379/2814379_1_l.jpg"
+  },
+  {
+    "price": 124,
+    "name": "Hawthorn Suites by Wyndham Fishkill/Poughkeepsie Area",
+    "address": "14 Schuyler Blvd, Fishkill, NY, 12524 United States",
+    "distance": 3.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12500/12443/12443_90_l.jpg"
+  }
+]

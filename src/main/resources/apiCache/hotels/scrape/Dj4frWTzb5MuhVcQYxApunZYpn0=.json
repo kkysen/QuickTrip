@@ -1,0 +1,82 @@
+[
+  {
+    "price": 79,
+    "name": "La Quinta Inn Sandpoint",
+    "address": "415 Cedar St, Sandpoint, ID, 83864 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/327200/327119/471fd557_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Best Western Edgewater Resort",
+    "address": "56 Bridge Street, Sandpoint, ID, 83864 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/458100/458004/4b491634_l.jpg"
+  },
+  {
+    "price": 249,
+    "name": "Seasons At Sandpoint",
+    "address": "424 Sandpoint Ave, Sandpoint, ID, 83864 United States",
+    "distance": 0.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3560000/3554800/3554763/3554763_50_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Quality Inn Sandpoint",
+    "address": "807 N 5th Ave, Sandpoint, ID, 83864 United States",
+    "distance": 0.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7400/7328/7328_45_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Fairbridge Inn \u0026 Suites Sandpoint",
+    "address": "476841 Highway 95 North, Ponderay, ID, 83852 United States",
+    "distance": 2.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/450000/440100/440028/440028_81_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Hotel Ruby Ponderay",
+    "address": "477255 Highway 95 N, Ponderay, ID, 83852 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/116600/116521/bdf914f6_l.jpg"
+  },
+  {
+    "price": 209,
+    "name": "The Lodge at Sandpoint",
+    "address": "41 Lakeshore Drive, Sagle, ID, 83860 United States",
+    "distance": 2.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15100000/15092200/15092102/15092102_2_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Sandpoint North",
+    "address": "477326 Highway 95 North, Ponderay, ID, 83864 United States",
+    "distance": 2.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2750000/2745500/2745434/2745434_39_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Dover Bay Resort",
+    "address": "659 Lakeshore Avenue, Dover, ID, 83825 United States",
+    "distance": 3.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/13000000/12998700/12998678/c7713731_l.jpg"
+  },
+  {
+    "price": 216,
+    "name": "Schweitzer Mountain Resort - Selkirk Lodge",
+    "address": "10000 Schweitzer Mountain Road, Sandpoint, ID, 83864 United States",
+    "distance": 7.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/899600/899573/899573_81_l.jpg"
+  }
+]

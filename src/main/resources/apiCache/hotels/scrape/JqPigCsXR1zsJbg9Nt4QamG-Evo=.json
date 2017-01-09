@@ -1,0 +1,82 @@
+[
+  {
+    "price": 56,
+    "name": "Days Inn Airport Best Road",
+    "address": "4505 Best Rd, I-85S Exit 71, College Park, GA, 30337 United States",
+    "distance": 0.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15000/14937/0ab068d1_l.jpg"
+  },
+  {
+    "price": 256,
+    "name": "SpringHill Suites Atlanta Airport Gateway",
+    "address": "2091 Convention Center Concourse, College Park, GA, 30337 United States",
+    "distance": 0.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2950000/2946800/2946741/2946741_45_l.jpg"
+  },
+  {
+    "price": 266,
+    "name": "Atlanta Airport Marriott Gateway",
+    "address": "2020 Convention Center Concourse, College Park, GA, 30337 United States",
+    "distance": 0.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3510000/3507500/3507488/3507488_96_l.jpg"
+  },
+  {
+    "price": 111,
+    "name": "Holiday Inn Express Atlanta Airport - College Park",
+    "address": "4601 Best Rd, College Park, GA, 30337 United States",
+    "distance": 0.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4000/3936/3936_163_l.jpg"
+  },
+  {
+    "price": 199,
+    "name": "Embassy Suites Atlanta Airport",
+    "address": "4700 Southport Road, College Park, GA, 30337 United States",
+    "distance": 0.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7400/7345/3f989259_l.jpg"
+  },
+  {
+    "price": 189,
+    "name": "The Westin Atlanta Airport",
+    "address": "4736 Best Road, College Park, GA, 30337 United States",
+    "distance": 0.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8700/8629/8629_201_l.jpg"
+  },
+  {
+    "price": 219,
+    "name": "Atlanta Airport Marriott",
+    "address": "4711 Best Rd, College Park, GA, 30337 United States",
+    "distance": 0.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20100/20080/848b0d9a_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Holiday Inn Atlanta Airport South",
+    "address": "4669 Airport Blvd, College Park, GA, 30337 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/454600/454557/cc085de3_l.jpg"
+  },
+  {
+    "price": 170,
+    "name": "Hilton Garden Inn Atlanta Airport/Millenium Center",
+    "address": "2301 Sullivan Rd, College Park, GA, 30337 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1010000/1000700/1000698/8fcc48d6_l.jpg"
+  },
+  {
+    "price": 137,
+    "name": "Hyatt Place Atlanta Airport-South",
+    "address": "1899 Sullivan Road, College Park, GA, 30337 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40400/40316/40316_66_l.jpg"
+  }
+]

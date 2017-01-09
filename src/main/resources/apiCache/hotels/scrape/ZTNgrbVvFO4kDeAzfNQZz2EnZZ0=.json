@@ -1,0 +1,82 @@
+[
+  {
+    "price": 59,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "2014 N Expressway, Griffin, GA, 30223 United States",
+    "distance": 6.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42400/42362/42362_42_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Super 8 Griffin",
+    "address": "2010 N Expressway, Hwy 19 \u0026 41, Griffin, GA, 30223 United States",
+    "distance": 6.2,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856000/855977/855977_85_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Baymont Inn \u0026 Suites Griffin",
+    "address": "2007 N Expressway, Griffin, GA, 30223 United States",
+    "distance": 6.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6800/6776/6776_58_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Comfort Inn And Suites Griffin",
+    "address": "1906 N Expressway Spalding, Griffin, GA, 30223 United States",
+    "distance": 6.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1370000/1368700/1368663/91997c58_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Days Inn Griffin GA",
+    "address": "1719 N Expressway, Hwy 19 \u0026 41 Northside, Griffin, GA, 30223 United States",
+    "distance": 6.6,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5300/5247/5247_77_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Hilton Garden Inn Atlanta South/McDonough",
+    "address": "95 Highway 81 W, McDonough, GA, 30253 United States",
+    "distance": 7.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2790000/2784500/2784445/2784445_24_l.jpg"
+  },
+  {
+    "price": 160,
+    "name": "Holiday Inn Express McDonough",
+    "address": "1315 Highway 20 W, Mcdonough, GA, 30253 United States",
+    "distance": 7.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1180000/1172400/1172328/1172328_178_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Home2 Suites by Hilton McDonough",
+    "address": "60 Mill Rd, McDonough, GA, 30253 United States",
+    "distance": 7.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12070000/12069900/12069858/12069858_3_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Hampton Inn Atlanta McDonough",
+    "address": "250 Avalon Ct, Mcdonough, GA, 30253 United States",
+    "distance": 7.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7730000/7726700/7726639/7726639_10_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Courtyard by Marriott Atlanta McDonough",
+    "address": "115 Mill Rd, McDonough, GA, 30253 United States",
+    "distance": 7.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3770000/3762600/3762579/3762579_13_l.jpg"
+  }
+]

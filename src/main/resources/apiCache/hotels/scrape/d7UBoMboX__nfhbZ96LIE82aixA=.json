@@ -1,0 +1,82 @@
+[
+  {
+    "price": 101,
+    "name": "Hampton Inn Cherry Hill - Voorhees",
+    "address": "121 Laurel Oak Rd, Voorhees, NJ, 08043 United States",
+    "distance": 1.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1100/1034/1034_35_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "SpringHill Suites by Marriott Voorhees Mt. Laurel/Cherry Hil",
+    "address": "1031 Voorhees Drive, Voorhees, NJ, 08043 United States",
+    "distance": 2.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6440000/6435000/6434959/a54aadd9_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Wingate by Wyndham Voorhees Mt. Laurel",
+    "address": "1000 Laurel Oak Rd, Voorhees, NJ, 08043 United States",
+    "distance": 2.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/899400/899365/b95bb737_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "La Quinta Inn \u0026 Suites Runnemede - Philadelphia",
+    "address": "109 E 9th Ave, Runnemede, NJ, 08078 United States",
+    "distance": 2.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23500/23463/4d29c30c_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Days Inn Runnemede Philadelphia Area",
+    "address": "101 E 9th Ave, Runnemede, NJ, 08078 United States",
+    "distance": 2.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18400/18362/0ed8b697_l.jpg"
+  },
+  {
+    "price": 61,
+    "name": "Super 8 Bellmawr",
+    "address": "341 S Black Horse Pike, Bellmawr, NJ, 08031 United States",
+    "distance": 3.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/892900/892809/892809_104_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Howard Johnson Express Inn Bellmawr/Philadelphia Area",
+    "address": "341b S Black Horse Pike, Bellmawr, NJ, 08031 United States",
+    "distance": 3.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/892300/892253/aacf00aa_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Howard Johnson Express Inn - Blackwood",
+    "address": "832 N Black Horse Pike, Blackwood, NJ, 08012 United States",
+    "distance": 3.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22100/22013/719956ec_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Econo Lodge Bellmawr",
+    "address": "301 S Black Horse Pike, Bellmawr, NJ, 08031 United States",
+    "distance": 3.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4600/4534/4534_78_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Red Roof Inn \u0026 Suites Bellmawr",
+    "address": "217 South Black Horse Pike, Bellmawr, NJ, 08031 United States",
+    "distance": 3.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1150000/1141400/1141333/1141333_89_l.jpg"
+  }
+]

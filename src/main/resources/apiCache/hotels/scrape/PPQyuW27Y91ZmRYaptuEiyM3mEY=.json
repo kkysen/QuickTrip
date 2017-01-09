@@ -1,0 +1,82 @@
+[
+  {
+    "price": 69,
+    "name": "Red Lion Hotel La Junta",
+    "address": "1325 E 3rd, La Junta, CO, 81050 United States",
+    "distance": 4.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6500/6491/42f3eac5_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Travel Inn of La Junta",
+    "address": "110 East First Street, La Junta, CO, 81050 United States",
+    "distance": 5.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2820000/2810500/2810462/2810462_63_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Stagecoach Motel",
+    "address": "905 W 3rd St, La Junta, CO, 81050 United States",
+    "distance": 5.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3720000/3712900/3712854/3712854_1_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Holiday Inn Express",
+    "address": "27994 US Highway 50, La Junta, CO, 81050 United States",
+    "distance": 5.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42200/42113/42113_205_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Hampton Inn La Junta",
+    "address": "27800 W Us Highway 50, La Junta, CO, 81050 United States",
+    "distance": 5.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2510000/2508700/2508627/2508627_4_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "High Chaparral Inn",
+    "address": "1321 Elm Ave, Rocky Ford, CO, 81067 United States",
+    "distance": 14.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3860000/3859400/3859386/3859386_20_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Americas Best Value Inn",
+    "address": "10950 East Highway 50, Las Animas, CO, 81054 United States",
+    "distance": 21.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11970000/11966100/11966072/11966072_7_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Blue Spruce Motel",
+    "address": "1801 S Main St, Lamar, CO, 81052 United States",
+    "distance": 51.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1470000/1469300/1469236/1469236_9_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Chek Inn",
+    "address": "1210 S Main St, Lamar, CO, 81052 United States",
+    "distance": 51.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1330000/1320800/1320722/1320722_2_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Days Inn Lamar CO",
+    "address": "1302 N. Main, Lamar, CO, 81052 United States",
+    "distance": 51.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/63200/63198/63198_90_l.jpg"
+  }
+]

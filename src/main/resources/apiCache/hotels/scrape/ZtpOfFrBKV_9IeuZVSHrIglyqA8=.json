@@ -1,0 +1,82 @@
+[
+  {
+    "price": 169,
+    "name": "Sheraton West Des Moines Hotel",
+    "address": "1800 50th St, West Des Moines, IA, 50266 United States",
+    "distance": 0.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14900/14899/14899_84_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Valley West Inn",
+    "address": "3535 Westown Parkway, West Des Moines, IA, 50266 United States",
+    "distance": 1.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/51200/51131/51131_90_l.jpg"
+  },
+  {
+    "price": 136,
+    "name": "Staybridge Suites West Des Moines",
+    "address": "6905 Lake Dr, West Des Moines, IA, 50266 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/560000/554000/553974/553974_170_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Hampton Inn Des Moines-West",
+    "address": "7060 Lake Dr, West Des Moines, IA, 50266 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42600/42540/42540_134_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "Fairfield Inn and Suites by Marriott Des Moines West",
+    "address": "7225 Vista Dr, West Des Moines, IA, 50266 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/77600/77590/77590_30_l.jpg"
+  },
+  {
+    "price": 209,
+    "name": "West Des Moines Marriott",
+    "address": "1250 Jordan Creek Parkway, West Des Moines, IA, 50266 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19500/19421/19421_107_l.jpg"
+  },
+  {
+    "price": 133,
+    "name": "SpringHill Suites Des Moines West",
+    "address": "1236 Jordan Creek Pkwy, West Des Moines, IA, 50266 United States",
+    "distance": 1.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/560000/554000/553975/553975_33_l.jpg"
+  },
+  {
+    "price": 136,
+    "name": "Candlewood Suites Des Moines",
+    "address": "7625 Office Plaza Dr N, West Des Moines, IA, 50266 United States",
+    "distance": 1.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84500/84463/84463_168_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Motel 6 Des Moines West",
+    "address": "7655 Office Plaza Dr N, West Des Moines, IA, 50266 United States",
+    "distance": 1.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/990000/986100/986072/986072_7_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Extended Stay America - Des Moines - West Des Moines",
+    "address": "2701 Westown Pkwy, West Des Moines, IA, 50266 United States",
+    "distance": 1.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84800/84793/84793_74_l.jpg"
+  }
+]

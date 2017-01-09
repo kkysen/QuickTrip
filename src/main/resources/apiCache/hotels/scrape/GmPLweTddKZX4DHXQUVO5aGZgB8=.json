@@ -1,0 +1,18 @@
+[
+  {
+    "price": 120,
+    "name": "Red Carpet Inn Elmwood Park",
+    "address": "204 Route 46 East Bergen, Elmwood Park, NJ, 07407 United States",
+    "distance": 0.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1150000/1142300/1142279/1142279_53_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Townhouse Inn \u0026 Suites",
+    "address": "50 Us Hwy Rr 46, Elmwood Park, NJ, 07407 United States",
+    "distance": 0.8,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1860000/1852800/1852772/1852772_2_l.jpg"
+  }
+]

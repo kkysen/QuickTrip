@@ -1,0 +1,50 @@
+[
+  {
+    "price": 60,
+    "name": "Comfort Inn Rio Rancho",
+    "address": "4081 High Resort Blvd Se, Rio Rancho, NM, 87124 United States",
+    "distance": 0.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/34600/34583/34583_53_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Howard Johnson Rio Rancho/ Albuquerque North",
+    "address": "1465 Rio Rancho Dr Se, Rio Rancho, NM, 87124 United States",
+    "distance": 0.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/421900/421859/421859_267_l.jpg"
+  },
+  {
+    "price": 61,
+    "name": "Days Inn Rio Rancho",
+    "address": "4200 Crestview Drive, Hwy 528 and Crestview Drive, Rio Rancho, NM, 87124 United States",
+    "distance": 0.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27700/27653/616dcce8_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "Hilton Garden Inn Albuquerque North/Rio Rancho",
+    "address": "1771 Rio Rancho Blvd., Rio Rancho, NM, 87124 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/159000/158923/bcc95a6e_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Extended Stay America - Albuquerque - Rio Rancho Blvd.",
+    "address": "2221 Rio Rancho Blvd NW, Rio Rancho, NM, 87124 United States",
+    "distance": 1.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/201200/201108/201108_23_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Extended Stay America - Albuquerque - Rio Rancho",
+    "address": "2608 The American Rd Nw, Rio Rancho, NM, 87124 United States",
+    "distance": 2.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/118500/118500/118500_20_l.jpg"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "price": 140,
+    "name": "La Quinta Inn \u0026 Suites Kyle - Austin South",
+    "address": "18869 IH-35 North, Kyle, TX, 78640 United States",
+    "distance": 2.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2270000/2260300/2260239/1e3631ea_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "18658 Interstate 35 South, Kyle, TX, 78610 United States",
+    "distance": 3.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7260000/7258000/7257947/7257947_4_l.jpg"
+  }
+]

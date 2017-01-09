@@ -1,0 +1,26 @@
+[
+  {
+    "price": 119,
+    "name": "A Victory Inn Tolleson",
+    "address": "1520 N 84th Drive, Tolleson, AZ, 85353 United States",
+    "distance": 3.7,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15200/15137/15137_36_l.jpg"
+  },
+  {
+    "price": 78,
+    "name": "Premier Inns Tolleson",
+    "address": "8399 W Lynwood St., Tolleson, AZ, 85353 United States",
+    "distance": 3.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16090000/16081200/16081175/042574be_l.jpg"
+  },
+  {
+    "price": 152,
+    "name": "Best Western Tolleson-Phoenix Hotel",
+    "address": "8421 W Mcdowell Road, Tolleson, AZ, 85353 United States",
+    "distance": 3.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/280900/280812/280812_76_l.jpg"
+  }
+]

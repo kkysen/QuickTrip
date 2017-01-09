@@ -1,0 +1,82 @@
+[
+  {
+    "price": 40,
+    "name": "Heart Of Dillon Motel",
+    "address": "811 Highway 301 N, Dillon, SC, 29536 United States",
+    "distance": 17.0,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12260000/12252700/12252611/12252611_2_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Economy Inn",
+    "address": "1223 Radford Blvd, Dillon, SC, 29536-5015 United States",
+    "distance": 18.0,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24400/24347/24347_21_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Days Inn Dillon",
+    "address": "823 Radford Blvd, Dillon, SC, 29536-5007 United States",
+    "distance": 18.0,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/110000/105100/105003/105003_90_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "817 Radford Blvd, Dillon, SC, 29536-5007 United States",
+    "distance": 18.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2100/2009/2009_32_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Americas Best Value Inn",
+    "address": "904 Radford Blvd, Dillon, SC, 29536 United States",
+    "distance": 18.0,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4100/4007/d80b01db_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Best Western Executive Inn",
+    "address": "1534 Highway 38 W, Latta, SC, 29565 United States",
+    "distance": 18.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1210000/1202800/1202776/2d14aae4_l.jpg"
+  },
+  {
+    "price": 37,
+    "name": "Night Inn",
+    "address": "14723 US Highway 301 S, Rowland, NC, 28383 United States",
+    "distance": 22.0,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12620000/12613200/12613111/12613111_1_l.jpg"
+  },
+  {
+    "price": 42,
+    "name": "Super Inn",
+    "address": "14733 U S 301 South I 95 Exit, Rowland, NC, 28383 United States",
+    "distance": 22.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/73900/73813/73813_6_l.jpg"
+  },
+  {
+    "price": 92,
+    "name": "Sleep Inn \u0026 Suites",
+    "address": "3345 Church Street Hwy 501, Conway, SC, 29526-4467 United States",
+    "distance": 24.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/530000/530000/529902/529902_89_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Florence I-95 at Hwy 327",
+    "address": "2101 Florence Harllee Blvd, Florence, SC, 29506-8245 United States",
+    "distance": 25.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/970000/970000/969975/c5333d7a_l.jpg"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "price": 92,
+    "name": "Best Western Plus Lake Dallas Inn \u0026 Suites",
+    "address": "305 Swisher Rd, Lake Dallas, TX, 75065 United States",
+    "distance": 1.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1450000/1445800/1445712/56dfcaed_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Comfort Inn \u0026 Suites Near Lake Lewisville",
+    "address": "8111 S. I-35 E Corinth, Corinth, TX, 76210 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2520000/2514100/2514085/2514085_57_l.jpg"
+  }
+]

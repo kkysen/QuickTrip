@@ -1,0 +1,82 @@
+[
+  {
+    "price": 119,
+    "name": "Fairfield Inn by Marriott Manhattan",
+    "address": "300 Colorado St, Manhattan, KS, 66502 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/110000/102000/101901/11d91afa_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Hilton Garden Inn Manhattan",
+    "address": "410 S 3rd St, Manhattan, KS, 66502 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4660000/4655400/4655350/4655350_106_l.jpg"
+  },
+  {
+    "price": 57,
+    "name": "Super 8 Manhattan KS",
+    "address": "200 Tuttle Creek Blvd, I-70E Exit 303 I-70W 313, Manhattan, KS, 66502 United States",
+    "distance": 0.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/123000/122965/122965_43_l.jpg"
+  },
+  {
+    "price": 46,
+    "name": "Motel 6 Manhattan",
+    "address": "510 Tuttle Creek Blvd, Manhattan, KS, 66502 United States",
+    "distance": 0.3,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/996300/996244/0f105bfb_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Candlewood Suites Manhattan",
+    "address": "210 Blue Earth Pl, Manhattan, KS, 66502 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5960000/5952900/5952821/5952821_46_l.jpg"
+  },
+  {
+    "price": 108,
+    "name": "Holiday Inn Express \u0026 Suites Manhattan",
+    "address": "115 Blue Earth Place, Manhattan, KS, 66502 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10030000/10027600/10027575/10027575_7_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "150 E Poyntz Ave, Manhattan, KS, 66502 United States",
+    "distance": 0.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/532800/532754/532754_17_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Hampton Inn Manhattan",
+    "address": "501 E Poyntz Ave, Manhattan, KS, 66502 United States",
+    "distance": 0.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/110000/103200/103119/103119_100_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Best Western Manhattan Inn",
+    "address": "601 E Poyntz Avenue, Manhattan, KS, 66502 United States",
+    "distance": 0.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1350000/1343800/1343715/a8bee914_l.jpg"
+  },
+  {
+    "price": 111,
+    "name": "The Bluemont Hotel",
+    "address": "1212 Bluemont Avenue, Manhattan, KS, 66502 United States",
+    "distance": 0.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8120000/8120000/8119987/8119987_19_l.jpg"
+  }
+]

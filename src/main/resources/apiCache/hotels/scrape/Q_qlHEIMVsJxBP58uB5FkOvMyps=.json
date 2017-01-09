@@ -1,0 +1,82 @@
+[
+  {
+    "price": 72,
+    "name": "Robinhood Resort",
+    "address": "540 Pine Knot Ave, Big Bear Lake, CA, 92315 United States",
+    "distance": 0.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1160000/1156500/1156451/97a5b118_l.jpg"
+  },
+  {
+    "price": 120,
+    "name": "Marina Resort",
+    "address": "40770 Big Bear Blvd, Big Bear Lake, CA, 92315 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/910300/910279/910279_217_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Big Bear Village Lodge",
+    "address": "546 Pine Knot Ave., Big Bear Lake, CA, 92315-1564 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7280000/7275100/7275045/7275045_78_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Fireside Lodge",
+    "address": "40660 Big Bear Blvd, Big Bear Lake, CA, 92315 United States",
+    "distance": 0.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/914800/914754/914754_51_l.jpg"
+  },
+  {
+    "price": 225,
+    "name": "Jus Restin 265 by RedAwning",
+    "address": "40694 Croft Ln, Big Bear Lake, CA, 92315 United States",
+    "distance": 0.2,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16390000/16386600/16386510/1bd326b1_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Knights Inn Big Bear Lake",
+    "address": "40598 Big Bear Blvd, Big Bear Lake, CA, 92315 United States",
+    "distance": 0.2,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4230000/4225500/4225487/4225487_47_l.jpg"
+  },
+  {
+    "price": 250,
+    "name": "Ballentine Lodge 1362 by RedAwning",
+    "address": "616 Marin Rd, Big Bear Lake, CA, 92315 United States",
+    "distance": 0.3,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16400000/16392400/16392400/c2a88f0d_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "Holiday Inn Resort The Lodge At Big Bear Lake",
+    "address": "40650 Village Drive, Big Bear Lake, CA, 92315 United States",
+    "distance": 0.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1080000/1072900/1072833/44aa7b9b_l.jpg"
+  },
+  {
+    "price": 946,
+    "name": "No 12 Indoor Pool and Spa at beautiful Lakeside retreat",
+    "address": "523 Paine Ct, Big Bear Lake, CA, 92314 United States",
+    "distance": 0.3,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16350000/16346300/16346292/627c4732_l.jpg"
+  },
+  {
+    "price": 187,
+    "name": "The Club At Big Bear Village",
+    "address": "40671 Village Dr, Big Bear Lake, CA, 92315 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5250000/5244400/5244355/5244355_36_l.jpg"
+  }
+]

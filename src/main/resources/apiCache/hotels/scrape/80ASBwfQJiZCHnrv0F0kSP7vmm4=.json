@@ -1,0 +1,26 @@
+[
+  {
+    "price": 112,
+    "name": "Country Inn and Suites Dover, OH",
+    "address": "1120 Gateway Place, Dover, OH, 44622 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5130000/5126900/5126848/5126848_14_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "Comfort Inn",
+    "address": "2024 SR 39 N.W., Dover, OH, 44622 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26400/26303/26303_68_l.jpg"
+  },
+  {
+    "price": 48,
+    "name": "77 Inn \u0026 Grill",
+    "address": "889 Commercial Parkway, Dover, OH, 44622 United States",
+    "distance": 1.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9850000/9846700/9846608/9846608_3_l.jpg"
+  }
+]

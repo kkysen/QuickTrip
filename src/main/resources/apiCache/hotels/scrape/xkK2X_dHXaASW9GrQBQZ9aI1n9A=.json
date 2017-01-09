@@ -1,0 +1,82 @@
+[
+  {
+    "price": 47,
+    "name": "Motel 6 Peoria - East",
+    "address": "104 W Camp St, East Peoria, IL, 61611 United States",
+    "distance": 1.6,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/996200/996126/996126_41_l.jpg"
+  },
+  {
+    "price": 48,
+    "name": "Super 8 Peoria East",
+    "address": "725 Taylor St, East Peoria, IL, 61611 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50700/50661/50661_102_l.jpg"
+  },
+  {
+    "price": 178,
+    "name": "Holiday Inn Hotel \u0026 Suites East Peoria",
+    "address": "101 Holiday Dr, East Peoria, IL, 61611 United States",
+    "distance": 1.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5970000/5963300/5963268/5963268_327_l.jpg"
+  },
+  {
+    "price": 120,
+    "name": "Best Western Plus Peoria",
+    "address": "300 Eastlight Ct, East Peoria, IL, 61611 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/327200/327160/327160_129_l.jpg"
+  },
+  {
+    "price": 117,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Peoria East",
+    "address": "200 Eastlight Court, East Peoria, IL, 61611 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2520000/2516500/2516424/2516424_21_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Holiday Inn Express \u0026 Suites East Peoria - Riverfront",
+    "address": "1100 Bass Pro Dr, East Peoria, IL, 61611 United States",
+    "distance": 2.6,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15970000/15963500/15963438/0185b8b4_l.jpg"
+  },
+  {
+    "price": 144,
+    "name": "Hampton Inn Peoria East",
+    "address": "11 Winners Way, East Peoria, IL, 61611 United States",
+    "distance": 2.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24200/24119/24119_55_l.jpg"
+  },
+  {
+    "price": 122,
+    "name": "Par A Dice Hotel Casino",
+    "address": "21 Blackjack Boulevard, East Peoria, IL, 61611 United States",
+    "distance": 2.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/560000/554600/554553/554553_105_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Mark Twain Hotel",
+    "address": "225 NE Adams Street, Peoria, IL, 61602 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28500/28417/28417_25_l.jpg"
+  },
+  {
+    "price": 126,
+    "name": "Staybridge Suites Downtown Peoria",
+    "address": "300 W Romeo B Garrett Avenue, Peoria, IL, 61605 United States",
+    "distance": 3.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/560000/555100/555022/555022_224_l.jpg"
+  }
+]

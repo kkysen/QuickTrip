@@ -1,0 +1,82 @@
+[
+  {
+    "price": 149,
+    "name": "Homewood Suites by Hilton Greeley",
+    "address": "2510 46th Ave, Greeley, CO, 80634 United States",
+    "distance": 6.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11130000/11120200/11120144/11120144_2_l.jpg"
+  },
+  {
+    "price": 151,
+    "name": "Candlewood Suites Greeley",
+    "address": "3530 West 29th Street, Greeley, CO, 80634 United States",
+    "distance": 6.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5810000/5801000/5800973/5800973_6_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Days Inn Greeley",
+    "address": "5630 W. 10th St., I 25, Hwy 34, Exit at 10th St., Greeley, CO, 80634 United States",
+    "distance": 7.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/300000/295400/295311/295311_133_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Holiday Inn Express Greeley",
+    "address": "2563 West 29th Street, Greeley, CO, 80631 United States",
+    "distance": 7.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42100/42091/42091_68_l.jpg"
+  },
+  {
+    "price": 144,
+    "name": "Country Inn \u0026 Suites By Carlson Greeley",
+    "address": "2501 W 29th St, Greeley, CO, 80631 United States",
+    "distance": 7.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/64300/64237/64237_27_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "Comfort Inn Greeley",
+    "address": "2467 W 29th St, Greeley, CO, 80631 United States",
+    "distance": 7.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/117400/117324/117324_80_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "Fairfield Inn \u0026 Suites Greeley",
+    "address": "2401 W 29th St, Greeley, CO, 80631 United States",
+    "distance": 7.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22500/22442/22442_60_l.jpg"
+  },
+  {
+    "price": 144,
+    "name": "Hampton Inn \u0026 Suites Greeley",
+    "address": "2350 W 29th St, Greeley, CO, 80631 United States",
+    "distance": 7.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1620000/1619200/1619184/1623bfb8_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "Budget Host 254 Inn Loveland",
+    "address": "2716 Se Frontage Rd, Loveland, CO, 80537 United States",
+    "distance": 8.4,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1360000/1357200/1357117/1357117_35_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Rodeway Inn",
+    "address": "3015 8th Ave, Evans, CO, 80620 United States",
+    "distance": 8.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/996400/996351/996351_34_l.jpg"
+  }
+]

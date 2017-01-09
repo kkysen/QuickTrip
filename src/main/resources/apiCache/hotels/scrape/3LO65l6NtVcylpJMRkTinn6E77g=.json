@@ -1,0 +1,26 @@
+[
+  {
+    "price": 69,
+    "name": "Super 8 Wickenburg AZ",
+    "address": "1021 North Tegner, Wickenburg, AZ, 85390 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/450000/440500/440432/78051142_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Best Western Rancho Grande",
+    "address": "293 E Wickenburg Way, Wickenburg, AZ, 85390 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24900/24856/24856_126_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Quality Inn Wickenburg",
+    "address": "850 E Wickenburg Way, Wickenburg, AZ, 85390 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/660000/658100/658044/9d3375b5_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 50,
+    "name": "Econo Lodge Texarkana",
+    "address": "4505 N Stateline Ave, Texarkana, TX, 75503 United States",
+    "distance": 2.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19500/19497/19497_42_l.jpg"
+  },
+  {
+    "price": 28,
+    "name": "Americas Best Value Inn",
+    "address": "4200 N. State Line Avenue, Texarkana, AR, 71854 United States",
+    "distance": 2.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9400/9322/9322_3_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Motel 6 Texarkana AR",
+    "address": "4300 North Stateline Avenue, Texarkana, AR, 71854 United States",
+    "distance": 2.8,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6380000/6376100/6376092/14bf4f2c_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Super 8 Texarkana AR",
+    "address": "325 E 51st St, I-30 and US Hwy 59 and 71, Texarkana, AR, 71854 United States",
+    "distance": 3.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/123200/123185/123185_20_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Best Western Plus Texarkana Inn \u0026 Suites",
+    "address": "5219 Cross Roads Pkwy, Texarkana, AR, 71854 United States",
+    "distance": 3.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2790000/2784500/2784439/2784439_157_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Texarkana East",
+    "address": "5210 Crossroads Pkwy, Texarkana, AR, 71854 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2620000/2614800/2614739/2614739_211_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Comfort Suites",
+    "address": "5420 Crossroads Pkwy, Texarkana, AR, 71854 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5810000/5801000/5800943/5800943_43_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Holiday Inn Texarkana Arkansas Conv Ctr",
+    "address": "5200 Convention Plaza Dr, Texarkana, AR, 71854 United States",
+    "distance": 3.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6160000/6152800/6152785/6152785_102_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Baymont Inn and Suites Texarkana",
+    "address": "5102 N State Line Ave, Texarkana, AR, 71854 United States",
+    "distance": 3.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/51100/51047/366c08e1_l.jpg"
+  },
+  {
+    "price": 46,
+    "name": "Studio 6 Texarkana, AR",
+    "address": "5210 N State Line Ave, Texarkana, AR, 71854 United States",
+    "distance": 3.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/39400/39308/39308_92_l.jpg"
+  }
+]

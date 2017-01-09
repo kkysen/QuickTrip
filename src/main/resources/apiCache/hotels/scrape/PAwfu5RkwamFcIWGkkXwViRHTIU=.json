@@ -1,0 +1,18 @@
+[
+  {
+    "price": 60,
+    "name": "Quality Inn",
+    "address": "925 N Main St, Cedartown, GA, 30125 United States",
+    "distance": 2.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/543500/543469/6329c9e5_l.jpg"
+  },
+  {
+    "price": 88,
+    "name": "Best Western Cedartown Inn and Suites",
+    "address": "100 John Hand Road, Cedartown, GA, 30125 United States",
+    "distance": 2.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/520000/520000/519921/d04885a0_l.jpg"
+  }
+]

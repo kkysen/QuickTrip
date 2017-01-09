@@ -1,0 +1,26 @@
+[
+  {
+    "price": 86,
+    "name": "Best Western Plus Desoto Inn \u0026 Suites",
+    "address": "611 Jenkins St, Mansfield, LA, 71052 United States",
+    "distance": 0.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4440000/4436900/4436842/11399a06_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Comfort Inn And Suites",
+    "address": "1228 Polk St, Mansfield, LA, 71052 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4510000/4503100/4503097/6f893ea6_l.jpg"
+  },
+  {
+    "price": 42,
+    "name": "Rodeway Inn",
+    "address": "1055 Washington Ave, Mansfield, LA, 71052 United States",
+    "distance": 1.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9330000/9324600/9324599/9324599_3_l.jpg"
+  }
+]

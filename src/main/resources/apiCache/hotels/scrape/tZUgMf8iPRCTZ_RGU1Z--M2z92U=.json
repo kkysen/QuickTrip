@@ -1,0 +1,82 @@
+[
+  {
+    "price": 68,
+    "name": "Western Lodge",
+    "address": "1122 Lincoln Avenue, Steamboat Springs, CO, 80487 United States",
+    "distance": 0.3,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42200/42164/42164_3_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Rabbit Ears Motel",
+    "address": "201 Lincoln Ave, Steamboat Springs, CO, 80477 United States",
+    "distance": 0.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50700/50671/50671_102_l.jpg"
+  },
+  {
+    "price": 167,
+    "name": "Mariposa Lodge Bed and Breakfast",
+    "address": "855 Grand Street, Steamboat Springs, Colorado, 80477 United States",
+    "distance": 0.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12610000/12607500/12607428/468a9bc8_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Hampton Inn and Suites Steamboat Springs",
+    "address": "725 South Lincoln, Steamboat Springs, CO, 80488 United States",
+    "distance": 1.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/860400/860331/860331_15_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Legacy Vacation Club - Steamboat Hilltop",
+    "address": "1000 High Point Drive, Steamboat Springs, CO, 80487 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1160000/1151300/1151274/1151274_109_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Legacy Vacation Club - Steamboat Suites",
+    "address": "1485 Pine Grove Road, Steamboat Springs, CO, 80487 United States",
+    "distance": 1.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1150000/1140200/1140170/2ccb4742_l.jpg"
+  },
+  {
+    "price": 150,
+    "name": "Wyndham Vacation Resorts Steamboat Springs",
+    "address": "900 Pine Grove Circle, Steamboat Springs, CO, 80477 United States",
+    "distance": 2.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5800000/5798100/5798048/5798048_12_l.jpg"
+  },
+  {
+    "price": 131,
+    "name": "The Village at Steamboat Springs",
+    "address": "900 Pine Grove Circle, Steamboat Springs, CO, 80477 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/100000/99000/98931/98931_72_l.jpg"
+  },
+  {
+    "price": 180,
+    "name": "Trailhead Lodge by Steamboat Resorts",
+    "address": "1175 Bangtail Way, Steamboat Springs, CO, 80487 United States",
+    "distance": 2.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2730000/2721400/2721355/2721355_175_l.jpg"
+  },
+  {
+    "price": 128,
+    "name": "The Steamboat Grand",
+    "address": "2300 Mount Werner Circle, Steamboat Springs, CO, 80487 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/690000/687700/687627/687627_151_l.jpg"
+  }
+]

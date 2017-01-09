@@ -1,0 +1,26 @@
+[
+  {
+    "price": 64,
+    "name": "Motel 6 Fontana",
+    "address": "10195 Sierra Ave, Fontana, CA, 92335 United States",
+    "distance": 2.1,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/996300/996291/996291_72_l.jpg"
+  },
+  {
+    "price": 192,
+    "name": "Hilton Garden Inn Fontana",
+    "address": "10543 Sierra Avenue, Fontana, CA, 92337 United States",
+    "distance": 2.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2480000/2475100/2475059/2475059_17_l.jpg"
+  },
+  {
+    "price": 185,
+    "name": "Comfort Inn Fontana",
+    "address": "13500 Baseline Ave, Fontana, CA, 92336 United States",
+    "distance": 4.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/880000/878400/878351/878351_37_l.jpg"
+  }
+]

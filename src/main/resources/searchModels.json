@@ -1,5 +1,17 @@
 [
   {
+    "origin": "345 Chambers St",
+    "startDate": "2017-01-09",
+    "destinations": [
+      {
+        "address": "Brooklyn",
+        "numDays": 234
+      }
+    ],
+    "budget": 234,
+    "numPeople": 33
+  },
+  {
     "origin": "296 6th St, Brooklyn, NY",
     "startDate": "2017-01-08",
     "destinations": [

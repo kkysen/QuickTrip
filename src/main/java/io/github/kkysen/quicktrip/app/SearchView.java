@@ -246,6 +246,7 @@ public class SearchView {
 		System.err.println("View already created, zeroing fields");
 		//origin.setText(null);
 	    System.out.println(origin.getText());
+		//System.out.println(((TextField)grid.lookup("#origin")).getText());
 		/*numDests.setText(null);
 		numPeople.setText(null);
 		budget.setText(null);*/
@@ -334,6 +335,7 @@ public class SearchView {
 			e.printStackTrace();
 		}
 		
+		origin = ((TextField)grid.lookup("#origin"));
 		((DatePicker)grid.lookup("#startDate")).setValue(LocalDate.now());
 		startDate = ((DatePicker)grid.lookup("#startDate"));
         ((WholeNumberField)grid.lookup("#numDests")).setMax(23);

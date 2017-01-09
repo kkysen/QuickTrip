@@ -45,7 +45,9 @@ public class SearchView {
     @FXML private Button resetBtn;
     @FXML private Button lastSearchBtn;
     
-    @FXML private final String now = LocalDate.now().toString();
+    private FXMLLoader loader;
+    
+    //@FXML private final String now = LocalDate.now().toString();
     
     /**
      * model and view
@@ -141,6 +143,11 @@ public class SearchView {
         return btn;
     }
     
+    /**
+     * Removes all {@link DestField}s, then adds in the specified amount
+     * 
+     * @param numDests The number of total destinations
+     * */
     public void setNumDestinations(final int numDests) {
 //        final int numToAdd = numDests - destFields.size();
 //        if (numToAdd == 0) {
@@ -235,7 +242,18 @@ public class SearchView {
         resetBtn = new Button();
         lastSearchBtn = new Button();
     	
-        rows.clear();
+        //rows.clear();
+        
+        try {
+			grid = loader.load();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+        
+        ((DatePicker)grid.lookup("#startDate")).setValue(LocalDate.now());
+        ((WholeNumberField)grid.lookup("#numDests")).setMax(23);
+        ((WholeNumberField)grid.lookup("#numPeople")).setMax(Long.MAX_VALUE);
+        ((WholeNumberField)grid.lookup("#budget")).setMax(Long.MAX_VALUE);
         
         //origin = addLabeledInputField("Origin");
         
@@ -246,7 +264,8 @@ public class SearchView {
         //rows.add(startDateLabel, startDate);
         
         dest = new DestField(0);
-        dest.addToGrid();
+        grid.addRow(2, dest.toNodeArray());
+        //dest.addToGrid();
         
         /*moreDestsBtn = new Button("Number of Destinations");
         numDests = new WholeNumberField(23);
@@ -269,20 +288,22 @@ public class SearchView {
         
         lastSearchBtn = new Button("Last Search");
         rows.add(lastSearchBtn);*/
+        
+        
     }
     
     public SearchView() {
-    	FXMLLoader loader = new FXMLLoader();
+    	loader = new FXMLLoader();
     	loader.setLocation(getClass().getResource("view/SearchScreenView.fxml"));
     	loader.setController(SearchController.class);
     	
-    	try {
+    	/*try {
 			grid = loader.load();
 		} catch (IOException e) {
 			e.printStackTrace();
-		}
+		}*/
     	
-    	((DatePicker)grid.lookup("#startDate")).setValue(LocalDate.now());
+    	
         //setupGrid();
         reset();
     }

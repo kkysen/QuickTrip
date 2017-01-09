@@ -1,9 +1,10 @@
 package io.github.kkysen.quicktrip.app;
 
-import javafx.beans.property.LongProperty;
-import javafx.beans.property.ReadOnlyLongWrapper;
-import javafx.beans.property.SimpleLongProperty;
+import javafx.beans.property.ObjectProperty;
+import javafx.beans.property.adapter.JavaBeanObjectPropertyBuilder;
 import javafx.scene.control.TextField;
+import lombok.Getter;
+import lombok.Setter;
 
 /**
  * 
@@ -12,18 +13,28 @@ import javafx.scene.control.TextField;
  */
 public class WholeNumberField extends TextField {
     
-    private final long max;
-    private final String maxString;
+    private long max;
+    private String maxString;
     
-    private ReadOnlyLongWrapper pMax;
+    @Getter
+    private ObjectProperty<Long> pMax;
     
-    public WholeNumberField(long max) {
+    @SuppressWarnings("unchecked")
+	public WholeNumberField(long max) {
         this.max = max;
         maxString = String.valueOf(max);
         
         //For fxgraph support
-        //pMax = new ReadOnlyLongWrapper();
-    	//pMax.set(max);
+        /*try {
+			pMax = JavaBeanObjectPropertyBuilder.create()
+					.bean(pMax)
+					.name("max")
+					.getter(WholeNumberField.class.getMethod("getPMax"))
+					.setter(WholeNumberField.class.getMethod("setPMax", Long.class))
+					.build();
+		} catch (NoSuchMethodException e) {
+			e.printStackTrace();
+		}*/
     }
     
     public WholeNumberField() {
@@ -63,6 +74,15 @@ public class WholeNumberField extends TextField {
     
     public long getValue() {
         return Long.parseLong(getText());
+    }
+    
+    public void setPMax(Long Max) {
+    	System.out.println("IT WORKS");
+    }
+    
+    public void setMax(long max) {
+    	this.max = max;
+    	maxString = String.valueOf(max);
     }
     
 }

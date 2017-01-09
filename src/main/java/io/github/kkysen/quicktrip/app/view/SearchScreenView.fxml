@@ -14,9 +14,6 @@
 <?import javafx.scene.layout.GridPane?>
 
 <GridPane xmlns:fx="http://javafx.com/fxml" fx:id="grid" hgap="10" vgap="10">
-	<fx:define>
-		<String fx:id="now"/> 
-	</fx:define>
 
 	<Label text="Origin" GridPane.columnIndex="0" GridPane.rowIndex="0"/> 
 	<TextField fx:id="origin" GridPane.columnIndex="1" GridPane.rowIndex="0"/> 

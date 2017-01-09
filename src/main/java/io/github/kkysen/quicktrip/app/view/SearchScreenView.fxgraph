@@ -16,7 +16,7 @@ component SearchScreenView
 		//controlledby  io.github.kkysen.quicktrip.app.SearchScreen 
 		{
 	//define LocalDate id now
-	define String id now
+	//define String id now
 	
 	GridPane id grid {
 		alignment : const Pos#CENTER,
@@ -53,6 +53,7 @@ component SearchScreenView
 		
 		//Dest should be here
 		//row 2
+		//DestField id 
 		
 		
 		Button id moreDestsBtn {

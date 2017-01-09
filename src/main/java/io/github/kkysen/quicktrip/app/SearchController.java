@@ -48,8 +48,9 @@ public class SearchController implements Screen {
     
     public SearchController() {
         view = new SearchView();
-        view.getLoader();
+        loader = view.getLoader();
         loader.setController(this);
+        view.reset();
         
         /*moreDestinationsBtn = view.getMoreDestsBtn();
         searchBtn = view.getSearchBtn();

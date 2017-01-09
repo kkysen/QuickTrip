@@ -8,6 +8,7 @@ import java.util.List;
 import lombok.Getter;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
+import javafx.fxml.LoadException;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.Node;
@@ -34,16 +35,17 @@ public class SearchView {
     
     @FXML private TextField origin;
     @FXML private DatePicker startDate;
-    private DestField dest;
-    @FXML private Button moreDestsBtn;
     @FXML private WholeNumberField numDests;
-    private final List<DestField> destFields = new ArrayList<>();
     @FXML private WholeNumberField numPeople;
     @FXML private WholeNumberField budget;
+    @FXML private Button moreDestsBtn;
     @FXML private Button searchBtn;
     @FXML private Button backBtn;
     @FXML private Button resetBtn;
     @FXML private Button lastSearchBtn;
+    
+    private DestField dest;
+    private final List<DestField> destFields = new ArrayList<>();
     
     private FXMLLoader loader;
     
@@ -232,28 +234,54 @@ public class SearchView {
     
     
     public void reset() {
-    	origin = new TextField();
-        moreDestsBtn = new Button();
-        numDests = new WholeNumberField();
-        numPeople = new WholeNumberField();
-        budget = new WholeNumberField();
-        searchBtn = new Button();
-        backBtn = new Button();
-        resetBtn = new Button();
-        lastSearchBtn = new Button();
+    	//grid = new GridPane();
+    	
     	
         //rows.clear();
         
         try {
+        	origin = new TextField();
+            moreDestsBtn = new Button();
+            numDests = new WholeNumberField();
+            numPeople = new WholeNumberField();
+            budget = new WholeNumberField();
+            searchBtn = new Button();
+            backBtn = new Button();
+            resetBtn = new Button();
+            lastSearchBtn = new Button();
+            
 			grid = loader.load();
+			
+			((DatePicker)grid.lookup("#startDate")).setValue(LocalDate.now());
+	        ((WholeNumberField)grid.lookup("#numDests")).setMax(23);
+	        ((WholeNumberField)grid.lookup("#numPeople")).setMax(Long.MAX_VALUE);
+	        ((WholeNumberField)grid.lookup("#budget")).setMax(Long.MAX_VALUE);
+	        
+	        dest = new DestField(0);
+	        grid.addRow(2, dest.toNodeArray());
+		} catch (LoadException e) {
+			System.err.println("View already created, zeroing fields");
+			
+			origin.setText("");
+			numDests.setText("");
+			numPeople.setText("");
+			budget.setText("");
+			
+			rows.clear();
+			//setNumDestinations(1);
+			
+			//destFields.clear();
+			
+			
+			
+			//dest = new DestField(0);
+			//grid.addRow(2, dest.toNodeArray());
+			
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
         
-        ((DatePicker)grid.lookup("#startDate")).setValue(LocalDate.now());
-        ((WholeNumberField)grid.lookup("#numDests")).setMax(23);
-        ((WholeNumberField)grid.lookup("#numPeople")).setMax(Long.MAX_VALUE);
-        ((WholeNumberField)grid.lookup("#budget")).setMax(Long.MAX_VALUE);
+        
         
         //origin = addLabeledInputField("Origin");
         
@@ -263,8 +291,7 @@ public class SearchView {
         //startDate = new DatePicker(LocalDate.now());
         //rows.add(startDateLabel, startDate);
         
-        dest = new DestField(0);
-        grid.addRow(2, dest.toNodeArray());
+        
         //dest.addToGrid();
         
         /*moreDestsBtn = new Button("Number of Destinations");
@@ -295,7 +322,7 @@ public class SearchView {
     public SearchView() {
     	loader = new FXMLLoader();
     	loader.setLocation(getClass().getResource("view/SearchScreenView.fxml"));
-    	loader.setController(controller);
+    	//loader.setController();
     	
     	/*try {
 			grid = loader.load();
@@ -305,7 +332,7 @@ public class SearchView {
     	
     	
         //setupGrid();
-        reset();
+        //reset();
     }
     
 }

@@ -19,16 +19,16 @@
 	<TextField fx:id="origin" GridPane.columnIndex="1" GridPane.rowIndex="0"/> 
 	<Label text="Start Date" GridPane.columnIndex="0" GridPane.rowIndex="1"/> 
 	<DatePicker fx:id="startDate" GridPane.columnIndex="1" GridPane.rowIndex="1"/> 
-	<Button fx:id="moreDestsBtn" text="Number of Destinations" GridPane.columnIndex="0" GridPane.rowIndex="3"/> 
+	<Button fx:id="moreDestsBtn" text="Number of Destinations" onAction="#addMoreDestinations" GridPane.columnIndex="0" GridPane.rowIndex="3"/> 
 	<WholeNumberField fx:id="numDests" GridPane.columnIndex="1" GridPane.rowIndex="3"/> 
 	<Label text="Number of People" GridPane.columnIndex="0" GridPane.rowIndex="4"/> 
 	<WholeNumberField fx:id="numPeople" GridPane.columnIndex="1" GridPane.rowIndex="4"/> 
 	<Label text="Budget" GridPane.columnIndex="0" GridPane.rowIndex="5"/> 
 	<WholeNumberField fx:id="budget" GridPane.columnIndex="1" GridPane.rowIndex="5"/> 
-	<Button fx:id="searchBtn" text="Search" GridPane.columnIndex="0" GridPane.rowIndex="6"/> 
-	<Button fx:id="resetBtn" text="Reset" GridPane.columnIndex="0" GridPane.rowIndex="7"/> 
-	<Button fx:id="backBtn" text="Back" GridPane.columnIndex="0" GridPane.rowIndex="8"/> 
-	<Button fx:id="lastSearchBtn" text="Last Search" GridPane.columnIndex="0" GridPane.rowIndex="9"/> 
+	<Button fx:id="searchBtn" text="Search" onAction="#search" GridPane.columnIndex="0" GridPane.rowIndex="6"/> 
+	<Button fx:id="resetBtn" text="Reset" onAction="#onReset" GridPane.columnIndex="0" GridPane.rowIndex="7"/> 
+	<Button fx:id="backBtn" text="Back" onAction="#onBackPressed" GridPane.columnIndex="0" GridPane.rowIndex="8"/> 
+	<Button fx:id="lastSearchBtn" text="Last Search" onAction="#oldSearch" GridPane.columnIndex="0" GridPane.rowIndex="9"/> 
 	<alignment><Pos fx:constant="CENTER" /></alignment>
 	<padding>
 		<Insets top="25" right="25" bottom="25" left="25"/> 

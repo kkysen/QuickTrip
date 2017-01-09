@@ -59,7 +59,8 @@ component SearchScreenView
 		Button id moreDestsBtn {
 			text : "Number of Destinations",
 			static columnIndex : 0,
-			static rowIndex : 3
+			static rowIndex : 3,
+			onAction : controllermethod addMoreDestinations
 		},
 		WholeNumberField id numDests {
 			//max : 23,
@@ -92,25 +93,29 @@ component SearchScreenView
 		Button id searchBtn {
 			text : "Search",
 			static columnIndex : 0,
-			static rowIndex : 6
+			static rowIndex : 6,
+			onAction : controllermethod search
 		},
 		
 		Button id resetBtn {
 			text : "Reset",
 			static columnIndex : 0,
-			static rowIndex : 7
+			static rowIndex : 7,
+			onAction : controllermethod onReset
 		},
 		
 		Button id backBtn {
 			text : "Back",
 			static columnIndex : 0,
-			static rowIndex : 8
+			static rowIndex : 8,
+			onAction : controllermethod onBackPressed
 		},
 		
 		Button id lastSearchBtn {
 			text : "Last Search",
 			static columnIndex : 0,
-			static rowIndex : 9
+			static rowIndex : 9,
+			onAction : controllermethod oldSearch
 		}
 		
 		

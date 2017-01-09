@@ -124,7 +124,7 @@ public class SearchView {
         
     }
     
-    private void setupGrid() {
+    /*private void setupGrid() {
         grid.setAlignment(Pos.CENTER);
         grid.setHgap(10);
         grid.setVgap(10);
@@ -141,7 +141,7 @@ public class SearchView {
     private Button createButton(final String name, final int columnIndex) {
         final Button btn = new Button(name);
         return btn;
-    }
+    }*/
     
     /**
      * Removes all {@link DestField}s, then adds in the specified amount
@@ -219,7 +219,7 @@ public class SearchView {
         alert("");
     }
     
-    private WholeNumberField addWholeNumberField(final String name, final long max) {
+    /*private WholeNumberField addWholeNumberField(final String name, final long max) {
         final Label label = new Label(name);
         final WholeNumberField input = new WholeNumberField(max);
         rows.add(label, input);
@@ -228,7 +228,7 @@ public class SearchView {
     
     private WholeNumberField addWholeNumberField(final String name) {
         return addWholeNumberField(name, Long.MAX_VALUE);
-    }
+    }*/
     
     
     public void reset() {
@@ -295,7 +295,7 @@ public class SearchView {
     public SearchView() {
     	loader = new FXMLLoader();
     	loader.setLocation(getClass().getResource("view/SearchScreenView.fxml"));
-    	loader.setController(SearchController.class);
+    	loader.setController(controller);
     	
     	/*try {
 			grid = loader.load();

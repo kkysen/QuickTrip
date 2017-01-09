@@ -13,6 +13,7 @@ import java.util.List;
 
 import com.google.gson.reflect.TypeToken;
 
+import javafx.fxml.FXMLLoader;
 import javafx.scene.control.Button;
 import javafx.scene.layout.Pane;
 
@@ -37,13 +38,33 @@ public class SearchController implements Screen {
     private final SearchView view;
     private SearchModel model;
     
-    private final Button moreDestinationsBtn;
+    private FXMLLoader loader;
+    
+    /*private final Button moreDestinationsBtn;
     private final Button searchBtn;
     private final Button backBtn;
     private final Button resetBtn;
-    private final Button lastSearchBtn;
+    private final Button lastSearchBtn;*/
     
-    private void addButtonActions() {
+    public SearchController() {
+        view = new SearchView();
+        view.getLoader();
+        loader.setController(this);
+        
+        /*moreDestinationsBtn = view.getMoreDestsBtn();
+        searchBtn = view.getSearchBtn();
+        backBtn = view.getBackBtn();
+        resetBtn = view.getResetBtn();
+        lastSearchBtn = view.getLastSearchBtn();
+        addButtonActions();*/
+        
+        models = deserializeModels();
+        
+        model = new SearchModel();
+        models.add(0, model);
+    }
+    
+    /*private void addButtonActions() {
         moreDestinationsBtn.setOnAction(event -> addMoreDestinations());
         
         searchBtn.setOnAction(event -> search());
@@ -53,7 +74,7 @@ public class SearchController implements Screen {
         resetBtn.setOnAction(event -> view.reset());
         
         lastSearchBtn.setOnAction(event -> oldSearch());
-    }
+    }*/
     
     private List<SearchModel> deserializeModels() {
         Reader reader;
@@ -86,37 +107,6 @@ public class SearchController implements Screen {
         } catch (final IOException e) {
             throw new RuntimeException(e); // shouldn't happen
         }
-    }
-    
-    public SearchController() {
-        view = new SearchView();
-        
-        moreDestinationsBtn = view.getMoreDestsBtn();
-        searchBtn = view.getSearchBtn();
-        backBtn = view.getBackBtn();
-        resetBtn = view.getResetBtn();
-        lastSearchBtn = view.getLastSearchBtn();
-        addButtonActions();
-        
-        models = deserializeModels();
-        
-        model = new SearchModel();
-        models.add(0, model);
-    }
-    
-    private void addMoreDestinations() {
-        final String numDestinationsInput = view.getNumDests().getText();
-        model.setNumDestinationsInput(numDestinationsInput);
-        try {
-            model.validateNumDestinations();
-        } catch (final EmptyInputError e) {
-            return;
-        } catch (final WholeNumberInputError e) {
-            e.getErrorDialog().showAndWait();
-            return;
-        }
-        view.setNumDestinations(model.getNumDestinations());
-        //view.makeMoreDests();
     }
     
     private boolean validateNewSearch() {
@@ -155,11 +145,7 @@ public class SearchController implements Screen {
         new Thread(this::loadItineraryScreen).run();
     }
     
-    private void search() {
-        if (validateNewSearch()) {
-            loadedSearch();
-        }
-    }
+    
     
     private void oldSearch(final int searchNum) {
         models.add(0, models.remove(searchNum));
@@ -167,13 +153,43 @@ public class SearchController implements Screen {
         loadedSearch();
     }
     
-    private void oldSearch() {
-        oldSearch(1);
-    }
-    
     @Override
     public Pane getPane() {
         return view.getGrid();
+    }
+    
+    
+    /*
+     * Button Callbacks
+     * 
+     * */
+    public void addMoreDestinations() {
+        final String numDestinationsInput = view.getNumDests().getText();
+        model.setNumDestinationsInput(numDestinationsInput);
+        try {
+            model.validateNumDestinations();
+        } catch (final EmptyInputError e) {
+            return;
+        } catch (final WholeNumberInputError e) {
+            e.getErrorDialog().showAndWait();
+            return;
+        }
+        view.setNumDestinations(model.getNumDestinations());
+        //view.makeMoreDests();
+    }
+    public void search() {
+        if (validateNewSearch()) {
+            loadedSearch();
+        }
+    }
+    public void oldSearch() {
+        oldSearch(1);
+    }
+    public void onBackPressed() {
+    	QuickTrip.SCREENS.load(WelcomeScreen.class);
+    }
+    public void onReset() {
+    	view.reset();
     }
     
 }

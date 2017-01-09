@@ -2,6 +2,7 @@ package io.github.kkysen.quicktrip.app;
 
 import io.github.kkysen.quicktrip.Constants;
 import io.github.kkysen.quicktrip.io.MyFiles;
+import io.github.kkysen.quicktrip.app.SearchView;
 
 import java.io.IOException;
 import java.io.Reader;

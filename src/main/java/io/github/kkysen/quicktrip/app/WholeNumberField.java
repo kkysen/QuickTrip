@@ -85,4 +85,11 @@ public class WholeNumberField extends TextField {
     	maxString = String.valueOf(max);
     }
     
+    @Override
+    public void clear() {
+    	
+    	super.clear();
+    	WholeNumberField field = this;
+    }
+    
 }

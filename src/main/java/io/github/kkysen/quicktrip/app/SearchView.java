@@ -243,13 +243,19 @@ public class SearchView {
         //rows.clear();
         
     	
-		//System.err.println("View already created, zeroing fields");
-		origin.deleteText(new IndexRange(0, origin.getText().length()));
-		numDests.deleteText(new IndexRange(0, origin.getText().length()));
-		numPeople.deleteText(new IndexRange(0, origin.getText().length()));
-		budget.deleteText(new IndexRange(0, origin.getText().length()));
+		System.err.println("View already created, zeroing fields");
+		//origin.setText(null);
+	    System.out.println(origin.getText());
+		/*numDests.setText(null);
+		numPeople.setText(null);
+		budget.setText(null);*/
 		
-		rows.clear();
+	    ((TextField)grid.lookup("#origin")).setText("");
+		((WholeNumberField)grid.lookup("#numDests")).setText("");
+        ((WholeNumberField)grid.lookup("#numPeople")).setText("");
+        ((WholeNumberField)grid.lookup("#budget")).setText("");
+		
+		//rows.clear();
 		//setNumDestinations(1);
 		
 		//destFields.clear();
@@ -329,9 +335,13 @@ public class SearchView {
 		}
 		
 		((DatePicker)grid.lookup("#startDate")).setValue(LocalDate.now());
+		startDate = ((DatePicker)grid.lookup("#startDate"));
         ((WholeNumberField)grid.lookup("#numDests")).setMax(23);
+        numDests = ((WholeNumberField)grid.lookup("#numDests"));
         ((WholeNumberField)grid.lookup("#numPeople")).setMax(Long.MAX_VALUE);
+        numPeople = ((WholeNumberField)grid.lookup("#numPeople"));
         ((WholeNumberField)grid.lookup("#budget")).setMax(Long.MAX_VALUE);
+        budget = ((WholeNumberField)grid.lookup("#budget"));
         
         dest = new DestField(0);
         grid.addRow(2, dest.toNodeArray());

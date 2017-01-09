@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import lombok.Getter;
+import lombok.Setter;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.fxml.LoadException;
@@ -16,6 +17,7 @@ import javafx.scene.control.Alert;
 import javafx.scene.control.Alert.AlertType;
 import javafx.scene.control.Button;
 import javafx.scene.control.DatePicker;
+import javafx.scene.control.IndexRange;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.GridPane;
@@ -29,6 +31,7 @@ import javafx.scene.layout.GridPane;
  */
 @Getter
 public class SearchView {
+	public static final String VIEW_FILE = "view/SearchScreenView.fxml";
     
     @FXML private GridPane grid = new GridPane();
     private final GridRows rows = new GridRows(grid);
@@ -239,47 +242,22 @@ public class SearchView {
     	
         //rows.clear();
         
-        try {
-        	origin = new TextField();
-            moreDestsBtn = new Button();
-            numDests = new WholeNumberField();
-            numPeople = new WholeNumberField();
-            budget = new WholeNumberField();
-            searchBtn = new Button();
-            backBtn = new Button();
-            resetBtn = new Button();
-            lastSearchBtn = new Button();
-            
-			grid = loader.load();
-			
-			((DatePicker)grid.lookup("#startDate")).setValue(LocalDate.now());
-	        ((WholeNumberField)grid.lookup("#numDests")).setMax(23);
-	        ((WholeNumberField)grid.lookup("#numPeople")).setMax(Long.MAX_VALUE);
-	        ((WholeNumberField)grid.lookup("#budget")).setMax(Long.MAX_VALUE);
-	        
-	        dest = new DestField(0);
-	        grid.addRow(2, dest.toNodeArray());
-		} catch (LoadException e) {
-			System.err.println("View already created, zeroing fields");
-			
-			origin.setText("");
-			numDests.setText("");
-			numPeople.setText("");
-			budget.setText("");
-			
-			rows.clear();
-			//setNumDestinations(1);
-			
-			//destFields.clear();
-			
-			
-			
-			//dest = new DestField(0);
-			//grid.addRow(2, dest.toNodeArray());
-			
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
+    	
+		//System.err.println("View already created, zeroing fields");
+		origin.deleteText(new IndexRange(0, origin.getText().length()));
+		numDests.deleteText(new IndexRange(0, origin.getText().length()));
+		numPeople.deleteText(new IndexRange(0, origin.getText().length()));
+		budget.deleteText(new IndexRange(0, origin.getText().length()));
+		
+		rows.clear();
+		//setNumDestinations(1);
+		
+		//destFields.clear();
+		
+		
+		
+		//dest = new DestField(0);
+		//grid.addRow(2, dest.toNodeArray());
         
         
         
@@ -319,9 +297,9 @@ public class SearchView {
         
     }
     
-    public SearchView() {
-    	loader = new FXMLLoader();
-    	loader.setLocation(getClass().getResource("view/SearchScreenView.fxml"));
+    public SearchView(FXMLLoader loader) {
+    	this.loader = loader;
+    	//loader.setLocation(getClass().getResource("view/SearchScreenView.fxml"));
     	//loader.setController();
     	
     	/*try {
@@ -333,6 +311,30 @@ public class SearchView {
     	
         //setupGrid();
         //reset();
+        
+        origin = new TextField();
+        moreDestsBtn = new Button();
+        numDests = new WholeNumberField();
+        numPeople = new WholeNumberField();
+        budget = new WholeNumberField();
+        searchBtn = new Button();
+        backBtn = new Button();
+        resetBtn = new Button();
+        lastSearchBtn = new Button();
+        
+		try {
+			grid = loader.load();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		
+		((DatePicker)grid.lookup("#startDate")).setValue(LocalDate.now());
+        ((WholeNumberField)grid.lookup("#numDests")).setMax(23);
+        ((WholeNumberField)grid.lookup("#numPeople")).setMax(Long.MAX_VALUE);
+        ((WholeNumberField)grid.lookup("#budget")).setMax(Long.MAX_VALUE);
+        
+        dest = new DestField(0);
+        grid.addRow(2, dest.toNodeArray());
     }
     
 }

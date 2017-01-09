@@ -47,10 +47,12 @@ public class SearchController implements Screen {
     private final Button lastSearchBtn;*/
     
     public SearchController() {
-        view = new SearchView();
-        loader = view.getLoader();
-        loader.setController(this);
-        view.reset();
+    	FXMLLoader loader = new FXMLLoader();
+    	loader.setLocation(getClass().getResource(SearchView.VIEW_FILE));
+    	loader.setController(this);
+    	
+        view = new SearchView(loader);
+        //view.reset();
         
         /*moreDestinationsBtn = view.getMoreDestsBtn();
         searchBtn = view.getSearchBtn();

@@ -47,7 +47,7 @@ public class SearchView {
     private final DestField dest;
     private final List<DestField> destFields = new ArrayList<>();
     
-    private final FXMLLoader loader;
+    private FXMLLoader loader;
     
     //@FXML private final String now = LocalDate.now().toString();
     

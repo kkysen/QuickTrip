@@ -13,7 +13,7 @@ import lombok.Setter;
  * @author Khyber Sen
  */
 @Json
-@NoArgsConstructor
+//@NoArgsConstructor
 @AllArgsConstructor
 @Getter
 @Setter

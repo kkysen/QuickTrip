@@ -33,7 +33,7 @@ public class SearchController implements Screen {
     private final SearchView view;
     private SearchModel model;
     
-    //private FXMLLoader loader;
+    private FXMLLoader loader;
     
     /*private final Button moreDestinationsBtn;
     private final Button searchBtn;
@@ -42,7 +42,7 @@ public class SearchController implements Screen {
     private final Button lastSearchBtn;*/
     
     public SearchController() {
-        final FXMLLoader loader = new FXMLLoader();
+        /*final FXMLLoader*/ loader = new FXMLLoader();
         loader.setLocation(getClass().getResource(SearchView.VIEW_FILE));
         loader.setController(this);
         

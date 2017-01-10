@@ -77,7 +77,8 @@ public class SearchController implements Screen {
     private List<SearchModel> deserializeModels() {
         Reader reader;
         try {
-            reader = Files.newBufferedReader(QuickTripConstants.SEARCH_MODEL_PATH, Constants.CHARSET);
+            reader = Files.newBufferedReader(QuickTripConstants.SEARCH_MODEL_PATH,
+                    Constants.CHARSET);
         } catch (final IOException e) {
             throw new RuntimeException(e); // shouldn't happen
         }
@@ -125,6 +126,11 @@ public class SearchController implements Screen {
     }
     
     private void loadItineraryScreen() {
+        try {
+            Thread.sleep(100); // make sure SearchingScreen finishes loading
+        } catch (final InterruptedException e) {
+            throw new RuntimeException(e);
+        }
         final ItineraryController itineraryScreen = //
                 (ItineraryController) QuickTrip.SCREENS.get(ItineraryController.class);
         itineraryScreen.load(model);
@@ -136,7 +142,8 @@ public class SearchController implements Screen {
         // switch to SearchingScreen while ItineraryScreen loads
         QuickTrip.SCREENS.load(SearchingScreen.class);
         try {
-            Thread.sleep(10); // make sure SearchingScreen finishes loading
+            System.out.println("debug");
+            Thread.sleep(1000); // make sure SearchingScreen finishes loading
         } catch (final InterruptedException e) {
             throw new RuntimeException(e);
         }

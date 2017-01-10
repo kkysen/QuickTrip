@@ -7,6 +7,8 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
+import java.util.Map.Entry;
+import java.util.TreeMap;
 import java.util.stream.Collectors;
 
 import javafx.collections.ObservableList;
@@ -21,9 +23,30 @@ public class GridRows {
     private final Map<Integer, Nodes> rowsWithNodes = new HashMap<>();
     private int size = 0;
     
+    private void addExistingNodesInGridPane() {
+        final Map<Integer, Map<Integer, Node>> nodeLocations = new TreeMap<>();
+        for (final Node node : childList) {
+            //System.out.println("node: " + node);
+            final int i = GridPane.getRowIndex(node);
+            final int j = GridPane.getColumnIndex(node);
+            if (nodeLocations.containsKey(i)) {
+                nodeLocations.get(i).put(j, node);
+            } else {
+                final Map<Integer, Node> row = new TreeMap<>();
+                row.put(j, node);
+                nodeLocations.put(i, row);
+            }
+        }
+        childList.clear();
+        for (final Entry<Integer, Map<Integer, Node>> row : nodeLocations.entrySet()) {
+            add(row.getValue().values().toArray(new Node[0]));
+        }
+    }
+    
     public GridRows(final GridPane grid) {
         this.grid = grid;
         childList = grid.getChildren();
+        addExistingNodesInGridPane();
     }
     
     public GridRows() {
@@ -31,7 +54,7 @@ public class GridRows {
     }
     
     private void addGridRow(final int rowIndex, final Node... children) {
-//        System.out.println(rowIndex + ": " + Arrays.toString(children));
+        //System.out.println(rowIndex + ": " + Arrays.toString(children));
         //remove(children);
 //        for (final Node child : children) {
 //            child.setOnMouseClicked(event -> {

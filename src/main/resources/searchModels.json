@@ -1,5 +1,41 @@
 [
   {
+    "origin": "Brooklyn, NY",
+    "startDate": "2017-01-10",
+    "destinations": [
+      {
+        "address": "Chicago, IL",
+        "numDays": 5
+      }
+    ],
+    "budget": 1200,
+    "numPeople": 3
+  },
+  {
+    "origin": "345 Chambers St, New York, NY 10282",
+    "startDate": "2017-01-10",
+    "destinations": [
+      {
+        "address": "San Francisco, NY",
+        "numDays": 2
+      },
+      {
+        "address": "Chicago, IL",
+        "numDays": 3
+      },
+      {
+        "address": "Los Angeles, CA",
+        "numDays": 4
+      },
+      {
+        "address": "Brooklyn, NY",
+        "numDays": 5
+      }
+    ],
+    "budget": 4000,
+    "numPeople": 3
+  },
+  {
     "origin": "345 Chambers St",
     "startDate": "2017-01-09",
     "destinations": [

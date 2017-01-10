@@ -1,0 +1,82 @@
+[
+  {
+    "price": 418,
+    "name": "The Westin St. Francis San Francisco on Union Square",
+    "address": "335 Powell Street, San Francisco, CA, 94102 United States",
+    "distance": 0.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26800/26760/26760_517_l.jpg"
+  },
+  {
+    "price": 333,
+    "name": "Holiday Inn Express San Francisco Union Square",
+    "address": "235 O Farrell Street, San Francisco, CA, 94102 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/151000/150946/150946_15_l.jpg"
+  },
+  {
+    "price": 342,
+    "name": "King George Hotel",
+    "address": "334 Mason Street, San Francisco, CA, 94102 United States",
+    "distance": 0.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14500/14451/b49e1a92_l.jpg"
+  },
+  {
+    "price": 425,
+    "name": "San Francisco Marriott Union Square",
+    "address": "480 Sutter Street, San Francisco, CA, 94108 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24500/24468/24468_176_l.jpg"
+  },
+  {
+    "price": 361,
+    "name": "Hotel Abri - Union Square",
+    "address": "127 Ellis Street, San Francisco, CA, 94102 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15800/15779/bef54cd0_l.jpg"
+  },
+  {
+    "price": 476,
+    "name": "Hilton San Francisco Union Square",
+    "address": "333 O\u0027Farrell St., San Francisco, CA, 94102 United States",
+    "distance": 0.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25700/25622/25622_229_l.jpg"
+  },
+  {
+    "price": 679,
+    "name": "Hotel Rex, a Joie de Vivre Boutique Hotel",
+    "address": "562 Sutter St, San Francisco, CA, 94102 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/700/660/03ffaa8d_l.jpg"
+  },
+  {
+    "price": 459,
+    "name": "Axiom Hotel San Francisco",
+    "address": "28 Cyril Magnin Street, San Francisco, CA, 94102 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23600/23581/1c322e45_l.jpg"
+  },
+  {
+    "price": 601,
+    "name": "Parc 55 San Francisco - A Hilton Hotel",
+    "address": "55 Cyril Magnin St, San Francisco, CA, 94102 United States",
+    "distance": 0.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12600/12539/12539_423_l.jpg"
+  },
+  {
+    "price": 417,
+    "name": "Orchard Hotel",
+    "address": "665 Bush St, San Francisco, CA, 94108 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/564900/564858/564858_61_l.jpg"
+  }
+]

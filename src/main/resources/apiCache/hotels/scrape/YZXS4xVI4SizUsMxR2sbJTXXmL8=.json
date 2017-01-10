@@ -1,0 +1,82 @@
+[
+  {
+    "price": 71,
+    "name": "Travelodge Central San Francisco",
+    "address": "1707 Market St, San Francisco, CA, 94103 United States",
+    "distance": 0.2,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40700/40682/733bb003_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Ram\u0027s Hotel",
+    "address": "80 9th St, San Francisco, CA, 94103 United States",
+    "distance": 0.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12520000/12514700/12514694/12514694_1_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "SOMA Park Inn – Civic Center",
+    "address": "101 9th St, San Francisco, CA, 94103 United States",
+    "distance": 0.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41900/41832/41832_51_l.jpg"
+  },
+  {
+    "price": 111,
+    "name": "Days Inn San Francisco Downtown/Civic Center Area",
+    "address": "465 Grove Street, San Francisco, CA, 94102 United States",
+    "distance": 0.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19900/19842/19842_66_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Hotel Whitcomb",
+    "address": "1231 Market St, San Francisco, CA, 94103 United States",
+    "distance": 0.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22600/22510/22510_41_l.jpg"
+  },
+  {
+    "price": 203,
+    "name": "Holiday Inn Civic Center San Francisco",
+    "address": "50 8th St, San Francisco, CA, 94103 United States",
+    "distance": 0.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18300/18204/18204_303_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "Civic Center Motor Inn",
+    "address": "364 9th St, San Francisco, CA, 94103 United States",
+    "distance": 0.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21800/21724/21724_55_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Embassy Hotel",
+    "address": "610 Polk St, San Francisco, CA, 94102 United States",
+    "distance": 0.5,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/120300/120268/120268_17_l.jpg"
+  },
+  {
+    "price": 143,
+    "name": "San Francisco Inn",
+    "address": "385 9th St, San Francisco, CA, 94103 United States",
+    "distance": 0.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14600/14553/2d0eb41d_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Inn on Folsom",
+    "address": "1188 Folsom St., San Francisco, CA, 94103 United States",
+    "distance": 0.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7460000/7451800/7451708/7451708_10_l.jpg"
+  }
+]

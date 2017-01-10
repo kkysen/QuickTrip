@@ -31,7 +31,7 @@ public class SearchView {
     public static final String VIEW_FILE = "view/SearchScreenView.fxml";
     
     private @FXML GridPane grid = new GridPane();
-    private final GridRows rows = new GridRows(grid);
+    private final GridRows rows;
     
     private @FXML TextField origin;
     private final @FXML DatePicker startDate;
@@ -238,18 +238,23 @@ public class SearchView {
         
         //rows.clear();
         
-        System.err.println("View already created, zeroing fields");
+        //System.err.println("View already created, zeroing fields");
         //origin.setText(null);
-        System.out.println(origin.getText());
+        //System.out.println(origin.getText());
         //System.out.println(((TextField)grid.lookup("#origin")).getText());
         /*numDests.setText(null);
         numPeople.setText(null);
         budget.setText(null);*/
         
-        ((TextField) grid.lookup("#origin")).setText("");
-        ((WholeNumberField) grid.lookup("#numDests")).setText("");
-        ((WholeNumberField) grid.lookup("#numPeople")).setText("");
-        ((WholeNumberField) grid.lookup("#budget")).setText("");
+        origin.clear();
+        numDests.clear();
+        numPeople.clear();
+        budget.clear();
+        
+//        ((TextField) grid.lookup("#origin")).setText("");
+//        ((WholeNumberField) grid.lookup("#numDests")).setText("");
+//        ((WholeNumberField) grid.lookup("#numPeople")).setText("");
+//        ((WholeNumberField) grid.lookup("#budget")).setText("");
         
         //rows.clear();
         //setNumDestinations(1);
@@ -339,6 +344,8 @@ public class SearchView {
         
         dest = new DestField(0);
         grid.addRow(2, dest.toNodeArray());
+        
+        rows = new GridRows(grid);
     }
     
 }

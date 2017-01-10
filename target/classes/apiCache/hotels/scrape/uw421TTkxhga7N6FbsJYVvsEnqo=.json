@@ -1,0 +1,18 @@
+[
+  {
+    "price": 55,
+    "name": "Value Inn McKenzie",
+    "address": "15220 Highland Dr, McKenzie, TN, 38201 United States",
+    "distance": 0.6,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3310000/3308000/3307935/3307935_30_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Best Western McKenzie",
+    "address": "16180 Highland Drive, McKenzie, TN, 38201 United States",
+    "distance": 0.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/980000/976600/976590/0ad5ee55_l.jpg"
+  }
+]

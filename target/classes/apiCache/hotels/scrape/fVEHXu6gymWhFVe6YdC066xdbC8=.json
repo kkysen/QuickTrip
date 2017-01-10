@@ -1,0 +1,66 @@
+[
+  {
+    "price": 50,
+    "name": "Red Roof Inn Atlanta - Suwanee/Mall of Georgia",
+    "address": "3103 Lawrenceville Suwanee Rd, Suwanee, GA, 30024 United States",
+    "distance": 2.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10200/10175/58836220_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Super 8 - Suwanee GA",
+    "address": "317 Sawmill Drive, I-85 Exit 111/Hwy 317, Suwanee, GA, 30174 United States",
+    "distance": 2.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/34600/34575/34575_69_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Fairfield Inn By Marriott Suwanee",
+    "address": "105 Celebration Drive, Suwanee, GA, 30024 United States",
+    "distance": 2.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/116900/116872/521b0674_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Courtyard Suwanee by Marriott",
+    "address": "310 Celebration Drive, Suwanee, GA, 30024 United States",
+    "distance": 2.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/280900/280886/40d82e5b_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Motel 6 Gwinnett Center GA",
+    "address": "77 Gwinco Blvd, Suwanee, GA, 30024 United States",
+    "distance": 2.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40500/40401/40401_37_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Quality Inn",
+    "address": "2945 Lawrenceville, Suwanee Road \u0026 I-85 exit 111, Suwanee, GA, 30024 United States",
+    "distance": 2.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17600/17517/17517_39_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Comfort Inn \u0026 Suites Suwanee - Sugarloaf",
+    "address": "2945-A HWY 317, Suwanee, GA, 30024 United States",
+    "distance": 2.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/930000/920100/920010/920010_47_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Atlanta Johns Creek",
+    "address": "7146 Mcginnis Ferry Rd, Suwanee, GA, 30024 United States",
+    "distance": 4.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/892300/892239/892239_234_l.jpg"
+  }
+]

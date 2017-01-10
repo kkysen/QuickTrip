@@ -1,0 +1,82 @@
+[
+  {
+    "price": 239,
+    "name": "Claremont Club \u0026 Spa - A Fairmont Hotel",
+    "address": "41 Tunnel Road, Berkeley, CA, 94705 United States",
+    "distance": 3.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6700/6609/6609_128_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "Rose Garden Inn",
+    "address": "2740 Telegraph Ave, Berkeley, CA, 94705 United States",
+    "distance": 4.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/440000/437800/437761/437761_68_l.jpg"
+  },
+  {
+    "price": 229,
+    "name": "Hotel Shattuck Plaza",
+    "address": "2086 Allston Way, Berkeley, CA, 94704 United States",
+    "distance": 4.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/440000/438200/438136/438136_56_l.jpg"
+  },
+  {
+    "price": 197,
+    "name": "Lafayette Park Hotel \u0026 Spa",
+    "address": "3287 Mt Diablo Blvd, Lafayette, CA, 94549 United States",
+    "distance": 4.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7700/7609/7609_78_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Berkeley Travelodge",
+    "address": "1820 University Ave, Berkeley, CA, 94703 United States",
+    "distance": 4.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26100/26075/26075_113_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Quality Inn University",
+    "address": "1761 University Avenue, Berkeley, CA, 94703 United States",
+    "distance": 5.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1770000/1769700/1769647/e0ad1b44_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Super 8 Berkeley",
+    "address": "1619 University Avenue, Berkeley, CA, 94703 United States",
+    "distance": 5.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2160000/2156300/2156292/2156292_110_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Knights Inn Berkeley CA",
+    "address": "1512 University Ave, Berkeley, CA, 94703 United States",
+    "distance": 5.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5460000/5455900/5455898/5455898_89_l.jpg"
+  },
+  {
+    "price": 140,
+    "name": "Rodeway Inn Berkeley",
+    "address": "1461 University Ave, Berkeley, CA, 94702 United States",
+    "distance": 5.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41700/41614/032fb4be_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Piedmont Place",
+    "address": "55 MacArthur Blvd., Oakland, CA, 94610 United States",
+    "distance": 5.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7760000/7758500/7758436/7758436_53_l.jpg"
+  }
+]

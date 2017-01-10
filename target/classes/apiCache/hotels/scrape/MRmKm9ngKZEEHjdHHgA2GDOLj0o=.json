@@ -1,0 +1,82 @@
+[
+  {
+    "price": 199,
+    "name": "Residence Inn by Marriott Charlotte Piper Glen",
+    "address": "5115 Piper Station Drive, Charlotte, NC, 28277 United States",
+    "distance": 4.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/690000/688100/688097/688097_50_l.jpg"
+  },
+  {
+    "price": 166,
+    "name": "Aloft Charlotte Ballantyne",
+    "address": "13139 Ballantyne Corporate Place, Charlotte, NC, 28277 United States",
+    "distance": 5.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2990000/2984500/2984471/00002733_l.jpg"
+  },
+  {
+    "price": 332,
+    "name": "The Ballantyne, a Luxury Collection Hotel, Charlotte",
+    "address": "10000 Ballantyne Commons Pkwy, Charlotte, NC, 28277 United States",
+    "distance": 5.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/798500/798446/b59b9696_l.jpg"
+  },
+  {
+    "price": 189,
+    "name": "SpringHill Suites by Marriott Charlotte Ballantyne Area",
+    "address": "12325 Johnston Rd, Charlotte, NC, 28277 United States",
+    "distance": 5.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2520000/2516500/2516433/ac1f2d7d_l.jpg"
+  },
+  {
+    "price": 184,
+    "name": "Homewood Suites by Hilton Charlotte Ballantyne Area, NC",
+    "address": "12030 Copper Way, Charlotte, NC, 28277 United States",
+    "distance": 5.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7870000/7865100/7865067/7865067_3_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Quality Inn \u0026 Suites Matthews - Charlotte",
+    "address": "13470 E Independence Blvd, Matthews, NC, 28105 United States",
+    "distance": 7.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42800/42712/42712_90_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Extended Stay America - Pineville - Pineville Matthews Rd.",
+    "address": "8405 Pineville Matthews Rd, Charlotte, NC, 28226 United States",
+    "distance": 7.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/202800/202797/202797_53_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Country Inn \u0026 Suites By Carlson, Charlotte I-485 at Hwy 74E",
+    "address": "2001 Mount Harmony Ch Rd, Matthews, NC, 28104 United States",
+    "distance": 7.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/794800/794800/6ec97929_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "Courtyard by Marriott Charlotte/Matthews",
+    "address": "11425 East Independence Blvd, Matthews, NC, 28106 United States",
+    "distance": 7.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84600/84521/84521_90_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Microtel Inn by Wyndham Matthews/Charlotte",
+    "address": "1603 Matthews Mint Hill Rd, Matthews, NC, 28105 United States",
+    "distance": 7.6,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/116600/116555/116555_114_l.jpg"
+  }
+]

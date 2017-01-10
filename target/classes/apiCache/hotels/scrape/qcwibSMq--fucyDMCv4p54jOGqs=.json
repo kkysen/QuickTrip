@@ -1,0 +1,82 @@
+[
+  {
+    "price": 85,
+    "name": "Hampton Inn \u0026 Suites Tulsa South/Bixby",
+    "address": "8220 E Regal Pl S, Tulsa, OK, 74133 United States",
+    "distance": 7.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1770000/1760200/1760119/1760119_48_l.jpg"
+  },
+  {
+    "price": 78,
+    "name": "Holiday Inn Express Tulsa South Bixby",
+    "address": "8405 E 102nd Street South, Tulsa, OK, 74133 United States",
+    "distance": 7.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4280000/4273000/4272936/4272936_199_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "Fairfield Inn \u0026 Suites Tulsa Southeast/Crossroads Village",
+    "address": "9150 S 102nd East Ave, Tulsa, OK, 74133 United States",
+    "distance": 8.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3350000/3349000/3348946/3348946_19_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Hilton Garden Inn Tulsa South",
+    "address": "8202 S 100th East Ave, Tulsa, OK, 74133 United States",
+    "distance": 9.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1300000/1293300/1293281/1293281_26_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Holiday Inn Hotel \u0026 Suites Tulsa South",
+    "address": "10020 E 81st St, Tulsa, OK, 74133 United States",
+    "distance": 9.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2990000/2980800/2980737/2980737_97_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Staybridge Suites Woodland Hills",
+    "address": "11111 E 73rd St. South, Tulsa, OK, 74133 United States",
+    "distance": 9.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/906000/905995/905995_233_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Residence Inn by Marriott Tulsa South",
+    "address": "11025 E 73rd St, Tulsa, OK, 74133 United States",
+    "distance": 9.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/539500/539444/cc46486f_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Springhill Suites by Marriott Tulsa",
+    "address": "11015 E 73rd St, Tulsa, OK, 74133 United States",
+    "distance": 9.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/550000/544800/544727/39976e34_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Best Western Glenpool/tulsa",
+    "address": "14831 S Casper Street, Glenpool, OK, 74033 United States",
+    "distance": 9.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18500/18448/18448_90_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Jenks",
+    "address": "150 Aquarium Drive, Jenks, OK, 74037 United States",
+    "distance": 9.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1250000/1246300/1246240/1246240_167_l.jpg"
+  }
+]

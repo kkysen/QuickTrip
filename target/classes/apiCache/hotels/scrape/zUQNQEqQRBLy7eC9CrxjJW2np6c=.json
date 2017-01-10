@@ -1,0 +1,82 @@
+[
+  {
+    "price": 67,
+    "name": "Extended Stay America - Peoria - North",
+    "address": "4306 N Brandywine Drive, Peoria, IL, 61614 United States",
+    "distance": 2.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/850000/846600/846576/846576_45_l.jpg"
+  },
+  {
+    "price": 61,
+    "name": "Super 8 Peoria IL",
+    "address": "1816 West War Memorial Drive, Peoria, IL, 61614 United States",
+    "distance": 2.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/50000/49935/7aa70988_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Econo Lodge Inn \u0026 Suites",
+    "address": "4244 Brandywine Drive, Peoria, IL, 61614 United States",
+    "distance": 2.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/300000/296400/296374/296374_79_l.jpg"
+  },
+  {
+    "price": 78,
+    "name": "Travelodge Peoria Hotel and Conference Center",
+    "address": "4400 N Brandywine Dr, Peoria, IL, 61614 United States",
+    "distance": 2.6,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23200/23144/23144_71_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Red Roof Inn Peoria",
+    "address": "1822 W War Memorial Dr, Peoria, IL, 61614 United States",
+    "distance": 2.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21200/21132/21132_52_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Courtyard by Marriott Peoria",
+    "address": "1928 W War Memorial Drive, Peoria, IL, 61614 United States",
+    "distance": 2.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14500/14492/14492_97_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Baymont Inn \u0026 Suites Peoria",
+    "address": "2002 West War Memorial Drive, Peoria, IL, 61614 United States",
+    "distance": 2.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17100/17098/17098_38_l.jpg"
+  },
+  {
+    "price": 166,
+    "name": "Residence Inn By Marriott Peoria",
+    "address": "2000 West War Memorial Drive, Peoria, IL, 61614 United States",
+    "distance": 2.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10800/10775/10775_97_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "SpringHill Suites Peoria Westlake",
+    "address": "2701 W Lake Ave, Peoria, IL, 61615 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/531800/531705/6d0023d1_l.jpg"
+  },
+  {
+    "price": 131,
+    "name": "Courtyard Peoria Downtown",
+    "address": "533 Main St, Peoria, IL, 61602 United States",
+    "distance": 3.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8740000/8738900/8738803/8738803_84_l.jpg"
+  }
+]

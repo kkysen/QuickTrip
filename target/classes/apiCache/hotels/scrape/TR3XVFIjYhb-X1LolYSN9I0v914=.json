@@ -1,0 +1,58 @@
+[
+  {
+    "price": 74,
+    "name": "Sleep Inn \u0026 Suites Van Buren",
+    "address": "1633 N. 12th Court, Van Buren, AR, 72956 United States",
+    "distance": 1.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2250000/2244300/2244247/2244247_55_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "Holiday Inn Express Suites Van Buren-Ft Smith Area",
+    "address": "1637 N 12th Court, Van Buren, AR, 72956 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2430000/2425500/2425490/2425490_216_l.jpg"
+  },
+  {
+    "price": 57,
+    "name": "Super 8 Van Buren Fort Smith Area",
+    "address": "106 N Plaza Ct, I-40 N and Plaza Court, Van Buren, AR, 72956 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/855400/855352/855352_46_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "The Executive Inn",
+    "address": "3200 Alma Hwy, Van Buren, AR, 72956 United States",
+    "distance": 1.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11550000/11547500/11547497/11547497_14_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Quality Inn",
+    "address": "3131 Cloverleaf Street, Van Buren, AR, 72956 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41700/41672/41672_62_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Hampton Inn Van Buren",
+    "address": "1916 N 6th St, Van Buren, AR, 72956 United States",
+    "distance": 1.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1120000/1111400/1111346/1111346_20_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Best Western Van Buren Inn",
+    "address": "1903 N 6th St, Van Buren, AR, 72956 United States",
+    "distance": 1.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/34400/34351/34351_235_l.jpg"
+  }
+]

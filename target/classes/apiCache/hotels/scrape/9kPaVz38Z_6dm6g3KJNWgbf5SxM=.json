@@ -1,0 +1,82 @@
+[
+  {
+    "price": 110,
+    "name": "Doubletree by Hilton Fort Smith City Center",
+    "address": "700 Rogers Ave, Fort Smith, AR, 72901 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3300/3267/21d059fb_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Courtyard Marriott Fort Smith Downtown",
+    "address": "900 Rogers Ave, Fort Smith, AR, 72901 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1560000/1550200/1550156/4a92416a_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Season\u0027s Inn",
+    "address": "2219 S Waldron Road, Fort Smith, AR, 72903 United States",
+    "distance": 3.4,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19800/19704/19704_16_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "River Valley Inn and Suites",
+    "address": "5103 Towson Avenue, Fort Smith, AR, 72901 United States",
+    "distance": 3.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10030000/10021700/10021682/10021682_3_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "Quality Inn",
+    "address": "2120 Burnham Rd, Fort Smith, AR, 72903 United States",
+    "distance": 3.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21000/20958/20958_130_l.jpg"
+  },
+  {
+    "price": 61,
+    "name": "Baymont Inn \u0026 Suites Fort Smith",
+    "address": "2123 Burnham Rd, Fort Smith, AR, 72901 United States",
+    "distance": 3.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/51100/51040/51040_165_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Motel 6 Ft Smith",
+    "address": "6001 Rodgers Ave, Fort Smith, AR, 72903 United States",
+    "distance": 3.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1040000/1039800/1039720/1039720_83_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Hampton Inn Fort Smith",
+    "address": "6201 Rogers Ave, Fort Smith, AR, 72903 United States",
+    "distance": 3.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26800/26752/baa327b2_l.jpg"
+  },
+  {
+    "price": 96,
+    "name": "Comfort Inn \u0026 Suites",
+    "address": "6500 Rogers Avenue, Fort Smith, AR, 72903 United States",
+    "distance": 4.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3280000/3275300/3275287/3275287_56_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Best Western Aspen Hotel",
+    "address": "2900 S 68th St, Fort Smith, AR, 72903 United States",
+    "distance": 4.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/200000/198900/198859/58e7fb5e_l.jpg"
+  }
+]

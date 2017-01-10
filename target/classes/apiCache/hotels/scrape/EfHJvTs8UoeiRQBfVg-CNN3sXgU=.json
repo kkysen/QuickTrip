@@ -1,0 +1,18 @@
+[
+  {
+    "price": 93,
+    "name": "Comfort Inn \u0026 Suites Cahokia",
+    "address": "1607 Pontiac Dr, Cahokia, IL, 62206 United States",
+    "distance": 2.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/220000/218600/218540/218540_136_l.jpg"
+  },
+  {
+    "price": 162,
+    "name": "Casino Queen Hotel",
+    "address": "200 South Front Street, East St. Louis, IL, 62201 United States",
+    "distance": 3.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459100/459083/459083_5_l.jpg"
+  }
+]

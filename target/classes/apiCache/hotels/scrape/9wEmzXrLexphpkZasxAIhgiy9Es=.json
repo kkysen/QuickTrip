@@ -1,0 +1,50 @@
+[
+  {
+    "price": 104,
+    "name": "Isle Casino Hotel - Bettendorf",
+    "address": "1777 Isle Pkwy, Bettendorf, IA, 52722 United States",
+    "distance": 0.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1780000/1771100/1771006/57a303a1_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Hilton Garden Inn Bettendorf/Quad Cities",
+    "address": "959 Middle Road, Bettendorf, IA, 52722 United States",
+    "distance": 1.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9470000/9469700/9469684/9469684_3_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Ramada Bettendorf",
+    "address": "3020 Utica Ridge Rd, Bettendorf, IA, 52722 United States",
+    "distance": 2.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6900/6807/6807_171_l.jpg"
+  },
+  {
+    "price": 128,
+    "name": "Courtyard by Marriott Quad Cities Bettendorf",
+    "address": "895 Golden Valley Dr, Bettendorf, IA, 52722 United States",
+    "distance": 2.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20900/20893/20893_55_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Super 8 Bettendorf IA",
+    "address": "890 Golden Valley Dr, Bettendorf, IA, 52722 United States",
+    "distance": 2.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/159100/159045/159045_119_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Econo Lodge Inn \u0026 Suites Bettendorf",
+    "address": "815 Golden Valley Dr, Bettendorf, IA, 52722 United States",
+    "distance": 2.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50200/50151/50151_102_l.jpg"
+  }
+]

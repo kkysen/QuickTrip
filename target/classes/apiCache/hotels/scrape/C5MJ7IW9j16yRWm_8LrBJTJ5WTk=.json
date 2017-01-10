@@ -1,0 +1,82 @@
+[
+  {
+    "price": 290,
+    "name": "Aloft Sarasota",
+    "address": "1401 Ringling Boulevard, Sarasota, FL, 34236 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12490000/12486100/12486097/12486097_47_l.jpg"
+  },
+  {
+    "price": 659,
+    "name": "The Ritz-Carlton, Sarasota",
+    "address": "1111 Ritz Carlton Dr, Sarasota, FL, 34236 United States",
+    "distance": 0.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/810000/806200/806101/806101_48_l.jpg"
+  },
+  {
+    "price": 319,
+    "name": "Hotel Indigo Sarasota",
+    "address": "1223 Boulevard Of The Arts, Sarasota, FL, 34236 United States",
+    "distance": 0.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1580000/1577400/1577382/1577382_242_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Hotel Ranola",
+    "address": "118 Indian Place #6, Sarasota, FL, 34236 United States",
+    "distance": 0.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12350000/12348500/12348410/12348410_15_l.jpg"
+  },
+  {
+    "price": 259,
+    "name": "Hyatt Regency Sarasota",
+    "address": "1000 Blvd Of The Arts, Sarasota, FL, 34236 United States",
+    "distance": 0.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27300/27206/bd597624_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "Americas Best Value Inn - Sarasota Downtown",
+    "address": "811 S Tamiami Trail, Sarasota, FL, 34236 United States",
+    "distance": 1.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/55500/55426/55426_72_l.jpg"
+  },
+  {
+    "price": 185,
+    "name": "La Quinta Inn \u0026 Suites Sarasota Downtown",
+    "address": "1803 N Tamiami Trail, Sarasota, FL, 34234 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7800/7751/b6678461_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Baymont Inn and Suites Sarasota",
+    "address": "1425 S Tamiami Trl, Sarasota, FL, 34239 United States",
+    "distance": 1.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/25500/25442/25442_55_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Regency Inn \u0026 Suites",
+    "address": "4200 N Tamiami Trail, Sarasota, FL, 34234 United States",
+    "distance": 2.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10970000/10967100/10967067/10967067_15_l.jpg"
+  },
+  {
+    "price": 182,
+    "name": "Lido Islander Inn",
+    "address": "528 South Polk Drive, Sarasota, FL, 34236 United States",
+    "distance": 2.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1150000/1142000/1141998/1141998_176_l.jpg"
+  }
+]

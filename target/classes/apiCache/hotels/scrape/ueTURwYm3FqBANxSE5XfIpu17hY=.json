@@ -1,0 +1,26 @@
+[
+  {
+    "price": 66,
+    "name": "Baymont Inn and Suites Ozark",
+    "address": "1360 S US Highway 231 South, Ozark, AL, 36360 United States",
+    "distance": 1.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50800/50786/50786_92_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Hampton Inn Ozark",
+    "address": "235 N US Highway 231, Ozark, AL, 36360 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4310000/4306100/4306036/4306036_19_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Ozark",
+    "address": "1140 Highway 231 N, Ozark, AL, 36360 United States",
+    "distance": 2.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3890000/3886300/3886218/3886218_48_l.jpg"
+  }
+]

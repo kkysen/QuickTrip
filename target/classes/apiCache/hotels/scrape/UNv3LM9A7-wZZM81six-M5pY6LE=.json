@@ -1,0 +1,58 @@
+[
+  {
+    "price": 149,
+    "name": "The Clarke Hotel",
+    "address": "314 W Main Street, Waukesha, WI, 53186 United States",
+    "distance": 0.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2300000/2292900/2292828/2292828_32_l.jpg"
+  },
+  {
+    "price": 39,
+    "name": "Airport Lodge",
+    "address": "534 Bluemound Rd, Waukesha, WI, 53188 United States",
+    "distance": 2.2,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5670000/5667100/5667022/a0fad8f9_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Baymont Inn \u0026 Suites Waukesha",
+    "address": "2111 E Moreland Blvd, Waukesha, WI, 53186 United States",
+    "distance": 2.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13600/13501/13501_241_l.jpg"
+  },
+  {
+    "price": 162,
+    "name": "Marriott Milwaukee West",
+    "address": "W231n1600 Corporate Ct, Waukesha, WI, 53186 United States",
+    "distance": 3.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/690000/687300/687252/687252_71_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Super 8 Waukesha",
+    "address": "2510 Plaza Court, Waukesha, WI, 53186 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43200/43151/43151_135_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Extended Stay America Milwaukee - Waukesha",
+    "address": "2520 Plaza Ct, Waukesha, WI, 53186 United States",
+    "distance": 3.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/67900/67824/5ed6e3ca_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Home2 Suites by Hilton Milwaukee Brookfield",
+    "address": "650 Larry Court, Waukesha, WI, 53186 United States",
+    "distance": 3.4,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14710000/14702300/14702241/14702241_1_l.jpg"
+  }
+]

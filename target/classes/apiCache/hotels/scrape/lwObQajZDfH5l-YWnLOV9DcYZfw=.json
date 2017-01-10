@@ -1,0 +1,82 @@
+[
+  {
+    "price": 219,
+    "name": "Courtyard by Marriott Fort Worth Downtown/Blackstone",
+    "address": "601 Main St, Fort Worth, TX, 76102 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/202300/202284/202284_46_l.jpg"
+  },
+  {
+    "price": 262,
+    "name": "Embassy Suites Fort Worth Downtown",
+    "address": "600 Commerce St, Fort Worth, TX, 76102 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20200/20108/20108_111_l.jpg"
+  },
+  {
+    "price": 240,
+    "name": "The Worthington Renaissance Fort Worth Hotel",
+    "address": "200 Main St, Fort Worth, TX, 76102 United States",
+    "distance": 0.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/421600/421594/421594_111_l.jpg"
+  },
+  {
+    "price": 178,
+    "name": "Hilton Downtown Fort Worth",
+    "address": "815 Main St, Fort Worth, TX, 76102 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4200/4151/7bcd5ebd_l.jpg"
+  },
+  {
+    "price": 121,
+    "name": "TownePlace Suites by Marriott Fort Worth Downtown",
+    "address": "805 E Belknap St, Fort Worth, TX, 76102 United States",
+    "distance": 0.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3750000/3748200/3748122/3748122_53_l.jpg"
+  },
+  {
+    "price": 219,
+    "name": "Omni Fort Worth Hotel",
+    "address": "1300 Houston Street, Tarrant, Fort Worth, TX, 76103 United States",
+    "distance": 0.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2280000/2273400/2273400/2273400_34_l.jpg"
+  },
+  {
+    "price": 189,
+    "name": "Sheraton Fort Worth Downtown Hotel",
+    "address": "1701 Commerce St, Fort Worth, TX, 76102 United States",
+    "distance": 0.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/10000/9941/9941_109_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Fort Worth Downtown",
+    "address": "1111 W Lancaster Ave, Fort Worth, TX, 76102 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1210000/1200200/1200134/1200134_103_l.jpg"
+  },
+  {
+    "price": 161,
+    "name": "Residence Inn by Marriott Fort Worth Cultural District",
+    "address": "2500 Museum Way, Fort Worth, TX, 76107 United States",
+    "distance": 1.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1180000/1175600/1175591/1175591_109_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Homewood Suites by Hilton Fort Worth - Medical Center, TX",
+    "address": "2200 Charlie Lane, Fort Worth, TX, 76104 United States",
+    "distance": 1.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6190000/6180300/6180205/5430688c_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 56,
+    "name": "Comfort Inn Opelika - Auburn",
+    "address": "811 Fox Run Pkwy, Opelika, AL, 36801 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/64100/64086/64086_97_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Quality Inn Opelika",
+    "address": "1102 Columbus Pkwy, Opelika, AL, 36804 United States",
+    "distance": 1.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1500/1429/b87245c5_l.jpg"
+  },
+  {
+    "price": 40,
+    "name": "Red Carpet Inn",
+    "address": "1015 Columbus Parkway, Opelika, AL, 36804 United States",
+    "distance": 1.7,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1040000/1039800/1039761/1039761_51_l.jpg"
+  },
+  {
+    "price": 43,
+    "name": "Motel 6 Opelika, AL",
+    "address": "1107 Columbus Parkway, Opelika, AL, 36804 United States",
+    "distance": 1.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/869100/869004/869004_23_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Days Inn Opelika",
+    "address": "1014 Anand St, Opelika, AL, 36804 United States",
+    "distance": 1.8,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26200/26131/5fd32408_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "Best Western Auburn/Opelika Inn",
+    "address": "205 21st St, Opelika, AL, 36801 United States",
+    "distance": 1.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40900/40883/6f07195e_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Red Roof Inn and Suites Opelika",
+    "address": "1520 Columbus Pkwy, Opelika, AL, 36804 United States",
+    "distance": 2.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/57100/57097/e390910a_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Studio 6 Opelika/Auburn",
+    "address": "2100 Gateway Dr, Opelika, AL, 36801 United States",
+    "distance": 2.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3670000/3669900/3669877/3669877_32_l.jpg"
+  },
+  {
+    "price": 39,
+    "name": "Econo Lodge Opelika",
+    "address": "1705 Columbus Pkwy, Opelika, AL, 36804 United States",
+    "distance": 2.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/570000/564000/563947/563947_69_l.jpg"
+  },
+  {
+    "price": 103,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Opelika",
+    "address": "1651 Parker Way, FOR GPS - 1701 Frederick Road, Opelika, AL, 36801 United States",
+    "distance": 2.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3450000/3445700/3445694/f62f8492_l.jpg"
+  }
+]

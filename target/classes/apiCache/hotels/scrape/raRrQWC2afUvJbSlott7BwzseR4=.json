@@ -1,0 +1,82 @@
+[
+  {
+    "price": 70,
+    "name": "Americas Best Value Inn-Madison",
+    "address": "3438 Hwy 12-18, Madison, WI, 53718 United States",
+    "distance": 4.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/867800/867765/867765_92_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Magnuson Grand Hotel Madison",
+    "address": "3510 Millpond Rd, Madison, WI, 53718 United States",
+    "distance": 4.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41900/41863/41863_61_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Sleep Inn And Suites Madison",
+    "address": "4802 Tradewinds Pkwy, Madison, WI, 53718 United States",
+    "distance": 5.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2790000/2784600/2784518/2784518_36_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Days Inn \u0026 Suites Madison",
+    "address": "4402 E Broadway Srvcs Rd, Madison, WI, 53716 United States",
+    "distance": 6.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21800/21796/5233fed8_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Madison East",
+    "address": "2139 E Springs Drive, Madison, WI, 53704 United States",
+    "distance": 6.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/116600/116537/6e2845a5_l.jpg"
+  },
+  {
+    "price": 161,
+    "name": "Courtyard Madison East",
+    "address": "2502 Crossroads Dr, Madison, WI, 53718 United States",
+    "distance": 6.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/908500/908498/908498_86_l.jpg"
+  },
+  {
+    "price": 108,
+    "name": "Country Inn \u0026 Suites By Carlson Madison",
+    "address": "400 River Pl, Madison, WI, 53716 United States",
+    "distance": 6.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/62500/62456/62456_90_l.jpg"
+  },
+  {
+    "price": 143,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Madison East",
+    "address": "2702 Crossroads Drive, Madison, WI, 53718 United States",
+    "distance": 6.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2710000/2705600/2705588/2705588_27_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "AmericInn Lodge \u0026 Suites Madison South",
+    "address": "101 W Broadway, Madison, WI, 53716 United States",
+    "distance": 7.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5800000/5795900/5795842/5795842_3_l.jpg"
+  },
+  {
+    "price": 123,
+    "name": "Staybridge Suites Madison East",
+    "address": "3301 City View Dr, Madison, WI, 53718 United States",
+    "distance": 7.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/700000/691500/691465/691465_162_l.jpg"
+  }
+]

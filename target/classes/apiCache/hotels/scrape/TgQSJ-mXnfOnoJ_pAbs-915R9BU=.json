@@ -1,0 +1,82 @@
+[
+  {
+    "price": 70,
+    "name": "The Valley Motel",
+    "address": "2571 Freeport Road, Pittsburgh, PA, 15238 United States",
+    "distance": 2.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10540000/10539300/10539220/10539220_36_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Hampton Inn \u0026 Suites Pittsburgh/Harmarville",
+    "address": "2805 Freeport Road, Pittsburgh, PA, 15238 United States",
+    "distance": 3.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10930000/10928300/10928237/b379c395_l.jpg"
+  },
+  {
+    "price": 127,
+    "name": "TownePlace Suites by Marriott Pittsburgh Harmarville",
+    "address": "2785 Freeport Road, Pittsburgh, PA, 15238 United States",
+    "distance": 3.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14770000/14769300/14769285/b9cb87f1_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Days Inn Harmarville",
+    "address": "6 Landings Dr, Pittsburgh, PA, 15238 United States",
+    "distance": 3.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13200/13144/13144_88_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "8 Landings Dr, PA Turnpike Exit 48, Pittsburgh, PA, 15238 United States",
+    "distance": 3.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/123800/123763/0dcd0123_l.jpg"
+  },
+  {
+    "price": 126,
+    "name": "Holiday Inn Express Pittsburgh North",
+    "address": "10 Landings Drive, Pittsburgh, PA, 15238 United States",
+    "distance": 3.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/424400/424359/424359_149_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Comfort Inn \u0026 Suites",
+    "address": "180 Gamma Drive, Pittsburgh, PA, 15238 United States",
+    "distance": 3.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/600/535/535_98_l.jpg"
+  },
+  {
+    "price": 144,
+    "name": "Springhill Suites by Marriott Pittsburgh Mills",
+    "address": "3015 Pittsburgh Mills Blvd, Tarentum, PA, 15084 United States",
+    "distance": 5.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1580000/1573400/1573384/e4584193_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Quality Inn \u0026 Suites North",
+    "address": "5137 William Flynn Highway, Gibsonia, PA, 15044 United States",
+    "distance": 5.3,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6300/6232/6232_70_l.jpg"
+  },
+  {
+    "price": 111,
+    "name": "Hotel Indigo Pittsburgh East Liberty",
+    "address": "123 North Highland Avenue, Pittsburgh, PA, 15206 United States",
+    "distance": 6.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9040000/9032700/9032700/9032700_42_l.jpg"
+  }
+]

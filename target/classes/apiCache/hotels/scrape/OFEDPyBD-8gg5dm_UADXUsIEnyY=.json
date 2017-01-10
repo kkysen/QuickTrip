@@ -1,0 +1,50 @@
+[
+  {
+    "price": 101,
+    "name": "Extended Stay America - Boston - Peabody",
+    "address": "200 Jubilee Dr, Peabody, MA, 01960 United States",
+    "distance": 0.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/285000/284954/284954_54_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Plaza Inn",
+    "address": "125 Newbury Street, Peabody, MA, 01960 United States",
+    "distance": 0.9,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8380000/8370900/8370870/8370870_51_l.jpg"
+  },
+  {
+    "price": 154,
+    "name": "Boston Marriott Peabody",
+    "address": "8A Centennial Drive, Peabody, MA, 01960 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2400/2394/2394_71_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Hampton Inn Boston/Peabody",
+    "address": "59 Newbury St, Peabody, MA, 01960 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/203600/203598/203598_43_l.jpg"
+  },
+  {
+    "price": 125,
+    "name": "SpringHill Suites by Marriott Boston Peabody",
+    "address": "43 Newbury St./Route 1 North, Peabody, MA, 01960 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/891000/890954/f4e3fc8f_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Holiday Inn Hotel \u0026 Suites Boston - Peabody",
+    "address": "1 Newbury St, Peabody, MA, 01960 United States",
+    "distance": 1.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/20500/20459/20459_156_l.jpg"
+  }
+]

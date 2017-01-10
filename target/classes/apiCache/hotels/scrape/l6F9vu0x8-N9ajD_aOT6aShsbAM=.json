@@ -1,0 +1,34 @@
+[
+  {
+    "price": 138,
+    "name": "Rockland Harbor Hotel",
+    "address": "520 Main Street, Rockland, ME, 04841 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13280000/13279200/13279193/34449119_l.jpg"
+  },
+  {
+    "price": 124,
+    "name": "Trade Winds Inn",
+    "address": "2 Park Drive, Rockland, ME, 04841 United States",
+    "distance": 2.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11770000/11764500/11764432/11764432_3_l.jpg"
+  },
+  {
+    "price": 174,
+    "name": "250 Main Hotel",
+    "address": "250 Main Street, Rockland, ME, 04841 United States",
+    "distance": 2.0,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13520000/13516800/13516798/13516798_20_l.jpg"
+  },
+  {
+    "price": 145,
+    "name": "Hampton Inn \u0026 Suites Rockland",
+    "address": "190 New County Rd, Rockland, ME, 04861 United States",
+    "distance": 2.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1470000/1460400/1460364/1460364_84_l.jpg"
+  }
+]

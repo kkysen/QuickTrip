@@ -1,0 +1,82 @@
+[
+  {
+    "price": 165,
+    "name": "Hotel Kilbourne",
+    "address": "223 West Water Street, Sandusky, OH, 44870 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16340000/16339400/16339363/31fe3ee4_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Quality Inn \u0026 Suites Rainwater Park",
+    "address": "1935 Cleveland Road, Sandusky, OH, 44870 United States",
+    "distance": 1.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1060000/1059800/1059705/1059705_75_l.jpg"
+  },
+  {
+    "price": 102,
+    "name": "Holiday Inn Express \u0026 Suites Sandusky",
+    "address": "1515 Cedar Point Drive, Sandusky, OH, 44870 United States",
+    "distance": 1.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11620000/11615700/11615678/30c41429_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Budget Host Inn",
+    "address": "2027 Cleveland Rd., Sandusky, OH, 44870 United States",
+    "distance": 2.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/8000000/7690000/7687300/7687286/7687286_11_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "La Quinta Inn Sandusky near Cedar Point",
+    "address": "3304 Milan Rd, Sandusky, OH, 44870 United States",
+    "distance": 2.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14900/14823/03a443eb_l.jpg"
+  },
+  {
+    "price": 45,
+    "name": "Econo Lodge Inn \u0026 Suites South",
+    "address": "3309 Milan Rd, Sandusky, OH, 44870 United States",
+    "distance": 2.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28400/28350/56214264_l.jpg"
+  },
+  {
+    "price": 40,
+    "name": "Value Inn Motel Sandusky",
+    "address": "2236 Cleveland Rd, Sandusky, OH, 44870 United States",
+    "distance": 2.5,
+    "rating": 1.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1340000/1330400/1330348/ee37dade_l.jpg"
+  },
+  {
+    "price": 53,
+    "name": "Knights Inn Sandusky OH",
+    "address": "2405 Cleveland Rd, Sandusky, OH, 44870 United States",
+    "distance": 2.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/920000/910100/910005/910005_64_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Super 8 Sandusky North",
+    "address": "5410 Milan Rd, Sandusky, OH, 44870 United States",
+    "distance": 4.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856200/856118/856118_69_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Sleep Inn Sandusky",
+    "address": "5509 Milan Rd, Sandusky, OH, 44870 United States",
+    "distance": 4.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42800/42766/42766_119_l.jpg"
+  }
+]

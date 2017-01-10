@@ -1,0 +1,82 @@
+[
+  {
+    "price": 148,
+    "name": "Courtyard by Marriott New Carrollton",
+    "address": "8330 Corporate Dr, Landover, MD, 20785 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18700/18669/32c1f972_l.jpg"
+  },
+  {
+    "price": 170,
+    "name": "DoubleTree by Hilton Hotel Largo-Washington DC",
+    "address": "9100 Basil Court, Largo, MD, 20774 United States",
+    "distance": 1.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21500/21463/21463_134_l.jpg"
+  },
+  {
+    "price": 132,
+    "name": "Holiday Inn Express I-95 Capitol Beltway-Largo",
+    "address": "9101 Basil Ct, Largo, MD, 20774 United States",
+    "distance": 1.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1360000/1357100/1357084/1357084_251_l.jpg"
+  },
+  {
+    "price": 279,
+    "name": "Courtyard by Marriott Largo Capital Beltway",
+    "address": "1320 Caraway Court, Largo, MD, 20774 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11750000/11743400/11743335/11743335_66_l.jpg"
+  },
+  {
+    "price": 319,
+    "name": "Residence Inn Largo Capital Beltway",
+    "address": "1330 Caraway Court, Largo, MD, 20774 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6300000/6290200/6290132/6290132_45_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Metro Points Hotel-Washington North",
+    "address": "8500 Annapolis Rd, New Carrollton, MD, 20784 United States",
+    "distance": 2.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1200/1114/1114_82_l.jpg"
+  },
+  {
+    "price": 77,
+    "name": "Days Inn Lanham Washington DC",
+    "address": "9023 Annapolis Road/I-495, I-495 \u0026 Route 450, Lanham, MD, 20706 United States",
+    "distance": 2.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22600/22523/22523_119_l.jpg"
+  },
+  {
+    "price": 150,
+    "name": "Best Western Capital Beltway",
+    "address": "5910 Princess Garden Pkwy, Lanham, MD, 20706 United States",
+    "distance": 2.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10400/10332/86ec5013_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Red Roof Inn Washington DC - Lanham",
+    "address": "9050 Lanham Severn Rd, Lanham, MD, 20706 United States",
+    "distance": 2.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5200/5190/5190_6_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Extended Stay America Washington, D.C. - Landover",
+    "address": "9401 Largo Dr W, Largo, MD, 20721 United States",
+    "distance": 2.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/118600/118511/118511_47_l.jpg"
+  }
+]

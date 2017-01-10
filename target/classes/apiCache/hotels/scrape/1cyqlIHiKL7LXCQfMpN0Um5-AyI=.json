@@ -1,0 +1,82 @@
+[
+  {
+    "price": 86,
+    "name": "The Inn at Villa Bianca",
+    "address": "312 Roosevelt Drive, Rt. 34, Seymour, CT, 06483 United States",
+    "distance": 3.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10590000/10584000/10583953/10583953_12_l.jpg"
+  },
+  {
+    "price": 61,
+    "name": "New Haven Inn",
+    "address": "100 Pond Lily Ave, New Haven, CT, 06515 United States",
+    "distance": 4.9,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6200/6172/6172_63_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Hilton Garden Inn Shelton",
+    "address": "25 Old Stratford Rd, Shelton, CT, 06484 United States",
+    "distance": 5.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/287700/287687/287687_28_l.jpg"
+  },
+  {
+    "price": 101,
+    "name": "Hampton Inn by Hilton Shelton",
+    "address": "695 Bridgeport Ave, Shelton, CT, 06484 United States",
+    "distance": 5.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/200400/200381/200381_142_l.jpg"
+  },
+  {
+    "price": 130,
+    "name": "Courtyard By Marriott Shelton",
+    "address": "780 Bridgeport Ave, Shelton, CT, 06484 United States",
+    "distance": 5.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17300/17240/17240_139_l.jpg"
+  },
+  {
+    "price": 108,
+    "name": "HYATT house Shelton",
+    "address": "830 Bridgeport Ave, Shelton, CT, 06484 United States",
+    "distance": 6.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3490000/3482200/3482162/c0646ad5_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Extended Stay America - Shelton - Fairfield County",
+    "address": "945 Bridgeport Ave, Shelton, CT, 06484 United States",
+    "distance": 6.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/202500/202426/202426_44_l.jpg"
+  },
+  {
+    "price": 143,
+    "name": "Homewood Suites by Hilton Stratford",
+    "address": "6905 Main St, Stratford, CT, 06614 United States",
+    "distance": 7.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/880000/873200/873107/873107_57_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Courtyard by Marriott New Haven Orange-Milford",
+    "address": "136 Marsh Hill Rd, Orange, CT, 06477 United States",
+    "distance": 7.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/79500/79426/79426_38_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "Best Western Executive Hotel Of New Haven-west Haven",
+    "address": "490 Saw Mill Rd, West Haven, CT, 06516 United States",
+    "distance": 7.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23300/23217/302780db_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 93,
+    "name": "La Quinta Inn \u0026 Suites Snellville/Stone Mountain",
+    "address": "2971 W Main St, Snellville, GA, 30078 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/892900/892801/2c0ba3a3_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Days Inn Stone Mountain",
+    "address": "2006 Glenn Club Dr, Hwy 78 E, Stone Mountain, GA, 30087 United States",
+    "distance": 4.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/27200/27133/27133_166_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Comfort Inn \u0026 Suites at Stone Mountain",
+    "address": "5355 Stone Mountain Hwy, Hwy 78, Stone Mountain, GA, 30087 United States",
+    "distance": 4.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/422700/422626/422626_145_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Quality Inn Stone Mountain",
+    "address": "1595 E Park Place Blvd, Stone Mountain, GA, 30087 United States",
+    "distance": 4.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/100000/98900/98899/98899_101_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "Holiday Inn Express Atlanta-Stone Mountain",
+    "address": "1790 E Park Place Blvd, Stone Mountain, GA, 30087 United States",
+    "distance": 4.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/34400/34357/34357_210_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Country Inn \u0026 Suites by Carlson, Stone Mountain",
+    "address": "1852 Rockbridge Road SW, Stone Mountain, GA, 30087 United States",
+    "distance": 4.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/990000/987100/987067/987067_183_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Crestwood Suites of Snellville",
+    "address": "1784 Presidential Cir, Snellville, GA, 30078 United States",
+    "distance": 4.9,
+    "rating": 1.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/210000/201200/201157/201157_73_l.jpg"
+  },
+  {
+    "price": 124,
+    "name": "Hyatt Place Atlanta - East / Lithonia",
+    "address": "7900 Mall Ring Road, Lithonia, GA, 30038 United States",
+    "distance": 8.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/904800/904702/9023a400_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Atlanta East - Lithonia",
+    "address": "7846 Stonecrest Square, Lithonia, GA, 30038 United States",
+    "distance": 8.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2180000/2172900/2172803/2172803_187_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Hilton Garden Inn Atlanta East/Stonecrest",
+    "address": "7890 Mall Ring Rd, Lithonia, GA, 30038 United States",
+    "distance": 8.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1160000/1156000/1155960/1155960_18_l.jpg"
+  }
+]

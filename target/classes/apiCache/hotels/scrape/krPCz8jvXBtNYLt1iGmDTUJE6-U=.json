@@ -1,0 +1,82 @@
+[
+  {
+    "price": 109,
+    "name": "Comfort Suites Frisco",
+    "address": "9700 Dallas Pkwy, Frisco, TX, 75034 United States",
+    "distance": 0.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2230000/2221500/2221418/2221418_55_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Hampton Inn \u0026 Suites Dallas/Frisco North-FieldhouseUSA",
+    "address": "6070 Sports Village Road, Frisco, TX, 75033 United States",
+    "distance": 0.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9400000/9399300/9399247/9399247_18_l.jpg"
+  },
+  {
+    "price": 80,
+    "name": "Comfort Inn \u0026 Suites Frisco - Plano",
+    "address": "4220 Preston Road, Frisco, TX, 75034 United States",
+    "distance": 3.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/700000/697000/696948/696948_174_l.jpg"
+  },
+  {
+    "price": 133,
+    "name": "Holiday Inn Express Frisco",
+    "address": "3400 Parkwood Blvd, Frisco, TX, 75034 United States",
+    "distance": 3.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1710000/1700800/1700741/1700741_330_l.jpg"
+  },
+  {
+    "price": 153,
+    "name": "Homewood Suites by Hilton Dallas-Frisco",
+    "address": "3240 Parkwood Blvd, Frisco, TX, 75034 United States",
+    "distance": 3.4,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1770000/1769000/1768930/1768930_33_l.jpg"
+  },
+  {
+    "price": 150,
+    "name": "Aloft Frisco",
+    "address": "3202 Parkwood Blvd, Frisco, TX, 75034 United States",
+    "distance": 3.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2170000/2161800/2161742/635923c8_l.jpg"
+  },
+  {
+    "price": 158,
+    "name": "Hampton Inn and Suites Frisco",
+    "address": "3199 Parkwood Blvd, Frisco, TX, 75034 United States",
+    "distance": 3.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/907400/907302/907302_8_l.jpg"
+  },
+  {
+    "price": 137,
+    "name": "Hilton Garden Inn Frisco",
+    "address": "7550 Gaylord Pkwy, Frisco, TX, 75034 United States",
+    "distance": 3.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2230000/2227700/2227668/2227668_7_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Hyatt House Dallas/Frisco",
+    "address": "2875 Parkwood Boulevard, Frisco, TX, 75034 United States",
+    "distance": 3.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12660000/12650400/12650312/965e58d2_l.jpg"
+  },
+  {
+    "price": 217,
+    "name": "Embassy Suites Dallas-Frisco Hotel, Convention Center, \u0026 Spa",
+    "address": "7600 John Q Hammons Dr, Frisco, TX, 75034 United States",
+    "distance": 3.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1110000/1103400/1103348/1103348_73_l.jpg"
+  }
+]

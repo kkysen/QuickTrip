@@ -28,7 +28,7 @@ import javafx.scene.layout.GridPane;
 @Getter
 public class SearchView {
     
-    public static final String VIEW_FILE = "../../../../../view/SearchScreenView.fxml";
+    public static final String VIEW_FILE = "view/SearchScreenView.fxml";
     
     private @FXML GridPane grid = new GridPane();
     private final GridRows rows;

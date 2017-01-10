@@ -1,0 +1,18 @@
+[
+  {
+    "price": 139,
+    "name": "Hampton Inn Collierville",
+    "address": "1280 W Poplar Ave, Collierville, TN, 38017 United States",
+    "distance": 2.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43000/42931/42931_40_l.jpg"
+  },
+  {
+    "price": 193,
+    "name": "Courtyard by Marriott Collierville",
+    "address": "4640 Merchants Park Cir, Collierville, TN, 38017 United States",
+    "distance": 3.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1810000/1802800/1802749/1802749_23_l.jpg"
+  }
+]

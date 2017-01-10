@@ -1,0 +1,82 @@
+[
+  {
+    "price": 112,
+    "name": "Days Hotel Egg Harbor Township",
+    "address": "6708 Tilton Rd at Fire Road Intersection, Egg Harbor Township, NJ, 08234 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6400/6326/6326_309_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Residence Inn Atlantic City Airport Egg Harbor Township",
+    "address": "3022 Fire Rd, Egg Harbor Township, NJ, 08234 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1980000/1973100/1973055/1973055_129_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Howard Johnson Atlantic City / Egg Harbor Township",
+    "address": "6817 Black Horse Pike Rt. 40/322, Egg Harbor Township, NJ, 08234 United States",
+    "distance": 1.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12500/12494/12494_261_l.jpg"
+  },
+  {
+    "price": 49,
+    "name": "Quality Inn Pleasantville",
+    "address": "1012 Black Horse Pike, Pleasantville, NJ, 08232 United States",
+    "distance": 1.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/880000/872600/872530/872530_33_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Wingate by Wyndham Atlantic City West",
+    "address": "6811 Black Horse Pike, Egg Harbor Township, NJ, 08234 United States",
+    "distance": 1.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15050000/15046300/15046249/cddcfe05_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Best Western Plus Atlantic City West Extended Stay \u0026 Suites",
+    "address": "701 Black Horse Pike, Pleasantville, NJ, 08232 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/907100/907001/907001_38_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Inn of the Dove",
+    "address": "6665 Black Horse Pike, Egg Harbor Township, NJ, 08234 United States",
+    "distance": 2.9,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13480000/13472700/13472610/13472610_4_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Comfort Inn \u0026 Suites West Atlantic City",
+    "address": "7079 Black Horse Pike, Pleasantville, NJ, 08232 United States",
+    "distance": 3.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8700/8645/8645_90_l.jpg"
+  },
+  {
+    "price": 40,
+    "name": "New Sea Breeze Motel",
+    "address": "7080 Black Horse Pike, Pleasantville, NJ, 08232 United States",
+    "distance": 3.0,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1780000/1776900/1776892/1776892_9_l.jpg"
+  },
+  {
+    "price": 49,
+    "name": "Rodeway Inn",
+    "address": "6641 Black Horse Pike, Egg Harbor Township, NJ, 08234 United States",
+    "distance": 3.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10200/10163/10163_47_l.jpg"
+  }
+]

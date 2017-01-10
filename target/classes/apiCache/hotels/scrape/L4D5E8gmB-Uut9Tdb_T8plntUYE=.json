@@ -1,0 +1,82 @@
+[
+  {
+    "price": 87,
+    "name": "Ocean Crest Resort",
+    "address": "4651 Highway 109, Moclips, WA, 98562 United States",
+    "distance": 3.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9570000/9561200/9561180/9561180_6_l.jpg"
+  },
+  {
+    "price": 116,
+    "name": "Quinault Beach Resort",
+    "address": "78 St. Rt. 115, Ocean Shores, WA, 98569 United States",
+    "distance": 11.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1130000/1123600/1123504/1123504_49_l.jpg"
+  },
+  {
+    "price": 111,
+    "name": "Best Western Lighthouse Suites Inn",
+    "address": "491 Damon Road, Ocean Shores, WA, 98569 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/3500/3489/3489_63_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Days Inn Ocean Shores",
+    "address": "891 Ocean Shores Blvd NW, Ocean Shores, WA, 98569 United States",
+    "distance": 12.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43300/43285/43285_40_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Judith Ann Inn",
+    "address": "855 Ocean Shores Blvd. NW, Ocean Shores, WA, 98569 United States",
+    "distance": 12.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1660000/1659000/1658957/1658957_117_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Quinault Sweet Grass Hotel",
+    "address": "845 Ocean Shores Blvd NW, Ocean Shores, WA, 98569 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1300000/1293400/1293320/1293320_134_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "Comfort Inn And Suites",
+    "address": "829 Ocean Shores Blvd Nw, Ocean Shores, WA, 98569 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/855100/855060/855060_46_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "The Sands Resort",
+    "address": "801 Ocean Shores Boulevard Northwest, Ocean Shores, WA, 98569 United States",
+    "distance": 12.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12770000/12766600/12766521/12766521_1_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Wildwood Crest Bungalows",
+    "address": "131 Barnacle St, Ocean Shores, WA, 98569 United States",
+    "distance": 13.0,
+    "rating": 4.8,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13200000/13191200/13191146/13191146_41_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Quality Inn Ocean Shores",
+    "address": "773 Ocean Shores Blvd. NW, Ocean Shores, WA, 98569 United States",
+    "distance": 13.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/119100/119087/b690bff0_l.jpg"
+  }
+]

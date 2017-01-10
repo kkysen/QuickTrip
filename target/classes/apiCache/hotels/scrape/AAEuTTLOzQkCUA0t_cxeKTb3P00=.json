@@ -1,0 +1,82 @@
+[
+  {
+    "price": 106,
+    "name": "Longhorn Inn \u0026 Suites",
+    "address": "4120 E Pierce Street, Luling, TX, 78648 United States",
+    "distance": 4.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6020000/6019400/6019380/917317fd_l.jpg"
+  },
+  {
+    "price": 129,
+    "name": "La Quinta Inn \u0026 Suites Luling",
+    "address": "203 E Hwy 90, Luling, TX, 78648 United States",
+    "distance": 4.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12900000/12893800/12893799/d6ccd76d_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Plum Creek Inn",
+    "address": "2001 S Colorado St, Lockhart, TX, 78644 United States",
+    "distance": 11.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43000/42933/2f0dc43f_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Best Western Lockhart Hotel \u0026 Suites",
+    "address": "1811 S Colorado St, Lockhart, TX, 78644 United States",
+    "distance": 11.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1670000/1662000/1661946/1661946_39_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Westwood Inn",
+    "address": "2669 Waters Road, Gonzales, TX, 78629 United States",
+    "distance": 16.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10490000/10487600/10487505/10487505_22_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Holiday Inn Express \u0026 Suites Gonzales",
+    "address": "126 Middle Buster Road, Gonzales, TX, 78629 United States",
+    "distance": 16.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5020000/5010100/5010046/5010046_34_l.jpg"
+  },
+  {
+    "price": 56,
+    "name": "La Quinta Inn \u0026 Suites Gonzales",
+    "address": "1631 Water St., Gonzales, TX, 78629 United States",
+    "distance": 17.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9200000/9198800/9198776/23c1eaf0_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Microtel Inn \u0026 Suites by Wyndham Gonzales",
+    "address": "2019 Water Street, Gonzales, TX, 78629 United States",
+    "distance": 17.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6070000/6068400/6068364/6068364_123_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Days Inn \u0026 Suites Gonzales",
+    "address": "2131 Water St, Gonzales, TX, 78629 United States",
+    "distance": 17.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/7000000/6320000/6318200/6318138/6318138_3_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Best Western Regency Inn \u0026 Suites",
+    "address": "1811 E Sarah Dewitt Drive, Gonzales, TX, 78629 United States",
+    "distance": 17.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/190000/180400/180354/180354_60_l.jpg"
+  }
+]

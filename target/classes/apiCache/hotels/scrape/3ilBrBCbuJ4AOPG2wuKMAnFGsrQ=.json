@@ -1,0 +1,18 @@
+[
+  {
+    "price": 139,
+    "name": "Homewood Suites Phoenix Avondale",
+    "address": "11450 W Hilton Way, Avondale, AZ, 85323 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1560000/1558900/1558831/1558831_50_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Hilton Garden Inn Avondale",
+    "address": "11460 W Hilton Way, Avondale, AZ, 85323 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1570000/1563700/1563616/1563616_75_l.jpg"
+  }
+]

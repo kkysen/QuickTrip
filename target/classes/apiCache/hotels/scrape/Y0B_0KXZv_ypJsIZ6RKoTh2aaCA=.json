@@ -1,0 +1,42 @@
+[
+  {
+    "price": 80,
+    "name": "Sun Suites Of Cumming",
+    "address": "555 Lake Center Pkwy, Cumming, GA, 30040 United States",
+    "distance": 0.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/893000/892959/ef2187d3_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Atlanta-Cumming",
+    "address": "870 Buford Road, Cumming, GA, 30041 United States",
+    "distance": 1.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2170000/2161600/2161512/2161512_82_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Hampton Inn Cumming",
+    "address": "915 Ronald Regan Blvd, Cumming, GA, 30041 United States",
+    "distance": 1.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/860400/860329/5f91adef_l.jpg"
+  },
+  {
+    "price": 122,
+    "name": "Comfort Suites Cumming",
+    "address": "905 Buford Rd, Cumming, GA, 30041 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42500/42422/42422_85_l.jpg"
+  },
+  {
+    "price": 139,
+    "name": "Fairfield Inn \u0026 Suites Atlanta Cumming/Johns Creek",
+    "address": "3150 Ronald Reagan Blvd, Cumming, GA, 30041 United States",
+    "distance": 4.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9600000/9591200/9591134/9591134_4_l.jpg"
+  }
+]

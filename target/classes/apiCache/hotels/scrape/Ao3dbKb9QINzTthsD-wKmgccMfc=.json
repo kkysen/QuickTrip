@@ -1,0 +1,26 @@
+[
+  {
+    "price": 209,
+    "name": "Crowne Plaza Hotel Foster City - San Mateo",
+    "address": "1221 Chess Dr, Foster City, CA, 94404 United States",
+    "distance": 0.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/9700/9647/9647_352_l.jpg"
+  },
+  {
+    "price": 251,
+    "name": "Courtyard by Marriott San Mateo Foster City",
+    "address": "550 Shell Blvd, Foster City, CA, 94404 United States",
+    "distance": 0.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26200/26106/096ae914_l.jpg"
+  },
+  {
+    "price": 279,
+    "name": "Courtyard by Marriott Redwood City",
+    "address": "600 Bair Island Road, Redwood City, CA, 94063 United States",
+    "distance": 0.6,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16410000/16409100/16409035/a54064de_l.jpg"
+  }
+]

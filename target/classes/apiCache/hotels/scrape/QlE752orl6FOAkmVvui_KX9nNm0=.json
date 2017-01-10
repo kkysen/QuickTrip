@@ -1,0 +1,18 @@
+[
+  {
+    "price": 105,
+    "name": "Country Hearth Inn \u0026 Suites",
+    "address": "1013 Plummer Drive, Edwardsville, IL, 62025 United States",
+    "distance": 1.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8080000/8070400/8070312/8070312_14_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Holiday Inn Express \u0026 Suites Edwardsville",
+    "address": "1000 Plummer Drive, Edwardsville, IL, 62025 United States",
+    "distance": 1.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8970000/8964000/8963997/8963997_1_l.jpg"
+  }
+]

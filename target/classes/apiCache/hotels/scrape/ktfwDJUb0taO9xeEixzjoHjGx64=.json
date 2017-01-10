@@ -1,0 +1,82 @@
+[
+  {
+    "price": 75,
+    "name": "Days Inn San Antonio Splashtown / ATT Center",
+    "address": "3443 N Pan Am Expressway, San Antonio, TX, 78219 United States",
+    "distance": 2.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1700/1651/37e1d9ea_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Studio 6 San Antonio, TX - Ft Sam Houston Area",
+    "address": "3617 I-35 North, San Antonio, TX, 78219 United States",
+    "distance": 2.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1200000/1191500/1191472/1191472_71_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Motel 6 San Antonio-Splashtown",
+    "address": "3370 IH 35 North, San Antonio, TX, 78219 United States",
+    "distance": 2.4,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1120000/1112600/1112532/7d185e7d_l.jpg"
+  },
+  {
+    "price": 37,
+    "name": "Travelodge Inn \u0026 Suites San Antonio North East/Near Fort Sam",
+    "address": "3821 N Pan Am Expy (IH-35N), San Antonio, TX, 78219 United States",
+    "distance": 2.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1090000/1087300/1087285/080b1869_l.jpg"
+  },
+  {
+    "price": 48,
+    "name": "Econo Lodge Inn \u0026 Suites Downtown Northeast",
+    "address": "2755 N Panam Expy, San Antonio, TX, 78208 United States",
+    "distance": 2.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/18200/18166/d7e14324_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Budget Lodge Fort Sam",
+    "address": "3855 North PanAm Expressway, San Antonio, TX, 78219 United States",
+    "distance": 2.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5900/5803/5803_128_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Microtel Inn \u0026 Suites by Wyndham San Antonio North East",
+    "address": "3911 North Pan Am Expressway, San Antonio, TX, 78219 United States",
+    "distance": 2.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/800000/795300/795276/ad4353d0_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Best Western Plus Downtown North",
+    "address": "2131 N Interstate 35, San Antonio, TX, 78208 United States",
+    "distance": 2.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16220000/16219100/16219094/7aa3fe35_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "Hyatt Place San Antonio Airport - Quarry Market",
+    "address": "7615 Jones - Maltsberger Rd, San Antonio, TX, 78216 United States",
+    "distance": 2.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/41300/41266/41266_60_l.jpg"
+  },
+  {
+    "price": 345,
+    "name": "Hotel Emma",
+    "address": "136 E Grayson, San Antonio, TX, 78215 United States",
+    "distance": 2.8,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8830000/8827100/8827089/d6dac659_l.jpg"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "price": 102,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Brady",
+    "address": "2320 S Bridge Street, Brady, TX, 76825 United States",
+    "distance": 3.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4020000/4016000/4015991/4015991_128_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Best Western Brady Inn",
+    "address": "2200 S Bridge St, Brady, TX, 76825 United States",
+    "distance": 3.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13000/12995/12995_64_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Gold Key Inn",
+    "address": "2023 South Bridge Street, Brady, TX, 76825 United States",
+    "distance": 3.7,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16300000/16299300/16299281/bf0e8c6a_l.jpg"
+  }
+]

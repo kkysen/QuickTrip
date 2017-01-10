@@ -1,0 +1,42 @@
+[
+  {
+    "price": 69,
+    "name": "Travelodge - Ocean Springs",
+    "address": "500 Bienville Bvld, Ocean Springs, MS, 39564 United States",
+    "distance": 4.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/470000/460100/460047/460047_19_l.jpg"
+  },
+  {
+    "price": 97,
+    "name": "Holiday Inn Express \u0026 Suites Ocean Springs",
+    "address": "7301 Washington Avenue, Ocean Springs, MS, 39564 United States",
+    "distance": 6.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2240000/2233300/2233208/2233208_98_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Days Inn Ocean Springs",
+    "address": "7305 Washington Ave, Ocean Springs, MS, 39564 United States",
+    "distance": 6.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/110000/100900/100850/100850_67_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Super 8 - Ocean Springs Biloxi Area",
+    "address": "13838 Wilfred Seymour Rd, Ocean Springs, MS, 39565 United States",
+    "distance": 6.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/124100/124073/85b01020_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Country Inn \u0026 Suites By Carlson, Biloxi, MS",
+    "address": "13900 Wilfred Seymour Rd, Ocean Springs, MS, 39565 United States",
+    "distance": 6.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/327500/327415/327415_110_l.jpg"
+  }
+]

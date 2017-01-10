@@ -1,0 +1,82 @@
+[
+  {
+    "price": 149,
+    "name": "The Anniversary Inn Logan",
+    "address": "169 East Center Street, Logan, UT, 84321 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9730000/9721900/9721825/9721825_250_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Best Western Plus Weston Inn",
+    "address": "250 N Main Street, Logan, UT, 84321 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2200/2185/2185_179_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Best Western Baugh Motel",
+    "address": "153 S Main Street, Logan, UT, 84321 United States",
+    "distance": 0.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6300/6238/6238_58_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Econo Lodge Inn \u0026 Suites",
+    "address": "364 S Main, Logan, UT, 84321 United States",
+    "distance": 0.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5700/5681/085661d1_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Days Inn and Suites Logan",
+    "address": "447 N Main Street, Logan, UT, 84321 United States",
+    "distance": 0.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14900/14837/14837_183_l.jpg"
+  },
+  {
+    "price": 174,
+    "name": "SpringHill Suites by Marriott Logan",
+    "address": "635 S Riverwoods Pkwy, Logan, UT, 84321 United States",
+    "distance": 0.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2290000/2281300/2281295/495b6ac3_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "La Quinta Inn \u0026 Suites Logan",
+    "address": "853 S Highway 89/91, Logan, UT, 84321 United States",
+    "distance": 1.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/200000/199000/198954/c28c3c3a_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Super 8 Logan",
+    "address": "865 S Main St, Logan, UT, 84321 United States",
+    "distance": 1.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/459900/459820/459820_127_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Hampton Inn Logan",
+    "address": "1665 N Main St, Logan, UT, 84341 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1090000/1085800/1085741/1085741_22_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Comfort Inn Logan",
+    "address": "2002 S Hwy 89 And 91, Logan, UT, 84321 United States",
+    "distance": 2.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/67900/67872/67872_51_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 83,
+    "name": "Extended Stay America - Tacoma - South",
+    "address": "2120 S. 48th St., Tacoma, WA, 98409 United States",
+    "distance": 3.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/117200/117158/117158_61_l.jpg"
+  },
+  {
+    "price": 181,
+    "name": "Hotel Murano, a Provenance Hotel",
+    "address": "1320 Broadway Plaza, Tacoma, WA, 98402 United States",
+    "distance": 3.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4300/4213/4213_193_l.jpg"
+  },
+  {
+    "price": 149,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Tacoma Downtown",
+    "address": "2102 South C Street, Tacoma, WA, 98402 United States",
+    "distance": 3.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5390000/5388900/5388888/5388888_196_l.jpg"
+  },
+  {
+    "price": 192,
+    "name": "Courtyard by Marriott Tacoma Downtown",
+    "address": "1515 Commerce Street, Tacoma, WA, 98402 United States",
+    "distance": 3.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1150000/1142300/1142271/1142271_74_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Clarion Inn",
+    "address": "6802 Tacoma Mall Blvd, Tacoma, WA, 98409 United States",
+    "distance": 3.9,
+    "rating": 2.9,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22700/22625/c1150a22_l.jpg"
+  },
+  {
+    "price": 111,
+    "name": "Shilo Inn \u0026 Suites - Tacoma",
+    "address": "7414 South Hosmer, Tacoma, WA, 98408 United States",
+    "distance": 4.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/12100/12051/12051_23_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Motel 6 Tacoma South",
+    "address": "1811 S 76th St, Tacoma, WA, 98408 United States",
+    "distance": 4.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1040000/1037800/1037772/5e1b06ad_l.jpg"
+  },
+  {
+    "price": 112,
+    "name": "Hampton Inn \u0026 Suites Tacoma-Mall",
+    "address": "8203 S Hosmer St, Tacoma, WA, 98408 United States",
+    "distance": 4.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1760000/1753900/1753818/1753818_55_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Best Western Lakewood",
+    "address": "6125 Motor Avenue SW, Lakewood, WA, 98499 United States",
+    "distance": 4.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/21000/20964/20964_77_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Red Lion Hotel Tacoma",
+    "address": "8402 S Hosmer St, Tacoma, WA, 98444 United States",
+    "distance": 4.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/810000/803200/803170/803170_152_l.jpg"
+  }
+]

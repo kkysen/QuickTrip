@@ -1,0 +1,18 @@
+[
+  {
+    "price": 212,
+    "name": "Westgate River Ranch Resort \u0026 Rodeo",
+    "address": "3600 River Ranch Road, River Ranch, FL, 33867 United States",
+    "distance": 16.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/899200/899141/899141_207_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Budget Inn",
+    "address": "530 South Scenic Highway, Lake Wales, FL, 33853 United States",
+    "distance": 24.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10090000/10087200/10087112/10087112_74_l.jpg"
+  }
+]

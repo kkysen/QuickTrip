@@ -1,0 +1,26 @@
+[
+  {
+    "price": 44,
+    "name": "Paris Knights Inn",
+    "address": "409 Tyson Ave, Paris, TN, 38242 United States",
+    "distance": 0.9,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/100000/95900/95882/2bfac2db_l.jpg"
+  },
+  {
+    "price": 62,
+    "name": "Paris Inn \u0026 Suites",
+    "address": "1297 East Wood Street, Paris, TN, 38242 United States",
+    "distance": 1.4,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15260000/15259000/15258926/b26cd393_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Quality Inn",
+    "address": "1510 East Wood Street, Paris, TN, 38242 United States",
+    "distance": 1.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/8300/8275/8275_95_l.jpg"
+  }
+]

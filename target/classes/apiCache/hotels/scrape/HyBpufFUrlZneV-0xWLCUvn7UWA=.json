@@ -1,0 +1,82 @@
+[
+  {
+    "price": 80,
+    "name": "Magnuson Hotel Lawrenceville",
+    "address": "571 Buford Drive, Lawrenceville, GA, 30046 United States",
+    "distance": 6.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/85100/85087/85087_60_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Crossland Economy Studios - Atlanta - Lawrenceville",
+    "address": "474 W Pike St, Lawrenceville, GA, 30045 United States",
+    "distance": 7.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/40400/40364/40364_57_l.jpg"
+  },
+  {
+    "price": 120,
+    "name": "Holiday Inn Express Hotel \u0026 Suites",
+    "address": "520 John B. Wilson Court, Lawrenceville, GA, 30045 United States",
+    "distance": 7.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/85100/85066/85066_247_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Days Inn Lawrenceville",
+    "address": "731 Duluth Hwy, SR 120 / I-85 \u0026 GA 316, Lawrenceville, GA, 30045 United States",
+    "distance": 7.6,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/26900/26810/26810_118_l.jpg"
+  },
+  {
+    "price": 152,
+    "name": "Country Inn \u0026 Suites By Carlson, Lawrenceville, GA",
+    "address": "989 Duluth Hwy, Lawrenceville, GA, 30043 United States",
+    "distance": 8.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/532100/532013/532013_61_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Hampton Inn Atlanta-Mall of Georgia",
+    "address": "3240 Buford Drive, Buford, GA, 30519 United States",
+    "distance": 8.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/430000/424900/424885/424885_86_l.jpg"
+  },
+  {
+    "price": 112,
+    "name": "Country Inn \u0026 Suites By Carlson-Buford at Mall of Georgia",
+    "address": "1395 Mall of Georgia Boulevard, Buford, GA, 30519 United States",
+    "distance": 8.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/899300/899267/899267_106_l.jpg"
+  },
+  {
+    "price": 172,
+    "name": "SpringHill Suites by Marriott Atlanta Buford",
+    "address": "3250 Buford Dr, Buford, GA, 30519 United States",
+    "distance": 8.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/810000/803000/802991/802991_108_l.jpg"
+  },
+  {
+    "price": 167,
+    "name": "Fairfield Inn \u0026 Suites Atlanta Buford / Mall of Georgia",
+    "address": "1355 Mall of Georgia Boulevard, Buford, GA, 30519 United States",
+    "distance": 8.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12620000/12613100/12613045/12613045_33_l.jpg"
+  },
+  {
+    "price": 117,
+    "name": "Hampton Inn Lawrenceville",
+    "address": "1135 Lakes Parkway, Lawrenceville, GA, 30043 United States",
+    "distance": 8.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/77600/77548/45058d47_l.jpg"
+  }
+]

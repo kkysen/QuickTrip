@@ -1,0 +1,18 @@
+[
+  {
+    "price": 80,
+    "name": "Scottish Inns \u0026 Suites",
+    "address": "2616 Dean St., Balch Springs, TX, 75180 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15550000/15541900/15541807/85c90841_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Motel 6 Balch Springs TX",
+    "address": "12875 Seagoville Rd, Balch Springs, TX, 75180 United States",
+    "distance": 1.2,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/880000/872300/872283/872283_123_l.jpg"
+  }
+]

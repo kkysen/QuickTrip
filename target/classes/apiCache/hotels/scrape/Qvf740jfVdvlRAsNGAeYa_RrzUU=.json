@@ -1,0 +1,82 @@
+[
+  {
+    "price": 103,
+    "name": "Hampton Inn \u0026 Suites Seattle-Airport/28th Ave",
+    "address": "18850 28th Ave South, Seatac, WA, 98188 United States",
+    "distance": 2.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5030000/5027400/5027392/5027392_18_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "La Quinta Inn \u0026 Suites Seattle Sea-Tac",
+    "address": "2824 South 188th St., SeaTac, WA, 98188 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22300/22289/5159e68a_l.jpg"
+  },
+  {
+    "price": 63,
+    "name": "Quality Inn Sea-Tac Airport",
+    "address": "2900 S 192nd St, SeaTac, WA, 98188 United States",
+    "distance": 2.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1300/1214/1214_55_l.jpg"
+  },
+  {
+    "price": 117,
+    "name": "Coast Gateway Hotel",
+    "address": "18415 International Blvd, SeaTac, WA, 98188 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28700/28646/28646_65_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Sea-Tac Crest Motor Inn",
+    "address": "18845 Pacific Hwy South, SeaTac, WA, 98188 United States",
+    "distance": 2.3,
+    "rating": 1.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/790000/787200/787151/787151_1_l.jpg"
+  },
+  {
+    "price": 59,
+    "name": "Sandstone Inn and Airport Parking",
+    "address": "19225 International Blvd, (Old Pacific Hwy S), Seatac, WA, 98188 United States",
+    "distance": 2.3,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/10000000/9680000/9678800/9678746/9678746_2_l.jpg"
+  },
+  {
+    "price": 154,
+    "name": "DoubleTree by Hilton Seattle Airport",
+    "address": "18740 International Boulevard, SeaTac, WA, 98188 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1900/1833/1833_165_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Red Lion Hotel Seattle Airport",
+    "address": "18220 International Blvd, SeaTac, WA, 98188 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/28300/28275/28275_93_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Days Inn Seatac Airport",
+    "address": "19015 International Blvd, SeaTac, WA, 98188 United States",
+    "distance": 2.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6800/6716/6716_113_l.jpg"
+  },
+  {
+    "price": 112,
+    "name": "Holiday Inn Express Hotel \u0026 Suites SeaTac",
+    "address": "19621 International Blvd, SeaTac, WA, 98188 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/480000/473200/473102/473102_169_l.jpg"
+  }
+]

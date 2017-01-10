@@ -1,0 +1,50 @@
+[
+  {
+    "price": 60,
+    "name": "Days Inn and Suites Sulphur Springs",
+    "address": "1521 Industrial Drive East, Sulphur Springs, TX, 75482 United States",
+    "distance": 2.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/450000/448100/448076/aeb930cc_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Best Western Trail Dust Inn \u0026 Suites",
+    "address": "1521 Shannon Road E, Sulphur Springs, TX, 75482 United States",
+    "distance": 2.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19100/19054/19054_61_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Econo Lodge",
+    "address": "1495A Industrial Drive East, Sulphur Springs, TX, 75482 United States",
+    "distance": 2.6,
+    "rating": 3.0,
+    "imgUrl": ""
+  },
+  {
+    "price": 80,
+    "name": "Hampton Inn Sulphur Springs",
+    "address": "1202 Mockingbird Ln, Sulphur Springs, TX, 75482 United States",
+    "distance": 4.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3650000/3640600/3640591/3640591_7_l.jpg"
+  },
+  {
+    "price": 105,
+    "name": "La Quinta Inn \u0026 Suites Sulphur Springs",
+    "address": "1344 Eaton Drive, Sulphur Springs, TX, 75482 United States",
+    "distance": 4.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2850000/2847800/2847749/dd89e4f2_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Holiday Inn Express \u0026 Suites Sulphur",
+    "address": "421 Industrial Dr E, Sulphur Springs, TX, 75482 United States",
+    "distance": 4.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1700000/1692000/1691983/1691983_184_l.jpg"
+  }
+]

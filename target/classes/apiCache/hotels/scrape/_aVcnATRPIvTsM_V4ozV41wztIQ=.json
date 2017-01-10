@@ -1,0 +1,42 @@
+[
+  {
+    "price": 90,
+    "name": "Shenandoah Inn \u0026 Suites",
+    "address": "620 West Sheridan Avenue, Shenandoah, IA, 51601 United States",
+    "distance": 0.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12800000/12793900/12793850/12793850_1_l.jpg"
+  },
+  {
+    "price": 40,
+    "name": "Express Inn \u0026 Suites",
+    "address": "108 N Fremont St, Shenandoah, IA, 51601 United States",
+    "distance": 0.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/13900/13826/13826_28_l.jpg"
+  },
+  {
+    "price": 55,
+    "name": "Tall Corn Inn",
+    "address": "1503 West Sheridan Ave, Shenandoah, IA, 51601 United States",
+    "distance": 0.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/11000000/10470000/10465100/10465030/cf99732e_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Super 8 - Nebraska City, NE",
+    "address": "2103 249th Street, I 29 and Hwy 2 Exit 10, Percival, IA, 68410 United States",
+    "distance": 22.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/898000/897994/897994_118_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Motel 6 Percival IA",
+    "address": "2113 Sapp Bros Drive, Percival, IA, 51648 United States",
+    "distance": 22.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1330000/1329900/1329893/23930517_l.jpg"
+  }
+]

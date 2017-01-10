@@ -1,0 +1,82 @@
+[
+  {
+    "price": 143,
+    "name": "Diplomat Bed and Breakfast",
+    "address": "132 North 2nd Avenue, Sturgeon Bay, WI, 54235 United States",
+    "distance": 0.1,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/16000000/15740000/15733600/15733536/6e769235_l.jpg"
+  },
+  {
+    "price": 49,
+    "name": "Holiday Music Motel",
+    "address": "30 N 1st Ave, Sturgeon Bay, WI, 54235 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3180000/3172900/3172877/3172877_14_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "White Lace Inn",
+    "address": "16 N. 5th Ave, Sturgeon Bay, WI, 54235 United States",
+    "distance": 0.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/14000000/13400000/13390800/13390796/13390796_36_l.jpg"
+  },
+  {
+    "price": 117,
+    "name": "The Sawyer House Bed \u0026 Breakfast",
+    "address": "101 South Lansing Ave, Sturgeon Bay, WI, 54235 United States",
+    "distance": 0.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4670000/4664000/4663939/4663939_6_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Best Western Maritime Inn",
+    "address": "1001 N 14th Avenue, Sturgeon Bay, WI, 54235 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2000/1982/67028c03_l.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Super 8 - Sturgeon Bay",
+    "address": "409 Green Bay Rd, Sturgeon Bay, WI, 54235 United States",
+    "distance": 1.1,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/910000/906800/906704/12c48781_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Snug Harbor Inn",
+    "address": "1627 Memorial Drive, Sturgeon Bay, WI, 54235 United States",
+    "distance": 1.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1860000/1858600/1858506/1858506_1_l.jpg"
+  },
+  {
+    "price": 86,
+    "name": "Lodge at Leathem Smith",
+    "address": "1640 Memorial Dr., Sturgeon Bay, WI, 54235 United States",
+    "distance": 1.3,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4930000/4921800/4921748/4921748_5_l.jpg"
+  },
+  {
+    "price": 67,
+    "name": "Beach Harbor Resort",
+    "address": "3662 N. Duluth Ave., Sturgeon Bay, WI, 54235 United States",
+    "distance": 1.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1830000/1828400/1828350/1828350_53_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Motel 57",
+    "address": "1161 Green Bay Rd, Sturgeon Bay, WI, 54235 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8420000/8416900/8416897/8416897_2_l.jpg"
+  }
+]

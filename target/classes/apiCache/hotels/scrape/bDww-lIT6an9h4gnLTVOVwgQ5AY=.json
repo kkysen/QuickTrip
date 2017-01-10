@@ -1,0 +1,66 @@
+[
+  {
+    "price": 149,
+    "name": "TownePlace Suites by Marriott Ames",
+    "address": "1523 South Dayton Avenue, Ames, IA, 50010 United States",
+    "distance": 1.5,
+    "rating": 4.7,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12560000/12552600/12552518/cc5ffccc_l.jpg"
+  },
+  {
+    "price": 142,
+    "name": "Red Roof Inn Ames",
+    "address": "1400 S Dayton Place, Ames, IA, 50010 United States",
+    "distance": 1.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1900/1853/1853_107_l.jpg"
+  },
+  {
+    "price": 208,
+    "name": "Holiday Inn Express \u0026 Suites Ames",
+    "address": "2600 E 13th St, Ames, IA, 50010 United States",
+    "distance": 1.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/580000/570400/570395/ca7b91c9_l.jpg"
+  },
+  {
+    "price": 272,
+    "name": "Holiday Inn Ames Conference Center - ISU",
+    "address": "2609 University Blvd, Ames, IA, 50010 United States",
+    "distance": 2.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/580000/578100/578005/578005_117_l.jpg"
+  },
+  {
+    "price": 241,
+    "name": "Hilton Garden Inn Ames",
+    "address": "1325 Dickinson Ave, Ames, IA, 50014 United States",
+    "distance": 3.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2370000/2366900/2366812/2366812_58_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "Super 8 Story City",
+    "address": "515 Factory Outlet Dr, Story City, IA, 50248-9725 United States",
+    "distance": 11.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/440000/440000/439953/439953_47_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Super 8 Boone IA",
+    "address": "1715 S Story St, Boone, IA, 50036 United States",
+    "distance": 14.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/580000/573500/573449/573449_66_l.jpg"
+  },
+  {
+    "price": 123,
+    "name": "Cobblestone Hotels and Suites - Jefferson",
+    "address": "771 Wild Rose Lane, Jefferson, IA, 50129 United States",
+    "distance": 40.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/12000000/11810000/11801000/11800941/d50cac31_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 140,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Minneapolis-Minnetonka",
+    "address": "10985 Red Circle Dr, Minnetonka, MN, 55343 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43400/43375/43375_258_l.jpg"
+  },
+  {
+    "price": 146,
+    "name": "Hilton Garden Inn Minneapolis/Eden Prairie",
+    "address": "6330 Point Chase, Eden Prairie, MN, 55344 United States",
+    "distance": 2.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/520000/519800/519720/5534f251_l.jpg"
+  },
+  {
+    "price": 177,
+    "name": "Sheraton Minneapolis West Hotel",
+    "address": "12201 Ridgedale Dr, Minnetonka, MN, 55305 United States",
+    "distance": 3.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16500/16475/16475_244_l.jpg"
+  },
+  {
+    "price": 157,
+    "name": "Hampton Inn \u0026 Suites Minneapolis/West-Minnetonka",
+    "address": "10600 Wayzata Blvd, Minnetonka, MN, 55305 United States",
+    "distance": 3.5,
+    "rating": 5.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/9000000/8700000/8690600/8690566/8690566_12_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "La Quinta Inn \u0026 Suites Minneapolis-Minnetonka",
+    "address": "10420 Wayzata Blvd, Minnetonka, MN, 55305 United States",
+    "distance": 3.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16300/16277/db6f27e1_l.jpg"
+  },
+  {
+    "price": 279,
+    "name": "Minneapolis Marriott West",
+    "address": "9960 Wayzata Boulevard, St. Louis Park, MN, 55426 United States",
+    "distance": 3.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1230000/1227200/1227102/dfa1080c_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Ramada Minneapolis Golden Valley",
+    "address": "6300 Wayzata Blvd, Golden Valley, MN, 55416 United States",
+    "distance": 3.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/861600/861522/0cff4556_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "TownePlace Suites by Marriott -Minneapolis West/StLouis Park",
+    "address": "1400 Zarthan Ave S, St. Louis Park, MN, 55416 United States",
+    "distance": 3.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/700000/699700/699630/699630_15_l.jpg"
+  },
+  {
+    "price": 188,
+    "name": "Springhill Suites Minneapolis St Louis Park by Marriott",
+    "address": "5901 Wayzata Boulvevard, St. Louis Park, MN, 55416 United States",
+    "distance": 4.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/858800/858726/858726_23_l.jpg"
+  },
+  {
+    "price": 74,
+    "name": "Extended Stay America MN - Eden Prairie - Valley View Road",
+    "address": "7550 Office Ridge Circle, Eden Prairie, MN, 55344 United States",
+    "distance": 4.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84900/84878/84878_48_l.jpg"
+  }
+]

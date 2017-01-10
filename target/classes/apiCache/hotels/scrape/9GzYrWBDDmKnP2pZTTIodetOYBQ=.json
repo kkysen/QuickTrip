@@ -1,0 +1,82 @@
+[
+  {
+    "price": 60,
+    "name": "Quality Inn Anderson",
+    "address": "3025 N Main Street, Anderson, SC, 29621-2762 United States",
+    "distance": 2.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6500/6496/6496_130_l.jpg"
+  },
+  {
+    "price": 69,
+    "name": "Home-Towne Suites Anderson",
+    "address": "151 Civic Center Blvd, Anderson, SC, 29625 United States",
+    "distance": 3.2,
+    "rating": 1.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/1000000/997400/997381/997381_37_l.jpg"
+  },
+  {
+    "price": 66,
+    "name": "Howard Johnson Anderson Clemson Area",
+    "address": "3430 Clemson Blvd, Anderson, SC, 29621-1357 United States",
+    "distance": 3.4,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/2600/2544/2544_181_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "Holiday Inn Anderson",
+    "address": "3509 Clemson Blvd, Anderson, SC, 29621-1312 United States",
+    "distance": 3.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/5400/5385/5385_155_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Americas Best Value Inn",
+    "address": "4020 Clemson Blvd, Anderson, SC, 29621 United States",
+    "distance": 4.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1240000/1238100/1238052/1238052_115_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Anderson-Days Inn Clemson",
+    "address": "1007 Smiths Mill Rd, Anderson, SC, 29625-5921 United States",
+    "distance": 5.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/6400/6344/830f85fb_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Rodeway Inn",
+    "address": "4515 Clemson Blvd, Anderson, SC, 29621-2303 United States",
+    "distance": 5.8,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4590000/4584800/4584724/4584724_31_l.jpg"
+  },
+  {
+    "price": 73,
+    "name": "Baymont Inn and Suites Anderson Clemson",
+    "address": "128 Interstate Blvd, Anderson, SC, 29621-2319 United States",
+    "distance": 6.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/540000/533900/533878/cefc80e2_l.jpg"
+  },
+  {
+    "price": 94,
+    "name": "Hampton Inn Anderson",
+    "address": "120 Interstate Blvd, Anderson, SC, 29621-2319 United States",
+    "distance": 6.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/300/248/b9059739_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Comfort Suites Anderson",
+    "address": "118 Interstate Blvd, Anderson, SC, 29621-2319 United States",
+    "distance": 6.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/159200/159200/159200_59_l.jpg"
+  }
+]

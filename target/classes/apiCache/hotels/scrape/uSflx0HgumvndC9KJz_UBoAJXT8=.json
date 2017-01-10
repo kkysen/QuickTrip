@@ -1,0 +1,82 @@
+[
+  {
+    "price": 157,
+    "name": "Fairfield Inn by Marriott Medford Long Island",
+    "address": "2695 Route 112, Medford, NY, 11763 United States",
+    "distance": 3.6,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1950000/1944900/1944838/eaec5799_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "Comfort Inn Medford",
+    "address": "2695 Route 112, Medford, NY, 11763 United States",
+    "distance": 3.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4800/4792/4792_100_l.jpg"
+  },
+  {
+    "price": 159,
+    "name": "SpringHill Suites by Marriott Long Island Brookhaven",
+    "address": "2 Sawgrass Dr, Bellport, NY, 11713 United States",
+    "distance": 3.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3490000/3486700/3486603/138fa7ed_l.jpg"
+  },
+  {
+    "price": 114,
+    "name": "Ramada Plaza Holtsville Long Island",
+    "address": "1730 N Ocean Ave, Holtsville, NY, 11742 United States",
+    "distance": 3.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/862700/862631/862631_113_l.jpg"
+  },
+  {
+    "price": 123,
+    "name": "Hampton Inn Long Island-Brookhaven",
+    "address": "2000 North Ocean Ave., Farmingville, NY, 11738 United States",
+    "distance": 4.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/880000/874700/874604/874604_76_l.jpg"
+  },
+  {
+    "price": 179,
+    "name": "Residence Inn by Marriott Long Island Holtsville",
+    "address": "25 Middle Ave, Holtsville, NY, 11742 United States",
+    "distance": 4.5,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1070000/1068900/1068885/1068885_46_l.jpg"
+  },
+  {
+    "price": 165,
+    "name": "La Quinta Inn \u0026 Suites Islip-MacArthur Airport",
+    "address": "10 Aero Rd, Bohemia, NY, 11716 United States",
+    "distance": 5.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1490000/1487200/1487110/3dc473da_l.jpg"
+  },
+  {
+    "price": 189,
+    "name": "Courtyard by Marriott Long Island MacArthur Airport",
+    "address": "5000 Express Dr S, Ronkonkoma, NY, 11779 United States",
+    "distance": 6.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/854500/854422/854422_62_l.jpg"
+  },
+  {
+    "price": 209,
+    "name": "Hilton Garden Inn Islip",
+    "address": "3485 Veterans Memorial Hwy, Ronkonkoma, NY, 11779 United States",
+    "distance": 6.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/970000/966200/966117/966117_35_l.jpg"
+  },
+  {
+    "price": 79,
+    "name": "Rodeway Inn Macarthur Airport",
+    "address": "3055 Veterans Memorial Hwy, Ronkonkoma, NY, 11779 United States",
+    "distance": 7.6,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/19600/19538/19538_96_l.jpg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "price": 126,
+    "name": "La Quinta Inn and Suites Ardmore Central",
+    "address": "1502 Woerz Way, Ardmore, OK, 73401 United States",
+    "distance": 0.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2660000/2654400/2654314/f969f574_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Best Western Plus Ardmore Inn \u0026 Suites",
+    "address": "2600 W Broadway St, Ardmore, OK, 73401 United States",
+    "distance": 1.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14770000/14769200/14769143/a9c6e4ce_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Econo Lodge",
+    "address": "2700 W Broadway Street, Ardmore, OK, 73401 United States",
+    "distance": 1.9,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/1300/1201/49d212ef_l.jpg"
+  },
+  {
+    "price": 83,
+    "name": "Comfort Inn \u0026 Suites Ardmore",
+    "address": "410 Railway Express St, Ardmore, OK, 73401 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/67400/67391/4704401b_l.jpg"
+  },
+  {
+    "price": 44,
+    "name": "Motel 6 Ardmore",
+    "address": "120 Holiday Drive, Ardmore, OK, 73401 United States",
+    "distance": 2.1,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1030000/1029900/1029865/1029865_18_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Baymont Inn \u0026 Suites Ardmore",
+    "address": "2606 12th Ave. NW, Ardmore, OK, 73401 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12230000/12226100/12226031/12226031_1_l.jpg"
+  },
+  {
+    "price": 94,
+    "name": "Lexington Inn - Ardmore",
+    "address": "136 Holiday Drive, Ardmore, OK, 73401 United States",
+    "distance": 2.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42800/42794/42794_128_l.jpg"
+  },
+  {
+    "price": 107,
+    "name": "Candlewood Suites Ardmore Northwest",
+    "address": "2602 Rina Park Rd, Ardmore, OK, 73401 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2570000/2561100/2561061/2561061_193_l.jpg"
+  },
+  {
+    "price": 76,
+    "name": "Hilton Garden Inn Ardmore",
+    "address": "710 Premier Parkway, Ardmore, OK, 73401 United States",
+    "distance": 2.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14710000/14702200/14702197/586dd02f_l.jpg"
+  },
+  {
+    "price": 47,
+    "name": "Red Roof Inn Ardmore",
+    "address": "2432 Veterans Blvd, Ardmore, OK, 73401 United States",
+    "distance": 2.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17200/17179/d89e2716_l.jpg"
+  }
+]

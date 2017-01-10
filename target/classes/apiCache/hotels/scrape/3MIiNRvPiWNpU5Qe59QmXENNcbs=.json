@@ -1,0 +1,26 @@
+[
+  {
+    "price": 87,
+    "name": "Baymont Inn And Suites Martinsville",
+    "address": "378 Commonwealth Blvd W, Martinsville, VA, 24112 United States",
+    "distance": 1.1,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/670000/665100/665072/50299e52_l.jpg"
+  },
+  {
+    "price": 144,
+    "name": "Travelodge Ridgeway Martinsville Area",
+    "address": "3841 Greensboro Rd, Ridgeway, VA, 24148 United States",
+    "distance": 3.6,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/10900/10801/10801_65_l.jpg"
+  },
+  {
+    "price": 124,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Rocky Mount",
+    "address": "395 Old Franklin Tpke, Rocky Mount, VA, 24151 United States",
+    "distance": 22.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1420000/1418700/1418673/1418673_128_l.jpg"
+  }
+]

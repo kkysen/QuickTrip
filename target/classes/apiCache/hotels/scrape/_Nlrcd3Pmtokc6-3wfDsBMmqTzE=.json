@@ -1,0 +1,82 @@
+[
+  {
+    "price": 55,
+    "name": "Super 8 - Hartford",
+    "address": "1539 E Sumner St, Hartford, WI, 53027 United States",
+    "distance": 4.0,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/855600/855551/5cefabd5_l.jpg"
+  },
+  {
+    "price": 90,
+    "name": "AmericInn Hotel \u0026 Suites Hartford",
+    "address": "1527 E Sumner St, Hartford, WI, 53027 United States",
+    "distance": 4.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/970000/970000/969958/969958_64_l.jpg"
+  },
+  {
+    "price": 89,
+    "name": "Comfort Inn \u0026 Suites Jackson - West Bend",
+    "address": "W227 N16890 Tillie Lake Ct, Jackson, WI, 53037 United States",
+    "distance": 4.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/670000/661000/660970/660970_162_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Hampton Suites West Bend",
+    "address": "1975 S 18th Ave, West Bend, WI, 53095 United States",
+    "distance": 6.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1870000/1867000/1866922/1866922_135_l.jpg"
+  },
+  {
+    "price": 106,
+    "name": "Country Inn \u0026 Suites By Carlson West Bend",
+    "address": "2000 Gateway Ct, West Bend, WI, 53095 United States",
+    "distance": 6.5,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/125500/125467/846f1db2_l.jpg"
+  },
+  {
+    "price": 68,
+    "name": "Quality Inn \u0026 Suites",
+    "address": "2433 W Washington St, West Bend, WI, 53095 United States",
+    "distance": 7.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/470000/460100/460055/22bd8288_l.jpg"
+  },
+  {
+    "price": 95,
+    "name": "Best Western Germantown Inn",
+    "address": "W 190 N 10862 Commerce Circle, Germantown, WI, 53022 United States",
+    "distance": 9.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/330000/328700/328609/328609_182_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Country Inn \u0026 Suites By Carlson Germantown",
+    "address": "W 188 N 11020 Maple Rd, Germantown, WI, 53022 United States",
+    "distance": 10.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43200/43133/43133_47_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Holiday Inn Express Germantown - NW Milwaukee",
+    "address": "W177n9675 Riversbend Ln, Germantown, WI, 53022 United States",
+    "distance": 12.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/116700/116659/116659_139_l.jpg"
+  },
+  {
+    "price": 75,
+    "name": "Super 8 Germantown Milwaukee",
+    "address": "N 96 W 17490 County Line Rd, Germantown, WI, 53022 United States",
+    "distance": 12.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/460000/452500/452487/452487_277_l.jpg"
+  }
+]

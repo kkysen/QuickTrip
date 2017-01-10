@@ -1,0 +1,82 @@
+[
+  {
+    "price": 52,
+    "name": "Best Western Mt. Pleasant Inn",
+    "address": "102 E Burton Rd, Mount Pleasant, TX, 75455 United States",
+    "distance": 1.4,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/68200/68134/68134_84_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Mount Pleasant",
+    "address": "2306 Greenhill Rd, Mount Pleasant, TX, 75455 United States",
+    "distance": 1.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/892300/892224/892224_94_l.jpg"
+  },
+  {
+    "price": 50,
+    "name": "Motel 6 Mount Pleasant, TX",
+    "address": "2502 West Ferguson Rd, Mount Pleasant, TX, 75455 United States",
+    "distance": 1.7,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1120000/1112300/1112293/1112293_24_l.jpg"
+  },
+  {
+    "price": 94,
+    "name": "Hampton Inn and Suites Mt. Pleasant",
+    "address": "2504 W Ferguson Road, Mount Pleasant, TX, 75455 United States",
+    "distance": 1.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2310000/2303800/2303757/2303757_39_l.jpg"
+  },
+  {
+    "price": 42,
+    "name": "Days Inn Mount Pleasant",
+    "address": "2501 W Ferguson Rd, Mount Pleasant, TX, 75455 United States",
+    "distance": 1.8,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/23800/23756/23756_51_l.jpg"
+  },
+  {
+    "price": 52,
+    "name": "Quality Inn Mount Pleasant",
+    "address": "2515 W. Ferguson Road, Mount Pleasant, TX, 75455 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/4500/4420/4420_46_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Candlewood Suites Mount Pleasant",
+    "address": "2407 S Jefferson Avenue \u0026 HWY US 271, Mount Pleasant, TX, 75455 United States",
+    "distance": 1.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3220000/3213000/3212914/3212914_125_l.jpg"
+  },
+  {
+    "price": 87,
+    "name": "La Quinta Inn \u0026 Suites Mt. Pleasant",
+    "address": "1620 Rotan Avenue, Mount Pleasant, TX, 75455 United States",
+    "distance": 2.2,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2600000/2594000/2593953/6c9c1f4d_l.jpg"
+  },
+  {
+    "price": 40,
+    "name": "American Inn",
+    "address": "415 NE Access road, Mount Vernon, TX, 75457 United States",
+    "distance": 14.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16150000/16149200/16149108/8e7b575e_l.jpg"
+  },
+  {
+    "price": 54,
+    "name": "Super 8 Mount Vernon",
+    "address": "401 Interstate 30 W, Mount Vernon, TX, 75457 United States",
+    "distance": 15.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/160000/158600/158532/158532_36_l.jpg"
+  }
+]

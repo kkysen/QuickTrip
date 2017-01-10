@@ -1,0 +1,34 @@
+[
+  {
+    "price": 98,
+    "name": "Holiday Inn Express \u0026 Suites Maumelle - Little Rock NW",
+    "address": "200 Holiday Dr, Maumelle, AR, 72113 United States",
+    "distance": 1.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3240000/3237300/3237294/3237294_196_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Americas Best Value Inn \u0026 Suites - N. Little Rock/Maumelle",
+    "address": "14325 Frontier Drive, Maumelle, AR, 72113 United States",
+    "distance": 2.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856300/856213/856213_84_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Quality Suites Maumelle - Little Rock NW",
+    "address": "14322 Frontier Dr, Maumelle, AR, 72113 United States",
+    "distance": 2.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/52900/52824/52824_114_l.jpg"
+  },
+  {
+    "price": 104,
+    "name": "Hampton Inn Maumelle AR",
+    "address": "11920 Maumelle Blvd, Maumelle, AR, 72113 United States",
+    "distance": 2.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/5000000/4260000/4250900/4250858/4250858_6_l.jpg"
+  }
+]

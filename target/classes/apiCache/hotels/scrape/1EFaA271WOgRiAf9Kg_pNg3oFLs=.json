@@ -1,0 +1,42 @@
+[
+  {
+    "price": 45,
+    "name": "Belen Super 8",
+    "address": "428 S Main, Belen, NM, 87002 United States",
+    "distance": 0.4,
+    "rating": 2.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42200/42155/b40ff181_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "Holiday Inn Express Belen",
+    "address": "2110 Camino Del Llano, Belen, NM, 87002 United States",
+    "distance": 0.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/899300/899283/899283_94_l.jpg"
+  },
+  {
+    "price": 100,
+    "name": "Oak Tree Inn Belen",
+    "address": "2111 Camino Del Llano, Belen, NM, 87002 United States",
+    "distance": 1.4,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/15000000/14730000/14725800/14725758/14725758_3_l.jpg"
+  },
+  {
+    "price": 91,
+    "name": "Days Inn Los Lunas NM",
+    "address": "1919 Main St Sw, Los Lunas, NM, 87031 United States",
+    "distance": 10.0,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/43200/43180/43180_221_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Quality Inn",
+    "address": "1711 Main St Sw, Los Lunas, NM, 87031 United States",
+    "distance": 11.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16000/15946/15946_36_l.jpg"
+  }
+]

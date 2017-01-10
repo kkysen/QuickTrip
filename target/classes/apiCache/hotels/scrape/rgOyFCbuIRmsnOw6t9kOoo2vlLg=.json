@@ -1,0 +1,18 @@
+[
+  {
+    "price": 101,
+    "name": "Hampton Inn Atlanta/Fayetteville",
+    "address": "110 Meeting Place Dr, Fayetteville, GA, 30214 United States",
+    "distance": 0.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1440000/1432500/1432431/1432431_38_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "Holiday Inn Express Fayetteville",
+    "address": "140 East Lanier Avenue, Fayetteville, GA, 30214 United States",
+    "distance": 0.9,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/110000/102400/102302/102302_233_l.jpg"
+  }
+]

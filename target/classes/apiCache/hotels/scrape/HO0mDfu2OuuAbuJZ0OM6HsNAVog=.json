@@ -1,0 +1,74 @@
+[
+  {
+    "price": 84,
+    "name": "Garden Suites",
+    "address": "107 N. 8th Street, La Porte, TX, 77571 United States",
+    "distance": 1.5,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1280000/1272000/1271980/1271980_60_l.jpg"
+  },
+  {
+    "price": 71,
+    "name": "Super 8 LaPorte",
+    "address": "702 Hwy 146 S, La Porte, TX, 77571 United States",
+    "distance": 1.9,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/4000000/3999400/3999329/bc942326_l.jpg"
+  },
+  {
+    "price": 135,
+    "name": "Holiday Inn Express Hotel \u0026 Suites La Porte",
+    "address": "908 W G St, La Porte, TX, 77571 United States",
+    "distance": 2.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1590000/1583200/1583130/1583130_128_l.jpg"
+  },
+  {
+    "price": 112,
+    "name": "Comfort Suites La Porte",
+    "address": "902 S 8th St, La Porte, TX, 77571 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/290000/287600/287581/287581_107_l.jpg"
+  },
+  {
+    "price": 48,
+    "name": "WoodSpring Suites Houston La Porte",
+    "address": "1506 W Fairmont Pkwy, La Porte, TX, 77571 United States",
+    "distance": 2.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1780000/1771700/1771666/e9cb7a04_l.jpg"
+  },
+  {
+    "price": 85,
+    "name": "Candlewood Suites La Porte",
+    "address": "1250 S 13th St, La Porte, TX, 77571 United States",
+    "distance": 2.2,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2240000/2233300/2233233/2233233_115_l.jpg"
+  },
+  {
+    "price": 82,
+    "name": "La Quinta Inn Houston La Porte",
+    "address": "1105 Highway 146 S, La Porte, TX, 77571 United States",
+    "distance": 2.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/22700/22695/a98c9d3c_l.jpg"
+  },
+  {
+    "price": 70,
+    "name": "Quality Inn \u0026 Suites La Porte",
+    "address": "11003 Fairmont Parkway, La Porte, TX, 77571 United States",
+    "distance": 2.2,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3180000/3173300/3173214/3173214_53_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Hampton Inn \u0026 Suites La Porte",
+    "address": "1328 Highway 146 South, La Porte, TX, 77571 United States",
+    "distance": 2.3,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12750000/12741800/12741765/12741765_19_l.jpg"
+  }
+]

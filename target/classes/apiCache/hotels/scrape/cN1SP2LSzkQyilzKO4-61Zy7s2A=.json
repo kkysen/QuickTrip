@@ -1,0 +1,50 @@
+[
+  {
+    "price": 116,
+    "name": "Hilton Garden Inn Naperville/Warrenville",
+    "address": "28351 Dodge Drive, Warrenville, IL, 60555 United States",
+    "distance": 2.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2080000/2079000/2078924/0372e3ff_l.jpg"
+  },
+  {
+    "price": 96,
+    "name": "Hyatt Place Chicago Warrenville",
+    "address": "27576 Maecliff Dr, Warrenville, IL, 60555 United States",
+    "distance": 2.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3450000/3445700/3445665/3445665_29_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "HYATT house Chicago/Naperville/Warrenville",
+    "address": "27554 Maecliff Dr, Warrenville, IL, 60555 United States",
+    "distance": 2.6,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3490000/3489500/3489478/3489478_53_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Candlewood Suites Chicago/Naperville",
+    "address": "27 W 300 Warrenville Rd, Warrenville, IL, 60555 United States",
+    "distance": 2.7,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/220000/212100/212048/212048_203_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Residence Inn by Marriott Chicago Naperville/Warrenville",
+    "address": "28500 Bella Vista Parkway, Warrenville, IL, 60555 United States",
+    "distance": 2.8,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/980000/972800/972774/972774_106_l.jpg"
+  },
+  {
+    "price": 134,
+    "name": "SpringHill Suites Warrenville by Marriott",
+    "address": "4305 Weaver Pkwy, Warrenville, IL, 60555 United States",
+    "distance": 2.8,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/90000/84800/84735/84735_95_l.jpg"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "price": 114,
+    "name": "Fairfield Inn \u0026 Suites by Marriott Keene Downtown",
+    "address": "30 Main Street, Keene, NH, 03431 United States",
+    "distance": 0.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/810000/803300/803226/803226_87_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Courtyard by Marriott Keene Downtown",
+    "address": "75 Railroad St, Keene, NH, 03431 United States",
+    "distance": 0.1,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3560000/3555900/3555821/3555821_14_l.jpg"
+  },
+  {
+    "price": 93,
+    "name": "Best Western Plus Keene Hotel",
+    "address": "401 Winchester St, Keene, NH, 03431 United States",
+    "distance": 1.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/16000/15916/15916_241_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Holiday Inn Express Keene",
+    "address": "175 Key Rd, Keene, NH, 03431 United States",
+    "distance": 1.1,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14500/14439/14439_255_l.jpg"
+  },
+  {
+    "price": 84,
+    "name": "Days Inn Keene NH",
+    "address": "3 Ash Brook Road, Keene, NH, 03431 United States",
+    "distance": 1.5,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/50400/50340/50340_82_l.jpg"
+  },
+  {
+    "price": 110,
+    "name": "The Monadnock Inn",
+    "address": "379 Main Street, Jaffrey, NH, 03452 United States",
+    "distance": 14.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1960000/1952400/1952388/1952388_9_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "Riverside Hotel, an Ascend Hotel Collection Member",
+    "address": "20 Riverside Drive, West Chesterfield, NH, 03466 United States",
+    "distance": 14.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/3000000/2880000/2877400/2877372/2877372_54_l.jpg"
+  },
+  {
+    "price": 109,
+    "name": "Jack Daniels Motor Inn",
+    "address": "80 Concord Street, Peterborough, NH, 03458 United States",
+    "distance": 17.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/4000000/3880000/3878900/3878809/3878809_38_l.jpg"
+  },
+  {
+    "price": 99,
+    "name": "Benjamin Prescott Inn",
+    "address": "433 Turnpike Rd, Jaffrey, NH, 03452 United States",
+    "distance": 17.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/13000000/12060000/12050400/12050370/12050370_21_l.jpg"
+  }
+]

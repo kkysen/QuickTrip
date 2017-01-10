@@ -1,0 +1,82 @@
+[
+  {
+    "price": 63,
+    "name": "Econo Lodge",
+    "address": "200 S Pine Ridge Ave, Merrill, WI, 54452 United States",
+    "distance": 1.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/17700/17661/17661_39_l.jpg"
+  },
+  {
+    "price": 58,
+    "name": "Plaza Hotel And Suites",
+    "address": "201 N 17th Ave, Wausau, WI, 54401 United States",
+    "distance": 15.0,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24500/24481/24481_37_l.jpg"
+  },
+  {
+    "price": 48,
+    "name": "Motel 6 Wausau",
+    "address": "116 South 17th Ave, Wausau, WI, 54401 United States",
+    "distance": 16.0,
+    "rating": 3.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/10000/7400/7349/1eb35d18_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "La Quinta Inn Wausau",
+    "address": "1910 Stewart Ave, Wausau, WI, 54401 United States",
+    "distance": 16.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/40000/39900/39884/851d2a28_l.jpg"
+  },
+  {
+    "price": 65,
+    "name": "Super 8 Wausau WI",
+    "address": "2006 Stewart Ave, Wausau, WI, 54401 United States",
+    "distance": 16.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/77200/77162/77162_114_l.jpg"
+  },
+  {
+    "price": 142,
+    "name": "Stewart Inn",
+    "address": "521 Grant Street, Wausau, WI, 54403 United States",
+    "distance": 16.0,
+    "rating": 0.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/17000000/16610000/16605300/16605201/e080acfa_l.jpg"
+  },
+  {
+    "price": 169,
+    "name": "Hampton Inn Wausau",
+    "address": "615 S 24th Avenue, Wausau, WI, 54401 United States",
+    "distance": 16.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/60000/56100/56006/56006_18_l.jpg"
+  },
+  {
+    "price": 158,
+    "name": "Courtyard by Marriott Wausau",
+    "address": "1000 S 22nd Ave, Wausau, WI, 54401 United States",
+    "distance": 16.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/120000/119100/119100/f5ff0000_l.jpg"
+  },
+  {
+    "price": 72,
+    "name": "Days Inn \u0026 Suites Wausau",
+    "address": "4700 Rib Mountain Dr, Wausau, WI, 54401 United States",
+    "distance": 19.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/70000/64600/64578/64578_222_l.jpg"
+  },
+  {
+    "price": 98,
+    "name": "Country Inn \u0026 Suites By Carlson Wausau",
+    "address": "1520 Metro Dr, Schofield, WI, 54476 United States",
+    "distance": 19.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/80000/79500/79421/79421_64_l.jpg"
+  }
+]

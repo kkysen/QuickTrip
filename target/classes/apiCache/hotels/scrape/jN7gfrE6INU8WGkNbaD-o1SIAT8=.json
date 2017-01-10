@@ -1,0 +1,82 @@
+[
+  {
+    "price": 82,
+    "name": "Quality Inn",
+    "address": "17205 S US Highway 71, Belton, MO, 64012 United States",
+    "distance": 2.7,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/520000/519900/519843/aba820b3_l.jpg"
+  },
+  {
+    "price": 64,
+    "name": "Econo Lodge Belton - Kansas City South",
+    "address": "222 Peculiar Dr, Belton, MO, 64012 United States",
+    "distance": 2.8,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/50000/42300/42295/42295_42_l.jpg"
+  },
+  {
+    "price": 118,
+    "name": "Hampton Inn Belton/Kansas City area",
+    "address": "16410 Cornerstone Drive, Belton, MO, 64012 United States",
+    "distance": 3.9,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/6000000/5690000/5685800/5685744/5685744_29_l.jpg"
+  },
+  {
+    "price": 113,
+    "name": "Holiday Inn Express Hotel \u0026 Suites Kansas City - Grandview",
+    "address": "12801 S 71 Hwy, Grandview, MO, 64030 United States",
+    "distance": 7.3,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1720000/1717400/1717372/1717372_156_l.jpg"
+  },
+  {
+    "price": 78,
+    "name": "Super 8 Lees Summit",
+    "address": "607 Se Oldham Pkwy, Lees Summit, MO, 64081 United States",
+    "distance": 8.3,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/14700/14698/09c3638c_l.jpg"
+  },
+  {
+    "price": 60,
+    "name": "Americas Best Value Inn and Suites",
+    "address": "1020 Se Blue Pkwy, Lees Summit, MO, 64063 United States",
+    "distance": 8.6,
+    "rating": 2.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/130000/120400/120375/3f514ea6_l.jpg"
+  },
+  {
+    "price": 81,
+    "name": "Comfort Inn Lees Summit @ Hwy 50 \u0026 Hwy 291",
+    "address": "963 Se Oldham Pkwy, Lees Summit, MO, 64081 United States",
+    "distance": 8.7,
+    "rating": 3.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856300/856226/856226_66_l.jpg"
+  },
+  {
+    "price": 119,
+    "name": "BestHost Inn Plaza",
+    "address": "5701 Longview Rd, Kansas City, MO, 64137 United States",
+    "distance": 8.7,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/20000/15200/15132/fd835377_l.jpg"
+  },
+  {
+    "price": 43,
+    "name": "Value Place Kansas City, MO (South)",
+    "address": "11301 Colorado Ave, Kansas City, MO, 64137 United States",
+    "distance": 9.0,
+    "rating": 4.0,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/2000000/1340000/1334300/1334228/1334228_11_l.jpg"
+  },
+  {
+    "price": 111,
+    "name": "Fairfield Inn \u0026 Suites Kansas City Lee\u0027s Summit",
+    "address": "1301 Ne Windsor Dr, Lees Summit, MO, 64086 United States",
+    "distance": 10.0,
+    "rating": 4.5,
+    "imgUrl": "https://exp.cdn-hotels.com/hotels/1000000/30000/24500/24460/24460_62_l.jpg"
+  }
+]

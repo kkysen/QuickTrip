@@ -33,8 +33,8 @@ public class SearchController implements Screen {
     private final SearchView view;
     private SearchModel model;
     
-    private FXMLLoader loader;
-    
+    private final FXMLLoader loader;
+        
     /*private final Button moreDestinationsBtn;
     private final Button searchBtn;
     private final Button backBtn;

@@ -1,8 +1,12 @@
 package io.github.kkysen.quicktrip;
 
+import io.github.kkysen.quicktrip.app.WholeNumberField;
+
 import com.google.gson.Gson;
 
 import lombok.RequiredArgsConstructor;
+
+import javafx.scene.Node;
 
 /**
  * 
@@ -20,7 +24,8 @@ public class Misc {
     }
     
     public static void main(final String[] args) {
-        System.out.println(new Misc("hello", 5).json());
+        System.out.println(Node.class.isAssignableFrom(WholeNumberField.class));
+        System.out.println(WholeNumberField.class.isInstance(Node.class));
     }
     
 }

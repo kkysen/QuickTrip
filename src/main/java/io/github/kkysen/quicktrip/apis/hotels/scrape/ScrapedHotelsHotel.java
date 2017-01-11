@@ -32,7 +32,7 @@ public class ScrapedHotelsHotel implements Hotel {
         final String priceStr = hotelWrap.getElementsByClass("pricing").get(0)
                 .getElementsByClass("price").get(0).text();
         final String[] prices = priceStr.split("\\p{Sc}"); // split on any currency symbol
-        return Integer.parseInt(prices[prices.length - 1]);
+        return Integer.parseInt(prices[prices.length - 1].replace(',', '\0'));
     }
     
     private static String parseName(final Element descriptionHCardRespModule) {

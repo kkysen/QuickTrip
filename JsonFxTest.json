@@ -1,0 +1,12 @@
+{
+    "imports": [
+        "io.github.kkysen.quicktrip.app.WholeNumberField",
+        "javafx.scene.control.Label"
+    ],
+	"Label label": {
+		"text": "testing label"
+	},
+	"WholeNumberField number": {
+		"max": "100"
+	}
+}

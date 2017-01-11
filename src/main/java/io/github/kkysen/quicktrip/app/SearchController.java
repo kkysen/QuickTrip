@@ -27,7 +27,7 @@ public class SearchController implements Screen {
     {
         Runtime.getRuntime().addShutdownHook(SAVE_MODELS_ON_EXIT);
     }
-    
+        
     private final List<SearchModel> models;
     
     private final SearchView view;
@@ -86,6 +86,9 @@ public class SearchController implements Screen {
     }
     
     private void removeModelIfInvalid() {
+        if (model == null) {
+            return; // SearchController not instantiated
+        }
         boolean isValid = false;
         try {
             isValid = model.validate();

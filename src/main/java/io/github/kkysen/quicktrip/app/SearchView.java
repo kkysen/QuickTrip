@@ -1,14 +1,13 @@
 package io.github.kkysen.quicktrip.app;
 
-import java.io.IOException;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
 import lombok.Getter;
 
-import javafx.fxml.FXML;
-import javafx.fxml.FXMLLoader;
+import javafx.geometry.Insets;
+import javafx.geometry.Pos;
 import javafx.scene.Node;
 import javafx.scene.control.Alert;
 import javafx.scene.control.Alert.AlertType;
@@ -30,26 +29,22 @@ public class SearchView {
     
     public static final String VIEW_FILE = "view/SearchScreenView.fxml";
     
-    private @FXML GridPane grid = new GridPane();
-    private final GridRows rows;
+    private final GridPane grid = new GridPane();
+    private final GridRows rows = new GridRows(grid);
     
-    private @FXML TextField origin;
-    private final @FXML DatePicker startDate;
-    private @FXML WholeNumberField numDests;
-    private @FXML WholeNumberField numPeople;
-    private @FXML WholeNumberField budget;
-    private final @FXML Button moreDestsBtn;
-    private final @FXML Button searchBtn;
-    private final @FXML Button backBtn;
-    private final @FXML Button resetBtn;
-    private final @FXML Button lastSearchBtn;
+    private final TextField origin;
+    private final DatePicker startDate;
+    private final WholeNumberField numDests;
+    private final WholeNumberField numPeople;
+    private final WholeNumberField budget;
+    private final Button moreDestsBtn;
+    private final Button searchBtn;
+    private final Button backBtn;
+    private final Button resetBtn;
+    private final Button lastSearchBtn;
     
     private final DestField dest;
     private final List<DestField> destFields = new ArrayList<>();
-    
-    private FXMLLoader loader;
-    
-    //@FXML private final String now = LocalDate.now().toString();
     
     /**
      * model and view
@@ -127,24 +122,12 @@ public class SearchView {
         
     }
     
-    /*private void setupGrid() {
+    private void setupGrid() {
         grid.setAlignment(Pos.CENTER);
         grid.setHgap(10);
         grid.setVgap(10);
         grid.setPadding(new Insets(25, 25, 25, 25));
     }
-    
-    private TextField addLabeledInputField(final String name) {
-        final Label label = new Label(name);
-        final TextField text = new TextField();
-        rows.add(label, text);
-        return text;
-    }
-    
-    private Button createButton(final String name, final int columnIndex) {
-        final Button btn = new Button(name);
-        return btn;
-    }*/
     
     /**
      * Removes all {@link DestField}s, then adds in the specified amount
@@ -222,16 +205,7 @@ public class SearchView {
         alert("");
     }
     
-    /*private WholeNumberField addWholeNumberField(final String name, final long max) {
-        final Label label = new Label(name);
-        final WholeNumberField input = new WholeNumberField(max);
-        rows.add(label, input);
-        return input;
-    }
     
-    private WholeNumberField addWholeNumberField(final String name) {
-        return addWholeNumberField(name, Long.MAX_VALUE);
-    }*/
     
     public void reset() {
         //grid = new GridPane();
@@ -250,11 +224,12 @@ public class SearchView {
         numDests.clear();
         numPeople.clear();
         budget.clear();
+        setNumDestinations(1);
         
-//        ((TextField) grid.lookup("#origin")).setText("");
-//        ((WholeNumberField) grid.lookup("#numDests")).setText("");
-//        ((WholeNumberField) grid.lookup("#numPeople")).setText("");
-//        ((WholeNumberField) grid.lookup("#budget")).setText("");
+        //        ((TextField) grid.lookup("#origin")).setText("");
+        //        ((WholeNumberField) grid.lookup("#numDests")).setText("");
+        //        ((WholeNumberField) grid.lookup("#numPeople")).setText("");
+        //        ((WholeNumberField) grid.lookup("#budget")).setText("");
         
         //rows.clear();
         //setNumDestinations(1);
@@ -298,54 +273,52 @@ public class SearchView {
         
     }
     
-    public SearchView(final FXMLLoader loader) {
-        this.loader = loader;
-        //loader.setLocation(getClass().getResource("view/SearchScreenView.fxml"));
-        //loader.setController();
+    public SearchView() {
         
-        /*try {
-        	grid = loader.load();
-        } catch (IOException e) {
-        	e.printStackTrace();
-        }*/
+        setupGrid();
         
-        //setupGrid();
-        //reset();
-        
+        final Label originLabel = new Label("Origin Address");
         origin = new TextField();
-        moreDestsBtn = new Button();
-        numDests = new WholeNumberField();
-        numPeople = new WholeNumberField();
-        budget = new WholeNumberField();
-        searchBtn = new Button();
-        backBtn = new Button();
-        resetBtn = new Button();
-        lastSearchBtn = new Button();
+        rows.add(originLabel, origin);
         
-        try {
-            grid = loader.load();
-        } catch (final IOException e) {
-            e.printStackTrace();
-        }
-                
-        origin = (TextField) grid.lookup("#origin");
+        final Label startDateLabel = new Label("Start Date");
+        startDate = new DatePicker(LocalDate.now());
+        rows.add(startDateLabel, startDate);
         
-        startDate = (DatePicker) grid.lookup("#startDate");
-        startDate.setValue(LocalDate.now());
+        rows.emptyRow();
         
-        numDests = (WholeNumberField) grid.lookup("#numDests");
-        numDests.setMax(23);
-        
-        numPeople = (WholeNumberField) grid.lookup("#numPeople");
-        numPeople.setMax(1000);
-        
-        budget = (WholeNumberField) grid.lookup("#budget");
-        budget.setMax(Long.MAX_VALUE);
+        final Label addressLabel = new Label("Address");
+        final Label numDaysLabel = new Label("Number of Days");
+        rows.add(null, addressLabel, numDaysLabel);
         
         dest = new DestField(0);
-        grid.addRow(2, dest.toNodeArray());
+        rows.addNodes(dest);
         
-        rows = new GridRows(grid);
+        final Label numDestsLabel = new Label("Number of Destinations");
+        numDests = new WholeNumberField(23);
+        moreDestsBtn = new Button("Set Number of Destinations");
+        rows.add(numDestsLabel, numDests, moreDestsBtn);
+        
+        rows.emptyRow();
+        
+        final Label numPeopleLabel = new Label("Number of People");
+        numPeople = new WholeNumberField(100);
+        rows.add(numPeopleLabel, numPeople);
+        
+        final Label budgetLabel = new Label("Budget");
+        budget = new WholeNumberField();
+        rows.add(budgetLabel, budget);
+        
+        rows.emptyRow();
+        
+        searchBtn = new Button("Search");
+        lastSearchBtn = new Button("Last Search");
+        resetBtn = new Button("Reset");
+        rows.add(lastSearchBtn, searchBtn, resetBtn);
+        
+        backBtn = new Button("Back");
+        rows.add(null, backBtn);
+        
     }
     
 }

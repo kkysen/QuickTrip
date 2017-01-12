@@ -30,6 +30,12 @@ public class QuickTrip extends Application {
         stage.show();
     }
     
+    @Override
+    public void stop() throws Exception {
+        SCREENS.get(SearchController.class).serializeModels();
+        super.stop();
+    }
+    
     public static void main(final String[] args) {
         launch(args);
     }

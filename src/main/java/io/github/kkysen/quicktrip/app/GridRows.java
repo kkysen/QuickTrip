@@ -13,6 +13,7 @@ import java.util.stream.Collectors;
 
 import javafx.collections.ObservableList;
 import javafx.scene.Node;
+import javafx.scene.control.Label;
 import javafx.scene.layout.GridPane;
 
 public class GridRows {
@@ -23,7 +24,7 @@ public class GridRows {
     private final Map<Integer, Nodes> rowsWithNodes = new HashMap<>();
     private int size = 0;
     
-    private void addExistingNodesInGridPane() {
+    public void addExistingNodesInGridPane() {
         final Map<Integer, Map<Integer, Node>> nodeLocations = new TreeMap<>();
         for (final Node node : childList) {
             //System.out.println("node: " + node);
@@ -56,21 +57,33 @@ public class GridRows {
     private void addGridRow(final int rowIndex, final Node... children) {
         //System.out.println(rowIndex + ": " + Arrays.toString(children));
         //remove(children);
-//        for (final Node child : children) {
-//            child.setOnMouseClicked(event -> {
-//                System.out.println("\n" + child + "\n");
-//                rows.forEach(nodes -> System.out.println(Arrays.toString(nodes)));
-//            });
-//        }
+        //        for (final Node child : children) {
+        //            child.setOnMouseClicked(event -> {
+        //                System.out.println("\n" + child + "\n");
+        //                rows.forEach(nodes -> System.out.println(Arrays.toString(nodes)));
+        //            });
+        //        }
         //grid.addRow(rowIndex, children);
+        if (children == null) {
+            grid.add(new Label(), 0, size);
+            return;
+        }
         for (int i = 0; i < children.length; i++) {
-            grid.add(children[i], i, rowIndex);
+            Node child = children[i];
+            if (child == null) {
+                child = new Label();
+            }
+            grid.add(child, i, rowIndex);
         }
     }
     
     public void add(final Node... children) {
         rows.add(children);
         addGridRow(size++, children);
+    }
+    
+    public void emptyRow() {
+        add((Node[]) null);
     }
     
     public void addNodes(final Nodes nodes) {

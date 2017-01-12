@@ -11,7 +11,7 @@ import java.util.List;
 
 import com.google.gson.reflect.TypeToken;
 
-import javafx.fxml.FXMLLoader;
+import javafx.scene.control.Button;
 import javafx.scene.layout.Pane;
 
 /**
@@ -25,36 +25,30 @@ public class SearchController implements Screen {
     
     private final Thread SAVE_MODELS_ON_EXIT = new Thread(this::serializeModels);
     {
-        Runtime.getRuntime().addShutdownHook(SAVE_MODELS_ON_EXIT);
+        //Runtime.getRuntime().addShutdownHook(SAVE_MODELS_ON_EXIT);
     }
-        
+    
     private final List<SearchModel> models;
     
     private final SearchView view;
     private SearchModel model;
     
-    private final FXMLLoader loader;
-        
-    /*private final Button moreDestinationsBtn;
+    private final Button moreDestinationsBtn;
     private final Button searchBtn;
     private final Button backBtn;
     private final Button resetBtn;
-    private final Button lastSearchBtn;*/
+    private final Button lastSearchBtn;
     
     public SearchController() {
-        /*final FXMLLoader*/ loader = new FXMLLoader();
-        loader.setLocation(getClass().getResource(SearchView.VIEW_FILE));
-        loader.setController(this);
         
-        view = new SearchView(loader);
-        //view.reset();
+        view = new SearchView();
         
-        /*moreDestinationsBtn = view.getMoreDestsBtn();
+        moreDestinationsBtn = view.getMoreDestsBtn();
         searchBtn = view.getSearchBtn();
         backBtn = view.getBackBtn();
         resetBtn = view.getResetBtn();
         lastSearchBtn = view.getLastSearchBtn();
-        addButtonActions();*/
+        addButtonActions();
         
         models = deserializeModels();
         
@@ -62,7 +56,7 @@ public class SearchController implements Screen {
         models.add(0, model);
     }
     
-    /*private void addButtonActions() {
+    private void addButtonActions() {
         moreDestinationsBtn.setOnAction(event -> addMoreDestinations());
         
         searchBtn.setOnAction(event -> search());
@@ -72,7 +66,7 @@ public class SearchController implements Screen {
         resetBtn.setOnAction(event -> view.reset());
         
         lastSearchBtn.setOnAction(event -> oldSearch());
-    }*/
+    }
     
     private List<SearchModel> deserializeModels() {
         Reader reader;
@@ -86,9 +80,6 @@ public class SearchController implements Screen {
     }
     
     private void removeModelIfInvalid() {
-        if (model == null) {
-            return; // SearchController not instantiated
-        }
         boolean isValid = false;
         try {
             isValid = model.validate();
@@ -98,7 +89,7 @@ public class SearchController implements Screen {
         }
     }
     
-    private void serializeModels() {
+    void serializeModels() {
         System.out.println("serializingModels");
         if (!QuickTrip.SCREENS.getCurrentScreen().equals(ItineraryController.class)) {
             removeModelIfInvalid();
@@ -134,9 +125,7 @@ public class SearchController implements Screen {
         } catch (final InterruptedException e) {
             throw new RuntimeException(e);
         }
-        final ItineraryController itineraryScreen = //
-                (ItineraryController) QuickTrip.SCREENS.get(ItineraryController.class);
-        itineraryScreen.load(model);
+        QuickTrip.SCREENS.get(ItineraryController.class).load(model);
         // when ItineraryScreen is finished loading, switch to it
         QuickTrip.SCREENS.load(ItineraryController.class);
     }
@@ -164,10 +153,6 @@ public class SearchController implements Screen {
         return view.getGrid();
     }
     
-    /*
-     * Button Callbacks
-     * 
-     * */
     public void addMoreDestinations() {
         final String numDestinationsInput = view.getNumDests().getText();
         model.setNumDestinationsInput(numDestinationsInput);
@@ -180,7 +165,6 @@ public class SearchController implements Screen {
             return;
         }
         view.setNumDestinations(model.getNumDestinations());
-        //view.makeMoreDests();
     }
     
     public void search() {

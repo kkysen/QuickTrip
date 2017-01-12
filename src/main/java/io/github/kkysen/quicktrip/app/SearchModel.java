@@ -20,12 +20,12 @@ import lombok.Setter;
 @NoArgsConstructor
 public class SearchModel implements Model {
     
-    private transient @Setter String originInput;
-    private transient @Setter LocalDate startDateInput;
-    private transient @Setter String numDestinationsInput;
-    private transient @Setter List<DestField> destinationInputs;
-    private transient @Setter String numPeopleInput;
-    private transient @Setter String budgetInput;
+    private transient @Setter @Validation String originInput;
+    private transient @Setter @Validation LocalDate startDateInput;
+    private transient @Setter @Validation String numDestinationsInput;
+    private transient @Setter @Validation List<DestField> destinationInputs;
+    private transient @Setter @Validation String numPeopleInput;
+    private transient @Setter @Validation String budgetInput;
     
     private transient @Getter int numDestinations;
     

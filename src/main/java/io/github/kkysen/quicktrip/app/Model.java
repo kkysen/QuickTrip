@@ -2,14 +2,17 @@ package io.github.kkysen.quicktrip.app;
 
 import io.github.kkysen.quicktrip.Constants;
 import io.github.kkysen.quicktrip.io.MyFiles;
+import io.github.kkysen.quicktrip.reflect.Reflect;
 import io.github.kkysen.quicktrip.reflect.annotations.AnnotationUtils;
 
 import java.io.IOException;
 import java.io.Reader;
+import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.util.List;
 
 /**
  * 
@@ -28,6 +31,19 @@ public interface Model {
      */
     public default boolean validate() throws InputError {
         boolean validated = true;
+        final List<Field> fields = Reflect.getFields(this);
+        for (final Field field : fields) {
+            final Validation anno = AnnotationUtils.getAnnotation(field, Validation.class);
+            if (anno != null && anno.value()) {
+                try {
+                    if (field.get(this) == null) {
+                        return false;
+                    }
+                } catch (IllegalArgumentException | IllegalAccessException e) {
+                    throw new RuntimeException(e);
+                }
+            }
+        }
         for (final Method method : getClass().getDeclaredMethods()) {
             method.setAccessible(true);
             final Validation anno = AnnotationUtils.getAnnotation(method, Validation.class);
@@ -44,6 +60,7 @@ public interface Model {
             } catch (final InvocationTargetException e) {
                 final Throwable cause = e.getCause();
                 if (cause instanceof InputError) {
+                    cause.printStackTrace();
                     throw (InputError) cause;
                 } else {
                     throw new RuntimeException(cause);

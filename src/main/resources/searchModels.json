@@ -4,18 +4,6 @@
     "startDate": "2017-01-10",
     "destinations": [
       {
-        "address": "San Francisco, CA",
-        "numDays": 2
-      }
-    ],
-    "budget": 1000,
-    "numPeople": 5
-  },
-  {
-    "origin": "Brooklyn, NY",
-    "startDate": "2017-01-10",
-    "destinations": [
-      {
         "address": "Chicago, IL",
         "numDays": 5
       }

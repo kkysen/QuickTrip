@@ -40,8 +40,9 @@ public class ScreenController {
         screens.put(screenClass, screen);
     }
     
-    public Screen get(final Class<? extends Screen> screenClass) {
-        return screens.get(screenClass);
+    @SuppressWarnings("unchecked")
+    public <T extends Screen> T get(final Class<T> screenClass) {
+        return (T) screens.get(screenClass);
     }
     
     public void load(final Class<? extends Screen> screenClass) {

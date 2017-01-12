@@ -1,7 +1,7 @@
 package io.github.kkysen.quicktrip.apis.hotels;
 
 import io.github.kkysen.quicktrip.apis.CachedApiRequest.QueryParams;
-import io.github.kkysen.quicktrip.app.Destination;
+import io.github.kkysen.quicktrip.app.data.Destination;
 
 import java.time.LocalDate;
 

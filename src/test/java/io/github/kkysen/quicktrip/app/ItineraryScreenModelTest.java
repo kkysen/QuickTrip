@@ -2,6 +2,7 @@ package io.github.kkysen.quicktrip.app;
 
 import static org.junit.Assert.assertEquals;
 
+import io.github.kkysen.quicktrip.app.data.NoDateDestination;
 import io.github.kkysen.quicktrip.io.MyFiles;
 
 import java.io.IOException;

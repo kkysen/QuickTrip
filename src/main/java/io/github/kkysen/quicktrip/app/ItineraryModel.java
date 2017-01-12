@@ -1,6 +1,10 @@
 package io.github.kkysen.quicktrip.app;
 
 import io.github.kkysen.quicktrip.apis.google.maps.directions.order.WaypointOrderRequest;
+import io.github.kkysen.quicktrip.app.data.Destination;
+import io.github.kkysen.quicktrip.app.data.Hotel;
+import io.github.kkysen.quicktrip.app.data.Hotels;
+import io.github.kkysen.quicktrip.app.data.NoDateDestination;
 import io.github.kkysen.quicktrip.optimization.simulatedAnnealing.SimulatedAnnealer;
 
 import java.io.IOException;

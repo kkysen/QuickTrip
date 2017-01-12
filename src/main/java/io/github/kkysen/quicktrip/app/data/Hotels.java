@@ -1,4 +1,4 @@
-package io.github.kkysen.quicktrip.app;
+package io.github.kkysen.quicktrip.app.data;
 
 import io.github.kkysen.quicktrip.apis.hotels.scrape.ScrapedHotelsHotel;
 import io.github.kkysen.quicktrip.optimization.simulatedAnnealing.AnnealingState;

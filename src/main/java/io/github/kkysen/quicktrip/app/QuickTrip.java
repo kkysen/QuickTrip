@@ -1,5 +1,7 @@
 package io.github.kkysen.quicktrip.app;
 
+import io.github.kkysen.quicktrip.app.javafx.ScreenController;
+
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.layout.Pane;

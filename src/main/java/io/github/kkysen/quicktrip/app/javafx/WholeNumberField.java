@@ -1,10 +1,9 @@
-package io.github.kkysen.quicktrip.app;
+package io.github.kkysen.quicktrip.app.javafx;
+
+import lombok.Getter;
 
 import javafx.beans.property.ObjectProperty;
-import javafx.beans.property.adapter.JavaBeanObjectPropertyBuilder;
 import javafx.scene.control.TextField;
-import lombok.Getter;
-import lombok.Setter;
 
 /**
  * 
@@ -20,7 +19,7 @@ public class WholeNumberField extends TextField {
     private ObjectProperty<Long> pMax;
     
     @SuppressWarnings("unchecked")
-	public WholeNumberField(long max) {
+	public WholeNumberField(final long max) {
         this.max = max;
         maxString = String.valueOf(max);
         
@@ -76,11 +75,11 @@ public class WholeNumberField extends TextField {
         return Long.parseLong(getText());
     }
     
-    public void setPMax(Long Max) {
+    public void setPMax(final Long Max) {
     	System.out.println("IT WORKS");
     }
     
-    public void setMax(long max) {
+    public void setMax(final long max) {
     	this.max = max;
     	maxString = String.valueOf(max);
     }
@@ -89,7 +88,7 @@ public class WholeNumberField extends TextField {
     public void clear() {
     	
     	super.clear();
-    	WholeNumberField field = this;
+    	final WholeNumberField field = this;
     }
     
 }

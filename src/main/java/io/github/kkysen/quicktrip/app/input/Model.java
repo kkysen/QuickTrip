@@ -1,6 +1,7 @@
-package io.github.kkysen.quicktrip.app;
+package io.github.kkysen.quicktrip.app.input;
 
 import io.github.kkysen.quicktrip.Constants;
+import io.github.kkysen.quicktrip.app.QuickTripConstants;
 import io.github.kkysen.quicktrip.io.MyFiles;
 import io.github.kkysen.quicktrip.reflect.Reflect;
 import io.github.kkysen.quicktrip.reflect.annotations.AnnotationUtils;

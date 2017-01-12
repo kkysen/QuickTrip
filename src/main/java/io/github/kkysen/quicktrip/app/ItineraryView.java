@@ -1,5 +1,9 @@
 package io.github.kkysen.quicktrip.app;
 
+import io.github.kkysen.quicktrip.app.data.Destination;
+import io.github.kkysen.quicktrip.app.data.Hotel;
+import io.github.kkysen.quicktrip.app.javafx.GridRows;
+
 import java.util.List;
 
 import lombok.Getter;

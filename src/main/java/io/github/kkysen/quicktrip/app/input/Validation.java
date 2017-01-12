@@ -1,4 +1,4 @@
-package io.github.kkysen.quicktrip.app;
+package io.github.kkysen.quicktrip.app.input;
 
 import static java.lang.annotation.ElementType.FIELD;
 import static java.lang.annotation.ElementType.METHOD;

@@ -3,8 +3,8 @@ package io.github.kkysen.quicktrip.apis.hotels.scrape;
 import io.github.kkysen.quicktrip.apis.HtmlRequest;
 import io.github.kkysen.quicktrip.apis.hotels.HotelsHotelsQuery;
 import io.github.kkysen.quicktrip.apis.hotels.MissingHotelInformationException;
-import io.github.kkysen.quicktrip.app.Destination;
-import io.github.kkysen.quicktrip.app.Hotel;
+import io.github.kkysen.quicktrip.app.data.Destination;
+import io.github.kkysen.quicktrip.app.data.Hotel;
 
 import java.lang.reflect.Type;
 import java.nio.file.Path;
@@ -48,7 +48,7 @@ public class HotelsHotelsScrapeRequest extends HtmlRequest<List<Hotel>> {
     
     @Override
     protected Type getResponseType() {
-        return new TypeToken<List<ScrapedHotelsHotel>>(){}.getType();
+        return new TypeToken<List<ScrapedHotelsHotel>>() {}.getType();
     }
     
     @Override

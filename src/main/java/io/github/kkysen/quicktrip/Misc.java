@@ -1,6 +1,6 @@
 package io.github.kkysen.quicktrip;
 
-import io.github.kkysen.quicktrip.app.WholeNumberField;
+import io.github.kkysen.quicktrip.app.javafx.WholeNumberField;
 
 import com.google.gson.Gson;
 

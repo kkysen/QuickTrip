@@ -2,8 +2,8 @@ package io.github.kkysen.quicktrip.apis.hotels.secret;
 
 import io.github.kkysen.quicktrip.apis.AbstractJsonRequest;
 import io.github.kkysen.quicktrip.apis.hotels.HotelsHotelsQuery;
-import io.github.kkysen.quicktrip.app.Destination;
-import io.github.kkysen.quicktrip.app.Hotel;
+import io.github.kkysen.quicktrip.app.data.Destination;
+import io.github.kkysen.quicktrip.app.data.Hotel;
 import io.github.kkysen.quicktrip.web.Internet;
 
 import java.io.IOException;
@@ -79,7 +79,7 @@ public class HotelsHotelsSecretRequest extends AbstractJsonRequest<List<Hotel>> 
         query.putAll(hotelsQuery.getQuery());
         query.put("pn", String.valueOf(curPageNum));
     }
-
+    
     @Override
     protected List<Hotel> deserializeFromUrl(final String url) throws IOException {
         final StringBuilder rawJson = Internet.getStringBuilder(url);

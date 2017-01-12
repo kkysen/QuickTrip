@@ -1,5 +1,7 @@
 package io.github.kkysen.quicktrip.app;
 
+import io.github.kkysen.quicktrip.app.javafx.Screen;
+
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.layout.Pane;

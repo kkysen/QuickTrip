@@ -1,7 +1,7 @@
 package io.github.kkysen.quicktrip.apis.hotels.scrape;
 
 import io.github.kkysen.quicktrip.apis.hotels.MissingHotelInformationException;
-import io.github.kkysen.quicktrip.app.Hotel;
+import io.github.kkysen.quicktrip.app.data.Hotel;
 
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;

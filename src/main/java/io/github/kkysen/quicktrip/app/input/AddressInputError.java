@@ -1,4 +1,4 @@
-package io.github.kkysen.quicktrip.app;
+package io.github.kkysen.quicktrip.app.input;
 
 import io.github.kkysen.quicktrip.apis.google.geocoding.exists.AddressExistsRequest;
 

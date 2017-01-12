@@ -1,5 +1,7 @@
 package io.github.kkysen.quicktrip.app;
 
+import io.github.kkysen.quicktrip.app.javafx.Screen;
+
 import java.io.IOException;
 
 import javafx.event.ActionEvent;
@@ -17,7 +19,8 @@ import javafx.scene.text.Text;
  * @author Stanley Lin
  */
 public class WelcomeScreen implements Screen {
-	private static final String VIEW_FILE = "view/WelcomeScreenView.fxml";
+	
+    private static final String VIEW_FILE = "view/WelcomeScreenView.fxml";
 	
     private FXMLLoader loader;
 	

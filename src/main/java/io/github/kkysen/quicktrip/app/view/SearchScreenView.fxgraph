@@ -1,6 +1,6 @@
 package io.github.kkysen.quicktrip.app.view
 
-import io.github.kkysen.quicktrip.app.WholeNumberField
+import io.github.kkysen.quicktrip.app.javafx.WholeNumberField
 
 import javafx.scene.layout.GridPane
 import javafx.geometry.Pos
@@ -12,113 +12,109 @@ import javafx.scene.control.Button
 
 import java.time.LocalDate
 
-component SearchScreenView 
-		//controlledby  io.github.kkysen.quicktrip.app.SearchScreen 
-		{
-	//define LocalDate id now
-	//define String id now
-	
-	GridPane id grid {
-		alignment : const Pos#CENTER,
-		hgap : 10,
-		vgap : 10,
-		padding : Insets {
-			top : 25,
-			right : 25,
-			bottom : 25,
-			left : 25
-		},
-		Label {
-			text : "Origin",
-			static columnIndex : 0,
-			static rowIndex : 0
-		},
-		TextField id origin {
-			static columnIndex : 1,
-			static rowIndex : 0
-		},
-		
-		Label {
-			text : "Start Date",
-			static columnIndex : 0,
-			static rowIndex : 1
-		},
-		DatePicker id startDate {
-			//need to manually set
-			//converter : idref now,
-			//showWeekNumbers : true,
-			static columnIndex : 1,
-			static rowIndex : 1
-		},
-		
-		//Dest should be here
-		//row 2
-		//DestField id 
-		
-		
-		Button id moreDestsBtn {
-			text : "Number of Destinations",
-			static columnIndex : 0,
-			static rowIndex : 3,
-			onAction : controllermethod addMoreDestinations
-		},
-		WholeNumberField id numDests {
-			//max : 23,
-			static columnIndex : 1,
-			static rowIndex : 3
-		},
-		
-		Label {
-			text : "Number of People",
-			static columnIndex : 0,
-			static rowIndex : 4
-		},
-		WholeNumberField id numPeople {
-			//max : const Long#MAX_VALUE,
-			static columnIndex : 1,
-			static rowIndex : 4
-		},
-		
-		Label {
-			text : "Budget",
-			static columnIndex : 0,
-			static rowIndex : 5
-		},
-		WholeNumberField id budget {
-			//max : const Long#MAX_VALUE,
-			static columnIndex : 1,
-			static rowIndex : 5
-		},
-		
-		Button id searchBtn {
-			text : "Search",
-			static columnIndex : 0,
-			static rowIndex : 6,
-			onAction : controllermethod search
-		},
-		
-		Button id resetBtn {
-			text : "Reset",
-			static columnIndex : 0,
-			static rowIndex : 7,
-			onAction : controllermethod onReset
-		},
-		
-		Button id backBtn {
-			text : "Back",
-			static columnIndex : 0,
-			static rowIndex : 8,
-			onAction : controllermethod onBackPressed
-		},
-		
-		Button id lastSearchBtn {
-			text : "Last Search",
-			static columnIndex : 0,
-			static rowIndex : 9,
-			onAction : controllermethod oldSearch
-		}
-		
-		
-		
-	}
+component SearchScreenView
+//controlledby  io.github.kkysen.quicktrip.app.SearchScreen 
+{
+//define LocalDate id now
+//define String id now
+    GridPane id grid {
+        alignment : const Pos#CENTER,
+        hgap : 10,
+        vgap : 10,
+        padding : Insets {
+            top : 25,
+            right : 25,
+            bottom : 25,
+            left : 25
+        },
+        Label {
+            text : "Origin",
+            static columnIndex : 0,
+            static rowIndex : 0
+        },
+        TextField id origin {
+            static columnIndex : 1,
+            static rowIndex : 0
+        },
+
+        Label {
+            text : "Start Date",
+            static columnIndex : 0,
+            static rowIndex : 1
+        },
+        DatePicker id startDate {
+        //need to manually set
+        //converter : idref now,
+        //showWeekNumbers : true,
+            static columnIndex : 1,
+            static rowIndex : 1
+        },
+
+        //Dest should be here
+        //row 2
+        //DestField id 
+        Button id moreDestsBtn {
+            text : "Number of Destinations",
+            static columnIndex : 0,
+            static rowIndex : 3,
+            onAction : controllermethod addMoreDestinations
+        },
+        WholeNumberField id numDests {
+        //max : 23,
+            static columnIndex : 1,
+            static rowIndex : 3
+        },
+
+        Label {
+            text : "Number of People",
+            static columnIndex : 0,
+            static rowIndex : 4
+        },
+        WholeNumberField id numPeople {
+        //max : const Long#MAX_VALUE,
+            static columnIndex : 1,
+            static rowIndex : 4
+        },
+
+        Label {
+            text : "Budget",
+            static columnIndex : 0,
+            static rowIndex : 5
+        },
+        WholeNumberField id budget {
+        //max : const Long#MAX_VALUE,
+            static columnIndex : 1,
+            static rowIndex : 5
+        },
+
+        Button id searchBtn {
+            text : "Search",
+            static columnIndex : 0,
+            static rowIndex : 6,
+            onAction : controllermethod search
+        },
+
+        Button id resetBtn {
+            text : "Reset",
+            static columnIndex : 0,
+            static rowIndex : 7,
+            onAction : controllermethod onReset
+        },
+
+        Button id backBtn {
+            text : "Back",
+            static columnIndex : 0,
+            static rowIndex : 8,
+            onAction : controllermethod onBackPressed
+        },
+
+        Button id lastSearchBtn {
+            text : "Last Search",
+            static columnIndex : 0,
+            static rowIndex : 9,
+            onAction : controllermethod oldSearch
+        }
+
+
+    }
 }

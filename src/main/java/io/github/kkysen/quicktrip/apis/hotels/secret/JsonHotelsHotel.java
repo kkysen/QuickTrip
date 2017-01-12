@@ -1,6 +1,6 @@
 package io.github.kkysen.quicktrip.apis.hotels.secret;
 
-import io.github.kkysen.quicktrip.app.Hotel;
+import io.github.kkysen.quicktrip.app.data.Hotel;
 import io.github.kkysen.quicktrip.json.Json;
 
 import lombok.AllArgsConstructor;

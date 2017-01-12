@@ -1,4 +1,4 @@
-package io.github.kkysen.quicktrip.app;
+package io.github.kkysen.quicktrip.app.javafx;
 
 import java.util.ArrayList;
 import java.util.Arrays;

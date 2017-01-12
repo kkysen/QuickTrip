@@ -2,7 +2,7 @@ package io.github.kkysen.quicktrip.apis.expedia;
 
 import io.github.kkysen.quicktrip.apis.QueryField;
 import io.github.kkysen.quicktrip.apis.RenderedHtmlRequest;
-import io.github.kkysen.quicktrip.app.Destination;
+import io.github.kkysen.quicktrip.app.data.Destination;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;

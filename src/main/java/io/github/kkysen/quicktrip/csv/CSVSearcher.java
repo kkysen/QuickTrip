@@ -41,32 +41,32 @@ public class CSVSearcher /*implements Iterable<List<String>>*/ {
      * @param otherIndices Any other data that should be added from each
      *            matching line
      *            of the CSV
-     * @return A thing lol containing all matching values
+     * @return A <code>List</code> of <code>String[]</code> containing all matching values
      */
-    public static List<List<String>> findAll(final Path path,
+    public static List<String[]> findAll(final Path path,
             final int targetIndex,
             final String targetValue,
             final int... otherIndices) {
-        final List<List<String>> result = new ArrayList<>();
+    	List<String[]> result = new ArrayList<>();
         final Iterator<List<String>> it = getIterator(path);
         
         List<String> line;
-        final List<String> temp = new ArrayList<>();
+        String[] temp;
+        
         int hitIndex = -1;
         while (it.hasNext()) {
-            temp.clear();
+        	temp = new String[11];
             
             line = it.next();
             if ((hitIndex = line.indexOf(targetValue)) != -1) {
-                temp.add(line.get(hitIndex));
+            	temp[hitIndex] = line.get(hitIndex);
                 
                 //Add the other optional data
                 for (final int data : otherIndices) {
-                    temp.add(line.get(data));
+                	temp[data] = line.get(data);
                 }
                 
-                result.add(new ArrayList<>(temp));
-                System.out.println(temp);
+                result.add(temp);
             }
         }
         
@@ -85,6 +85,13 @@ public class CSVSearcher /*implements Iterable<List<String>>*/ {
         final Path path = Paths.get(
                 "C:\\Users\\Stanley\\Documents\\GitHub\\QuickTrip\\src\\main\\resources\\airports\\largeAirports.csv");
         
-        CSVSearcher.findAll(path, -1, "New York", 0, 1, 2);
+        List<String[]> l = CSVSearcher.findAll(path, -1, "New York", 0, 1, 2);
+        
+        for (String[] s : l) {
+        	for (String t : s) {
+        		System.out.print(t + " ");
+        	}
+        	System.out.println();
+        }
     }
 }

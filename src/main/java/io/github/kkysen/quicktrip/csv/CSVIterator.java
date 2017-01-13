@@ -16,7 +16,7 @@ import lombok.AllArgsConstructor;
 
 
 /**
- * @author Stanley
+ * @author Stanley Lin
  */
 public class CSVIterator implements Iterator<List<String>> {
 	private final int lineSize;		//Maybe we want arrays later?

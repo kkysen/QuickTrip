@@ -10,7 +10,10 @@ import java.util.List;
 import lombok.AllArgsConstructor;
 
 /*TODO sort things by existing index order, option to not include query string in
-result list*/
+result list
+
+TODO also find closest airport to a given set of coords
+*/
 
 //@AllArgsConstructor
 public class CSVSearcher /*implements Iterable<List<String>>*/ {
@@ -67,6 +70,12 @@ public class CSVSearcher /*implements Iterable<List<String>>*/ {
 		
 		return result;
 	}
+	
+	public static List<List<String>> findRadius(final Path path,
+			final double lat,
+			final double lon,
+			final double radius
+			int)
 	
 	public static void main(String[] args) {
 		Path path = Paths.get("C:\\Users\\Stanley\\Documents\\GitHub\\QuickTrip\\src\\main\\resources\\airports\\largeAirports.csv");

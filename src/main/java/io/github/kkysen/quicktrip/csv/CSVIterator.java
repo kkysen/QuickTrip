@@ -7,12 +7,9 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Iterator;
 import java.util.List;
-
-import lombok.AllArgsConstructor;
 
 
 /**
@@ -37,12 +34,13 @@ public class CSVIterator implements Iterator<List<String>> {
 	public CSVIterator(final Path path,
 			final int size,
 			final Charset charset) {
-		if (!path.toString().endsWith(".csv")) 
-			throw new IllegalArgumentException("Not a CSV (please append .csv)");
+		if (!path.toString().endsWith(".csv")) {
+            throw new IllegalArgumentException("Not a CSV (please append .csv)");
+        }
 		
 		try {
 			reader = Files.newBufferedReader(path, charset);
-		} catch (IOException e) {
+		} catch (final IOException e) {
 			e.printStackTrace();
 		}
 		
@@ -63,7 +61,7 @@ public class CSVIterator implements Iterator<List<String>> {
 	public boolean hasNext() {
 		try {
 			line = reader.readLine();
-		} catch (IOException e) {
+		} catch (final IOException e) {
 			e.printStackTrace();
 		}
 		return line != null;
@@ -78,13 +76,13 @@ public class CSVIterator implements Iterator<List<String>> {
 		return Arrays.asList(line.split(","));
 	}
 	
-	public static void main(String[] args) {
-		CSVIterator c = new CSVIterator(
+	public static void main(final String[] args) {
+		final CSVIterator c = new CSVIterator(
 				Paths.get("C:\\Users\\Stanley\\Documents\\GitHub\\QuickTrip\\src\\main\\resources\\airports\\largeAirports.csv"),
 				11,
 				StandardCharsets.UTF_8);
 		while (c.hasNext()) {
 			System.out.println(c.next());
-		}
-	}
+        }
+    }
 }

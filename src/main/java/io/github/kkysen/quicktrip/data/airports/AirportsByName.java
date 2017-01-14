@@ -17,6 +17,7 @@ import java.util.stream.Collectors;
  * 
  * @author Khyber Sen
  */
+@Deprecated
 public class AirportsByName {
     
     private static final Path DIR = Paths.get("src", "main", "resources", "airports");

@@ -18,6 +18,7 @@ public class GoogleApiResponse {
     
     public GoogleApiResponse(final String status) {
         this.status = status;
+        isOk();
     }
     
     public boolean isOk() {

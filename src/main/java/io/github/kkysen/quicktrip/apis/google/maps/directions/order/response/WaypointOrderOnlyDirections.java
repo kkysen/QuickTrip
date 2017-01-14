@@ -6,10 +6,8 @@ import java.util.List;
 
 import com.google.gson.annotations.SerializedName;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
+import lombok.RequiredArgsConstructor;
 
 /**
  * 
@@ -17,10 +15,8 @@ import lombok.Setter;
  * @author Khyber Sen
  */
 @Json
-@NoArgsConstructor
-@AllArgsConstructor
+@RequiredArgsConstructor
 @Getter
-@Setter
 public class WaypointOrderOnlyDirections {
     
     @SerializedName("routes")

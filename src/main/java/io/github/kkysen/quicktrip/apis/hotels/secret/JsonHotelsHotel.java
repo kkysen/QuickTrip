@@ -3,8 +3,8 @@ package io.github.kkysen.quicktrip.apis.hotels.secret;
 import io.github.kkysen.quicktrip.app.data.Hotel;
 import io.github.kkysen.quicktrip.json.Json;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
+import lombok.RequiredArgsConstructor;
 
 /**
  * 
@@ -12,10 +12,8 @@ import lombok.Getter;
  * @author Khyber Sen
  */
 @Json
-//@NoArgsConstructor // my own Adapter uses AllArgsConstructor only
-@AllArgsConstructor
+@RequiredArgsConstructor
 @Getter
-//@Setter // final fields
 public class JsonHotelsHotel implements Hotel {
     
     /*

@@ -2,10 +2,8 @@ package io.github.kkysen.quicktrip.app.data;
 
 import io.github.kkysen.quicktrip.json.Json;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
+import lombok.RequiredArgsConstructor;
 
 /**
  * 
@@ -13,13 +11,11 @@ import lombok.Setter;
  * @author Khyber Sen
  */
 @Json
-@NoArgsConstructor
-@AllArgsConstructor
+@RequiredArgsConstructor
 @Getter
-@Setter
 public class NoDateDestination {
     
-    private String address;
-    private int numDays;
+    private final String address;
+    private final int numDays;
     
 }

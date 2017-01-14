@@ -19,11 +19,11 @@ import com.google.gson.reflect.TypeToken;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 
-@JsonAdapter(GoogleFlightsApiRequestAdapter.class)
+@JsonAdapter(GoogleFlightsRequestAdapter.class)
 @Json
 @RequiredArgsConstructor
 @Getter
-public class GoogleFlightsApiRequest extends GoogleApiPostRequest<List<GoogleFlight>> {
+public class GoogleFlightsRequest extends GoogleApiPostRequest<List<GoogleFlight>> {
     
     private static final Type RESPONSE_TYPE = new TypeToken<List<GoogleFlight>>() {}.getType();
     
@@ -35,12 +35,12 @@ public class GoogleFlightsApiRequest extends GoogleApiPostRequest<List<GoogleFli
     private final int numPeople;
     private final int numSolutions;
     
-    public GoogleFlightsApiRequest(final Airport origin, final Airport destination,
+    public GoogleFlightsRequest(final Airport origin, final Airport destination,
             final LocalDate date, final int numPeople) {
         this(origin, destination, date, numPeople, 1);
     }
     
-    public GoogleFlightsApiRequest(final Airport origin, final Airport destination,
+    public GoogleFlightsRequest(final Airport origin, final Airport destination,
             final int numPeople) {
         this(origin, destination, LocalDate.now(), numPeople);
     }
@@ -74,7 +74,7 @@ public class GoogleFlightsApiRequest extends GoogleApiPostRequest<List<GoogleFli
     public static void main(final String[] args) throws IOException {
         final Airport jfk = Airport.fromIataCode("JFK");
         final Airport sfo = Airport.fromIataCode("SFO");
-        final GoogleFlightsApiRequest request = new GoogleFlightsApiRequest(jfk, sfo, 5);
+        final GoogleFlightsRequest request = new GoogleFlightsRequest(jfk, sfo, 5);
         final List<GoogleFlight> response = request.getResponse();
         response.forEach(System.out::println);
     }

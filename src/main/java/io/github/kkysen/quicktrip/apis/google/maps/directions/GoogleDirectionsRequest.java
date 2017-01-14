@@ -1,7 +1,7 @@
 package io.github.kkysen.quicktrip.apis.google.maps.directions;
 
 import io.github.kkysen.quicktrip.apis.QueryField;
-import io.github.kkysen.quicktrip.apis.google.maps.GoogleMapsApiRequest;
+import io.github.kkysen.quicktrip.apis.google.maps.GoogleMapsRequest;
 import io.github.kkysen.quicktrip.apis.google.maps.directions.response.Directions;
 
 import java.io.IOException;
@@ -13,15 +13,15 @@ import java.util.List;
  * 
  * @author Khyber Sen
  */
-public class DirectionsApiRequest extends GoogleMapsApiRequest<Directions> {
+public class GoogleDirectionsRequest extends GoogleMapsRequest<Directions> {
     
     private final @QueryField String origin;
     private final @QueryField String destination;
     private final @QueryField String mode = "driving";
     private final @QueryField String waypoints;
-    private final @QueryField String units = "imperial";
+    private final @QueryField String units = "metric";
     
-    public DirectionsApiRequest(final String origin, final String destination,
+    public GoogleDirectionsRequest(final String origin, final String destination,
             final List<String> waypoints, final boolean optimize) {
         this.origin = origin;
         this.destination = destination;
@@ -31,17 +31,17 @@ public class DirectionsApiRequest extends GoogleMapsApiRequest<Directions> {
         this.waypoints = String.join("|", waypoints);
     }
     
-    public DirectionsApiRequest(final String origin, final String destination,
+    public GoogleDirectionsRequest(final String origin, final String destination,
             final List<String> waypoints) {
         this(origin, destination, waypoints, true);
     }
     
-    public DirectionsApiRequest(final String origin, final List<String> waypoints,
+    public GoogleDirectionsRequest(final String origin, final List<String> waypoints,
             final boolean optimize) {
         this(origin, origin, waypoints, optimize);
     }
     
-    public DirectionsApiRequest(final String origin, final List<String> waypoints) {
+    public GoogleDirectionsRequest(final String origin, final List<String> waypoints) {
         this(origin, origin, waypoints, true);
     }
     
@@ -67,7 +67,7 @@ public class DirectionsApiRequest extends GoogleMapsApiRequest<Directions> {
     
     public static Directions request(final String origin, final List<String> waypoints)
             throws IOException {
-        return new DirectionsApiRequest(origin, waypoints).getResponse();
+        return new GoogleDirectionsRequest(origin, waypoints).getResponse();
     }
     
 }

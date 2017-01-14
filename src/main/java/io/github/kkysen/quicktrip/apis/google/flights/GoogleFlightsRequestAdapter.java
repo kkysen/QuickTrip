@@ -11,10 +11,10 @@ import com.google.gson.stream.JsonWriter;
  * 
  * @author Khyber Sen
  */
-public class GoogleFlightsApiRequestAdapter extends TypeAdapter<GoogleFlightsApiRequest> {
+public class GoogleFlightsRequestAdapter extends TypeAdapter<GoogleFlightsRequest> {
     
     @Override
-    public void write(final JsonWriter out, final GoogleFlightsApiRequest value)
+    public void write(final JsonWriter out, final GoogleFlightsRequest value)
             throws IOException {
         // @formatter:off
         out.beginObject()
@@ -39,7 +39,7 @@ public class GoogleFlightsApiRequestAdapter extends TypeAdapter<GoogleFlightsApi
     }
     
     @Override
-    public GoogleFlightsApiRequest read(final JsonReader in) throws IOException {
+    public GoogleFlightsRequest read(final JsonReader in) throws IOException {
         return null; // not used
     }
     

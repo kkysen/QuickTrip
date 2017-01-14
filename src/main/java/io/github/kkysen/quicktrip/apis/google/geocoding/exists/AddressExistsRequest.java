@@ -1,8 +1,7 @@
 package io.github.kkysen.quicktrip.apis.google.geocoding.exists;
 
 import io.github.kkysen.quicktrip.apis.QueryField;
-import io.github.kkysen.quicktrip.apis.google.geocoding.exists.response.AddressExistence;
-import io.github.kkysen.quicktrip.apis.google.maps.GoogleMapsApiRequest;
+import io.github.kkysen.quicktrip.apis.google.maps.GoogleMapsRequest;
 
 import java.io.IOException;
 import java.nio.file.Path;
@@ -15,7 +14,7 @@ import lombok.RequiredArgsConstructor;
  * @author Khyber Sen
  */
 @RequiredArgsConstructor
-public class AddressExistsRequest extends GoogleMapsApiRequest<AddressExistence> {
+public class AddressExistsRequest extends GoogleMapsRequest<AddressExistence> {
     
     private final @QueryField String address;
     private final @QueryField String fields = "status";

@@ -6,10 +6,8 @@ import java.util.List;
 
 import com.google.gson.annotations.SerializedName;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
+import lombok.RequiredArgsConstructor;
 
 /**
  * 
@@ -17,20 +15,17 @@ import lombok.Setter;
  * @author Khyber Sen
  */
 @Json
-@NoArgsConstructor
-@AllArgsConstructor
+@RequiredArgsConstructor
 @Getter
-@Setter
 public class Waypoint {
     
-    @SerializedName("geocoder_staus")
-    private String status;
+    @SerializedName("geocoder_status")
+    private final String status;
     
     @SerializedName("place_id")
-    private String id;
+    private final String placeId;
     
-    @SerializedName("types")
-    private List<String> types;
+    private final List<String> types;
     //private List<WaypointType> types;
     
 }

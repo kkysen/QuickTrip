@@ -6,10 +6,8 @@ import java.util.List;
 
 import com.google.gson.annotations.SerializedName;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
+import lombok.RequiredArgsConstructor;
 
 /**
  * 
@@ -17,31 +15,24 @@ import lombok.Setter;
  * @author Khyber Sen
  */
 @Json
-@NoArgsConstructor
-@AllArgsConstructor
+@RequiredArgsConstructor
 @Getter
-@Setter
 public class Route {
     
-    @SerializedName("bounds")
-    private Bounds bounds;
+    private final Bounds bounds;
     
-    @SerializedName("coprights")
-    private String copyrights;
+    private final String copyrights;
     
-    @SerializedName("legs")
-    private List<Leg> legs;
+    private final List<Leg> legs;
     
     @SerializedName("overview_polyline")
-    private Polyline polyline;
+    private final Polyline polyline;
     
-    @SerializedName("summary")
-    private String summary;
+    private final String summary;
     
-    @SerializedName("warnings")
-    private List<String> warnings; // FIXME not sure if supposed to be String
+    private final List<String> warnings; // FIXME not sure if supposed to be String
     
     @SerializedName("waypoint_order")
-    private List<Integer> waypointOrder;
+    private final List<Integer> waypointOrder;
     
 }

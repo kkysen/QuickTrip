@@ -1,4 +1,4 @@
-package io.github.kkysen.quicktrip.apis.google.flights;
+package io.github.kkysen.quicktrip.apis.google;
 
 import io.github.kkysen.quicktrip.json.Json;
 
@@ -13,8 +13,8 @@ import lombok.RequiredArgsConstructor;
 @Json
 @RequiredArgsConstructor
 @Getter
-public class GoogleFlight {
+public class GoogleApiResponse {
     
-    
+    protected final String status;
     
 }

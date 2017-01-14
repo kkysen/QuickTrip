@@ -1,5 +1,6 @@
 package io.github.kkysen.quicktrip.apis.google.maps.directions.response;
 
+import io.github.kkysen.quicktrip.apis.google.GoogleApiResponse;
 import io.github.kkysen.quicktrip.json.Json;
 import io.github.kkysen.quicktrip.reflect.Reflect;
 
@@ -7,10 +8,7 @@ import java.util.List;
 
 import com.google.gson.annotations.SerializedName;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
 
 /**
  * 
@@ -18,20 +16,21 @@ import lombok.Setter;
  * @author Khyber Sen
  */
 @Json
-@NoArgsConstructor
-@AllArgsConstructor
+//@RequiredArgsConstructor need super call
 @Getter
-@Setter
-public class Directions {
+public class Directions extends GoogleApiResponse {
     
     @SerializedName("geocoded_waypoints")
-    private List<Waypoint> waypoints;
+    private final List<Waypoint> waypoints;
     
-    @SerializedName("routes")
-    private List<Route> routes;
+    private final List<Route> routes;
     
-    @SerializedName("status")
-    private String status;
+    public Directions(final String status, final List<Waypoint> waypoints,
+            final List<Route> routes) {
+        super(status);
+        this.waypoints = waypoints;
+        this.routes = routes;
+    }
     
     @Override
     public String toString() {

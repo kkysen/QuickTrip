@@ -3,7 +3,6 @@ package io.github.kkysen.quicktrip.app;
 import io.github.kkysen.quicktrip.app.data.NoDateDestination;
 import io.github.kkysen.quicktrip.app.input.AddressInputError;
 import io.github.kkysen.quicktrip.app.input.EmptyInputError;
-import io.github.kkysen.quicktrip.app.input.InputError;
 import io.github.kkysen.quicktrip.app.input.Model;
 import io.github.kkysen.quicktrip.app.input.Validation;
 import io.github.kkysen.quicktrip.app.input.WholeNumberInputError;
@@ -98,9 +97,8 @@ public class SearchView {
         /**
          * makes an error dialog if the address does not exist
          * 
+         * @throws AddressInputError if the address doesn't exist
          * @throws EmptyInputError if there's no address
-         * 
-         * @throws InputError if the address doesn't exist
          */
         @Validation
         private boolean validateAddress() throws AddressInputError, EmptyInputError {
@@ -215,8 +213,6 @@ public class SearchView {
     private void alert() {
         alert("");
     }
-    
-    
     
     public void reset() {
         //grid = new GridPane();

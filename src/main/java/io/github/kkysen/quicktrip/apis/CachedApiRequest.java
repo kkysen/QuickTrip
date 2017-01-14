@@ -715,21 +715,22 @@ public abstract class CachedApiRequest<R> implements Request<R> {
         for (final Entry<Field, Object> entry : queryEntries.entrySet()) {
             final Field queryField = entry.getKey();
             final String value = entry.getValue().toString();
-            // if the value of this query is an empty String, then skip it
-            if (!value.isEmpty()) {
-                // if QueryField.name() has been overriden and returns something other than an empty String, 
-                // then change the name of this query to QueryField.name()
-                // otherwise use the name of the actual Field
-                final QueryField annotation = field2annotation.get(queryField);
-                String name = annotation.name();
-                if (name.isEmpty()) {
-                    name = queryField.getName();
-                }
-                if (annotation.encode()) {
-                    query.put(name, value);
-                } else {
-                    query.putRaw(name, value);
-                }
+            // if the value of this query is null or an empty String, then skip it
+            if (value == null || value.isEmpty()) {
+                continue;
+            }
+            // if QueryField.name() has been overriden and returns something other than an empty String, 
+            // then change the name of this query to QueryField.name()
+            // otherwise use the name of the actual Field
+            final QueryField annotation = field2annotation.get(queryField);
+            String name = annotation.name();
+            if (name.isEmpty()) {
+                name = queryField.getName();
+            }
+            if (annotation.encode()) {
+                query.put(name, value);
+            } else {
+                query.putRaw(name, value);
             }
         }
     }
@@ -841,20 +842,16 @@ public abstract class CachedApiRequest<R> implements Request<R> {
      * response to the HTTP request and then caches it.
      * 
      * @return the response for this request
-     * @throws IOException if anything goes wrong in
-     *             {@link #cache(Path, Object)},
-     *             {@link #deserializeFromFile(Path)},
-     *             or {@link #deserializeFromUrl(String)}
      */
     @Override
-    public R getResponse() throws IOException {
+    public R getResponse() throws ApiRequestException {
         if (response == null) {
             setUrl();
             final Thread setNonCachedResponse = new Thread(this::setNonCachedResponse);
             try {
                 setNonCachedResponse.run();
             } catch (final RuntimeIOException e) {
-                throw e.getCause();
+                throw new ApiRequestException(this, e.getCause());
             }
         }
         return response;

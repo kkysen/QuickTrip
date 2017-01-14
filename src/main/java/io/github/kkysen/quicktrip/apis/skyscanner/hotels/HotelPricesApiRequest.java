@@ -1,5 +1,6 @@
 package io.github.kkysen.quicktrip.apis.skyscanner.hotels;
 
+import io.github.kkysen.quicktrip.apis.ApiRequestException;
 import io.github.kkysen.quicktrip.apis.skyscanner.SkyscannerApiRequest;
 import io.github.kkysen.quicktrip.apis.skyscanner.hotels.prices.response.HotelResponse;
 
@@ -10,8 +11,6 @@ import java.util.Currency;
 import java.util.GregorianCalendar;
 import java.util.List;
 import java.util.Locale;
-
-import com.google.gson.GsonBuilder;
 
 /**
  * 
@@ -109,7 +108,7 @@ public class HotelPricesApiRequest extends SkyscannerApiRequest<HotelResponse> {
         return HotelResponse.class;
     }
     
-    public static void main(final String[] args) throws IOException {
+    public static void main(final String[] args) throws ApiRequestException {
         final HotelPricesApiRequest request = new HotelPricesApiRequest(
                 "US",
                 Locale.US,

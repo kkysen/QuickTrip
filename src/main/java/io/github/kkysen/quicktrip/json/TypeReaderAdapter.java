@@ -1,5 +1,7 @@
 package io.github.kkysen.quicktrip.json;
 
+import io.github.kkysen.quicktrip.io.IOFunction;
+
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.HashSet;

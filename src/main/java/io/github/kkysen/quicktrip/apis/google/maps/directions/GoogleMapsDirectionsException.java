@@ -7,6 +7,8 @@ package io.github.kkysen.quicktrip.apis.google.maps.directions;
  */
 public class GoogleMapsDirectionsException extends RuntimeException {
     
+    private static final long serialVersionUID = -6212081394000806303L;
+    
     public GoogleMapsDirectionsException() {
         super();
     }
@@ -17,7 +19,5 @@ public class GoogleMapsDirectionsException extends RuntimeException {
     public GoogleMapsDirectionsException(final String url) {
         super(url);
     }
-    
-    private static final long serialVersionUID = -6212081394000806303L;
     
 }

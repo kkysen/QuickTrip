@@ -14,9 +14,9 @@ import java.lang.annotation.Target;
  * will be found through reflection and added to the
  * {@link QueryParams} in {@link CachedApiRequest}
  * if {@link #include()} = false, then it will not be automatically added and must be done
- * in {@link CachedApiRequest#modifyQuery(java.util.Map)}
+ * in {@link CachedApiRequest#modifyQuery(QueryParams)}
  * 
- * @see CachedApiRequest#modifyQuery(java.util.Map)
+ * @see CachedApiRequest#modifyQuery(QueryParams)
  * @see CachedApiRequest#reflectQuery()
  * 
  * @author Khyber Sen

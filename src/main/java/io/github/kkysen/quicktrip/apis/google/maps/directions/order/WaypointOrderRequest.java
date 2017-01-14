@@ -1,7 +1,8 @@
 package io.github.kkysen.quicktrip.apis.google.maps.directions.order;
 
+import io.github.kkysen.quicktrip.apis.ApiRequestException;
 import io.github.kkysen.quicktrip.apis.QueryField;
-import io.github.kkysen.quicktrip.apis.google.maps.GoogleMapsApiRequest;
+import io.github.kkysen.quicktrip.apis.google.maps.GoogleMapsRequest;
 import io.github.kkysen.quicktrip.apis.google.maps.directions.GoogleMapsDirectionsException;
 import io.github.kkysen.quicktrip.apis.google.maps.directions.order.response.WaypointOrderOnlyDirections;
 
@@ -22,7 +23,7 @@ import lombok.RequiredArgsConstructor;
  * @param <E> NoDateDestination class containing the String address
  */
 @RequiredArgsConstructor
-public class WaypointOrderRequest<E> extends GoogleMapsApiRequest<WaypointOrderOnlyDirections> {
+public class WaypointOrderRequest<E> extends GoogleMapsRequest<WaypointOrderOnlyDirections> {
     
     private final @QueryField String origin;
     private final @QueryField(include = false) List<E> destinations;
@@ -57,7 +58,7 @@ public class WaypointOrderRequest<E> extends GoogleMapsApiRequest<WaypointOrderO
         query.put("destination", origin);
     }
     
-    private List<Integer> destinationOrder() throws IOException {
+    private List<Integer> destinationOrder() throws ApiRequestException {
         final WaypointOrderOnlyDirections response = getResponse();
         if (response == null) {
             throw new GoogleMapsDirectionsException(getUrl());

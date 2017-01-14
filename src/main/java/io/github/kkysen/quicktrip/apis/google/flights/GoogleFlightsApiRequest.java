@@ -1,6 +1,7 @@
 package io.github.kkysen.quicktrip.apis.google.flights;
 
 import io.github.kkysen.quicktrip.apis.google.GoogleApiPostRequest;
+import io.github.kkysen.quicktrip.data.airports.Airport;
 import io.github.kkysen.quicktrip.json.Json;
 
 import java.io.IOException;
@@ -28,18 +29,18 @@ public class GoogleFlightsApiRequest extends GoogleApiPostRequest<List<GoogleFli
     
     private static final String BASE_URL = "https://www.googleapis.com/qpxExpress/v1/trips/search";
     
-    private final String origin;
-    private final String destination;
+    private final Airport origin;
+    private final Airport destination;
     private final LocalDate date;
     private final int numPeople;
     private final int numSolutions;
     
-    public GoogleFlightsApiRequest(final String origin, final String destination,
+    public GoogleFlightsApiRequest(final Airport origin, final Airport destination,
             final LocalDate date, final int numPeople) {
         this(origin, destination, date, numPeople, 1);
     }
     
-    public GoogleFlightsApiRequest(final String origin, final String destination,
+    public GoogleFlightsApiRequest(final Airport origin, final Airport destination,
             final int numPeople) {
         this(origin, destination, LocalDate.now(), numPeople);
     }
@@ -71,7 +72,9 @@ public class GoogleFlightsApiRequest extends GoogleApiPostRequest<List<GoogleFli
     }
     
     public static void main(final String[] args) throws IOException {
-        final GoogleFlightsApiRequest request = new GoogleFlightsApiRequest("JFK", "SFO", 5);
+        final Airport jfk = Airport.fromIataCode("JFK");
+        final Airport sfo = Airport.fromIataCode("SFO");
+        final GoogleFlightsApiRequest request = new GoogleFlightsApiRequest(jfk, sfo, 5);
         final List<GoogleFlight> response = request.getResponse();
         response.forEach(System.out::println);
     }

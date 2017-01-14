@@ -56,6 +56,10 @@ public class Airport {
         this(splitQuotedCsv(csvLine));
     }
     
+    public static Airport fromIataCode(final String iataCode) {
+        return new Airport(",,,,,,,,," + iataCode + ",");
+    }
+    
     public static void main(final String[] args) {
         final String s = "\"\"\"Der Dingel\"\" Airfield\",51.536,9.3805,718,EU,DE,DE-HE,Hofgeismar,,,";
         System.out.println(splitQuotedCsv(s).length);

@@ -2,6 +2,7 @@ package io.github.kkysen.quicktrip.data.airports;
 
 import io.github.kkysen.quicktrip.Constants;
 import io.github.kkysen.quicktrip.apis.google.LatLng;
+import io.github.kkysen.quicktrip.apis.google.geocoding.Geolocation;
 import io.github.kkysen.quicktrip.io.MyFiles;
 
 import java.io.IOException;
@@ -11,6 +12,7 @@ import java.nio.file.Paths;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 /**
  * 
@@ -54,9 +56,23 @@ public class Airports {
     /**
      * @param location geolocation to search from
      * @param radius radius in meters
+     * 
+     * @return a Stream of Airports within the radius, sorted by prominence
+     *         (largeness) and distance
      */
-    public void inRadius(final LatLng location, final int radius) {
-        
+    public Stream<Airport> inRadius(final Geolocation location, final int radius) {
+        final LatLng latLng = location.getLocation();
+        return airportsByCountry.get(location.getCountry())
+                .stream()
+                .filter(airport -> latLng.approximateInRadius(airport.getLocation(), radius))
+                .filter(airport -> {
+                    final double distanceTo = latLng.distanceTo(airport.getLocation());
+                    airport.setDistanceTo(distanceTo);
+                    return distanceTo < radius;
+                })
+                .sorted((airport1, airport2) -> {
+                    return (int) (airport1.getDistanceTo() - airport2.getDistanceTo());
+                });
     }
     
 }

@@ -8,6 +8,7 @@ import java.util.List;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
+import lombok.Setter;
 
 /**
  * 
@@ -45,6 +46,8 @@ public class Airport {
     private final String gpsCode;
     private final String iataCode;
     private final String localCode;
+    
+    private transient @Setter double distanceTo;
     
     public Airport(final String[] splitCsv) {
         this(Type.get(splitCsv[0]), splitCsv[1], new LatLng(splitCsv[2], splitCsv[3]), splitCsv[4],

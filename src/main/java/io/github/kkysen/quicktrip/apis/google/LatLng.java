@@ -140,12 +140,39 @@ public class LatLng {
         return d;
     }
     
+    /**
+     * @param other other LatLng location
+     * @return approximate distance to the other location, rounded up
+     */
+    public double approximateDistanceTo(final LatLng other) {
+        return 0;
+    }
+    
     public double distanceTo(final LatLng other, final Unit unit) {
         return distanceBetween(this, other, unit);
     }
     
     public double distanceTo(final LatLng other) {
         return distanceTo(other, Unit.METERS);
+    }
+    
+    /**
+     * @param other other location
+     * @param radius radius from this location in meters
+     * @return if other is in this radius
+     */
+    public boolean inRadius(final LatLng other, final int radius) {
+        return distanceTo(other) < radius;
+    }
+    
+    /**
+     * @param other other location
+     * @param radius radius from this location in meters
+     * @return if other is in this radius
+     *         if it's borderline, then it will return true
+     */
+    public boolean approximateInRadius(final LatLng other, final int radius) {
+        return approximateDistanceTo(other) < radius;
     }
     
     public static void main(final String[] args) {
@@ -155,4 +182,5 @@ public class LatLng {
         System.out.println(distanceBetween(one, two, Unit.MILES));
         System.out.println(distanceBetween(one, two, Unit.KILOMETERS));
     }
+    
 }

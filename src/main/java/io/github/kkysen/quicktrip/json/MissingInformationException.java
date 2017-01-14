@@ -1,5 +1,6 @@
 package io.github.kkysen.quicktrip.json;
 
+import java.io.IOException;
 import java.util.Collection;
 
 /**
@@ -7,7 +8,7 @@ import java.util.Collection;
  * 
  * @author Khyber Sen
  */
-public class MissingInformationException extends Exception {
+public class MissingInformationException extends IOException {
     
     private static final long serialVersionUID = 1002695619260309449L;
     

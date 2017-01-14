@@ -5,7 +5,9 @@ import io.github.kkysen.quicktrip.json.Json;
 import com.google.gson.annotations.JsonAdapter;
 import com.google.gson.annotations.SerializedName;
 
+import lombok.AccessLevel;
 import lombok.Getter;
+import lombok.RequiredArgsConstructor;
 
 /**
  * 
@@ -54,95 +56,103 @@ public class LatLng {
      * @author Stanley Lin
      *
      */
+    @RequiredArgsConstructor(access = AccessLevel.PRIVATE)
+    @Getter
     public static enum Unit {
-    	MILES(69.172, 3959),
-    	KILOMETERS(111.322, 6371);
-    	
-    	private double longDistAtEquator;
-    	private double earthRadius;
-    	
-    	Unit(final double num, final double radius) {
-    		longDistAtEquator = num;
-    		earthRadius = radius;
-    	}
-    	
-    	//The distance of 1 degree longitude at the equator
-    	private double getEquatorDist() {return longDistAtEquator;}
-    	
-    	/*
-    	 * 1 degree latitude is almost always the same. Returns the same
-    	 * value. It's a separate method for readability
-    	 * */
-    	private double getLatitudeLength() {return longDistAtEquator;}
-    	
-    	private double getEarthRadius() { return earthRadius; }
+        
+        METERS(111322, 6371000),
+        MILES(69.172, 3959),
+        KILOMETERS(111.322, 6371);
+        
+        private final double equatorDist; //The distance of 1 degree longitude at the equator
+        private final double earthRadius;
+        
+        /**
+         * 1 degree latitude is almost always the same. Returns the same
+         * value. It's a separate method for readability
+         */
+        private double getLatitudeLength() {
+            return equatorDist;
+        }
+        
     }
     
-    private static double distance(double ptX1, double ptY1,
-    		double ptX2, double ptY2) {
-    	return Math.sqrt(
-    			Math.pow((ptX1 - ptX2), 2) +
-    			Math.pow((ptY1 - ptY2), 2)
-    			);
+    private static double distance(final double ptX1, final double ptY1,
+            final double ptX2, final double ptY2) {
+        return Math.sqrt(
+                Math.pow(ptX1 - ptX2, 2)
+                        + Math.pow(ptY1 - ptY2, 2));
+    }
+    
+    private static double sinHalfDiffSquared(final double a, final double b) {
+        return Math.pow(Math.sin((a + b) / 2), 2);
+    }
+    
+    private static double cosProduct(final double a, final double b) {
+        return Math.cos(a) * Math.cos(b);
     }
     
     /**
      * Calculates the distance between two latitude, longitude points using the
      * Haversine fomrula.
      * 
-     * Credits to 
+     * Credits to
      * http://www.colorado.edu/geography/gcraft/warmup/aquifer/html/distance.html
      * http://www.movable-type.co.uk/scripts/latlong.html
      * 
+     * @param pt1 the first point
+     * @param pt2 the second point
+     * @param unit the output unit (meters, miles, or kilometers)
      * 
-     * 
-     * @param	pt1			The first point
-     * @param	pt2			The second point
-     * @param	conversion	The output scale (Miles or Kilometers)
-     * 
-     * @return The distance between the two coordinates
+     * @return the distance between the two coordinates
      */
-    public static double distanceBetween(LatLng pt1, LatLng pt2, 
-    		LatLng.Unit conversion) {
-    	/*
-    	 * The second part of the conversion equation depends on the unit of measure,
-    	 * so I'm calculating the first part separately.
-    	 * 
-    	final double oneDegLong1 = Math.cos(pt1.latitudeDouble);
-    	final double oneDegLong2 = Math.cos(pt2.latitudeDouble);
-    	
-    	final double ptY1 = oneDegLong1 * conversion.getEquatorDist() *
-    			pt1.longitudeDouble;
-    	final double ptY2 = oneDegLong2 * conversion.getEquatorDist() *
-    			pt2.longitudeDouble;
-    	
-    	final double ptX1 = pt1.latitudeDouble * conversion.getLatitudeLength();
-    	final double ptX2 = pt2.latitudeDouble * conversion.getLatitudeLength();
-    	
-    	
-    	//Now it boils down to distance
-    	return distance(ptX1, ptY1, ptX2, ptY2);*/
-    	
-    	final double pt1X = pt1.latitudeDouble * (Math.PI/180);
-    	final double pt1Y = pt1.longitudeDouble * (Math.PI/180);
-    	final double pt2X = pt2.latitudeDouble * (Math.PI/180);
-    	final double pt2Y = pt2.longitudeDouble * (Math.PI/180);
-    	
-    	double a = Math.pow(
-    			Math.sin((pt1X - pt2X)/2), 2) +
-    			Math.cos(pt1X) * Math.cos(pt2X) *
-    			Math.pow(Math.sin((pt1Y - pt2Y)/2), 2);
-    	double c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
-    	double d = conversion.getEarthRadius() * c;
-    	
-    	return d;
+    public static double distanceBetween(final LatLng pt1, final LatLng pt2,
+            final Unit unit) {
+        /*
+         * The second part of the conversion equation depends on the unit of measure,
+         * so I'm calculating the first part separately.
+         * 
+        final double oneDegLong1 = Math.cos(pt1.latitudeDouble);
+        final double oneDegLong2 = Math.cos(pt2.latitudeDouble);
+        
+        final double ptY1 = oneDegLong1 * conversion.getEquatorDist() *
+        		pt1.longitudeDouble;
+        final double ptY2 = oneDegLong2 * conversion.getEquatorDist() *
+        		pt2.longitudeDouble;
+        
+        final double ptX1 = pt1.latitudeDouble * conversion.getLatitudeLength();
+        final double ptX2 = pt2.latitudeDouble * conversion.getLatitudeLength();
+        
+        
+        //Now it boils down to distance
+        return distance(ptX1, ptY1, ptX2, ptY2);*/
+        
+        final double pt1X = pt1.latitudeDouble * (Math.PI / 180);
+        final double pt1Y = pt1.longitudeDouble * (Math.PI / 180);
+        final double pt2X = pt2.latitudeDouble * (Math.PI / 180);
+        final double pt2Y = pt2.longitudeDouble * (Math.PI / 180);
+        
+        final double a = sinHalfDiffSquared(pt1X, pt2X)
+                + cosProduct(pt1X, pt2X) * sinHalfDiffSquared(pt1Y, pt2Y);
+        final double c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+        final double d = unit.getEarthRadius() * c;
+        
+        return d;
     }
     
-    public static void main(String[] args) {
-    	LatLng one = new LatLng(-33, 6.0);
-    	LatLng two = new LatLng(33.0, -1.0);
-    	
-    	System.out.println(distanceBetween(one, two, LatLng.Unit.MILES));
-    	System.out.println(distanceBetween(one, two, Unit.KILOMETERS));
+    public double distanceTo(final LatLng other, final Unit unit) {
+        return distanceBetween(this, other, unit);
+    }
+    
+    public double distanceTo(final LatLng other) {
+        return distanceTo(other, Unit.METERS);
+    }
+    
+    public static void main(final String[] args) {
+        final LatLng one = new LatLng(-33, 6.0);
+        final LatLng two = new LatLng(33.0, -1.0);
+        
+        System.out.println(distanceBetween(one, two, Unit.MILES));
+        System.out.println(distanceBetween(one, two, Unit.KILOMETERS));
     }
 }

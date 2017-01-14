@@ -2,36 +2,27 @@ package io.github.kkysen.quicktrip.apis.google.geocoding.exists;
 
 import io.github.kkysen.quicktrip.apis.ApiRequestException;
 import io.github.kkysen.quicktrip.apis.QueryField;
-import io.github.kkysen.quicktrip.apis.google.maps.GoogleMapsRequest;
+import io.github.kkysen.quicktrip.apis.google.geocoding.GoogleGeocodingRequest;
 
 import java.nio.file.Path;
-
-import lombok.RequiredArgsConstructor;
 
 /**
  * 
  * 
  * @author Khyber Sen
  */
-@RequiredArgsConstructor
-public class AddressExistsRequest extends GoogleMapsRequest<AddressExistence> {
+@Deprecated
+public class AddressExistsRequest extends GoogleGeocodingRequest {
     
-    private final @QueryField String address;
     private final @QueryField String fields = "status";
     
-    @Override
-    protected String getMapsRequestType() {
-        return "geocode";
-    }
-    
-    @Override
-    protected Class<? extends AddressExistence> getResponseClass() {
-        return AddressExistence.class;
+    public AddressExistsRequest(final String address) {
+        super(address);
     }
     
     @Override
     protected Path getRelativeCachePath() {
-        return super.getRelativeCachePath().resolve("geocoding").resolve("exists");
+        return super.getRelativeCachePath().resolve("exists");
     }
     
     public static boolean exists(final String address) throws ApiRequestException {

@@ -1,6 +1,7 @@
 package io.github.kkysen.quicktrip.data.airports;
 
 import io.github.kkysen.quicktrip.Constants;
+import io.github.kkysen.quicktrip.apis.google.LatLng;
 import io.github.kkysen.quicktrip.io.MyFiles;
 
 import java.io.IOException;
@@ -8,6 +9,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 
 /**
@@ -41,12 +43,20 @@ public class Airports {
         MyFiles.write(DIR.resolve("airports.csv"), airports);
     }
     
-    private final List<Airport> airports;
+    private final Map<String, List<Airport>> airportsByCountry;
     
     public Airports() throws IOException {
-        airports = Files.lines(PATH, Constants.CHARSET)
+        airportsByCountry = Files.lines(PATH, Constants.CHARSET)
                 .map(Airport::new)
-                .collect(Collectors.toList());
+                .collect(Collectors.groupingBy(Airport::getCountry));
+    }
+    
+    /**
+     * @param location geolocation to search from
+     * @param radius radius in meters
+     */
+    public void inRadius(final LatLng location, final int radius) {
+        
     }
     
 }

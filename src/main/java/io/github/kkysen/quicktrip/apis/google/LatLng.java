@@ -55,12 +55,16 @@ public class LatLng {
      *
      */
     public static enum Unit {
-    	MILES(69.172),
-    	KILOMETERS(111.322);
+    	MILES(69.172, 3959),
+    	KILOMETERS(111.322, 6371);
     	
     	private double longDistAtEquator;
+    	private double earthRadius;
     	
-    	Unit(final double num) {longDistAtEquator = num;}
+    	Unit(final double num, final double radius) {
+    		longDistAtEquator = num;
+    		earthRadius = radius;
+    	}
     	
     	//The distance of 1 degree longitude at the equator
     	private double getEquatorDist() {return longDistAtEquator;}
@@ -70,6 +74,8 @@ public class LatLng {
     	 * value. It's a separate method for readability
     	 * */
     	private double getLatitudeLength() {return longDistAtEquator;}
+    	
+    	private double getEarthRadius() { return earthRadius; }
     }
     
     private static double distance(double ptX1, double ptY1,
@@ -127,14 +133,14 @@ public class LatLng {
     			Math.cos(pt1X) * Math.cos(pt2X) *
     			Math.pow(Math.sin((pt1Y - pt2Y)/2), 2);
     	double c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
-    	double d = 6371 * c;
+    	double d = conversion.getEarthRadius() * c;
     	
     	return d;
     }
     
     public static void main(String[] args) {
-    	LatLng one = new LatLng(0, 0.0);
-    	LatLng two = new LatLng(0.0, 1.0);
+    	LatLng one = new LatLng(-33, 6.0);
+    	LatLng two = new LatLng(33.0, -1.0);
     	
     	System.out.println(distanceBetween(one, two, LatLng.Unit.MILES));
     	System.out.println(distanceBetween(one, two, Unit.KILOMETERS));

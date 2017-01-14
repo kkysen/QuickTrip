@@ -86,7 +86,7 @@ class Type<T> {
         final Map<Field, Object> fieldEntries = getFieldEntries(fields, t);
         final Map<String, String> stringFieldEntries = new LinkedHashMap<>(fields.size());
         for (final Entry<Field, Object> entry : fieldEntries.entrySet()) {
-            stringFieldEntries.put(entry.getKey().getName(), entry.getValue().toString());
+            stringFieldEntries.put(entry.getKey().getName(), String.valueOf(entry.getValue()));
         }
         return stringFieldEntries;
     }

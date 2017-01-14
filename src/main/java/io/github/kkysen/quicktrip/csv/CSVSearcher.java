@@ -11,7 +11,10 @@ import java.util.List;
  * TODO sort things by existing index order, option to not include query string
  * in
  * result list
+ * 
+ * TODO also find closest airport to a given set of coords
  */
+
 
 // @AllArgsConstructor
 public class CSVSearcher /*implements Iterable<List<String>>*/ {
@@ -68,6 +71,14 @@ public class CSVSearcher /*implements Iterable<List<String>>*/ {
         }
         
         return result;
+    }
+    
+    public static List<List<String>> findRadius(final Path path,
+			final double lat,
+			final double lon,
+			final double radius,
+			int... otherIndices) {
+    	return null;
     }
     
     public static void main(final String[] args) {

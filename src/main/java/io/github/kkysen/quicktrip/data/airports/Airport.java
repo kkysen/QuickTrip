@@ -15,6 +15,18 @@ import lombok.RequiredArgsConstructor;
 @Getter
 @RequiredArgsConstructor
 public class Airport {
+    
+    /**
+     * 
+     * 
+     * @author Khyber Sen
+     */
+    @Deprecated
+    public static enum Type {
+        SMALL,
+        MEDIUM,
+        LARGE
+    }
         
     private final String name;
     private final String latitude;
@@ -57,6 +69,9 @@ public class Airport {
     }
     
     public static Airport fromIataCode(final String iataCode) {
+        if (!iataCode.matches("[A-Z][A-Z][A-Z]")) {
+            throw new IllegalArgumentException();
+        }
         return new Airport(",,,,,,,,," + iataCode + ",");
     }
     

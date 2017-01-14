@@ -1,6 +1,7 @@
 package io.github.kkysen.quicktrip.data.airports;
 
 import io.github.kkysen.quicktrip.Constants;
+import io.github.kkysen.quicktrip.data.airports.Airport.Type;
 import io.github.kkysen.quicktrip.io.MyFiles;
 
 import java.io.IOException;
@@ -21,6 +22,7 @@ import java.util.stream.Collectors;
  * 
  * @author Khyber Sen
  */
+@Deprecated
 public class Airports {
     
     private static final Path DIR = Paths.get("src", "main", "resources", "airports");
@@ -51,12 +53,6 @@ public class Airports {
         });
         airportsByType.get("large").stream().filter(line -> line.contains(",US,"))
                 .forEach(System.out::println);
-    }
-    
-    public static enum Type {
-        SMALL,
-        MEDIUM,
-        LARGE
     }
     
     private static final List<Type> TYPES = new ArrayList<>(

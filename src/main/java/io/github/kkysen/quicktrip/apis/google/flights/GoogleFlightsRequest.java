@@ -1,10 +1,10 @@
 package io.github.kkysen.quicktrip.apis.google.flights;
 
+import io.github.kkysen.quicktrip.apis.ApiRequestException;
 import io.github.kkysen.quicktrip.apis.google.GoogleApiPostRequest;
 import io.github.kkysen.quicktrip.data.airports.Airport;
 import io.github.kkysen.quicktrip.json.Json;
 
-import java.io.IOException;
 import java.lang.reflect.Type;
 import java.nio.file.Path;
 import java.time.LocalDate;
@@ -71,7 +71,7 @@ public class GoogleFlightsRequest extends GoogleApiPostRequest<List<GoogleFlight
         adapters.add(Pair.of(RESPONSE_TYPE, new GoogleFlightsAdapter()));
     }
     
-    public static void main(final String[] args) throws IOException {
+    public static void main(final String[] args) throws ApiRequestException {
         final Airport jfk = Airport.fromIataCode("JFK");
         final Airport sfo = Airport.fromIataCode("SFO");
         final GoogleFlightsRequest request = new GoogleFlightsRequest(jfk, sfo, 5);

@@ -1,12 +1,12 @@
 package io.github.kkysen.quicktrip.apis.skyscanner.hotels.details;
 
+import io.github.kkysen.quicktrip.apis.ApiRequestException;
 import io.github.kkysen.quicktrip.apis.skyscanner.SkyscannerApiRequest;
 import io.github.kkysen.quicktrip.apis.skyscanner.hotels.HotelPricesApiRequest;
 import io.github.kkysen.quicktrip.apis.skyscanner.hotels.details.response.HotelDetailsResponse;
 import io.github.kkysen.quicktrip.apis.skyscanner.hotels.prices.response.HotelEntry;
 import io.github.kkysen.quicktrip.apis.skyscanner.hotels.prices.response.HotelResponse;
 
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.GregorianCalendar;
 import java.util.List;
@@ -48,7 +48,7 @@ public class HotelDetailsApiRequest extends SkyscannerApiRequest<HotelDetailsRes
         return HotelDetailsResponse.class;
     }
     
-    public static void main(final String[] args) throws InterruptedException, IOException {
+    public static void main(final String[] args) throws InterruptedException, ApiRequestException {
         final Gson gson = new GsonBuilder().setPrettyPrinting().create();
         final HotelResponse hotelResponse = new HotelPricesApiRequest(
                 "US",

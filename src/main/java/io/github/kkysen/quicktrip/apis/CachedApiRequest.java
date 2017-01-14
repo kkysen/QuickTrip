@@ -842,20 +842,16 @@ public abstract class CachedApiRequest<R> implements Request<R> {
      * response to the HTTP request and then caches it.
      * 
      * @return the response for this request
-     * @throws IOException if anything goes wrong in
-     *             {@link #cache(Path, Object)},
-     *             {@link #deserializeFromFile(Path)},
-     *             or {@link #deserializeFromUrl(String)}
      */
     @Override
-    public R getResponse() throws IOException {
+    public R getResponse() throws ApiRequestException {
         if (response == null) {
             setUrl();
             final Thread setNonCachedResponse = new Thread(this::setNonCachedResponse);
             try {
                 setNonCachedResponse.run();
             } catch (final RuntimeIOException e) {
-                throw e.getCause();
+                throw new ApiRequestException(this, e.getCause());
             }
         }
         return response;

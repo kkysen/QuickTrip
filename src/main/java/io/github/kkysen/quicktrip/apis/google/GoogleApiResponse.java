@@ -3,7 +3,6 @@ package io.github.kkysen.quicktrip.apis.google;
 import io.github.kkysen.quicktrip.json.Json;
 
 import lombok.Getter;
-import lombok.RequiredArgsConstructor;
 
 /**
  * 
@@ -11,10 +10,21 @@ import lombok.RequiredArgsConstructor;
  * @author Khyber Sen
  */
 @Json
-@RequiredArgsConstructor
-@Getter
 public class GoogleApiResponse {
     
-    protected final String status;
+    protected final @Getter String status;
+    
+    private Boolean ok;
+    
+    public GoogleApiResponse(final String status) {
+        this.status = status;
+    }
+    
+    public boolean isOk() {
+        if (ok == null) {
+            ok = status.equals("OK");
+        }
+        return ok;
+    }
     
 }

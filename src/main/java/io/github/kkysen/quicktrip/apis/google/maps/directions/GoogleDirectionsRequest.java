@@ -1,10 +1,10 @@
 package io.github.kkysen.quicktrip.apis.google.maps.directions;
 
+import io.github.kkysen.quicktrip.apis.ApiRequestException;
 import io.github.kkysen.quicktrip.apis.QueryField;
 import io.github.kkysen.quicktrip.apis.google.maps.GoogleMapsRequest;
 import io.github.kkysen.quicktrip.apis.google.maps.directions.response.Directions;
 
-import java.io.IOException;
 import java.nio.file.Path;
 import java.util.List;
 
@@ -66,7 +66,7 @@ public class GoogleDirectionsRequest extends GoogleMapsRequest<Directions> {
     }
     
     public static Directions request(final String origin, final List<String> waypoints)
-            throws IOException {
+            throws ApiRequestException {
         return new GoogleDirectionsRequest(origin, waypoints).getResponse();
     }
     

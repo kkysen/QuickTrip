@@ -2,6 +2,8 @@ package io.github.kkysen.quicktrip.apis.google.places;
 
 import io.github.kkysen.quicktrip.json.Json;
 
+import java.util.List;
+
 import lombok.Getter;
 
 /**
@@ -11,6 +13,10 @@ import lombok.Getter;
  */
 @Json
 @Getter
-public class NearbySearch extends PlaceSearch {
+public class NearbySearch<E extends NearbyResult> extends PlaceSearch<E> {
+    
+    public NearbySearch(final String status, final List<E> results) {
+        super(status, results);
+    }
     
 }

@@ -1,16 +1,20 @@
 package io.github.kkysen.quicktrip.apis.google.places;
 
+import io.github.kkysen.quicktrip.apis.ApiRequestException;
 import io.github.kkysen.quicktrip.apis.QueryField;
 import io.github.kkysen.quicktrip.apis.google.LatLng;
 
 import java.nio.file.Path;
+import java.util.List;
 
 /**
  * 
  * 
  * @author Khyber Sen
+ * @param <R> type of PlaceSearch
+ * @param <E> type of PlaceResult
  */
-public abstract class GooglePlaceSearchRequest<R extends PlaceSearch> extends GooglePlacesRequest<R> {
+public abstract class GooglePlaceSearchRequest<R extends PlaceSearch<E>, E extends PlaceResult> extends GooglePlacesRequest<R> {
     
     protected abstract String getSearchRequestType();
     
@@ -49,6 +53,15 @@ public abstract class GooglePlaceSearchRequest<R extends PlaceSearch> extends Go
         location = getLocation().toString();
         radius = getRadius();
         placeType = getPlaceType();
+    }
+    
+    public List<E> getResults() throws ApiRequestException {
+        final PlaceSearch<E> response = getResponse();
+        if (response.isOk()) {
+            return response.getResults();
+        } else {
+            throw new NullPointerException("no results");
+        }
     }
     
 }

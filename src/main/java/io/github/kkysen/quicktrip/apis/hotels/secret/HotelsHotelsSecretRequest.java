@@ -1,6 +1,7 @@
 package io.github.kkysen.quicktrip.apis.hotels.secret;
 
 import io.github.kkysen.quicktrip.apis.AbstractJsonRequest;
+import io.github.kkysen.quicktrip.apis.ApiRequestException;
 import io.github.kkysen.quicktrip.apis.hotels.HotelsHotelsQuery;
 import io.github.kkysen.quicktrip.app.data.Destination;
 import io.github.kkysen.quicktrip.app.data.Hotel;
@@ -97,7 +98,7 @@ public class HotelsHotelsSecretRequest extends AbstractJsonRequest<List<Hotel>> 
     }
     
     @Override
-    public List<Hotel> getResponse() throws IOException {
+    public List<Hotel> getResponse() throws ApiRequestException {
         final List<Hotel> hotels = new ArrayList<>(curPageNum * 10);
         while (curPageNum++ < lastPageNum + 1) {
             final List<Hotel> hotelsOnOnePage = super.getResponse();

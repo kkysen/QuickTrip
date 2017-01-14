@@ -1,5 +1,6 @@
 package io.github.kkysen.quicktrip.apis.google.maps.directions.order;
 
+import io.github.kkysen.quicktrip.apis.ApiRequestException;
 import io.github.kkysen.quicktrip.apis.QueryField;
 import io.github.kkysen.quicktrip.apis.google.maps.GoogleMapsRequest;
 import io.github.kkysen.quicktrip.apis.google.maps.directions.GoogleMapsDirectionsException;
@@ -57,7 +58,7 @@ public class WaypointOrderRequest<E> extends GoogleMapsRequest<WaypointOrderOnly
         query.put("destination", origin);
     }
     
-    private List<Integer> destinationOrder() throws IOException {
+    private List<Integer> destinationOrder() throws ApiRequestException {
         final WaypointOrderOnlyDirections response = getResponse();
         if (response == null) {
             throw new GoogleMapsDirectionsException(getUrl());

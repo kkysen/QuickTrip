@@ -42,4 +42,8 @@ public class Geolocation extends GoogleApiResponse {
         return new GoogleGeocodingRequest(address).getResponse().exists();
     }
     
+    public static Geolocation createDummy(final LatLng location, final String country) {
+        return new Geolocation("OK", location, country, "");
+    }
+    
 }

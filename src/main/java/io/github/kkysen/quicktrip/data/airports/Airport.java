@@ -9,14 +9,16 @@ import java.util.List;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import lombok.Setter;
+import lombok.ToString;
 
 /**
  * 
  * 
  * @author Khyber Sen
  */
-@Getter
 @RequiredArgsConstructor
+@Getter
+@ToString
 public class Airport {
     
     /**

@@ -30,27 +30,38 @@ public class Airports {
     }
     
     public static void filter() throws IOException {
-        final List<String> airports = Files.lines(ORIGINAL_PATH)
-                .map(Airports::removeFirstCsv)
-                .filter(line -> line.startsWith("small")
-                        || line.startsWith("medium")
-                        || line.startsWith("large"))
-                .map(line -> {
-                    final int startIndex = line.indexOf('_');
-                    final int endIndex = line.indexOf(',');
-                    return line.substring(0, startIndex) + line.substring(endIndex);
-                })
-                .sorted()
-                .collect(Collectors.toList());
-        MyFiles.write(DIR.resolve("airports.csv"), airports);
+        MyFiles.write(DIR.resolve("airports.csv"),
+                Files.lines(ORIGINAL_PATH)
+                        .map(Airports::removeFirstCsv)
+                        .filter(line -> line.startsWith("small")
+                                || line.startsWith("medium")
+                                || line.startsWith("large"))
+                        .map(line -> {
+                            final int startIndex = line.indexOf('_');
+                            final int endIndex = line.indexOf(',');
+                            return line.substring(0, startIndex) + line.substring(endIndex);
+                        })
+                        .sorted()::iterator);
     }
     
+    private final List<Airport> airports;
     private final Map<String, List<Airport>> airportsByCountry;
     
     public Airports() throws IOException {
-        airportsByCountry = Files.lines(PATH, Constants.CHARSET)
+        airports = Files.lines(PATH, Constants.CHARSET)
                 .map(Airport::new)
+                .filter(airport -> !airport.getIataCode().isEmpty())
+                .collect(Collectors.toList());
+        airportsByCountry = airports.parallelStream()
                 .collect(Collectors.groupingBy(Airport::getCountry));
+    }
+    
+    public Stream<Airport> stream() {
+        return airports.stream();
+    }
+    
+    public List<Airport> inCountry(final String country) {
+        return airportsByCountry.get(country);
     }
     
     /**
@@ -62,8 +73,9 @@ public class Airports {
      */
     public Stream<Airport> inRadius(final Geolocation location, final int radius) {
         final LatLng latLng = location.getLocation();
-        return airportsByCountry.get(location.getCountry())
+        return inCountry(location.getCountry())
                 .stream()
+                //.peek(System.out::println)
                 .filter(airport -> latLng.approximateInRadius(airport.getLocation(), radius))
                 .filter(airport -> {
                     final double distanceTo = latLng.distanceTo(airport.getLocation());
@@ -73,6 +85,24 @@ public class Airports {
                 .sorted((airport1, airport2) -> {
                     return (int) (airport1.getDistanceTo() - airport2.getDistanceTo());
                 });
+    }
+    
+    public static void main(final String[] args) throws IOException {
+        //filter();
+        final Airports airports = new Airports();
+        airports.inRadius(Geolocation.createDummy(LatLng.NYC, "US"), 50000)
+        .forEach(System.out::println);
+        //        System.out.println(airports.inCountry("US").size());
+        //        System.out.println(
+        //                airports.inCountry("US")
+        //                        .stream()
+        //                        .filter(airport -> !airport.getIataCode().isEmpty())
+        //                        .count());
+        //        System.out.println(airports.stream().count());
+        //        System.out.println(
+        //                airports.stream()
+        //                        .filter(airport -> !airport.getIataCode().isEmpty())
+        //                        .count());
     }
     
 }

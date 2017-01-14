@@ -21,6 +21,9 @@ import lombok.RequiredArgsConstructor;
 @Getter
 public class LatLng {
     
+    public static final LatLng NYC = new LatLng("40.7128", "-74.0059");
+    public static final LatLng LONDON = new LatLng("51.5074", "-0.1278");
+    
     @SerializedName("lat")
     private final String latitude;
     
@@ -136,7 +139,7 @@ public class LatLng {
                 + cosProduct(pt1X, pt2X) * sinHalfDiffSquared(pt1Y, pt2Y);
         final double c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
         final double d = unit.getEarthRadius() * c;
-        
+        System.out.println(pt1.toString() + " -> " + pt2.toString() + " = " + d);
         return d;
     }
     
@@ -145,7 +148,7 @@ public class LatLng {
      * @return approximate distance to the other location, rounded up
      */
     public double approximateDistanceTo(final LatLng other) {
-        return 0;
+        return distanceTo(other); // FIXME only for now for testing
     }
     
     public double distanceTo(final LatLng other, final Unit unit) {
@@ -181,6 +184,7 @@ public class LatLng {
         
         System.out.println(distanceBetween(one, two, Unit.MILES));
         System.out.println(distanceBetween(one, two, Unit.KILOMETERS));
+        System.out.println(NYC.distanceTo(LONDON, Unit.MILES)); // should be 3470
     }
     
 }

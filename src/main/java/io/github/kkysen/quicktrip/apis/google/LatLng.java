@@ -23,6 +23,7 @@ public class LatLng {
     
     public static final LatLng NYC = new LatLng("40.7128", "-74.0059");
     public static final LatLng LONDON = new LatLng("51.5074", "-0.1278");
+    public static final LatLng LA = new LatLng("34.0522", "-118.2437");
     
     @SerializedName("lat")
     private final String latitude;
@@ -87,8 +88,8 @@ public class LatLng {
                         + Math.pow(ptY1 - ptY2, 2));
     }
     
-    private static double sinHalfDiffSquared(final double a, final double b) {
-        return Math.pow(Math.sin((a + b) / 2), 2);
+    private static double haversine(final double angle) {
+        return Math.pow(Math.sin(angle / 2), 2);
     }
     
     private static double cosProduct(final double a, final double b) {
@@ -135,11 +136,12 @@ public class LatLng {
         final double pt2X = pt2.latitudeDouble * (Math.PI / 180);
         final double pt2Y = pt2.longitudeDouble * (Math.PI / 180);
         
-        final double a = sinHalfDiffSquared(pt1X, pt2X)
-                + cosProduct(pt1X, pt2X) * sinHalfDiffSquared(pt1Y, pt2Y);
+        final double a = haversine(pt1X - pt2X)
+                + cosProduct(pt1X, pt2X) * haversine(pt1Y - pt2Y);
         final double c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
         final double d = unit.getEarthRadius() * c;
-        System.out.println(pt1.toString() + " -> " + pt2.toString() + " = " + d);
+        
+        //System.out.println(pt1.toString() + " -> " + pt2.toString() + " = " + d);
         return d;
     }
     
@@ -156,7 +158,7 @@ public class LatLng {
     }
     
     public double distanceTo(final LatLng other) {
-        return distanceTo(other, Unit.METERS);
+        return distanceTo(other, Unit.KILOMETERS);
     }
     
     /**
@@ -164,7 +166,7 @@ public class LatLng {
      * @param radius radius from this location in meters
      * @return if other is in this radius
      */
-    public boolean inRadius(final LatLng other, final int radius) {
+    public boolean inRadius(final LatLng other, final double radius) {
         return distanceTo(other) < radius;
     }
     
@@ -174,7 +176,7 @@ public class LatLng {
      * @return if other is in this radius
      *         if it's borderline, then it will return true
      */
-    public boolean approximateInRadius(final LatLng other, final int radius) {
+    public boolean approximateInRadius(final LatLng other, final double radius) {
         return approximateDistanceTo(other) < radius;
     }
     

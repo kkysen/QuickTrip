@@ -66,12 +66,12 @@ public class Airports {
     
     /**
      * @param location geolocation to search from
-     * @param radius radius in meters
+     * @param radius radius in kilometers
      * 
      * @return a Stream of Airports within the radius, sorted by prominence
      *         (largeness) and distance
      */
-    public Stream<Airport> inRadius(final Geolocation location, final int radius) {
+    public Stream<Airport> inRadius(final Geolocation location, final double radius) {
         final LatLng latLng = location.getLocation();
         return inCountry(location.getCountry())
                 .stream()
@@ -83,26 +83,31 @@ public class Airports {
                     return distanceTo < radius;
                 })
                 .sorted((airport1, airport2) -> {
+                    // sort by distance
                     return (int) (airport1.getDistanceTo() - airport2.getDistanceTo());
+                })
+                .sorted((airport1, airport2) -> {
+                    // sort by prominence (type: large, medium, or small)
+                    return airport1.getType().toString().compareTo(airport2.getType().toString());
                 });
+    }
+    
+    public List<Airport> near(final Geolocation location) {
+        double radius = 25;
+        List<Airport> airports;
+        do {
+            airports = inRadius(location, radius).collect(Collectors.toList());
+            radius += 10;
+        } while (airports.size() < 3);
+        return airports;
     }
     
     public static void main(final String[] args) throws IOException {
         //filter();
         final Airports airports = new Airports();
-        airports.inRadius(Geolocation.createDummy(LatLng.NYC, "US"), 50000)
-        .forEach(System.out::println);
-        //        System.out.println(airports.inCountry("US").size());
-        //        System.out.println(
-        //                airports.inCountry("US")
-        //                        .stream()
-        //                        .filter(airport -> !airport.getIataCode().isEmpty())
-        //                        .count());
-        //        System.out.println(airports.stream().count());
-        //        System.out.println(
-        //                airports.stream()
-        //                        .filter(airport -> !airport.getIataCode().isEmpty())
-        //                        .count());
+//        airports.inRadius(Geolocation.createDummy(LatLng.NYC, "US"), 20)
+//                .forEach(System.out::println);
+        airports.near(Geolocation.createDummy(LatLng.NYC, "US")).forEach(System.out::println);
     }
     
 }

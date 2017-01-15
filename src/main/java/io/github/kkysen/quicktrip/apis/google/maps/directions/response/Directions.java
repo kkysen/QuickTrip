@@ -2,7 +2,6 @@ package io.github.kkysen.quicktrip.apis.google.maps.directions.response;
 
 import io.github.kkysen.quicktrip.apis.google.GoogleApiResponse;
 import io.github.kkysen.quicktrip.json.Json;
-import io.github.kkysen.quicktrip.reflect.Reflect;
 
 import java.util.List;
 
@@ -32,9 +31,15 @@ public class Directions extends GoogleApiResponse {
         this.routes = routes;
     }
     
-    @Override
-    public String toString() {
-        return Reflect.toString(this);
+    /**
+     * {@link #isImpossible()} should be called beforehand
+     * 
+     * @see #isImpossible()
+     * 
+     * @return waypoint order
+     */
+    public List<Integer> waypointOrder() {
+        return routes.get(0).getWaypointOrder();
     }
     
 }

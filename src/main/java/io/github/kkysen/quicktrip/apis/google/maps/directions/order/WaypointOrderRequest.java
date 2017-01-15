@@ -1,20 +1,17 @@
 package io.github.kkysen.quicktrip.apis.google.maps.directions.order;
 
 import io.github.kkysen.quicktrip.apis.ApiRequestException;
-import io.github.kkysen.quicktrip.apis.QueryField;
-import io.github.kkysen.quicktrip.apis.google.maps.GoogleMapsRequest;
+import io.github.kkysen.quicktrip.apis.google.maps.directions.GoogleDirectionsRequest;
 import io.github.kkysen.quicktrip.apis.google.maps.directions.GoogleMapsDirectionsException;
-import io.github.kkysen.quicktrip.apis.google.maps.directions.order.response.WaypointOrderOnlyDirections;
+import io.github.kkysen.quicktrip.apis.google.maps.directions.response.Directions;
 
 import java.io.IOException;
 import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.StringJoiner;
 import java.util.function.Function;
-
-import lombok.RequiredArgsConstructor;
+import java.util.stream.Collectors;
 
 /**
  * 
@@ -22,44 +19,22 @@ import lombok.RequiredArgsConstructor;
  * @author Khyber Sen
  * @param <E> NoDateDestination class containing the String address
  */
-@RequiredArgsConstructor
-public class WaypointOrderRequest<E> extends GoogleMapsRequest<WaypointOrderOnlyDirections> {
+public class WaypointOrderRequest<E> extends GoogleDirectionsRequest {
     
-    private final @QueryField String origin;
-    private final @QueryField(include = false) List<E> destinations;
-    private final Function<E, String> addressExtractor;
-    
-    @Override
-    protected String getMapsRequestType() {
-        return "directions";
-    }
-    
-    @Override
-    protected Class<? extends WaypointOrderOnlyDirections> getResponseClass() {
-        return WaypointOrderOnlyDirections.class;
-    }
+    private final List<E> destinations;
     
     @Override
     protected Path getRelativeCachePath() {
-        return super.getRelativeCachePath().resolve("directions").resolve("order");
+        return super.getRelativeCachePath().resolve("order");
     }
     
-    @Override
-    protected void modifyQuery(final QueryParams query) {
-        super.modifyQuery(query);
-        final StringJoiner sj = new StringJoiner("|");
-        sj.add("optimize:true");
-        for (final E dest : destinations) {
-            sj.add(addressExtractor.apply(dest));
-        }
-        final String waypoints = sj.toString();
-        query.put("waypoints", waypoints);
-        
-        query.put("destination", origin);
+    public WaypointOrderRequest(final String origin, final List<E> destinations, final Function<E, String> addressExtractor) {
+        super(origin, destinations.stream().map(addressExtractor).collect(Collectors.toList()));
+        this.destinations = destinations;
     }
     
     private List<Integer> destinationOrder() throws ApiRequestException {
-        final WaypointOrderOnlyDirections response = getResponse();
+        final Directions response = getResponse();
         if (response == null) {
             throw new GoogleMapsDirectionsException(getUrl());
         }

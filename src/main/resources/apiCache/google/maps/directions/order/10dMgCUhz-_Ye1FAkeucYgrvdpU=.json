@@ -1,0 +1,370 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJX4VAKvxawokRo_eOlBzI5CI",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJCSF8lBZEwokRhngABHRcdoI",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJVTPokywQkFQRmtVEaUZlJRA",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJSx6SrQ9T2YARed8V_f0hOg0",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJrw7QBK9YXIYRvBagEDvhVgg",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJd7zN_thz54gRnr-lPAaywwo",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJX4VAKvxawokRo_eOlBzI5CI",
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": "47.6969913",
+          "lng": "-73.98605999999999"
+        },
+        "southwest": {
+          "lat": "28.486567",
+          "lng": "-123.365833"
+        }
+      },
+      "copyrights": "Map data ©2017 Google, INEGI",
+      "legs": [
+        {
+          "distance": {},
+          "duration": {},
+          "start_address": "296 6th St, Brooklyn, NY 11215, USA",
+          "start_location": {
+            "lat": "40.6716071",
+            "lng": "-73.98605999999999"
+          },
+          "end_address": "Brooklyn, NY, USA",
+          "end_location": {
+            "lat": "40.678183",
+            "lng": "-73.94416129999999"
+          },
+          "steps": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "distance": {},
+          "duration": {},
+          "start_address": "Brooklyn, NY, USA",
+          "start_location": {
+            "lat": "40.678183",
+            "lng": "-73.94416129999999"
+          },
+          "end_address": "Seattle, WA, USA",
+          "end_location": {
+            "lat": "47.6063683",
+            "lng": "-122.3322218"
+          },
+          "steps": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "distance": {},
+          "duration": {},
+          "start_address": "Seattle, WA, USA",
+          "start_location": {
+            "lat": "47.6063683",
+            "lng": "-122.3322218"
+          },
+          "end_address": "Los Angeles, CA, USA",
+          "end_location": {
+            "lat": "34.052353",
+            "lng": "-118.2435703"
+          },
+          "steps": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "distance": {},
+          "duration": {},
+          "start_address": "Los Angeles, CA, USA",
+          "start_location": {
+            "lat": "34.052353",
+            "lng": "-118.2435703"
+          },
+          "end_address": "San Diego, CA, USA",
+          "end_location": {
+            "lat": "32.7157333",
+            "lng": "-117.1610913"
+          },
+          "steps": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "distance": {},
+          "duration": {},
+          "start_address": "San Diego, CA, USA",
+          "start_location": {
+            "lat": "32.7157333",
+            "lng": "-117.1610913"
+          },
+          "end_address": "San Antonio, TX, USA",
+          "end_location": {
+            "lat": "29.42415759999999",
+            "lng": "-98.4936411"
+          },
+          "steps": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "distance": {},
+          "duration": {},
+          "start_address": "San Antonio, TX, USA",
+          "start_location": {
+            "lat": "29.42415759999999",
+            "lng": "-98.4936411"
+          },
+          "end_address": "Orlando, FL, USA",
+          "end_location": {
+            "lat": "28.5383218",
+            "lng": "-81.37924129999999"
+          },
+          "steps": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "distance": {},
+          "duration": {},
+          "start_address": "Orlando, FL, USA",
+          "start_location": {
+            "lat": "28.5383218",
+            "lng": "-81.37924129999999"
+          },
+          "end_address": "296 6th St, Brooklyn, NY 11215, USA",
+          "end_location": {
+            "lat": "40.6716071",
+            "lng": "-73.98605999999999"
+          },
+          "steps": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "overview_polyline": {},
+      "summary": "4th Ave and Atlantic Ave",
+      "warnings": [],
+      "waypoint_order": [
+        4,
+        2,
+        5,
+        0,
+        3,
+        1
+      ]
+    }
+  ],
+  "status": "OK"
+}

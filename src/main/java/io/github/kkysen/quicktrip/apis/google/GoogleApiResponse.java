@@ -16,10 +16,12 @@ public class GoogleApiResponse {
     protected final @Getter String status;
     
     private Boolean ok;
+    private Boolean impossible;
     
     public GoogleApiResponse(final String status) {
         this.status = status;
         isOk();
+        isImpossible();
     }
     
     public boolean isOk() {
@@ -27,6 +29,13 @@ public class GoogleApiResponse {
             ok = status.equals("OK");
         }
         return ok;
+    }
+    
+    public boolean isImpossible() {
+        if (impossible == null) {
+            impossible = status.equals("ZERO_RESULTS");
+        }
+        return impossible;
     }
     
     @Override

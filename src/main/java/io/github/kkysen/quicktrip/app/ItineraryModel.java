@@ -150,6 +150,7 @@ public class ItineraryModel {
             }
         }
         if (error.hasErrors()) {
+            error.createMsg();
             throw error;
         }
     }

@@ -26,6 +26,5 @@ public class Waypoint {
     private final String placeId;
     
     private final List<String> types;
-    //private List<WaypointType> types;
     
 }

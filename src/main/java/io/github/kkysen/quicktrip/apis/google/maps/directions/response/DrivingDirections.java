@@ -38,14 +38,15 @@ public class DrivingDirections extends GoogleApiResponse {
         this.routes = routes;
     }
     
-    @Override
-    public void postDeserialize() {
-        super.postDeserialize();
+    private void setFields() {
         numWaypoints = waypoints.size();
         numLegs = numWaypoints - 1;
         route = routes.get(0);
         legs = route.getLegs();
         waypointOrder = route.getWaypointOrder();
+    }
+    
+    private void postDeserializeWaypointsAndLegs() {
         final Leg firstLeg = legs.get(0);
         final Waypoint firstWaypoint = waypoints.get(0);
         firstWaypoint.setAddressLocationFromLeg(firstLeg.getStartLatLng(), firstLeg.getEndAddress());
@@ -57,7 +58,15 @@ public class DrivingDirections extends GoogleApiResponse {
             nextWaypoint.setAddressLocationFromLeg(leg.getStartLatLng(), leg.getStartAddress());
             leg.setStartLocation(waypoint);
             leg.setEndLocation(nextWaypoint);
+            leg.setGoogleMapsUrl();
         }
+    }
+    
+    @Override
+    public void postDeserialize() {
+        super.postDeserialize();
+        setFields();
+        postDeserializeWaypointsAndLegs();
     }
     
 }

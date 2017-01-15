@@ -4,7 +4,6 @@ import io.github.kkysen.quicktrip.apis.google.LatLng;
 import io.github.kkysen.quicktrip.json.Json;
 
 import java.time.Duration;
-import java.util.List;
 
 import com.google.gson.annotations.JsonAdapter;
 import com.google.gson.annotations.SerializedName;
@@ -23,6 +22,8 @@ import lombok.Setter;
 @RequiredArgsConstructor
 @Getter
 public class Leg {
+    
+    private static final String GOOGLE_MAPS_BASE_URL = "https://www.google.com/maps/dir/";
     
     private final Distance distance;
     
@@ -45,6 +46,14 @@ public class Leg {
     
     private @Setter(AccessLevel.PACKAGE) Waypoint endLocation;
     
-    private final List<Step> steps;
+    private String googleMapsUrl;
+    
+    protected void setGoogleMapsUrl() {
+        googleMapsUrl = GOOGLE_MAPS_BASE_URL
+                + startLocation.getAddress() + "/" + endLocation.getAddress();
+    }
+    
+    // I don't think this is needed
+    //private final List<Step> steps;
     
 }

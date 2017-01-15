@@ -3,8 +3,10 @@ package io.github.kkysen.quicktrip.apis.google.maps.directions.response;
 import io.github.kkysen.quicktrip.apis.google.LatLng;
 import io.github.kkysen.quicktrip.json.Json;
 
+import java.time.Duration;
 import java.util.List;
 
+import com.google.gson.annotations.JsonAdapter;
 import com.google.gson.annotations.SerializedName;
 
 import lombok.Getter;
@@ -22,6 +24,7 @@ public class Leg {
     
     private final Distance distance;
     
+    @JsonAdapter(SecondsAdapter.class)
     private final Duration duration;
     
     @SerializedName("start_address")

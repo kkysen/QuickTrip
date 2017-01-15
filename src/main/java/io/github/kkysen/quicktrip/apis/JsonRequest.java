@@ -1,5 +1,6 @@
 package io.github.kkysen.quicktrip.apis;
 
+import io.github.kkysen.quicktrip.json.PostProcessableFactory;
 import io.github.kkysen.quicktrip.web.Internet;
 
 import java.io.IOException;
@@ -24,28 +25,29 @@ import com.google.gson.reflect.TypeToken;
  */
 public abstract class JsonRequest<R> extends AbstractJsonRequest<R> {
     
-    private final List<Pair<Type, ? extends TypeAdapter<?>>> typedTypeAdapters = new ArrayList<>();
-    private final List<Pair<Class<?>, ? extends TypeAdapter<?>>> classedTypeAdapters = new ArrayList<>();
-    private final List<? extends TypeAdapterFactory> typeAdapterFactories = new ArrayList<>();
+    private final List<Pair<Type, TypeAdapter<?>>> typedTypeAdapters = new ArrayList<>();
+    private final List<Pair<Class<?>, TypeAdapter<?>>> classedTypeAdapters = new ArrayList<>();
+    private final List<TypeAdapterFactory> typeAdapterFactories = new ArrayList<>();
     
-    protected void addTypeAdapters(final List<Pair<Type, ? extends TypeAdapter<?>>> adapters) {}
+    protected void addTypeAdapters(final List<Pair<Type, TypeAdapter<?>>> adapters) {}
     
     protected <T> void addClassAdapters(
-            final List<Pair<Class<?>, ? extends TypeAdapter<?>>> adapters) {}
+            final List<Pair<Class<?>, TypeAdapter<?>>> adapters) {}
     
-    protected void addTypeAdapterFactories(final List<? extends TypeAdapterFactory> factories) {}
+    protected void addTypeAdapterFactories(final List<TypeAdapterFactory> factories) {}
     
     private Gson buildGson() {
         final GsonBuilder builder = new GsonBuilder();
+        typeAdapterFactories.add(new PostProcessableFactory());
         addTypeAdapters(typedTypeAdapters);
         addClassAdapters(classedTypeAdapters);
         addTypeAdapterFactories(typeAdapterFactories);
-        for (final Pair<Type, ? extends TypeAdapter<?>> typedTypeAdater : typedTypeAdapters) {
+        for (final Pair<Type, TypeAdapter<?>> typedTypeAdater : typedTypeAdapters) {
             final Type type = typedTypeAdater.getKey();
             final TypeAdapter<?> adapter = typedTypeAdater.getValue().nullSafe();
             builder.registerTypeAdapter(type, adapter);
         }
-        for (final Pair<Class<?>, ? extends TypeAdapter<?>> classedTypeAdapter : classedTypeAdapters) {
+        for (final Pair<Class<?>, TypeAdapter<?>> classedTypeAdapter : classedTypeAdapters) {
             final Type type = TypeToken.get(classedTypeAdapter.getKey()).getType();
             final TypeAdapter<?> adapter = classedTypeAdapter.getValue().nullSafe();
             builder.registerTypeAdapter(type, adapter);

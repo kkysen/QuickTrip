@@ -1,13 +1,10 @@
 package io.github.kkysen.quicktrip.apis.google.maps.directions.response;
 
+import io.github.kkysen.quicktrip.apis.google.LatLng;
+import io.github.kkysen.quicktrip.apis.google.geocoding.Geolocation;
 import io.github.kkysen.quicktrip.json.Json;
 
-import java.util.List;
-
-import com.google.gson.annotations.SerializedName;
-
 import lombok.Getter;
-import lombok.RequiredArgsConstructor;
 
 /**
  * 
@@ -15,16 +12,16 @@ import lombok.RequiredArgsConstructor;
  * @author Khyber Sen
  */
 @Json
-@RequiredArgsConstructor
 @Getter
-public class Waypoint {
+public class Waypoint extends Geolocation {
+
+    public Waypoint(final String status, final LatLng location, final String address, final String placeId) {
+        super(status, location, address, placeId);
+    }
     
-    @SerializedName("geocoder_status")
-    private final String status;
-    
-    @SerializedName("place_id")
-    private final String placeId;
-    
-    private final List<String> types;
+    public void setAddressLocationFromLeg(final LatLng location, final String address) {
+        this.location = location;
+        this.address = address;
+    }
     
 }

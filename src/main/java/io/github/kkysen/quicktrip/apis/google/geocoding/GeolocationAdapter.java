@@ -73,10 +73,8 @@ public class GeolocationAdapter extends TypeReaderAdapter<Geolocation> {
         final String status = readStatus();
         final LatLng location = (LatLng) readResult.get("geometry");
         final String address = (String) readResult.get("formatted_address");
-        final String[] addressParts = address.split(", ");
-        final String country = addressParts[addressParts.length - 1];
         final String placeId = (String) readResult.get("place_id");
-        geolocation = new Geolocation(status, location, country, placeId);
+        geolocation = new Geolocation(status, location, address, placeId);
         in.endObject();
     }
     

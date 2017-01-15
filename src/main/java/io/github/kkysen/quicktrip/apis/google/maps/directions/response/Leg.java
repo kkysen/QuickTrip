@@ -9,8 +9,10 @@ import java.util.List;
 import com.google.gson.annotations.JsonAdapter;
 import com.google.gson.annotations.SerializedName;
 
+import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
+import lombok.Setter;
 
 /**
  * 
@@ -31,13 +33,17 @@ public class Leg {
     private final String startAddress;
     
     @SerializedName("start_location")
-    private final LatLng startLocation;
+    private final LatLng startLatLng;
+    
+    private @Setter(AccessLevel.PACKAGE) Waypoint startLocation;
     
     @SerializedName("end_address")
     private final String endAddress;
     
     @SerializedName("end_location")
-    private final LatLng endLocation;
+    private final LatLng endLatLng;
+    
+    private @Setter(AccessLevel.PACKAGE) Waypoint endLocation;
     
     private final List<Step> steps;
     

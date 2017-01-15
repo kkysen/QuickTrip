@@ -857,4 +857,15 @@ public abstract class CachedApiRequest<R> implements Request<R> {
         return response;
     }
     
+    /**
+     * @return the response, with any ApiRequestException wrapped as a RuntimeIOException
+     */
+    public R getResponseSafely() {
+        try {
+            return getResponse();
+        } catch (final ApiRequestException e) {
+            throw new RuntimeIOException(e);
+        }
+    }
+    
 }

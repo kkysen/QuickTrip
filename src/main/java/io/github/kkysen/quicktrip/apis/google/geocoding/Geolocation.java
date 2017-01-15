@@ -19,7 +19,7 @@ import lombok.Getter;
 @Getter
 public class Geolocation extends GoogleApiResponse {
     
-    protected LatLng location;
+    protected LatLng latLng;
     
     @SerializedName("formatted_address")
     protected String address;
@@ -32,7 +32,7 @@ public class Geolocation extends GoogleApiResponse {
     public Geolocation(final String status, final LatLng location, final String address,
             final String placeId) {
         super(status);
-        this.location = location;
+        this.latLng = location;
         this.address = address;
         this.placeId = placeId;
         postDeserialize();

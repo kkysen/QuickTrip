@@ -1,13 +1,18 @@
 package io.github.kkysen.quicktrip.app;
 
+import io.github.kkysen.quicktrip.apis.google.maps.directions.GoogleDrivingDirectionsRequest;
 import io.github.kkysen.quicktrip.apis.google.maps.directions.order.DestinationOrderRequest;
+import io.github.kkysen.quicktrip.apis.google.maps.directions.response.DrivingDirections;
+import io.github.kkysen.quicktrip.apis.google.maps.directions.response.Leg;
 import io.github.kkysen.quicktrip.app.data.Destination;
+import io.github.kkysen.quicktrip.app.data.Flight;
 import io.github.kkysen.quicktrip.app.data.Hotel;
 import io.github.kkysen.quicktrip.app.data.Hotels;
 import io.github.kkysen.quicktrip.app.data.NoDateDestination;
 import io.github.kkysen.quicktrip.optimization.simulatedAnnealing.SimulatedAnnealer;
 
 import java.io.IOException;
+import java.time.Duration;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
@@ -21,17 +26,41 @@ import lombok.Getter;
  */
 public class ItineraryModel {
     
+    private static final Duration FLYING_THRESHOLD = Duration.ofHours(6);
+    
     private final List<NoDateDestination> noDateDests;
     
-    private @Getter final int numPeople;
-    private @Getter final long budget;
-    private @Getter final LocalDate startDate;
-    private @Getter final String origin;
-    private @Getter final List<Destination> destinations;
+    private final @Getter int numPeople;
+    private final @Getter long budget;
+    private final @Getter LocalDate startDate;
+    private final @Getter String origin;
+    private final @Getter List<Destination> destinations;
+    private final @Getter List<Flight> flights;
     private final List<Hotel> hotels;
-    private @Getter final int cost;
+    private final @Getter int cost;
     
     private List<Destination> orderDestinations() {
+        final List<String> waypoints = new ArrayList<>(noDateDests.size());
+        for (final NoDateDestination noDateDest : noDateDests) {
+            waypoints.add(noDateDest.getAddress());
+        }
+        final DrivingDirections directions = new GoogleDrivingDirectionsRequest(origin, waypoints)
+                .getResponseSafely();
+        if (directions.isImpossible()) {
+            return orderOverseasDestinations();
+        }
+        
+        final List<Integer> waypointOrder = directions.getWaypointOrder();
+        final List<Destination> dests = new ArrayList<>(waypointOrder.size());
+        final int numDaysSinceStart = 0;
+        final List<Leg> legs = directions.getLegs();
+        for (int i = 0; i < legs.size(); i++) {
+            final Leg leg = legs.get(i);
+            if (leg.getDuration().compareTo(FLYING_THRESHOLD) > 0) {
+                
+            }
+        }
+        
         List<NoDateDestination> orderedDestinations;
         try {
             orderedDestinations = DestinationOrderRequest

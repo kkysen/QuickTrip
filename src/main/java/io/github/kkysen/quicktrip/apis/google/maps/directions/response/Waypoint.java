@@ -19,8 +19,8 @@ public class Waypoint extends Geolocation {
         super(status, location, address, placeId);
     }
     
-    public void setAddressLocationFromLeg(final LatLng location, final String address) {
-        this.location = location;
+    public void setAddressLocationFromLeg(final LatLng latLng, final String address) {
+        this.latLng = latLng;
         this.address = address;
     }
     

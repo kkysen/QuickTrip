@@ -45,7 +45,7 @@ public class ScrapedHotelsHotel implements Hotel {
     
     private static double parseDistance(final Element detailsRespModule) {
         final Element locationInfoRespModuleDistanceSortApplied = detailsRespModule
-                .getElementsByClass("location-info").get(0);
+                .getElementsByClass("latLng-info").get(0);
         final String distanceStr = //
                 locationInfoRespModuleDistanceSortApplied.getElementsByTag("ul").get(0).text();
         final int endIndex = distanceStr.indexOf(" mile");

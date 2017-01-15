@@ -25,6 +25,8 @@ public class Airports {
     private static final Path ORIGINAL_PATH = DIR.resolve("airport-codes.csv");
     private static final Path PATH = DIR.resolve("airports.csv");
     
+    public static final int NUM_NEAR = 3;
+    
     private static String removeFirstCsv(final String csv) {
         return csv.substring(csv.indexOf(',') + 1);
     }
@@ -65,7 +67,7 @@ public class Airports {
     }
     
     /**
-     * @param location geolocation to search from
+     * @param latLng geolocation to search from
      * @param radius radius in kilometers
      * 
      * @return a Stream of Airports within the radius, sorted by prominence
@@ -98,7 +100,7 @@ public class Airports {
         do {
             airports = inRadius(location, radius).collect(Collectors.toList());
             radius += 10;
-        } while (airports.size() < 3);
+        } while (airports.size() < NUM_NEAR);
         return airports;
     }
     

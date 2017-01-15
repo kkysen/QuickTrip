@@ -11,7 +11,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.Function;
-import java.util.stream.Collectors;
 
 /**
  * 
@@ -29,7 +28,7 @@ public class DestinationOrderRequest<E> extends GoogleDrivingDirectionsRequest {
     }
     
     public DestinationOrderRequest(final String origin, final List<E> destinations, final Function<E, String> addressExtractor) {
-        super(origin, destinations.stream().map(addressExtractor).collect(Collectors.toList()));
+        //super(origin, destinations.stream().map(addressExtractor).collect(Collectors.toList()));
         this.destinations = destinations;
     }
     

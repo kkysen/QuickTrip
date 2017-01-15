@@ -2,12 +2,17 @@ package io.github.kkysen.quicktrip.apis.google.flights;
 
 import io.github.kkysen.quicktrip.apis.ApiRequestException;
 import io.github.kkysen.quicktrip.apis.google.GoogleApiPostRequest;
+import io.github.kkysen.quicktrip.apis.google.geocoding.Geolocation;
+import io.github.kkysen.quicktrip.app.data.Flight;
 import io.github.kkysen.quicktrip.data.airports.Airport;
+import io.github.kkysen.quicktrip.data.airports.Airports;
 import io.github.kkysen.quicktrip.json.Json;
 
+import java.io.IOException;
 import java.lang.reflect.Type;
 import java.nio.file.Path;
 import java.time.LocalDate;
+import java.util.ArrayList;
 import java.util.List;
 
 import org.apache.commons.lang3.tuple.Pair;
@@ -23,11 +28,20 @@ import lombok.RequiredArgsConstructor;
 @Json
 @RequiredArgsConstructor
 @Getter
-public class GoogleFlightsRequest extends GoogleApiPostRequest<List<GoogleFlight>> {
+public class GoogleFlightsRequest extends GoogleApiPostRequest<List<Flight>> {
     
     private static final Type RESPONSE_TYPE = new TypeToken<List<GoogleFlight>>() {}.getType();
     
     private static final String BASE_URL = "https://www.googleapis.com/qpxExpress/v1/trips/search";
+    
+    private static final Airports AIRPORTS;
+    static {
+        try {
+            AIRPORTS = new Airports();
+        } catch (final IOException e) {
+            throw new RuntimeException(e);
+        }
+    }
     
     private final Airport origin;
     private final Airport destination;
@@ -46,7 +60,7 @@ public class GoogleFlightsRequest extends GoogleApiPostRequest<List<GoogleFlight
     }
     
     @Override
-    protected Class<? extends List<GoogleFlight>> getResponseClass() {
+    protected Class<? extends List<Flight>> getResponseClass() {
         return null;
     }
     
@@ -66,16 +80,31 @@ public class GoogleFlightsRequest extends GoogleApiPostRequest<List<GoogleFlight
     }
     
     @Override
-    protected void addTypeAdapters(final List<Pair<Type, ? extends TypeAdapter<?>>> adapters) {
+    protected void addTypeAdapters(final List<Pair<Type, TypeAdapter<?>>> adapters) {
         super.addTypeAdapters(adapters);
         adapters.add(Pair.of(RESPONSE_TYPE, new GoogleFlightsAdapter()));
+    }
+    
+    public static List<Flight> near(final Geolocation origin, final Geolocation destination,
+            final LocalDate date, final int numPeople) throws ApiRequestException {
+        final List<Flight> flights = new ArrayList<>(Airports.NUM_NEAR * Airports.NUM_NEAR);
+        final List<Airport> originAirports = AIRPORTS.near(origin);
+        final List<Airport> destinationAirports = AIRPORTS.near(destination);
+        for (final Airport originAirport : originAirports) {
+            for (final Airport destinationAirport : destinationAirports) {
+                final GoogleFlightsRequest request = new GoogleFlightsRequest(originAirport,
+                        destinationAirport, date, numPeople);
+                flights.addAll(request.getResponse());
+            }
+        }
+        return flights;
     }
     
     public static void main(final String[] args) throws ApiRequestException {
         final Airport jfk = Airport.fromIataCode("JFK");
         final Airport sfo = Airport.fromIataCode("SFO");
         final GoogleFlightsRequest request = new GoogleFlightsRequest(jfk, sfo, 5);
-        final List<GoogleFlight> response = request.getResponse();
+        final List<Flight> response = request.getResponse();
         response.forEach(System.out::println);
     }
     

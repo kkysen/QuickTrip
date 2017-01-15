@@ -146,8 +146,8 @@ public class LatLng {
     }
     
     /**
-     * @param other other LatLng location
-     * @return approximate distance to the other location, rounded up
+     * @param other other LatLng latLng
+     * @return approximate distance to the other latLng, rounded up
      */
     public double approximateDistanceTo(final LatLng other) {
         return distanceTo(other); // FIXME only for now for testing
@@ -162,8 +162,8 @@ public class LatLng {
     }
     
     /**
-     * @param other other location
-     * @param radius radius from this location in meters
+     * @param other other latLng
+     * @param radius radius from this latLng in meters
      * @return if other is in this radius
      */
     public boolean inRadius(final LatLng other, final double radius) {
@@ -171,8 +171,8 @@ public class LatLng {
     }
     
     /**
-     * @param other other location
-     * @param radius radius from this location in meters
+     * @param other other latLng
+     * @param radius radius from this latLng in meters
      * @return if other is in this radius
      *         if it's borderline, then it will return true
      */

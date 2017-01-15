@@ -1,6 +1,5 @@
 package io.github.kkysen.quicktrip.apis.google.maps.directions;
 
-import io.github.kkysen.quicktrip.apis.ApiRequestException;
 import io.github.kkysen.quicktrip.apis.QueryField;
 import io.github.kkysen.quicktrip.apis.google.maps.GoogleMapsRequest;
 import io.github.kkysen.quicktrip.apis.google.maps.directions.response.DrivingDirections;
@@ -20,7 +19,7 @@ public class GoogleDrivingDirectionsRequest extends GoogleMapsRequest<DrivingDir
     private final @QueryField String mode = "driving";
     private final @QueryField String waypoints;
     private final @QueryField String units = "metric";
-    
+        
     public GoogleDrivingDirectionsRequest(final String origin, final String destination,
             final List<String> waypoints, final boolean optimize) {
         this.origin = origin;
@@ -51,11 +50,6 @@ public class GoogleDrivingDirectionsRequest extends GoogleMapsRequest<DrivingDir
     }
     
     @Override
-    protected void modifyQuery(final QueryParams query) {
-        // TODO
-    }
-    
-    @Override
     protected Class<? extends DrivingDirections> getResponseClass() {
         return DrivingDirections.class;
     }
@@ -63,11 +57,6 @@ public class GoogleDrivingDirectionsRequest extends GoogleMapsRequest<DrivingDir
     @Override
     protected Path getRelativeCachePath() {
         return super.getRelativeCachePath().resolve("directions");
-    }
-    
-    public static DrivingDirections request(final String origin, final List<String> waypoints)
-            throws ApiRequestException {
-        return new GoogleDrivingDirectionsRequest(origin, waypoints).getResponse();
     }
     
 }

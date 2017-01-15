@@ -1,6 +1,6 @@
 package io.github.kkysen.quicktrip.app;
 
-import io.github.kkysen.quicktrip.apis.google.maps.directions.order.WaypointOrderRequest;
+import io.github.kkysen.quicktrip.apis.google.maps.directions.order.DestinationOrderRequest;
 import io.github.kkysen.quicktrip.app.data.Destination;
 import io.github.kkysen.quicktrip.app.data.Hotel;
 import io.github.kkysen.quicktrip.app.data.Hotels;
@@ -34,7 +34,7 @@ public class ItineraryModel {
     private List<Destination> orderDestinations() {
         List<NoDateDestination> orderedDestinations;
         try {
-            orderedDestinations = WaypointOrderRequest
+            orderedDestinations = DestinationOrderRequest
                     .orderedDestinations(origin, noDateDests, NoDateDestination::getAddress);
         } catch (final IOException e) {
             throw new RuntimeException(e);

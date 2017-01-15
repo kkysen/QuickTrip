@@ -1,9 +1,9 @@
 package io.github.kkysen.quicktrip.apis.google.maps.directions.order;
 
 import io.github.kkysen.quicktrip.apis.ApiRequestException;
-import io.github.kkysen.quicktrip.apis.google.maps.directions.GoogleDirectionsRequest;
+import io.github.kkysen.quicktrip.apis.google.maps.directions.GoogleDrivingDirectionsRequest;
 import io.github.kkysen.quicktrip.apis.google.maps.directions.GoogleMapsDirectionsException;
-import io.github.kkysen.quicktrip.apis.google.maps.directions.response.Directions;
+import io.github.kkysen.quicktrip.apis.google.maps.directions.response.DrivingDirections;
 
 import java.io.IOException;
 import java.nio.file.Path;
@@ -19,7 +19,7 @@ import java.util.stream.Collectors;
  * @author Khyber Sen
  * @param <E> NoDateDestination class containing the String address
  */
-public class WaypointOrderRequest<E> extends GoogleDirectionsRequest {
+public class DestinationOrderRequest<E> extends GoogleDrivingDirectionsRequest {
     
     private final List<E> destinations;
     
@@ -28,13 +28,13 @@ public class WaypointOrderRequest<E> extends GoogleDirectionsRequest {
         return super.getRelativeCachePath().resolve("order");
     }
     
-    public WaypointOrderRequest(final String origin, final List<E> destinations, final Function<E, String> addressExtractor) {
+    public DestinationOrderRequest(final String origin, final List<E> destinations, final Function<E, String> addressExtractor) {
         super(origin, destinations.stream().map(addressExtractor).collect(Collectors.toList()));
         this.destinations = destinations;
     }
     
     private List<Integer> destinationOrder() throws ApiRequestException {
-        final Directions response = getResponse();
+        final DrivingDirections response = getResponse();
         if (response == null) {
             throw new GoogleMapsDirectionsException(getUrl());
         }
@@ -55,7 +55,7 @@ public class WaypointOrderRequest<E> extends GoogleDirectionsRequest {
     
     public static <E> List<E> orderedDestinations(final String origin, final List<E> destinations,
             final Function<E, String> addressExtractor) throws IOException {
-        return new WaypointOrderRequest<>(origin, destinations, addressExtractor).orderedDestinations();
+        return new DestinationOrderRequest<>(origin, destinations, addressExtractor).orderedDestinations();
     }
     
     public static void main(final String[] args) throws IOException {

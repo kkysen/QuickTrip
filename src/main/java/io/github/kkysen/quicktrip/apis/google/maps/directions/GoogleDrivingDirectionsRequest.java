@@ -3,7 +3,7 @@ package io.github.kkysen.quicktrip.apis.google.maps.directions;
 import io.github.kkysen.quicktrip.apis.ApiRequestException;
 import io.github.kkysen.quicktrip.apis.QueryField;
 import io.github.kkysen.quicktrip.apis.google.maps.GoogleMapsRequest;
-import io.github.kkysen.quicktrip.apis.google.maps.directions.response.Directions;
+import io.github.kkysen.quicktrip.apis.google.maps.directions.response.DrivingDirections;
 
 import java.nio.file.Path;
 import java.util.List;
@@ -13,7 +13,7 @@ import java.util.List;
  * 
  * @author Khyber Sen
  */
-public class GoogleDirectionsRequest extends GoogleMapsRequest<Directions> {
+public class GoogleDrivingDirectionsRequest extends GoogleMapsRequest<DrivingDirections> {
     
     private final @QueryField String origin;
     private final @QueryField String destination;
@@ -21,7 +21,7 @@ public class GoogleDirectionsRequest extends GoogleMapsRequest<Directions> {
     private final @QueryField String waypoints;
     private final @QueryField String units = "metric";
     
-    public GoogleDirectionsRequest(final String origin, final String destination,
+    public GoogleDrivingDirectionsRequest(final String origin, final String destination,
             final List<String> waypoints, final boolean optimize) {
         this.origin = origin;
         this.destination = destination;
@@ -31,17 +31,17 @@ public class GoogleDirectionsRequest extends GoogleMapsRequest<Directions> {
         this.waypoints = String.join("|", waypoints);
     }
     
-    public GoogleDirectionsRequest(final String origin, final String destination,
+    public GoogleDrivingDirectionsRequest(final String origin, final String destination,
             final List<String> waypoints) {
         this(origin, destination, waypoints, true);
     }
     
-    public GoogleDirectionsRequest(final String origin, final List<String> waypoints,
+    public GoogleDrivingDirectionsRequest(final String origin, final List<String> waypoints,
             final boolean optimize) {
         this(origin, origin, waypoints, optimize);
     }
     
-    public GoogleDirectionsRequest(final String origin, final List<String> waypoints) {
+    public GoogleDrivingDirectionsRequest(final String origin, final List<String> waypoints) {
         this(origin, origin, waypoints, true);
     }
     
@@ -56,8 +56,8 @@ public class GoogleDirectionsRequest extends GoogleMapsRequest<Directions> {
     }
     
     @Override
-    protected Class<? extends Directions> getResponseClass() {
-        return Directions.class;
+    protected Class<? extends DrivingDirections> getResponseClass() {
+        return DrivingDirections.class;
     }
     
     @Override
@@ -65,9 +65,9 @@ public class GoogleDirectionsRequest extends GoogleMapsRequest<Directions> {
         return super.getRelativeCachePath().resolve("directions");
     }
     
-    public static Directions request(final String origin, final List<String> waypoints)
+    public static DrivingDirections request(final String origin, final List<String> waypoints)
             throws ApiRequestException {
-        return new GoogleDirectionsRequest(origin, waypoints).getResponse();
+        return new GoogleDrivingDirectionsRequest(origin, waypoints).getResponse();
     }
     
 }

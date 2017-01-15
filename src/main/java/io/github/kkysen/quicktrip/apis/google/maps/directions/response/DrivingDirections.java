@@ -17,14 +17,14 @@ import lombok.Getter;
 @Json
 //@RequiredArgsConstructor need super call
 @Getter
-public class Directions extends GoogleApiResponse {
+public class DrivingDirections extends GoogleApiResponse {
     
     @SerializedName("geocoded_waypoints")
     private final List<Waypoint> waypoints;
     
     private final List<Route> routes;
     
-    public Directions(final String status, final List<Waypoint> waypoints,
+    public DrivingDirections(final String status, final List<Waypoint> waypoints,
             final List<Route> routes) {
         super(status);
         this.waypoints = waypoints;

@@ -2,6 +2,9 @@ package io.github.kkysen.quicktrip.apis.google;
 
 import io.github.kkysen.quicktrip.json.Json;
 
+import org.apache.commons.math3.ml.clustering.Clusterable;
+import org.apache.commons.math3.ml.distance.DistanceMeasure;
+
 import com.google.gson.annotations.JsonAdapter;
 import com.google.gson.annotations.SerializedName;
 
@@ -19,11 +22,15 @@ import lombok.RequiredArgsConstructor;
 @Json
 //@RequiredArgsConstructor
 @Getter
-public class LatLng {
+public class LatLng implements Clusterable {
     
     public static final LatLng NYC = new LatLng("40.7128", "-74.0059");
     public static final LatLng LONDON = new LatLng("51.5074", "-0.1278");
     public static final LatLng LA = new LatLng("34.0522", "-118.2437");
+    
+    public static final DistanceMeasure HAVERSINE_DISTANCE = (final double[] a, final double[] b) -> {
+        return haversineDistance(a, b, Unit.KILOMETERS);
+    };
     
     @SerializedName("lat")
     private final String latitude;
@@ -34,16 +41,20 @@ public class LatLng {
     private final double latitudeDouble;
     private final double longitudeDouble;
     
+    private final double[] coords;
+    
     public LatLng(final String latitude, final String longitude) {
         this.latitude = latitude;
         this.longitude = longitude;
         latitudeDouble = Double.parseDouble(latitude);
         longitudeDouble = Double.parseDouble(longitude);
+        coords = new double[] {latitudeDouble, longitudeDouble};
     }
     
     public LatLng(final double latitude, final double longitude) {
         latitudeDouble = latitude;
         longitudeDouble = longitude;
+        coords = new double[] {latitudeDouble, longitudeDouble};
         this.latitude = String.valueOf(latitude);
         this.longitude = String.valueOf(longitude);
     }
@@ -96,6 +107,8 @@ public class LatLng {
         return Math.cos(a) * Math.cos(b);
     }
     
+    private static final double DEG_TO_RAD = Math.PI / 180;
+    
     /**
      * Calculates the distance between two latitude, longitude points using the
      * Haversine fomrula.
@@ -110,8 +123,7 @@ public class LatLng {
      * 
      * @return the distance between the two coordinates
      */
-    public static double distanceBetween(final LatLng pt1, final LatLng pt2,
-            final Unit unit) {
+    private static double haversineDistance(final double[] pt1, final double[] pt2, final Unit unit) {
         /*
          * The second part of the conversion equation depends on the unit of measure,
          * so I'm calculating the first part separately.
@@ -120,9 +132,9 @@ public class LatLng {
         final double oneDegLong2 = Math.cos(pt2.latitudeDouble);
         
         final double ptY1 = oneDegLong1 * conversion.getEquatorDist() *
-        		pt1.longitudeDouble;
+                pt1.longitudeDouble;
         final double ptY2 = oneDegLong2 * conversion.getEquatorDist() *
-        		pt2.longitudeDouble;
+                pt2.longitudeDouble;
         
         final double ptX1 = pt1.latitudeDouble * conversion.getLatitudeLength();
         final double ptX2 = pt2.latitudeDouble * conversion.getLatitudeLength();
@@ -131,10 +143,10 @@ public class LatLng {
         //Now it boils down to distance
         return distance(ptX1, ptY1, ptX2, ptY2);*/
         
-        final double pt1X = pt1.latitudeDouble * (Math.PI / 180);
-        final double pt1Y = pt1.longitudeDouble * (Math.PI / 180);
-        final double pt2X = pt2.latitudeDouble * (Math.PI / 180);
-        final double pt2Y = pt2.longitudeDouble * (Math.PI / 180);
+        final double pt1X = pt1[0] * DEG_TO_RAD;
+        final double pt1Y = pt1[1] * DEG_TO_RAD;
+        final double pt2X = pt2[0] * DEG_TO_RAD;
+        final double pt2Y = pt2[1] * DEG_TO_RAD;
         
         final double a = haversine(pt1X - pt2X)
                 + cosProduct(pt1X, pt2X) * haversine(pt1Y - pt2Y);
@@ -143,6 +155,12 @@ public class LatLng {
         
         //System.out.println(pt1.toString() + " -> " + pt2.toString() + " = " + d);
         return d;
+    }
+    
+    
+    public static double distanceBetween(final LatLng pt1, final LatLng pt2,
+            final Unit unit) {
+        return haversineDistance(pt1.coords, pt2.coords, unit);
     }
     
     /**
@@ -187,6 +205,11 @@ public class LatLng {
         System.out.println(distanceBetween(one, two, Unit.MILES));
         System.out.println(distanceBetween(one, two, Unit.KILOMETERS));
         System.out.println(NYC.distanceTo(LONDON, Unit.MILES)); // should be 3470
+    }
+
+    @Override
+    public double[] getPoint() {
+        return coords;
     }
     
 }

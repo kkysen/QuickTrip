@@ -5,6 +5,8 @@ import io.github.kkysen.quicktrip.apis.google.GoogleApiResponse;
 import io.github.kkysen.quicktrip.apis.google.LatLng;
 import io.github.kkysen.quicktrip.json.Json;
 
+import org.apache.commons.math3.ml.clustering.Clusterable;
+
 import com.google.gson.annotations.SerializedName;
 
 import lombok.Getter;
@@ -17,7 +19,7 @@ import lombok.Getter;
 @Json
 //@RequiredArgsConstructor
 @Getter
-public class Geolocation extends GoogleApiResponse {
+public class Geolocation extends GoogleApiResponse implements Clusterable {
     
     protected LatLng latLng;
     
@@ -58,6 +60,12 @@ public class Geolocation extends GoogleApiResponse {
     
     public static Geolocation createDummy(final LatLng location, final String country) {
         return new Geolocation("OK", location, country, "");
+    }
+
+    
+    @Override
+    public double[] getPoint() {
+        return latLng.getCoords();
     }
     
 }

@@ -24,6 +24,10 @@ public class GoogleDrivingDirectionsRequest extends GoogleMapsRequest<DrivingDir
             final List<String> waypoints, final boolean optimize) {
         this.origin = origin;
         this.destination = destination;
+        if (waypoints.size() == 0) {
+            this.waypoints = null;
+            return;
+        }
         if (optimize) {
             waypoints.add(0, "optimize:true");
         }

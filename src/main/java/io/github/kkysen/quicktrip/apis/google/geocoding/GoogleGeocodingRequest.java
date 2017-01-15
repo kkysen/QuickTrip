@@ -40,7 +40,7 @@ public class GoogleGeocodingRequest extends GoogleMapsRequest<Geolocation> {
     
     
     @Override
-    protected <T> void addClassAdapters(final List<Pair<Class<?>, ? extends TypeAdapter<?>>> adapters) {
+    protected <T> void addClassAdapters(final List<Pair<Class<?>, TypeAdapter<?>>> adapters) {
         super.addClassAdapters(adapters);
         adapters.add(Pair.of(Geolocation.class, new GeolocationAdapter()));
     }

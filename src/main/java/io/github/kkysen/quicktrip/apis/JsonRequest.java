@@ -62,6 +62,10 @@ public abstract class JsonRequest<R> extends AbstractJsonRequest<R> {
     
     @Override
     protected R deserializeFromUrl(final String url) throws IOException {
+        // for debugging
+        //        final String json = Internet.getString(url);
+        //        System.out.println(json);
+        //        return gson.fromJson(json, getResponseType());
         return deserializeFromReader(Internet.getJsonInputStreamReader(url));
     }
     

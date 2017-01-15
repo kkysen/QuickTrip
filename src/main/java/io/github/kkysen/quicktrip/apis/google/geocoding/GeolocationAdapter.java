@@ -55,28 +55,29 @@ public class GeolocationAdapter extends TypeReaderAdapter<Geolocation> {
     
     @Override
     public void read() throws IOException, MissingInformationException {
+        in.beginObject();
         final String resultsName = in.nextName();
         if (!resultsName.equals("results")) {
             throw new MissingInformationException("results");
         }
         in.beginArray();
-        in.beginObject();
         final Map<String, Object> readResult = readObj();
-        in.endObject();
         while (in.hasNext()) {
             in.skipValue();
         }
+        in.endArray();
         final String statusName = in.nextName();
         if (!statusName.equals("status")) {
             throw new MissingInformationException("status");
         }
         final String status = readStatus();
         final LatLng location = (LatLng) readResult.get("geometry");
-        final String address = (String) readResult.get("formatted_addresss");
+        final String address = (String) readResult.get("formatted_address");
         final String[] addressParts = address.split(", ");
         final String country = addressParts[addressParts.length - 1];
         final String placeId = (String) readResult.get("place_id");
         geolocation = new Geolocation(status, location, country, placeId);
+        in.endObject();
     }
     
     @Override

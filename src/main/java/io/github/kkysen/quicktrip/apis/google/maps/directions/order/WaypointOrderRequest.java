@@ -80,7 +80,7 @@ public class WaypointOrderRequest<E> extends GoogleMapsRequest<WaypointOrderOnly
     
     public static <E> List<E> orderedDestinations(final String origin, final List<E> destinations,
             final Function<E, String> addressExtractor) throws IOException {
-        return new WaypointOrderRequest<E>(origin, destinations, addressExtractor).orderedDestinations();
+        return new WaypointOrderRequest<>(origin, destinations, addressExtractor).orderedDestinations();
     }
     
     public static void main(final String[] args) throws IOException {

@@ -1,6 +1,7 @@
 package io.github.kkysen.quicktrip.apis.google;
 
 import io.github.kkysen.quicktrip.json.Json;
+import io.github.kkysen.quicktrip.reflect.Reflect;
 
 import lombok.Getter;
 
@@ -26,6 +27,11 @@ public class GoogleApiResponse {
             ok = status.equals("OK");
         }
         return ok;
+    }
+    
+    @Override
+    public String toString() {
+        return Reflect.toString(this);
     }
     
 }

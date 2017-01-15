@@ -5,8 +5,6 @@ import io.github.kkysen.quicktrip.apis.google.GoogleApiResponse;
 import io.github.kkysen.quicktrip.apis.google.LatLng;
 import io.github.kkysen.quicktrip.json.Json;
 
-import com.google.gson.annotations.JsonAdapter;
-
 import lombok.Getter;
 
 /**
@@ -14,7 +12,6 @@ import lombok.Getter;
  * 
  * @author Khyber Sen
  */
-@JsonAdapter(GeolocationAdapter.class)
 @Json
 //@RequiredArgsConstructor
 @Getter

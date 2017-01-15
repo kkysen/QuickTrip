@@ -1,6 +1,6 @@
 package io.github.kkysen.quicktrip.app.input;
 
-import io.github.kkysen.quicktrip.apis.google.geocoding.exists.AddressExistsRequest;
+import io.github.kkysen.quicktrip.apis.google.geocoding.Geolocation;
 
 import java.io.IOException;
 
@@ -29,7 +29,7 @@ public class AddressInputError extends InputError {
             throw none();
         }
         try {
-            if (!AddressExistsRequest.exists(address)) {
+            if (!Geolocation.exists(address)) {
                 throw nonexistent(address);
             }
         } catch (final IOException e) {

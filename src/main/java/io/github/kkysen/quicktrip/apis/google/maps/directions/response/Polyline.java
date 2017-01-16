@@ -14,5 +14,5 @@ import lombok.RequiredArgsConstructor;
 @RequiredArgsConstructor
 @Getter
 public class Polyline {
-    
+    private String points;
 }

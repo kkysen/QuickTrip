@@ -28,6 +28,7 @@ public class DrivingDirections extends GoogleApiResponse {
     private final @Getter(AccessLevel.NONE) List<Route> routes; // will be set to null
     
     private Waypoint origin;
+    private Waypoint destination;
     private Route route;
     private List<Leg> legs;
     private List<Integer> waypointOrder;
@@ -37,12 +38,14 @@ public class DrivingDirections extends GoogleApiResponse {
         super(status);
         this.waypoints = waypoints;
         this.routes = routes;
+        postDeserialize();
     }
     
     private void setFields() {
         numWaypoints = waypoints.size();
         numLegs = numWaypoints - 1;
         origin = waypoints.get(0);
+        destination = waypoints.get(numWaypoints - 1);
         route = routes.get(0);
         routes = null;
         legs = route.getLegs();

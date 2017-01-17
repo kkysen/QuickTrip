@@ -49,6 +49,11 @@ public class GoogleGeocodingRequest extends GoogleMapsRequest<Geolocation> {
     }
     
     @Override
+    protected Duration getRefreshDuration() {
+        return Duration.ofDays(365);
+    }
+    
+    @Override
     protected <T> void addClassAdapters(final List<Pair<Class<?>, TypeAdapter<?>>> adapters) {
         super.addClassAdapters(adapters);
         adapters.add(Pair.of(Geolocation.class, new GeolocationAdapter()));

@@ -17,4 +17,6 @@ public interface Flight {
     
     public Airport getEndAirport();
     
+    public int getPrice();
+    
 }

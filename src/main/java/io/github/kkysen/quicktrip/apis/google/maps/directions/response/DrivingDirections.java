@@ -25,7 +25,7 @@ public class DrivingDirections extends GoogleApiResponse {
     @SerializedName("geocoded_waypoints")
     private final List<Waypoint> waypoints;
     
-    private final List<Route> routes;
+    private final @Getter(AccessLevel.NONE) List<Route> routes; // will be set to null
     
     private Waypoint origin;
     private Route route;
@@ -44,6 +44,7 @@ public class DrivingDirections extends GoogleApiResponse {
         numLegs = numWaypoints - 1;
         origin = waypoints.get(0);
         route = routes.get(0);
+        routes = null;
         legs = route.getLegs();
         waypointOrder = route.getWaypointOrder();
     }

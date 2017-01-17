@@ -130,7 +130,19 @@ public class Itinerary implements Closeable {
         addDestination(legs.get(legs.size() - 1), 0); // no hotel
     }
     
-    private DrivingDirections getDirectionsWithOrigin(
+    private void moveOriginDirections(final List<DrivingDirections> clusteredDirections) {
+        // leave out last one b/c that will be where directions to origin are placed
+        for (int i = 0; i < clusteredDirections.size() - 1; i++) {
+            DrivingDirections directions = clusteredDirections.get(i);
+            if (directions.getOrigin().equals(origin)) {
+                Collections.swap(clusteredDirections, i, 0);
+            } else if (directions.getDestination().equals(origin)) {
+                Collections.swap(clusteredDirections, i, clusteredDirections.size() - 1);
+            }
+        }
+    }
+    
+    /*private DrivingDirections getDirectionsWithOrigin(
             final List<DrivingDirections> clusteredDirections) {
         for (int i = 0; i < clusteredDirections.size(); i++) {
             if (clusteredDirections.get(i).getOrigin().equals(origin)) {
@@ -138,7 +150,7 @@ public class Itinerary implements Closeable {
             }
         }
         return null; // shouldn't happen
-    }
+    }*/
     
     private void addDirections(final DrivingDirections directions,
             final Map<Geolocation, Integer> numDaysAtEachLocation) {
@@ -151,18 +163,21 @@ public class Itinerary implements Closeable {
     
     public void addClusteredDirections(final List<DrivingDirections> clusteredDirections,
             final List<NoDateDestination> noDateDests) throws ApiRequestException {
+        noDateDests.add(new NoDateDestination(origin, 0));
         final Map<Geolocation, Integer> numDaysAtEachLocation = new HashMap<>(noDateDests.size());
         noDateDests.forEach(noDateDest -> numDaysAtEachLocation.put(noDateDest.getLocation(),
                 noDateDest.getNumDays()));
-        final DrivingDirections directionsFromOrigin = getDirectionsWithOrigin(clusteredDirections);
+        //final DrivingDirections directionsToOrigin = getDirectionsWithOrigin(clusteredDirections);
+        moveOriginDirections(clusteredDirections);
         for (final DrivingDirections directions : clusteredDirections) {
             final Geolocation localOrigin = directions.getOrigin();
             addFlight(localOrigin, numDaysAtEachLocation.get(localOrigin));
             addDirections(directions, numDaysAtEachLocation);
         }
-        // I chose to put directions w/ origin at end, no particular reason
-        addFlight(origin, 0); // no hotel
-        addDirections(directionsFromOrigin, numDaysAtEachLocation);
+        
+        //// I chose to put directions w/ origin first, no particular reason
+        //addFlight(directionsToOrigin.getOrigin(), numDaysAtEachLocation.get(localOrigin));
+        //addDirections(directionsToOrigin, numDaysAtEachLocation);
     }
     
     private Geolocation getAirportLocation(final Airport airport) {

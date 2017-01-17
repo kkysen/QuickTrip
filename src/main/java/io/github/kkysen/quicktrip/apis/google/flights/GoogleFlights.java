@@ -12,6 +12,7 @@ import java.util.stream.Stream;
 
 import io.github.kkysen.quicktrip.app.data.Flight;
 import io.github.kkysen.quicktrip.data.airports.Airport;
+import io.github.kkysen.quicktrip.data.airports.Airports;
 import io.github.kkysen.quicktrip.json.Json;
 
 import java.util.List;
@@ -29,16 +30,16 @@ import lombok.RequiredArgsConstructor;
 @Getter
 public class GoogleFlights implements Flight {
 	private Trip trips;
-
-	@Override
-	public Duration getDuration() {
-		return null;
-	}
+	//private List<Option> sortedOptions;
+	//private int duration;
+	//private  ports;
 	
-	public void listCheapest() {
+	
+	
+	/*public void listCheapest() {
 		//The total price is in Trip.Option.saletotal
 		//The airports involved is in Trip.Option.Slice.Segment.Leg.origin and destination
-		List<Option> sortedOptions = trips.getTripOption().stream()
+		sortedOptions = trips.getTripOption().stream()
 			.sorted((first, second) -> {
 				//signum gets the sign of the value
 				return (int) Math.signum(
@@ -48,7 +49,7 @@ public class GoogleFlights implements Flight {
 			.collect(Collectors.toList());
 		
 		//Now to get the airports
-		/*List<Set<String>> airports = sortedOptions.stream()
+		List<Set<String>> airports = sortedOptions.stream()
 				.flatMap(option -> {
 					option.getSlice().stream()
 						.flatMap(slice -> {
@@ -56,17 +57,19 @@ public class GoogleFlights implements Flight {
 						})
 					return List<Set<String>>;
 				})
-				.collect(Collectors.toList());*/
+				.collect(Collectors.toList());
 		
 		//time for drastic measures
 		//slice to segment
-		/*List<String> airports = */
+		List<String> airports = 
 		List<Segment> seg = sortedOptions.get(0).getSlice().stream()
 				.flatMap(slice -> {
 					//reduce to stream of segments
 					return slice.getSegment().stream();
 				})
 				.collect(Collectors.toList());
+		
+		//duration = seg.get(0).getDuration();
 		
 		//segment to set of ariports
 		Set<String> airports = new HashSet<>();
@@ -76,33 +79,91 @@ public class GoogleFlights implements Flight {
 				airports.add(segment.getLeg().get(0).getDestination());
 			});
 
-				/*.flatMap(option -> {
+				.flatMap(option -> {
 					option.getSlice().get(0).getSegment().stream()
 						.flatMap(segment -> {
 							Set<String> s =
 							segment.getLeg().get(0).getOrigin()
 						})
 						
-				})*/
-				
+				})
+		
+		//convert string iata to airport
+		List<Airport> ports = new ArrayList<>();
+		airports.stream()
+			.forEach(airport -> {
+				ports.add(Airports.AIRPORTS.withIataCode(airport));
+			});
+		
+		
+	}*/
+	
+	
+	public List<Option> sortOptions() {
+		List<Option> sortedOptions = trips.getTripOption().stream()
+		.sorted((first, second) -> {
+			//signum gets the sign of the value
+			return (int) Math.signum(
+					Double.parseDouble(first.getSaleTotal().substring(2)) -
+					Double.parseDouble(first.getSaleTotal().substring(2)));
+		})
+		.collect(Collectors.toList());
+		return sortedOptions;
 	}
 	
-	public List<Flight> getFlights() {
-        return null;
-    }
-
+	public Option getOption(int index) {
+		return sortOptions().get(index);
+	}
+	
+	public int getNumOptions() {
+		return sortOptions().size();
+	}
+	
+	private List<Segment> getSegments() {
+		return sortOptions().get(0).getSlice().stream()
+				.flatMap(slice -> {
+					//reduce to stream of segments
+					return slice.getSegment().stream();
+				})
+				.collect(Collectors.toList());
+	}
+	
+	private Set<String> getAirportIatas() {
+		Set<String> airports = new HashSet<>();
+		getSegments().stream()
+			.forEach(segment -> {
+				airports.add(segment.getLeg().get(0).getOrigin());
+				airports.add(segment.getLeg().get(0).getDestination());
+			});
+		return airports;
+	}
+	
+	
+	
+	private List<Airport> getAirportList() {
+		List<Airport> ports = new ArrayList<>();
+		getAirportIatas().stream()
+			.forEach(airport -> {
+				ports.add(Airports.AIRPORTS.withIataCode(airport));
+			});
+		
+		return ports;
+	}
+	
+	@Override
+	public Duration getDuration() {
+		return Duration.ofMinutes(getSegments().get(0).getDuration());
+	}
+	
 	@Override
 	public Airport getStartAirport() {
-		// TODO Auto-generated method stub
-		return null;
+		return getAirportList().get(0);
 	}
 
 	@Override
 	public Airport getEndAirport() {
-		// TODO Auto-generated method stub
-		return null;
+		List<Airport> l = getAirportList();
+		return l.get(l.size()-1);
 	}
-
-
 
 }

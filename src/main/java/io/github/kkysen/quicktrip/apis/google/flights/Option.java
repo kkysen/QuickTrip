@@ -12,4 +12,8 @@ public class Option {
 	private String id;
 	private List<Slice> slice;
 	private List<Pricing> pricing;
+	
+	public int getDuration() {
+		return slice.get(0).getDuration();
+	}
 }

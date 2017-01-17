@@ -2,6 +2,7 @@ package io.github.kkysen.quicktrip.app;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.time.Duration;
 
 import com.fatboyindustrial.gsonjavatime.Converters;
 import com.google.gson.Gson;
@@ -18,5 +19,7 @@ public class QuickTripConstants {
             .setPrettyPrinting().create();
     
     public static final Path SEARCH_MODEL_PATH = Paths.get("src/main/resources/searchModels.json");
+    
+    public static final Duration FLYING_THRESHOLD = Duration.ofHours(6);
     
 }

@@ -40,4 +40,31 @@ public class GoogleApiResponse implements PostProcessable {
         return Reflect.toString(this);
     }
     
+    @Override
+    public int hashCode() {
+        return 31 * (1 + status.hashCode());
+    }
+    
+    @Override
+    public boolean equals(final Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        if (obj == null) {
+            return false;
+        }
+        if (getClass() != obj.getClass()) {
+            return false;
+        }
+        final GoogleApiResponse other = (GoogleApiResponse) obj;
+        if (status == null) {
+            if (other.status != null) {
+                return false;
+            }
+        } else if (!status.equals(other.status)) {
+            return false;
+        }
+        return true;
+    }
+    
 }

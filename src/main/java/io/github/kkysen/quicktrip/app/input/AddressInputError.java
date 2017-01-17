@@ -1,8 +1,7 @@
 package io.github.kkysen.quicktrip.app.input;
 
 import io.github.kkysen.quicktrip.apis.google.geocoding.Geolocation;
-
-import java.io.IOException;
+import io.github.kkysen.quicktrip.apis.google.geocoding.GoogleGeocodingRequest;
 
 public class AddressInputError extends InputError {
     
@@ -24,18 +23,15 @@ public class AddressInputError extends InputError {
         return new AddressInputError("Nonexistent Addres", quote(address) + " does not exist.");
     }
     
-    public static boolean validate(final String address) throws AddressInputError, EmptyInputError {
+    public static Geolocation validate(final String address) throws AddressInputError, EmptyInputError {
         if (address.isEmpty()) {
             throw none();
         }
-        try {
-            if (!Geolocation.exists(address)) {
-                throw nonexistent(address);
-            }
-        } catch (final IOException e) {
-            throw new RuntimeException(e);
+        final Geolocation location = new GoogleGeocodingRequest(address).getResponseSafely();
+        if (!location.exists()) {
+            throw nonexistent(address);
         }
-        return true;
+        return location;
     }
     
 }

@@ -61,11 +61,40 @@ public class Geolocation extends GoogleApiResponse implements Clusterable {
     public static Geolocation createDummy(final LatLng location, final String country) {
         return new Geolocation("OK", location, country, "");
     }
-
     
     @Override
     public double[] getPoint() {
         return latLng.getCoords();
+    }
+
+    @Override
+    public int hashCode() {
+        final int prime = 31;
+        int result = super.hashCode();
+        result = prime * result + (placeId == null ? 0 : placeId.hashCode());
+        return result;
+    }
+
+    @Override
+    public boolean equals(final Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        if (!super.equals(obj)) {
+            return false;
+        }
+        if (getClass() != obj.getClass()) {
+            return false;
+        }
+        final Geolocation other = (Geolocation) obj;
+        if (placeId == null) {
+            if (other.placeId != null) {
+                return false;
+            }
+        } else if (!placeId.equals(other.placeId)) {
+            return false;
+        }
+        return true;
     }
     
 }

@@ -27,7 +27,15 @@ public class Hotels implements AnnealingState {
     private Hotel prevHotel;
     private int prevIndex;
     
-    public Hotels(final List<Destination> dests, final long budget) {
+    public Hotels(final List<Destination> nullableDests, final long budget) {
+        // check for nulls in nullableDests
+        final List<Destination> dests = new ArrayList<>(nullableDests.size());
+        for (final Destination dest : nullableDests) {
+            if (dest != null) {
+                dests.add(dest);
+            }
+        }
+        
         this.budget = budget;
         size = dests.size();
         pools = new ArrayList<>(size);

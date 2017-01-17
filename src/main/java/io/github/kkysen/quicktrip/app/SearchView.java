@@ -1,5 +1,6 @@
 package io.github.kkysen.quicktrip.app;
 
+import io.github.kkysen.quicktrip.apis.google.geocoding.Geolocation;
 import io.github.kkysen.quicktrip.app.data.NoDateDestination;
 import io.github.kkysen.quicktrip.app.input.AddressInputError;
 import io.github.kkysen.quicktrip.app.input.EmptyInputError;
@@ -70,6 +71,8 @@ public class SearchView {
         private final TextField address;
         private final WholeNumberField numDays;
         
+        private Geolocation location;
+        
         public DestField(final int destNum) {
             this.destNum = destNum;
             
@@ -102,7 +105,8 @@ public class SearchView {
          */
         @Validation
         private boolean validateAddress() throws AddressInputError, EmptyInputError {
-            return AddressInputError.validate(address.getText());
+            location = AddressInputError.validate(address.getText());
+            return true;
         }
         
         @Validation
@@ -120,7 +124,7 @@ public class SearchView {
          * @return Json Pojo NoDateDestination for serialization
          */
         public NoDateDestination toNoDateDestination() {
-            return new NoDateDestination(address.getText(), Integer.parseInt(numDays.getText()));
+            return new NoDateDestination(location, Integer.parseInt(numDays.getText()));
         }
         
         @Override

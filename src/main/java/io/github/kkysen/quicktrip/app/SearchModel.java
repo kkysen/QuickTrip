@@ -1,5 +1,6 @@
 package io.github.kkysen.quicktrip.app;
 
+import io.github.kkysen.quicktrip.apis.google.geocoding.Geolocation;
 import io.github.kkysen.quicktrip.app.SearchView.DestField;
 import io.github.kkysen.quicktrip.app.data.NoDateDestination;
 import io.github.kkysen.quicktrip.app.input.AddressInputError;
@@ -36,7 +37,7 @@ public class SearchModel implements Model {
     
     private transient @Getter int numDestinations;
     
-    private @Getter String origin;
+    private @Getter Geolocation origin;
     private @Getter LocalDate startDate;
     private @Getter List<NoDateDestination> destinations;
     private @Getter long budget;
@@ -53,7 +54,7 @@ public class SearchModel implements Model {
         this.budgetInput = budgetInput;
     }
     
-    public SearchModel(final String origin, final LocalDate date, final int numDestinations,
+    public SearchModel(final Geolocation origin, final LocalDate date, final int numDestinations,
             final List<NoDateDestination> destinations, final int budget, final int numPeople) {
         this.origin = origin;
         this.startDate = date;
@@ -65,9 +66,8 @@ public class SearchModel implements Model {
     
     @Validation
     public boolean validateOrigin() throws AddressInputError, EmptyInputError {
-        final boolean validated = AddressInputError.validate(originInput);
-        origin = originInput;
-        return validated;
+        origin = AddressInputError.validate(originInput);
+        return true;
     }
     
     private static class DateInputError extends InputError {

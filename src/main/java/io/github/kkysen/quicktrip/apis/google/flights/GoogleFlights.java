@@ -28,7 +28,7 @@ import lombok.RequiredArgsConstructor;
 @Json
 @RequiredArgsConstructor
 @Getter
-public class GoogleFlights implements Flight {
+public class GoogleFlights {
 	private Trip trips;
 	//private List<Option> sortedOptions;
 	//private int duration;
@@ -109,6 +109,10 @@ public class GoogleFlights implements Flight {
 		})
 		.collect(Collectors.toList());
 		return sortedOptions;
+	}
+	
+	public List<? extends Flight> getFlights() {
+		return sortOptions();
 	}
 	
 	public Option getOption(int index) {

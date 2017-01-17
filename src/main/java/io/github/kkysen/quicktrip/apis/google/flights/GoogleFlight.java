@@ -1,5 +1,7 @@
 package io.github.kkysen.quicktrip.apis.google.flights;
 
+import java.time.Duration;
+
 import io.github.kkysen.quicktrip.app.data.Flight;
 import io.github.kkysen.quicktrip.json.Json;
 
@@ -15,7 +17,10 @@ import lombok.RequiredArgsConstructor;
 @RequiredArgsConstructor
 @Getter
 public class GoogleFlight implements Flight {
-    
-    
-    
+	private Trip trips;
+
+	@Override
+	public Duration getDuration() {
+		return null;
+	}
 }

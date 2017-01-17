@@ -40,15 +40,16 @@ public class GoogleFlight implements Flight {
 			})
 			.collect(Collectors.toList());
 		
-		//Now to get the ariports
+		//Now to get the airports
 		List<Set<String>> airports = sortedOptions.stream()
 				.flatMap(option -> {
 					option.getSlice().stream()
 						.flatMap(slice -> {
-							
+							slice.getSegment().stream();
 						})
-					return null;
+					return List<Set<String>>;
 				})
+				.collect(Collectors.toList());
 				
 	}
 }

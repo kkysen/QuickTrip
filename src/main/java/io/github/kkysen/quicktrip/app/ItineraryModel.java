@@ -115,7 +115,8 @@ public class ItineraryModel {
                     final String origin = findOrigin(cluster).getAddress();
                     final List<String> destinations = cluster.stream().map(Geolocation::getAddress)
                             .collect(Collectors.toList());
-                    return new GoogleDrivingDirectionsRequest(origin, destinations);
+                    final String destination = destinations.remove(destinations.size() - 1);
+                    return new GoogleDrivingDirectionsRequest(origin, destination, destinations);
                 })
                 .map(GoogleDrivingDirectionsRequest::getResponseSafely)
                 .collect(Collectors.toList());

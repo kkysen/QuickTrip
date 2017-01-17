@@ -98,7 +98,7 @@ public class GoogleFlights implements Flight {
 		
 	}*/
 	
-	
+	//for each option, pricae, duration
 	public List<Option> sortOptions() {
 		List<Option> sortedOptions = trips.getTripOption().stream()
 		.sorted((first, second) -> {

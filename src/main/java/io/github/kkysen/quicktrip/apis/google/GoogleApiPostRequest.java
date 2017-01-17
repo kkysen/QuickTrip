@@ -20,8 +20,8 @@ import org.apache.http.impl.client.HttpClientBuilder;
  */
 public abstract class GoogleApiPostRequest<R> extends GoogleApiRequest<R> {
     
-    @Override
-    protected R deserializeFromUrl(final String url) throws ClientProtocolException, IOException {
+    protected InputStream postInputStream(final String url)
+            throws ClientProtocolException, IOException {
         final String jsonRequestBody = GSON.toJson(this);
         StringEntity entity;
         try {
@@ -43,7 +43,12 @@ public abstract class GoogleApiPostRequest<R> extends GoogleApiRequest<R> {
         } catch (final IOException e) {
             throw new RuntimeException("not sure why there was an IOException here", e);
         }
-        return deserializeFromReader(new InputStreamReader(in));
+        return in;
+    }
+    
+    @Override
+    protected R deserializeFromUrl(final String url) throws ClientProtocolException, IOException {
+        return deserializeFromReader(new InputStreamReader(postInputStream(url)));
     }
     
     @Override

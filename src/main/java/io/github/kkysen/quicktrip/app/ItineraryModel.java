@@ -44,7 +44,7 @@ public class ItineraryModel {
     private final @Getter long budget;
     private final @Getter LocalDate startDate;
     private final @Getter Geolocation origin;
-    private final @Getter List<Destination> hotelDestination;
+    private final @Getter List<Destination> destinations;
     private @Getter List<Flight> flights;
     private final List<Hotel> hotels;
     private final @Getter int cost;
@@ -60,7 +60,7 @@ public class ItineraryModel {
                 .getResponseSafely();
     }
     
-    private List<Destination> orderDestinations() {
+    private void finishItinerary() {
         final DrivingDirections directions = getInitialDirections();
         if (directions.isImpossible()) {
             try {
@@ -71,8 +71,6 @@ public class ItineraryModel {
             }
         }
         itinerary.addDirections(directions, noDateDests);
-        itinerary.close();
-        return itinerary.getHotelDestinations();
     }
     
     private List<Geolocation> getGeolocations() {
@@ -165,9 +163,8 @@ public class ItineraryModel {
             throw error;
         }
     }
-
     
-    private List<Destination> orderOverseasDestinations() throws NoTripFoundError {
+    private void finishOverseasItinerary() throws NoTripFoundError {
         final List<Geolocation> locations = getGeolocations();
         final List<List<Geolocation>> clusters = getClusters(locations);
         final List<DrivingDirections> clusteredDirections = getClusteredDirections(clusters);
@@ -177,22 +174,6 @@ public class ItineraryModel {
         } catch (final ApiRequestException e) {
             throw new RuntimeException(e); // FIXME not sure what to do
         }
-        itinerary.close();
-        return itinerary.getHotelDestinations();
-    }
-    
-    private Flights findOptimalFlights(
-            final List<Pair<Geolocation, Geolocation>> pairedFlightDests) {
-        return null;
-    }
-    
-    private Hotels findOptimalHotels() {
-        System.out.println("scraping hotels");
-        final Hotels originalHotels = new Hotels(hotelDestination, budget);
-        System.out.println("annealing");
-        final SimulatedAnnealer<Hotels> annealer = new SimulatedAnnealer<>(originalHotels); // FIXME add tuning args
-        annealer.search(); // FIXME add numIters
-        return annealer.getMinState();
     }
     
     public ItineraryModel(final SearchModel searchArgs) {
@@ -204,17 +185,9 @@ public class ItineraryModel {
         System.out.println(startDate);
         itinerary = new Itinerary(origin, startDate, numPeople);
         noDateDests = searchArgs.getDestinations();
-        
-        hotelDestination = orderDestinations();
-        
-        final Hotels optimalHotels = findOptimalHotels();
-        cost = optimalHotels.totalPrice();
-        hotels = optimalHotels.getHotels();
-        for (int i = 0; i < hotels.size(); i++) {
-            hotelDestination.get(i).setHotel(hotels.get(i));
-        }
-        
-        hotels.forEach(System.out::println);
+        finishItinerary();
+        itinerary.close();
+        destinations = itinerary.getDestinations();
     }
     
 }

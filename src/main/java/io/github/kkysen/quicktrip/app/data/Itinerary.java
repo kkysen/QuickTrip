@@ -169,7 +169,10 @@ public class Itinerary implements Closeable {
     
     public void setMissingAirports() {
         // need to get this list of optimal flights somehow
-        final List<Flight> flights = new ArrayList<>(); // FIXME
+        //final List<Flight> flights = new ArrayList<>(); // FIXME
+        final List<Flight> flights = possibleFlights.stream()
+                .map(list -> list.get(0))
+                .collect(Collectors.toList());
         final Iterator<Destination> missingAirportIter = missingAirports.iterator();
         for (final Flight flight : flights) {
             missingAirportIter.next().setLocation(getAirportLocation(flight.getStartAirport()));

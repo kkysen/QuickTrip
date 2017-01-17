@@ -2,6 +2,8 @@ package io.github.kkysen.quicktrip.app;
 
 import static org.junit.Assert.assertEquals;
 
+import io.github.kkysen.quicktrip.apis.google.geocoding.Geolocation;
+import io.github.kkysen.quicktrip.apis.google.geocoding.GoogleGeocodingRequest;
 import io.github.kkysen.quicktrip.app.data.NoDateDestination;
 import io.github.kkysen.quicktrip.io.MyFiles;
 
@@ -51,7 +53,8 @@ public class ItineraryScreenModelTest {
         for (int i = 0; i < numDests; i++) {
             final int singleNumDays = random.nextInt(8) + 1;
             numDays += singleNumDays;
-            dests.add(new NoDateDestination(randomCity(), singleNumDays));
+            final Geolocation location = new GoogleGeocodingRequest(randomCity()).getResponseSafely();
+            dests.add(new NoDateDestination(location, singleNumDays));
         }
         
         final int budget = numDays * 400;

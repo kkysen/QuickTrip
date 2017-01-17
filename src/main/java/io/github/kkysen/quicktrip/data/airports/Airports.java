@@ -11,6 +11,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.List;
 import java.util.Map;
+import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -20,6 +21,15 @@ import java.util.stream.Stream;
  * @author Khyber Sen
  */
 public class Airports {
+    
+    public static final Airports AIRPORTS;
+    static {
+        try {
+            AIRPORTS = new Airports();
+        } catch (final IOException e) {
+            throw new RuntimeException(e);
+        }
+    }
     
     private static final Path DIR = Paths.get("src", "main", "resources", "airports");
     private static final Path ORIGINAL_PATH = DIR.resolve("airport-codes.csv");
@@ -48,6 +58,7 @@ public class Airports {
     
     private final List<Airport> airports;
     private final Map<String, List<Airport>> airportsByCountry;
+    private final Map<String, Airport> airportsByIataCode;
     
     public Airports() throws IOException {
         airports = Files.lines(PATH, Constants.CHARSET)
@@ -56,6 +67,12 @@ public class Airports {
                 .collect(Collectors.toList());
         airportsByCountry = airports.parallelStream()
                 .collect(Collectors.groupingBy(Airport::getCountry));
+        airportsByIataCode = airports.parallelStream()
+                .collect(Collectors.toMap(Airport::getIataCode, Function.identity()));
+    }
+    
+    public Airport withIataCode(final String iataCode) {
+        return airportsByIataCode.get(iataCode);
     }
     
     public Stream<Airport> stream() {
@@ -74,7 +91,7 @@ public class Airports {
      *         (largeness) and distance
      */
     public Stream<Airport> inRadius(final Geolocation location, final double radius) {
-        final LatLng latLng = location.getLocation();
+        final LatLng latLng = location.getLatLng();
         return inCountry(location.getCountry())
                 .stream()
                 //.peek(System.out::println)

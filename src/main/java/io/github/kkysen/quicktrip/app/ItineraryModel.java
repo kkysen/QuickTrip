@@ -28,6 +28,8 @@ import org.apache.commons.math3.ml.clustering.DBSCANClusterer;
 
 import lombok.Getter;
 
+import javafx.application.Platform;
+
 /**
  * 
  * 
@@ -42,7 +44,7 @@ public class ItineraryModel {
     private final @Getter long budget;
     private final @Getter LocalDate startDate;
     private final @Getter Geolocation origin;
-    private final @Getter List<Destination> destinations;
+    private final @Getter List<Destination> hotelDestination;
     private @Getter List<Flight> flights;
     private final List<Hotel> hotels;
     private final @Getter int cost;
@@ -50,10 +52,10 @@ public class ItineraryModel {
     private final Itinerary itinerary;
     
     private DrivingDirections getInitialDirections() {
-        waypoints = new ArrayList<>(noDateDests.size());
-        for (final NoDateDestination noDateDest : noDateDests) {
-            waypoints.add(noDateDest.getAddress());
-        }
+        waypoints = noDateDests.stream()
+                .map(NoDateDestination::getLocation)
+                .map(Geolocation::getAddress)
+                .collect(Collectors.toList());
         return new GoogleDrivingDirectionsRequest(origin.getAddress(), waypoints)
                 .getResponseSafely();
     }
@@ -61,10 +63,16 @@ public class ItineraryModel {
     private List<Destination> orderDestinations() {
         final DrivingDirections directions = getInitialDirections();
         if (directions.isImpossible()) {
-            return orderOverseasDestinations();
+            try {
+                return orderOverseasDestinations();
+            } catch (final NoTripFoundError e) {
+                e.getErrorDialog().showAndWait();
+                Platform.exit(); // this is a fatal error
+            }
         }
         itinerary.addDirections(directions, noDateDests);
-        return itinerary.getDestinations();
+        itinerary.close();
+        return itinerary.getHotelDestinations();
     }
     
     private List<Geolocation> getGeolocations() {
@@ -168,7 +176,8 @@ public class ItineraryModel {
         } catch (final ApiRequestException e) {
             throw new RuntimeException(e); // FIXME not sure what to do
         }
-        return itinerary.getDestinations();
+        itinerary.close();
+        return itinerary.getHotelDestinations();
     }
     
     private Flights findOptimalFlights(
@@ -178,7 +187,7 @@ public class ItineraryModel {
     
     private Hotels findOptimalHotels() {
         System.out.println("scraping hotels");
-        final Hotels originalHotels = new Hotels(destinations, budget);
+        final Hotels originalHotels = new Hotels(hotelDestination, budget);
         System.out.println("annealing");
         final SimulatedAnnealer<Hotels> annealer = new SimulatedAnnealer<>(originalHotels); // FIXME add tuning args
         annealer.search(); // FIXME add numIters
@@ -193,13 +202,13 @@ public class ItineraryModel {
         itinerary = new Itinerary(origin, startDate, numPeople);
         noDateDests = searchArgs.getDestinations();
         
-        destinations = orderDestinations();
+        hotelDestination = orderDestinations();
         
         final Hotels optimalHotels = findOptimalHotels();
         cost = optimalHotels.totalPrice();
         hotels = optimalHotels.getHotels();
         for (int i = 0; i < hotels.size(); i++) {
-            destinations.get(i).setHotel(hotels.get(i));
+            hotelDestination.get(i).setHotel(hotels.get(i));
         }
         
         hotels.forEach(System.out::println);

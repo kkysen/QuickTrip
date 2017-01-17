@@ -3,16 +3,22 @@ package io.github.kkysen.quicktrip.app.data;
 import io.github.kkysen.quicktrip.apis.ApiRequestException;
 import io.github.kkysen.quicktrip.apis.google.flights.GoogleFlightsRequest;
 import io.github.kkysen.quicktrip.apis.google.geocoding.Geolocation;
+import io.github.kkysen.quicktrip.apis.google.geocoding.GoogleGeocodingRequest;
+import io.github.kkysen.quicktrip.apis.google.maps.directions.GoogleDrivingDirectionsRequest;
 import io.github.kkysen.quicktrip.apis.google.maps.directions.response.DrivingDirections;
 import io.github.kkysen.quicktrip.apis.google.maps.directions.response.Leg;
 import io.github.kkysen.quicktrip.apis.google.maps.directions.response.Waypoint;
 import io.github.kkysen.quicktrip.app.QuickTripConstants;
+import io.github.kkysen.quicktrip.data.airports.Airport;
 
+import java.io.Closeable;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
+import java.util.stream.Collectors;
 
 import lombok.Getter;
 
@@ -21,7 +27,7 @@ import lombok.Getter;
  * 
  * @author Khyber Sen
  */
-public class Itinerary {
+public class Itinerary implements Closeable {
     
     private final Geolocation origin;
     private final LocalDate startDate;
@@ -30,12 +36,19 @@ public class Itinerary {
     private int daysElapsed = 0;
     
     // a null in the list means there is a flight there
-    private final @Getter List<Destination> destinations = new ArrayList<>();
+    private final @Getter List<Destination> hotelDestinations = new ArrayList<>();
+    
+    private final List<List<Destination>> destinations = new ArrayList<>();
+    private List<Destination> currentDestinations = new ArrayList<>();
+    private final Destination lastDestination;
     
     private final List<List<Flight>> possibleFlights = new ArrayList<>();
+    private final List<Destination> missingAirports = new ArrayList<>(); // locations must be set later
     
     public Itinerary(final Geolocation origin, final LocalDate startDate, final int numPeople) {
         this.origin = origin;
+        addDestination(origin, 0);
+        lastDestination = currentDestinations.get(0);
         this.startDate = startDate;
         this.numPeople = numPeople;
     }
@@ -44,30 +57,41 @@ public class Itinerary {
         return startDate.plusDays(daysElapsed);
     }
     
-    public void addFlight(final Geolocation from, final Geolocation to) throws ApiRequestException {
-        possibleFlights.add(GoogleFlightsRequest.near(from, to, getDate(), numPeople));
-        destinations.add(null);
-        if (daysElapsed != 0) {
-            daysElapsed++;
-        }
+    private void flushCurrentDestinations() {
+        destinations.add(currentDestinations);
+        currentDestinations = new ArrayList<>();
     }
     
-    public void addFlight(final Geolocation to) throws ApiRequestException {
-        Geolocation from;
-        final int numDests = destinations.size();
-        if (numDests == 0) {
-            from = origin;
-        } else {
-            from = destinations.get(numDests - 1).getLocation();
-        }
-        addFlight(from, to);
-    }
-    
+    // base call
     private void addDestination(final Geolocation location, final int numDays) {
         final LocalDate startDate = getDate();
         daysElapsed += numDays;
         final LocalDate endDate = getDate();
-        destinations.add(new Destination(location, numDays, startDate, endDate, numDays));
+        final Destination destination = new Destination(location, numDays, startDate, endDate,
+                numPeople);
+        if (numDays != 0) {
+            hotelDestinations.add(destination);
+        }
+        currentDestinations.add(destination);
+    }
+    
+    private void addAirport() {
+        addDestination((Geolocation) null, 0);
+        missingAirports.add(lastDestination);
+    }
+    
+    // base call
+    public void addFlight(final Geolocation from, final Geolocation to) throws ApiRequestException {
+        possibleFlights.add(GoogleFlightsRequest.near(from, to, getDate(), numPeople));
+        addAirport();
+        if (daysElapsed != 0) {
+            daysElapsed++;
+        }
+        addAirport();
+    }
+    
+    public void addFlight(final Geolocation to) throws ApiRequestException {
+        addFlight(lastDestination.getLocation(), to);
     }
     
     private void addDestination(final Leg leg, final int numDays) {
@@ -101,13 +125,7 @@ public class Itinerary {
             addDestination(legs.get(i), noDateDests.get(waypointOrder.get(i)));
         }
         // "add" last leg whose destination is the origin in order to check for a flight
-        addDestination(legs.get(legs.size() - 1), 0);
-        // remove the last origin destination if it is the origin
-        final int lastIndex = destinations.size() - 1;
-        final Destination lastDest = destinations.get(lastIndex);
-        if (!lastDest.getLocation().equals(origin)) {
-            destinations.remove(lastIndex);
-        }
+        addDestination(legs.get(legs.size() - 1), 0); // no hotel
     }
     
     private DrivingDirections getDirectionsWithOrigin(
@@ -120,7 +138,8 @@ public class Itinerary {
         return null; // shouldn't happen
     }
     
-    private void addDirections(final DrivingDirections directions, final Map<Geolocation, Integer> numDaysAtEachLocation) {
+    private void addDirections(final DrivingDirections directions,
+            final Map<Geolocation, Integer> numDaysAtEachLocation) {
         // no destination at local origin, already taken care of
         for (final Leg leg : directions.getLegs()) {
             final Waypoint endLocation = leg.getEndLocation();
@@ -140,12 +159,54 @@ public class Itinerary {
             addDirections(directions, numDaysAtEachLocation);
         }
         // I chose to put directions w/ origin at end, no particular reason
-        addFlight(origin);
+        addFlight(origin, 0); // no hotel
         addDirections(directionsFromOrigin, numDaysAtEachLocation);
     }
     
+    private Geolocation getAirportLocation(final Airport airport) {
+        return new GoogleGeocodingRequest(airport.getLocation()).getResponseSafely();
+    }
+    
+    public void setMissingAirports() {
+        // need to get this list of optimal flights somehow
+        final List<Flight> flights = new ArrayList<>(); // FIXME
+        final Iterator<Destination> missingAirportIter = missingAirports.iterator();
+        for (final Flight flight : flights) {
+            missingAirportIter.next().setLocation(getAirportLocation(flight.getStartAirport()));
+            missingAirportIter.next().setLocation(getAirportLocation(flight.getEndAirport()));
+        }
+    }
+    
+    /**
+     * not IO related at all, but close() should be called after adding things
+     * to this itinerary
+     * 
+     * must be closed after setting airport locations
+     * getDirections() won't work before airport locations are set
+     */
+    @Override
+    public void close() {
+        flushCurrentDestinations();
+        for (final Destination missingAirport : missingAirports) {
+            if (missingAirport.getLocation() == null) {
+                throw new IllegalStateException("airport locations not set yet");
+            }
+        }
+    }
+    
     public List<DrivingDirections> getDirections() {
-        
+        return destinations.parallelStream()
+                .map(interFlightDestinations -> {
+                    final List<String> waypoints = interFlightDestinations.stream()
+                            .map(Destination::getAddress)
+                            .collect(Collectors.toList());
+                    final String localDestination = waypoints.remove(waypoints.size() - 1);
+                    final String localOrigin = waypoints.remove(0);
+                    return new GoogleDrivingDirectionsRequest(localOrigin, localDestination,
+                            waypoints);
+                })
+                .map(GoogleDrivingDirectionsRequest::getResponseSafely)
+                .collect(Collectors.toList());
     }
     
 }

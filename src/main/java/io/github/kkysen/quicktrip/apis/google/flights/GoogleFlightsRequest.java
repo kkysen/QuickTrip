@@ -1,5 +1,7 @@
 package io.github.kkysen.quicktrip.apis.google.flights;
 
+import static io.github.kkysen.quicktrip.data.airports.Airports.AIRPORTS;
+
 import io.github.kkysen.quicktrip.apis.ApiRequestException;
 import io.github.kkysen.quicktrip.apis.google.GoogleApiPostRequest;
 import io.github.kkysen.quicktrip.apis.google.geocoding.Geolocation;
@@ -8,7 +10,6 @@ import io.github.kkysen.quicktrip.data.airports.Airport;
 import io.github.kkysen.quicktrip.data.airports.Airports;
 import io.github.kkysen.quicktrip.json.Json;
 
-import java.io.IOException;
 import java.lang.reflect.Type;
 import java.nio.file.Path;
 import java.time.LocalDate;
@@ -33,15 +34,6 @@ public class GoogleFlightsRequest extends GoogleApiPostRequest<List<Flight>> {
     private static final Type RESPONSE_TYPE = new TypeToken<List<GoogleFlight>>() {}.getType();
     
     private static final String BASE_URL = "https://www.googleapis.com/qpxExpress/v1/trips/search";
-    
-    private static final Airports AIRPORTS;
-    static {
-        try {
-            AIRPORTS = new Airports();
-        } catch (final IOException e) {
-            throw new RuntimeException(e);
-        }
-    }
     
     private final Airport origin;
     private final Airport destination;

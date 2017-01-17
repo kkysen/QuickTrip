@@ -35,7 +35,8 @@ public class Itinerary implements Closeable {
     
     private int daysElapsed = 0;
     
-    private final List<List<Destination>> destinations = new ArrayList<>();
+    private @Getter int numClusters;
+    private @Getter final List<List<Destination>> destinations = new ArrayList<>();
     private List<Destination> currentDestinations = new ArrayList<>();
     private final Destination lastDestination;
     
@@ -257,6 +258,7 @@ public class Itinerary implements Closeable {
     @Override
     public void close() {
         flushCurrentDestinations();
+        numClusters = destinations.size();
         hotels = findOptimalHotels();
         flights = findOptimalFlights();
         setMissingAirports();

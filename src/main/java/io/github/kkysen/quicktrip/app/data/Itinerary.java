@@ -35,15 +35,22 @@ public class Itinerary implements Closeable {
     
     private int daysElapsed = 0;
     
-    // a null in the list means there is a flight there
-    private final @Getter List<Destination> hotelDestinations = new ArrayList<>();
-    
     private final List<List<Destination>> destinations = new ArrayList<>();
     private List<Destination> currentDestinations = new ArrayList<>();
     private final Destination lastDestination;
     
+    // a null in the list means there is a flight there
+    private final @Getter List<Destination> hotelDestinations = new ArrayList<>();
+    private List<Hotel> hotels;
+    private @Getter hotelCost;
+    
     private final List<List<Flight>> possibleFlights = new ArrayList<>();
     private final List<Destination> missingAirports = new ArrayList<>(); // locations must be set later
+    private List<Flight> flights = new ArrayList<>();
+    private @Getter flightCost;
+    
+    private @Getter List<DrivingDirections> directions;
+    private @Getter int totalCost;
     
     public Itinerary(final Geolocation origin, final LocalDate startDate, final int numPeople) {
         this.origin = origin;
@@ -184,12 +191,24 @@ public class Itinerary implements Closeable {
         return new GoogleGeocodingRequest(airport.getLocation()).getResponseSafely();
     }
     
-    public void setMissingAirports() {
+    public List<Hotel> findOptimalHotels() {
+        System.out.println("scraping hotels");
+        final Hotels originalHotels = new Hotels(hotelDestinations, budget);
+        System.out.println("annealing");
+        final SimulatedAnnealer<Hotels> annealer = new SimulatedAnnealer<>(originalHotels); // FIXME add tuning args
+        annealer.search(); // FIXME add numIters
+        return annealer.getMinState().getHotels();
+    }
+    
+    public List<Flight> findOptimalAirports() {
         // need to get this list of optimal flights somehow
         //final List<Flight> flights = new ArrayList<>(); // FIXME
-        final List<Flight> flights = possibleFlights.stream()
+        return possibleFlights.stream()
                 .map(list -> list.get(0))
                 .collect(Collectors.toList());
+    }
+    
+    private void setMissingAirports() {
         final Iterator<Destination> missingAirportIter = missingAirports.iterator();
         for (final Flight flight : flights) {
             missingAirportIter.next().setLocation(getAirportLocation(flight.getStartAirport()));
@@ -197,24 +216,7 @@ public class Itinerary implements Closeable {
         }
     }
     
-    /**
-     * not IO related at all, but close() should be called after adding things
-     * to this itinerary
-     * 
-     * must be closed after setting airport locations
-     * getDirections() won't work before airport locations are set
-     */
-    @Override
-    public void close() {
-        flushCurrentDestinations();
-        for (final Destination missingAirport : missingAirports) {
-            if (missingAirport.getLocation() == null) {
-                throw new IllegalStateException("airport locations not set yet");
-            }
-        }
-    }
-    
-    public List<DrivingDirections> getDirections() {
+    public List<DrivingDirections> findDirections() {
         return destinations.parallelStream()
                 .map(interFlightDestinations -> {
                     final List<String> waypoints = interFlightDestinations.stream()
@@ -227,6 +229,46 @@ public class Itinerary implements Closeable {
                 })
                 .map(GoogleDrivingDirectionsRequest::getResponseSafely)
                 .collect(Collectors.toList());
+    }
+    
+    private int hotelCost() {
+        int cost = 0;
+        for (Destination dest : hotelDestinations) {
+            cost += dest.getHotel().getPrice();
+        }
+        return cost;
+    }
+    
+    private int flightCost() {
+        int cost = 0;
+        for (Flight flight : flights) {
+            cost += flight.getPrice();
+        }
+        return cost;
+    }
+    
+    /**
+     * not IO related at all, but close() should be called after adding things
+     * to this itinerary
+     * 
+     * must be closed after setting airport locations
+     * getDirections() won't work before airport locations are set
+     */
+    @Override
+    public void close() {
+        flushCurrentDestinations();
+        hotels = findOptimalHotels();
+        flights = findOptimalFlights();
+        setMissingAirports();
+        directions = findDirections();
+        hotelCost = hotelCost();
+        flightCost = flightCost();
+        totalCost = hotelCost + flightCost();
+        for (final Destination missingAirport : missingAirports) {
+            if (missingAirport.getLocation() == null) {
+                throw new IllegalStateException("airport locations not set yet");
+            }
+        }
     }
     
 }

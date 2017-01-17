@@ -2,10 +2,13 @@ package io.github.kkysen.quicktrip.apis.google.flights;
 
 
 import java.time.Duration;
+import java.util.ArrayList;
 import java.util.Comparator;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 import io.github.kkysen.quicktrip.app.data.Flight;
 import io.github.kkysen.quicktrip.data.airports.Airport;
@@ -45,7 +48,7 @@ public class GoogleFlights implements Flight {
 			.collect(Collectors.toList());
 		
 		//Now to get the airports
-		List<Set<String>> airports = sortedOptions.stream()
+		/*List<Set<String>> airports = sortedOptions.stream()
 				.flatMap(option -> {
 					option.getSlice().stream()
 						.flatMap(slice -> {
@@ -53,7 +56,34 @@ public class GoogleFlights implements Flight {
 						})
 					return List<Set<String>>;
 				})
+				.collect(Collectors.toList());*/
+		
+		//time for drastic measures
+		//slice to segment
+		/*List<String> airports = */
+		List<Segment> seg = sortedOptions.get(0).getSlice().stream()
+				.flatMap(slice -> {
+					//reduce to stream of segments
+					return slice.getSegment().stream();
+				})
 				.collect(Collectors.toList());
+		
+		//segment to set of ariports
+		Set<String> airports = new HashSet<>();
+		seg.stream()
+			.forEach(segment -> {
+				airports.add(segment.getLeg().get(0).getOrigin());
+				airports.add(segment.getLeg().get(0).getDestination());
+			});
+
+				/*.flatMap(option -> {
+					option.getSlice().get(0).getSegment().stream()
+						.flatMap(segment -> {
+							Set<String> s =
+							segment.getLeg().get(0).getOrigin()
+						})
+						
+				})*/
 				
 	}
 	

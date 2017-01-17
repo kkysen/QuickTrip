@@ -1,5 +1,6 @@
 package io.github.kkysen.quicktrip.apis.google.flights;
 
+
 import java.time.Duration;
 import java.util.Comparator;
 import java.util.List;
@@ -7,7 +8,10 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 import io.github.kkysen.quicktrip.app.data.Flight;
+import io.github.kkysen.quicktrip.data.airports.Airport;
 import io.github.kkysen.quicktrip.json.Json;
+
+import java.util.List;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
@@ -20,7 +24,7 @@ import lombok.RequiredArgsConstructor;
 @Json
 @RequiredArgsConstructor
 @Getter
-public class GoogleFlight implements Flight {
+public class GoogleFlights implements Flight {
 	private Trip trips;
 
 	@Override
@@ -52,4 +56,23 @@ public class GoogleFlight implements Flight {
 				.collect(Collectors.toList());
 				
 	}
+	
+	public List<Flight> getFlights() {
+        return null;
+    }
+
+	@Override
+	public Airport getStartAirport() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Airport getEndAirport() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+
 }

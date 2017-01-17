@@ -1,5 +1,7 @@
 package io.github.kkysen.quicktrip.app.data;
 
+import io.github.kkysen.quicktrip.data.airports.Airport;
+
 import java.time.Duration;
 
 /**
@@ -10,5 +12,9 @@ import java.time.Duration;
 public interface Flight {
     
     public Duration getDuration();
+    
+    public Airport getStartAirport();
+    
+    public Airport getEndAirport();
     
 }

@@ -12,9 +12,9 @@ import java.util.List;
  * 
  * @author Khyber Sen
  */
-public class GoogleFlightsAdapter extends TypeReaderAdapter<List<GoogleFlight>> {
+public class GoogleFlightsAdapter extends TypeReaderAdapter<List<GoogleFlights>> {
 
-    List<GoogleFlight> flights = new ArrayList<>();
+    List<GoogleFlights> flights = new ArrayList<>();
     
     @Override
     protected void addPropertyReaders() {
@@ -29,7 +29,7 @@ public class GoogleFlightsAdapter extends TypeReaderAdapter<List<GoogleFlight>> 
 
     
     @Override
-    public List<GoogleFlight> get() {
+    public List<GoogleFlights> get() {
         return flights;
     }
     

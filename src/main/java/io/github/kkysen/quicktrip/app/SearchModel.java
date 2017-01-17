@@ -10,6 +10,7 @@ import io.github.kkysen.quicktrip.app.input.Model;
 import io.github.kkysen.quicktrip.app.input.Validation;
 import io.github.kkysen.quicktrip.app.input.WholeNumberInputError;
 import io.github.kkysen.quicktrip.json.Json;
+import io.github.kkysen.quicktrip.reflect.Reflect;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
@@ -119,6 +120,11 @@ public class SearchModel implements Model {
     public boolean validateBudget() throws InputError {
         budget = WholeNumberInputError.validate(budgetInput, "Budget", Long.MAX_VALUE);
         return true;
+    }
+    
+    @Override
+    public String toString() {
+        return Reflect.toString(this);
     }
     
 }

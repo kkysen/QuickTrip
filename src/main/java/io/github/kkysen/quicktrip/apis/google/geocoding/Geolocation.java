@@ -43,8 +43,11 @@ public class Geolocation extends GoogleApiResponse implements Clusterable {
     @Override
     public void postDeserialize() {
         super.postDeserialize();
-        final String[] addressParts = address.split(", ");
-        country = addressParts[addressParts.length - 1];
+        if (address != null) {
+            final String[] addressParts = address.split(", ");
+            country = addressParts[addressParts.length - 1];
+        }
+        
     }
     
     public boolean exists() {
@@ -66,7 +69,7 @@ public class Geolocation extends GoogleApiResponse implements Clusterable {
     public double[] getPoint() {
         return latLng.getCoords();
     }
-
+    
     @Override
     public int hashCode() {
         final int prime = 31;
@@ -74,7 +77,7 @@ public class Geolocation extends GoogleApiResponse implements Clusterable {
         result = prime * result + (placeId == null ? 0 : placeId.hashCode());
         return result;
     }
-
+    
     @Override
     public boolean equals(final Object obj) {
         if (this == obj) {

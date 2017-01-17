@@ -8,7 +8,6 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-import com.google.gson.TypeAdapter;
 import com.google.gson.stream.JsonReader;
 import com.google.gson.stream.JsonWriter;
 
@@ -17,10 +16,8 @@ import com.google.gson.stream.JsonWriter;
  * 
  * @author Khyber Sen
  */
-public abstract class TypeReaderAdapter<T> extends TypeAdapter<T> {
-    
-    protected JsonReader in;
-    
+public abstract class TypeReaderAdapter<T> extends TypeAdapterReaderHelper<T> {
+        
     private final Map<String, IOFunction<JsonReader, Object>> propertyReaders = new HashMap<>();
     
     protected final void addPropertyReader(final String name,
@@ -29,30 +26,6 @@ public abstract class TypeReaderAdapter<T> extends TypeAdapter<T> {
     }
     
     protected abstract void addPropertyReaders();
-    
-    protected final void readUntilName(final String name) throws IOException {
-        while (in.hasNext()) {
-            if (in.nextName().equals(name)) {
-                break;
-            } else {
-                in.skipValue();
-            }
-        }
-    }
-    
-    protected final void readUntilEnd() throws IOException {
-        readUntilName(null);
-    }
-    
-    protected final String nextStringNamed(final String name) throws IOException {
-        readUntilName(name);
-        return in.nextString();
-    }
-    
-    protected final String nextString() throws IOException {
-        in.nextName();
-        return in.nextString();
-    }
     
     public abstract void read() throws IOException;
     

@@ -6,6 +6,7 @@ import io.github.kkysen.quicktrip.apis.google.LatLng;
 import io.github.kkysen.quicktrip.apis.google.maps.GoogleMapsRequest;
 
 import java.nio.file.Path;
+import java.time.Instant;
 import java.util.List;
 
 import org.apache.commons.lang3.tuple.Pair;
@@ -56,6 +57,7 @@ public class GoogleGeocodingRequest extends GoogleMapsRequest<Geolocation> {
     public static void main(final String[] args) throws ApiRequestException {
         System.out.println(
                 new GoogleGeocodingRequest("296 6th St, Brooklyn, NY 11215").getResponse());
+        System.out.println(Instant.now());
     }
     
 }

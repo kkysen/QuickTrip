@@ -148,6 +148,7 @@ public class SearchController implements Screen {
     
     private void oldSearch(final int searchNum) {
         models.add(0, models.remove(searchNum));
+        System.out.println(models);
         model = models.get(0);
         loadedSearch();
     }

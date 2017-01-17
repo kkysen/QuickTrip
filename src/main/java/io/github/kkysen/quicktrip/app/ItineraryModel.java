@@ -195,10 +195,12 @@ public class ItineraryModel {
     }
     
     public ItineraryModel(final SearchModel searchArgs) {
+        System.out.println(searchArgs);
         numPeople = searchArgs.getNumPeople();
         budget = searchArgs.getBudget();
         startDate = searchArgs.getStartDate();
         origin = searchArgs.getOrigin();
+        System.out.println(startDate);
         itinerary = new Itinerary(origin, startDate, numPeople);
         noDateDests = searchArgs.getDestinations();
         

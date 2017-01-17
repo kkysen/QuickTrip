@@ -1,10 +1,12 @@
 {
-  "location": {
+  "latLng": {
     "lat": "40.67142399999999",
     "lng": "-73.98621399999999"
   },
+  "formatted_address": "296 6th St, Brooklyn, NY 11215, USA",
   "country": "USA",
-  "placeId": "ChIJX4VAKvxawokRo_eOlBzI5CI",
+  "place_id": "ChIJX4VAKvxawokRo_eOlBzI5CI",
   "status": "OK",
-  "ok": true
+  "ok": true,
+  "impossible": false
 }

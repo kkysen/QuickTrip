@@ -28,6 +28,7 @@ public class AddressInputError extends InputError {
             throw none();
         }
         final Geolocation location = new GoogleGeocodingRequest(address).getResponseSafely();
+        System.out.println(location);
         if (!location.exists()) {
             throw nonexistent(address);
         }

@@ -650,13 +650,22 @@ public abstract class CachedApiRequest<R> implements Request<R> {
         final Instant lastTime = requestCache.getTime(url);
         final Duration elapsed = Duration.between(lastTime, Instant.now());
         final Duration refreshDuration = getRefreshDuration();
-        return refreshDuration.minus(elapsed).isNegative();
+        final boolean expired = refreshDuration.minus(elapsed).isNegative();
+        if (expired) {
+            requestCache.entrySet().remove(requestCache.getId(url));
+        }
+        return expired;
     }
     
     /**
      * @return true if the response has been cached and is recent enough
      */
     private boolean isCached() {
+        System.out.println(getClass().getSimpleName() + ": " + url);
+        System.out.println(requestCache.containsUrl(url));
+        if (requestCache.containsUrl(url)) {
+            System.out.println(!isExpired());
+        }
         return requestCache.containsUrl(url) && !isExpired();
     }
     
@@ -714,6 +723,9 @@ public abstract class CachedApiRequest<R> implements Request<R> {
         final Map<Field, Object> queryEntries = Reflect.getFieldEntries(queryFields, this);
         for (final Entry<Field, Object> entry : queryEntries.entrySet()) {
             final Field queryField = entry.getKey();
+            if (entry.getValue() == null) {
+                continue;
+            }
             final String value = entry.getValue().toString();
             // if the value of this query is null or an empty String, then skip it
             if (value == null || value.isEmpty()) {

@@ -1,94 +1,36 @@
 [
   {
-    "origin": "Brooklyn, NY",
-    "startDate": "2017-01-10",
+    "origin": {
+      "latLng": {
+        "lat": "40.6781784",
+        "lng": "-73.94415789999999"
+      },
+      "formatted_address": "Brooklyn, NY, USA",
+      "country": "USA",
+      "place_id": "ChIJCSF8lBZEwokRhngABHRcdoI",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    "startDate": "2017-01-17",
     "destinations": [
       {
-        "address": "Chicago, IL",
-        "numDays": 5
-      }
-    ],
-    "budget": 1200,
-    "numPeople": 3
-  },
-  {
-    "origin": "345 Chambers St, New York, NY 10282",
-    "startDate": "2017-01-10",
-    "destinations": [
-      {
-        "address": "San Francisco, NY",
+        "location": {
+          "latLng": {
+            "lat": "41.8781136",
+            "lng": "-87.6297982"
+          },
+          "formatted_address": "Chicago, IL, USA",
+          "country": "USA",
+          "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+          "status": "OK",
+          "ok": true,
+          "impossible": false
+        },
         "numDays": 2
-      },
-      {
-        "address": "Chicago, IL",
-        "numDays": 3
-      },
-      {
-        "address": "Los Angeles, CA",
-        "numDays": 4
-      },
-      {
-        "address": "Brooklyn, NY",
-        "numDays": 5
       }
     ],
-    "budget": 4000,
+    "budget": 500,
     "numPeople": 3
-  },
-  {
-    "origin": "345 Chambers St",
-    "startDate": "2017-01-09",
-    "destinations": [
-      {
-        "address": "Brooklyn",
-        "numDays": 234
-      }
-    ],
-    "budget": 234,
-    "numPeople": 33
-  },
-  {
-    "origin": "296 6th St, Brooklyn, NY",
-    "startDate": "2017-01-08",
-    "destinations": [
-      {
-        "address": "San Francisco, CA",
-        "numDays": 2
-      },
-      {
-        "address": "Orlando, FL",
-        "numDays": 3
-      },
-      {
-        "address": "Seattle, Washington",
-        "numDays": 4
-      },
-      {
-        "address": "San Antonio, TX",
-        "numDays": 5
-      },
-      {
-        "address": "Chicago, IL",
-        "numDays": 6
-      }
-    ],
-    "budget": 5000,
-    "numPeople": 5
-  },
-  {
-    "budget": 0,
-    "numPeople": 0
-  },
-  {
-    "origin": "Brooklyn, NY",
-    "startDate": "2017-01-08",
-    "destinations": [
-      {
-        "address": "Manhattan, NY",
-        "numDays": 5
-      }
-    ],
-    "budget": 2000,
-    "numPeople": 5
   }
 ]

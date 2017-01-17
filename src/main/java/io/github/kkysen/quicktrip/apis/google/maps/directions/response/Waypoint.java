@@ -22,6 +22,7 @@ public class Waypoint extends Geolocation {
     public void setAddressLocationFromLeg(final LatLng latLng, final String address) {
         this.latLng = latLng;
         this.address = address;
+        postDeserialize();
     }
     
 }

@@ -201,7 +201,7 @@ public class SearchView {
         } else {
             //final List<Node[]> destFieldNodes = new ArrayList<>(numDests);
             for (int i = 0; i < numDests; i++) {
-                rows.add(fromRowIndex + i, new DestField(i + 1).toNodeArray());
+                rows.addNodes(fromRowIndex + i, new DestField(i + 1));
                 //destFieldNodes.add(new DestField(i + 1).toNodeArray());
             }
             //rows.addAll(fromRowIndex, destFieldNodes);

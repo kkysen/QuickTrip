@@ -20,17 +20,18 @@ public class GoogleApiResponse implements PostProcessable {
     @SerializedName(value = "status", alternate = {"geocoder_status"}) // for Waypoint
     protected final String status;
     
-    private transient boolean ok;
-    private transient boolean impossible;
+    private boolean ok;
+    private boolean impossible;
     
     public GoogleApiResponse(final String status) {
         this.status = status;
-        postDeserialize();
+        //postDeserialize();
     }
     
     @Override
     public void postDeserialize() {
         PostProcessable.super.postDeserialize();
+        System.out.println("post deserialized");
         ok = status.equals("OK");
         impossible = status.equals("ZERO_RESULTS");
     }

@@ -47,10 +47,12 @@ public class Itinerary implements Closeable {
     
     public Itinerary(final Geolocation origin, final LocalDate startDate, final int numPeople) {
         this.origin = origin;
-        addDestination(origin, 0);
-        lastDestination = currentDestinations.get(0);
+        System.out.println(startDate);
         this.startDate = startDate;
         this.numPeople = numPeople;
+        System.out.println(this.startDate);
+        addDestination(origin, 0);
+        lastDestination = currentDestinations.get(0);
     }
     
     private LocalDate getDate() {

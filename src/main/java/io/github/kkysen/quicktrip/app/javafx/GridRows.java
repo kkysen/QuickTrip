@@ -92,6 +92,9 @@ public class GridRows {
     }
     
     private void remove(final Node... children) {
+        if (children == null) {
+            return;
+        }
         for (final Node child : children) {
             childList.remove(child);
         }

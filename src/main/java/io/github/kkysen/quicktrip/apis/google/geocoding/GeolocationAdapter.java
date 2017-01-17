@@ -28,9 +28,7 @@ public class GeolocationAdapter extends TypeReaderAdapter<Geolocation> {
     
     private LatLng readLatLng(final JsonReader in) throws IOException {
         in.beginObject();
-        if (!in.nextName().equals("latLng")) {
-            throw new MissingInformationException("latLng");
-        }
+        readUntilName("location");
         final LatLng location = latLngAdapter.read(in);
         readUntilEnd();
         in.endObject();

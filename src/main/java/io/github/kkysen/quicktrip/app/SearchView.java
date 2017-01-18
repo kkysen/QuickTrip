@@ -105,7 +105,9 @@ public class SearchView {
          */
         @Validation
         private boolean validateAddress() throws AddressInputError, EmptyInputError {
-            location = AddressInputError.validate(address.getText());
+            if (location == null) {
+                location = AddressInputError.validate(address.getText());
+            }
             return true;
         }
         

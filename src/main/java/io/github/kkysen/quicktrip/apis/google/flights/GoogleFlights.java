@@ -94,6 +94,9 @@ public class GoogleFlights {
     
     //for each option, pricae, duration
     public List<Option> sortOptions() {
+        if (trips.getTripOption() == null) {
+            return new ArrayList<>();
+        }
         final List<Option> sortedOptions = trips.getTripOption().stream()
                 .sorted((first, second) -> {
                     //signum gets the sign of the value

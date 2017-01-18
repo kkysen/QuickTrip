@@ -9,9 +9,9 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -72,9 +72,14 @@ public class Airports {
                 .collect(Collectors.toList());
         airportsByCountry = airports.parallelStream()
                 .collect(Collectors.groupingBy(Airport::getCountry));
-        airportsByIataCode = airports.parallelStream()
-                .collect(Collectors.toMap(Airport::getIataCode, Function.identity(),
-                        (a1, a2) -> a1));
+        // doesn't work sometimes (takes infinite time) for some unknown reason
+        //        airportsByIataCode = airports.parallelStream()
+        //                .collect(Collectors.toMap(Airport::getIataCode, Function.identity(),
+        //                        (a1, a2) -> a1));
+        airportsByIataCode = new HashMap<>();
+        for (final Airport airport : airports) {
+            airportsByIataCode.put(airport.getIataCode(), airport);
+        }
     }
     
     public Airport withIataCode(final String iataCode) {

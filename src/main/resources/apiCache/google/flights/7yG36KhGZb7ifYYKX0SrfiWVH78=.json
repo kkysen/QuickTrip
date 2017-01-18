@@ -1,0 +1,48 @@
+{
+  "trips": {
+    "requestId": "d396UYdqAECQd2CU10PprB",
+    "tripOption": [
+      {
+        "saleTotal": "USD348.60",
+        "id": "QHvV9uq6TsIOL3QK8FRIvR001",
+        "slice": [
+          {
+            "duration": 157,
+            "segment": [
+              {
+                "duration": 157,
+                "flight": {
+                  "carrier": "UA",
+                  "number": "463"
+                },
+                "id": "G9DIeUz1J4I3EjwF",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LLlvo7-g98ClgFy9",
+                    "arrivalTime": "2017-01-18T09:37-06:00",
+                    "departureTime": "2017-01-18T08:00-05:00",
+                    "origin": "LGA",
+                    "destination": "ORD",
+                    "originTerminal": "B",
+                    "destinationTerminal": "1",
+                    "duration": "157"
+                  }
+                ],
+                "connectionDuration": 0
+              }
+            ]
+          }
+        ],
+        "pricing": [
+          {
+            "baseFareTotal": "USD94.88",
+            "saleFareTotal": "USD94.88",
+            "saleTaxTotal": "USD21.32",
+            "saleTotal": "USD116.20"
+          }
+        ]
+      }
+    ]
+  }
+}

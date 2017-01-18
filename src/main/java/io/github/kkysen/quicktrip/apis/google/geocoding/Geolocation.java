@@ -54,11 +54,15 @@ public class Geolocation extends GoogleApiResponse implements Clusterable {
         return isOk();
     }
     
+    public static Geolocation at(final String address) throws ApiRequestException {
+        return new GoogleGeocodingRequest(address).getResponse();
+    }
+    
     public static boolean exists(final String address) throws ApiRequestException {
         if (address == null || address.isEmpty()) {
             return false;
         }
-        return new GoogleGeocodingRequest(address).getResponse().exists();
+        return Geolocation.at(address).exists();
     }
     
     public static Geolocation createDummy(final LatLng location, final String country) {

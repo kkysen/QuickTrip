@@ -47,14 +47,68 @@ public class GoogleFlightsRequest extends GoogleApiPostRequest<GoogleFlights> {
     }
     
     @Override
+    public int hashCode() {
+        final int prime = 31;
+        int result = 1;
+        result = prime * result + (date == null ? 0 : date.hashCode());
+        result = prime * result + (destination == null ? 0 : destination.hashCode());
+        result = prime * result + numPeople;
+        result = prime * result + numSolutions;
+        result = prime * result + (origin == null ? 0 : origin.hashCode());
+        return result;
+    }
+    
+    @Override
+    public boolean equals(final Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        if (obj == null) {
+            return false;
+        }
+        if (getClass() != obj.getClass()) {
+            return false;
+        }
+        final GoogleFlightsRequest other = (GoogleFlightsRequest) obj;
+        if (date == null) {
+            if (other.date != null) {
+                return false;
+            }
+        } else if (!date.equals(other.date)) {
+            return false;
+        }
+        if (destination == null) {
+            if (other.destination != null) {
+                return false;
+            }
+        } else if (!destination.equals(other.destination)) {
+            return false;
+        }
+        if (numPeople != other.numPeople) {
+            return false;
+        }
+        if (numSolutions != other.numSolutions) {
+            return false;
+        }
+        if (origin == null) {
+            if (other.origin != null) {
+                return false;
+            }
+        } else if (!origin.equals(other.origin)) {
+            return false;
+        }
+        return true;
+    }
+    
+    @Override
     protected Class<? extends GoogleFlights> getResponseClass() {
         return GoogleFlights.class;
     }
     
-//    @Override
-//    protected Type getResponseType() {
-//        return RESPONSE_TYPE;
-//    }
+    //    @Override
+    //    protected Type getResponseType() {
+    //        return RESPONSE_TYPE;
+    //    }
     
     @Override
     protected String getBaseUrl() {
@@ -66,21 +120,24 @@ public class GoogleFlightsRequest extends GoogleApiPostRequest<GoogleFlights> {
         return super.getRelativeCachePath().resolve("flights");
     }
     
-//    @Override
-//    protected void addTypeAdapters(final List<Pair<Type, TypeAdapter<?>>> adapters) {
-//        super.addTypeAdapters(adapters);
-//        adapters.add(Pair.of(RESPONSE_TYPE, new GoogleFlightsAdapter()));
-//    }
+    //    @Override
+    //    protected void addTypeAdapters(final List<Pair<Type, TypeAdapter<?>>> adapters) {
+    //        super.addTypeAdapters(adapters);
+    //        adapters.add(Pair.of(RESPONSE_TYPE, new GoogleFlightsAdapter()));
+    //    }
     
     public static List<Flight> near(final Geolocation origin, final Geolocation destination,
             final LocalDate date, final int numPeople) throws ApiRequestException {
         final List<Flight> flights = new ArrayList<>(Airports.NUM_NEAR * Airports.NUM_NEAR);
         final List<Airport> originAirports = AIRPORTS.near(origin);
+        System.out.println(originAirports);
         final List<Airport> destinationAirports = AIRPORTS.near(destination);
+        System.out.println(destinationAirports);
         for (final Airport originAirport : originAirports) {
             for (final Airport destinationAirport : destinationAirports) {
                 final GoogleFlightsRequest request = new GoogleFlightsRequest(originAirport,
                         destinationAirport, date, numPeople);
+                System.out.println(request.getResponse());
                 flights.addAll(request.getResponse().getFlights());
             }
         }
@@ -88,10 +145,15 @@ public class GoogleFlightsRequest extends GoogleApiPostRequest<GoogleFlights> {
     }
     
     public static void main(final String[] args) throws ApiRequestException {
-        final Airport jfk = Airport.fromIataCode("JFK");
-        final Airport sfo = Airport.fromIataCode("SFO");
-        final GoogleFlightsRequest request = new GoogleFlightsRequest(jfk, sfo, 5);
+        final Airport jfk = AIRPORTS.withIataCode("JFK");
+        final Airport sfo = AIRPORTS.withIataCode("SFO");
+        final GoogleFlightsRequest request = new GoogleFlightsRequest(jfk, sfo, LocalDate.now(), 5,
+                1);
+        System.out.println(request.hashCode());
         request.getResponse().getFlights().forEach(System.out::println);
+        
+        near(Geolocation.at("Brooklyn"), Geolocation.at("Chicago"), LocalDate.now(), 3)
+                .forEach(System.out::println);
     }
     
 }

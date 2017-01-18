@@ -56,7 +56,7 @@ public abstract class JsonRequest<R> extends AbstractJsonRequest<R> {
         return builder.create();
     }
     
-    private final Gson gson = buildGson();
+    protected final Gson gson = buildGson();
     
     protected R deserializeFromReader(final Reader reader) {
         return gson.fromJson(reader, getResponseType());

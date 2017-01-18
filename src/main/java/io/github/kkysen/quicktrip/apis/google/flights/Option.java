@@ -13,6 +13,7 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 import lombok.Getter;
+import lombok.RequiredArgsConstructor;
 
 /**
  * 
@@ -21,6 +22,7 @@ import lombok.Getter;
  */
 @Json
 @Getter
+@RequiredArgsConstructor
 public class Option implements Flight {
     
     private String saleTotal;

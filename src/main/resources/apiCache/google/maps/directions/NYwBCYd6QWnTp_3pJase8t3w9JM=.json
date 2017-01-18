@@ -1,0 +1,252 @@
+{
+  "numWaypoints": 3,
+  "numLegs": 2,
+  "geocoded_waypoints": [
+    {
+      "latLng": {
+        "lat": "41.8781139",
+        "lng": "-87.6297872"
+      },
+      "formatted_address": "Chicago, IL, USA",
+      "country": "USA",
+      "place_id": "ChIJVT6ytx1awokRH3VG16s5AGg",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    {
+      "latLng": {
+        "lat": "40.7177428",
+        "lng": "-74.0140931"
+      },
+      "formatted_address": "345 Chambers St, New York, NY 10282, USA",
+      "country": "USA",
+      "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    {
+      "latLng": {
+        "lat": "41.8781139",
+        "lng": "-87.6297872"
+      },
+      "formatted_address": "Chicago, IL, USA",
+      "country": "USA",
+      "place_id": "ChIJVT6ytx1awokRH3VG16s5AGg",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    }
+  ],
+  "origin": {
+    "latLng": {
+      "lat": "41.8781139",
+      "lng": "-87.6297872"
+    },
+    "formatted_address": "Chicago, IL, USA",
+    "country": "USA",
+    "place_id": "ChIJVT6ytx1awokRH3VG16s5AGg",
+    "status": "OK",
+    "ok": true,
+    "impossible": false
+  },
+  "destination": {
+    "latLng": {
+      "lat": "41.8781139",
+      "lng": "-87.6297872"
+    },
+    "formatted_address": "Chicago, IL, USA",
+    "country": "USA",
+    "place_id": "ChIJVT6ytx1awokRH3VG16s5AGg",
+    "status": "OK",
+    "ok": true,
+    "impossible": false
+  },
+  "route": {
+    "bounds": {
+      "northeast": {
+        "lat": "41.875681",
+        "lng": "-74.0140931"
+      },
+      "southwest": {
+        "lat": "40.7177428",
+        "lng": "-87.6445009"
+      }
+    },
+    "legs": [
+      {
+        "distance": {},
+        "duration": 42922,
+        "start_address": "345 Chambers St, New York, NY 10282, USA",
+        "start_location": {
+          "lat": "40.7177428",
+          "lng": "-74.0140931"
+        },
+        "startLocation": {
+          "latLng": {
+            "lat": "41.8781139",
+            "lng": "-87.6297872"
+          },
+          "formatted_address": "Chicago, IL, USA",
+          "country": "USA",
+          "place_id": "ChIJVT6ytx1awokRH3VG16s5AGg",
+          "status": "OK",
+          "ok": true,
+          "impossible": false
+        },
+        "end_address": "Chicago, IL, USA",
+        "end_location": {
+          "lat": "41.8781139",
+          "lng": "-87.6297872"
+        },
+        "endLocation": {
+          "latLng": {
+            "lat": "40.7177428",
+            "lng": "-74.0140931"
+          },
+          "formatted_address": "345 Chambers St, New York, NY 10282, USA",
+          "country": "USA",
+          "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+          "status": "OK",
+          "ok": true,
+          "impossible": false
+        },
+        "googleMapsUrl": "https://www.google.com/maps/dir/Chicago, IL, USA/345 Chambers St, New York, NY 10282, USA"
+      },
+      {
+        "distance": {},
+        "duration": 42936,
+        "start_address": "Chicago, IL, USA",
+        "start_location": {
+          "lat": "41.8781139",
+          "lng": "-87.6297872"
+        },
+        "startLocation": {
+          "latLng": {
+            "lat": "40.7177428",
+            "lng": "-74.0140931"
+          },
+          "formatted_address": "345 Chambers St, New York, NY 10282, USA",
+          "country": "USA",
+          "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+          "status": "OK",
+          "ok": true,
+          "impossible": false
+        },
+        "end_address": "345 Chambers St, New York, NY 10282, USA",
+        "end_location": {
+          "lat": "40.7177428",
+          "lng": "-74.0140931"
+        },
+        "endLocation": {
+          "latLng": {
+            "lat": "41.8781139",
+            "lng": "-87.6297872"
+          },
+          "formatted_address": "Chicago, IL, USA",
+          "country": "USA",
+          "place_id": "ChIJVT6ytx1awokRH3VG16s5AGg",
+          "status": "OK",
+          "ok": true,
+          "impossible": false
+        },
+        "googleMapsUrl": "https://www.google.com/maps/dir/345 Chambers St, New York, NY 10282, USA/Chicago, IL, USA"
+      }
+    ],
+    "overview_polyline": {
+      "points": "{towF`{vbMgqDjfPsUtgNwiF~hLksMzu]onHraS|oBdz]aqCj~RsnA~dVef@djX~j@|eIenA|yE{tIlmJ}KnqS_uJbnI_`B|oOqT|o]zrC``v@ae@hnQdyBtbSb`ClvLh|AfaHw~ApaCzm@nxPuwCrnLfeD|d`@liBnnj@owJrb[aqCfeMbs@hzTbtBhmOiWlp\\_r@hsQdpB`dL`gCl_U|_IbhLnrC~}LmoAbyKwkFl|MkgCngFwDzyJrlHvdUre@b~G_xCnkPkvH~yd@gcFdhRw_IrtNiT||YssB~tZrcAjyTgfDbgG}hBtqZzn@jyUmlCnvg@f{@dmXcPvjHz~BrhIofCttQadA`}YhXndj@|sAlax@paFfno@xxEjjZk`KdpN{tJ~rJom@bx[_uAn|m@nTvwf@uzH|e_@woMh}o@udA`gXd}@`}SrsDtfPfcDxmu@ibCrme@kpNnklA{|]rurAk{Bhef@b`Alu|@~S~lg@csB`o]{dCb_q@emAntO{kEvbFquLjp\\ufAlnZx{A`}ZsdAxu~@|lCvzv@}Jtg]tqAjwQa~D|dr@~r@x~R|rFbkRx`G`iVtvKpaWprBdad@}]fsX{fBdzTmpAl{_@gxMdgH{iKtnKasDtvG}wKzAidEd{@|aBbWlzNgrAjvKouQttNg_EzkCgwI`KotQddBqrTnvA}hXlIaj]k`Iiq^ozGkuVcjIm~P}iDegYjrCqhNpyAyy_@a~A_pZs_@gn}@alB}tRr`@ie[bk@eyc@u|AeaS`v@av`@npJ{lZ|wJmmOrpAmyn@dwCmcdAqw@{ez@nr@iun@|{Jghc@lkYibjA|{Li~yAuhBknt@qdHmya@|`A}tc@h{D{uW|vPsrq@pnAqaaBrlDeo[h|JerIf~Gs|KwtJi_m@gkB}xq@}xAe|v@mOk`VpdBssYpgB}fQqyCa|Jl}@gwVwm@ycQpoAinUo`AoqQ`fCun[iIg`IbmDq|E_~Aal^n}Ewe[oPsgTlyIkfOrwGkwUlvDumX|vCo{`@qyF}iSglAkuIrkEimNf_H}|QqeCwgN_{HmlLoaIohb@zyBedKarAmuWpoBmiPc}De}\\fyHyv`@t`EubJhQyqNehBioVe_Dwx]fpBw`OpZi{KrN_kR{uBskJeyD_`X|Duva@emDeb\\f_Ae{Yf`Au`\\zeKwkKz_CefMa}AgtEbwB}gEfgHk`Iz|@scr@rvBw_Sne@wzKs_BkyL|x@_fQjuDsvDpkAoaRb{GazIzeGq|MneCehKx`@kyNlzCg`M"
+    },
+    "summary": "I-80 W",
+    "warnings": [],
+    "waypoint_order": [
+      0
+    ]
+  },
+  "legs": [
+    {
+      "distance": {},
+      "duration": 42922,
+      "start_address": "345 Chambers St, New York, NY 10282, USA",
+      "start_location": {
+        "lat": "40.7177428",
+        "lng": "-74.0140931"
+      },
+      "startLocation": {
+        "latLng": {
+          "lat": "41.8781139",
+          "lng": "-87.6297872"
+        },
+        "formatted_address": "Chicago, IL, USA",
+        "country": "USA",
+        "place_id": "ChIJVT6ytx1awokRH3VG16s5AGg",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "end_address": "Chicago, IL, USA",
+      "end_location": {
+        "lat": "41.8781139",
+        "lng": "-87.6297872"
+      },
+      "endLocation": {
+        "latLng": {
+          "lat": "40.7177428",
+          "lng": "-74.0140931"
+        },
+        "formatted_address": "345 Chambers St, New York, NY 10282, USA",
+        "country": "USA",
+        "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "googleMapsUrl": "https://www.google.com/maps/dir/Chicago, IL, USA/345 Chambers St, New York, NY 10282, USA"
+    },
+    {
+      "distance": {},
+      "duration": 42936,
+      "start_address": "Chicago, IL, USA",
+      "start_location": {
+        "lat": "41.8781139",
+        "lng": "-87.6297872"
+      },
+      "startLocation": {
+        "latLng": {
+          "lat": "40.7177428",
+          "lng": "-74.0140931"
+        },
+        "formatted_address": "345 Chambers St, New York, NY 10282, USA",
+        "country": "USA",
+        "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "end_address": "345 Chambers St, New York, NY 10282, USA",
+      "end_location": {
+        "lat": "40.7177428",
+        "lng": "-74.0140931"
+      },
+      "endLocation": {
+        "latLng": {
+          "lat": "41.8781139",
+          "lng": "-87.6297872"
+        },
+        "formatted_address": "Chicago, IL, USA",
+        "country": "USA",
+        "place_id": "ChIJVT6ytx1awokRH3VG16s5AGg",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "googleMapsUrl": "https://www.google.com/maps/dir/345 Chambers St, New York, NY 10282, USA/Chicago, IL, USA"
+    }
+  ],
+  "waypointOrder": [
+    0
+  ],
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

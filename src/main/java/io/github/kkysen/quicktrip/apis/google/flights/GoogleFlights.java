@@ -1,21 +1,16 @@
 package io.github.kkysen.quicktrip.apis.google.flights;
 
 
-import java.time.Duration;
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
-
 import io.github.kkysen.quicktrip.app.data.Flight;
 import io.github.kkysen.quicktrip.data.airports.Airport;
 import io.github.kkysen.quicktrip.data.airports.Airports;
 import io.github.kkysen.quicktrip.json.Json;
 
+import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
+import java.util.stream.Collectors;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
@@ -100,7 +95,7 @@ public class GoogleFlights {
 	
 	//for each option, pricae, duration
 	public List<Option> sortOptions() {
-		List<Option> sortedOptions = trips.getTripOption().stream()
+		final List<Option> sortedOptions = trips.getTripOption().stream()
 		.sorted((first, second) -> {
 			//signum gets the sign of the value
 			return (int) Math.signum(
@@ -115,7 +110,7 @@ public class GoogleFlights {
 		return sortOptions();
 	}
 	
-	public Option getOption(int index) {
+	public Option getOption(final int index) {
 		return sortOptions().get(index);
 	}
 	
@@ -133,7 +128,7 @@ public class GoogleFlights {
 	}
 	
 	private Set<String> getAirportIatas() {
-		Set<String> airports = new HashSet<>();
+		final Set<String> airports = new HashSet<>();
 		getSegments().stream()
 			.forEach(segment -> {
 				airports.add(segment.getLeg().get(0).getOrigin());
@@ -144,8 +139,8 @@ public class GoogleFlights {
 	
 	
 	
-	private List<Airport> getAirportList() {
-		List<Airport> ports = new ArrayList<>();
+	public List<Airport> getAirportList() {
+		final List<Airport> ports = new ArrayList<>();
 		getAirportIatas().stream()
 			.forEach(airport -> {
 				ports.add(Airports.AIRPORTS.withIataCode(airport));
@@ -154,20 +149,20 @@ public class GoogleFlights {
 		return ports;
 	}
 	
-	@Override
-	public Duration getDuration() {
-		return Duration.ofMinutes(getSegments().get(0).getDuration());
-	}
-	
-	@Override
-	public Airport getStartAirport() {
-		return getAirportList().get(0);
-	}
-
-	@Override
-	public Airport getEndAirport() {
-		List<Airport> l = getAirportList();
-		return l.get(l.size()-1);
-	}
+//	@Override
+//	public Duration getDuration() {
+//		return Duration.ofMinutes(getSegments().get(0).getDuration());
+//	}
+//	
+//	@Override
+//	public Airport getStartAirport() {
+//		return getAirportList().get(0);
+//	}
+//
+//	@Override
+//	public Airport getEndAirport() {
+//		List<Airport> l = getAirportList();
+//		return l.get(l.size()-1);
+//	}
 
 }

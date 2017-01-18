@@ -14,6 +14,6 @@ public interface PostProcessable {
     
     public default void postDeserialize() {}
     
-    public default void postSerialize() {}
+    public default void preSerialize() {}
     
 }

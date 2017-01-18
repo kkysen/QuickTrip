@@ -25,7 +25,7 @@ public class PostProcessableFactory implements TypeAdapterFactory {
             @Override
             public void write(final JsonWriter out, final T value) throws IOException {
                 if (value instanceof PostProcessable) {
-                    ((PostProcessable) value).postSerialize();
+                    ((PostProcessable) value).preSerialize();
                 }
                 delegate.write(out, value);
             }

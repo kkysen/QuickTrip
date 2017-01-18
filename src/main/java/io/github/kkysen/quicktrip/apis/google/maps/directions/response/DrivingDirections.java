@@ -7,6 +7,7 @@ import java.util.List;
 
 import com.google.gson.annotations.SerializedName;
 
+import lombok.AccessLevel;
 import lombok.Getter;
 
 /**
@@ -25,7 +26,7 @@ public class DrivingDirections extends GoogleApiResponse {
     @SerializedName("geocoded_waypoints")
     private final List<Waypoint> waypoints;
     
-    private final @Getter(AccessLevel.NONE) List<Route> routes; // will be set to null
+    private @Getter(AccessLevel.NONE) List<Route> routes; // will be set to null
     
     private Waypoint origin;
     private Waypoint destination;
@@ -73,6 +74,12 @@ public class DrivingDirections extends GoogleApiResponse {
         super.postDeserialize();
         setFields();
         postDeserializeWaypointsAndLegs();
+    }
+    
+    @Override
+    public void preSerialize() {
+        super.preSerialize();
+        routes = null;
     }
     
 }

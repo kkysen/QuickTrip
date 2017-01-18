@@ -91,8 +91,7 @@ public class GoogleFlightsRequest extends GoogleApiPostRequest<GoogleFlights> {
         final Airport jfk = Airport.fromIataCode("JFK");
         final Airport sfo = Airport.fromIataCode("SFO");
         final GoogleFlightsRequest request = new GoogleFlightsRequest(jfk, sfo, 5);
-        final List<Flight> response = request.getResponse().getFlights();
-        response.forEach(System.out::println);
+        request.getResponse().getFlights().forEach(System.out::println);
     }
     
 }

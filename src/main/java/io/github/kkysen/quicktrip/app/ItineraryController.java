@@ -19,7 +19,7 @@ public class ItineraryController implements Screen {
     public void load(final SearchModel searchArgs) {
         model = new ItineraryModel(searchArgs);
         view = new ItineraryView();
-        view.addDestinations(model.getHotelDestination());
+        //view.addDestinations(model.getHotelDestination());
     }
     
     @Override

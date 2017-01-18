@@ -9,11 +9,14 @@ import io.github.kkysen.quicktrip.apis.google.maps.directions.response.DrivingDi
 import io.github.kkysen.quicktrip.apis.google.maps.directions.response.Leg;
 import io.github.kkysen.quicktrip.apis.google.maps.directions.response.Waypoint;
 import io.github.kkysen.quicktrip.app.QuickTripConstants;
+import io.github.kkysen.quicktrip.app.SearchModel;
 import io.github.kkysen.quicktrip.data.airports.Airport;
+import io.github.kkysen.quicktrip.optimization.simulatedAnnealing.SimulatedAnnealer;
 
 import java.io.Closeable;
 import java.time.LocalDate;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
@@ -32,6 +35,7 @@ public class Itinerary implements Closeable {
     private final Geolocation origin;
     private final LocalDate startDate;
     private final int numPeople;
+    private int budget;
     
     private int daysElapsed = 0;
     
@@ -43,22 +47,21 @@ public class Itinerary implements Closeable {
     // a null in the list means there is a flight there
     private final @Getter List<Destination> hotelDestinations = new ArrayList<>();
     private List<Hotel> hotels;
-    private @Getter hotelCost;
+    private @Getter int hotelCost;
     
     private final List<List<Flight>> possibleFlights = new ArrayList<>();
     private final List<Destination> missingAirports = new ArrayList<>(); // locations must be set later
     private List<Flight> flights = new ArrayList<>();
-    private @Getter flightCost;
+    private @Getter int flightCost;
     
     private @Getter List<DrivingDirections> directions;
     private @Getter int totalCost;
     
-    public Itinerary(final Geolocation origin, final LocalDate startDate, final int numPeople) {
-        this.origin = origin;
-        System.out.println(startDate);
-        this.startDate = startDate;
-        this.numPeople = numPeople;
-        System.out.println(this.startDate);
+    public Itinerary(final SearchModel searchArgs) {
+        origin = searchArgs.getOrigin();
+        startDate = searchArgs.getStartDate();
+        numPeople = searchArgs.getNumPeople();
+        budget = searchArgs.getNumPeople();
         addDestination(origin, 0);
         lastDestination = currentDestinations.get(0);
     }
@@ -141,7 +144,7 @@ public class Itinerary implements Closeable {
     private void moveOriginDirections(final List<DrivingDirections> clusteredDirections) {
         // leave out last one b/c that will be where directions to origin are placed
         for (int i = 0; i < clusteredDirections.size() - 1; i++) {
-            DrivingDirections directions = clusteredDirections.get(i);
+            final DrivingDirections directions = clusteredDirections.get(i);
             if (directions.getOrigin().equals(origin)) {
                 Collections.swap(clusteredDirections, i, 0);
             } else if (directions.getDestination().equals(origin)) {
@@ -192,18 +195,9 @@ public class Itinerary implements Closeable {
         return new GoogleGeocodingRequest(airport.getLocation()).getResponseSafely();
     }
     
-    public List<Hotel> findOptimalHotels() {
-        System.out.println("scraping hotels");
-        final Hotels originalHotels = new Hotels(hotelDestinations, budget);
-        System.out.println("annealing");
-        final SimulatedAnnealer<Hotels> annealer = new SimulatedAnnealer<>(originalHotels); // FIXME add tuning args
-        annealer.search(); // FIXME add numIters
-        return annealer.getMinState().getHotels();
-    }
-    
-    public List<Flight> findOptimalAirports() {
+    public List<Flight> findOptimalFlights() {
         // need to get this list of optimal flights somehow
-        //final List<Flight> flights = new ArrayList<>(); // FIXME
+        //final List<OtherFlight> flights = new ArrayList<>(); // FIXME
         return possibleFlights.stream()
                 .map(list -> list.get(0))
                 .collect(Collectors.toList());
@@ -215,6 +209,15 @@ public class Itinerary implements Closeable {
             missingAirportIter.next().setLocation(getAirportLocation(flight.getStartAirport()));
             missingAirportIter.next().setLocation(getAirportLocation(flight.getEndAirport()));
         }
+    }
+    
+    public List<Hotel> findOptimalHotels() {
+        System.out.println("scraping hotels");
+        final Hotels originalHotels = new Hotels(hotelDestinations, budget);
+        System.out.println("annealing");
+        final SimulatedAnnealer<Hotels> annealer = new SimulatedAnnealer<>(originalHotels); // FIXME add tuning args
+        annealer.search(); // FIXME add numIters
+        return annealer.getMinState().getHotels();
     }
     
     public List<DrivingDirections> findDirections() {
@@ -232,18 +235,18 @@ public class Itinerary implements Closeable {
                 .collect(Collectors.toList());
     }
     
-    private int hotelCost() {
+    private int flightCost() {
         int cost = 0;
-        for (Destination dest : hotelDestinations) {
-            cost += dest.getHotel().getPrice();
+        for (final Flight flight : flights) {
+            cost += flight.getPrice();
         }
         return cost;
     }
     
-    private int flightCost() {
+    private int hotelCost() {
         int cost = 0;
-        for (Flight flight : flights) {
-            cost += flight.getPrice();
+        for (final Destination dest : hotelDestinations) {
+            cost += dest.getHotel().getPrice();
         }
         return cost;
     }
@@ -259,18 +262,25 @@ public class Itinerary implements Closeable {
     public void close() {
         flushCurrentDestinations();
         numClusters = destinations.size();
-        hotels = findOptimalHotels();
         flights = findOptimalFlights();
         setMissingAirports();
-        directions = findDirections();
-        hotelCost = hotelCost();
         flightCost = flightCost();
+        budget -= flightCost;
+        hotels = findOptimalHotels();
+        hotelCost = hotelCost();
+        directions = findDirections();
         totalCost = hotelCost + flightCost();
-        for (final Destination missingAirport : missingAirports) {
-            if (missingAirport.getLocation() == null) {
-                throw new IllegalStateException("airport locations not set yet");
-            }
-        }
+        
+        System.out.println(flightCost);
+        flights.forEach(System.out::println);
+        System.out.println();
+        
+        System.out.println(hotelCost);
+        hotels.forEach(System.out::println);
+        System.out.println();
+        
+        System.out.println(totalCost);
+        directions.forEach(System.out::println);
     }
     
 }

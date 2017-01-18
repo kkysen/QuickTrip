@@ -9,7 +9,7 @@ import lombok.Getter;
 @Getter
 public class Segment {
 	private int duration;
-	private Flight flight;	//not the useful part
+	private OtherFlight flight;	//not the useful part
 	private String id;
 	private String cabin;
 	private List<Leg> leg;	//almost always contains only one thing

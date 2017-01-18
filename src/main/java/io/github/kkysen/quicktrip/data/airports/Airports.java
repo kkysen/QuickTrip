@@ -23,6 +23,13 @@ import java.util.stream.Stream;
 public class Airports {
     
     public static final Airports AIRPORTS;
+    
+    private static final Path DIR = Paths.get("src", "main", "resources", "airports");
+    private static final Path ORIGINAL_PATH = DIR.resolve("airport-codes.csv");
+    private static final Path PATH = DIR.resolve("airports.csv");
+    
+    public static final int NUM_NEAR = 3;
+    
     static {
         try {
             AIRPORTS = new Airports();
@@ -30,12 +37,6 @@ public class Airports {
             throw new RuntimeException(e);
         }
     }
-    
-    private static final Path DIR = Paths.get("src", "main", "resources", "airports");
-    private static final Path ORIGINAL_PATH = DIR.resolve("airport-codes.csv");
-    private static final Path PATH = DIR.resolve("airports.csv");
-    
-    public static final int NUM_NEAR = 3;
     
     private static String removeFirstCsv(final String csv) {
         return csv.substring(csv.indexOf(',') + 1);
@@ -124,8 +125,8 @@ public class Airports {
     public static void main(final String[] args) throws IOException {
         //filter();
         final Airports airports = new Airports();
-//        airports.inRadius(Geolocation.createDummy(LatLng.NYC, "US"), 20)
-//                .forEach(System.out::println);
+        //        airports.inRadius(Geolocation.createDummy(LatLng.NYC, "US"), 20)
+        //                .forEach(System.out::println);
         airports.near(Geolocation.createDummy(LatLng.NYC, "US")).forEach(System.out::println);
     }
     

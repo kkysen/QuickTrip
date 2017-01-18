@@ -661,11 +661,6 @@ public abstract class CachedApiRequest<R> implements Request<R> {
      * @return true if the response has been cached and is recent enough
      */
     private boolean isCached() {
-        System.out.println(getClass().getSimpleName() + ": " + url);
-        System.out.println(requestCache.containsUrl(url));
-        if (requestCache.containsUrl(url)) {
-            System.out.println(!isExpired());
-        }
         return requestCache.containsUrl(url) && !isExpired();
     }
     
@@ -807,12 +802,15 @@ public abstract class CachedApiRequest<R> implements Request<R> {
     protected abstract void cache(Path path, R response) throws IOException;
     
     private void setNonCachedResponse() {
-        System.out.println(getClass().getSimpleName() + ": " + url);
         try {
             if (isCached) {
+                System.out.print("cached");
+                System.out.println(": " + getClass().getSimpleName() + ": " + url);
                 final Path cachePath = requestCache.getPath(url);
                 response = deserializeFromFile(cachePath);
             } else {
+                System.out.print("new");
+                System.out.println(": " + getClass().getSimpleName() + ": " + url);
                 response = deserializeFromUrl(url);
                 requestCache.put(this);
                 final Path cachePath = requestCache.getPath(url);

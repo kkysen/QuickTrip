@@ -5,7 +5,7 @@ import lombok.Getter;
 
 @Json
 @Getter
-public class Flight {
+public class OtherFlight {
 	private String carrier;
 	private String number;
 }

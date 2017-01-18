@@ -6,6 +6,7 @@ import io.github.kkysen.quicktrip.apis.google.LatLng;
 import io.github.kkysen.quicktrip.apis.google.maps.GoogleMapsRequest;
 
 import java.nio.file.Path;
+import java.time.Duration;
 import java.time.Instant;
 import java.util.List;
 

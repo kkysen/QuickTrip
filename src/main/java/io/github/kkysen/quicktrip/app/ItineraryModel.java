@@ -6,22 +6,14 @@ import io.github.kkysen.quicktrip.apis.google.geocoding.Geolocation;
 import io.github.kkysen.quicktrip.apis.google.geocoding.GoogleGeocodingRequest;
 import io.github.kkysen.quicktrip.apis.google.maps.directions.GoogleDrivingDirectionsRequest;
 import io.github.kkysen.quicktrip.apis.google.maps.directions.response.DrivingDirections;
-import io.github.kkysen.quicktrip.app.data.Destination;
-import io.github.kkysen.quicktrip.app.data.Flight;
-import io.github.kkysen.quicktrip.app.data.Flights;
-import io.github.kkysen.quicktrip.app.data.Hotel;
-import io.github.kkysen.quicktrip.app.data.Hotels;
 import io.github.kkysen.quicktrip.app.data.Itinerary;
 import io.github.kkysen.quicktrip.app.data.NoDateDestination;
 import io.github.kkysen.quicktrip.app.input.InputError;
-import io.github.kkysen.quicktrip.optimization.simulatedAnnealing.SimulatedAnnealer;
 
-import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import org.apache.commons.lang3.tuple.Pair;
 import org.apache.commons.math3.ml.clustering.Cluster;
 import org.apache.commons.math3.ml.clustering.Clusterer;
 import org.apache.commons.math3.ml.clustering.DBSCANClusterer;
@@ -40,14 +32,7 @@ public class ItineraryModel {
     private final transient List<NoDateDestination> noDateDests;
     private transient List<String> waypoints;
     
-    private final @Getter int numPeople;
-    private final @Getter long budget;
-    private final @Getter LocalDate startDate;
     private final @Getter Geolocation origin;
-    private final @Getter List<Destination> destinations;
-    private @Getter List<Flight> flights;
-    private final List<Hotel> hotels;
-    private final @Getter int cost;
     
     private final Itinerary itinerary;
     
@@ -64,7 +49,8 @@ public class ItineraryModel {
         final DrivingDirections directions = getInitialDirections();
         if (directions.isImpossible()) {
             try {
-                return orderOverseasDestinations();
+                finishOverseasItinerary();
+                return;
             } catch (final NoTripFoundError e) {
                 e.getErrorDialog().showAndWait();
                 Platform.exit(); // this is a fatal error
@@ -177,17 +163,11 @@ public class ItineraryModel {
     }
     
     public ItineraryModel(final SearchModel searchArgs) {
-        System.out.println(searchArgs);
-        numPeople = searchArgs.getNumPeople();
-        budget = searchArgs.getBudget();
-        startDate = searchArgs.getStartDate();
         origin = searchArgs.getOrigin();
-        System.out.println(startDate);
-        itinerary = new Itinerary(origin, startDate, numPeople);
         noDateDests = searchArgs.getDestinations();
+        itinerary = new Itinerary(searchArgs);
         finishItinerary();
         itinerary.close();
-        destinations = itinerary.getDestinations();
     }
     
 }

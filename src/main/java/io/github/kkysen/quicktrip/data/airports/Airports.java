@@ -70,10 +70,10 @@ public class Airports {
                 .map(Airport::new)
                 .filter(airport -> !airport.getIataCode().isEmpty())
                 .collect(Collectors.toList());
-        airportsByCountry = airports.parallelStream()
+        airportsByCountry = airports.stream()
                 .collect(Collectors.groupingBy(Airport::getCountry));
         // doesn't work sometimes (takes infinite time) for some unknown reason
-        //        airportsByIataCode = airports.parallelStream()
+        //        airportsByIataCode = airports.stream()
         //                .collect(Collectors.toMap(Airport::getIataCode, Function.identity(),
         //                        (a1, a2) -> a1));
         airportsByIataCode = new HashMap<>();

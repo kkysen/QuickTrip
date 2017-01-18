@@ -4,6 +4,7 @@ import io.github.kkysen.quicktrip.app.data.Flight;
 import io.github.kkysen.quicktrip.data.airports.Airport;
 import io.github.kkysen.quicktrip.data.airports.Airports;
 import io.github.kkysen.quicktrip.json.Json;
+import io.github.kkysen.quicktrip.reflect.Reflect;
 
 import java.time.Duration;
 import java.util.ArrayList;
@@ -79,4 +80,10 @@ public class Option implements Flight {
         final List<Airport> l = getAirportList();
         return l.get(l.size() - 1);
     }
+    
+    @Override
+    public String toString() {
+        return Reflect.toString(this);
+    }
+    
 }

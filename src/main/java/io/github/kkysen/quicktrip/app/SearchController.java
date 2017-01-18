@@ -11,6 +11,7 @@ import java.io.IOException;
 import java.io.Reader;
 import java.lang.reflect.Type;
 import java.nio.file.Files;
+import java.util.Iterator;
 import java.util.List;
 
 import com.google.gson.reflect.TypeToken;
@@ -44,7 +45,6 @@ public class SearchController implements Screen {
     private final Button lastSearchBtn;
     
     public SearchController() {
-        
         view = new SearchView();
         
         moreDestinationsBtn = view.getMoreDestsBtn();
@@ -80,24 +80,31 @@ public class SearchController implements Screen {
         } catch (final IOException e) {
             throw new RuntimeException(e); // shouldn't happen
         }
-        return QuickTripConstants.GSON.fromJson(reader, MODEL_LIST_TYPE);
+        final List<SearchModel> models = QuickTripConstants.GSON.fromJson(reader, MODEL_LIST_TYPE);
+        models.forEach(SearchModel::setValidated);
+        return models;
     }
     
-    private void removeModelIfInvalid() {
-        boolean isValid = false;
-        try {
-            isValid = model.validate();
-        } catch (final InputError e) {}
-        if (!isValid) {
-            models.remove(0); // don't serialize invalid model
+    private void removeModelsIfInvalid() {
+        final Iterator<SearchModel> iter = models.iterator();
+        while (iter.hasNext()) {
+            final SearchModel model = iter.next();
+            if (model.isValidated()) {
+                continue;
+            }
+            boolean isValid = false;
+            try {
+                isValid = model.validate();
+                System.out.println(isValid);
+            } catch (final InputError e) {}
+            if (!isValid) {
+                iter.remove();
+            }
         }
     }
     
     void serializeModels() {
-        System.out.println("serializingModels");
-        if (!QuickTrip.SCREENS.getCurrentScreen().equals(ItineraryController.class)) {
-            removeModelIfInvalid();
-        }
+        removeModelsIfInvalid();
         final String json = QuickTripConstants.GSON.toJson(models, MODEL_LIST_TYPE);
         try {
             MyFiles.write(QuickTripConstants.SEARCH_MODEL_PATH, json);

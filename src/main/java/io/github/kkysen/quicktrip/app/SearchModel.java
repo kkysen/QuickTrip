@@ -44,6 +44,12 @@ public class SearchModel implements Model {
     private @Getter long budget;
     private @Getter int numPeople;
     
+    private transient @Getter @Setter boolean validated;
+    
+    public void setValidated() {
+        setValidated(true);
+    }
+    
     public SearchModel(final String originInput, final LocalDate startDateInput,
             final String numDestinationsInput, final List<DestField> destinationInputs,
             final String numPeopleInput, final String budgetInput) {

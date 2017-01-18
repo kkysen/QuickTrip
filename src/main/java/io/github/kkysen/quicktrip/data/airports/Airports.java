@@ -57,11 +57,15 @@ public class Airports {
                         .sorted()::iterator);
     }
     
+    private final Map<String, String> countries; // alpha-3 to alpha-2 country codes
+    
     private final List<Airport> airports;
     private final Map<String, List<Airport>> airportsByCountry;
     private final Map<String, Airport> airportsByIataCode;
     
     public Airports() throws IOException {
+        countries = Files.lines(DIR.resolve("countries.csv"))
+                .collect(Collectors.toMap(line -> line.substring(3), line -> line.substring(0, 2)));
         airports = Files.lines(PATH, Constants.CHARSET)
                 .map(Airport::new)
                 .filter(airport -> !airport.getIataCode().isEmpty())
@@ -69,7 +73,8 @@ public class Airports {
         airportsByCountry = airports.parallelStream()
                 .collect(Collectors.groupingBy(Airport::getCountry));
         airportsByIataCode = airports.parallelStream()
-                .collect(Collectors.toMap(Airport::getIataCode, Function.identity()));
+                .collect(Collectors.toMap(Airport::getIataCode, Function.identity(),
+                        (a1, a2) -> a1));
     }
     
     public Airport withIataCode(final String iataCode) {
@@ -81,7 +86,12 @@ public class Airports {
     }
     
     public List<Airport> inCountry(final String country) {
-        return airportsByCountry.get(country);
+        List<Airport> airportsInCountry = airportsByCountry.get(country);
+        if (airportsInCountry == null) {
+            // account for 3 letter codes
+            airportsInCountry = airportsByCountry.get(countries.get(country));
+        }
+        return airportsInCountry;
     }
     
     /**

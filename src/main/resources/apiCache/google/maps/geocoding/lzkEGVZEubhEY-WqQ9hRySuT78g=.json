@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.2284312",
+    "lng": "-92.00319549999999"
+  },
+  "formatted_address": "Pine Bluff, AR, USA",
+  "country": "USA",
+  "place_id": "ChIJ0xrUHng8LYYRmCrH6oOT3GE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

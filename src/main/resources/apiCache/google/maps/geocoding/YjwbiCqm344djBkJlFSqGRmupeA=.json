@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.6145169",
+    "lng": "-88.81394689999999"
+  },
+  "formatted_address": "Jackson, TN, USA",
+  "country": "USA",
+  "place_id": "ChIJ0XHNiLYFfIgRnRQ7gD12eK4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

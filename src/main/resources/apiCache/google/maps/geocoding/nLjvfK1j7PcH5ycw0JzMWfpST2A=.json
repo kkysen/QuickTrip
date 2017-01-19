@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.0023146",
+    "lng": "-89.424092"
+  },
+  "formatted_address": "Fitchburg, WI, USA",
+  "country": "USA",
+  "place_id": "ChIJEwzBOjKWB4gRJ-45kpmynaU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

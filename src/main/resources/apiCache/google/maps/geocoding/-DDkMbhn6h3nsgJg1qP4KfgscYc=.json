@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.0801429",
+    "lng": "-83.2320991"
+  },
+  "formatted_address": "Milledgeville, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJAVPZ9wm49ogR-9fEzeJxEpI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

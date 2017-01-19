@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.1031744",
+    "lng": "-96.67055030000002"
+  },
+  "formatted_address": "Allen, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJvXmUTS4XTIYR1Szekqkq6Mo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

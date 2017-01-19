@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "29.383845",
+    "lng": "-94.9027002"
+  },
+  "formatted_address": "Texas City, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJF7HtoBJ5P4YR4bTurbycLYY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

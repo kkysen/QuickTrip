@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.8722371",
+    "lng": "-117.8703363"
+  },
+  "formatted_address": "Placentia, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJmUH7xR7U3IARWBeNFCur1A0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

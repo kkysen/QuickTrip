@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.6478006",
+    "lng": "-93.3686555"
+  },
+  "formatted_address": "Albert Lea, MN 56007, USA",
+  "country": "USA",
+  "place_id": "ChIJ_zSLp5I28YcRbNi-Ofn6kxg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

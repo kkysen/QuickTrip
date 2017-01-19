@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.8875281",
+    "lng": "-88.3053525"
+  },
+  "formatted_address": "Geneva, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJmy3SY_7hDogRychlTAvt0VY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

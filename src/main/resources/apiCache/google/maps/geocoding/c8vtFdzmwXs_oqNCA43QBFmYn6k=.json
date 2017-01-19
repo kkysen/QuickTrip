@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.7414064",
+    "lng": "-118.1047866"
+  },
+  "formatted_address": "Seal Beach, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJMWN2ONje3IARFZQnbuxw_D0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

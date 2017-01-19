@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.930293",
+    "lng": "-118.2114603"
+  },
+  "formatted_address": "Lynwood, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJZ6ONppfLwoARqwb6abQj9ug",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.0686206",
+    "lng": "-118.0275667"
+  },
+  "formatted_address": "El Monte, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ79D2Y6TQwoARTTewpY4BD2s",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

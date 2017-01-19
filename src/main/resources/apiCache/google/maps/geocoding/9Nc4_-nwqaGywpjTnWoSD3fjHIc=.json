@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.3865312",
+    "lng": "-96.8483311"
+  },
+  "formatted_address": "Waxahachie, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJJesjlfzmToYRdRECFfu354Y",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

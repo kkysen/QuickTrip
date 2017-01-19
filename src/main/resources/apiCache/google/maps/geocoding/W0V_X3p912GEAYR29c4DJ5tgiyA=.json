@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.6183158",
+    "lng": "-111.8162931"
+  },
+  "formatted_address": "Cottonwood Heights, UT, USA",
+  "country": "USA",
+  "place_id": "ChIJJzHrctpiUocRQCIanmKVIgc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

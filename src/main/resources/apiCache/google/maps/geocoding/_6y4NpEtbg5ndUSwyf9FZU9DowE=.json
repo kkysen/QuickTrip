@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.7592955",
+    "lng": "-97.7972544"
+  },
+  "formatted_address": "Weatherford, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJqSduZKIGToYRAwUP3gTNJOw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

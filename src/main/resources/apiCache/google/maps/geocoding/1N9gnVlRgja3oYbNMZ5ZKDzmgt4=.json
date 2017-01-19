@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.4358294",
+    "lng": "-119.8276389"
+  },
+  "formatted_address": "Goleta, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ40iJCXlA6YARWE2IAMVEypM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

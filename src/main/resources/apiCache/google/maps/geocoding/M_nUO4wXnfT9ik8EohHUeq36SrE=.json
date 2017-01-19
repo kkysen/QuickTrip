@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.9741171",
+    "lng": "-122.0307963"
+  },
+  "formatted_address": "Santa Cruz, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJSdU2fBtEjoARhfnXKksQylI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

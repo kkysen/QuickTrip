@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "31.6940509",
+    "lng": "-89.1306124"
+  },
+  "formatted_address": "Laurel, MS, USA",
+  "country": "USA",
+  "place_id": "ChIJow2ACD00g4gR8rsJ_3dh16I",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.79676670000001",
+    "lng": "-74.4815438"
+  },
+  "formatted_address": "Morristown, NJ 07960, USA",
+  "country": "USA",
+  "place_id": "ChIJLSKWIZMJw4kRoSFvsb55sEM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

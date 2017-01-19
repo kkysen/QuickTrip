@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.3541659",
+    "lng": "-119.0592705"
+  },
+  "formatted_address": "Santa Paula, CA 93060, USA",
+  "country": "USA",
+  "place_id": "ChIJm0pej9W16YARIq9ZUPI4O-E",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

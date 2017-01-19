@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.6400541",
+    "lng": "-117.0841955"
+  },
+  "formatted_address": "Chula Vista, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJz6rDZUVO2YAR0yuPS3O4zEY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.0165053",
+    "lng": "-118.1137535"
+  },
+  "formatted_address": "Montebello, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJhV4fRirOwoAR2prNNJkxiH4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

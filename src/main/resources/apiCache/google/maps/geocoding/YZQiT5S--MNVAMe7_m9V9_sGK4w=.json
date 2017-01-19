@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.1828353",
+    "lng": "-80.76535799999999"
+  },
+  "formatted_address": "Niles, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJ0wAWEx3hM4gRUEW-MJoOGgc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

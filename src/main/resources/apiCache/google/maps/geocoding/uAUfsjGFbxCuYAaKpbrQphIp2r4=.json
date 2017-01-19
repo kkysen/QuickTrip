@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.1014873",
+    "lng": "-84.5193754"
+  },
+  "formatted_address": "Woodstock, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJ_aAYPRcX9YgR9wCZ8yQwTJ0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

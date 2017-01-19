@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.0954304",
+    "lng": "-96.46887269999999"
+  },
+  "formatted_address": "Corsicana, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJb1zT5fYrT4YRmCmh97bESXs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.52357920000001",
+    "lng": "-89.574563"
+  },
+  "formatted_address": "Stevens Point, WI, USA",
+  "country": "USA",
+  "place_id": "ChIJP5gzjY1aAIgRM67SsGh5voI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.3370413",
+    "lng": "-71.20922139999999"
+  },
+  "formatted_address": "Newton, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJpSUHhAmC44kRfq9wm3sIklU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

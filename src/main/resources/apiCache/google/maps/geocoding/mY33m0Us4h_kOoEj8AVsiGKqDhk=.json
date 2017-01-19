@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.6359009",
+    "lng": "-80.0961538"
+  },
+  "formatted_address": "Palm Springs, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJ2T2LjgDY2IgREBJA0zvgpfY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

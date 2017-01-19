@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.9294606",
+    "lng": "-116.977248"
+  },
+  "formatted_address": "Beaumont, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJb-EVG65E24ARyxp9OMqnDCM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

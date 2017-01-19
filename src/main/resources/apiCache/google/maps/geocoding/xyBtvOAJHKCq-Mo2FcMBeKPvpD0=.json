@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.51954",
+    "lng": "-70.8967155"
+  },
+  "formatted_address": "Salem, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJt1b4amRp44kRRVmlpaK44IE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

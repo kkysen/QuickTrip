@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.8715926",
+    "lng": "-122.272747"
+  },
+  "formatted_address": "Berkeley, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ00mFOjZ5hYARk-l1ppUV6pQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

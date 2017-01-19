@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "29.9891052",
+    "lng": "-97.87722670000001"
+  },
+  "formatted_address": "Kyle, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJ_RKeSnxQW4YRdrZvcekI9Ug",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.8795022",
+    "lng": "-111.7573521"
+  },
+  "formatted_address": "Casa Grande, AZ, USA",
+  "country": "USA",
+  "place_id": "ChIJaS1Kd39WKocRp2Hxaf4uw2A",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

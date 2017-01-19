@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.9275987",
+    "lng": "-73.9973608"
+  },
+  "formatted_address": "Bergenfield, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJg5dda07wwokReRwv_tzckVU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

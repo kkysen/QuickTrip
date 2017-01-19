@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.7044609",
+    "lng": "-93.2282613"
+  },
+  "formatted_address": "Sedalia, MO 65301, USA",
+  "country": "USA",
+  "place_id": "ChIJK7DKoMWFw4cRdR4hDvnOHTY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

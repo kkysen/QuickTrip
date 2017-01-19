@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.3229978",
+    "lng": "-122.0321823"
+  },
+  "formatted_address": "Cupertino, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJq3fTG1e0j4ARtHjho-E_TTk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.8208925",
+    "lng": "-84.01937889999999"
+  },
+  "formatted_address": "Fairborn, OH 45324, USA",
+  "country": "USA",
+  "place_id": "ChIJhSRQ-92dQIgRQDjoFx-gGgc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

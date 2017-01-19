@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.8257625",
+    "lng": "-96.6851982"
+  },
+  "formatted_address": "Lincoln, NE, USA",
+  "country": "USA",
+  "place_id": "ChIJZRJWylm-locRud7VH5uFOmM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

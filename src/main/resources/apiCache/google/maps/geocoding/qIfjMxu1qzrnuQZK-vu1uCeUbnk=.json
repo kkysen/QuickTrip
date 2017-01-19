@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.6518004",
+    "lng": "-96.9083366"
+  },
+  "formatted_address": "Duncanville, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJ_-7VgtuRToYRIDpiOMu9Hwc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

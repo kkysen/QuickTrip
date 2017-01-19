@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.6624312",
+    "lng": "-121.8746789"
+  },
+  "formatted_address": "Pleasanton, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJX3W6YaLpj4ARFn3q4Udoq7M",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

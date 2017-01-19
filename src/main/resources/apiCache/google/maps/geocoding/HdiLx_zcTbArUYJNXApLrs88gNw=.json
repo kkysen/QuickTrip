@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.6875323",
+    "lng": "-83.2341028"
+  },
+  "formatted_address": "Auburn Hills, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJmX4JtOG_JIgRK9zriuMVxVU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

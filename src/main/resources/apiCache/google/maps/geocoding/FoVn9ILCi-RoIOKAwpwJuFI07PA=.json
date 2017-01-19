@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.4084302",
+    "lng": "-71.0119948"
+  },
+  "formatted_address": "Revere, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJP6e3Ev1t44kRvIaBPqdxexs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

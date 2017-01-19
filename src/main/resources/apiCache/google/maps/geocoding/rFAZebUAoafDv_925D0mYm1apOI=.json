@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.8239891",
+    "lng": "-71.4128343"
+  },
+  "formatted_address": "Providence, RI, USA",
+  "country": "USA",
+  "place_id": "ChIJXXN-Q-BE5IkRJ7azSE1832k",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

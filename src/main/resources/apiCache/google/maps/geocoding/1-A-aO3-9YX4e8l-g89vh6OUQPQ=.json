@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.57670170000001",
+    "lng": "-92.1735164"
+  },
+  "formatted_address": "Jefferson City, MO, USA",
+  "country": "USA",
+  "place_id": "ChIJ8Qo7Tqtd24cRrdmovEvJ57I",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

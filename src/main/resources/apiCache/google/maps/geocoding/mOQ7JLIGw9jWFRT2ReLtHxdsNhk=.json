@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.9625984",
+    "lng": "-76.727745"
+  },
+  "formatted_address": "York, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJYYWuV8GLyIkRzRPyXur6rBo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

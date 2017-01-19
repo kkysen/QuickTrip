@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.2523634",
+    "lng": "-95.99798829999999"
+  },
+  "formatted_address": "Omaha, NE, USA",
+  "country": "USA",
+  "place_id": "ChIJ7fwMtciNk4cRBLY3rk9NQkY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

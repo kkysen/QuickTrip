@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.30732279999999",
+    "lng": "-122.2284532"
+  },
+  "formatted_address": "Auburn, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJZcg8MnZYkFQR_TK-n17NoJY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.5972563",
+    "lng": "-82.8779754"
+  },
+  "formatted_address": "Mt Clemens, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJu_RCOPEgJYgRQD_K70HTDwc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

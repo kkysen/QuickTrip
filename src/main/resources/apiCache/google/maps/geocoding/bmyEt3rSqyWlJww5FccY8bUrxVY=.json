@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.5530753",
+    "lng": "-87.9334118"
+  },
+  "formatted_address": "Pleasant Prairie, WI, USA",
+  "country": "USA",
+  "place_id": "ChIJ2SPOdyhgBYgRhQfCT-gJjnk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

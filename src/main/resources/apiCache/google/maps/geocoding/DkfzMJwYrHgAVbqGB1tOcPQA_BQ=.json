@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.0970023",
+    "lng": "-79.23532589999999"
+  },
+  "formatted_address": "Jamestown, NY 14701, USA",
+  "country": "USA",
+  "place_id": "ChIJK4o-FOSo0okReyteyGVqD2U",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

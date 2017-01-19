@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.990079",
+    "lng": "-84.17965029999999"
+  },
+  "formatted_address": "Winchester, KY 40391, USA",
+  "country": "USA",
+  "place_id": "ChIJMWQnLv-tQ4gRKGe4sujrU10",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

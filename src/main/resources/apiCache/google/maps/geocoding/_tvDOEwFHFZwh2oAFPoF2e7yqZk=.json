@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.79894729999999",
+    "lng": "-81.37844699999999"
+  },
+  "formatted_address": "Canton, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJqYCZ0k_INogRS2_6n6SbzBI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

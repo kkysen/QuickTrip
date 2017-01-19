@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.7439905",
+    "lng": "-74.0323626"
+  },
+  "formatted_address": "Hoboken, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJ0TMVjWBXwokRh783EWrKtkQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

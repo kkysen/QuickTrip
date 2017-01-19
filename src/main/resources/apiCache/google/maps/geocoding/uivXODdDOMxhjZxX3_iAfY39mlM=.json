@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.410694",
+    "lng": "-80.84285040000002"
+  },
+  "formatted_address": "Huntersville, NC 28078, USA",
+  "country": "USA",
+  "place_id": "ChIJCZeY4hUeVIgRAVuZwgaJpBU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

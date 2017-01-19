@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.4087993",
+    "lng": "-121.3716178"
+  },
+  "formatted_address": "Elk Grove, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJOfii4Mu4moAR6Agc02DrDMo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

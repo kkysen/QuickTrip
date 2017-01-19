@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.9778882",
+    "lng": "-77.0074765"
+  },
+  "formatted_address": "Takoma Park, MD, USA",
+  "country": "USA",
+  "place_id": "ChIJOzeSdAHGt4kR4CFNRu-HvQg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.6847822",
+    "lng": "-83.9296526"
+  },
+  "formatted_address": "Xenia, OH 45385, USA",
+  "country": "USA",
+  "place_id": "ChIJHXbdFNuSQIgRlTAV95_eKts",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

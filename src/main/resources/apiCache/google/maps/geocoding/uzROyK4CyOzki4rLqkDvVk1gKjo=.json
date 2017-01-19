@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.4584292",
+    "lng": "-71.0661633"
+  },
+  "formatted_address": "Melrose, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJfV9L1kxy44kRQuQHKB2ie9w",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

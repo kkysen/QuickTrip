@@ -1,13 +1,14 @@
 package io.github.kkysen.quicktrip.apis.google.geocoding;
 
-import io.github.kkysen.quicktrip.apis.ApiRequestException;
 import io.github.kkysen.quicktrip.apis.QueryField;
 import io.github.kkysen.quicktrip.apis.google.LatLng;
 import io.github.kkysen.quicktrip.apis.google.maps.GoogleMapsRequest;
+import io.github.kkysen.quicktrip.io.MyFiles;
 
+import java.io.IOException;
 import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.time.Duration;
-import java.time.Instant;
 import java.util.List;
 
 import org.apache.commons.lang3.tuple.Pair;
@@ -21,7 +22,7 @@ import com.google.gson.TypeAdapter;
  */
 public class GoogleGeocodingRequest extends GoogleMapsRequest<Geolocation> {
     
-    private final @QueryField String address;
+    private @QueryField String address;
     private final @QueryField LatLng latlng;
     
     public GoogleGeocodingRequest(final String address) {
@@ -60,10 +61,18 @@ public class GoogleGeocodingRequest extends GoogleMapsRequest<Geolocation> {
         adapters.add(Pair.of(Geolocation.class, new GeolocationAdapter()));
     }
     
-    public static void main(final String[] args) throws ApiRequestException {
-        System.out.println(
-                new GoogleGeocodingRequest("296 6th St, Brooklyn, NY 11215").getResponse());
-        System.out.println(Instant.now());
+    public static void main(final String[] args) throws IOException {
+        System.out.println("caching major cities");
+        final List<String> cities = MyFiles
+                .readLines(Paths.get("C:/Users/kkyse/Downloads/Top5000Population.csv")).subList(0, 2000);
+        System.out.println(cities.size());
+        final GoogleGeocodingRequest request = new GoogleGeocodingRequest("");
+        for (final String city : cities) {
+            System.out.print(city + ": ");
+            request.address = city;
+            request.clearResponse();
+            request.getResponse();
+        }
     }
     
 }

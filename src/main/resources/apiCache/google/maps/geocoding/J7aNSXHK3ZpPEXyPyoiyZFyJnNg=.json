@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.5628537",
+    "lng": "-81.9495331"
+  },
+  "formatted_address": "Cape Coral, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJ9RaA56dE24gR8m-bOhak0a8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

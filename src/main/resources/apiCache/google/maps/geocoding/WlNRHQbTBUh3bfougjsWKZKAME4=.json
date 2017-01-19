@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.6666296",
+    "lng": "-92.97463669999999"
+  },
+  "formatted_address": "Austin, MN 55912, USA",
+  "country": "USA",
+  "place_id": "ChIJffSKNVXF8IcR7z58vRXIRcM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

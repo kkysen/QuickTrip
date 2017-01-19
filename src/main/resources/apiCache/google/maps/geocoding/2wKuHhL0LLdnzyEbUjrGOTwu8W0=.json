@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.0911161",
+    "lng": "-94.41550679999999"
+  },
+  "formatted_address": "Independence, MO, USA",
+  "country": "USA",
+  "place_id": "ChIJQ_dCLiEDwYcR-tLYlHkIAm4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

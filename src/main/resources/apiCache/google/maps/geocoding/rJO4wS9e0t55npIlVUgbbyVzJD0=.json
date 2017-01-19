@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.0573112",
+    "lng": "-80.271716"
+  },
+  "formatted_address": "Cooper City, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJO9QyzDKm2YgRMvzu8c6WlHQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

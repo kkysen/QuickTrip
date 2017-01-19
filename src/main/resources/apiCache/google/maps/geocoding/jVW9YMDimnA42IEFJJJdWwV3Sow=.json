@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.0041223",
+    "lng": "-120.1290272"
+  },
+  "formatted_address": "Avenal, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJPcFHhkaqlIARZCfZoG8eu6U",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

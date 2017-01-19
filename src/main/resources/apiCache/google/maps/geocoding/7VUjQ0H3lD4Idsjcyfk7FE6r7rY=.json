@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.0234337",
+    "lng": "-84.6154897"
+  },
+  "formatted_address": "Kennesaw, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJobC2WeU_9YgRklgWg8E_q5s",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

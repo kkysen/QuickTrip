@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.6642699",
+    "lng": "-73.70846449999999"
+  },
+  "formatted_address": "Valley Stream, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJxQIUa2NkwokRMXmNfGRP81o",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

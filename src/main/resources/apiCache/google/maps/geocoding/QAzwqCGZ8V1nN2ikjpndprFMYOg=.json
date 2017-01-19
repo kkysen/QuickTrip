@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.5833688",
+    "lng": "-87.5000412"
+  },
+  "formatted_address": "Hammond, IN, USA",
+  "country": "USA",
+  "place_id": "ChIJVf0uL_PeEYgRCBxieTCVQjs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

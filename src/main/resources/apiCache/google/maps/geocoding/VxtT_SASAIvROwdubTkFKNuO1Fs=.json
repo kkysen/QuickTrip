@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.5034271",
+    "lng": "-74.0104178"
+  },
+  "formatted_address": "Newburgh, NY 12550, USA",
+  "country": "USA",
+  "place_id": "ChIJJ9lrg_Er3YkRbhA87I3WRfc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

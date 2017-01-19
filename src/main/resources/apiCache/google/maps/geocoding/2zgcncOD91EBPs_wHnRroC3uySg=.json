@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.69933030000001",
+    "lng": "-99.0816784"
+  },
+  "formatted_address": "Kearney, NE, USA",
+  "country": "USA",
+  "place_id": "ChIJc9vMqb9OmYcRjpqccRGNSNw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.65836609999999",
+    "lng": "-83.14993219999999"
+  },
+  "formatted_address": "Rochester Hills, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJoTG-xJjpJIgRLzbxO1PuxCk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

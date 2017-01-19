@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.2279279",
+    "lng": "-77.40192669999999"
+  },
+  "formatted_address": "Petersburg, VA, USA",
+  "country": "USA",
+  "place_id": "ChIJb2qvIJqksYkRdmxQCxsJZcM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

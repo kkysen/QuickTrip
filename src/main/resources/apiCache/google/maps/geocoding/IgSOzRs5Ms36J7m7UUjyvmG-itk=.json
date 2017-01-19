@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.1141743",
+    "lng": "-116.432235"
+  },
+  "formatted_address": "Yucca Valley, CA 92284, USA",
+  "country": "USA",
+  "place_id": "ChIJGytMIY0n24ARxAeAypzOtGw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

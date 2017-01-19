@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.0912268",
+    "lng": "-74.0479146"
+  },
+  "formatted_address": "Point Pleasant Beach, NJ 08742, USA",
+  "country": "USA",
+  "place_id": "ChIJJT2RCwmGwYkRwCLi7cpo8OA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

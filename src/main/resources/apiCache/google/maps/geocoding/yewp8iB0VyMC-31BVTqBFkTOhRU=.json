@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.0992752",
+    "lng": "-76.8483061"
+  },
+  "formatted_address": "Laurel, MD, USA",
+  "country": "USA",
+  "place_id": "ChIJ0dxJ6BDdt4kR_JLN_S5ezZg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

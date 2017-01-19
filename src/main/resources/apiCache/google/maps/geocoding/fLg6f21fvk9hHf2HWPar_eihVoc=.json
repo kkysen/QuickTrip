@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.9101438",
+    "lng": "-79.0752895"
+  },
+  "formatted_address": "Carrboro, NC, USA",
+  "country": "USA",
+  "place_id": "ChIJdW4B92XZrIkRRcHmmbWvCBM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

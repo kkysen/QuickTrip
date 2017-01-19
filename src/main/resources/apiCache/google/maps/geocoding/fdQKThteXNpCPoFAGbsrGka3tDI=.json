@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.61626829999999",
+    "lng": "-122.0355736"
+  },
+  "formatted_address": "Sammamish, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJYxL52O1xkFQROgu_gBIbks0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

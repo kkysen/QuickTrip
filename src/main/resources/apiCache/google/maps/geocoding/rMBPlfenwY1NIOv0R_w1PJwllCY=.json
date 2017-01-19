@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.1303822",
+    "lng": "-75.51491279999999"
+  },
+  "formatted_address": "Phoenixville, PA 19460, USA",
+  "country": "USA",
+  "place_id": "ChIJaVHMDuORxokR-uk1Gb4qYok",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

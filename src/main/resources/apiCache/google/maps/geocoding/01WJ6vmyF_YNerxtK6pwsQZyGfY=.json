@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.0286226",
+    "lng": "-117.8103367"
+  },
+  "formatted_address": "Diamond Bar, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJqSn3Qo4sw4ARqdd90SjAiOo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

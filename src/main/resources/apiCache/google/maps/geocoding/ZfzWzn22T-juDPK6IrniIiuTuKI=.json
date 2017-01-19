@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.217305",
+    "lng": "-80.2258811"
+  },
+  "formatted_address": "North Lauderdale, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJDYj140UE2YgRyF-N6XZqdRU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

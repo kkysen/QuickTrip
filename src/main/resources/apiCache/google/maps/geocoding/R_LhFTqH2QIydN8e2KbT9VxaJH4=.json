@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "46.1381676",
+    "lng": "-122.9381672"
+  },
+  "formatted_address": "Longview, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJFw1pHRRzlFQRuWZ_vomzWMY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.5471327",
+    "lng": "-122.8163802"
+  },
+  "formatted_address": "Windsor, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJiSEmjAAXhIARwpUhUn9m_lg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

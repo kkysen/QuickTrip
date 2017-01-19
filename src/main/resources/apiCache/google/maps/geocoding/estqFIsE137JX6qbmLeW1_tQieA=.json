@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.5407172",
+    "lng": "-116.5634624"
+  },
+  "formatted_address": "Nampa, ID, USA",
+  "country": "USA",
+  "place_id": "ChIJKfGXTmlMrlQRUkoycWOGGa4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

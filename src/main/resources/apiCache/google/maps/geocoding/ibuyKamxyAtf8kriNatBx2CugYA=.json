@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.0494674",
+    "lng": "-92.90803749999999"
+  },
+  "formatted_address": "Marshalltown, IA 50158, USA",
+  "country": "USA",
+  "place_id": "ChIJgRTbujCl74cR5BssS8iiFfA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

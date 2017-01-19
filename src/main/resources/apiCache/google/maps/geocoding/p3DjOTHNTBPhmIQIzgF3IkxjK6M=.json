@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "31.9575818",
+    "lng": "-110.955646"
+  },
+  "formatted_address": "Sahuarita, AZ, USA",
+  "country": "USA",
+  "place_id": "ChIJUVQDCup_1oYRIGO1RdOYJWY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

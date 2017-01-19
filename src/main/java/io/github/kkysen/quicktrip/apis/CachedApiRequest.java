@@ -694,6 +694,7 @@ public abstract class CachedApiRequest<R> implements Request<R> {
                 return;
             }
         }
+        isCached = false;
         apiKey = apiKeys.next();
         setUrlWithApiKey();
     }

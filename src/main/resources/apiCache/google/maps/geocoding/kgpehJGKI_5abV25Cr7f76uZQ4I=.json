@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.5150576",
+    "lng": "-84.39827629999999"
+  },
+  "formatted_address": "Middletown, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJewQnqORdQIgRIAbP-R2gGgc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

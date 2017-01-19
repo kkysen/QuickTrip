@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.629526",
+    "lng": "-79.95589679999999"
+  },
+  "formatted_address": "Morgantown, WV, USA",
+  "country": "USA",
+  "place_id": "ChIJPTOFQWh7NYgR5EONqwnpvng",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

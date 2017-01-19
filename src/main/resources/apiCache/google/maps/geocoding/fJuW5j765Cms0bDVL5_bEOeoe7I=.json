@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "31.846877",
+    "lng": "-81.5959453"
+  },
+  "formatted_address": "Hinesville, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJLZsOWUPj-ogRiR0UVmdzU1k",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

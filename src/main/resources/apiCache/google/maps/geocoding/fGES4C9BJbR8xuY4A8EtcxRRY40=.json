@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.3356483",
+    "lng": "-75.9268747"
+  },
+  "formatted_address": "Reading, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJuaiGUMpwxokR8Bm_9Uml7uI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "25.8650961",
+    "lng": "-80.3244957"
+  },
+  "formatted_address": "Hialeah Gardens, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJVRlCeIO82YgRcbRtQ9J8rv0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

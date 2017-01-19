@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.4167022",
+    "lng": "-86.87528689999999"
+  },
+  "formatted_address": "Lafayette, IN, USA",
+  "country": "USA",
+  "place_id": "ChIJreoqGRoAE4gR9R5P6NvtQaU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

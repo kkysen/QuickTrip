@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.1595005",
+    "lng": "-81.44038979999999"
+  },
+  "formatted_address": "Stow, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJ2wVmPY8mMYgRvZFxh53uV_8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

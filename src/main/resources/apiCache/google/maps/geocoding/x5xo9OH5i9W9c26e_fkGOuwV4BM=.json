@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.0378741",
+    "lng": "-122.9006951"
+  },
+  "formatted_address": "Olympia, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJaVUorsHJkVQRgxuI4pdhFE8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.2097967",
+    "lng": "-84.55883109999999"
+  },
+  "formatted_address": "Georgetown, KY 40324, USA",
+  "country": "USA",
+  "place_id": "ChIJLWgfTwE_QogRpBjHqrNsVaA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.9630216",
+    "lng": "-92.9649361"
+  },
+  "formatted_address": "Oakdale, MN 55128, USA",
+  "country": "USA",
+  "place_id": "ChIJx_nYF43SslIRQCitPF48Ewc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

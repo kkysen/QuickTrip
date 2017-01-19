@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.6130007",
+    "lng": "-83.624201"
+  },
+  "formatted_address": "Warner Robins, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJYetJ36fh84gRBLtlmO-VGRg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

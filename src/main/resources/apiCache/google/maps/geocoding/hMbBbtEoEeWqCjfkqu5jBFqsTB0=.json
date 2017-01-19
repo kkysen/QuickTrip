@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "27.6386434",
+    "lng": "-80.39727359999999"
+  },
+  "formatted_address": "Vero Beach, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJpcLQYORe3ogRpCX3qKWu4bw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

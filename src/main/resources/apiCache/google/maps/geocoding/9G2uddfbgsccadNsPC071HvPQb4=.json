@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.1933767",
+    "lng": "-85.3863599"
+  },
+  "formatted_address": "Muncie, IN, USA",
+  "country": "USA",
+  "place_id": "ChIJr671sKY9FYgRpxssriX_irg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.2517482",
+    "lng": "-80.17893509999999"
+  },
+  "formatted_address": "Coconut Creek, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJdfK__VQD2YgRw1JyQtf6aBw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

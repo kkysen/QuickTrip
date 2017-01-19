@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.5963395",
+    "lng": "-119.4504029"
+  },
+  "formatted_address": "Reedley, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJoWedRMLilIARDr0VtAyxHDs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

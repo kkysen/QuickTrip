@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.5584283",
+    "lng": "-70.880049"
+  },
+  "formatted_address": "Beverly, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJl3tm6msW44kRTqFvsHqjt8c",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

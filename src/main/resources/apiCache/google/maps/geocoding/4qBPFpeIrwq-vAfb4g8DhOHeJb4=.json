@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.9667308",
+    "lng": "-82.8854559"
+  },
+  "formatted_address": "Whitehall, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJXZh_cV9iOIgRM1xfkELW_5g",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

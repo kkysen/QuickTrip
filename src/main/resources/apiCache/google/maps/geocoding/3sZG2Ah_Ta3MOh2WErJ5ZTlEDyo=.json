@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.9252568",
+    "lng": "-97.0328547"
+  },
+  "formatted_address": "Grand Forks, ND, USA",
+  "country": "USA",
+  "place_id": "ChIJJV68WzWBxlIRWj1ffNiUaws",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

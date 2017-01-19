@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.0867577",
+    "lng": "-89.8100858"
+  },
+  "formatted_address": "Germantown, TN, USA",
+  "country": "USA",
+  "place_id": "ChIJTS_af2CDf4gRP0zvofxd680",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

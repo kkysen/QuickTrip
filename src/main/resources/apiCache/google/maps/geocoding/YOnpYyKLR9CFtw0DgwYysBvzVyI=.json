@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.9779776",
+    "lng": "-122.0310733"
+  },
+  "formatted_address": "Concord, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJhczEaaxghYAR7_8flgRgQQ4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

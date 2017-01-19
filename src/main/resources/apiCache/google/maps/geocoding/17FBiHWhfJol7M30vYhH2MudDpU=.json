@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.6002378",
+    "lng": "-121.8946761"
+  },
+  "formatted_address": "Monterey, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJkfu1cFLkjYARXj1K2AlJSO4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

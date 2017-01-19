@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.8894598",
+    "lng": "-118.1597911"
+  },
+  "formatted_address": "Paramount, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJMzLLtN3MwoARVy-F8pmbodM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

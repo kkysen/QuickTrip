@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.8831011",
+    "lng": "-85.49747599999999"
+  },
+  "formatted_address": "Huntington, IN 46750, USA",
+  "country": "USA",
+  "place_id": "ChIJaVeIxdnJFYgRvd5HHe1syGo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.6890603",
+    "lng": "-78.8866943"
+  },
+  "formatted_address": "Myrtle Beach, SC, USA",
+  "country": "USA",
+  "place_id": "ChIJASFVO5VoAIkRGJbQtRWxD7w",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

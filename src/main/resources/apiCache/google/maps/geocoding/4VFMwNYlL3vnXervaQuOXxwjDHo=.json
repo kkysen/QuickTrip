@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.9556031",
+    "lng": "-90.1867764"
+  },
+  "formatted_address": "Godfrey, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJy-xQaI1B34cRc9aXR-7r4_4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

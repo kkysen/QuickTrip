@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.1945758",
+    "lng": "-122.7094767"
+  },
+  "formatted_address": "Ashland, OR 97520, USA",
+  "country": "USA",
+  "place_id": "ChIJVdvutIxiz1QRrfEteLgfO5s",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

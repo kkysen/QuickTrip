@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.2626635",
+    "lng": "-77.5816353"
+  },
+  "formatted_address": "Kinston, NC, USA",
+  "country": "USA",
+  "place_id": "ChIJS_OSvM9KqYkRlNmwlRxyMdo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

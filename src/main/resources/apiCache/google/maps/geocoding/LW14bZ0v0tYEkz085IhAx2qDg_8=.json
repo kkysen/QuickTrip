@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.2327544",
+    "lng": "-106.6630437"
+  },
+  "formatted_address": "Rio Rancho, NM, USA",
+  "country": "USA",
+  "place_id": "ChIJ3S4w_T1lIocRKTJ8_AXuQaw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "30.7541808",
+    "lng": "-86.5727995"
+  },
+  "formatted_address": "Crestview, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJeb-RILUPkYgR70LTNJUnuLU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

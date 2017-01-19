@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.8240265",
+    "lng": "-80.25338379999999"
+  },
+  "formatted_address": "Lexington, NC, USA",
+  "country": "USA",
+  "place_id": "ChIJf9aquK2ZU4gRBDunOpwK6m8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.6839473",
+    "lng": "-117.7946942"
+  },
+  "formatted_address": "Irvine, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ40CRaA7d3IAROZpKYHW1eqc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

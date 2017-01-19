@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.5629668",
+    "lng": "-114.4608711"
+  },
+  "formatted_address": "Twin Falls, ID, USA",
+  "country": "USA",
+  "place_id": "ChIJr26yxaSjrFQRqsH4LOx3yyQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

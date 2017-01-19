@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "25.8900949",
+    "lng": "-80.18671380000001"
+  },
+  "formatted_address": "North Miami, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJSbOsTwuw2YgRVuqZ02Kkg68",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.2467807",
+    "lng": "-84.2640904"
+  },
+  "formatted_address": "Griffin, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJEdPOnG2K9IgRWvJ8s_Yrh8Y",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

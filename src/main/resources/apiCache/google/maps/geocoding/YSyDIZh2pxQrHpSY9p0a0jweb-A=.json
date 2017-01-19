@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.6548253",
+    "lng": "-73.67179689999999"
+  },
+  "formatted_address": "Lynbrook, NY 11563, USA",
+  "country": "USA",
+  "place_id": "ChIJm1ynNJRkwokRVoclCksORCo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

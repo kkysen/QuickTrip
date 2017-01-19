@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.6062095",
+    "lng": "-122.3320708"
+  },
+  "formatted_address": "Seattle, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJVTPokywQkFQRmtVEaUZlJRA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

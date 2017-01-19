@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.5449065",
+    "lng": "-121.7405167"
+  },
+  "formatted_address": "Davis, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJP1SVlJkphYAR_4_ibhs_AcM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

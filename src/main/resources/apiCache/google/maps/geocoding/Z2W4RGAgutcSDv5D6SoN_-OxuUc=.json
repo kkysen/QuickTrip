@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.2966861",
+    "lng": "-89.6212271"
+  },
+  "formatted_address": "Freeport, IL 61032, USA",
+  "country": "USA",
+  "place_id": "ChIJc1jNZmhpCIgRlCtq0Ryl14E",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

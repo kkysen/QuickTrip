@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.5067723",
+    "lng": "-74.2654234"
+  },
+  "formatted_address": "Perth Amboy, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJcc-QvYC1w4kR8cnILv_twV4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

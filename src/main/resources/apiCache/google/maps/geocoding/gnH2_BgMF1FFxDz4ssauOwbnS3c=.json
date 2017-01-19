@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.6992579",
+    "lng": "-86.74833180000002"
+  },
+  "formatted_address": "Madison, AL, USA",
+  "country": "USA",
+  "place_id": "ChIJD42VzuAUYogROLE3WmyYAL8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

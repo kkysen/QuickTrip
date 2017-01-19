@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.216505",
+    "lng": "-123.3417381"
+  },
+  "formatted_address": "Roseburg, OR, USA",
+  "country": "USA",
+  "place_id": "ChIJzVlZS8UixFQRkf3C1xZepF8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

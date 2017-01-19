@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.7798226",
+    "lng": "-71.4372796"
+  },
+  "formatted_address": "Cranston, RI, USA",
+  "country": "USA",
+  "place_id": "ChIJK5LQUSxJ5IkRdVnku1Y1FH8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

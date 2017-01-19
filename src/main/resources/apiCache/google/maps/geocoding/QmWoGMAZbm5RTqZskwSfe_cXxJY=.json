@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "27.9094665",
+    "lng": "-82.7873244"
+  },
+  "formatted_address": "Largo, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJWw5jgqbxwogRRV3FYqYuv2E",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

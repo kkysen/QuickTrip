@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.6688363",
+    "lng": "-111.8246557"
+  },
+  "formatted_address": "Holladay, UT, USA",
+  "country": "USA",
+  "place_id": "ChIJZRGtnSdiUocRKIar7KR4M1U",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

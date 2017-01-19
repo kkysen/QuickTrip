@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.3883809",
+    "lng": "-86.4466599"
+  },
+  "formatted_address": "Gallatin, TN 37066, USA",
+  "country": "USA",
+  "place_id": "ChIJw8xNxXAwZIgRY5bff0mfkIQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

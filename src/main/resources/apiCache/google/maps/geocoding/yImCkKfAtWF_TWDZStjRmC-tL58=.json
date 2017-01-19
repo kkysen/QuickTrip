@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.9854275",
+    "lng": "-80.5495112"
+  },
+  "formatted_address": "Monroe, NC, USA",
+  "country": "USA",
+  "place_id": "ChIJvchYlskwVIgROi4KVlAWC44",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

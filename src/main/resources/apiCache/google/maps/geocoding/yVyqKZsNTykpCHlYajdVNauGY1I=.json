@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.7425516",
+    "lng": "-117.0314172"
+  },
+  "formatted_address": "Lemon Grove, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ170mWC9R2YARkNb-jQsuYWo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

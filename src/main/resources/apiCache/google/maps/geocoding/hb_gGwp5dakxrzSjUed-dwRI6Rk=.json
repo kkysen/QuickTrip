@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.8444735",
+    "lng": "-90.18873790000001"
+  },
+  "formatted_address": "Clinton, IA, USA",
+  "country": "USA",
+  "place_id": "ChIJNWJl8S5g4ocR_qoyqTBAk6M",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

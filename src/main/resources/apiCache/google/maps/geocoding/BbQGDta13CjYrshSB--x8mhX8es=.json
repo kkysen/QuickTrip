@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.7136754",
+    "lng": "-82.5993294"
+  },
+  "formatted_address": "Lancaster, OH 43130, USA",
+  "country": "USA",
+  "place_id": "ChIJZ_KAT16KR4gR5U07ntfVbRM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

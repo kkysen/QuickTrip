@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.65393590000001",
+    "lng": "-81.4503924"
+  },
+  "formatted_address": "Eastlake, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJw_-9f8GrMYgRccY4c3ntV_I",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

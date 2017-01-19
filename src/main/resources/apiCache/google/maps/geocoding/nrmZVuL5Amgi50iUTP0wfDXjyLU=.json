@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.9616801",
+    "lng": "-118.3531311"
+  },
+  "formatted_address": "Inglewood, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJjd1LJ1a2woARcDGu3A-zJwc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

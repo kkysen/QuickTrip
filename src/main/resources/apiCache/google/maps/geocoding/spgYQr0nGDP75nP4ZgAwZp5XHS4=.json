@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.9940329",
+    "lng": "-78.898619"
+  },
+  "formatted_address": "Durham, NC, USA",
+  "country": "USA",
+  "place_id": "ChIJ8WYPEnHkrIkRfvJGionaeuE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

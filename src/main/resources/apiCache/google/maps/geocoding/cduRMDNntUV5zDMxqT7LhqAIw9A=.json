@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.4137536",
+    "lng": "-79.14224639999999"
+  },
+  "formatted_address": "Lynchburg, VA, USA",
+  "country": "USA",
+  "place_id": "ChIJAQQykHjZsokRYeIgyF7ztsM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.95260200000001",
+    "lng": "-84.5499327"
+  },
+  "formatted_address": "Marietta, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJXQZHhpYQ9YgRgemOMsZWh7E",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

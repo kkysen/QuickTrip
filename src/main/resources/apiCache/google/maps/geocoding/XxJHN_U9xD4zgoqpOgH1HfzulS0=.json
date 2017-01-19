@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.4417915",
+    "lng": "-94.0376881"
+  },
+  "formatted_address": "Texarkana, AR 71854, USA",
+  "country": "USA",
+  "place_id": "ChIJAel3mxRtNIYRDp1ICFog2lU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

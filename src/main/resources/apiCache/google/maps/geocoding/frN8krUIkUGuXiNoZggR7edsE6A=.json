@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.0997265",
+    "lng": "-94.5785667"
+  },
+  "formatted_address": "Kansas City, MO, USA",
+  "country": "USA",
+  "place_id": "ChIJl5npr173wIcRolGqauYlhVU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

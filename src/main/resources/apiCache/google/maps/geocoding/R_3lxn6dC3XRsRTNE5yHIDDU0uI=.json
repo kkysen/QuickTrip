@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.7933949",
+    "lng": "-77.8600012"
+  },
+  "formatted_address": "State College, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJc9s7wZmozokRkYA8g8LG4Zw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

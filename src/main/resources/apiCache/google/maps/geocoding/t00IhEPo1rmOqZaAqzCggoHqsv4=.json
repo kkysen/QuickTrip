@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.0834335",
+    "lng": "-71.0183787"
+  },
+  "formatted_address": "Brockton, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJkbEOtc6E5IkRHk4jPc1xf6E",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

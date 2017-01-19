@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.94454409999999",
+    "lng": "-71.2856082"
+  },
+  "formatted_address": "Attleboro, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJB7BJcvld5IkRIEcvUu4dgMk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "45.3840077",
+    "lng": "-122.7639851"
+  },
+  "formatted_address": "Tualatin, OR, USA",
+  "country": "USA",
+  "place_id": "ChIJ94Jz-f4GlVQRIl2a9fkgzXw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

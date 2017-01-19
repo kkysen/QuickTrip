@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.3250896",
+    "lng": "-72.64120129999999"
+  },
+  "formatted_address": "Northampton, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJBSqOfD7X5okRC9vYEwt1FsM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

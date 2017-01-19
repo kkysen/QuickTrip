@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.9597376",
+    "lng": "-93.3702186"
+  },
+  "formatted_address": "St Louis Park, MN, USA",
+  "country": "USA",
+  "place_id": "ChIJIw_zeAAg9ocRNCg_O27jJ1Y",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

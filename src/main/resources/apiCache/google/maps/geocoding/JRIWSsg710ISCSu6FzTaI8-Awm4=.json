@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.1655801",
+    "lng": "-88.29424929999999"
+  },
+  "formatted_address": "Algonquin, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJX_dYyYwND4gREFFQz5W1Cgc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

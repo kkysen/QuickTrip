@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "45.143731",
+    "lng": "-122.8553725"
+  },
+  "formatted_address": "Woodburn, OR 97071, USA",
+  "country": "USA",
+  "place_id": "ChIJQZ9JLiZclVQRQswVE_cKgjM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

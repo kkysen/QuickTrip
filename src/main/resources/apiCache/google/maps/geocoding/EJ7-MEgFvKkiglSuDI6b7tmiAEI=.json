@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "46.2395793",
+    "lng": "-119.1005657"
+  },
+  "formatted_address": "Pasco, WA 99301, USA",
+  "country": "USA",
+  "place_id": "ChIJhdJbIlN5mFQR8GOYU_FJJAc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

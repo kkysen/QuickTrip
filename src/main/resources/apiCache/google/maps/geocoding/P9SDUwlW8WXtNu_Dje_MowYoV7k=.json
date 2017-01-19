@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.6304904",
+    "lng": "-122.4110835"
+  },
+  "formatted_address": "San Bruno, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJOSmpLuR5j4AR0u9gOcikHdo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

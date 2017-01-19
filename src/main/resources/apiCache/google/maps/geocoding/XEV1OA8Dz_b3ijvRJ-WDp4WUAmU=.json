@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "25.5808323",
+    "lng": "-80.34685929999999"
+  },
+  "formatted_address": "Cutler Bay, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJE71pl-jC2YgRzRmnnbhR5QE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

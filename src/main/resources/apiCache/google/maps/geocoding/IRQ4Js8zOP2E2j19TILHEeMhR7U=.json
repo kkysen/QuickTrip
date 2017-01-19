@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.6402434",
+    "lng": "-93.14354969999999"
+  },
+  "formatted_address": "Farmington, MN, USA",
+  "country": "USA",
+  "place_id": "ChIJ2xHA2kVK9ocRCV9rU3XIeMQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

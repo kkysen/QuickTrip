@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.0167275",
+    "lng": "-84.60077729999999"
+  },
+  "formatted_address": "Erlanger, KY, USA",
+  "country": "USA",
+  "place_id": "ChIJQ6K35hS4QYgR-a1WkKxtwYc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

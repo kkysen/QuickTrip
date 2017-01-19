@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.5803122",
+    "lng": "-83.0302033"
+  },
+  "formatted_address": "Sterling Heights, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJ57HShnvcJIgR5yI7ufAxHPU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

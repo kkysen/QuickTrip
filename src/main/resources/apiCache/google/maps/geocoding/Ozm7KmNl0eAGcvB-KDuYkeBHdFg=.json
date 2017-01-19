@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.8928771",
+    "lng": "-73.9726381"
+  },
+  "formatted_address": "Englewood, NJ 07631, USA",
+  "country": "USA",
+  "place_id": "ChIJjXk9hxjxwokRvpsfnmiaxsQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.3498195",
+    "lng": "-81.6326234"
+  },
+  "formatted_address": "Charleston, WV, USA",
+  "country": "USA",
+  "place_id": "ChIJOV0UiM4sT4gRCxvJBEeoYXY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

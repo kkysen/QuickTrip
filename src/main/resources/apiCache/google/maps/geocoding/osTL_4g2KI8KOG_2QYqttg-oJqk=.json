@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.34620779999999",
+    "lng": "-73.07899689999999"
+  },
+  "formatted_address": "Ansonia, CT, USA",
+  "country": "USA",
+  "place_id": "ChIJ36gp6yTe54kRIsbzZhUTXsQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

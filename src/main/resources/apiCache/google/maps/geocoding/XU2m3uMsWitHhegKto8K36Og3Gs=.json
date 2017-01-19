@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.792",
+    "lng": "-115.5630514"
+  },
+  "formatted_address": "El Centro, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJvbtCJpxf14ARr_2fJLhIBMs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

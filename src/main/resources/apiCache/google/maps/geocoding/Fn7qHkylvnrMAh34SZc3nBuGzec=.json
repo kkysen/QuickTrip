@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.224867",
+    "lng": "-121.7816704"
+  },
+  "formatted_address": "Klamath Falls, OR, USA",
+  "country": "USA",
+  "place_id": "ChIJ4w7yaFnUyFQRJpe5KPV_jfQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.7826363",
+    "lng": "-80.8872959"
+  },
+  "formatted_address": "Statesville, NC, USA",
+  "country": "USA",
+  "place_id": "ChIJVZsymAdZUYgRYFSY3vcTFgc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

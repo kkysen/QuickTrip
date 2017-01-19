@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.931868",
+    "lng": "-121.6957863"
+  },
+  "formatted_address": "Brentwood, CA 94513, USA",
+  "country": "USA",
+  "place_id": "ChIJzciH8Jn5j4ARAprSVluDGX4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "25.4687224",
+    "lng": "-80.4775569"
+  },
+  "formatted_address": "Homestead, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJ29lIZPfl2YgRBz2emb_Key0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.766098",
+    "lng": "-105.0772063"
+  },
+  "formatted_address": "Wheat Ridge, CO, USA",
+  "country": "USA",
+  "place_id": "ChIJA_JKJ0OGa4cRCV6d2c6usLc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

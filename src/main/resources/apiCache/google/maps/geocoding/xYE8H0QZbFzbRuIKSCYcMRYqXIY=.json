@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.2808256",
+    "lng": "-83.7430378"
+  },
+  "formatted_address": "Ann Arbor, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJMx9D1A2wPIgR4rXIhkb5Cds",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

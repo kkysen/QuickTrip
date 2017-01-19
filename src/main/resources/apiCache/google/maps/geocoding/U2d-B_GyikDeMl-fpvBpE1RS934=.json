@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.1003654",
+    "lng": "-80.3997748"
+  },
+  "formatted_address": "Weston, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJR8dqkZGg2YgR6Je5A0O39Ik",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

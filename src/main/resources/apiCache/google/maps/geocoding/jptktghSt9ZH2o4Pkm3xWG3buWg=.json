@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.8142432",
+    "lng": "-73.9395687"
+  },
+  "formatted_address": "Schenectady, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJpfh1Nf1t3okRerISb41wshk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

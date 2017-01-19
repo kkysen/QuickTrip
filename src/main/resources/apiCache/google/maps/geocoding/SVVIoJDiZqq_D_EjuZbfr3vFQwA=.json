@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.06523",
+    "lng": "-119.0167679"
+  },
+  "formatted_address": "Porterville, CA 93257, USA",
+  "country": "USA",
+  "place_id": "ChIJzwlZG36n6oARBhoriicGQZg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

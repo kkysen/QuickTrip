@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.0192307",
+    "lng": "-82.8793446"
+  },
+  "formatted_address": "Gahanna, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJ5V98sXZhOIgREsgeKhPsThc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

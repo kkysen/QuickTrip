@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.3503303",
+    "lng": "-83.1218634"
+  },
+  "formatted_address": "Fremont, OH 43420, USA",
+  "country": "USA",
+  "place_id": "ChIJu-wFvQq3O4gRM3yX7KsEI4c",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

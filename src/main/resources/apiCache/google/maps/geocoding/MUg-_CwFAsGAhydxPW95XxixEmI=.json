@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.1064001",
+    "lng": "-117.3703235"
+  },
+  "formatted_address": "Rialto, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJGddGpQ1Nw4ARoFqQJoSZD4g",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.162839",
+    "lng": "-85.5016423"
+  },
+  "formatted_address": "Cookeville, TN, USA",
+  "country": "USA",
+  "place_id": "ChIJWUzxDKcYZ4gRHV5A6ufMTi8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.424687",
+    "lng": "-121.3263187"
+  },
+  "formatted_address": "Soledad, CA 93960, USA",
+  "country": "USA",
+  "place_id": "ChIJlX40ht9okoAR0DmC4N90BAc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

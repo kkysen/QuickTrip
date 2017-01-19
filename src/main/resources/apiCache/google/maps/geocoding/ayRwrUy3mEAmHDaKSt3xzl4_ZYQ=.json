@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.5448714",
+    "lng": "-94.36741839999999"
+  },
+  "formatted_address": "Marshall, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJp4wDqN_1NoYRoWRUNVggM1g",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

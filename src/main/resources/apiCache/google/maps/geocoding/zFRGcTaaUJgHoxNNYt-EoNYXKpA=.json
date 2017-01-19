@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.7047095",
+    "lng": "-105.0813734"
+  },
+  "formatted_address": "Lakewood, CO, USA",
+  "country": "USA",
+  "place_id": "ChIJt3LdXG-Ba4cRl87Q8fpdkJ4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

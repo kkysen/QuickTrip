@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "45.056004",
+    "lng": "-92.80884429999999"
+  },
+  "formatted_address": "Stillwater, MN 55082, USA",
+  "country": "USA",
+  "place_id": "ChIJt0_FFvIx9ocRj-jY6s2OuUs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

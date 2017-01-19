@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.24935809999999",
+    "lng": "-122.0399663"
+  },
+  "formatted_address": "Fairfield, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ28gj8dAUhYARaPOb0hZWM1w",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

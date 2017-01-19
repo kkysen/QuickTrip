@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.4592076",
+    "lng": "-90.67179709999999"
+  },
+  "formatted_address": "Macomb, IL 61455, USA",
+  "country": "USA",
+  "place_id": "ChIJD2eN60X34IcR0gFs-vR4z90",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

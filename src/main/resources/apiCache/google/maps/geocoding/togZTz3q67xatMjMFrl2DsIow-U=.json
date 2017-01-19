@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.5400242",
+    "lng": "-112.4685025"
+  },
+  "formatted_address": "Prescott, AZ, USA",
+  "country": "USA",
+  "place_id": "ChIJ63xxANQoLYcR3f7uUuc9pAk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

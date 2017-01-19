@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.7514966",
+    "lng": "-84.7477136"
+  },
+  "formatted_address": "Douglasville, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJ59PQMoMS9YgRuKhnoeC-PC0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

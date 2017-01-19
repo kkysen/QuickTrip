@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.9420431",
+    "lng": "-95.88332349999999"
+  },
+  "formatted_address": "Bixby, OK, USA",
+  "country": "USA",
+  "place_id": "ChIJo1-Q69KEtocR1deCK6QMOqM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

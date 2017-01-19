@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.4956744",
+    "lng": "-88.4272627"
+  },
+  "formatted_address": "Columbus, MS, USA",
+  "country": "USA",
+  "place_id": "ChIJ0YN-TtvrhogRSUwqnWInmWo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.4946568",
+    "lng": "-120.8465941"
+  },
+  "formatted_address": "Turlock, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJyTIabUwGkYARkOZ2pVznH4E",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

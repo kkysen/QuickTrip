@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.2411897",
+    "lng": "-77.00107860000001"
+  },
+  "formatted_address": "Williamsport, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJtyLqAcOUz4kRib2hrxTk9Ys",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

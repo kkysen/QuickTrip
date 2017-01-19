@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.9458898",
+    "lng": "-81.4831714"
+  },
+  "formatted_address": "Green, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJ0_cZ36EqMYgRD7KU8_aUiuw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

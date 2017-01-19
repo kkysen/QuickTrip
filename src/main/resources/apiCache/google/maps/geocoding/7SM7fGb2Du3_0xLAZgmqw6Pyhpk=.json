@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.9828412",
+    "lng": "-86.5186045"
+  },
+  "formatted_address": "Smyrna, TN, USA",
+  "country": "USA",
+  "place_id": "ChIJm335YHMMZIgRtG2KGWQsaQI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

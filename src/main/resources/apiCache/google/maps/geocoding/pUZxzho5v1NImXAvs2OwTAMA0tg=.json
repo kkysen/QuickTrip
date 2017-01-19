@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.41426879999999",
+    "lng": "-77.4105409"
+  },
+  "formatted_address": "Frederick, MD, USA",
+  "country": "USA",
+  "place_id": "ChIJ4669jAzFyYkRmRwRvb1HYto",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

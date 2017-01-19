@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "45.3001178",
+    "lng": "-122.9731565"
+  },
+  "formatted_address": "Newberg, OR 97132, USA",
+  "country": "USA",
+  "place_id": "ChIJbVJssZ1qlVQRy1xxfChyXkI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

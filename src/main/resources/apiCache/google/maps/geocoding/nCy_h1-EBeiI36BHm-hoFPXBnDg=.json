@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.7091433",
+    "lng": "-100.4995214"
+  },
+  "formatted_address": "Eagle Pass, TX 78852, USA",
+  "country": "USA",
+  "place_id": "ChIJz5V7uzSMX4YR5jhfm3T6Mw4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

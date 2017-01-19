@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.8713032",
+    "lng": "-112.4455344"
+  },
+  "formatted_address": "Pocatello, ID, USA",
+  "country": "USA",
+  "place_id": "ChIJDZvQ1SBPVVMRsDnOhCRqDAc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

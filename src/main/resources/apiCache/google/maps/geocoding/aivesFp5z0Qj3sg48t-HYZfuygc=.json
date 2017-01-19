@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.1447732",
+    "lng": "-84.24244490000001"
+  },
+  "formatted_address": "Piqua, OH 45356, USA",
+  "country": "USA",
+  "place_id": "ChIJTwe-sz11P4gRxNwmG269bco",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

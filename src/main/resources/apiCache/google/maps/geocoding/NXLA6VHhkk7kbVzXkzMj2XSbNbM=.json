@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.0684692",
+    "lng": "-78.8894682"
+  },
+  "formatted_address": "Waynesboro, VA 22980, USA",
+  "country": "USA",
+  "place_id": "ChIJhVS1cKFjs4kR4Ksq8CkiMkU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

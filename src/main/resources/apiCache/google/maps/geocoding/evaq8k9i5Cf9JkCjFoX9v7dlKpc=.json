@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.3017374",
+    "lng": "-98.1633432"
+  },
+  "formatted_address": "Edinburg, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJwzWGPiKiZYYRRMHaUBEY74k",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

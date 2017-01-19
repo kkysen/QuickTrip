@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "27.3364347",
+    "lng": "-82.53065269999999"
+  },
+  "formatted_address": "Sarasota, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJK8KyneY3w4gR2RVXHR00NeM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.6534427",
+    "lng": "-84.4493725"
+  },
+  "formatted_address": "College Park, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJ8QzU8cjC9IgRHghgCKZMzgA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.4609764",
+    "lng": "-84.9877094"
+  },
+  "formatted_address": "Columbus, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJ9TE1WBvNjIgRYQPh7qlQjHI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

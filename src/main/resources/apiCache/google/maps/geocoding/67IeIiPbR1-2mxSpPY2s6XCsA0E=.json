@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "27.4467056",
+    "lng": "-80.3256056"
+  },
+  "formatted_address": "Fort Pierce, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJ8bUnop_x3ogRrmeIm8QXhvA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

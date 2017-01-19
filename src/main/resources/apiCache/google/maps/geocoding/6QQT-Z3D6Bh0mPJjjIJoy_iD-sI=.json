@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.8383828",
+    "lng": "-116.9739167"
+  },
+  "formatted_address": "Santee, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ8ZDpe7Pi24ARyARGTfef5Vk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.0255827",
+    "lng": "-88.17840849999999"
+  },
+  "formatted_address": "Streamwood, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJZzeZuzdLDogRGu-qA0Bwr6w",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

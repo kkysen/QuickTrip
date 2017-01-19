@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.8077958",
+    "lng": "-87.92424799999999"
+  },
+  "formatted_address": "Caledonia, WI, USA",
+  "country": "USA",
+  "place_id": "ChIJi6MNJXhrBYgRxxuREj47hDU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

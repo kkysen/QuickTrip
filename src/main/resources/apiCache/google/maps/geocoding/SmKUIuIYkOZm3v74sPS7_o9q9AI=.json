@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.7554883",
+    "lng": "-97.33076579999999"
+  },
+  "formatted_address": "Fort Worth, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJrQfILRJuToYRvaxp3fiLr6Q",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

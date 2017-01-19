@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.6803003",
+    "lng": "-116.173894"
+  },
+  "formatted_address": "Coachella, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJrzzOh45Y2oAR-LyXe3kcUv0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

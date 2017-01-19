@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "29.7355047",
+    "lng": "-94.97742740000001"
+  },
+  "formatted_address": "Baytown, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJ60DUzmxeP4YRgBCWtL0_TuM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

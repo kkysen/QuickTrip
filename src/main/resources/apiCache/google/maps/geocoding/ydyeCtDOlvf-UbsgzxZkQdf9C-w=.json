@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "48.2329668",
+    "lng": "-101.2922906"
+  },
+  "formatted_address": "Minot, ND, USA",
+  "country": "USA",
+  "place_id": "ChIJDX_O5Yq33lIRFkRzGzOQxbw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

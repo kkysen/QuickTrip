@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.5202145",
+    "lng": "-122.2758008"
+  },
+  "formatted_address": "Belmont, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJCbXJGG-fj4ARJEXCIy-qHqg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

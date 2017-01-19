@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.6867846",
+    "lng": "-118.1541632"
+  },
+  "formatted_address": "Lancaster, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJQYDoaLFawoARBz4Lfc9yxFg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

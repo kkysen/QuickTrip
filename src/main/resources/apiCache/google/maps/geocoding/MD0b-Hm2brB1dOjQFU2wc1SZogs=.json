@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.3977612",
+    "lng": "-105.0749801"
+  },
+  "formatted_address": "Loveland, CO, USA",
+  "country": "USA",
+  "place_id": "ChIJF5TeCaZPaYcRjTzyQ2ybv1U",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.8847507",
+    "lng": "-88.2039607"
+  },
+  "formatted_address": "West Chicago, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJObaz6cr9DogR1-1UZubc7l0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

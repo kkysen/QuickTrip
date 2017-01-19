@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.9294736",
+    "lng": "-88.75036469999999"
+  },
+  "formatted_address": "DeKalb, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJWyI0akMqD4gRMdOJ7g8sV2E",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

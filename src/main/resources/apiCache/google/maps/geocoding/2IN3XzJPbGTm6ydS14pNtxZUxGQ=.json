@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.5186809",
+    "lng": "-78.3947359"
+  },
+  "formatted_address": "Altoona, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJAU3ljliRy4kRfXbGByxZuK4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

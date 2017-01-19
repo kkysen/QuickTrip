@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.1359386",
+    "lng": "-114.5285981"
+  },
+  "formatted_address": "Bullhead City, AZ, USA",
+  "country": "USA",
+  "place_id": "ChIJNRhJY39BzoARN49L7qTtvZ8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

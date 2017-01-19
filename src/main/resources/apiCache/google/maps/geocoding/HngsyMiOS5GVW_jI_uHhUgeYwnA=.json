@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.7189392",
+    "lng": "-83.7129935"
+  },
+  "formatted_address": "Sylvania, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJc6xYBbF9PIgRnyNfMnEN5DM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

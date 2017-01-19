@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.9248667",
+    "lng": "-81.02507840000001"
+  },
+  "formatted_address": "Rock Hill, SC, USA",
+  "country": "USA",
+  "place_id": "ChIJZfvKRaqMVogR8IkM5UWMesc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

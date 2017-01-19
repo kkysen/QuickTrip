@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.5386523",
+    "lng": "-112.1859866"
+  },
+  "formatted_address": "Glendale, AZ, USA",
+  "country": "USA",
+  "place_id": "ChIJN51nLScjK4cRVDuNgwtDFJ8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

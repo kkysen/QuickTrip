@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.5214373",
+    "lng": "-85.77692380000001"
+  },
+  "formatted_address": "Shelbyville, IN 46176, USA",
+  "country": "USA",
+  "place_id": "ChIJn1GtWUwXa4gRxolXP5572cQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

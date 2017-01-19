@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.7674578",
+    "lng": "-94.84668099999999"
+  },
+  "formatted_address": "St Joseph, MO, USA",
+  "country": "USA",
+  "place_id": "ChIJcSUuk04awIcRqHHTW3mWdeY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.5251516",
+    "lng": "-93.75017889999999"
+  },
+  "formatted_address": "Shreveport, LA, USA",
+  "country": "USA",
+  "place_id": "ChIJH-mYF40qMYYR3ZykhxYsvS4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

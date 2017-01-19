@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.9613356",
+    "lng": "-120.0607176"
+  },
+  "formatted_address": "Madera, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJA9vG_ZILlIAREGnnItpCwzY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

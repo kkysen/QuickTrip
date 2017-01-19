@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.6869752",
+    "lng": "-105.937799"
+  },
+  "formatted_address": "Santa Fe, NM, USA",
+  "country": "USA",
+  "place_id": "ChIJqVKY50NQGIcRQN-I_XMjkIw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

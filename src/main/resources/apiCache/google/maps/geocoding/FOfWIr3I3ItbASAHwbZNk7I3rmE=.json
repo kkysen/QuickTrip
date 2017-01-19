@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.5852602",
+    "lng": "-105.084423"
+  },
+  "formatted_address": "Fort Collins, CO, USA",
+  "country": "USA",
+  "place_id": "ChIJrTDwkEVKaYcRgkCrtChCsak",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

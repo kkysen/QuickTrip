@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.0232431",
+    "lng": "-84.36155549999999"
+  },
+  "formatted_address": "Roswell, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJUzikngMK9YgRRs68Mp-08-A",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

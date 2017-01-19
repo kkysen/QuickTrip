@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.2528772",
+    "lng": "-71.00227049999999"
+  },
+  "formatted_address": "Quincy, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJZe_yl8Fk44kRY0HFGpi0-Mw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

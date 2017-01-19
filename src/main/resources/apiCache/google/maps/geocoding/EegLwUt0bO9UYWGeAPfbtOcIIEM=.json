@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.5949316",
+    "lng": "-120.9577098"
+  },
+  "formatted_address": "Ceres, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJmercvi2rkYAR29l_FnDmR3o",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

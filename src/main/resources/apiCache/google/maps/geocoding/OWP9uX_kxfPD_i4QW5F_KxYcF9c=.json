@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.5422475",
+    "lng": "-117.7831104"
+  },
+  "formatted_address": "Laguna Beach, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJwSRbj8jg3IAR9tp5qDW05w0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

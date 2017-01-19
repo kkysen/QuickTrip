@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.6391501",
+    "lng": "-120.4579409"
+  },
+  "formatted_address": "Lompoc, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJbUhR_Jce7IARBbAnup-6lOk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

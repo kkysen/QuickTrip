@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.285558",
+    "lng": "-118.8820414"
+  },
+  "formatted_address": "Moorpark, CA 93021, USA",
+  "country": "USA",
+  "place_id": "ChIJ7X5H3AQy6IARI7lFDpnB_7A",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

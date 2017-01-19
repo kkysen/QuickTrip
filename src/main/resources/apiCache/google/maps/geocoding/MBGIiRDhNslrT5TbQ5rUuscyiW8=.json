@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.44062479999999",
+    "lng": "-79.9958864"
+  },
+  "formatted_address": "Pittsburgh, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJA4UGSG_xNIgRNBuiWqEV-Y0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

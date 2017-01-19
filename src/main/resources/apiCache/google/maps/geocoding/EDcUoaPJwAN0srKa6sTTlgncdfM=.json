@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.16103",
+    "lng": "-77.61092189999999"
+  },
+  "formatted_address": "Rochester, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJU7MUlgWz1okRHuYlQfwfAFo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

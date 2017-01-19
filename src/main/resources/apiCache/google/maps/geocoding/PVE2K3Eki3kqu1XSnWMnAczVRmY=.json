@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.6198251",
+    "lng": "-86.60887559999999"
+  },
+  "formatted_address": "Trussville, AL, USA",
+  "country": "USA",
+  "place_id": "ChIJnTlgCMcMiYgR5G_6k7E7aGU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.0806083",
+    "lng": "-96.89283089999999"
+  },
+  "formatted_address": "The Colony, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJ11XO-Lw6TIYRJHHV5Z7hniY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

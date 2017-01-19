@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.403903",
+    "lng": "-96.18166260000001"
+  },
+  "formatted_address": "Emporia, KS 66801, USA",
+  "country": "USA",
+  "place_id": "ChIJ9-X7fi5MuYcRzfoqjTSrIhk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

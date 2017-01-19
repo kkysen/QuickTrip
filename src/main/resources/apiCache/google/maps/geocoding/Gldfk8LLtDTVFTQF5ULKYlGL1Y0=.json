@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.245869",
+    "lng": "-84.40134619999999"
+  },
+  "formatted_address": "Jackson, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJa3szPlklPYgRUdWbjjKmRc4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.8567662",
+    "lng": "-74.1284764"
+  },
+  "formatted_address": "Passaic, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJm0rHLNT-wokRgywG2zgBKoE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

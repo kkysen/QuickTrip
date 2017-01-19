@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "30.8365815",
+    "lng": "-83.9787808"
+  },
+  "formatted_address": "Thomasville, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJr6s3-jK07YgREJW4-wUBCQc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

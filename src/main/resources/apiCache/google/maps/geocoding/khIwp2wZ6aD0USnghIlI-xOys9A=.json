@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.7753405",
+    "lng": "-80.0580969"
+  },
+  "formatted_address": "Riviera Beach, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJA7u4Xg3V2IgRcM5kLfzdBwc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

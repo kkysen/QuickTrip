@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.3255928",
+    "lng": "-83.3310422"
+  },
+  "formatted_address": "Garden City, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJ5YdeHIRMO4gRmvVLEGud9EQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

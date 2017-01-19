@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.7907339",
+    "lng": "-121.2357828"
+  },
+  "formatted_address": "Rocklin, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJteOg_Ucfm4ARRCGNfUcfs0U",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.481464",
+    "lng": "-94.2732642"
+  },
+  "formatted_address": "Bella Vista, AR, USA",
+  "country": "USA",
+  "place_id": "ChIJZ0n6p3ADyYcRUzXYull8pkk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

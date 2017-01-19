@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.65871380000001",
+    "lng": "-73.6412406"
+  },
+  "formatted_address": "Rockville Centre, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJL4hhk0Z7wokRn_4oaUCUOg0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

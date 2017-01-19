@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.4269728",
+    "lng": "-117.6119925"
+  },
+  "formatted_address": "San Clemente, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJn1YpWVv03IARv3vMFEgFJjo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

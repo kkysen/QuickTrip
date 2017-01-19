@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.2489016",
+    "lng": "-81.2811801"
+  },
+  "formatted_address": "St Cloud, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJSTUVdReO3YgRv9rg0YYhZFM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

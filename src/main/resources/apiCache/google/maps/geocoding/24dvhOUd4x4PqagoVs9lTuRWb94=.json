@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.8686675",
+    "lng": "-82.3182178"
+  },
+  "formatted_address": "Ashland, OH 44805, USA",
+  "country": "USA",
+  "place_id": "ChIJj5JFfEz7OYgRjyREwEjOMuw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

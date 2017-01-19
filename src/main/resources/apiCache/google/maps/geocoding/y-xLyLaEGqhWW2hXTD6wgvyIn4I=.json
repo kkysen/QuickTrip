@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.6795531",
+    "lng": "-84.43937240000001"
+  },
+  "formatted_address": "East Point, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJXZYkWYHi9IgRMH-OFIFvCAc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

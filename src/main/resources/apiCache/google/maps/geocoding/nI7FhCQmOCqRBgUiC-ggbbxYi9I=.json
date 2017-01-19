@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.5778696",
+    "lng": "-122.34809"
+  },
+  "formatted_address": "Burlingame, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJWY6bVCV2j4ART48vUz76vAs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

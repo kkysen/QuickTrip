@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.9708634",
+    "lng": "-82.42491419999999"
+  },
+  "formatted_address": "Port Huron, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJISrHbWKcJYgRbE8yTeSPQwU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

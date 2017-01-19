@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "31.2232313",
+    "lng": "-85.3904888"
+  },
+  "formatted_address": "Dothan, AL, USA",
+  "country": "USA",
+  "place_id": "ChIJjaXCA1SNkogRryfBw72yLy4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

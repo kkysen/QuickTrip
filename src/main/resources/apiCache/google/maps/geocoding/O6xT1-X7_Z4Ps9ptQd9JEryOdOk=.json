@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.660297",
+    "lng": "-117.9992265"
+  },
+  "formatted_address": "Huntington Beach, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJtSrI-SIk3YARATtmpMmF7UU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

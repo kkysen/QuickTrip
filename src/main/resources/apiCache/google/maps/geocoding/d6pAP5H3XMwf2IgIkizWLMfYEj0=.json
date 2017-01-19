@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.6828074",
+    "lng": "-88.35145960000001"
+  },
+  "formatted_address": "Oswego, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJn39uzRxTDogR56N8Ba0sTeo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

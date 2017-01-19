@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.8043637",
+    "lng": "-122.2711137"
+  },
+  "formatted_address": "Oakland, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJA-2qKIt9hYARZ5N1NdUVtHE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

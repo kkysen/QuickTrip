@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.8600971",
+    "lng": "-122.2042966"
+  },
+  "formatted_address": "Mill Creek, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJQcBjdNwFkFQRj3ZWWZ4hAXg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

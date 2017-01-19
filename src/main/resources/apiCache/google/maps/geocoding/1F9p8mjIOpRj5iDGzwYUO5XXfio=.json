@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.6436603",
+    "lng": "-83.48687679999999"
+  },
+  "formatted_address": "Oregon, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJ_-BdmbucO4gRCbouN2Tbf4g",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

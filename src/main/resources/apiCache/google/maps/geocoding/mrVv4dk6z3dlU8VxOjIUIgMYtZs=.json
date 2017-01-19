@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.09611110000001",
+    "lng": "-118.1058333"
+  },
+  "formatted_address": "San Gabriel, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJK7PxJ9vawoAR7OFLP8rH-bE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "25.790654",
+    "lng": "-80.13004549999999"
+  },
+  "formatted_address": "Miami Beach, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJud3-Kxem2YgR62OUJUEXvjc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

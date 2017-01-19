@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.5003456",
+    "lng": "-79.7494911"
+  },
+  "formatted_address": "Plum, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJKwG92LLqNIgRYG02FzDTZ5g",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

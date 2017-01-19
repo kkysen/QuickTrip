@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.2675937",
+    "lng": "-86.20886689999999"
+  },
+  "formatted_address": "Albertville, AL, USA",
+  "country": "USA",
+  "place_id": "ChIJSVziUNEciogRwzQUT35v5A4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

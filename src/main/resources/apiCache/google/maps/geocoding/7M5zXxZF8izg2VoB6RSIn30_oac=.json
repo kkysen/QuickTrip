@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.7396513",
+    "lng": "-121.4252227"
+  },
+  "formatted_address": "Tracy, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJTZlVClkUkIARmRSv4HlvRug",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

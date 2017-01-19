@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.3664951",
+    "lng": "-89.5192484"
+  },
+  "formatted_address": "Oxford, MS, USA",
+  "country": "USA",
+  "place_id": "ChIJ2aGn8G97gIgRHa_bMjKb5HY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

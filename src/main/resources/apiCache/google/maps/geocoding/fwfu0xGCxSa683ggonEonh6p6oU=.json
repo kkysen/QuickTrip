@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.8289369",
+    "lng": "-84.8902382"
+  },
+  "formatted_address": "Richmond, IN 47374, USA",
+  "country": "USA",
+  "place_id": "ChIJNYHFDYz4P4gRNC3owgUeWQs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

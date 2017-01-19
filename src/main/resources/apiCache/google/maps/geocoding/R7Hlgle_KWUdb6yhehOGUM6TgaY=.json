@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.7627893",
+    "lng": "-93.73604979999999"
+  },
+  "formatted_address": "Warrensburg, MO 64093, USA",
+  "country": "USA",
+  "place_id": "ChIJ0fWYdwdYwYcRgKBCHQAlTas",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

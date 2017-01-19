@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.8201681",
+    "lng": "-74.9851678"
+  },
+  "formatted_address": "Lindenwold, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJHX1faeYswYkRF706ckiYecU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.1156071",
+    "lng": "-97.0583681"
+  },
+  "formatted_address": "Stillwater, OK, USA",
+  "country": "USA",
+  "place_id": "ChIJI6-Z6_kJsYcRmdEQIBbakYw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

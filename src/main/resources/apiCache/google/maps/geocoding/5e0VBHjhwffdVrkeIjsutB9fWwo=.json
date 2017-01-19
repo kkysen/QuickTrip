@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.8958492",
+    "lng": "-118.2200712"
+  },
+  "formatted_address": "Compton, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJTVsdf2vLwoARQstbkZrOawU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

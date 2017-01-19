@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.45940210000001",
+    "lng": "-74.360846"
+  },
+  "formatted_address": "Sayreville, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJy3DZX13Jw4kRO1mQEhVSc-8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

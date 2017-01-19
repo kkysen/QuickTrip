@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.098007",
+    "lng": "-119.5604015"
+  },
+  "formatted_address": "Corcoran, CA 93212, USA",
+  "country": "USA",
+  "place_id": "ChIJKRQAexUt64AR5sLkLUyy3s0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

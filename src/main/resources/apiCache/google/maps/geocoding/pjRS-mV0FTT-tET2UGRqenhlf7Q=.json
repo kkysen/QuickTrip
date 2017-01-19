@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.2827524",
+    "lng": "-120.6596156"
+  },
+  "formatted_address": "San Luis Obispo, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJJ8Jse77m7IARRg_vzsKQArw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

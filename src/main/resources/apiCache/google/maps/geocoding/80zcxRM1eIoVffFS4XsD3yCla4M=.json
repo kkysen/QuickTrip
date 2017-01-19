@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "46.4004089",
+    "lng": "-117.0011889"
+  },
+  "formatted_address": "Lewiston, ID 83501, USA",
+  "country": "USA",
+  "place_id": "ChIJt5Cj8gesoVQRLqRk4znYv1o",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

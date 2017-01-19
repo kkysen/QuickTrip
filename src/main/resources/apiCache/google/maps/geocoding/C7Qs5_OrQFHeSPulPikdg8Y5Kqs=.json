@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.6150716",
+    "lng": "-87.0352831"
+  },
+  "formatted_address": "Columbia, TN 38401, USA",
+  "country": "USA",
+  "place_id": "ChIJMSPp3HFxY4gReF8yj-xtl90",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

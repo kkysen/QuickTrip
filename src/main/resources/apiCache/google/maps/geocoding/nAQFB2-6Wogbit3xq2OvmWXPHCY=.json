@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.5572567",
+    "lng": "-87.6656014"
+  },
+  "formatted_address": "Homewood, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJVeYSjmAYDogRN3jBRIHfAzg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

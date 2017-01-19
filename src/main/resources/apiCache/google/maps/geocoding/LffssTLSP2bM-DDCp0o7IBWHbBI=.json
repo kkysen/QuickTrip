@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.9424658",
+    "lng": "-117.2296717"
+  },
+  "formatted_address": "Moreno Valley, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJm-IZ2wmh3IARLD-boBWy-sM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

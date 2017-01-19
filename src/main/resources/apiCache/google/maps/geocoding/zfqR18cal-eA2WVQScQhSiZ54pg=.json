@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.5604168",
+    "lng": "-81.7195533"
+  },
+  "formatted_address": "Aiken, SC, USA",
+  "country": "USA",
+  "place_id": "ChIJXYHEcBpN-IgRW6TZSPQKM7U",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

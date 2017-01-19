@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.5839444",
+    "lng": "-117.1130849"
+  },
+  "formatted_address": "Imperial Beach, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJFY4B7ydB2YARKOqMRyKKnVw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

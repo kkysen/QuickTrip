@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.0717552",
+    "lng": "-70.7625532"
+  },
+  "formatted_address": "Portsmouth, NH 03801, USA",
+  "country": "USA",
+  "place_id": "ChIJKaTUSnW_4okRzk48SGm0S2U",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

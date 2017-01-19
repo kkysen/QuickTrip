@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.5102129",
+    "lng": "-112.0155015"
+  },
+  "formatted_address": "Brigham City, UT, USA",
+  "country": "USA",
+  "place_id": "ChIJeRDjvBl7U4cRBqCSOyrfue4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.0050977",
+    "lng": "-73.7845768"
+  },
+  "formatted_address": "Scarsdale, NY 10583, USA",
+  "country": "USA",
+  "place_id": "ChIJi6K1fJGTwokRSwQQNSh_UAw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

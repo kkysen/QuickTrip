@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.2378597",
+    "lng": "-80.1247667"
+  },
+  "formatted_address": "Pompano Beach, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJiUSIQdkC2YgR83Sudl4cYTs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

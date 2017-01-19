@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.5753791",
+    "lng": "-76.9958149"
+  },
+  "formatted_address": "Westminster, MD, USA",
+  "country": "USA",
+  "place_id": "ChIJ4wSnt_xHyIkR4A8vPHzQmS4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

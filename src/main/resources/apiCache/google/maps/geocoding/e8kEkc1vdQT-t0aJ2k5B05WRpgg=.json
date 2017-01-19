@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.7688425",
+    "lng": "-119.2470536"
+  },
+  "formatted_address": "Delano, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJI6LNNo3l6oARPHFY6zcggz0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

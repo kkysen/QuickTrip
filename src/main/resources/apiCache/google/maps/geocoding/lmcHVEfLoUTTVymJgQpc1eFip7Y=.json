@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.0519548",
+    "lng": "-118.0467339"
+  },
+  "formatted_address": "South El Monte, CA 91733, USA",
+  "country": "USA",
+  "place_id": "ChIJryT2NenQwoARtVqLSgSvZv0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

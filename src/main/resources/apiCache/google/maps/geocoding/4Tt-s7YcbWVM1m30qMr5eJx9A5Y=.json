@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "29.4241219",
+    "lng": "-98.49362819999999"
+  },
+  "formatted_address": "San Antonio, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJrw7QBK9YXIYRvBagEDvhVgg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.3697905",
+    "lng": "-80.63396379999999"
+  },
+  "formatted_address": "Steubenville, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJV957ujUuNIgRKa-3auCIMbY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

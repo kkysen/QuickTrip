@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.8214894",
+    "lng": "-73.9876388"
+  },
+  "formatted_address": "Cliffside Park, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJEf_327P3wokRwcfuRsvI3TQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

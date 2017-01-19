@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.8665166",
+    "lng": "-124.0828396"
+  },
+  "formatted_address": "Arcata, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJAei5Zw5X0VQRhoeFoY_Xin0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "45.0941315",
+    "lng": "-93.3563405"
+  },
+  "formatted_address": "Brooklyn Park, MN, USA",
+  "country": "USA",
+  "place_id": "ChIJN_KXqwQ6s1IRiBVk5CprsuQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

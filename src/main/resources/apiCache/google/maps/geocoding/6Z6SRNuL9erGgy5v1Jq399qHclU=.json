@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.3274502",
+    "lng": "-119.6456844"
+  },
+  "formatted_address": "Hanford, CA 93230, USA",
+  "country": "USA",
+  "place_id": "ChIJU3qvGXvDlIARkPRjxeSnFhs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.5834228",
+    "lng": "-71.8022955"
+  },
+  "formatted_address": "Fitchburg, MA 01420, USA",
+  "country": "USA",
+  "place_id": "ChIJ0ZQiyVTm44kRK8Sq3gR9xXE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

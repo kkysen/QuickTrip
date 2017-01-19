@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.9472359",
+    "lng": "-118.0853451"
+  },
+  "formatted_address": "Santa Fe Springs, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJh2x1kwLTwoAR4zWXGfiJrzU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

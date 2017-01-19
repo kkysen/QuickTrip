@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.5404447",
+    "lng": "-82.90375399999999"
+  },
+  "formatted_address": "Dublin, GA 31021, USA",
+  "country": "USA",
+  "place_id": "ChIJBwNQPw4g8YgR5QLzgZrnqYI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

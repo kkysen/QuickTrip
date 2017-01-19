@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.1107771",
+    "lng": "-112.0260538"
+  },
+  "formatted_address": "Clearfield, UT, USA",
+  "country": "USA",
+  "place_id": "ChIJq75vnLP9UocRkw_ADdtdRis",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

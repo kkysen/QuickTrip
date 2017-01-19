@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "45.7832856",
+    "lng": "-108.5006904"
+  },
+  "formatted_address": "Billings, MT, USA",
+  "country": "USA",
+  "place_id": "ChIJl536iIhvSFMRULV58dRWNTc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

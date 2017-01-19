@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.70289229999999",
+    "lng": "-75.1118422"
+  },
+  "formatted_address": "Glassboro, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJxV2EravXxokRAgD39USJdls",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

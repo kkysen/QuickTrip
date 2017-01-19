@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.677775",
+    "lng": "-81.3278455"
+  },
+  "formatted_address": "Casselberry, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJBb-VBw5u54gRhE7zjCHt5SE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

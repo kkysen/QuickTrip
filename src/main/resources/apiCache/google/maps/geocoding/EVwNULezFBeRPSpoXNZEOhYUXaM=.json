@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.6276276",
+    "lng": "-80.1353896"
+  },
+  "formatted_address": "Greenacres, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJC4c7ePcl2YgRXmjm81iLr0c",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

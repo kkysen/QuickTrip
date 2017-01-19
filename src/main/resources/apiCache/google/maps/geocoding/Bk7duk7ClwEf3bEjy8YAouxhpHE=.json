@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "45.48706199999999",
+    "lng": "-122.8037102"
+  },
+  "formatted_address": "Beaverton, OR, USA",
+  "country": "USA",
+  "place_id": "ChIJY4j4diQIlVQRCL2sihXP4BA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.2367621",
+    "lng": "-84.4907621"
+  },
+  "formatted_address": "Canton, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJi1dlqLoI9YgRBpiuEMLKwmQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

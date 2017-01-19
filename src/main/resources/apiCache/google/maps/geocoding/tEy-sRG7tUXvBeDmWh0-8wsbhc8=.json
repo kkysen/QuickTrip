@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.3661614",
+    "lng": "-81.8543026"
+  },
+  "formatted_address": "Berea, OH 44017, USA",
+  "country": "USA",
+  "place_id": "ChIJie4S0b2UMIgRvqvkpHc6qh4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

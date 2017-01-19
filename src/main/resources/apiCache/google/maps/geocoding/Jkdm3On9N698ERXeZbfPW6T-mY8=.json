@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.1161196",
+    "lng": "-118.1503488"
+  },
+  "formatted_address": "South Pasadena, CA 91030, USA",
+  "country": "USA",
+  "place_id": "ChIJn1E36IrEwoARX8XYgRvgJ1I",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

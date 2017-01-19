@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "45.7809491",
+    "lng": "-122.5334307"
+  },
+  "formatted_address": "Battle Ground, WA 98604, USA",
+  "country": "USA",
+  "place_id": "ChIJN8SazIm0lVQRY6O8kJN3Gfs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.0462362",
+    "lng": "-123.0220289"
+  },
+  "formatted_address": "Springfield, OR, USA",
+  "country": "USA",
+  "place_id": "ChIJvwJwLkfewFQR1j9KnOnbNgU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

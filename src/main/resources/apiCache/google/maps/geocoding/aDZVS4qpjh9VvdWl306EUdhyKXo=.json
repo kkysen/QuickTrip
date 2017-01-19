@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.9533487",
+    "lng": "-117.3961564"
+  },
+  "formatted_address": "Riverside, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJu330f9-m3IAR6ApeEwXXofc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

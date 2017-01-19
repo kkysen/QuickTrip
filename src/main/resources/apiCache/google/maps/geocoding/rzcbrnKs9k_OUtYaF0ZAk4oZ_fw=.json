@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.8338816",
+    "lng": "-104.8213634"
+  },
+  "formatted_address": "Colorado Springs, CO, USA",
+  "country": "USA",
+  "place_id": "ChIJK9LmoS5BE4cRE2vo9ZLrjkE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

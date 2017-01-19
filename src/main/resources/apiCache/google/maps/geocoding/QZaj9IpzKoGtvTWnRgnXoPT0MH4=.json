@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.5278546",
+    "lng": "-71.4703509"
+  },
+  "formatted_address": "Laconia, NH, USA",
+  "country": "USA",
+  "place_id": "ChIJoY5VYUM0s0wRLa5Bab0EExI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

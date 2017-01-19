@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "29.6160671",
+    "lng": "-95.55772209999999"
+  },
+  "formatted_address": "Stafford, TX 77477, USA",
+  "country": "USA",
+  "place_id": "ChIJu3NsiCrmQIYRYDmMH1BPIAc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

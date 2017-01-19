@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.0014133",
+    "lng": "-85.7680915"
+  },
+  "formatted_address": "Walker, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJR-w1YXOvGYgRFGSmX-beLOE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

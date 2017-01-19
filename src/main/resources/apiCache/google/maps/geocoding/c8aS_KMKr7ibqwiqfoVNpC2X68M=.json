@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.0456297",
+    "lng": "-85.30968009999999"
+  },
+  "formatted_address": "Chattanooga, TN, USA",
+  "country": "USA",
+  "place_id": "ChIJheeDikBgYIgRqiiHiR8mcSQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

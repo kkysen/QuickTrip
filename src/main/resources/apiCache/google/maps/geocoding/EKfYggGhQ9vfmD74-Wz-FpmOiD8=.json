@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.1705609",
+    "lng": "-118.8375937"
+  },
+  "formatted_address": "Thousand Oaks, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJkYgocFYl6IARJi7MRwF6Lo0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

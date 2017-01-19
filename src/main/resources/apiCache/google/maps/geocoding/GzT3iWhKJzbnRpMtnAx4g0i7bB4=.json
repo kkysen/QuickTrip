@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.2923513",
+    "lng": "-81.5356463"
+  },
+  "formatted_address": "Shelby, NC, USA",
+  "country": "USA",
+  "place_id": "ChIJ2QT_BbsfV4gRgePy8ugvXxo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.51915899999999",
+    "lng": "-88.01982599999999"
+  },
+  "formatted_address": "Green Bay, WI, USA",
+  "country": "USA",
+  "place_id": "ChIJ84CzCejiAogRcfXcFFIEcGM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

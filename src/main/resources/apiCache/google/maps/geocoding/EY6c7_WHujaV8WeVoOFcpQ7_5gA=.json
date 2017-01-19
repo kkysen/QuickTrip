@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.8403147",
+    "lng": "-88.9548001"
+  },
+  "formatted_address": "Decatur, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJpx0M7kuudIgRMDh6thpHCwc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

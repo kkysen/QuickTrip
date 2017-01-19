@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.2667418",
+    "lng": "-81.56151349999999"
+  },
+  "formatted_address": "Parkersburg, WV, USA",
+  "country": "USA",
+  "place_id": "ChIJVyTeMntMSIgRmpQhDCzkk84",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.1958696",
+    "lng": "-117.3794834"
+  },
+  "formatted_address": "Oceanside, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJBXdbYF5l3IARh5-POT_LngE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

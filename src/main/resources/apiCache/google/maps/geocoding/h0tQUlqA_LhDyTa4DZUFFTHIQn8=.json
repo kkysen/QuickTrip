@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.18388780000001",
+    "lng": "-96.031127"
+  },
+  "formatted_address": "La Vista, NE, USA",
+  "country": "USA",
+  "place_id": "ChIJu5x1nTmLk4cRQEHsrAE3Fwc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

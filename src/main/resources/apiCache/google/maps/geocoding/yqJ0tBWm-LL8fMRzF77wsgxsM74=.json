@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.3454673",
+    "lng": "-84.5603187"
+  },
+  "formatted_address": "Fairfield, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJMXAvd8JIQIgRUXyqk0HHhpM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

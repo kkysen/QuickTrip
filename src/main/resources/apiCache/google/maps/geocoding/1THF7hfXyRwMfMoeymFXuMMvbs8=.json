@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.2222614",
+    "lng": "-83.39659940000001"
+  },
+  "formatted_address": "Romulus, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJDxKgamFEO4gR0yTlF51gJBQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

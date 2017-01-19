@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.48521520000001",
+    "lng": "-122.2363548"
+  },
+  "formatted_address": "Redwood City, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ4V7zUzmgj4ARbWqqC5t75Lg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

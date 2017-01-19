@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.6189101",
+    "lng": "-117.9289469"
+  },
+  "formatted_address": "Newport Beach, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ3bO_xLbo3IARvVmLZFSVVPE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

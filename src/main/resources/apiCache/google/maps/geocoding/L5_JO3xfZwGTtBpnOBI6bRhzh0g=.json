@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.8050565",
+    "lng": "-81.935143"
+  },
+  "formatted_address": "Wooster, OH 44691, USA",
+  "country": "USA",
+  "place_id": "ChIJ4wNbFxVGN4gR3IqXT4CkP24",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

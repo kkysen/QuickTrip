@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.5296593",
+    "lng": "-122.0402399"
+  },
+  "formatted_address": "Newark, CA 94560, USA",
+  "country": "USA",
+  "place_id": "ChIJk2UuWyS_j4ARNNuZMBq3-sc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

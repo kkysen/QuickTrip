@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "27.8005828",
+    "lng": "-97.39638099999999"
+  },
+  "formatted_address": "Corpus Christi, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJs9KSYYBfaIYRj5AOiZNQ0a4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.2871651",
+    "lng": "-121.9499568"
+  },
+  "formatted_address": "Campbell, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ6b7YLRk1joARmAd-J9EOXj0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

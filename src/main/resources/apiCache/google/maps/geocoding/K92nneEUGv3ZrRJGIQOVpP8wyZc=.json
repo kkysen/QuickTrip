@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.6680772",
+    "lng": "-117.3272615"
+  },
+  "formatted_address": "Lake Elsinore, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJMzqZMSaa3IAR2VQIqqhMXXE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

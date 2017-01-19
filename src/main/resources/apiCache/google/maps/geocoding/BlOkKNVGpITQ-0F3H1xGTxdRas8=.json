@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.5707838",
+    "lng": "-119.6120765"
+  },
+  "formatted_address": "Selma, CA 93662, USA",
+  "country": "USA",
+  "place_id": "ChIJ5fCkoP_vlIARlaioM4pZy7E",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

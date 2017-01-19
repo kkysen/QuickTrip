@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.308274",
+    "lng": "-72.92788349999999"
+  },
+  "formatted_address": "New Haven, CT, USA",
+  "country": "USA",
+  "place_id": "ChIJ5XCAOkTY54kR7WSyWcZUo_Y",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

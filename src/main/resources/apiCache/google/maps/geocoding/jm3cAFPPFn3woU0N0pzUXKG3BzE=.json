@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.7698021",
+    "lng": "-84.9702228"
+  },
+  "formatted_address": "Dalton, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJj47ynNZ0YIgRULdClZJ3iSU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

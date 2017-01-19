@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.1628731",
+    "lng": "-73.8615246"
+  },
+  "formatted_address": "Ossining, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJxYF5HsTAwokR2HSejwQ0svg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.3600825",
+    "lng": "-71.0588801"
+  },
+  "formatted_address": "Boston, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJGzE9DS1l44kRoOhiASS_fHg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

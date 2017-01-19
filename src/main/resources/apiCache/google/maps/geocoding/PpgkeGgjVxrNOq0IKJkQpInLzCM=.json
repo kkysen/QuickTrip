@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.7881528",
+    "lng": "-122.3087405"
+  },
+  "formatted_address": "Mountlake Terrace, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJCQtD7AUQkFQR1NzV1lZ0fjE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

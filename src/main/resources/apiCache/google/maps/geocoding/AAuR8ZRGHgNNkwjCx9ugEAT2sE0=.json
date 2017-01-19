@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.4258686",
+    "lng": "-86.90806549999999"
+  },
+  "formatted_address": "West Lafayette, IN, USA",
+  "country": "USA",
+  "place_id": "ChIJLQRlIUf9EogR7xuhqJPidd8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

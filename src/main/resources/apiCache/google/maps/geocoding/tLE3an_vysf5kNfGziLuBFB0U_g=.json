@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.8656008",
+    "lng": "-87.4886186"
+  },
+  "formatted_address": "Hopkinsville, KY, USA",
+  "country": "USA",
+  "place_id": "ChIJRxEOvSk0ZYgRgPAfyjS-c1g",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

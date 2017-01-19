@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.8028612",
+    "lng": "-81.269453"
+  },
+  "formatted_address": "Sanford, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJ94gj7A0T54gRTFWAlk5-McM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

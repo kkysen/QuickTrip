@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.1442616",
+    "lng": "-118.0019482"
+  },
+  "formatted_address": "Monrovia, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ2eJeOzfZwoARhfe1CC46JE8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

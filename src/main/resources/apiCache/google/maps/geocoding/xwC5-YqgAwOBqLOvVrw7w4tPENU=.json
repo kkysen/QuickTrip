@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "27.2730492",
+    "lng": "-80.3582261"
+  },
+  "formatted_address": "Port St Lucie, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJrQ7F9u_q3ogR4BB-3vlUSvQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

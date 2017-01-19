@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "30.5335302",
+    "lng": "-92.081509"
+  },
+  "formatted_address": "Opelousas, LA 70570, USA",
+  "country": "USA",
+  "place_id": "ChIJw37VGDXrJIYRxOKtXMq72C4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

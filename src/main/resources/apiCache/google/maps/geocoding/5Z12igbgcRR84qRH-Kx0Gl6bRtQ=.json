@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.08422710000001",
+    "lng": "-94.51328099999999"
+  },
+  "formatted_address": "Joplin, MO, USA",
+  "country": "USA",
+  "place_id": "ChIJ69Pk6jdlyIcRDqM1KDY3Fpg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

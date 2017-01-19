@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.3113669",
+    "lng": "-105.5911007"
+  },
+  "formatted_address": "Laramie, WY, USA",
+  "country": "USA",
+  "place_id": "ChIJeZvajveEaIcRk-XEoffBiY4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

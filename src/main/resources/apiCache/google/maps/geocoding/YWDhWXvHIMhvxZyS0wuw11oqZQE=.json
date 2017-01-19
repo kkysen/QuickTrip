@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.3809335",
+    "lng": "-122.2348431"
+  },
+  "formatted_address": "Kent, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJDWzOLRJYkFQRWgAVv23IR10",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.3147436",
+    "lng": "-88.44870209999999"
+  },
+  "formatted_address": "Woodstock, IL 60098, USA",
+  "country": "USA",
+  "place_id": "ChIJo_N8P9lDD4gRmDzUPTfooiM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.6167555",
+    "lng": "-80.0684479"
+  },
+  "formatted_address": "Lake Worth, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJFUW_ljPY2IgRe8eos0RLSYc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

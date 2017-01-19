@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.5225261",
+    "lng": "-117.7075526"
+  },
+  "formatted_address": "Laguna Niguel, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJE-QK6V3v3IARksS97RctAKQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

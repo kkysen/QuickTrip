@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.7544843",
+    "lng": "-86.3566659"
+  },
+  "formatted_address": "Logansport, IN 46947, USA",
+  "country": "USA",
+  "place_id": "ChIJHWNYCgiFE4gRzqHg8sNnPek",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

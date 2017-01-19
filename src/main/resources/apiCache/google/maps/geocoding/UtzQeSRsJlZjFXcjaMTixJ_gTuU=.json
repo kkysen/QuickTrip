@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.5706548",
+    "lng": "-122.2220673"
+  },
+  "formatted_address": "Mercer Island, WA 98040, USA",
+  "country": "USA",
+  "place_id": "ChIJs5kNm4tdkFQR4Aep8k3yy_o",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

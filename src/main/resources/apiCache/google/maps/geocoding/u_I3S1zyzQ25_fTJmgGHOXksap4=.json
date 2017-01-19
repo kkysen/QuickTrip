@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.11774399999999",
+    "lng": "-73.4081575"
+  },
+  "formatted_address": "Norwalk, CT, USA",
+  "country": "USA",
+  "place_id": "ChIJucU2nEoc6IkRjdVJvAki-l0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

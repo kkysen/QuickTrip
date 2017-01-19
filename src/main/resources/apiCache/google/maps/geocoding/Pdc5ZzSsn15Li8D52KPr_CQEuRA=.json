@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.928935",
+    "lng": "-85.3702476"
+  },
+  "formatted_address": "New Castle, IN 47362, USA",
+  "country": "USA",
+  "place_id": "ChIJZ-6OWGUzFYgRtUmL19sCqjI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

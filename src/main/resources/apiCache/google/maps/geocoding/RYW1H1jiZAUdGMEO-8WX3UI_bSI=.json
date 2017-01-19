@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.2910915",
+    "lng": "-105.5022205"
+  },
+  "formatted_address": "Gillette, WY, USA",
+  "country": "USA",
+  "place_id": "ChIJH7ysLSOUNFMRS5jJ9DEsIMc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

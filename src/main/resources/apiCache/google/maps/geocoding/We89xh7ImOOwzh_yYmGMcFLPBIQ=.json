@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.5652787",
+    "lng": "-81.58618469999999"
+  },
+  "formatted_address": "Winter Garden, FL 34787, USA",
+  "country": "USA",
+  "place_id": "ChIJrcT4k3KD54gRApeiKNx4xxo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

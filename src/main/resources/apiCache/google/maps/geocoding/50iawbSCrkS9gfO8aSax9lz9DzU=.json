@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.9172357",
+    "lng": "-118.0120086"
+  },
+  "formatted_address": "La Mirada, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJYUQwEV0r3YAR3fZE8hN0K-k",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

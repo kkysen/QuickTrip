@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.5585465",
+    "lng": "-122.2710788"
+  },
+  "formatted_address": "Foster City, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJMbBm1NCYj4ARfe-QmAwdsK0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

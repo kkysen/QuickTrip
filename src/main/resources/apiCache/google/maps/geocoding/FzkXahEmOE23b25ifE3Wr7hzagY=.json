@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.4615395",
+    "lng": "-77.6541464"
+  },
+  "formatted_address": "Roanoke Rapids, NC 27870, USA",
+  "country": "USA",
+  "place_id": "ChIJPYOXsc4QrokR_TW7_s8FDNQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

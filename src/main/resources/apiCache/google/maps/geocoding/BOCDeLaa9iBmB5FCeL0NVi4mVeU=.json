@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.7678287",
+    "lng": "-117.0230839"
+  },
+  "formatted_address": "La Mesa, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJbUyTwxdX2YAR_MhWriLdarU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

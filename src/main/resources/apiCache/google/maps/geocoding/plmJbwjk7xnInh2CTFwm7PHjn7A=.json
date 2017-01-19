@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.9255713",
+    "lng": "-116.8764103"
+  },
+  "formatted_address": "Banning, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJxf-hqG1B24ARClmqiPYbHUc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

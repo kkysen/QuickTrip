@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.9716898",
+    "lng": "-100.8726618"
+  },
+  "formatted_address": "Garden City, KS 67846, USA",
+  "country": "USA",
+  "place_id": "ChIJXwSADBfuCYcRE3ZwBwK5CIk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

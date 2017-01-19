@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.3768954",
+    "lng": "-111.7957645"
+  },
+  "formatted_address": "American Fork, UT 84003, USA",
+  "country": "USA",
+  "place_id": "ChIJ7a_8yhqBTYcR1Dnh5Z9U3YU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

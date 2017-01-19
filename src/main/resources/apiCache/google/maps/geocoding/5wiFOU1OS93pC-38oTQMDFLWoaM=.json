@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.4734978",
+    "lng": "-82.0105148"
+  },
+  "formatted_address": "Augusta, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJQaoLFpfQ-YgR5Auq4_2K5z4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

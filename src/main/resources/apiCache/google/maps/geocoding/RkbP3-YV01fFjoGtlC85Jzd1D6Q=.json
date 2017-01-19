@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "31.3112936",
+    "lng": "-92.4451371"
+  },
+  "formatted_address": "Alexandria, LA, USA",
+  "country": "USA",
+  "place_id": "ChIJ48z_6UlNJYYR__cT5Nld5sE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

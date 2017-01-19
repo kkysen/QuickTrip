@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.1198588",
+    "lng": "-80.07365329999999"
+  },
+  "formatted_address": "Kernersville, NC 27284, USA",
+  "country": "USA",
+  "place_id": "ChIJA76DJbYAU4gRBepsIfETt0o",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

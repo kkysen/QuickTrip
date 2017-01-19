@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.4073589",
+    "lng": "-87.02110069999999"
+  },
+  "formatted_address": "Selma, AL, USA",
+  "country": "USA",
+  "place_id": "ChIJp9P3ytAFj4gR86_-939hHTk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

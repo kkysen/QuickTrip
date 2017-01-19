@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "27.5305671",
+    "lng": "-99.48032409999999"
+  },
+  "formatted_address": "Laredo, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJJT35p2zAYIYRkXRWSVN6QLQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

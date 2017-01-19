@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.6182199",
+    "lng": "-79.0086424"
+  },
+  "formatted_address": "Lumberton, NC, USA",
+  "country": "USA",
+  "place_id": "ChIJ_cTYjXzeqokRg4bv7YKGC5I",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

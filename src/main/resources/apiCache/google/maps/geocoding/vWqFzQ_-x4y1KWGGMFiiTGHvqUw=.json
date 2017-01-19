@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.735657",
+    "lng": "-74.1723667"
+  },
+  "formatted_address": "Newark, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJHQ6aMnBTwokRc-T-3CrcvOE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.3113573",
+    "lng": "-96.79838769999999"
+  },
+  "formatted_address": "Brookings, SD 57006, USA",
+  "country": "USA",
+  "place_id": "ChIJ7RRR1cn9iIcRLFvifEISPuE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

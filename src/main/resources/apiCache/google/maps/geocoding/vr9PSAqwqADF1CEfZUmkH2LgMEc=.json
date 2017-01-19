@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.640855",
+    "lng": "-117.603104"
+  },
+  "formatted_address": "Rancho Santa Margarita, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJbTmTWJzr3IARlqst5hfsH7A",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

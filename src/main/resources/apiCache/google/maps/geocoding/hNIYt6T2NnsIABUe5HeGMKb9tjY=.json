@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.2411344",
+    "lng": "-88.31619649999999"
+  },
+  "formatted_address": "Crystal Lake, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJW4QVCddrD4gR0wYydByPhXM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

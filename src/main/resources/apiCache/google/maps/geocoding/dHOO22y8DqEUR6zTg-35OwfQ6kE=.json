@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.3747744",
+    "lng": "-83.6513229"
+  },
+  "formatted_address": "Bowling Green, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJaX8GJSoLPIgRo0ndkqMYLyY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

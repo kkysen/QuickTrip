@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "29.2108147",
+    "lng": "-81.0228331"
+  },
+  "formatted_address": "Daytona Beach, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJg1YCJZTb5ogR6yrLHbc7ajY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

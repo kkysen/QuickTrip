@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.9375911",
+    "lng": "-77.6611022"
+  },
+  "formatted_address": "Chambersburg, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJm5adK8V2yYkRp2C6D3t_8zA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

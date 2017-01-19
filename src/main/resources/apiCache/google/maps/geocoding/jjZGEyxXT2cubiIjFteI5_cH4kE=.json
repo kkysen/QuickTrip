@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.9816812",
+    "lng": "-118.2250725"
+  },
+  "formatted_address": "Huntington Park, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJhcU5VjDJwoARDNU_kUzPP0w",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

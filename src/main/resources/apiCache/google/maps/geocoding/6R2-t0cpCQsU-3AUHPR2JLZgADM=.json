@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.62594139999999",
+    "lng": "-97.1333453"
+  },
+  "formatted_address": "Gainesville, TX 76240, USA",
+  "country": "USA",
+  "place_id": "ChIJ2TVDgQEBTYYRN4kR_GyR8zk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

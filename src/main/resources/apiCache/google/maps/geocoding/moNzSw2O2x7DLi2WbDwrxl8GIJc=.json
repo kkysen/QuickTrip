@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.4989936",
+    "lng": "-83.3677168"
+  },
+  "formatted_address": "Farmington Hills, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJfzx-jC-uJIgRvDsAfiKreBk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

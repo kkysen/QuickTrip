@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.9382103",
+    "lng": "-77.7905339"
+  },
+  "formatted_address": "Rocky Mount, NC, USA",
+  "country": "USA",
+  "place_id": "ChIJfdzeYxKBrokRxwGWNLuqm_A",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

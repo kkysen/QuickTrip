@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.8323225",
+    "lng": "-79.82842579999999"
+  },
+  "formatted_address": "Mt Pleasant, SC, USA",
+  "country": "USA",
+  "place_id": "ChIJ9eUerhZt_ogR4wFdfZ9QkGs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.7719074",
+    "lng": "-87.1111676"
+  },
+  "formatted_address": "Owensboro, KY, USA",
+  "country": "USA",
+  "place_id": "ChIJcxcL6gq6b4gRF7TPB-WG3Zw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

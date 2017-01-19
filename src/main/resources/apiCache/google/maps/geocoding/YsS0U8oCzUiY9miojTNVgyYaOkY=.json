@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.7070354",
+    "lng": "-71.1631137"
+  },
+  "formatted_address": "Lawrence, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJ772KcsAH44kR29UfTrU8HY0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

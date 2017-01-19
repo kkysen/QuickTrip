@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.8583483",
+    "lng": "-118.0647871"
+  },
+  "formatted_address": "Cerritos, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJSzhb9wAt3YARAT6T3UiVSQ4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

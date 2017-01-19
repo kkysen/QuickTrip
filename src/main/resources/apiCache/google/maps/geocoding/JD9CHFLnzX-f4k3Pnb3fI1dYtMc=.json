@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.1706128",
+    "lng": "-78.69030979999999"
+  },
+  "formatted_address": "Lockport, NY 14094, USA",
+  "country": "USA",
+  "place_id": "ChIJ2UZ_Qcx404kRTMvDAK8ajlw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

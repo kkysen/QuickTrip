@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.1635775",
+    "lng": "-93.99939959999999"
+  },
+  "formatted_address": "Mankato, MN, USA",
+  "country": "USA",
+  "place_id": "ChIJaYUeBKYw9IcR0E7GWl88Ewc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

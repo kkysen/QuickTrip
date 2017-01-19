@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.5801103",
+    "lng": "-85.0766113"
+  },
+  "formatted_address": "Carrollton, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJZXd1g6HPiogRlv5ulA7j5zA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

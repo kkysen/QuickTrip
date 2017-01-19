@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.2356536",
+    "lng": "-122.5504041"
+  },
+  "formatted_address": "University Place, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJWyCQcwCqkVQRXqxZz_DjQzQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

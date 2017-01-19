@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "31.5604442",
+    "lng": "-91.40317100000001"
+  },
+  "formatted_address": "Natchez, MS 39120, USA",
+  "country": "USA",
+  "place_id": "ChIJq_-jmBf3JYYR2iSuefBpk1Q",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

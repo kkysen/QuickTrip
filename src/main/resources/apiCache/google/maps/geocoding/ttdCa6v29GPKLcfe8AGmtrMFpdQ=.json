@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.0354084",
+    "lng": "-88.2825668"
+  },
+  "formatted_address": "Elgin, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJMwNc68D7DogRYOVU0fHLOzA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.0805434",
+    "lng": "-103.2310149"
+  },
+  "formatted_address": "Rapid City, SD, USA",
+  "country": "USA",
+  "place_id": "ChIJ-6W7nqVCfYcRx7eTPlphccQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

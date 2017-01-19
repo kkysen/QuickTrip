@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.7468422",
+    "lng": "-119.7725868"
+  },
+  "formatted_address": "Fresno, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJnU6eVOFdlIAREbijSWRAEns",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

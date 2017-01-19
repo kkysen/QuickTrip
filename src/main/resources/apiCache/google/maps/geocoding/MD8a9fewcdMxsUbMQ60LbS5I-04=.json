@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.5482697",
+    "lng": "-121.9885719"
+  },
+  "formatted_address": "Fremont, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ98rot0a_j4AR1IjYiTsx2oo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

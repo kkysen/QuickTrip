@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "46.8266603",
+    "lng": "-100.8895761"
+  },
+  "formatted_address": "Mandan, ND 58554, USA",
+  "country": "USA",
+  "place_id": "ChIJ5Tgi0r2F11IRwHlpf1TQFLg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

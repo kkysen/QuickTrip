@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.7489954",
+    "lng": "-84.3879824"
+  },
+  "formatted_address": "Atlanta, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJjQmTaV0E9YgRC2MLmS_e_mY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

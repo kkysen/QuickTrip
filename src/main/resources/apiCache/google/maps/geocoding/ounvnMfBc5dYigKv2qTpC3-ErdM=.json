@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.2011538",
+    "lng": "-85.5800022"
+  },
+  "formatted_address": "Portage, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJ03f5fTqeF4gRWTFP94luXQI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

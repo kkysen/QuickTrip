@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.3634026",
+    "lng": "-79.86643749999999"
+  },
+  "formatted_address": "West Mifflin, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJu4QezvDvNIgREgYZZ9XdVrY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.77873",
+    "lng": "-82.310119"
+  },
+  "formatted_address": "Mauldin, SC, USA",
+  "country": "USA",
+  "place_id": "ChIJwykAxrERWIgRbRuGm5A5yAo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.844017",
+    "lng": "-97.1430671"
+  },
+  "formatted_address": "Bedford, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJYzBqCKd_ToYRR9Jkjj4AREE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

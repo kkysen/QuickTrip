@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.8752935",
+    "lng": "-117.5664384"
+  },
+  "formatted_address": "Corona, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJbWBd6rmw3IAR8VKS0g_RmIk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

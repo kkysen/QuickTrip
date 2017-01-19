@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.5804609",
+    "lng": "-121.530234"
+  },
+  "formatted_address": "West Sacramento, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ8TmG1MrTmoARQEDZVqVAgBE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

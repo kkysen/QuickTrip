@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.2128609",
+    "lng": "-80.2497707"
+  },
+  "formatted_address": "Tamarac, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJs4w8mUoE2YgRl5UCT39i5k8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.9131996",
+    "lng": "-79.05584450000001"
+  },
+  "formatted_address": "Chapel Hill, NC, USA",
+  "country": "USA",
+  "place_id": "ChIJp35uIRzDrIkRy-RDBOC6A38",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

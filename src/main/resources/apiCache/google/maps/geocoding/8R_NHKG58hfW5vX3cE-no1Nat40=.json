@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.9810059",
+    "lng": "-80.03258670000001"
+  },
+  "formatted_address": "Goose Creek, SC, USA",
+  "country": "USA",
+  "place_id": "ChIJh8AOFANh_ogRL_vuk6FDucU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

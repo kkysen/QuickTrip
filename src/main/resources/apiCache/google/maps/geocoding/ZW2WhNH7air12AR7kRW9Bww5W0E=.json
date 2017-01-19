@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.8025155",
+    "lng": "-117.9931165"
+  },
+  "formatted_address": "Stanton, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJA5JEvuEo3YARxVzDrBeHKZc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

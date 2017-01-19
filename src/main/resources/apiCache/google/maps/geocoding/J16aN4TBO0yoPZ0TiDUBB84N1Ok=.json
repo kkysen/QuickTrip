@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.6122187",
+    "lng": "-80.8075537"
+  },
+  "formatted_address": "Titusville, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJJ1g0uNJM54gRjqET6MoFLKM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

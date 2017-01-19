@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.9242266",
+    "lng": "-83.8088171"
+  },
+  "formatted_address": "Springfield, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJCXyCilhaP4gRu6-BWBcMdD4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

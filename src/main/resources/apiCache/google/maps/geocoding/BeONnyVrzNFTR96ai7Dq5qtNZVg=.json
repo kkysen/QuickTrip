@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.6639383",
+    "lng": "-83.55521200000001"
+  },
+  "formatted_address": "Toledo, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJeU4e_C2HO4gRRcM6RZ_IPHw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

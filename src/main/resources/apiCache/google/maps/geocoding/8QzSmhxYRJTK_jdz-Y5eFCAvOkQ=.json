@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.4862157",
+    "lng": "-74.4518188"
+  },
+  "formatted_address": "New Brunswick, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJpZJq8FXDw4kRDCOOeQZVkiU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

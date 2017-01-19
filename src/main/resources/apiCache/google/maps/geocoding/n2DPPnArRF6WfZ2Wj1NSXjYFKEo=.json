@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.1487043",
+    "lng": "-72.6078672"
+  },
+  "formatted_address": "Chicopee, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJ8X7bX6jd5okRtUyxkZ6Z60s",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

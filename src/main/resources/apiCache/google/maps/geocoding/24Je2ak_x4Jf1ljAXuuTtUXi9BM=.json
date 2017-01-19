@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.6934076",
+    "lng": "-81.5322149"
+  },
+  "formatted_address": "Apopka, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJGXwVzDl354gRiOiA_I8PHdc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

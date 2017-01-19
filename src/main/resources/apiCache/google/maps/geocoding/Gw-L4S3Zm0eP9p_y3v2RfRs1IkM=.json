@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.556996",
+    "lng": "-83.627157"
+  },
+  "formatted_address": "Perrysburg, OH 43551, USA",
+  "country": "USA",
+  "place_id": "ChIJVenyQOF0PIgRUf8iAuUsAtU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

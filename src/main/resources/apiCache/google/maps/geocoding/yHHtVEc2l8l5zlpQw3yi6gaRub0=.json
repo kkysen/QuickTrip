@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.5250906",
+    "lng": "-71.759794"
+  },
+  "formatted_address": "Leominster, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJ10BHL6Ll44kRnYK75rqWNP8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

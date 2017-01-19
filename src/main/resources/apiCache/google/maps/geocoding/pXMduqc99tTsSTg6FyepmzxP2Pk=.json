@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.9108408",
+    "lng": "-94.3821724"
+  },
+  "formatted_address": "Lee\u0027s Summit, MO, USA",
+  "country": "USA",
+  "place_id": "ChIJ_Za1qPbfwIcRh7EHoOnC0gg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

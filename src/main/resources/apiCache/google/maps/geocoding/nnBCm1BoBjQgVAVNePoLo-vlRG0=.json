@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.2375569",
+    "lng": "-80.81841659999999"
+  },
+  "formatted_address": "Warren, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJ72PkQARgMYgRXErD2PRYjGE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

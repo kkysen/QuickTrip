@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.5159852",
+    "lng": "-93.7321228"
+  },
+  "formatted_address": "Bossier City, LA, USA",
+  "country": "USA",
+  "place_id": "ChIJ8R3_KkLLNoYRD-tg3hVZsDE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

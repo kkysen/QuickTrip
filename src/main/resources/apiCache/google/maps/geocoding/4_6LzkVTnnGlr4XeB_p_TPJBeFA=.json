@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.8579056",
+    "lng": "-97.25473710000001"
+  },
+  "formatted_address": "Watauga, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJO0vlTOLXTYYRMWOQSVY_uXQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

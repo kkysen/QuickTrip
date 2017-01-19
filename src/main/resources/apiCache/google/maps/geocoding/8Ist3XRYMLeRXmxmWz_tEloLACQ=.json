@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.2695388",
+    "lng": "-95.8547119"
+  },
+  "formatted_address": "Owasso, OK, USA",
+  "country": "USA",
+  "place_id": "ChIJg2mNEvzvtocRsJJLG_HuqKE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

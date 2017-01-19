@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.7972788",
+    "lng": "-84.3113334"
+  },
+  "formatted_address": "Trotwood, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJHfwl405-QIgRAvuoojQyFRI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

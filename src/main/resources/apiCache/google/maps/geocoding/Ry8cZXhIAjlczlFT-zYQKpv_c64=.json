@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.12922409999999",
+    "lng": "-80.085059"
+  },
+  "formatted_address": "Erie, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJH_eyPeF_LYgRClsdEi6u84k",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

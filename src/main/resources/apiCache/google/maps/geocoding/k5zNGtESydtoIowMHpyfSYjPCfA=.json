@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.04422",
+    "lng": "-83.6499321"
+  },
+  "formatted_address": "Findlay, OH 45840, USA",
+  "country": "USA",
+  "place_id": "ChIJ-XEfmSACPIgR0q4QZwtUtSM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

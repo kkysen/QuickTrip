@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.5317866",
+    "lng": "-80.0905465"
+  },
+  "formatted_address": "Boynton Beach, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJQ-N3iCDf2IgRNpIns7Gl7O4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

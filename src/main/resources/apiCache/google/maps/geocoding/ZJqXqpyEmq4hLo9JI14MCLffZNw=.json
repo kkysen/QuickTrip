@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.5016932",
+    "lng": "-117.6625509"
+  },
+  "formatted_address": "San Juan Capistrano, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ9wxgAUTt3IARk42-Je8q6BY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

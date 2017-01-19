@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.09868669999999",
+    "lng": "-75.91797380000001"
+  },
+  "formatted_address": "Binghamton, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJ0bet33Lv2okRfzPt9wOXjwY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

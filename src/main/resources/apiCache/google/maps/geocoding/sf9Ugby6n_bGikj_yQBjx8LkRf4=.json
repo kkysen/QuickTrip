@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.5865396",
+    "lng": "-122.3916754"
+  },
+  "formatted_address": "Redding, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJLyBKO9aR0lQRVw82e-xYMx8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

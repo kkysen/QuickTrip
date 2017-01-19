@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "25.72149",
+    "lng": "-80.2683838"
+  },
+  "formatted_address": "Coral Gables, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJIfoeFI632YgR1qmVRNyTEFE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

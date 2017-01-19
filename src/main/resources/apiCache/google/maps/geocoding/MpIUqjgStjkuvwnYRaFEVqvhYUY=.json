@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.9525839",
+    "lng": "-75.1652215"
+  },
+  "formatted_address": "Philadelphia, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJ60u11Ni3xokRwVg-jNgU9Yk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

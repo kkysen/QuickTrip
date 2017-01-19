@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.0405837",
+    "lng": "-84.5037164"
+  },
+  "formatted_address": "Lexington, KY, USA",
+  "country": "USA",
+  "place_id": "ChIJJeuczClEQogR3U-MkEGD8IQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

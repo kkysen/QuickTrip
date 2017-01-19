@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.521893",
+    "lng": "-111.9391023"
+  },
+  "formatted_address": "Riverton, UT, USA",
+  "country": "USA",
+  "place_id": "ChIJJ-_BKyiEUocRUgsXdGmY1DM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

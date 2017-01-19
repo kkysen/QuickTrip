@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.5278731",
+    "lng": "-70.9286609"
+  },
+  "formatted_address": "Peabody, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJ8Qn2t1sS44kRn0MjjrRqyOA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

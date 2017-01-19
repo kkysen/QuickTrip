@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.8370727",
+    "lng": "-97.08195409999999"
+  },
+  "formatted_address": "Euless, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJ_w1Iu0t5ToYRZWI1GwHak88",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.2694474",
+    "lng": "-118.781482"
+  },
+  "formatted_address": "Simi Valley, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJATNWW2wu6IARTUPTlI5Z4PQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

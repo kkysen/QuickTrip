@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.5348993",
+    "lng": "-92.4453161"
+  },
+  "formatted_address": "Cedar Falls, IA, USA",
+  "country": "USA",
+  "place_id": "ChIJRxPIgVFV5YcR6TEAweInq_I",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

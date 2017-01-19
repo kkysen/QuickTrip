@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.5581525",
+    "lng": "-73.0514965"
+  },
+  "formatted_address": "Waterbury, CT, USA",
+  "country": "USA",
+  "place_id": "ChIJ5UPlfO_A54kRF5iCbxJr-gc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

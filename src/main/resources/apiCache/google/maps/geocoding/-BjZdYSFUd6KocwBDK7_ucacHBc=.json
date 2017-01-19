@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.1616108",
+    "lng": "-112.0263313"
+  },
+  "formatted_address": "Roy, UT, USA",
+  "country": "USA",
+  "place_id": "ChIJa7gbeS8EU4cRt9vCio7OWac",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

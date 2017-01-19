@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.5231076",
+    "lng": "-81.5184553"
+  },
+  "formatted_address": "South Euclid, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJJ_EX5c39MIgRl-VjKry2BK8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

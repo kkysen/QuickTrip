@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.91537",
+    "lng": "-94.969956"
+  },
+  "formatted_address": "Tahlequah, OK 74464, USA",
+  "country": "USA",
+  "place_id": "ChIJlyBAoyH7yYcRZkOCuEplCG0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.3164856",
+    "lng": "-73.0931641"
+  },
+  "formatted_address": "Shelton, CT 06484, USA",
+  "country": "USA",
+  "place_id": "ChIJT3q-1TTg54kR1VNYDaydOcQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

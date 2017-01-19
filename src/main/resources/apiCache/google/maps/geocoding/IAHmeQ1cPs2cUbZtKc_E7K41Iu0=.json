@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.7267682",
+    "lng": "-73.6342954"
+  },
+  "formatted_address": "Garden City, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJxUU-IzV9wokRmdUFc0h64A4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

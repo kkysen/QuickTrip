@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.0057816",
+    "lng": "-121.5682751"
+  },
+  "formatted_address": "Gilroy, CA 95020, USA",
+  "country": "USA",
+  "place_id": "ChIJy85TFbnjkYAROygnpRsM_a4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

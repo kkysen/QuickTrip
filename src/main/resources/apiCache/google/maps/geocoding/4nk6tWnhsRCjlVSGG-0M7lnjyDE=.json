@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.325578",
+    "lng": "-87.8411818"
+  },
+  "formatted_address": "North Chicago, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJ0bSMFzSTD4gRJeiY-mnCM_o",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.5362184",
+    "lng": "-117.2927641"
+  },
+  "formatted_address": "Victorville, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJedLdY1pkw4ARdjT0JVkRlQ0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

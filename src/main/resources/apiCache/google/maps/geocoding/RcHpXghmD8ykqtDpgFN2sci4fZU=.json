@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.8361538",
+    "lng": "-87.59001339999999"
+  },
+  "formatted_address": "Henderson, KY 42420, USA",
+  "country": "USA",
+  "place_id": "ChIJadPE0ScocIgR4yw1PO92qZo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

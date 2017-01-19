@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.9956397",
+    "lng": "-71.4547891"
+  },
+  "formatted_address": "Manchester, NH, USA",
+  "country": "USA",
+  "place_id": "ChIJo2xmaNZO4okReXE1H0YyBGs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

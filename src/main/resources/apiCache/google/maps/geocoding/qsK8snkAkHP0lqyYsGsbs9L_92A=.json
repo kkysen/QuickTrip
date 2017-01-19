@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.8491816",
+    "lng": "-118.3884078"
+  },
+  "formatted_address": "Redondo Beach, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJE7lJQ5G0woARZfEcVNv4z_8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

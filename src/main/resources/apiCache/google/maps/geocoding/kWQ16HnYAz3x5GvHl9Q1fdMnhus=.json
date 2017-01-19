@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.60815909999999",
+    "lng": "-74.2776468"
+  },
+  "formatted_address": "Rahway, NJ 07065, USA",
+  "country": "USA",
+  "place_id": "ChIJJ9bWZY6zw4kR2Ueg2YMENUY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.0897965",
+    "lng": "-76.80773379999999"
+  },
+  "formatted_address": "Elmira, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJ4_IXPTsV0IkRvzo6JjBm_Eg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.8847361",
+    "lng": "-118.4109089"
+  },
+  "formatted_address": "Manhattan Beach, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJL2Ow4sWzwoARIEUV9NRRAwc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

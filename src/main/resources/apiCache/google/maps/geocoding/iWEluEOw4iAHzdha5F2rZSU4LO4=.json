@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.2203907",
+    "lng": "-74.0120817"
+  },
+  "formatted_address": "Asbury Park, NJ 07712, USA",
+  "country": "USA",
+  "place_id": "ChIJkcxLDJ8uwokR8HKvyNgi7ZQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

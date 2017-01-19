@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.613321",
+    "lng": "-105.0166498"
+  },
+  "formatted_address": "Littleton, CO, USA",
+  "country": "USA",
+  "place_id": "ChIJKzvi-z98a4cRwDzWrumXBQc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

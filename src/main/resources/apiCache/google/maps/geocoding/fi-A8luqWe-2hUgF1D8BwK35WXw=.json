@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.5647575",
+    "lng": "-87.53893099999999"
+  },
+  "formatted_address": "Lansing, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJ7T7whfEfDogRwcR9QFZ5KYw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

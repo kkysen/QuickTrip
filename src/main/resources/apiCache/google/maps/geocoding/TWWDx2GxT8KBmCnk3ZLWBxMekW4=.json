@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.67747689999999",
+    "lng": "-113.0618931"
+  },
+  "formatted_address": "Cedar City, UT, USA",
+  "country": "USA",
+  "place_id": "ChIJ0cJe4H9htYAR6dFzgOLKFO8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

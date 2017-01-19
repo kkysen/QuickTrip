@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.3600586",
+    "lng": "-84.309939"
+  },
+  "formatted_address": "Mason, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJ7zWamqhXQIgREz1fGcSxXL0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

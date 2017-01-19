@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.6011813",
+    "lng": "-76.1804843"
+  },
+  "formatted_address": "Cortland, NY 13045, USA",
+  "country": "USA",
+  "place_id": "ChIJbWempXhs2okRG-d_0saD07U",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

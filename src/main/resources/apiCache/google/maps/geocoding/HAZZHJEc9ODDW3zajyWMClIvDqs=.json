@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.2900939",
+    "lng": "-73.9204158"
+  },
+  "formatted_address": "Peekskill, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJQYz5Peq2wokRobj6sPmI4ug",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

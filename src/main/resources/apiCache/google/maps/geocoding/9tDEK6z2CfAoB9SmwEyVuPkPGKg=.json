@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.6000317",
+    "lng": "-87.93811119999999"
+  },
+  "formatted_address": "Homer Glen, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJl8ae1h5CDogR4y7S558ZCyI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.7317431",
+    "lng": "-82.99767420000001"
+  },
+  "formatted_address": "Portsmouth, OH 45662, USA",
+  "country": "USA",
+  "place_id": "ChIJc2chQuaKRogRikeMkaDib3k",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

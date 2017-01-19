@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.5985468",
+    "lng": "-122.3871942"
+  },
+  "formatted_address": "Millbrae, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJB5B2CJAKj4ARa1qX_PThidM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.6428362",
+    "lng": "-84.2866083"
+  },
+  "formatted_address": "Miamisburg, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJjVJnuoBiQIgR9yJWFI8WWg4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

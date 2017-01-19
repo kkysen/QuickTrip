@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.262082",
+    "lng": "-81.18730049999999"
+  },
+  "formatted_address": "Gastonia, NC, USA",
+  "country": "USA",
+  "place_id": "ChIJ7XUN2yGWVogRc9lZLpjisiQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

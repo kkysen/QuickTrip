@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.7878788",
+    "lng": "-74.0143064"
+  },
+  "formatted_address": "West New York, NJ 07093, USA",
+  "country": "USA",
+  "place_id": "ChIJ1bg4GRNYwokRli3vr6gwnOM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

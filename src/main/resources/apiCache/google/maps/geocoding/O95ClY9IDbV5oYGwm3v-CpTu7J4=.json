@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.8048355",
+    "lng": "-77.0469214"
+  },
+  "formatted_address": "Alexandria, VA, USA",
+  "country": "USA",
+  "place_id": "ChIJ8aukkz5NtokRLAHB24Ym9dc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

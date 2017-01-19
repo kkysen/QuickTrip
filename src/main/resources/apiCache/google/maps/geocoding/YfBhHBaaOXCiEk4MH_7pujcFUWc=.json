@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.1680796",
+    "lng": "-88.4281415"
+  },
+  "formatted_address": "Huntley, IL 60142, USA",
+  "country": "USA",
+  "place_id": "ChIJD7iH5UAUD4gR_DQf8V-ErdY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

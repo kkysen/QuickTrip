@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.4784144",
+    "lng": "-82.63793869999999"
+  },
+  "formatted_address": "Ashland, KY, USA",
+  "country": "USA",
+  "place_id": "ChIJvXxyzRvYRYgR__b61hNiulA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

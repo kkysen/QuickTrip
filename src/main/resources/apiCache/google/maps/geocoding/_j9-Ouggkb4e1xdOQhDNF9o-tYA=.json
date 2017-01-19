@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.7444613",
+    "lng": "-118.3870173"
+  },
+  "formatted_address": "Rancho Palos Verdes, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJn41UcNpL3YARtJSWblt_RME",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

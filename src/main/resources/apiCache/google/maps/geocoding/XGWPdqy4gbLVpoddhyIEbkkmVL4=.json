@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.1305012",
+    "lng": "-121.6543901"
+  },
+  "formatted_address": "Morgan Hill, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJbZ7QsR8ejoAR1VyJID7pEmg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

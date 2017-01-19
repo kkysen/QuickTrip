@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.0814447",
+    "lng": "-81.51900529999999"
+  },
+  "formatted_address": "Akron, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJt_oui5XXMIgRBG0m_ZVsySk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

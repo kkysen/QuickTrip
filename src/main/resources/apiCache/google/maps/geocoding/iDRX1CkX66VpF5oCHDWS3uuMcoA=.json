@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.9039878",
+    "lng": "-74.118476"
+  },
+  "formatted_address": "Elmwood Park, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJU5lNMvH7wokR8IcmXQpaGAc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.0450722",
+    "lng": "-87.68769689999999"
+  },
+  "formatted_address": "Evanston, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJdwroNP3PD4gRGmfABQ2hIW8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

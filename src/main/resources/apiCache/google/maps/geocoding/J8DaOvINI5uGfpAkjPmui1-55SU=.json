@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.223",
+    "lng": "-111.9738304"
+  },
+  "formatted_address": "Ogden, UT, USA",
+  "country": "USA",
+  "place_id": "ChIJe02c2pQOU4cRLLM0e9fcYQA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

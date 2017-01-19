@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "27.4989278",
+    "lng": "-82.5748194"
+  },
+  "formatted_address": "Bradenton, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJ8YKm3k8Ww4gRWv3xTn07nfo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "25.9420377",
+    "lng": "-80.2456045"
+  },
+  "formatted_address": "Miami Gardens, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJZy-MgLuv2YgR1Wvi5YjYme0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

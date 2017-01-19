@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.6768927",
+    "lng": "-122.2059833"
+  },
+  "formatted_address": "Kirkland, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJe85SKMASkFQRVyh4cKpqd3o",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

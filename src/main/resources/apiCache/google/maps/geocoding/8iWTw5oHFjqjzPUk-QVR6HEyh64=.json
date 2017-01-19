@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.9160768",
+    "lng": "-93.10160739999999"
+  },
+  "formatted_address": "West St Paul, MN 55118, USA",
+  "country": "USA",
+  "place_id": "ChIJF9rCoTYr9ocR6oUKpR-WRlA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "25.6217715",
+    "lng": "-80.3247748"
+  },
+  "formatted_address": "Palmetto Bay, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJA0SdMADE2YgRF1oT9yCofjE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

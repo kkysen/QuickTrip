@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.0215258",
+    "lng": "-80.3819984"
+  },
+  "formatted_address": "Clemmons, NC, USA",
+  "country": "USA",
+  "place_id": "ChIJO3RvNyagU4gR0N0T2lponoI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

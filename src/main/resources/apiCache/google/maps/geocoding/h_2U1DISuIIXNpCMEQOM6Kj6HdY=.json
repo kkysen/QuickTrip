@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.055103",
+    "lng": "-117.7499909"
+  },
+  "formatted_address": "Pomona, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJIaGfee8tw4ARM6nKAHCUCVI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

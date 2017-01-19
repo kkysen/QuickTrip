@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "48.118146",
+    "lng": "-123.4307413"
+  },
+  "formatted_address": "Port Angeles, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJR-fnwAxSjlQR2aVPY4xhvF0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "45.1602442",
+    "lng": "-93.0888324"
+  },
+  "formatted_address": "Lino Lakes, MN, USA",
+  "country": "USA",
+  "place_id": "ChIJhXg2Q9zYslIR35BhbUfTsCo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

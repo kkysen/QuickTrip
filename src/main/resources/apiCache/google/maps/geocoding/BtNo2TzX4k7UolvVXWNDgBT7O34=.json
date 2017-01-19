@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.263079",
+    "lng": "-88.00396529999999"
+  },
+  "formatted_address": "Mundelein, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJOWDJv3qXD4gRU7Uzm5mGSwU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

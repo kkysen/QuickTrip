@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.9584181",
+    "lng": "-75.97464719999999"
+  },
+  "formatted_address": "Hazleton, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJsbZnKBOkxYkR9EOVcbwBLUQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

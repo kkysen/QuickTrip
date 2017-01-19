@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.9685219",
+    "lng": "-86.4808043"
+  },
+  "formatted_address": "Bowling Green, KY, USA",
+  "country": "USA",
+  "place_id": "ChIJ0-T66bzoZYgRTyx5IJCsCqc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

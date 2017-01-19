@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.0111412",
+    "lng": "-87.84061919999999"
+  },
+  "formatted_address": "Park Ridge, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJ_6LykSGwD4gR4roAry4BlwM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

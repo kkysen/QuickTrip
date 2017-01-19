@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "45.0481968",
+    "lng": "-93.2474098"
+  },
+  "formatted_address": "Columbia Heights, MN 55421, USA",
+  "country": "USA",
+  "place_id": "ChIJ-2GWez8us1IRUck2BMcLA3E",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

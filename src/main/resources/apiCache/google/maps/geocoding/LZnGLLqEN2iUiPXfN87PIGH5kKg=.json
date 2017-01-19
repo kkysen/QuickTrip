@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.3382082",
+    "lng": "-121.8863286"
+  },
+  "formatted_address": "San Jose, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ9T_5iuTKj4ARe3GfygqMnbk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.3420381",
+    "lng": "-74.167924"
+  },
+  "formatted_address": "Kiryas Joel, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJY-R2lPnWwokRHt7Fg9aKekA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

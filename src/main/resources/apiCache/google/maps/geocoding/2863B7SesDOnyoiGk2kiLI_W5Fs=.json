@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.2270869",
+    "lng": "-80.8431267"
+  },
+  "formatted_address": "Charlotte, NC, USA",
+  "country": "USA",
+  "place_id": "ChIJgRo4_MQfVIgRZNFDv-ZQRog",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

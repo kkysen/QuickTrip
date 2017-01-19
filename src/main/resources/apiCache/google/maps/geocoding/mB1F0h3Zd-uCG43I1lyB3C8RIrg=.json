@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.4503998",
+    "lng": "-88.81838719999999"
+  },
+  "formatted_address": "Starkville, MS 39759, USA",
+  "country": "USA",
+  "place_id": "ChIJaWiYsg81gYgRcgFbw5RfNZA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

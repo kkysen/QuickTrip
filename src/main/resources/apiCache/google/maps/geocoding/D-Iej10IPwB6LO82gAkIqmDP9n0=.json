@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "30.5082551",
+    "lng": "-97.67889599999999"
+  },
+  "formatted_address": "Round Rock, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJ5yIt7aTRRIYREEvg7VlyIQc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

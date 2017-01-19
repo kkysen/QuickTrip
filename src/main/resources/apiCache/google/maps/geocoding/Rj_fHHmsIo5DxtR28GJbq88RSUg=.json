@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.7026116",
+    "lng": "-103.1360403"
+  },
+  "formatted_address": "Hobbs, NM, USA",
+  "country": "USA",
+  "place_id": "ChIJ3at8vwOV_IYRgGiP8qBRIrQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

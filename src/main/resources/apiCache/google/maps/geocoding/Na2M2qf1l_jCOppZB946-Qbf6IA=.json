@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.6633573",
+    "lng": "-116.3100095"
+  },
+  "formatted_address": "La Quinta, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJX5eQ9TVa2oARudotYG5om8g",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

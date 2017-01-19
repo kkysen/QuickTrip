@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "45.6318397",
+    "lng": "-122.6716063"
+  },
+  "formatted_address": "Vancouver, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJ-RRZyGOvlVQR8-ORLBHVVoQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

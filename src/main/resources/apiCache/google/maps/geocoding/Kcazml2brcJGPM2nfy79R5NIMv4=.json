@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.59780749999999",
+    "lng": "-84.7675139"
+  },
+  "formatted_address": "Mt Pleasant, MI 48858, USA",
+  "country": "USA",
+  "place_id": "ChIJrfliRh0DIogR29UizBms1nk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

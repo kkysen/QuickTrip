@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.1355582",
+    "lng": "-116.0541689"
+  },
+  "formatted_address": "Twentynine Palms, CA 92277, USA",
+  "country": "USA",
+  "place_id": "ChIJz35ewibH2oAR_KNjyULrN-w",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.1535728",
+    "lng": "-93.20103669999999"
+  },
+  "formatted_address": "Mason City, IA 50401, USA",
+  "country": "USA",
+  "place_id": "ChIJOUGasz8H8YcRAV7QK6iZMa0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

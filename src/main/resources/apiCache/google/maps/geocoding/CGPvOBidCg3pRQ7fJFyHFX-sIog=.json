@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.3106241",
+    "lng": "-69.7794897"
+  },
+  "formatted_address": "Augusta, ME 04330, USA",
+  "country": "USA",
+  "place_id": "ChIJncSsr_0AskwRLQsiZI1Io3k",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

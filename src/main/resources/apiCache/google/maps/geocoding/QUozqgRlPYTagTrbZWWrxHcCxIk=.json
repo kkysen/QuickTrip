@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.46676300000001",
+    "lng": "-70.9494938"
+  },
+  "formatted_address": "Lynn, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJr-WCbTIO44kRU0hrtyE-SYs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

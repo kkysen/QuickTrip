@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.3409251",
+    "lng": "-76.4113497"
+  },
+  "formatted_address": "Lebanon, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJJ66b4ecCxokRxe1IIMLjbnI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

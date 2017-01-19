@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.7083984",
+    "lng": "-80.2306019"
+  },
+  "formatted_address": "Royal Palm Beach, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJ9ZBMPc0l2YgRgZ8YFTmDViQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.0836712",
+    "lng": "-84.5085536"
+  },
+  "formatted_address": "Covington, KY, USA",
+  "country": "USA",
+  "place_id": "ChIJmyVs1KuwQYgRq-Kw61fJ5i4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

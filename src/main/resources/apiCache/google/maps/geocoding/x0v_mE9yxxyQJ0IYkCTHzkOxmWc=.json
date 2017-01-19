@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.1836854",
+    "lng": "-98.1230638"
+  },
+  "formatted_address": "Alamo, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJRVFgs1t1ZYYRFphRTLVqUm4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.0841936",
+    "lng": "-88.0131275"
+  },
+  "formatted_address": "Rolling Meadows, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJaYe05LS6D4gR2EmDNXrd8Mk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

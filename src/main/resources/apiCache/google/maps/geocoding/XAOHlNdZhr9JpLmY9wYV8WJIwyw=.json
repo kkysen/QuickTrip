@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.2544472",
+    "lng": "-104.6091409"
+  },
+  "formatted_address": "Pueblo, CO, USA",
+  "country": "USA",
+  "place_id": "ChIJZbEbB_OiE4cRLrjHaKNrLag",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.189443",
+    "lng": "-114.0530065"
+  },
+  "formatted_address": "Kingman, AZ, USA",
+  "country": "USA",
+  "place_id": "ChIJNWCTABPczYARYKUE_7zPrKY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

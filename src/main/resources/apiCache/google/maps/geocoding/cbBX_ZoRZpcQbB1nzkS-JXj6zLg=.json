@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "45.58706309999999",
+    "lng": "-122.3995363"
+  },
+  "formatted_address": "Camas, WA 98607, USA",
+  "country": "USA",
+  "place_id": "ChIJu7CVNpW8lVQRRYYDHVqSjzw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

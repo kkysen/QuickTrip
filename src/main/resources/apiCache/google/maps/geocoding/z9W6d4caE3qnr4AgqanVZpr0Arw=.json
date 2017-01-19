@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.3455892",
+    "lng": "-88.8425769"
+  },
+  "formatted_address": "Ottawa, IL 61350, USA",
+  "country": "USA",
+  "place_id": "ChIJUWY2E2xUCYgRef712ycvLqM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

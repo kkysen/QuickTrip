@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.0352216",
+    "lng": "-111.9385521"
+  },
+  "formatted_address": "Kaysville, UT 84037, USA",
+  "country": "USA",
+  "place_id": "ChIJzY83aQL-UocRXjjmHFswO88",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

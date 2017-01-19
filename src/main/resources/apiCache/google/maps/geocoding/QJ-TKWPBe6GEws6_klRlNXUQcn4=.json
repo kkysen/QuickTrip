@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.9125992",
+    "lng": "-73.8370786"
+  },
+  "formatted_address": "Mt Vernon, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJdYAB1EeNwokRjwx3v75uNe4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

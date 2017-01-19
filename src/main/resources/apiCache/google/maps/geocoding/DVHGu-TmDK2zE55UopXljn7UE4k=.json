@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.3164498",
+    "lng": "-80.72698539999999"
+  },
+  "formatted_address": "Rockledge, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJDyc0WIQB3ogRns5LvM3R_Lw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

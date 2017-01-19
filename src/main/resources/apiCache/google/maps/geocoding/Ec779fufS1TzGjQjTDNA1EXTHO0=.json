@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "46.78667189999999",
+    "lng": "-92.10048519999999"
+  },
+  "formatted_address": "Duluth, MN, USA",
+  "country": "USA",
+  "place_id": "ChIJ_zcueH5SrlIRcgxY63a__ZA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

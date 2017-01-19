@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.9747838",
+    "lng": "-75.91075649999999"
+  },
+  "formatted_address": "Watertown, NY 13601, USA",
+  "country": "USA",
+  "place_id": "ChIJkdznNf1v2IkRS14I6ijAg0M",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

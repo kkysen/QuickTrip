@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.1141841",
+    "lng": "-81.61785359999999"
+  },
+  "formatted_address": "Haines City, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJ-1kR1-5v3YgRFI60Fuctsfo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

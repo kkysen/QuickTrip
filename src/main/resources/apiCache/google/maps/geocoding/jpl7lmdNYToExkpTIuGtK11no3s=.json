@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.9205411",
+    "lng": "-105.0866504"
+  },
+  "formatted_address": "Broomfield, CO, USA",
+  "country": "USA",
+  "place_id": "ChIJO_iIW8yKa4cRsEK8kOiXBQc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

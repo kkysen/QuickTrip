@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.9852617",
+    "lng": "-104.8205283"
+  },
+  "formatted_address": "Brighton, CO, USA",
+  "country": "USA",
+  "place_id": "ChIJJ6s2slNsbIcRcyEZ3j6Tp6M",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

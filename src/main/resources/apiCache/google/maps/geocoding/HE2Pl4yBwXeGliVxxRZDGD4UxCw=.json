@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.9377453",
+    "lng": "-74.19035599999999"
+  },
+  "formatted_address": "Amsterdam, NY 12010, USA",
+  "country": "USA",
+  "place_id": "ChIJpdqZ_bhh3okRv2iYAUDOAmo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

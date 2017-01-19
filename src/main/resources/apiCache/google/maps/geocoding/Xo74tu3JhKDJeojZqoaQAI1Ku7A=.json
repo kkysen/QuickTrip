@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.767323",
+    "lng": "-74.20486769999999"
+  },
+  "formatted_address": "East Orange, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJw4KJlbVUwokREiZaBTE5q7Y",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

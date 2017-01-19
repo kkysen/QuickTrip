@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.3683064",
+    "lng": "-80.1289321"
+  },
+  "formatted_address": "Boca Raton, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJJ_s278Ij2YgRyZVgyu6mPtI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

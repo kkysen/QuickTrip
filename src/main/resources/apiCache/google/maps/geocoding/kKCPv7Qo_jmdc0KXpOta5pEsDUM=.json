@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.1664736",
+    "lng": "-80.2083806"
+  },
+  "formatted_address": "Lauderdale Lakes, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJtSqxnvID2YgR8Y7G3d6ALBk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

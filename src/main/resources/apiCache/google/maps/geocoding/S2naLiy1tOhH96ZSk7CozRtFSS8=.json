@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.84622359999999",
+    "lng": "-77.30637329999999"
+  },
+  "formatted_address": "Fairfax, VA, USA",
+  "country": "USA",
+  "place_id": "ChIJzZFLOZZOtokRQIZEhecmIwc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

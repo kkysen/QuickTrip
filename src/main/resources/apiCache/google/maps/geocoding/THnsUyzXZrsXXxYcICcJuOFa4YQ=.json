@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.425125",
+    "lng": "-94.04768820000001"
+  },
+  "formatted_address": "Texarkana, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJV2SgwjJBNIYRcFvbYZI8WJ0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

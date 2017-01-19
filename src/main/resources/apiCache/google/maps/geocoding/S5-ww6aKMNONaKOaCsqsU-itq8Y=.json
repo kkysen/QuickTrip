@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.4709761",
+    "lng": "-85.0007653"
+  },
+  "formatted_address": "Phenix City, AL, USA",
+  "country": "USA",
+  "place_id": "ChIJcQGiemjajIgRogsVCs0GYNQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

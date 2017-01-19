@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.6879241",
+    "lng": "-122.4702079"
+  },
+  "formatted_address": "Daly City, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJyWPehPt7j4ARV_oTDtvgtCw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

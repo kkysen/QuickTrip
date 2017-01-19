@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.060949",
+    "lng": "-95.7974526"
+  },
+  "formatted_address": "Broken Arrow, OK, USA",
+  "country": "USA",
+  "place_id": "ChIJEU6rbj1itocRXCamRjirJSg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

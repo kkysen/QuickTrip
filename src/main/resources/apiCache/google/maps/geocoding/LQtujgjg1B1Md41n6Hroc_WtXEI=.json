@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.052565",
+    "lng": "-97.93643259999999"
+  },
+  "formatted_address": "Chickasha, OK, USA",
+  "country": "USA",
+  "place_id": "ChIJG8pzhkWDrYcRVuKAEclJMYw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

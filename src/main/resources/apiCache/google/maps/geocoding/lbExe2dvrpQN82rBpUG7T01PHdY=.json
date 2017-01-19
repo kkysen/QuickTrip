@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.6477653",
+    "lng": "-104.9877597"
+  },
+  "formatted_address": "Englewood, CO, USA",
+  "country": "USA",
+  "place_id": "ChIJtz-jnXqAbIcRxf_PX1_vIGY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

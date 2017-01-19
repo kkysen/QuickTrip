@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.8481556",
+    "lng": "-73.99763899999999"
+  },
+  "formatted_address": "Palisades Park, NJ 07650, USA",
+  "country": "USA",
+  "place_id": "ChIJI1u-Qwj3wokROluMcbuZHGY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

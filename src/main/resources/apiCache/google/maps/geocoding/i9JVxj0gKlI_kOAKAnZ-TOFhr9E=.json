@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.4192496",
+    "lng": "-82.44515400000002"
+  },
+  "formatted_address": "Huntington, WV, USA",
+  "country": "USA",
+  "place_id": "ChIJtTAkearjRYgR1FFA7Wg1cdM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

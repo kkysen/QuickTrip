@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.5890723",
+    "lng": "-121.302728"
+  },
+  "formatted_address": "Rancho Cordova, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ7fPl0wTdmoARVCVOx2VOv5Q",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

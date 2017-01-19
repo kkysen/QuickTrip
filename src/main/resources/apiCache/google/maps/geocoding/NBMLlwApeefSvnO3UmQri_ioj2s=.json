@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.0602216",
+    "lng": "-111.9710529"
+  },
+  "formatted_address": "Layton, UT, USA",
+  "country": "USA",
+  "place_id": "ChIJ-TAH2db9UocRGJwbAH6wsYw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

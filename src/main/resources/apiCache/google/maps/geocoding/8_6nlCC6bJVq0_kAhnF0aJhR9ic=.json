@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.9888754",
+    "lng": "-80.9022758"
+  },
+  "formatted_address": "Edgewater, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJLYpC8Z0Y54gRPV2nFbm0Q6s",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

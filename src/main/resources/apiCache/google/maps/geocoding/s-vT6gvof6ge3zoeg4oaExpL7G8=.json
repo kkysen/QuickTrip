@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.5192189",
+    "lng": "-81.45789599999999"
+  },
+  "formatted_address": "Mayfield Heights, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJ2f2EqkIBMYgR_UdlmHt2Z08",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

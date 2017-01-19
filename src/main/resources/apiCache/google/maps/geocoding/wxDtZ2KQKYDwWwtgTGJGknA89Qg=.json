@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "27.8964147",
+    "lng": "-81.8431374"
+  },
+  "formatted_address": "Bartow, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJN0fwgr4X3YgRIaeia-ny95Y",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

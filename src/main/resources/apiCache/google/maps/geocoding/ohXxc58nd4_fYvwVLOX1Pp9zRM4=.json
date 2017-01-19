@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.8839926",
+    "lng": "-84.51437609999999"
+  },
+  "formatted_address": "Smyrna, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJ5xP6dT0M9YgRowT1xO4EYZk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

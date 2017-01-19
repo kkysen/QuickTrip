@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.3806716",
+    "lng": "-84.79965729999999"
+  },
+  "formatted_address": "Newnan, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJuTrFTSrG9IgRyw4kYNqd6vQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

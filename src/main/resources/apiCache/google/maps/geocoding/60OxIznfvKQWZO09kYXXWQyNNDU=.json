@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.7478769",
+    "lng": "-95.36969089999999"
+  },
+  "formatted_address": "Muskogee, OK, USA",
+  "country": "USA",
+  "place_id": "ChIJRZv8MU7gtYcRKKC5VXD8wXc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

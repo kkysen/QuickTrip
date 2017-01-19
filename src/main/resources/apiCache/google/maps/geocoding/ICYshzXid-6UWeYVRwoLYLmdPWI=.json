@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.4730948",
+    "lng": "-87.06114119999999"
+  },
+  "formatted_address": "Valparaiso, IN, USA",
+  "country": "USA",
+  "place_id": "ChIJC0BDeA6aEYgRTELnjqNFwoA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

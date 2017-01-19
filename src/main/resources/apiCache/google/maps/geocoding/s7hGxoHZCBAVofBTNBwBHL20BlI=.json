@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.7370639",
+    "lng": "-82.25428339999999"
+  },
+  "formatted_address": "Simpsonville, SC, USA",
+  "country": "USA",
+  "place_id": "ChIJn0xYIf4mWIgRpPL_abFuFDA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

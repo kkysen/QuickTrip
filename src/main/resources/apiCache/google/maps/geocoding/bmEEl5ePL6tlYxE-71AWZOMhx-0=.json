@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.0202894",
+    "lng": "-117.8653386"
+  },
+  "formatted_address": "Walnut, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJMyel7Zcrw4AReYg0hj99Lq8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

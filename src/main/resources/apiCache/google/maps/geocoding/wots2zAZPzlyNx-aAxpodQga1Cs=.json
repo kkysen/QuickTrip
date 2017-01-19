@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.1341477",
+    "lng": "-121.2722194"
+  },
+  "formatted_address": "Lodi, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJNTjFJtmhmoARRuhsu5jkrY4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

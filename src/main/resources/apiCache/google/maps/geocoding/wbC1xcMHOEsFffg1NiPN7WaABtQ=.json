@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.6776832",
+    "lng": "-116.7804664"
+  },
+  "formatted_address": "Coeur d\u0027Alene, ID, USA",
+  "country": "USA",
+  "place_id": "ChIJj3xVuvi0YVMRkFK_BVuZ5V8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

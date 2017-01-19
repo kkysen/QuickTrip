@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.1669711",
+    "lng": "-80.25659499999999"
+  },
+  "formatted_address": "Sunrise, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJQZ3rCDao2YgRmfu2Qy4c9SQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

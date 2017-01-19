@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.012833",
+    "lng": "-81.6051221"
+  },
+  "formatted_address": "Barberton, OH 44203, USA",
+  "country": "USA",
+  "place_id": "ChIJSyPtpHjTMIgRa0ZfTLyZbj4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

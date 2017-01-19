@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.4473361",
+    "lng": "-84.14686159999999"
+  },
+  "formatted_address": "McDonough, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJwU5giURa9IgRoSnHIYl6qEs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

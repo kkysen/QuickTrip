@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.3292396",
+    "lng": "-82.1012554"
+  },
+  "formatted_address": "Athens, OH 45701, USA",
+  "country": "USA",
+  "place_id": "ChIJ08VDKIp6SIgRK0piBi8BsDA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

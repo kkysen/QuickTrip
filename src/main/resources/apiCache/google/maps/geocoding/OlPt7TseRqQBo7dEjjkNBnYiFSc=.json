@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.63920239999999",
+    "lng": "-87.4547635"
+  },
+  "formatted_address": "East Chicago, IN, USA",
+  "country": "USA",
+  "place_id": "ChIJXbsrtIvbEYgRqOS9SVBvR4Y",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.5037004",
+    "lng": "-93.05517949999999"
+  },
+  "formatted_address": "Hot Springs, AR, USA",
+  "country": "USA",
+  "place_id": "ChIJR1AyiJMqzYcRDR4CRPm-qLo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

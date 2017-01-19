@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.5931049",
+    "lng": "-81.5267873"
+  },
+  "formatted_address": "Euclid, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJO4ucvl3-MIgRzQkY1TPeylc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

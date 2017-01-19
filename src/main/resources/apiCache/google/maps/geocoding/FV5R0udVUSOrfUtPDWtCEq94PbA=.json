@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.3898388",
+    "lng": "-74.5240422"
+  },
+  "formatted_address": "Pleasantville, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJv6d1XtTowIkRSksSVBSYPxI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

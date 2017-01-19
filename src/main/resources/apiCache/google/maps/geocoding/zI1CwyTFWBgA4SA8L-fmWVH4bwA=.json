@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "30.42130899999999",
+    "lng": "-87.21691490000001"
+  },
+  "formatted_address": "Pensacola, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJu6rLrEW_kIgRfGV5MW6axqc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

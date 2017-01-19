@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.7467619",
+    "lng": "-87.76073799999999"
+  },
+  "formatted_address": "Burbank, IL 60459, USA",
+  "country": "USA",
+  "place_id": "ChIJMYhHvq4wDogRMnUx5n72TW0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.257038",
+    "lng": "-85.1646726"
+  },
+  "formatted_address": "Rome, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJ-0CeYsCkiogRKx3zvPnFUCg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.8402805",
+    "lng": "-97.61142369999999"
+  },
+  "formatted_address": "Salina, KS, USA",
+  "country": "USA",
+  "place_id": "ChIJT1BSz2DAvIcR8mst7s9KZTU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

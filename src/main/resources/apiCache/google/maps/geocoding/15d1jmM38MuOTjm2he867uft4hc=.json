@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.8791783",
+    "lng": "-99.3267702"
+  },
+  "formatted_address": "Hays, KS 67601, USA",
+  "country": "USA",
+  "place_id": "ChIJczq_GXR5oYcRjYNialzse-8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

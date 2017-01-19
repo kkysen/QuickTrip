@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.9716689",
+    "lng": "-95.2352501"
+  },
+  "formatted_address": "Lawrence, KS, USA",
+  "country": "USA",
+  "place_id": "ChIJg5hHzsdAv4cRLqt4BNUTFxU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

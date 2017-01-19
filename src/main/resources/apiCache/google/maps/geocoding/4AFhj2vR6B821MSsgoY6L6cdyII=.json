@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.7222445",
+    "lng": "-116.3744556"
+  },
+  "formatted_address": "Palm Desert, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJN8Kl8i782oARdUavho9GuS4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.452819",
+    "lng": "-82.1823746"
+  },
+  "formatted_address": "Lorain, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJ1eSmRqmdMIgRIjKb78T-FXI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

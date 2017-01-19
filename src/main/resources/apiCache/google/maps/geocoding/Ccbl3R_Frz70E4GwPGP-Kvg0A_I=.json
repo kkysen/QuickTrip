@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.0553908",
+    "lng": "-91.6663523"
+  },
+  "formatted_address": "Winona, MN 55987, USA",
+  "country": "USA",
+  "place_id": "ChIJtS6Jk3Nt-YcRD2aiM8I1xwY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

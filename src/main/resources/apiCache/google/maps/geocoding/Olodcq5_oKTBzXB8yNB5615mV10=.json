@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.8507689",
+    "lng": "-76.28587259999999"
+  },
+  "formatted_address": "Norfolk, VA, USA",
+  "country": "USA",
+  "place_id": "ChIJRcoiUzqXuokRCh56zn8Qmas",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

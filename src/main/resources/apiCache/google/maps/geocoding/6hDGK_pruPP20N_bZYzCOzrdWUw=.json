@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "31.7618778",
+    "lng": "-106.4850217"
+  },
+  "formatted_address": "El Paso, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJaTv-xYs_54YRIgKdq-OEkeM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

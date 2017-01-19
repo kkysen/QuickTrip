@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.6926512",
+    "lng": "-114.6276916"
+  },
+  "formatted_address": "Yuma, AZ, USA",
+  "country": "USA",
+  "place_id": "ChIJ2a1NIYdi1oARWEKe9Qc6qc8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

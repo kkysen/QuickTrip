@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.1040864",
+    "lng": "-122.2566367"
+  },
+  "formatted_address": "Vallejo, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJCQfOMpcRhYARORbGqAI_k5U",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.6042079",
+    "lng": "-111.7256936"
+  },
+  "formatted_address": "Fountain Hills, AZ 85268, USA",
+  "country": "USA",
+  "place_id": "ChIJ0XylYZCYK4cRNzFxeDTvrL4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

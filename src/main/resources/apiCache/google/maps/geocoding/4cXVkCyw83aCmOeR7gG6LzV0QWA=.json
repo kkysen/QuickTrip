@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.8524545",
+    "lng": "-121.4016021"
+  },
+  "formatted_address": "Hollister, CA 95023, USA",
+  "country": "USA",
+  "place_id": "ChIJa5wY38n3kYARwDppwt50BAc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

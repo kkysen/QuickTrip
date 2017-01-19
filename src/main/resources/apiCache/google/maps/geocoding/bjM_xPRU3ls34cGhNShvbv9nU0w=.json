@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.2453741",
+    "lng": "-75.6496302"
+  },
+  "formatted_address": "Pottstown, PA 19464, USA",
+  "country": "USA",
+  "place_id": "ChIJ9ZUt0iCGxokRxZklwOmOrxA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

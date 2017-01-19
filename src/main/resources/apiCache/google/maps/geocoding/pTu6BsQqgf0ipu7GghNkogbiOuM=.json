@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.7967244",
+    "lng": "-81.52150929999999"
+  },
+  "formatted_address": "Massillon, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJsYKva4snN4gRpvy5hkclTEk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

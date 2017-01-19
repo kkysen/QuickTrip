@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.5629917",
+    "lng": "-122.3255254"
+  },
+  "formatted_address": "San Mateo, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJRVWp72Cej4ARpxvMLfT8jv0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

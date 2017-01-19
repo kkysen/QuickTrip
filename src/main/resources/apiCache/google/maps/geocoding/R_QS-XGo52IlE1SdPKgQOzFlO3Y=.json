@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.1103041",
+    "lng": "-88.03424000000001"
+  },
+  "formatted_address": "Palatine, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJVTfJvy9LDogRAHzIzKsjIYc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.8324211",
+    "lng": "-115.7631232"
+  },
+  "formatted_address": "Elko, NV 89801, USA",
+  "country": "USA",
+  "place_id": "ChIJDY8MGbUEpoARifYFxOmxVdg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

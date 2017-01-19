@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.3223221",
+    "lng": "-122.3126222"
+  },
+  "formatted_address": "Federal Way, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJ2zYN_RdYkFQRlcAOKBPY2dQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

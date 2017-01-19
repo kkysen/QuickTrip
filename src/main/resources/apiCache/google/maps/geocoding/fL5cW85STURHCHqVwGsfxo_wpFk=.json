@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.1072305",
+    "lng": "-118.0578456"
+  },
+  "formatted_address": "Temple City, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ5S-vG_3QwoAR3tuU4KHWU1Y",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

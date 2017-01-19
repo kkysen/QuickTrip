@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.8883487",
+    "lng": "-118.3089624"
+  },
+  "formatted_address": "Gardena, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJCd2bU4G1woARkcpitRo3GcY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

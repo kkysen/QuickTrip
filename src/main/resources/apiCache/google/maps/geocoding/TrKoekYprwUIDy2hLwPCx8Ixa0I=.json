@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.4894169",
+    "lng": "-120.6707255"
+  },
+  "formatted_address": "Atascadero, CA 93422, USA",
+  "country": "USA",
+  "place_id": "ChIJxbld14DC7IARSAd2yRG2iHU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

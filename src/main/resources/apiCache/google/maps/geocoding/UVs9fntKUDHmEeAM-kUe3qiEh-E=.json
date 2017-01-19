@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.3556539",
+    "lng": "-72.0995209"
+  },
+  "formatted_address": "New London, CT, USA",
+  "country": "USA",
+  "place_id": "ChIJvc0Stm4O5okRnZMrnOYDFtA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

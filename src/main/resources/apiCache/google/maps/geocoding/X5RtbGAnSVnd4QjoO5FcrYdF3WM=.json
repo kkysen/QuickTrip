@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.4668384",
+    "lng": "-122.3405305"
+  },
+  "formatted_address": "Burien, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJRRQg5FZDkFQRIdsGHiT6PPQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

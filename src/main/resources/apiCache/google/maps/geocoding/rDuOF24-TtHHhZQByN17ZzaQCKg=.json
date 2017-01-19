@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.6779591",
+    "lng": "-121.1760583"
+  },
+  "formatted_address": "Folsom, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJf3rZiRvhmoARKs7hMS5MTtQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

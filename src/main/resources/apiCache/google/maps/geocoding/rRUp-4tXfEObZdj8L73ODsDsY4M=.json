@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.0279762",
+    "lng": "-121.8846806"
+  },
+  "formatted_address": "Pittsburg, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJsfacOOVbhYARI38AIpLCewA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

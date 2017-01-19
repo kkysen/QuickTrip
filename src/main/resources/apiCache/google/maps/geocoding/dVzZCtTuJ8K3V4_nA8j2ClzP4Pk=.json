@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.6130942",
+    "lng": "-112.3246042"
+  },
+  "formatted_address": "El Mirage, AZ, USA",
+  "country": "USA",
+  "place_id": "ChIJ7zpvZIxDK4cRaVmJZhjRvzo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

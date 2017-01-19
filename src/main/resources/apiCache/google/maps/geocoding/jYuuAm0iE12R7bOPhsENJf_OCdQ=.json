@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.0197404",
+    "lng": "-82.7717684"
+  },
+  "formatted_address": "Dunedin, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJYSuhxQ3xwogR9RBIc5e9p88",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

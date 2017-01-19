@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.0833893",
+    "lng": "-88.6000478"
+  },
+  "formatted_address": "Paducah, KY, USA",
+  "country": "USA",
+  "place_id": "ChIJw4Uv0WAQeogRJbkMhVBMwh0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

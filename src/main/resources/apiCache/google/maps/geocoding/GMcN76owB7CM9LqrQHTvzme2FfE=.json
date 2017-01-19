@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.100903",
+    "lng": "-75.232664"
+  },
+  "formatted_address": "Utica, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJKXZqNVE32YkRhvztGCY2GhE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

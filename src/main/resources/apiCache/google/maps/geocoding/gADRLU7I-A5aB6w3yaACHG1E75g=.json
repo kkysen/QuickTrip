@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.5381535",
+    "lng": "-72.80704349999999"
+  },
+  "formatted_address": "Meriden, CT, USA",
+  "country": "USA",
+  "place_id": "ChIJt8q0JCHK54kRilUjZdXe-_g",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.1853785",
+    "lng": "-122.2928974"
+  },
+  "formatted_address": "Puyallup, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJw_8lsQX8kFQRC_EPaVkd1Fs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

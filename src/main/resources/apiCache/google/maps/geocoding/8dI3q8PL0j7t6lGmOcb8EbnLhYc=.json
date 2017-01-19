@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.5807452",
+    "lng": "-104.8771726"
+  },
+  "formatted_address": "Centennial, CO, USA",
+  "country": "USA",
+  "place_id": "ChIJxZcK8sSFbIcRp9fGQoEd05k",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

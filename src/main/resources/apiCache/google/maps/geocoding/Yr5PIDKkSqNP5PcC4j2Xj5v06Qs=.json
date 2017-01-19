@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.0638705",
+    "lng": "-108.5506486"
+  },
+  "formatted_address": "Grand Junction, CO, USA",
+  "country": "USA",
+  "place_id": "ChIJV3DnIuPWRocRVny_zlH0Y8w",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

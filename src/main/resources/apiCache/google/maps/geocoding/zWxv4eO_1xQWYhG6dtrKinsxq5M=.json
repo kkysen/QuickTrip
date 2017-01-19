@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.4739419",
+    "lng": "-81.5370671"
+  },
+  "formatted_address": "Shaker Heights, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJF1hmVaD9MIgRClRmlnPTsjk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.99450840000001",
+    "lng": "-83.0624078"
+  },
+  "formatted_address": "Upper Arlington, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJk2r4U_iNOIgRjxV526_YGDY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

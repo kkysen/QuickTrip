@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.2705484",
+    "lng": "-72.9469711"
+  },
+  "formatted_address": "West Haven, CT 06516, USA",
+  "country": "USA",
+  "place_id": "ChIJk8H2nn3Y54kRw1twk89VGZY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

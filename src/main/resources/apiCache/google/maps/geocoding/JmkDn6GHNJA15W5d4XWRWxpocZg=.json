@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.1397292",
+    "lng": "-118.0353449"
+  },
+  "formatted_address": "Arcadia, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJK8q408XbwoARiymu0ttQqEw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

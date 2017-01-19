@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.2505943",
+    "lng": "-83.1785361"
+  },
+  "formatted_address": "Lincoln Park, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJ9Y9B5ME2O4gRdPgqfdnURmE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

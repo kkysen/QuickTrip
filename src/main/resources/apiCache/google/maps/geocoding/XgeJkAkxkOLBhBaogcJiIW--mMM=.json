@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.2987573",
+    "lng": "-90.1848103"
+  },
+  "formatted_address": "Jackson, MS, USA",
+  "country": "USA",
+  "place_id": "ChIJIRt0kH8rKIYRoDjwQeTNEwc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

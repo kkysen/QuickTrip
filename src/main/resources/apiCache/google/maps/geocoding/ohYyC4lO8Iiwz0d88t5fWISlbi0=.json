@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.0189191",
+    "lng": "-87.80284019999999"
+  },
+  "formatted_address": "Niles, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJx-HqACa3D4gR2aBYCmYmeRE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

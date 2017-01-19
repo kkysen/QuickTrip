@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.1477849",
+    "lng": "-118.1445155"
+  },
+  "formatted_address": "Pasadena, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJUQszONzCwoARSo_RGhZBKwU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

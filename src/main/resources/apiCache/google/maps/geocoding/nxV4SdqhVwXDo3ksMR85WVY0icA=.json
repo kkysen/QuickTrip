@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.4792618",
+    "lng": "-71.1522765"
+  },
+  "formatted_address": "Woburn, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJp-rYSQZ144kRiYj5GAr41zI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

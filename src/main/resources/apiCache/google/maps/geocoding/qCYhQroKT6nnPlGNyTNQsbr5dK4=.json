@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.0526641",
+    "lng": "-78.87835849999999"
+  },
+  "formatted_address": "Fayetteville, NC, USA",
+  "country": "USA",
+  "place_id": "ChIJI0qSQk8Tq4kRmzt2EnWeq6M",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "31.5785074",
+    "lng": "-84.15574099999999"
+  },
+  "formatted_address": "Albany, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJp3btrUN58ogRSS2xVMRzTfU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

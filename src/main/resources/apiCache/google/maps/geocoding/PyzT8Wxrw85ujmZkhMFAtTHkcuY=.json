@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.1399814",
+    "lng": "-104.8202462"
+  },
+  "formatted_address": "Cheyenne, WY, USA",
+  "country": "USA",
+  "place_id": "ChIJk-9zLnY4b4cRKy2Xj0EwCrE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

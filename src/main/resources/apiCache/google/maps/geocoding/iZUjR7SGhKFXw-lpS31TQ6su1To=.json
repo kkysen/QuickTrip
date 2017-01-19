@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.6739881",
+    "lng": "-122.121512"
+  },
+  "formatted_address": "Redmond, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJI-4AIK0MkFQR8gTYxeqQA14",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.76095",
+    "lng": "-122.2055883"
+  },
+  "formatted_address": "Bothell, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJa_3lYloOkFQRsFCYU_FJJAc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

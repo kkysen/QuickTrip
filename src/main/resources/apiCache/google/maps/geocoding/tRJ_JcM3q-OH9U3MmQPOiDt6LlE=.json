@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.5242649",
+    "lng": "-72.07591049999999"
+  },
+  "formatted_address": "Norwich, CT, USA",
+  "country": "USA",
+  "place_id": "ChIJFYeSy0Jx5okRBePfbmn7VK0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

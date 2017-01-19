@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.9621457",
+    "lng": "-122.3455263"
+  },
+  "formatted_address": "San Pablo, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJcU50YSpnhYARea-g6bdYEAc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

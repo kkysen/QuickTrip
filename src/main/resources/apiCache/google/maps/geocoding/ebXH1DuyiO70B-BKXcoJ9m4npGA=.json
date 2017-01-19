@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "29.5844524",
+    "lng": "-81.20786989999999"
+  },
+  "formatted_address": "Palm Coast, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJo3fHkDaU5ogRklyWyFZW96Y",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

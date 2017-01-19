@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.5093109",
+    "lng": "-92.1193012"
+  },
+  "formatted_address": "Monroe, LA, USA",
+  "country": "USA",
+  "place_id": "ChIJC4SY5XZILoYRybS4yTnSzpg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

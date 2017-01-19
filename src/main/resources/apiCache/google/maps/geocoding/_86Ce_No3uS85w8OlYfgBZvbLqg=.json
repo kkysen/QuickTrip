@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.0352964",
+    "lng": "-82.3892596"
+  },
+  "formatted_address": "Temple Terrace, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJbXrkGlTGwogRYCMUYL0ikzI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

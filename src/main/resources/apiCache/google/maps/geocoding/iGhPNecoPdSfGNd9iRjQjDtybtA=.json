@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "45.3565074",
+    "lng": "-122.840098"
+  },
+  "formatted_address": "Sherwood, OR 97140, USA",
+  "country": "USA",
+  "place_id": "ChIJaapzohhAlVQRt9uCBtSVfpE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.3136644",
+    "lng": "-81.7245739"
+  },
+  "formatted_address": "North Royalton, OH 44133, USA",
+  "country": "USA",
+  "place_id": "ChIJw9z-SdDpMIgRkA2lEpkOGgc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

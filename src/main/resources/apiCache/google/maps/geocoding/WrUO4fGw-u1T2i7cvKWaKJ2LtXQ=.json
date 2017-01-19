@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.7700504",
+    "lng": "-118.1937395"
+  },
+  "formatted_address": "Long Beach, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJWdeZQOjKwoARqo8qxPo6AKE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

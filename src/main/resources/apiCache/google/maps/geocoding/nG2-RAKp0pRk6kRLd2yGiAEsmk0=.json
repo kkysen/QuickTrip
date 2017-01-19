@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.6688205",
+    "lng": "-122.0807964"
+  },
+  "formatted_address": "Hayward, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJfVkBtjGUj4ARwDlpwt50BAc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

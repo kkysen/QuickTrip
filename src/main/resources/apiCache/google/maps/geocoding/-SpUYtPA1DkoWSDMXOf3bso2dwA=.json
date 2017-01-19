@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.5280783",
+    "lng": "-108.7425843"
+  },
+  "formatted_address": "Gallup, NM, USA",
+  "country": "USA",
+  "place_id": "ChIJD1RlL43eJIcRTIA7ZQRp1V8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

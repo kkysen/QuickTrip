@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.8623217",
+    "lng": "-73.6337389"
+  },
+  "formatted_address": "Glen Cove, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJz_V_bxGFwokR_OE-qNkGLk0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

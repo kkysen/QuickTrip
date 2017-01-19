@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.1261743",
+    "lng": "-82.92906959999999"
+  },
+  "formatted_address": "Westerville, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJVyNMY2X1OIgRQT9dsFQwoUY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

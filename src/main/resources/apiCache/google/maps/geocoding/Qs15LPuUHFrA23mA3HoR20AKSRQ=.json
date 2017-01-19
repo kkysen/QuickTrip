@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.9830688",
+    "lng": "-118.096735"
+  },
+  "formatted_address": "Pico Rivera, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJIe29AovRwoARkA7EgmjDsFc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.0608445",
+    "lng": "-97.92977429999999"
+  },
+  "formatted_address": "Hutchinson, KS, USA",
+  "country": "USA",
+  "place_id": "ChIJJ8FxVLLJpIcRO-3WEKCGqms",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

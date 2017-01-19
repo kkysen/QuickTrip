@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.232417",
+    "lng": "-122.6366524"
+  },
+  "formatted_address": "Petaluma, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJTQx0woxKhIAR8mItZDW4_6s",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

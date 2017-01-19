@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.49932",
+    "lng": "-81.6943605"
+  },
+  "formatted_address": "Cleveland, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJLWto4y7vMIgRQhhi91XLBO0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.1723065",
+    "lng": "-80.1319893"
+  },
+  "formatted_address": "Oakland Park, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJbYHTyAMB2YgRac41fG79meM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

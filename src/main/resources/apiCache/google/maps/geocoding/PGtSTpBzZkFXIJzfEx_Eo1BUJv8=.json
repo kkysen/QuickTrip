@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.1536674",
+    "lng": "-81.3578859"
+  },
+  "formatted_address": "Kent, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJibNT-BclMYgRj8SEQpjpMso",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

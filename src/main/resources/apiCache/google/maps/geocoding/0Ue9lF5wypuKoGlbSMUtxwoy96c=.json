@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.4716001",
+    "lng": "-121.129656"
+  },
+  "formatted_address": "Patterson, CA 95363, USA",
+  "country": "USA",
+  "place_id": "ChIJtQfmi_OzkYARoOnR-6OeHhY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

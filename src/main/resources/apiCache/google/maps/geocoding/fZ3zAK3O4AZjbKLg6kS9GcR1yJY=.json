@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.4739884",
+    "lng": "-122.2609558"
+  },
+  "formatted_address": "Tukwila, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJxXA0BN9CkFQR1YzN8YD2Z-Q",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

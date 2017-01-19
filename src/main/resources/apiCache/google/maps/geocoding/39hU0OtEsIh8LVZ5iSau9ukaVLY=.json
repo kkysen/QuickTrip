@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "45.21011619999999",
+    "lng": "-123.1987163"
+  },
+  "formatted_address": "McMinnville, OR 97128, USA",
+  "country": "USA",
+  "place_id": "ChIJo3PJF7dOlVQRSM9F2xtwRMo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

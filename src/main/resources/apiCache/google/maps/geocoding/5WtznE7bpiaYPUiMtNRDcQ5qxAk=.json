@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.939926",
+    "lng": "-119.9771868"
+  },
+  "formatted_address": "South Lake Tahoe, CA 96150, USA",
+  "country": "USA",
+  "place_id": "ChIJ4U-l7omFmYARjpEj-0YvG90",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

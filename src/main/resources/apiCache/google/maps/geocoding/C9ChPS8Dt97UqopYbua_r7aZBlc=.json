@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.333355",
+    "lng": "-88.2667534"
+  },
+  "formatted_address": "McHenry, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJH987kktxD4gRbPKk7dwgTiE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

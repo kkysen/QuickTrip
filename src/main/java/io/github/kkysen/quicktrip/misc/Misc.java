@@ -4,8 +4,7 @@ import io.github.kkysen.quicktrip.apis.google.GoogleApiResponse;
 import io.github.kkysen.quicktrip.reflect.Reflect;
 
 import java.io.IOException;
-
-import com.google.gson.Gson;
+import java.util.Arrays;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
@@ -36,10 +35,8 @@ public class Misc {
     }
     
     public static void main(final String[] args) throws IOException {
-        final String json = "{\"status\":\"OK\",\"value\":\"hello\"}";
-        final Gson gson = new Gson();
-        final JsonTest test = gson.fromJson(json, JsonTest.class);
-        System.out.println(test.isOk());
+        final String price = "USD2377.17";
+        System.out.println(Arrays.toString(price.split("[^0-9]+", 2)));
     }
     
 }

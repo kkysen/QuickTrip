@@ -1,0 +1,89 @@
+{
+  "trips": {
+    "requestId": "OVLwnUFlTZoR582ha0Pq8V",
+    "tripOption": [
+      {
+        "saleTotal": "USD2725.14",
+        "id": "F55NXVze1O7VtANirs32G4001",
+        "slice": [
+          {
+            "duration": 497,
+            "segment": [
+              {
+                "duration": 65,
+                "flight": {
+                  "carrier": "B6",
+                  "number": "518"
+                },
+                "id": "G3f8+Zdm8ES-3UG+",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LZN852s8ozLE34lh",
+                    "arrivalTime": "2017-01-19T12:33-05:00",
+                    "departureTime": "2017-01-19T11:28-05:00",
+                    "origin": "JFK",
+                    "destination": "BOS",
+                    "originTerminal": "5",
+                    "destinationTerminal": "C",
+                    "duration": "65"
+                  }
+                ],
+                "connectionDuration": 117
+              },
+              {
+                "duration": 112,
+                "flight": {
+                  "carrier": "PD",
+                  "number": "944"
+                },
+                "id": "GefwdOCjoi4Nx-Mt",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LVFJek-akFqnK3PG",
+                    "arrivalTime": "2017-01-19T16:22-05:00",
+                    "departureTime": "2017-01-19T14:30-05:00",
+                    "origin": "BOS",
+                    "destination": "YTZ",
+                    "originTerminal": "E",
+                    "duration": "112"
+                  }
+                ],
+                "connectionDuration": 93
+              },
+              {
+                "duration": 110,
+                "flight": {
+                  "carrier": "PD",
+                  "number": "395"
+                },
+                "id": "GgJ+VBS9NH6ruPfp",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LS5bpPSScKc+XeNW",
+                    "arrivalTime": "2017-01-19T18:45-06:00",
+                    "departureTime": "2017-01-19T17:55-05:00",
+                    "origin": "YTZ",
+                    "destination": "MDW",
+                    "duration": "110"
+                  }
+                ],
+                "connectionDuration": 0
+              }
+            ]
+          }
+        ],
+        "pricing": [
+          {
+            "baseFareTotal": "USD800.95",
+            "saleFareTotal": "USD800.95",
+            "saleTaxTotal": "USD107.43",
+            "saleTotal": "USD908.38"
+          }
+        ]
+      }
+    ]
+  }
+}

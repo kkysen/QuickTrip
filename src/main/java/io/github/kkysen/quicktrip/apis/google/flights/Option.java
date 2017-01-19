@@ -38,7 +38,7 @@ public class Option implements Flight {
     
     @Override
     public int getPrice() {
-        return (int) Double.parseDouble(saleTotal.substring(2));
+        return (int) Double.parseDouble(saleTotal.split("[^0-9]+", 2)[1]);
     }
     
     private List<Segment> getSegments() {

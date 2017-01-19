@@ -801,7 +801,7 @@ public abstract class CachedApiRequest<R> implements Request<R> {
      */
     protected abstract void cache(Path path, R response) throws IOException;
     
-    private void setNonCachedResponse() {
+    private void loadResponse() {
         try {
             if (isCached) {
                 System.out.print("cached");
@@ -857,7 +857,7 @@ public abstract class CachedApiRequest<R> implements Request<R> {
     public R getResponse() throws ApiRequestException {
         if (response == null) {
             setUrl();
-            final Thread setNonCachedResponse = new Thread(this::setNonCachedResponse);
+            final Thread setNonCachedResponse = new Thread(this::loadResponse);
             try {
                 setNonCachedResponse.run();
             } catch (final RuntimeIOException e) {
@@ -874,8 +874,14 @@ public abstract class CachedApiRequest<R> implements Request<R> {
         try {
             return getResponse();
         } catch (final ApiRequestException e) {
+            System.out.println(this);
             throw new RuntimeIOException(e);
         }
+    }
+    
+    @Override
+    public String toString() {
+        return Reflect.toString(this);
     }
     
 }

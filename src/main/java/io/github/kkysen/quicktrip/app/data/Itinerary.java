@@ -97,6 +97,7 @@ public class Itinerary implements Closeable {
     public void addFlight(final Geolocation from, final Geolocation to) throws ApiRequestException {
         possibleFlights.add(GoogleFlightsRequest.near(from, to, getDate(), numPeople));
         addAirport();
+        flushCurrentDestinations();
         if (daysElapsed != 0) {
             daysElapsed++;
         }
@@ -198,14 +199,21 @@ public class Itinerary implements Closeable {
     public List<Flight> findOptimalFlights() {
         // need to get this list of optimal flights somehow
         //final List<OtherFlight> flights = new ArrayList<>(); // FIXME
-        return possibleFlights.stream()
-                .map(list -> list.get(0))
-                .collect(Collectors.toList());
+        //        return possibleFlights.stream()
+        //                .map(list -> list.get(0))
+        //                .collect(Collectors.toList());
+        // FIXME still
+        return new Flights(possibleFlights).getFlights();
     }
     
     private void setMissingAirports() {
         final Iterator<Destination> missingAirportIter = missingAirports.iterator();
         for (final Flight flight : flights) {
+            if (flight == null) {
+                missingAirportIter.next();
+                missingAirportIter.next();
+                continue;
+            }
             missingAirportIter.next().setLocation(getAirportLocation(flight.getStartAirport()));
             missingAirportIter.next().setLocation(getAirportLocation(flight.getEndAirport()));
         }
@@ -221,16 +229,23 @@ public class Itinerary implements Closeable {
     }
     
     public List<DrivingDirections> findDirections() {
+        System.out.println("\ndestinations");
+        destinations.forEach(dests -> dests.forEach(dest -> System.out.println(dest.getAddress())));
+        System.out.println("\n");
         return destinations.parallelStream()
                 .map(interFlightDestinations -> {
+                    System.out.println(interFlightDestinations);
                     final List<String> waypoints = interFlightDestinations.stream()
                             .map(Destination::getAddress)
                             .collect(Collectors.toList());
                     final String localDestination = waypoints.remove(waypoints.size() - 1);
                     final String localOrigin = waypoints.remove(0);
+                    System.out.println(waypoints);
                     return new GoogleDrivingDirectionsRequest(localOrigin, localDestination,
                             waypoints);
                 })
+                .peek(GoogleDrivingDirectionsRequest::getResponseSafely)
+                .peek(System.out::println)
                 .map(GoogleDrivingDirectionsRequest::getResponseSafely)
                 .collect(Collectors.toList());
     }
@@ -238,6 +253,9 @@ public class Itinerary implements Closeable {
     private int flightCost() {
         int cost = 0;
         for (final Flight flight : flights) {
+            if (flight == null) {
+                continue;
+            }
             cost += flight.getPrice();
         }
         return cost;
@@ -246,6 +264,7 @@ public class Itinerary implements Closeable {
     private int hotelCost() {
         int cost = 0;
         for (final Destination dest : hotelDestinations) {
+            System.out.println(dest);
             cost += dest.getHotel().getPrice();
         }
         return cost;

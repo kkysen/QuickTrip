@@ -15,6 +15,7 @@ public class Hotels implements AnnealingState {
     private static final Random random = new Random();
     
     // these never change, so not cloned
+    private final List<Destination> destinations;
     private final int size;
     private final List<List<Hotel>> pools;
     private final List<Integer> numDays;
@@ -29,16 +30,16 @@ public class Hotels implements AnnealingState {
     
     public Hotels(final List<Destination> possibleDests, final long budget) {
         // check for nulls in nullableDests
-        final List<Destination> dests = new ArrayList<>(possibleDests.size());
+        destinations = new ArrayList<>(possibleDests.size());
         for (final Destination dest : possibleDests) {
             if (dest == null || dest.getNumDays() == 0) {
                 continue;
             }
-            dests.add(dest);
+            destinations.add(dest);
         }
         
         this.budget = budget;
-        size = dests.size();
+        size = destinations.size();
         pools = new ArrayList<>(size);
         numDays = new ArrayList<>(size);
         avgRatings = new ArrayList<>(size);
@@ -50,11 +51,12 @@ public class Hotels implements AnnealingState {
             pools.add(null);
             avgRatings.add(null);
         }
-        IntStream.range(0, dests.size())
+        IntStream.range(0, destinations.size())
                 .parallel()
                 .forEach(i -> {
-                    final Destination dest = dests.get(i);
-                    dest.addHotelsHotelsScrapeRequest();
+                    final Destination dest = destinations.get(i);
+                    //dest.addHotelsHotelsScrapeRequest();
+                    dest.addHotelHotelsSecretRequest();
                     final List<Hotel> possibleHotels = dest.getPossibleHotels();
                     pools.set(i, possibleHotels);
                     double totalRating = 0;
@@ -70,13 +72,13 @@ public class Hotels implements AnnealingState {
         for (int i = 0; i < size; i++) {
             final List<Hotel> pool = pools.get(i);
             if (pool.size() == 0) {
-                System.err.println("no hotels found for " + dests.get(i));
+                System.err.println("no hotels found for " + destinations.get(i));
                 pool.add(ScrapedHotelsHotel.DUMMY);
             }
         }
         
         int totalDays = 0;
-        for (final Destination dest : dests) {
+        for (final Destination dest : destinations) {
             final int singleNumDays = dest.getNumDays();
             numDays.add(singleNumDays);
             totalDays += singleNumDays;
@@ -89,6 +91,7 @@ public class Hotels implements AnnealingState {
     }
     
     private Hotels(final Hotels other) {
+        destinations = other.destinations;
         size = other.size;
         pools = other.pools;
         numDays = other.numDays;
@@ -160,6 +163,10 @@ public class Hotels implements AnnealingState {
     }
     
     public List<Hotel> getHotels() {
+        // bind hotels to appropriate destinations
+        for (int i = 0; i < size; i++) {
+            destinations.get(i).setHotel(hotels.get(i));
+        }
         return new ArrayList<>(hotels);
     }
     

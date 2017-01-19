@@ -46,7 +46,7 @@ public class HotelsHotelsSecretRequest extends AbstractJsonRequest<List<Hotel>> 
     }
     
     public HotelsHotelsSecretRequest(final Destination dest) {
-        this(dest, 100);
+        this(dest, 10);
     }
     
     @Override

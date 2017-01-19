@@ -1,0 +1,89 @@
+{
+  "trips": {
+    "requestId": "Xtok64J22bBD10C4W0Pq8x",
+    "tripOption": [
+      {
+        "saleTotal": "USD2088.12",
+        "id": "SEYAlqqzjDPSgE0tRBohEA001",
+        "slice": [
+          {
+            "duration": 466,
+            "segment": [
+              {
+                "duration": 94,
+                "flight": {
+                  "carrier": "PD",
+                  "number": "388"
+                },
+                "id": "GdbNbG4sOff9xGba",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LEbGWXR2yCflNCjF",
+                    "arrivalTime": "2017-01-23T14:59-05:00",
+                    "departureTime": "2017-01-23T12:25-06:00",
+                    "origin": "MDW",
+                    "destination": "YTZ",
+                    "duration": "94"
+                  }
+                ],
+                "connectionDuration": 121
+              },
+              {
+                "duration": 93,
+                "flight": {
+                  "carrier": "PD",
+                  "number": "947"
+                },
+                "id": "GAXN8FlAJ2sEt2g1",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "Lw5yxmEhnUkC8bKr",
+                    "arrivalTime": "2017-01-23T18:33-05:00",
+                    "departureTime": "2017-01-23T17:00-05:00",
+                    "origin": "YTZ",
+                    "destination": "BOS",
+                    "destinationTerminal": "E",
+                    "duration": "93"
+                  }
+                ],
+                "connectionDuration": 77
+              },
+              {
+                "duration": 81,
+                "flight": {
+                  "carrier": "B6",
+                  "number": "1431"
+                },
+                "id": "G91rU3G3P8Xejy4a",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LABZzyP+DRrU4XyO",
+                    "arrivalTime": "2017-01-23T21:11-05:00",
+                    "departureTime": "2017-01-23T19:50-05:00",
+                    "origin": "BOS",
+                    "destination": "LGA",
+                    "originTerminal": "C",
+                    "destinationTerminal": "B",
+                    "duration": "81"
+                  }
+                ],
+                "connectionDuration": 0
+              }
+            ]
+          }
+        ],
+        "pricing": [
+          {
+            "baseFareTotal": "USD607.14",
+            "saleFareTotal": "USD607.14",
+            "saleTaxTotal": "USD88.90",
+            "saleTotal": "USD696.04"
+          }
+        ]
+      }
+    ]
+  }
+}

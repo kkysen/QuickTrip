@@ -3,6 +3,7 @@ package io.github.kkysen.quicktrip.apis.google.flights;
 import static io.github.kkysen.quicktrip.data.airports.Airports.AIRPORTS;
 
 import io.github.kkysen.quicktrip.apis.ApiRequestException;
+import io.github.kkysen.quicktrip.apis.QueryField;
 import io.github.kkysen.quicktrip.apis.google.GoogleApiPostRequest;
 import io.github.kkysen.quicktrip.apis.google.geocoding.Geolocation;
 import io.github.kkysen.quicktrip.app.data.Flight;
@@ -30,11 +31,11 @@ public class GoogleFlightsRequest extends GoogleApiPostRequest<GoogleFlights> {
     
     private static final String BASE_URL = "https://www.googleapis.com/qpxExpress/v1/trips/search";
     
-    private final Airport origin;
-    private final Airport destination;
-    private final LocalDate date;
-    private final int numPeople;
-    private final int numSolutions;
+    private final @QueryField Airport origin;
+    private final @QueryField Airport destination;
+    private final @QueryField LocalDate date;
+    private final @QueryField int numPeople;
+    private final @QueryField int numSolutions;
     
     public GoogleFlightsRequest(final Airport origin, final Airport destination,
             final LocalDate date, final int numPeople) {

@@ -5,6 +5,7 @@ import io.github.kkysen.quicktrip.apis.CachedApiRequest;
 import io.github.kkysen.quicktrip.apis.google.geocoding.Geolocation;
 import io.github.kkysen.quicktrip.apis.hotels.scrape.HotelsHotelsScrapeRequest;
 import io.github.kkysen.quicktrip.apis.hotels.secret.HotelsHotelsSecretRequest;
+import io.github.kkysen.quicktrip.reflect.Reflect;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
@@ -82,9 +83,7 @@ public class Destination {
     
     @Override
     public String toString() {
-        return "Destination [address=" + getAddress() + ", numDays=" + numDays + ", startDate="
-                + startDate + ", endDate=" + endDate + ", numPeople=" + numPeople + ", numRooms="
-                + numRooms + ", possibleHotels=" + possibleHotels + ", hotel=" + hotel + "]";
+        return Reflect.toString(this);
     }
     
 }

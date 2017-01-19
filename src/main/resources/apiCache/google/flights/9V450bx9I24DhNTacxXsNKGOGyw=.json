@@ -1,0 +1,48 @@
+{
+  "trips": {
+    "requestId": "F5xw3IdTtarfDYTQh0Pq8V",
+    "tripOption": [
+      {
+        "saleTotal": "USD660.60",
+        "id": "OC1lmvP4TpTV9gABp8UThF001",
+        "slice": [
+          {
+            "duration": 154,
+            "segment": [
+              {
+                "duration": 154,
+                "flight": {
+                  "carrier": "UA",
+                  "number": "1803"
+                },
+                "id": "GZ4WYDz9KX5n+lSy",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LruhwWa5R5zGDiH3",
+                    "arrivalTime": "2017-01-19T10:04-06:00",
+                    "departureTime": "2017-01-19T08:30-05:00",
+                    "origin": "EWR",
+                    "destination": "ORD",
+                    "originTerminal": "C",
+                    "destinationTerminal": "1",
+                    "duration": "154"
+                  }
+                ],
+                "connectionDuration": 0
+              }
+            ]
+          }
+        ],
+        "pricing": [
+          {
+            "baseFareTotal": "USD191.63",
+            "saleFareTotal": "USD191.63",
+            "saleTaxTotal": "USD28.57",
+            "saleTotal": "USD220.20"
+          }
+        ]
+      }
+    ]
+  }
+}

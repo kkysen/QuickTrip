@@ -1,12 +1,11 @@
 package io.github.kkysen.quicktrip.app.data;
 
-import io.github.kkysen.quicktrip.apis.google.geocoding.Geolocation;
 import io.github.kkysen.quicktrip.optimization.simulatedAnnealing.AnnealingState;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import org.apache.commons.lang3.tuple.Pair;
+import lombok.Getter;
 
 
 /**
@@ -16,10 +15,19 @@ import org.apache.commons.lang3.tuple.Pair;
  */
 public class Flights implements AnnealingState {
     
-    private List<Flight> flights;
+    private final List<List<Flight>> possibleFlights;
     
-    public Flights(final List<Pair<Geolocation, Geolocation>> pairedFlightDestinations) {
+    private @Getter
+    final List<Flight> flights;
+    
+    public Flights(final List<List<Flight>> possibleFlights) {
+        this.possibleFlights = possibleFlights;
         
+        // temp for now w/o annealing
+        flights = new ArrayList<>();
+        for (final List<Flight> flightPool : possibleFlights) {
+            flights.add(flightPool.size() == 0 ? null : flightPool.get(0));
+        }
     }
     
     @Override

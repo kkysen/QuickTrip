@@ -72,6 +72,9 @@ public class DrivingDirections extends GoogleApiResponse {
     @Override
     public void postDeserialize() {
         super.postDeserialize();
+        if (isImpossible()) {
+            return;
+        }
         setFields();
         postDeserializeWaypointsAndLegs();
     }

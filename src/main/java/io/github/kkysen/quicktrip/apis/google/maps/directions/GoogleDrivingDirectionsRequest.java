@@ -6,6 +6,7 @@ import io.github.kkysen.quicktrip.apis.google.maps.directions.response.DrivingDi
 
 import java.nio.file.Path;
 import java.util.List;
+import java.util.Objects;
 
 /**
  * 
@@ -19,9 +20,12 @@ public class GoogleDrivingDirectionsRequest extends GoogleMapsRequest<DrivingDir
     private final @QueryField String mode = "driving";
     private final @QueryField String waypoints;
     private final @QueryField String units = "metric";
-        
+    
     public GoogleDrivingDirectionsRequest(final String origin, final String destination,
             final List<String> waypoints, final boolean optimize) {
+        Objects.requireNonNull(origin);
+        Objects.requireNonNull(destination);
+        waypoints.forEach(Objects::requireNonNull);
         this.origin = origin;
         this.destination = destination;
         if (waypoints.size() == 0) {

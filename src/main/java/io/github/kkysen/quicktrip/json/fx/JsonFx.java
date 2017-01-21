@@ -20,7 +20,7 @@ public class JsonFx {
     private final List<Node> nodes = new ArrayList<Node>() {
         
         private static final long serialVersionUID = -1900139564238734712L;
-
+        
         @Override
         public Node remove(final int index) {
             final Node node = super.remove(index);
@@ -30,7 +30,7 @@ public class JsonFx {
         }
         
     };
-        
+    
     public JsonFx() {}
     
     public void add(final String id, final Node node) {

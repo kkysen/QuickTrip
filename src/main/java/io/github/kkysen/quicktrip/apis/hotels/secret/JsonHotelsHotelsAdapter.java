@@ -149,7 +149,8 @@ public class JsonHotelsHotelsAdapter extends TypeReaderAdapter<List<JsonHotelsHo
         in.beginArray();
         in.beginObject();
         final String distanceStr = nextStringNamed("distance");
-        final double distance = Double.parseDouble(distanceStr.substring(0, distanceStr.indexOf(' ')));
+        final double distance = Double
+                .parseDouble(distanceStr.substring(0, distanceStr.indexOf(' ')));
         readUntilEnd();
         in.endObject();
         in.skipValue();

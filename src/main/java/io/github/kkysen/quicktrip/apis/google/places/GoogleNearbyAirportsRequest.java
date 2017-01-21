@@ -11,7 +11,8 @@ import lombok.RequiredArgsConstructor;
  * @author Khyber Sen
  */
 @RequiredArgsConstructor
-public class GoogleNearbyAirportsRequest extends GoogleNearbyRequest<NearbyAirports, NearbyAirport> {
+public class GoogleNearbyAirportsRequest
+        extends GoogleNearbyRequest<NearbyAirports, NearbyAirport> {
     
     @Override
     protected String getPlaceType() {

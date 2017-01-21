@@ -1,1 +1,48 @@
-{}
+{
+  "trips": {
+    "requestId": "2Zf1f43pG4aYBHgNZ0PrFf",
+    "tripOption": [
+      {
+        "saleTotal": "USD351.60",
+        "id": "3vosFH7HFD6O9DlvUhdoj6001",
+        "slice": [
+          {
+            "duration": 131,
+            "segment": [
+              {
+                "duration": 131,
+                "flight": {
+                  "carrier": "B6",
+                  "number": "906"
+                },
+                "id": "G-1EPnGy7t-7JHWA",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "L7Ij6tDMc3klav6x",
+                    "arrivalTime": "2017-01-23T13:44-05:00",
+                    "departureTime": "2017-01-23T10:33-06:00",
+                    "origin": "ORD",
+                    "destination": "JFK",
+                    "originTerminal": "3",
+                    "destinationTerminal": "5",
+                    "duration": "131"
+                  }
+                ],
+                "connectionDuration": 0
+              }
+            ]
+          }
+        ],
+        "pricing": [
+          {
+            "baseFareTotal": "USD95.81",
+            "saleFareTotal": "USD95.81",
+            "saleTaxTotal": "USD21.39",
+            "saleTotal": "USD117.20"
+          }
+        ]
+      }
+    ]
+  }
+}

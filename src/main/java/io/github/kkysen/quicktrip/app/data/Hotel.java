@@ -1,6 +1,5 @@
 package io.github.kkysen.quicktrip.app.data;
 
-
 /**
  * 
  * 

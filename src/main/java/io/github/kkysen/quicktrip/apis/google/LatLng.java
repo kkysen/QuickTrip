@@ -28,7 +28,8 @@ public class LatLng implements Clusterable {
     public static final LatLng LONDON = new LatLng("51.5074", "-0.1278");
     public static final LatLng LA = new LatLng("34.0522", "-118.2437");
     
-    public static final DistanceMeasure HAVERSINE_DISTANCE = (final double[] a, final double[] b) -> {
+    public static final DistanceMeasure HAVERSINE_DISTANCE = (final double[] a,
+            final double[] b) -> {
         return haversineDistance(a, b, Unit.KILOMETERS);
     };
     
@@ -123,7 +124,8 @@ public class LatLng implements Clusterable {
      * 
      * @return the distance between the two coordinates
      */
-    private static double haversineDistance(final double[] pt1, final double[] pt2, final Unit unit) {
+    private static double haversineDistance(final double[] pt1, final double[] pt2,
+            final Unit unit) {
         /*
          * The second part of the conversion equation depends on the unit of measure,
          * so I'm calculating the first part separately.
@@ -156,7 +158,6 @@ public class LatLng implements Clusterable {
         //System.out.println(pt1.toString() + " -> " + pt2.toString() + " = " + d);
         return d;
     }
-    
     
     public static double distanceBetween(final LatLng pt1, final LatLng pt2,
             final Unit unit) {
@@ -206,7 +207,7 @@ public class LatLng implements Clusterable {
         System.out.println(distanceBetween(one, two, Unit.KILOMETERS));
         System.out.println(NYC.distanceTo(LONDON, Unit.MILES)); // should be 3470
     }
-
+    
     @Override
     public double[] getPoint() {
         return coords;

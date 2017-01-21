@@ -66,7 +66,8 @@ public class JsonFxAdapter extends TypeAdapter<JsonFx> {
                 final Class<?> klass = Class.forName(imports.get(typeAsStr));
                 if (Node.class.isAssignableFrom(klass)) {
                     @SuppressWarnings("unchecked")
-                    final TypeToken<? extends Node> typeToken = (TypeToken<? extends Node>) TypeToken.get(klass);
+                    final TypeToken<? extends Node> typeToken = (TypeToken<? extends Node>) TypeToken
+                            .get(klass);
                     final TypeAdapter<? extends Node> nodeAdapter = GSON.getAdapter(typeToken);
                     final Node node = nodeAdapter.read(in);
                     jsonFx.add(id, node);

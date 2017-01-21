@@ -7,7 +7,8 @@ import io.github.kkysen.quicktrip.apis.QueryField;
  * 
  * @author Khyber Sen
  */
-public abstract class GoogleNearbyRequest<R extends NearbySearch<E>, E extends NearbyResult> extends GooglePlaceSearchRequest<R, E> {
+public abstract class GoogleNearbyRequest<R extends NearbySearch<E>, E extends NearbyResult>
+        extends GooglePlaceSearchRequest<R, E> {
     
     @Override
     protected String getSearchRequestType() {

@@ -1,11 +1,10 @@
 package io.github.kkysen.quicktrip.apis.skyscanner.hotels.details.response;
 
-import io.github.kkysen.quicktrip.json.Json;
 import io.github.kkysen.quicktrip.apis.skyscanner.hotels.prices.response.Amenity;
 import io.github.kkysen.quicktrip.apis.skyscanner.hotels.prices.response.HotelEntry;
 import io.github.kkysen.quicktrip.apis.skyscanner.hotels.prices.response.HotelPrice;
-import io.github.kkysen.quicktrip.apis.skyscanner.hotels.prices.response.HotelUrl;
 import io.github.kkysen.quicktrip.apis.skyscanner.hotels.prices.response.Place;
+import io.github.kkysen.quicktrip.json.Json;
 
 import java.util.List;
 

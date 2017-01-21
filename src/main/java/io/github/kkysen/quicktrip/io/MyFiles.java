@@ -27,8 +27,7 @@ import org.apache.commons.io.FileUtils;
 public class MyFiles {
     
     private static final Charset CHARSET = Constants.CHARSET;
-    private static final String ILLEGAL_FILE_CHARS = 
-            "\\\\" + "/" + "\\?" + "%" + "\\*"
+    private static final String ILLEGAL_FILE_CHARS = "\\\\" + "/" + "\\?" + "%" + "\\*"
             + ":" + "\\|" + "\"" + "<" + ">";
     
     public static String read(final Path path) throws IOException {

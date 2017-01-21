@@ -1,6 +1,7 @@
 package io.github.kkysen.quicktrip.optimization.simulatedAnnealing;
 
 import java.util.Random;
+import java.util.concurrent.ThreadLocalRandom;
 
 import lombok.Getter;
 
@@ -11,7 +12,8 @@ import lombok.Getter;
  */
 public class SimulatedAnnealer<T extends AnnealingState> {
     
-    private static Random random = new Random();
+    private static final Random random = ThreadLocalRandom.current();
+    
     private final AnnealingState state;
     private double energy;
     public AnnealingState minState;

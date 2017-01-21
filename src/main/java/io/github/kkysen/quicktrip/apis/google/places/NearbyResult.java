@@ -1,6 +1,5 @@
 package io.github.kkysen.quicktrip.apis.google.places;
 
-
 /**
  * 
  * 

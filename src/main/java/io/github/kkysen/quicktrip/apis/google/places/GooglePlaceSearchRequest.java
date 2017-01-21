@@ -14,7 +14,8 @@ import java.util.List;
  * @param <R> type of PlaceSearch
  * @param <E> type of PlaceResult
  */
-public abstract class GooglePlaceSearchRequest<R extends PlaceSearch<E>, E extends PlaceResult> extends GooglePlacesRequest<R> {
+public abstract class GooglePlaceSearchRequest<R extends PlaceSearch<E>, E extends PlaceResult>
+        extends GooglePlacesRequest<R> {
     
     protected abstract String getSearchRequestType();
     

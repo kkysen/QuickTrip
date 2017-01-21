@@ -7,7 +7,6 @@ import java.util.List;
 
 import lombok.Getter;
 
-
 /**
  * 
  * 
@@ -17,8 +16,7 @@ public class Flights implements AnnealingState {
     
     private final List<List<Flight>> possibleFlights;
     
-    private @Getter
-    final List<Flight> flights;
+    private final @Getter List<Flight> flights;
     
     public Flights(final List<List<Flight>> possibleFlights) {
         this.possibleFlights = possibleFlights;

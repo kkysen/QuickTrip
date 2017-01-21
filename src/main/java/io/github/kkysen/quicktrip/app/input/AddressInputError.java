@@ -23,7 +23,8 @@ public class AddressInputError extends InputError {
         return new AddressInputError("Nonexistent Addres", quote(address) + " does not exist.");
     }
     
-    public static Geolocation validate(final String address) throws AddressInputError, EmptyInputError {
+    public static Geolocation validate(final String address)
+            throws AddressInputError, EmptyInputError {
         if (address.isEmpty()) {
             throw none();
         }

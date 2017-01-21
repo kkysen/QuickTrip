@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.7744464",
+    "lng": "-73.8720654"
+  },
+  "formatted_address": "Central Terminal Dr, East Elmhurst, NY 11371, USA",
+  "country": "USA",
+  "place_id": "ChIJT4FSTIlfwokRKlrzju8fALE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

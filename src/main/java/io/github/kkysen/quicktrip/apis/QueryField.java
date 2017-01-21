@@ -13,7 +13,8 @@ import java.lang.annotation.Target;
  * signifies that a field is a @QueryField
  * will be found through reflection and added to the
  * {@link QueryParams} in {@link CachedApiRequest}
- * if {@link #include()} = false, then it will not be automatically added and must be done
+ * if {@link #include()} = false, then it will not be automatically added and
+ * must be done
  * in {@link CachedApiRequest#modifyQuery(QueryParams)}
  * 
  * @see CachedApiRequest#modifyQuery(QueryParams)

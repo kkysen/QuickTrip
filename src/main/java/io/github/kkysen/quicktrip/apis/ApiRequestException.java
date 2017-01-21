@@ -19,7 +19,8 @@ public class ApiRequestException extends IOException {
     private final @Getter String url;
     
     @SuppressWarnings("unchecked")
-    public <R extends CachedApiRequest<?>> ApiRequestException(final R request, final IOException cause) {
+    public <R extends CachedApiRequest<?>> ApiRequestException(final R request,
+            final IOException cause) {
         super(request.getUrl(), cause);
         this.cause = cause;
         this.request = request;

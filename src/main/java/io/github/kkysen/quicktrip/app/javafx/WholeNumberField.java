@@ -1,8 +1,5 @@
 package io.github.kkysen.quicktrip.app.javafx;
 
-import lombok.Getter;
-
-import javafx.beans.property.ObjectProperty;
 import javafx.scene.control.TextField;
 
 /**
@@ -15,25 +12,10 @@ public class WholeNumberField extends TextField {
     private long max;
     private String maxString;
     
-    @Getter
-    private ObjectProperty<Long> pMax;
-    
     @SuppressWarnings("unchecked")
     public WholeNumberField(final long max) {
         this.max = max;
         maxString = String.valueOf(max);
-        
-        //For fxgraph support
-        /*try {
-        	pMax = JavaBeanObjectPropertyBuilder.create()
-        			.bean(pMax)
-        			.name("max")
-        			.getter(WholeNumberField.class.getMethod("getPMax"))
-        			.setter(WholeNumberField.class.getMethod("setPMax", Long.class))
-        			.build();
-        } catch (NoSuchMethodException e) {
-        	e.printStackTrace();
-        }*/
     }
     
     public WholeNumberField() {
@@ -71,24 +53,9 @@ public class WholeNumberField extends TextField {
         }
     }
     
-    public long getValue() {
-        return Long.parseLong(getText());
-    }
-    
-    public void setPMax(final Long Max) {
-        System.out.println("IT WORKS");
-    }
-    
     public void setMax(final long max) {
         this.max = max;
         maxString = String.valueOf(max);
-    }
-    
-    @Override
-    public void clear() {
-        
-        super.clear();
-        final WholeNumberField field = this;
     }
     
 }

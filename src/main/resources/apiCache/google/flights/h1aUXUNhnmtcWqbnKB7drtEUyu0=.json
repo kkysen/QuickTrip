@@ -1,0 +1,89 @@
+{
+  "trips": {
+    "requestId": "wZHtazfyik3bahNGa0PqyX",
+    "tripOption": [
+      {
+        "saleTotal": "USD3178.26",
+        "id": "NKzNzOLBlk4NRLDWzA7fzO001",
+        "slice": [
+          {
+            "duration": 948,
+            "segment": [
+              {
+                "duration": 95,
+                "flight": {
+                  "carrier": "PD",
+                  "number": "386"
+                },
+                "id": "GqYsbUHACsPV8Q3w",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LA+ZmN+L06dFpZN6",
+                    "arrivalTime": "2017-01-23T12:55-05:00",
+                    "departureTime": "2017-01-23T10:20-06:00",
+                    "origin": "MDW",
+                    "destination": "YTZ",
+                    "duration": "95"
+                  }
+                ],
+                "connectionDuration": 125
+              },
+              {
+                "duration": 90,
+                "flight": {
+                  "carrier": "PD",
+                  "number": "137"
+                },
+                "id": "G6J9uhDZyuI49DZV",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LQqmjAK4COMa8lqF",
+                    "arrivalTime": "2017-01-23T16:30-05:00",
+                    "departureTime": "2017-01-23T15:00-05:00",
+                    "origin": "YTZ",
+                    "destination": "EWR",
+                    "destinationTerminal": "B",
+                    "duration": "90"
+                  }
+                ],
+                "connectionDuration": 239
+              },
+              {
+                "duration": 399,
+                "flight": {
+                  "carrier": "B6",
+                  "number": "167"
+                },
+                "id": "G5tEooxtWuCclrNa",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "Lgz6AfKdpnbe4zhj",
+                    "arrivalTime": "2017-01-24T00:08-08:00",
+                    "departureTime": "2017-01-23T20:29-05:00",
+                    "origin": "JFK",
+                    "destination": "OAK",
+                    "originTerminal": "5",
+                    "destinationTerminal": "1",
+                    "duration": "399"
+                  }
+                ],
+                "connectionDuration": 0
+              }
+            ]
+          }
+        ],
+        "pricing": [
+          {
+            "baseFareTotal": "USD945.17",
+            "saleFareTotal": "USD945.17",
+            "saleTaxTotal": "USD114.25",
+            "saleTotal": "USD1059.42"
+          }
+        ]
+      }
+    ]
+  }
+}

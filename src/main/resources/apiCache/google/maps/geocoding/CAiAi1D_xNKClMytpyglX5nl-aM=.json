@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.451002",
+    "lng": "-122.3022976"
+  },
+  "formatted_address": "2400 S 170th St, SeaTac, WA 98158, USA",
+  "country": "USA",
+  "place_id": "ChIJo7N8dVNDkFQR_3_ISV2Ai98",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

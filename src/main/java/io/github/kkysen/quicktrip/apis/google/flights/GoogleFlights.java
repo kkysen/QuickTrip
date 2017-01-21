@@ -108,8 +108,19 @@ public class GoogleFlights {
         return sortedOptions;
     }
     
+    private List<Option> shortestFlights() {
+        final List<Option> flights = trips.getTripOption();
+        flights.sort((flight1, flight2) -> {
+            return flight1.getDuration().compareTo(flight2.getDuration());
+        });
+        return flights;
+    }
+    
     public List<? extends Flight> getFlights() {
-        return sortOptions();
+        if (trips == null || trips.getTripOption() == null) {
+            return new ArrayList<>();
+        }
+        return shortestFlights();
     }
     
     public Option getOption(final int index) {

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.7282054",
+    "lng": "-76.58356209999999"
+  },
+  "formatted_address": "Suffolk, VA, USA",
+  "country": "USA",
+  "place_id": "ChIJTx1a_QwPsIkRzVASAEShGXc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

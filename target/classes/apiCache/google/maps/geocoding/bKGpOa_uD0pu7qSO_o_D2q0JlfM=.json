@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.6528323",
+    "lng": "-97.47809540000002"
+  },
+  "formatted_address": "Edmond, OK, USA",
+  "country": "USA",
+  "place_id": "ChIJE8VDFbMfsocRzITRHTYQFEY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

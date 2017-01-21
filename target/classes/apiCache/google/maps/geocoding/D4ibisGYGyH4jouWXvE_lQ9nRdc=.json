@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.1402759",
+    "lng": "-100.7601454"
+  },
+  "formatted_address": "North Platte, NE 69101, USA",
+  "country": "USA",
+  "place_id": "ChIJC2k5k_kidocRy3ruabPvG-E",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

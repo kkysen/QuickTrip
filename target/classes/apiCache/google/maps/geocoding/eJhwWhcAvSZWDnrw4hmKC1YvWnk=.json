@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.7205771",
+    "lng": "-116.2155619"
+  },
+  "formatted_address": "Indio, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJhdffQzX02oARMVAjp83nbBY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

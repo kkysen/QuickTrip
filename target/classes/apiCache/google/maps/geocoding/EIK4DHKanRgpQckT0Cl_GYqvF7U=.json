@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.6587802",
+    "lng": "-117.4260466"
+  },
+  "formatted_address": "Spokane, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJ5ee7MFwYnlQRsdmEC9bJ_N0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

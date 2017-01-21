@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "46.2112458",
+    "lng": "-119.1372338"
+  },
+  "formatted_address": "Kennewick, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJo03151R4mFQR4IqMrq19fXg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

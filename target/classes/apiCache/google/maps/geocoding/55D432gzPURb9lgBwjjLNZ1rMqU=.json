@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "24.5550593",
+    "lng": "-81.7799871"
+  },
+  "formatted_address": "Key West, FL 33040, USA",
+  "country": "USA",
+  "place_id": "ChIJdyOVrTSx0YgRXjtGdy_pzj8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

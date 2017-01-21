@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.2217429",
+    "lng": "-110.926479"
+  },
+  "formatted_address": "Tucson, AZ, USA",
+  "country": "USA",
+  "place_id": "ChIJK-0sC0Fl1oYRFccWTTgtw3M",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

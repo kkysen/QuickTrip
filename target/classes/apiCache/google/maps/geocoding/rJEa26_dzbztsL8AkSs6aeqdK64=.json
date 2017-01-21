@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.8975471",
+    "lng": "-84.03716589999999"
+  },
+  "formatted_address": "Adrian, MI 49221, USA",
+  "country": "USA",
+  "place_id": "ChIJV7uZk5fxPIgRbNXszTPURtE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

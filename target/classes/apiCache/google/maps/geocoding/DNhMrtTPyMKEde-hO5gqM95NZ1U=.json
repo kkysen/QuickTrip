@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.3606736",
+    "lng": "-75.5993692"
+  },
+  "formatted_address": "Salisbury, MD, USA",
+  "country": "USA",
+  "place_id": "ChIJYZ6SVroDuYkRkztqW7GDKsw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

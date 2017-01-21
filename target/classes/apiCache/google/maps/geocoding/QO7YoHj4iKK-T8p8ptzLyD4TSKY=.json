@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.6576022",
+    "lng": "-73.58318349999999"
+  },
+  "formatted_address": "Freeport, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJ1esxKIZ7wokRFTkePKJbt4U",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "30.0474332",
+    "lng": "-99.1403189"
+  },
+  "formatted_address": "Kerrville, TX 78028, USA",
+  "country": "USA",
+  "place_id": "ChIJ_9sz02FxWYYRJ0zU7_Z6g7c",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

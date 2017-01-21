@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "27.0997775",
+    "lng": "-82.4542632"
+  },
+  "formatted_address": "Venice, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJ-y0LMEhOw4gRYrPWNiKIrFI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

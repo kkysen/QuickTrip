@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.7473114",
+    "lng": "-95.98081789999999"
+  },
+  "formatted_address": "Bartlesville, OK, USA",
+  "country": "USA",
+  "place_id": "ChIJ8b3HNk8St4cRNqEo1eAC8N4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

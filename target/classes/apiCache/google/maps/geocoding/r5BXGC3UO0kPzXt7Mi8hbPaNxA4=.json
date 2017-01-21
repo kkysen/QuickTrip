@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.8233946",
+    "lng": "-80.13865469999999"
+  },
+  "formatted_address": "Palm Beach Gardens, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJpRdHOMzT3ogRYcIlqTI6jGY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

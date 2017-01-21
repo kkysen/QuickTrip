@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.410884",
+    "lng": "-94.70496"
+  },
+  "formatted_address": "Pittsburg, KS 66762, USA",
+  "country": "USA",
+  "place_id": "ChIJ_4_24MDnx4cRcHOCTf_ZWVA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

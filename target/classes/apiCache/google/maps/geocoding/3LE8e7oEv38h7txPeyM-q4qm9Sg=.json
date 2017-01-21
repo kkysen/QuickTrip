@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.8509333",
+    "lng": "-73.9701381"
+  },
+  "formatted_address": "Fort Lee, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJUelm2Of2wokRRCV4_VtJdYU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

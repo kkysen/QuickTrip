@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.4417355",
+    "lng": "-79.88199419999999"
+  },
+  "formatted_address": "Wilkinsburg, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJS8EPwTLsNIgRLN2fNC6flpE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.8137116",
+    "lng": "-71.37005449999999"
+  },
+  "formatted_address": "East Providence, RI, USA",
+  "country": "USA",
+  "place_id": "ChIJNYT8S5ha5IkRgDDkgjwJHgc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

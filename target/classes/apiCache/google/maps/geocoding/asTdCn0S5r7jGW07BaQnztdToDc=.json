@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.3702996",
+    "lng": "-87.90201859999999"
+  },
+  "formatted_address": "Gurnee, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJ7RG4sgGOD4gRdobRnW_LV90",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.978067",
+    "lng": "-87.90356229999999"
+  },
+  "formatted_address": "Main Garage, Chicago, IL 60666, USA",
+  "country": "USA",
+  "place_id": "ChIJW0sDcii0D4gRfBZCSz4y1HI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

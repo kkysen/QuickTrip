@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.9161326",
+    "lng": "-122.310765"
+  },
+  "formatted_address": "El Cerrito, CA 94530, USA",
+  "country": "USA",
+  "place_id": "ChIJw7t-MwR5hYARQgh_35VN4Ps",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

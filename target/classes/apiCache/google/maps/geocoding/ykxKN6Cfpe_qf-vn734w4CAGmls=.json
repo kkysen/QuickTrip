@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.3476438",
+    "lng": "-97.38668369999999"
+  },
+  "formatted_address": "Cleburne, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJg2m_3ABHToYRbMy5Epxhz48",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

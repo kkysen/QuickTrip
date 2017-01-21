@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.7521235",
+    "lng": "-121.2880059"
+  },
+  "formatted_address": "Roseville, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJeRg8YmUfm4ARmTlJulJKryI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

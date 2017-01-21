@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.3860517",
+    "lng": "-122.0838511"
+  },
+  "formatted_address": "Mountain View, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJiQHsW0m3j4ARm69rRkrUF3w",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

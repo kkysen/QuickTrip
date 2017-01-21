@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.9614039",
+    "lng": "-88.0125865"
+  },
+  "formatted_address": "Greenfield, WI, USA",
+  "country": "USA",
+  "place_id": "ChIJSUOiN9MRBYgRHAEdkK8STOo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

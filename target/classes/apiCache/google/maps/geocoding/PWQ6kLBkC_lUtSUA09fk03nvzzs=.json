@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.4500845",
+    "lng": "-73.2453824"
+  },
+  "formatted_address": "Pittsfield, MA 01201, USA",
+  "country": "USA",
+  "place_id": "ChIJP8yZz7tE54kRIy-RhO00iNc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

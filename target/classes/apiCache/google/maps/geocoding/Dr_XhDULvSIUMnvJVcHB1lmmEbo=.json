@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.2000368",
+    "lng": "-117.2425355"
+  },
+  "formatted_address": "Vista, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ53MR5wML3IARjfdL4YkTXHg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

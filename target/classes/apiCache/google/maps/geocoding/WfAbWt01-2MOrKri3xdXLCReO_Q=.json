@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.3722121",
+    "lng": "-104.8560902"
+  },
+  "formatted_address": "Castle Rock, CO, USA",
+  "country": "USA",
+  "place_id": "ChIJR7Q6zwWXbIcRmjlcGxR63GE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

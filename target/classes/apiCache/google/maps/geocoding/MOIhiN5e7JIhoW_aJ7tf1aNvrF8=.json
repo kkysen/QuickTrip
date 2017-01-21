@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.3643098",
+    "lng": "-88.703656"
+  },
+  "formatted_address": "Meridian, MS, USA",
+  "country": "USA",
+  "place_id": "ChIJKQfZnsB9hIgRtvyZIMtGIiQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

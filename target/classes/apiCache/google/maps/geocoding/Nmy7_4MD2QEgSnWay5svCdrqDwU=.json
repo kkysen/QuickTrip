@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "31.1171194",
+    "lng": "-97.72779589999999"
+  },
+  "formatted_address": "Killeen, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJXVOYyI9LRYYR2j9j0feBS3k",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

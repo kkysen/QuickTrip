@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.492786",
+    "lng": "-92.34257749999999"
+  },
+  "formatted_address": "Waterloo, IA, USA",
+  "country": "USA",
+  "place_id": "ChIJ3xjvH7NN5YcRGOs8-41AWeg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

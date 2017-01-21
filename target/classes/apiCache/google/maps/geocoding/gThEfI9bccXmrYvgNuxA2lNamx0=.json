@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.5407246",
+    "lng": "-77.43604809999999"
+  },
+  "formatted_address": "Richmond, VA, USA",
+  "country": "USA",
+  "place_id": "ChIJ7cmZVwkRsYkRxTxC4m0-2L8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

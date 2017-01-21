@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.139678",
+    "lng": "-120.3601496"
+  },
+  "formatted_address": "Coalinga, CA 93210, USA",
+  "country": "USA",
+  "place_id": "ChIJSU6D1v9Bk4AR0H0-JxSL69A",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

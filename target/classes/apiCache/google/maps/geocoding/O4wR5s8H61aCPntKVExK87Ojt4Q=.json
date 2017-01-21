@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.2010241",
+    "lng": "-77.20027449999999"
+  },
+  "formatted_address": "Carlisle, PA 17013, USA",
+  "country": "USA",
+  "place_id": "ChIJN2SGcNvhyIkRzswuXM27OPQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.4582983",
+    "lng": "-93.161604"
+  },
+  "formatted_address": "Northfield, MN 55057, USA",
+  "country": "USA",
+  "place_id": "ChIJoWxWbsNT9ocRrzj5dZ15zHo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

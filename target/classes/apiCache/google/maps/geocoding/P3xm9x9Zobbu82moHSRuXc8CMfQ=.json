@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.274646",
+    "lng": "-119.2290316"
+  },
+  "formatted_address": "Ventura, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJTTmXUBWt6YAR6Op6Nnz17yQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

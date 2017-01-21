@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.0293059",
+    "lng": "-78.47667810000002"
+  },
+  "formatted_address": "Charlottesville, VA, USA",
+  "country": "USA",
+  "place_id": "ChIJj6RQ6i2Gs4kR_HSLw5bwhpA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

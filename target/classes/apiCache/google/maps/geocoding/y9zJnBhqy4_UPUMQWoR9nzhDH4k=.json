@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.3395079",
+    "lng": "-97.48670279999999"
+  },
+  "formatted_address": "Moore, OK, USA",
+  "country": "USA",
+  "place_id": "ChIJCVfQNtoUsocRpn_2fBLP5Jg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.9606643",
+    "lng": "-75.6054882"
+  },
+  "formatted_address": "West Chester, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJdSLYkhTxxokRsuW2E5to_H0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

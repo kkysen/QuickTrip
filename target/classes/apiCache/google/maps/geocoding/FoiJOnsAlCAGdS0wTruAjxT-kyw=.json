@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.8584328",
+    "lng": "-74.16375529999999"
+  },
+  "formatted_address": "Clifton, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJ6drDvuL-wokRUzJ_IjNYGWQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

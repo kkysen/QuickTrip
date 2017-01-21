@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.2206958",
+    "lng": "-98.2022633"
+  },
+  "formatted_address": "Stephenville, TX 76401, USA",
+  "country": "USA",
+  "place_id": "ChIJ1y1qbCu3UYYRW6ReuDCiVZ0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

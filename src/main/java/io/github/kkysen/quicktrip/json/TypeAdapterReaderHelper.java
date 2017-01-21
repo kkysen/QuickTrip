@@ -5,7 +5,6 @@ import java.io.IOException;
 import com.google.gson.TypeAdapter;
 import com.google.gson.stream.JsonReader;
 
-
 /**
  * 
  * 

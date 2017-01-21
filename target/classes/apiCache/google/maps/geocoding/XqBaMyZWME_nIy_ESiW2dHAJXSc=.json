@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.7001009",
+    "lng": "-71.4161671"
+  },
+  "formatted_address": "Warwick, RI, USA",
+  "country": "USA",
+  "place_id": "ChIJmRalC7FN5IkRY3a3rwOXTDk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

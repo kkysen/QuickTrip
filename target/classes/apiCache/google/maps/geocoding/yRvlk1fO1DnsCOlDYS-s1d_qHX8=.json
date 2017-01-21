@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.9804999",
+    "lng": "-111.8874392"
+  },
+  "formatted_address": "Farmington, UT, USA",
+  "country": "USA",
+  "place_id": "ChIJX7pa0-H-UocRrop5wZ9_Dfg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

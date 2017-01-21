@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.0805651",
+    "lng": "-118.072846"
+  },
+  "formatted_address": "Rosemead, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJsXdsdnTQwoARfIhDlkgdNaA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

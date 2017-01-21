@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.99474410000001",
+    "lng": "-85.2256635"
+  },
+  "formatted_address": "East Ridge, TN, USA",
+  "country": "USA",
+  "place_id": "ChIJqZsK2hpnYIgRkFSWNb5rLLo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

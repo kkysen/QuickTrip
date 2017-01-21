@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.0966764",
+    "lng": "-117.7197785"
+  },
+  "formatted_address": "Claremont, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJX_ane5Q6w4ARTTe8KondetU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

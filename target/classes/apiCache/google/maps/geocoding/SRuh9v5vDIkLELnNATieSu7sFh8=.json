@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.640628",
+    "lng": "-81.87230839999999"
+  },
+  "formatted_address": "Fort Myers, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJKVSoiQFC24gRiiW6ClMIKcY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

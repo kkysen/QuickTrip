@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.1644798",
+    "lng": "-84.45427979999999"
+  },
+  "formatted_address": "Norwood, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJVfa8NpKyQYgRkJtyMnTL0_w",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

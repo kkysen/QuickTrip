@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.6994873",
+    "lng": "-73.4529124"
+  },
+  "formatted_address": "Plattsburgh, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJ136l6Kg4ykwRFXRTxaHosLU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

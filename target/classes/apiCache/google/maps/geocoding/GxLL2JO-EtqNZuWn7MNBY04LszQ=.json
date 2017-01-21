@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.810823",
+    "lng": "-81.87785819999999"
+  },
+  "formatted_address": "Leesburg, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJwdIQPXKK54gRrVT823UKB1o",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

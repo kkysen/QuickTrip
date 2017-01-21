@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.706981",
+    "lng": "-97.0855948"
+  },
+  "formatted_address": "Ponca City, OK, USA",
+  "country": "USA",
+  "place_id": "ChIJhQKm0hL1sIcRCKU-LFfag0U",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

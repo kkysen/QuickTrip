@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.5623209",
+    "lng": "-72.6506488"
+  },
+  "formatted_address": "Middletown, CT, USA",
+  "country": "USA",
+  "place_id": "ChIJbxT3vWVK5okRZrhYOU95HGw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

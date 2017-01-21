@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.0149856",
+    "lng": "-105.2705456"
+  },
+  "formatted_address": "Boulder, CO, USA",
+  "country": "USA",
+  "place_id": "ChIJ06-NJ06Na4cRWIAboHw7Ocg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

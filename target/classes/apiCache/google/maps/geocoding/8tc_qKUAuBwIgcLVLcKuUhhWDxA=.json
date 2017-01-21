@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.7319094",
+    "lng": "-93.21772000000001"
+  },
+  "formatted_address": "Apple Valley, MN, USA",
+  "country": "USA",
+  "place_id": "ChIJb6j7nCEx9ocRv8QJN4rvMKg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

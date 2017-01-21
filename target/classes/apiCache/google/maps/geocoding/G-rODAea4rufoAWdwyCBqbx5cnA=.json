@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.9987007",
+    "lng": "-96.1141664"
+  },
+  "formatted_address": "Sapulpa, OK, USA",
+  "country": "USA",
+  "place_id": "ChIJa7iv8y28tocRMGz44KIxGwc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

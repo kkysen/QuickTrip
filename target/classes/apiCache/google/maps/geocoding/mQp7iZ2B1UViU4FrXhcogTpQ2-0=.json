@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "46.8769487",
+    "lng": "-96.89990569999999"
+  },
+  "formatted_address": "West Fargo, ND, USA",
+  "country": "USA",
+  "place_id": "ChIJceiXd7s0z1IR2tvrH1PQO7g",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

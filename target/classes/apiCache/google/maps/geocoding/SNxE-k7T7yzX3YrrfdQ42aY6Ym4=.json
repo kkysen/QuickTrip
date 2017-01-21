@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.6827885",
+    "lng": "-89.0187222"
+  },
+  "formatted_address": "Janesville, WI, USA",
+  "country": "USA",
+  "place_id": "ChIJ2zkiTZIXBogRwL7NH3a0-ws",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

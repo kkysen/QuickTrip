@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.5650067",
+    "lng": "-122.6269768"
+  },
+  "formatted_address": "Bremerton, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJW-MSUnk3kFQRUgkqUB1lOLI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

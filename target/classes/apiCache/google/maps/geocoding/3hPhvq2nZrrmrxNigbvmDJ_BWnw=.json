@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "30.6743643",
+    "lng": "-96.3699632"
+  },
+  "formatted_address": "Bryan, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJmVMC17yBRoYRcUziFqi05ZU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

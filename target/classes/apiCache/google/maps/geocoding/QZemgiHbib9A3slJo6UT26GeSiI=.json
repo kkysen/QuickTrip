@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.2946008",
+    "lng": "-76.2510461"
+  },
+  "formatted_address": "Elizabeth City, NC 27909, USA",
+  "country": "USA",
+  "place_id": "ChIJxXvwCadFpYkRg-g8XrDts6g",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

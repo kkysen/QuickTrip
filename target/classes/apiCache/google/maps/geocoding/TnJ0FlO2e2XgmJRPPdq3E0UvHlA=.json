@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.6103009",
+    "lng": "-117.7253305"
+  },
+  "formatted_address": "Laguna Woods, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJU3THRMfo3IARF9_nAQgDng0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

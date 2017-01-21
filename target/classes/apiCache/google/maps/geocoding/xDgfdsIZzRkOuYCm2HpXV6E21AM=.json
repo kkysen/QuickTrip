@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "25.9860762",
+    "lng": "-80.30356019999999"
+  },
+  "formatted_address": "Miramar, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJ9-FQv5im2YgR-rzjIef5qTs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

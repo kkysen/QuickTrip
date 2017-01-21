@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.8052674",
+    "lng": "-97.0035982"
+  },
+  "formatted_address": "Victoria, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJO6wtLttmQoYRfSZjb1YN4u4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

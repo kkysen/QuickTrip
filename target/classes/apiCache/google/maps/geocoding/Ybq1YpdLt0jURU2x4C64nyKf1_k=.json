@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.114053",
+    "lng": "-94.6274636"
+  },
+  "formatted_address": "Kansas City, KS, USA",
+  "country": "USA",
+  "place_id": "ChIJFTXPJ-SMwIcRBR7DcHt3d9w",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

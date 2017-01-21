@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.0633443",
+    "lng": "-117.6508876"
+  },
+  "formatted_address": "Ontario, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJe2Ld6ts0w4ARkDFY-VrjAwc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.3917638",
+    "lng": "-71.0328284"
+  },
+  "formatted_address": "Chelsea, MA 02150, USA",
+  "country": "USA",
+  "place_id": "ChIJBxHiZrJx44kRFbmi-xWbI3Y",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

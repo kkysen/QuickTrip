@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.8366528",
+    "lng": "-105.0372046"
+  },
+  "formatted_address": "Westminster, CO, USA",
+  "country": "USA",
+  "place_id": "ChIJn39Zoh6Ia4cRF0R0P3BXz6g",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

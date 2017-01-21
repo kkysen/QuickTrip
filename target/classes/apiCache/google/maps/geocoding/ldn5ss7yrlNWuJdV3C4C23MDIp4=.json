@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.9401088",
+    "lng": "-118.1331593"
+  },
+  "formatted_address": "Downey, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJkSIIHkzMwoARCp14FianQJE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

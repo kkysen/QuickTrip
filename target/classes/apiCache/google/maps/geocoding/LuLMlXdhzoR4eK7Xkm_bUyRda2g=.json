@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.0307812",
+    "lng": "-93.63191309999999"
+  },
+  "formatted_address": "Ames, IA, USA",
+  "country": "USA",
+  "place_id": "ChIJa6A0RmJw7ocRAFLHPAhWMSc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

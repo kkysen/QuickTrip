@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "45.1223711",
+    "lng": "-95.048659"
+  },
+  "formatted_address": "Willmar, MN, USA",
+  "country": "USA",
+  "place_id": "ChIJqzvzMdJetVIRkC3KPR-OgJI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.0836269",
+    "lng": "-80.60810889999999"
+  },
+  "formatted_address": "Melbourne, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJTZlxRywO3ogRqNIMqVSyzYs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

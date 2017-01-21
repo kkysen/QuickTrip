@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.6098566",
+    "lng": "-85.48078249999999"
+  },
+  "formatted_address": "Auburn, AL, USA",
+  "country": "USA",
+  "place_id": "ChIJg_ibsy_xjIgRWJPTNZKRJcs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

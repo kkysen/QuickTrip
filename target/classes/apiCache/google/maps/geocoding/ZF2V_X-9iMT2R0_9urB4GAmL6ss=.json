@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.121497",
+    "lng": "-75.3399048"
+  },
+  "formatted_address": "Norristown, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJrxVapoq9xokRNsyawnuPmSw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

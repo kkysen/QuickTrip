@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.6777372",
+    "lng": "-121.6555013"
+  },
+  "formatted_address": "Salinas, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJL3JhTpb4jYARIYHtuhG7EaU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

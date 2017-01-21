@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.8352932",
+    "lng": "-117.9145036"
+  },
+  "formatted_address": "Anaheim, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJZ-hVgPnW3IARYLErmquJqwE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

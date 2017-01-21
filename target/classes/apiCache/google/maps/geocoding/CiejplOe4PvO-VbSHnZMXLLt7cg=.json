@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.6149217",
+    "lng": "-121.822098"
+  },
+  "formatted_address": "Seaside, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJJwX_Zb7kjYARgDmC4N90BAc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

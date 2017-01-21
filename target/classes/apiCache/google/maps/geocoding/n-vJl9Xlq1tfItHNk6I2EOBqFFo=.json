@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.8893895",
+    "lng": "-111.880771"
+  },
+  "formatted_address": "Bountiful, UT 84010, USA",
+  "country": "USA",
+  "place_id": "ChIJXyOxh7BXUocREznyHEP48QQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

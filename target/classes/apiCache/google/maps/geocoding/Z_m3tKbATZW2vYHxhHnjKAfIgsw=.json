@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.1650972",
+    "lng": "-84.7999382"
+  },
+  "formatted_address": "Cartersville, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJb0RvQg5P9YgRTqNXjGpW55A",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

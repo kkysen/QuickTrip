@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.37168810000001",
+    "lng": "-88.0900815"
+  },
+  "formatted_address": "Round Lake Beach, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJ6_pJkKuED4gRKA8Pc43yXQs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

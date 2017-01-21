@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.9989499",
+    "lng": "-84.62661109999999"
+  },
+  "formatted_address": "Florence, KY, USA",
+  "country": "USA",
+  "place_id": "ChIJAw8jsE_GQYgRJg2PUV_t8Ew",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

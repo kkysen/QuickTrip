@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.7369792",
+    "lng": "-84.48386540000001"
+  },
+  "formatted_address": "East Lansing, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJ86vl6nXoIogRJaZ8EfezGTs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

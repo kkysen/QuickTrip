@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.0736204",
+    "lng": "-118.4003563"
+  },
+  "formatted_address": "Beverly Hills, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJq0fR1gS8woAR0R4I_XnDx9Y",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.7284117",
+    "lng": "-73.69178509999999"
+  },
+  "formatted_address": "Troy, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJc4cQTKcP3okRPHKk9fl-ETM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

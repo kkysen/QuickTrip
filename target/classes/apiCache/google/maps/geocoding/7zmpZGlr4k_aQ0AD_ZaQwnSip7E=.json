@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.7922392",
+    "lng": "-118.3150722"
+  },
+  "formatted_address": "Lomita, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ11yAWGVK3YARkdngmEUwcS8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

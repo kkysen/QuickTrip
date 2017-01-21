@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.6572562",
+    "lng": "-87.68004859999999"
+  },
+  "formatted_address": "Blue Island, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJBV9fqV8jDogRtHz2BDvoOf8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

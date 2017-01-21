@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.1637984",
+    "lng": "-119.7674034"
+  },
+  "formatted_address": "Carson City, NV, USA",
+  "country": "USA",
+  "place_id": "ChIJcbTe-KEKmYARKDjivYJsnPc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

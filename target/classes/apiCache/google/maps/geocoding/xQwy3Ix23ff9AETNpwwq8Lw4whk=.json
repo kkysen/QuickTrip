@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.6101497",
+    "lng": "-122.2015159"
+  },
+  "formatted_address": "Bellevue, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJQWCmo89rkFQRZQfQ6oJUz7o",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

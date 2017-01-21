@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.3709299",
+    "lng": "-71.1828321"
+  },
+  "formatted_address": "Watertown, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJfdAx9hx444kRJW7GUCLxRV8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

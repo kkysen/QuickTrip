@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.8536269",
+    "lng": "-118.1339563"
+  },
+  "formatted_address": "Lakewood, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJHYGo5F8y3YARxXjJKWCoW8c",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

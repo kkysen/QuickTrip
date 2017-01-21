@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.2503979",
+    "lng": "-101.4787355"
+  },
+  "formatted_address": "Big Spring, TX 79720, USA",
+  "country": "USA",
+  "place_id": "ChIJQ8uNaH0i-YYRi9JXibPPXfw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

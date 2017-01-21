@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.2148412",
+    "lng": "-97.13306829999999"
+  },
+  "formatted_address": "Denton, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJ0bGIwKBMTIYRG_sUSMt0RHI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

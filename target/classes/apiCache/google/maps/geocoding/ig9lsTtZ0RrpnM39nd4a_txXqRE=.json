@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.1224386",
+    "lng": "-80.13731740000001"
+  },
+  "formatted_address": "Fort Lauderdale, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJ9cr6ICcB2YgRvo6_QHW-AnY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

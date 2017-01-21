@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.1064895",
+    "lng": "-84.0335197"
+  },
+  "formatted_address": "Sugar Hill, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJDx6RIpOQ9YgRhw_-NN3XhnE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

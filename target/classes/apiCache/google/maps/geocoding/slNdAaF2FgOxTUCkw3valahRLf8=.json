@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.0298687",
+    "lng": "-76.34522179999999"
+  },
+  "formatted_address": "Hampton, VA, USA",
+  "country": "USA",
+  "place_id": "ChIJ7ZVLmwGFuokRXXOEtSJCVkw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

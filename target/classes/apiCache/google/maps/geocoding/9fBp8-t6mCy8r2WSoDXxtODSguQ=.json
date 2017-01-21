@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.732535",
+    "lng": "-84.5555347"
+  },
+  "formatted_address": "Lansing, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJN4wxfxzAIogRnp0CiSO2eEM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

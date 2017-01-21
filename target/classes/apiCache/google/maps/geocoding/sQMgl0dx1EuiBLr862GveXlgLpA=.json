@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.2711311",
+    "lng": "-89.09399519999999"
+  },
+  "formatted_address": "Rockford, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJ2wAD_c25CIgRgGePgpfYygo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

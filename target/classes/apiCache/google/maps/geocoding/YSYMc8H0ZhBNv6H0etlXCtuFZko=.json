@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.1735404",
+    "lng": "-80.6570304"
+  },
+  "formatted_address": "Mint Hill, NC, USA",
+  "country": "USA",
+  "place_id": "ChIJ9SWaH-wiVIgRKVAeLH2n9X0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

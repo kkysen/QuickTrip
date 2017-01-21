@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.0017643",
+    "lng": "-73.66568339999999"
+  },
+  "formatted_address": "Port Chester, NY 10573, USA",
+  "country": "USA",
+  "place_id": "ChIJMy_3YkKXwokRfDStiO8v75A",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

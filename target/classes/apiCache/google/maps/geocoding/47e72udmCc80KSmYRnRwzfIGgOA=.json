@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.2306979",
+    "lng": "-73.064036"
+  },
+  "formatted_address": "Milford, CT, USA",
+  "country": "USA",
+  "place_id": "ChIJ2zH4pmB06IkRg0DXeJkC-UA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

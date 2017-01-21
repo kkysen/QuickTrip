@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "46.73238749999999",
+    "lng": "-117.0001651"
+  },
+  "formatted_address": "Moscow, ID, USA",
+  "country": "USA",
+  "place_id": "ChIJ0WHAIi0hoFQRbK3q5g0V_T4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

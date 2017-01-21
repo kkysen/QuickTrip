@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.4487876",
+    "lng": "-81.7831674"
+  },
+  "formatted_address": "Statesboro, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJN05nd6xA-ogRh8DQnYdB9os",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

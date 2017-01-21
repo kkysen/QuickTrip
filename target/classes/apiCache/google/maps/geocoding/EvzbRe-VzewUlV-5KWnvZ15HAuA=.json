@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.8806341",
+    "lng": "-84.5729961"
+  },
+  "formatted_address": "Nicholasville, KY 40356, USA",
+  "country": "USA",
+  "place_id": "ChIJH5Stg75fQogRr7w0-0I2ttY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.5644798",
+    "lng": "-87.5125412"
+  },
+  "formatted_address": "Munster, IN, USA",
+  "country": "USA",
+  "place_id": "ChIJu6jTn1ngEYgRjuRWYFpiXiE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

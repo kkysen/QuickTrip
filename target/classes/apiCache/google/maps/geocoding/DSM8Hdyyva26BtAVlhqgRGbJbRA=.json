@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "29.5571825",
+    "lng": "-95.80856229999999"
+  },
+  "formatted_address": "Rosenberg, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJOzk7IZMdQYYRlYhrKM5ZHNY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

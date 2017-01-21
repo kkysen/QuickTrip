@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.6781085",
+    "lng": "-117.0991967"
+  },
+  "formatted_address": "National City, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJbREDyAlS2YAR7MAgtFanVIk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

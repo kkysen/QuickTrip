@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.900101",
+    "lng": "-71.0897674"
+  },
+  "formatted_address": "Taunton, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJm16FWFaL5IkRS4Pa4LcYvMk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

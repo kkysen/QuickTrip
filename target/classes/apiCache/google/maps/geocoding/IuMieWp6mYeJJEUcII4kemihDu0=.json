@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.038668",
+    "lng": "-78.8642033"
+  },
+  "formatted_address": "North Tonawanda, NY 14120, USA",
+  "country": "USA",
+  "place_id": "ChIJ7aKfHUZu04kRVWVP2SQIyRg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

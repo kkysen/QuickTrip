@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.9133602",
+    "lng": "-85.7053085"
+  },
+  "formatted_address": "Wyoming, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJc_txMAqxGYgRB4dKJ6KtXF0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

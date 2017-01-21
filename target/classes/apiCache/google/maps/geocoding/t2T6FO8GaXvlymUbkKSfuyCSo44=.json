@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.7003713",
+    "lng": "-73.92097010000001"
+  },
+  "formatted_address": "Poughkeepsie, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJO7vgK2Q-3YkRSfMg--tdqF4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

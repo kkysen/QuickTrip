@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.1404477",
+    "lng": "-121.6169108"
+  },
+  "formatted_address": "Yuba City, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJN7FwxXGrhIARAiXwBR1wP00",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

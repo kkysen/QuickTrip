@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.8277446",
+    "lng": "-92.94382179999999"
+  },
+  "formatted_address": "Cottage Grove, MN, USA",
+  "country": "USA",
+  "place_id": "ChIJv9oMvQHQ94cREkPoM3T8-wo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

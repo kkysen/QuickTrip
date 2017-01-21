@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.5870558",
+    "lng": "-84.5424299"
+  },
+  "formatted_address": "Union City, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJze9t_33j9IgRfc-QDIY_Ba4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

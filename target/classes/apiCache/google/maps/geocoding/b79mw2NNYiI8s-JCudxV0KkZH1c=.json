@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.5621704",
+    "lng": "-111.929658"
+  },
+  "formatted_address": "South Jordan, UT, USA",
+  "country": "USA",
+  "place_id": "ChIJk8mrjYmFUocRVbPJ3o8AZvU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

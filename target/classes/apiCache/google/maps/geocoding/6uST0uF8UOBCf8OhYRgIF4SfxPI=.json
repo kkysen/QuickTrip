@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.8125913",
+    "lng": "-70.87727509999999"
+  },
+  "formatted_address": "Newburyport, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJ26iurAnh4okRkFTEh3h5CFU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

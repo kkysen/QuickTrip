@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.5758707",
+    "lng": "-87.1761455"
+  },
+  "formatted_address": "Portage, IN, USA",
+  "country": "USA",
+  "place_id": "ChIJsbk5Mgm-EYgRQuooRgnIOEs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

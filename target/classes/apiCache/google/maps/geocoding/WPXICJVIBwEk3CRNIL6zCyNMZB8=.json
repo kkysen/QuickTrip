@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.6858853",
+    "lng": "-117.1830891"
+  },
+  "formatted_address": "Coronado, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJf9GTj2JN2YARLPuQziFPsTg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

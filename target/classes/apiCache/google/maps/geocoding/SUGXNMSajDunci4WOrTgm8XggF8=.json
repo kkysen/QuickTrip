@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "45.1977428",
+    "lng": "-93.38717579999999"
+  },
+  "formatted_address": "Anoka, MN, USA",
+  "country": "USA",
+  "place_id": "ChIJUYZ7YbwXs1IR5vO6i66MjGs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

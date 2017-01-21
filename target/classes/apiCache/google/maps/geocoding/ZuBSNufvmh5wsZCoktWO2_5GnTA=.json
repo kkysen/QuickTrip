@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.866632",
+    "lng": "-106.313081"
+  },
+  "formatted_address": "Casper, WY, USA",
+  "country": "USA",
+  "place_id": "ChIJY3peyGWTYIcRUz40Fzn8zmk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

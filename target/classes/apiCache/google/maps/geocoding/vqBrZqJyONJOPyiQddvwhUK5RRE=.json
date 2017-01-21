@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.149576",
+    "lng": "-79.0716958"
+  },
+  "formatted_address": "Staunton, VA 24401, USA",
+  "country": "USA",
+  "place_id": "ChIJlxZiuI6gtIkRbrYJCnHk1uU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

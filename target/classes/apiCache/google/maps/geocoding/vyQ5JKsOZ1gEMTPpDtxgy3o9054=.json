@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.6687141",
+    "lng": "-74.1143091"
+  },
+  "formatted_address": "Bayonne, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJ56vO7etRwokROoW7rcDq_To",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

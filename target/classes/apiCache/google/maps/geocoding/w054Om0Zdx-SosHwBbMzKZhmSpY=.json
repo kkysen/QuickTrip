@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.2441768",
+    "lng": "-82.7192671"
+  },
+  "formatted_address": "New Port Richey, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJoz7xGdmPwogRtXg0iu2SdQ4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "30.1588129",
+    "lng": "-85.6602058"
+  },
+  "formatted_address": "Panama City, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJQWPGKlaBk4gR8wFHLNVeWL8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

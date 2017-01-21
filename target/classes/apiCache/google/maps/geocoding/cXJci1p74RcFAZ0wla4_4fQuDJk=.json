@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.440429",
+    "lng": "-122.7140548"
+  },
+  "formatted_address": "Santa Rosa, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ10fmNsk7hIARSUhPxWtlzVw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

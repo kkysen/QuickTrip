@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.48287759999999",
+    "lng": "-122.2170661"
+  },
+  "formatted_address": "Renton, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJI2-7A8wIkFQRn7u6FkeyQs0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

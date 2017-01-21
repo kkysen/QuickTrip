@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.0043667",
+    "lng": "-122.2988587"
+  },
+  "formatted_address": "Pinole, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJXzXpbF52hYARdocdHwfYRJw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.3916172",
+    "lng": "-111.8507662"
+  },
+  "formatted_address": "Lehi, UT, USA",
+  "country": "USA",
+  "place_id": "ChIJaRsa2O1_TYcRyWENYIGsb_0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

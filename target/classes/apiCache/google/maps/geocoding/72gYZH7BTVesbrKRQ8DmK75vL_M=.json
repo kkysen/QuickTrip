@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.1070383",
+    "lng": "-72.6203675"
+  },
+  "formatted_address": "West Springfield, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJ28OJ-uDg5okRXMd1YxHDejQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

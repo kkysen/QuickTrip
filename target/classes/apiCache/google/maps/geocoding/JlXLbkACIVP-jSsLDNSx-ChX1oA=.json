@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.4284761",
+    "lng": "-90.1323087"
+  },
+  "formatted_address": "Ridgeland, MS, USA",
+  "country": "USA",
+  "place_id": "ChIJkXECWxvSKYYRKPKpN9CQZf4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

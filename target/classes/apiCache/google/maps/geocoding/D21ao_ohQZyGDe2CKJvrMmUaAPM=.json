@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.8816818",
+    "lng": "-118.1170117"
+  },
+  "formatted_address": "Bellflower, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJc0O-9bAy3YARCZtI9k9VBrY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

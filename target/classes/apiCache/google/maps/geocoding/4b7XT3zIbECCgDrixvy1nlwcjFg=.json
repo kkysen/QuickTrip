@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.2625932",
+    "lng": "-71.8022934"
+  },
+  "formatted_address": "Worcester, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJDYsqWlgG5IkRbU3Kf9h9E54",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

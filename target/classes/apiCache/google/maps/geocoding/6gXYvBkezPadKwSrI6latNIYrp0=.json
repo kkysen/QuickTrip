@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.9605701",
+    "lng": "-118.1853486"
+  },
+  "formatted_address": "Cudahy, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJKXPzCo_OwoARIjJw8rsUtkQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

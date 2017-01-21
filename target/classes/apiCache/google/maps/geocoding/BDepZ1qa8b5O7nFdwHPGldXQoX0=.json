@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.6259316",
+    "lng": "-75.37045789999999"
+  },
+  "formatted_address": "Bethlehem, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJFcGUzEo-xIkRg7KRHEmcxU4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

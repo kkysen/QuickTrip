@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.961124",
+    "lng": "-116.5016784"
+  },
+  "formatted_address": "Desert Hot Springs, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJay-WZeQG24ARnr8wkixlzUU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

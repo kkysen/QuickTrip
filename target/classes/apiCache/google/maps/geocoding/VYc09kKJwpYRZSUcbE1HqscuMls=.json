@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.7079146",
+    "lng": "-79.8136446"
+  },
+  "formatted_address": "Asheboro, NC, USA",
+  "country": "USA",
+  "place_id": "ChIJSSNOPWxcU4gRmQMp1is1V1A",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

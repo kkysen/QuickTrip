@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.483901",
+    "lng": "-114.3224548"
+  },
+  "formatted_address": "Lake Havasu City, AZ, USA",
+  "country": "USA",
+  "place_id": "ChIJI-CJ7hby0YAR4tMqt8-D3pg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

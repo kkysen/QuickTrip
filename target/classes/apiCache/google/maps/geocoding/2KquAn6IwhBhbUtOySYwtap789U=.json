@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.6059253",
+    "lng": "-86.9833417"
+  },
+  "formatted_address": "Decatur, AL, USA",
+  "country": "USA",
+  "place_id": "ChIJlVhDCBGEYogRcsOMJubD-VI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

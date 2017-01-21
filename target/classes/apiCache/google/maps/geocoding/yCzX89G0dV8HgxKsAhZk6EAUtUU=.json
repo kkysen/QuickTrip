@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.7454071",
+    "lng": "-81.6848188"
+  },
+  "formatted_address": "Morganton, NC 28655, USA",
+  "country": "USA",
+  "place_id": "ChIJvcRSeifOUIgRg4YB5KITZ90",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

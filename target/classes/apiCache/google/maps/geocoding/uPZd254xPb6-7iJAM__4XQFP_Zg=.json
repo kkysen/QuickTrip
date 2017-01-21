@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.739744",
+    "lng": "-116.41279"
+  },
+  "formatted_address": "Rancho Mirage, CA 92270, USA",
+  "country": "USA",
+  "place_id": "ChIJ5TXJ7ZAC24ARznj3j1L-wu0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

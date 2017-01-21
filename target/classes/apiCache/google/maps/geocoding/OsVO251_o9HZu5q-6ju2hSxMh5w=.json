@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.5847425",
+    "lng": "-87.82118539999999"
+  },
+  "formatted_address": "Kenosha, WI, USA",
+  "country": "USA",
+  "place_id": "ChIJ5dFVIjdeBYgRGN8yilt4EW0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

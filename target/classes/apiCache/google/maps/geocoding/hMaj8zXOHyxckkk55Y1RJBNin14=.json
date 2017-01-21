@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.6142714",
+    "lng": "-85.83496479999999"
+  },
+  "formatted_address": "Oxford, AL, USA",
+  "country": "USA",
+  "place_id": "ChIJw-IeJh-xi4gRfXcDpIutcrg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "30.2841224",
+    "lng": "-81.3961338"
+  },
+  "formatted_address": "Jacksonville Beach, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJkcQBieJI5IgRFfy4tQ2FGdw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

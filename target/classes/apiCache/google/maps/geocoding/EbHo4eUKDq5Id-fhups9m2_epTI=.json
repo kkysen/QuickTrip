@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.8694731",
+    "lng": "-85.64474919999999"
+  },
+  "formatted_address": "Kentwood, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJVcEXX89MGIgRZiQF7rhPMyk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

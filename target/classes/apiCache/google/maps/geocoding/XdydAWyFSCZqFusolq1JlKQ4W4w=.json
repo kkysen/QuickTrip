@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.1892409",
+    "lng": "-98.15528719999999"
+  },
+  "formatted_address": "San Juan, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJE9DoHgugZYYRJZqSVQdYd-Y",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

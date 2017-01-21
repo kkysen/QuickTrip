@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.4819932",
+    "lng": "-81.7981908"
+  },
+  "formatted_address": "Lakewood, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJ4zjnTiDyMIgRJQ3XUtn6vUc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

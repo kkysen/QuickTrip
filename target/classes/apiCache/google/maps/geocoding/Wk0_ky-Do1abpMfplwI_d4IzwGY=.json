@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.6619927",
+    "lng": "-86.15861559999999"
+  },
+  "formatted_address": "Mishawaka, IN, USA",
+  "country": "USA",
+  "place_id": "ChIJcxUKiRQzEYgRoCtROZVyLaQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

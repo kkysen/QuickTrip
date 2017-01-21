@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.8013556",
+    "lng": "-91.23958069999999"
+  },
+  "formatted_address": "La Crosse, WI, USA",
+  "country": "USA",
+  "place_id": "ChIJlbMyZ99U-YcRsCI3GRWIqX8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

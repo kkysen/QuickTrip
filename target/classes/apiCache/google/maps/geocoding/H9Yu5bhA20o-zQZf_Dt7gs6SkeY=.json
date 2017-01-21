@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.2709704",
+    "lng": "-79.9414266"
+  },
+  "formatted_address": "Roanoke, VA, USA",
+  "country": "USA",
+  "place_id": "ChIJ_Wapak0MTYgRm5iw28u-nSQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

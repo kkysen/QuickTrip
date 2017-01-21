@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.3565773",
+    "lng": "-121.9877444"
+  },
+  "formatted_address": "Vacaville, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJB_R9n88XhYARHGObY9_IquQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

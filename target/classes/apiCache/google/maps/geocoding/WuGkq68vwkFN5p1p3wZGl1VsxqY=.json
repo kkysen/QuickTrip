@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.7092262",
+    "lng": "-84.06326849999999"
+  },
+  "formatted_address": "Beavercreek, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJB-LwKg6bQIgRgu8TwuZQd7o",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

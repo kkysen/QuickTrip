@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.63909719999999",
+    "lng": "-120.9968782"
+  },
+  "formatted_address": "Modesto, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJUV989PZTkIARK2M3xDK6lL8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

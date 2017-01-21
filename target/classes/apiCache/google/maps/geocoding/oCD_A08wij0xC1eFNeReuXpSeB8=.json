@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.1672068",
+    "lng": "-105.1019275"
+  },
+  "formatted_address": "Longmont, CO, USA",
+  "country": "USA",
+  "place_id": "ChIJSTPM1Qj5a4cRNSej8-6hfcE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

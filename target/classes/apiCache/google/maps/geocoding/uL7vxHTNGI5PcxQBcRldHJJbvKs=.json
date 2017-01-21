@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.6611277",
+    "lng": "-91.5301683"
+  },
+  "formatted_address": "Iowa City, IA, USA",
+  "country": "USA",
+  "place_id": "ChIJF4ggasFB5IcRsIIFh2cYcW0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

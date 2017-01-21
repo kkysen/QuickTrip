@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.6988853",
+    "lng": "-81.30812259999999"
+  },
+  "formatted_address": "Winter Springs, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJVccSvSJs54gR9Xg179Xt9Rc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

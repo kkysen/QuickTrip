@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.5680898",
+    "lng": "-87.72032569999999"
+  },
+  "formatted_address": "Country Club Hills, IL 60478, USA",
+  "country": "USA",
+  "place_id": "ChIJj1NUZcYXDogRjMRhvT4bu7I",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

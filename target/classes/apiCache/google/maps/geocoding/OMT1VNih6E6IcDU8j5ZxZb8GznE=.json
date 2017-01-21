@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.6732281",
+    "lng": "-117.2393748"
+  },
+  "formatted_address": "Spokane Valley, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJrwbPsF8jnlQRBk8OZwB6rg0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "45.5228939",
+    "lng": "-122.989827"
+  },
+  "formatted_address": "Hillsboro, OR, USA",
+  "country": "USA",
+  "place_id": "ChIJeeW8Vl8FlVQRhu0zaob_KX0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.5297706",
+    "lng": "-87.3594528"
+  },
+  "formatted_address": "Clarksville, TN, USA",
+  "country": "USA",
+  "place_id": "ChIJ5af-L0DOZIgRHicF6Q-xQas",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

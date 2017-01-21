@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.5522815",
+    "lng": "-84.2332718"
+  },
+  "formatted_address": "Springboro, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJHTQQ4CeJQIgRKiJzNdF2-04",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

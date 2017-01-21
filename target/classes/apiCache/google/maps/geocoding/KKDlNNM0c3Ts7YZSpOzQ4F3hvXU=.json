@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.9071923",
+    "lng": "-77.03687069999999"
+  },
+  "formatted_address": "Washington, DC, USA",
+  "country": "USA",
+  "place_id": "ChIJW-T2Wt7Gt4kRKl2I1CJFUsI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

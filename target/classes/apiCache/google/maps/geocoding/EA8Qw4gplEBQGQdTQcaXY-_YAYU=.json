@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "46.0645809",
+    "lng": "-118.3430209"
+  },
+  "formatted_address": "Walla Walla, WA 99362, USA",
+  "country": "USA",
+  "place_id": "ChIJO_fQoEsVolQR1LEd58-vxBI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

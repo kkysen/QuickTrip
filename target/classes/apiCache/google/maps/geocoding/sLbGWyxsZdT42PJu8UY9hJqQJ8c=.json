@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.3620235",
+    "lng": "-86.20943419999999"
+  },
+  "formatted_address": "Tullahoma, TN, USA",
+  "country": "USA",
+  "place_id": "ChIJkdMW-sRiYYgRnL_JbtrycMA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

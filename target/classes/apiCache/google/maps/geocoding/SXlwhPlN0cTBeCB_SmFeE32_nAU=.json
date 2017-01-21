@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.0997803",
+    "lng": "-80.6495194"
+  },
+  "formatted_address": "Youngstown, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJn7yTaNHhM4gRRPDMDGpyLF0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

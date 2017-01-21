@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.0870821",
+    "lng": "-76.4730122"
+  },
+  "formatted_address": "Newport News, VA, USA",
+  "country": "USA",
+  "place_id": "ChIJ2VZNcIJ7sIkRG8vIA-xVfuw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

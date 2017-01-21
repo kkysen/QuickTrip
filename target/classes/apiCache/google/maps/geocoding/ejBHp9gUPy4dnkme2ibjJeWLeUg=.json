@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.0502623",
+    "lng": "-105.0499817"
+  },
+  "formatted_address": "Erie, CO, USA",
+  "country": "USA",
+  "place_id": "ChIJEUKzTYv1a4cRnzsIN8q7fZA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

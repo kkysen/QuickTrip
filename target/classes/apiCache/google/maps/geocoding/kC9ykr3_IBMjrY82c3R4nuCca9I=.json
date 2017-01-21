@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "27.8397466",
+    "lng": "-82.79121339999999"
+  },
+  "formatted_address": "Seminole, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJUeyXlDv7wogR9Ieu_I0eGSU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

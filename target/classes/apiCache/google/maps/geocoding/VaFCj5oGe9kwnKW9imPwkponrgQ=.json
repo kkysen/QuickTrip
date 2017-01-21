@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.3211522",
+    "lng": "-85.17971419999999"
+  },
+  "formatted_address": "Battle Creek, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJu77UMa7xF4gRsPgPz-JMgPs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

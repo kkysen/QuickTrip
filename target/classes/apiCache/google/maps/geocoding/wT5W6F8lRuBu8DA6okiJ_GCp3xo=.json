@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.7284944",
+    "lng": "-121.8374777"
+  },
+  "formatted_address": "Chico, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJh2Qj_I0fg4AROEU6eY_rjjA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.5018026",
+    "lng": "-81.9651152"
+  },
+  "formatted_address": "North Augusta, SC, USA",
+  "country": "USA",
+  "place_id": "ChIJpcoDKKHM-YgRDKpxH-Y3bjY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

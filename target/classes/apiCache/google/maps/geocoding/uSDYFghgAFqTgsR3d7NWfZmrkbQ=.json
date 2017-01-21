@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.4675602",
+    "lng": "-97.5164276"
+  },
+  "formatted_address": "Oklahoma City, OK, USA",
+  "country": "USA",
+  "place_id": "ChIJgdL4flSKrYcRnTpP0XQSojM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.9611755",
+    "lng": "-82.99879419999999"
+  },
+  "formatted_address": "Columbus, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJcd6QucGJOIgRM7Wxz_hmMuQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.0430812",
+    "lng": "-100.920999"
+  },
+  "formatted_address": "Liberal, KS 67901, USA",
+  "country": "USA",
+  "place_id": "ChIJDR5KFoETCIcRiB6kZzH7RJg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

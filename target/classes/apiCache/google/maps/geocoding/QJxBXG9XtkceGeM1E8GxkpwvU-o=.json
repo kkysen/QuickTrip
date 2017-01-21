@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.3415342",
+    "lng": "-90.3217585"
+  },
+  "formatted_address": "Clinton, MS, USA",
+  "country": "USA",
+  "place_id": "ChIJqYjL2NhKKIYRE7uT-UFLdKA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.4873613",
+    "lng": "-80.6217341"
+  },
+  "formatted_address": "Kannapolis, NC, USA",
+  "country": "USA",
+  "place_id": "ChIJPW97u5QIVIgRHdxKah_1bak",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

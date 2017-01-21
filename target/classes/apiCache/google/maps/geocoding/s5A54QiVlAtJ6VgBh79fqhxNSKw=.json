@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.2381096",
+    "lng": "-81.8418006"
+  },
+  "formatted_address": "Brunswick, OH 44212, USA",
+  "country": "USA",
+  "place_id": "ChIJk_CH8cfAMIgRZirx4y0FyrE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

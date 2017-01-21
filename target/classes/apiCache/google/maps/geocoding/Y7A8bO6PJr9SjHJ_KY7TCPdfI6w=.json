@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.4359416",
+    "lng": "-86.1058048"
+  },
+  "formatted_address": "Talladega, AL 35160, USA",
+  "country": "USA",
+  "place_id": "ChIJs1eXpM_ci4gR_gVJUbFQBeo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

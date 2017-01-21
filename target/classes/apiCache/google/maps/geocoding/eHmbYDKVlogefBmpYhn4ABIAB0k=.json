@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.0394654",
+    "lng": "-81.9498042"
+  },
+  "formatted_address": "Lakeland, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJBwAP37I43YgRCNWiuA8y0Sk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

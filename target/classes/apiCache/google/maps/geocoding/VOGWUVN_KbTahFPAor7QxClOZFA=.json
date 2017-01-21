@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.9357576",
+    "lng": "-122.3477486"
+  },
+  "formatted_address": "Richmond, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJKYxc8eBlhYAR9L8V2jMWELM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

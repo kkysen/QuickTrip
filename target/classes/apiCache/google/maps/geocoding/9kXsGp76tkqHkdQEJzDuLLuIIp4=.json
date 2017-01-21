@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.10639889999999",
+    "lng": "-117.5931084"
+  },
+  "formatted_address": "Rancho Cucamonga, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJkScROPlbw4ARS_Pygq16aq0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.912624",
+    "lng": "-96.63888329999999"
+  },
+  "formatted_address": "Garland, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJdcJf28EDTIYR0DxiOMu9Hwc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

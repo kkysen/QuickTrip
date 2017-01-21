@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.7392358",
+    "lng": "-104.990251"
+  },
+  "formatted_address": "Denver, CO, USA",
+  "country": "USA",
+  "place_id": "ChIJzxcfI6qAa4cR1jaKJ_j0jhE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

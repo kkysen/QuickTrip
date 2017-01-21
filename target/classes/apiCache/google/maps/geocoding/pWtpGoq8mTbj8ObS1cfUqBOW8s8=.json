@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.3916641",
+    "lng": "-118.542586"
+  },
+  "formatted_address": "Santa Clarita, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJJxjVrDOGwoARSNYFc-CPSlY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

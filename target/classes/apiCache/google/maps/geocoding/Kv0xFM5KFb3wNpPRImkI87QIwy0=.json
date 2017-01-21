@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.4017766",
+    "lng": "-86.954437"
+  },
+  "formatted_address": "Bessemer, AL, USA",
+  "country": "USA",
+  "place_id": "ChIJBXnG3EHeiIgRPbGS4HmaDZ8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

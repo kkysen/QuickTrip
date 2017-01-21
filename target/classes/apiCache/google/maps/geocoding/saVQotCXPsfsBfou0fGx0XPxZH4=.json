@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.1699412",
+    "lng": "-115.1398296"
+  },
+  "formatted_address": "Las Vegas, NV, USA",
+  "country": "USA",
+  "place_id": "ChIJ0X31pIK3voARo3mz1ebVzDo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.5083482",
+    "lng": "-89.03177649999999"
+  },
+  "formatted_address": "Beloit, WI 53511, USA",
+  "country": "USA",
+  "place_id": "ChIJ3wrNBSChCIgRyyKJ9Kc_fjw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

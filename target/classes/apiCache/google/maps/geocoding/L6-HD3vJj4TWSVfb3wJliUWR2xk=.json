@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.5232053",
+    "lng": "-92.63792699999999"
+  },
+  "formatted_address": "Ruston, LA 71270, USA",
+  "country": "USA",
+  "place_id": "ChIJZ_Xpt5vPMYYRLXKx12QOfQ4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

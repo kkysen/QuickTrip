@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.0481221",
+    "lng": "-76.14742439999999"
+  },
+  "formatted_address": "Syracuse, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJDZqXv5vz2YkRRZWt1-IM1QA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

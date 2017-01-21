@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.9628232",
+    "lng": "-117.0358646"
+  },
+  "formatted_address": "Poway, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJJ5bxsbTg24ARZwSLTUFKSzI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

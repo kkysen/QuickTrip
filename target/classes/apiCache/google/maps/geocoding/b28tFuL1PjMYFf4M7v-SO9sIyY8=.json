@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "31.4504629",
+    "lng": "-83.5084973"
+  },
+  "formatted_address": "Tifton, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJrXPcqP0B7ogRYjZiJlFZt_0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

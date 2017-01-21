@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "46.9965144",
+    "lng": "-120.5478474"
+  },
+  "formatted_address": "Ellensburg, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJMY46sjLymVQRFwnATGHbsPg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

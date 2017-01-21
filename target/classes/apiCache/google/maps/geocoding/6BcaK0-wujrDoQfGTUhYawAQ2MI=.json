@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "29.9940924",
+    "lng": "-90.2417434"
+  },
+  "formatted_address": "Kenner, LA, USA",
+  "country": "USA",
+  "place_id": "ChIJQZW5jxq3IIYRQGpcAzewDgc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

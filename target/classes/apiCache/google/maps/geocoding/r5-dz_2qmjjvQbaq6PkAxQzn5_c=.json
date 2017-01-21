@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.158168",
+    "lng": "-75.5243682"
+  },
+  "formatted_address": "Dover, DE, USA",
+  "country": "USA",
+  "place_id": "ChIJrV5odTNjx4kR8GwA-0fk4qk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

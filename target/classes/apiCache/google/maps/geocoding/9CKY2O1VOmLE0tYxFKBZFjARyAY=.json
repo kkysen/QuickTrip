@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.1770457",
+    "lng": "-122.1865056"
+  },
+  "formatted_address": "Bonney Lake, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJ7Xo4rl5VkFQRA7UkuDhFuLc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

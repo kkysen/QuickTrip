@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.5645371",
+    "lng": "-92.586828"
+  },
+  "formatted_address": "Benton, AR, USA",
+  "country": "USA",
+  "place_id": "ChIJgwSnon5RzYcR51-EDTbDb7Q",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

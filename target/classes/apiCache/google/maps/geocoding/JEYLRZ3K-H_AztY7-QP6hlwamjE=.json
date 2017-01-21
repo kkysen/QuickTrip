@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.7764749",
+    "lng": "-79.93105120000001"
+  },
+  "formatted_address": "Charleston, SC, USA",
+  "country": "USA",
+  "place_id": "ChIJdySo3EJ6_ogRa-zhruD3-jU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

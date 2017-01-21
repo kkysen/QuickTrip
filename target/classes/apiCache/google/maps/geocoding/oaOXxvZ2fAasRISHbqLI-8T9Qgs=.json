@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.673188",
+    "lng": "-97.46057589999999"
+  },
+  "formatted_address": "Benbrook, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJ687PvF0NToYR4d_jWyHJkI8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

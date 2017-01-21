@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "48.1987118",
+    "lng": "-122.1251418"
+  },
+  "formatted_address": "Arlington, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJDTS08HlJhVQR1fGGoNETirQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

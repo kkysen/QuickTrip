@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.4495688",
+    "lng": "-78.8689155"
+  },
+  "formatted_address": "Harrisonburg, VA, USA",
+  "country": "USA",
+  "place_id": "ChIJVXEHP8OStIkRX3u92rllTgg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

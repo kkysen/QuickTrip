@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.4669941",
+    "lng": "-73.1709604"
+  },
+  "formatted_address": "South Burlington, VT, USA",
+  "country": "USA",
+  "place_id": "ChIJd4BYxQJ7ykwReze8h7QsIF8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

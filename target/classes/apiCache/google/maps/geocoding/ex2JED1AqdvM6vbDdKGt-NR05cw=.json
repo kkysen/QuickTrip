@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.68676670000001",
+    "lng": "-73.3734547"
+  },
+  "formatted_address": "Lindenhurst, NY 11757, USA",
+  "country": "USA",
+  "place_id": "ChIJkfezFaHU6YkRSQrHxje0B1k",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

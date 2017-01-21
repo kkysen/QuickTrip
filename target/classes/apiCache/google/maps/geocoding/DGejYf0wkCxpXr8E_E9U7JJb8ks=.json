@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.0049214",
+    "lng": "-121.805789"
+  },
+  "formatted_address": "Antioch, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ1aCvlWNXhYARWXWULDxGagU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.216316",
+    "lng": "-80.752608"
+  },
+  "formatted_address": "Hilton Head Island, SC, USA",
+  "country": "USA",
+  "place_id": "ChIJrRnTjtx5_IgRPSii63qm5Sw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.9784453",
+    "lng": "-76.4921829"
+  },
+  "formatted_address": "Annapolis, MD, USA",
+  "country": "USA",
+  "place_id": "ChIJ1S9ncGX2t4kRSyeo0_1U-EM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

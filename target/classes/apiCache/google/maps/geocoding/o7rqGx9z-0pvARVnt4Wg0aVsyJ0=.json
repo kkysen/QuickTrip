@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.94311829999999",
+    "lng": "-84.54410899999999"
+  },
+  "formatted_address": "Independence, KY, USA",
+  "country": "USA",
+  "place_id": "ChIJ3XyYs2m3QYgRNPB4uZ92aG0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

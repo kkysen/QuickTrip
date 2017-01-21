@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.75839",
+    "lng": "-82.5154471"
+  },
+  "formatted_address": "Mansfield, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJhxKKd-LqOYgRVm8sFPg6CGM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

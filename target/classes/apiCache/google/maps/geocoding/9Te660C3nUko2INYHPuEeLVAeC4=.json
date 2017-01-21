@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.2619444",
+    "lng": "-95.8608333"
+  },
+  "formatted_address": "Council Bluffs, IA, USA",
+  "country": "USA",
+  "place_id": "ChIJLzIJoc-Bk4cRnnkiUvqBTr4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

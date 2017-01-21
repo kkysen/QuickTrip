@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.9495672",
+    "lng": "-81.9320482"
+  },
+  "formatted_address": "Spartanburg, SC, USA",
+  "country": "USA",
+  "place_id": "ChIJC0aXphmeV4gRyX7ayjgoi1s",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

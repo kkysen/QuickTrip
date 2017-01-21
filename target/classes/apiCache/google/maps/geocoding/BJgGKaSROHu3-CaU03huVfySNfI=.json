@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.6155909",
+    "lng": "-87.5294871"
+  },
+  "formatted_address": "Calumet City, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJTZw7-WIgDogRJhyJdEKqmjU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

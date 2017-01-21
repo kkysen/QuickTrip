@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.7559659",
+    "lng": "-122.3456972"
+  },
+  "formatted_address": "Shoreline, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJZ3WkxDgRkFQRmit_fsdCifE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

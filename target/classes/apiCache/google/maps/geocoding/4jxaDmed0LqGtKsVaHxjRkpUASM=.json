@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.0686208",
+    "lng": "-117.9389526"
+  },
+  "formatted_address": "West Covina, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJqQ7XZsQpw4AR6oEJqkv0XuQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

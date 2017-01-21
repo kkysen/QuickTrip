@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.8316745",
+    "lng": "-118.281693"
+  },
+  "formatted_address": "Carson, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJfcS6fx7LwoARZYDiqXgXL6E",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

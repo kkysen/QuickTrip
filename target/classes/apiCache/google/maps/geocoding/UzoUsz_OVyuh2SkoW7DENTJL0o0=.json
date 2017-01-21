@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.1185868",
+    "lng": "-120.5907252"
+  },
+  "formatted_address": "Arroyo Grande, CA 93420, USA",
+  "country": "USA",
+  "place_id": "ChIJz8yOQmRe7IAR7WnVaZBqwaQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

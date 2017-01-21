@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.857328",
+    "lng": "-84.01991080000001"
+  },
+  "formatted_address": "Snellville, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJK5P2QGy59YgRD03taMZ5BAw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.20763",
+    "lng": "-92.6662674"
+  },
+  "formatted_address": "El Dorado, AR 71730, USA",
+  "country": "USA",
+  "place_id": "ChIJy4IWsXoaMoYR8SHtAvzyFUw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

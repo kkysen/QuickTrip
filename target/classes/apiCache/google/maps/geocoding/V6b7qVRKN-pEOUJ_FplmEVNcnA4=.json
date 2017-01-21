@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.8020712",
+    "lng": "-124.1636729"
+  },
+  "formatted_address": "Eureka, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJp07_5oP_01QRlQYpuGYHhio",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

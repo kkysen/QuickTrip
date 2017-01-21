@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.6121087",
+    "lng": "-116.3915131"
+  },
+  "formatted_address": "Meridian, ID, USA",
+  "country": "USA",
+  "place_id": "ChIJhdYOIotTrlQRNKRGJlZgbFM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

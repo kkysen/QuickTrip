@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.7294319",
+    "lng": "-104.8319195"
+  },
+  "formatted_address": "Aurora, CO, USA",
+  "country": "USA",
+  "place_id": "ChIJmyu6IoZYbIcReOaii2jgQYQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

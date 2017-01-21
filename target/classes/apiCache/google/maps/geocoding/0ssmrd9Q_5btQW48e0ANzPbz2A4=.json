@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.1229997",
+    "lng": "-120.2601754"
+  },
+  "formatted_address": "Chowchilla, CA 93610, USA",
+  "country": "USA",
+  "place_id": "ChIJlX1AXvlXkYARjTPuHPbM2hM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

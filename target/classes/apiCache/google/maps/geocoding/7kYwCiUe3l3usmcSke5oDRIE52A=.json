@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.4868032",
+    "lng": "-80.86007359999999"
+  },
+  "formatted_address": "Cornelius, NC, USA",
+  "country": "USA",
+  "place_id": "ChIJ9TdZ7FypVogRV53c8wZxShQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

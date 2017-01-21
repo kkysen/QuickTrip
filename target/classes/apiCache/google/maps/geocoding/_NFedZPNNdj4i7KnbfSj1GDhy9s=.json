@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.3859242",
+    "lng": "-94.39854749999999"
+  },
+  "formatted_address": "Fort Smith, AR, USA",
+  "country": "USA",
+  "place_id": "ChIJj3azjrpMyocRivorFdK3te8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

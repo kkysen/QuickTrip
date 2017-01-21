@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.2009055",
+    "lng": "-84.87328350000001"
+  },
+  "formatted_address": "Frankfort, KY 40601, USA",
+  "country": "USA",
+  "place_id": "ChIJyVMZi0xzQogRXEJniKAYZFM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

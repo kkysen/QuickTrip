@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.4936391",
+    "lng": "-117.1483648"
+  },
+  "formatted_address": "Temecula, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJI74a9VJi24ARqAY4oIgOvGg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

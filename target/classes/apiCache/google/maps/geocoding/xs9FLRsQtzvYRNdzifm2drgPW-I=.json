@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.8857582",
+    "lng": "-122.1180201"
+  },
+  "formatted_address": "Lafayette, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJhY_6o3xghYARJ2nkA11YKPk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.3526456",
+    "lng": "-90.877882"
+  },
+  "formatted_address": "Vicksburg, MS, USA",
+  "country": "USA",
+  "place_id": "ChIJuRGx9ifgKIYRwHtPB2kqQnc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

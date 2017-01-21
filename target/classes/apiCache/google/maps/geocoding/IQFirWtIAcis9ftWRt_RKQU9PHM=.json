@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.0222435",
+    "lng": "-81.7328567"
+  },
+  "formatted_address": "Winter Haven, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJIz0nq8kS3YgRWgCSqPtlZoY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

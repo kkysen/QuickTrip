@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.5933918",
+    "lng": "-122.0438298"
+  },
+  "formatted_address": "Union City, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJk-qHUbyRj4AR7opkvGzerFs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

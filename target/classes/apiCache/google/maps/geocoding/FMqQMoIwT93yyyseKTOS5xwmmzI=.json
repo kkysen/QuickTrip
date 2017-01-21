@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.48308970000001",
+    "lng": "-88.37282549999999"
+  },
+  "formatted_address": "Mattoon, IL 61938, USA",
+  "country": "USA",
+  "place_id": "ChIJ4yLYsdoRc4gRIiPcXUkUCWU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

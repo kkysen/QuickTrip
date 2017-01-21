@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.72815749999999",
+    "lng": "-74.0776417"
+  },
+  "formatted_address": "Jersey City, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJ3a-_JdJQwokR2SXNohPwSQI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

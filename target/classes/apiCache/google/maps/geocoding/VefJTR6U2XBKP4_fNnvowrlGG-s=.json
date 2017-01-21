@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.8995325",
+    "lng": "-105.960265"
+  },
+  "formatted_address": "Alamogordo, NM 88310, USA",
+  "country": "USA",
+  "place_id": "ChIJUdRzImNQ4IYRvWALmI8FB3k",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.8106521",
+    "lng": "-122.3773552"
+  },
+  "formatted_address": "Edmonds, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJ6W9six0bkFQRoEaycfJJJAc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

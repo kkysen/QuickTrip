@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.8601275",
+    "lng": "-97.3639068"
+  },
+  "formatted_address": "Saginaw, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJleuhuALfTYYRbvElBmmkSaU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.9334298",
+    "lng": "-95.76971309999999"
+  },
+  "formatted_address": "McAlester, OK 74501, USA",
+  "country": "USA",
+  "place_id": "ChIJZ4O7hNTgtIcRKRXGg4RDmto",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

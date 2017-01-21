@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.1275862",
+    "lng": "-80.23310359999999"
+  },
+  "formatted_address": "Plantation, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJwxO77w8H2YgRFnnNjY2Cd10",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

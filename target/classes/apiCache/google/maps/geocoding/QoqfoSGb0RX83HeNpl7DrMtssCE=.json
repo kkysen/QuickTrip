@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.4828144",
+    "lng": "-87.33281389999999"
+  },
+  "formatted_address": "Merrillville, IN, USA",
+  "country": "USA",
+  "place_id": "ChIJZfWoksHuEYgRiN9Ssai4Ih0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

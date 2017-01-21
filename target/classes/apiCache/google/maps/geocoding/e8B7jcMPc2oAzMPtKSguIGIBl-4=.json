@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.436381",
+    "lng": "-111.2224422"
+  },
+  "formatted_address": "Marana, AZ, USA",
+  "country": "USA",
+  "place_id": "ChIJRQVG29jj1YYR41TawBUh9gM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "45.6769979",
+    "lng": "-111.0429339"
+  },
+  "formatted_address": "Bozeman, MT, USA",
+  "country": "USA",
+  "place_id": "ChIJE4i6T0xERVMRqmA792TQ9WM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

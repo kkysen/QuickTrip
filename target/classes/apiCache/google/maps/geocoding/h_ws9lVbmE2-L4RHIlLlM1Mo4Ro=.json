@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.8527675",
+    "lng": "-81.6853534"
+  },
+  "formatted_address": "Eustis, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJI6X8QuyY54gRcsWw9PUN5mo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

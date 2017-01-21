@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "30.4382559",
+    "lng": "-84.28073289999999"
+  },
+  "formatted_address": "Tallahassee, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJU0sSh1GK7IgR-LH91HoH7us",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

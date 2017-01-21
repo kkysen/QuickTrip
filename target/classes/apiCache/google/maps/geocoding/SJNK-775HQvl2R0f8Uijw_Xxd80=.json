@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.9916726",
+    "lng": "-94.6335684"
+  },
+  "formatted_address": "Prairie Village, KS, USA",
+  "country": "USA",
+  "place_id": "ChIJw8hLng_swIcRgmrE3AaXB_Q",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.0582786",
+    "lng": "-120.8499151"
+  },
+  "formatted_address": "Los Banos, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJa-jV7OR-kYAR4jLdmWXZOHQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

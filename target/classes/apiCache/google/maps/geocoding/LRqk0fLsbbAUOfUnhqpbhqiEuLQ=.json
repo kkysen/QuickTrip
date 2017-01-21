@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "31.7621153",
+    "lng": "-95.6307891"
+  },
+  "formatted_address": "Palestine, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJRUh36_NjSIYRzUhc5ObC0qM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

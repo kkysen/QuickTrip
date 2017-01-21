@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.2098407",
+    "lng": "-87.56917349999999"
+  },
+  "formatted_address": "Tuscaloosa, AL, USA",
+  "country": "USA",
+  "place_id": "ChIJZ0DCkS6viIgRWCuJFv37q6w",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.4250964",
+    "lng": "-71.066163"
+  },
+  "formatted_address": "Malden, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJwyjAzdVz44kRSvJaHRz8Ul4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

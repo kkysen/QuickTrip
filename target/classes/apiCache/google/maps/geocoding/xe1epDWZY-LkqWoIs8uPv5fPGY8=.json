@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.4869996",
+    "lng": "-114.7821796"
+  },
+  "formatted_address": "San Luis, AZ, USA",
+  "country": "USA",
+  "place_id": "ChIJX19cYspa1oARNQ8hxm7kh44",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

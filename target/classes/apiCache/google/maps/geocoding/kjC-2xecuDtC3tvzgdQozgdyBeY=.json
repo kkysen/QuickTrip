@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.6612104",
+    "lng": "-72.7795419"
+  },
+  "formatted_address": "New Britain, CT, USA",
+  "country": "USA",
+  "place_id": "ChIJmykkVXVL5okRAEdtBH1ZUpg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

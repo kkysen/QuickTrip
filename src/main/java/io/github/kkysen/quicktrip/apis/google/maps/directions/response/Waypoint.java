@@ -14,8 +14,9 @@ import lombok.Getter;
 @Json
 @Getter
 public class Waypoint extends Geolocation {
-
-    public Waypoint(final String status, final LatLng location, final String address, final String placeId) {
+    
+    public Waypoint(final String status, final LatLng location, final String address,
+            final String placeId) {
         super(status, location, address, placeId);
     }
     

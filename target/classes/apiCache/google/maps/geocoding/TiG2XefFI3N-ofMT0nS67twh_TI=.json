@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.2842164",
+    "lng": "-84.1554987"
+  },
+  "formatted_address": "Sidney, OH 45365, USA",
+  "country": "USA",
+  "place_id": "ChIJP_iExpEMP4gRzOa4U9qCKAY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

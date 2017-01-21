@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.4390069",
+    "lng": "-123.3283925"
+  },
+  "formatted_address": "Grants Pass, OR, USA",
+  "country": "USA",
+  "place_id": "ChIJpRb7HCN6xVQR1BJRjqBboss",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

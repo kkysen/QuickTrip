@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.9592201",
+    "lng": "-85.8902547"
+  },
+  "formatted_address": "Seymour, IN 47274, USA",
+  "country": "USA",
+  "place_id": "ChIJn3bdb1W-a4gRL0THlXr3O2c",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

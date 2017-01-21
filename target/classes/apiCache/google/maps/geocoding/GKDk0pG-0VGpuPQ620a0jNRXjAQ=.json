@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.8832982",
+    "lng": "-93.28300209999999"
+  },
+  "formatted_address": "Richfield, MN, USA",
+  "country": "USA",
+  "place_id": "ChIJ70bcat8l9ocRyDzWLnj9T5E",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.5053178",
+    "lng": "-82.02820009999999"
+  },
+  "formatted_address": "Avon Lake, OH 44012, USA",
+  "country": "USA",
+  "place_id": "ChIJicdDb8KPMIgRsx5dCwpeMMw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

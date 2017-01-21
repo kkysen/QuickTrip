@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.5067215",
+    "lng": "-97.76254410000001"
+  },
+  "formatted_address": "Yukon, OK, USA",
+  "country": "USA",
+  "place_id": "ChIJgUjkf5MHsocRdEua7qXS5NM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

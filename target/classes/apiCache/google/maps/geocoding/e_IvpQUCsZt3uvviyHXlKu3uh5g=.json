@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.4233142",
+    "lng": "-104.7091322"
+  },
+  "formatted_address": "Greeley, CO, USA",
+  "country": "USA",
+  "place_id": "ChIJeV6vyIahbocRHxIKToC6z9I",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

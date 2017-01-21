@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.6224561",
+    "lng": "-117.6708966"
+  },
+  "formatted_address": "Ridgecrest, CA 93555, USA",
+  "country": "USA",
+  "place_id": "ChIJpYoMALxswYARuq4QZwNzstw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

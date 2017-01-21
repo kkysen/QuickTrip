@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.9297836",
+    "lng": "-82.04536640000001"
+  },
+  "formatted_address": "Punta Gorda, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJA9xLG3FX24gR53CuMfZkQGY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

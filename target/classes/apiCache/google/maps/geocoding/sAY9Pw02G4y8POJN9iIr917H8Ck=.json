@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.4184296",
+    "lng": "-71.1061639"
+  },
+  "formatted_address": "Medford, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJVbTqU7d244kR7GVVJqg3NSo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

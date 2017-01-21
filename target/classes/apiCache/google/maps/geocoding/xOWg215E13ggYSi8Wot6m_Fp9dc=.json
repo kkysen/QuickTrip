@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.4798575",
+    "lng": "-86.36191629999999"
+  },
+  "formatted_address": "Millbrook, AL, USA",
+  "country": "USA",
+  "place_id": "ChIJ-Zzk0zAnjIgR3yE6XvqzmX8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

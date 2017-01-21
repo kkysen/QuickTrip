@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.5008311",
+    "lng": "-117.1858759"
+  },
+  "formatted_address": "Apple Valley, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJl0Ki0z5hw4ARen1rug7lBSk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

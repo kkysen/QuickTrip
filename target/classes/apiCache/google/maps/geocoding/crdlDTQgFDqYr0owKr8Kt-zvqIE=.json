@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.165325",
+    "lng": "-86.52638569999999"
+  },
+  "formatted_address": "Bloomington, IN, USA",
+  "country": "USA",
+  "place_id": "ChIJ59iDtPZdbIgR2TOtiy2RGuk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

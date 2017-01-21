@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "46.8737648",
+    "lng": "-96.76780389999999"
+  },
+  "formatted_address": "Moorhead, MN, USA",
+  "country": "USA",
+  "place_id": "ChIJO21EHsrIyFIRFsgD2EboKCM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

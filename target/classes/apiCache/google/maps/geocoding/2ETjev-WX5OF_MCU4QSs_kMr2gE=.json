@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.8083196",
+    "lng": "-104.9338675"
+  },
+  "formatted_address": "Commerce City, CO, USA",
+  "country": "USA",
+  "place_id": "ChIJNyg6LzZwbIcRw1PRSOLgTAw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

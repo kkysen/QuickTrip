@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.9530337",
+    "lng": "-120.4357191"
+  },
+  "formatted_address": "Santa Maria, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJCcZUDKoP7IARjjRaimVS_Qs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

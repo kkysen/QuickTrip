@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.9517053",
+    "lng": "-92.3340724"
+  },
+  "formatted_address": "Columbia, MO, USA",
+  "country": "USA",
+  "place_id": "ChIJyYKBu_Or3IcRIG-9ui1pEaA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

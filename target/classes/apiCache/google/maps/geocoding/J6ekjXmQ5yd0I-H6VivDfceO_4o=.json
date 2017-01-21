@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.1856597",
+    "lng": "-78.1633341"
+  },
+  "formatted_address": "Winchester, VA 22601, USA",
+  "country": "USA",
+  "place_id": "ChIJwUpnQPfutYkRhIEWnA8KtZE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

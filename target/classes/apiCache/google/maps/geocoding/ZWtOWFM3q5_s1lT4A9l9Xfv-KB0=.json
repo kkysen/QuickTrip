@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.5069974",
+    "lng": "-84.74523099999999"
+  },
+  "formatted_address": "Oxford, OH 45056, USA",
+  "country": "USA",
+  "place_id": "ChIJM5K7Jw49QIgRzK96D3sHT2k",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

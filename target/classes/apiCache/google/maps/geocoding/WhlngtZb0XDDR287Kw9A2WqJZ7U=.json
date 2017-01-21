@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.27528",
+    "lng": "-107.8800667"
+  },
+  "formatted_address": "Durango, CO, USA",
+  "country": "USA",
+  "place_id": "ChIJI_yFvaYCPIcRWn6mo4KIK9w",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

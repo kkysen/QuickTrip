@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.6617635",
+    "lng": "-80.2683571"
+  },
+  "formatted_address": "Wellington, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJPQn610Il2YgRCiYq3AsWb8M",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

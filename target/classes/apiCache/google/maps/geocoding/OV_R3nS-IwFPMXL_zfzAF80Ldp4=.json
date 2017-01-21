@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "27.9908529",
+    "lng": "-82.6931553"
+  },
+  "formatted_address": "Safety Harbor, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJh9DcmXDuwogRU-Hpy2jjH1k",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

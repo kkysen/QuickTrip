@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.8775293",
+    "lng": "-88.0670118"
+  },
+  "formatted_address": "Glen Ellyn, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJXZ1766FLDogR00LhiALyZ7k",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.6028116",
+    "lng": "-87.74393839999999"
+  },
+  "formatted_address": "Oak Forest, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJqTJd9BwWDogRBTXAxNwdJHU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

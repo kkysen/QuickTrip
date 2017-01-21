@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.408969",
+    "lng": "-75.66241219999999"
+  },
+  "formatted_address": "Scranton, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJu0tIdzrZxIkR6PqbqyB58v8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

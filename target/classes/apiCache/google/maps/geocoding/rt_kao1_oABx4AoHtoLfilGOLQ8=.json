@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.2081366",
+    "lng": "-71.53757179999999"
+  },
+  "formatted_address": "Concord, NH, USA",
+  "country": "USA",
+  "place_id": "ChIJF4lKFZZq4okR8SglpqBxqAU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

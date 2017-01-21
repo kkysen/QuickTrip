@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.8859325",
+    "lng": "-74.0434736"
+  },
+  "formatted_address": "Hackensack, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJSd7vtxv6wokR1xbdaIitCkI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

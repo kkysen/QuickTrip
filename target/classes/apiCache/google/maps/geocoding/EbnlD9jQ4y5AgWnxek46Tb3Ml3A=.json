@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.3184123",
+    "lng": "-80.09976569999999"
+  },
+  "formatted_address": "Deerfield Beach, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJb_tKPZDi2IgRF2Y1vyormOU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

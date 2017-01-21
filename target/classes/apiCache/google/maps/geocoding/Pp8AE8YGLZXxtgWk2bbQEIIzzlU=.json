@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.6220478",
+    "lng": "-74.24459019999999"
+  },
+  "formatted_address": "Linden, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJZxEMiBCzw4kR-HPw4h3A7H0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.1717649",
+    "lng": "-122.518458"
+  },
+  "formatted_address": "Lakewood, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJWxEhNw8RkVQRDidE5DOPfNQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

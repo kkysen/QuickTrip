@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.2934681",
+    "lng": "-80.05476259999999"
+  },
+  "formatted_address": "Salem, VA 24153, USA",
+  "country": "USA",
+  "place_id": "ChIJV4DQVTQKTYgRAQsEhbWuRVo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

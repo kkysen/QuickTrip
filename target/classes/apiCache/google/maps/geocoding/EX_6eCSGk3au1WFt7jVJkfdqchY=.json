@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.8003049",
+    "lng": "-73.1211715"
+  },
+  "formatted_address": "Torrington, CT, USA",
+  "country": "USA",
+  "place_id": "ChIJud8RkVmY54kRHGGxpvznQc4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

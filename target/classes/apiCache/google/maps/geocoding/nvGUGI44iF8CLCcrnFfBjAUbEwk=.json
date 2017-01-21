@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.8227046",
+    "lng": "-121.27661"
+  },
+  "formatted_address": "Lathrop, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJQzwTN04VkIARDiyCDB0cBgs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

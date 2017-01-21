@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.9137085",
+    "lng": "-98.49338729999999"
+  },
+  "formatted_address": "Wichita Falls, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJ9dpicJIgU4YRAFLq78v6Bh0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "27.9658533",
+    "lng": "-82.8001026"
+  },
+  "formatted_address": "Clearwater, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJGbt04v3xwogR-5I80tHfqXU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

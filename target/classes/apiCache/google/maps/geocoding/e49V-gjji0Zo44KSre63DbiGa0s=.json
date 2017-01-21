@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.595141",
+    "lng": "-82.1888089"
+  },
+  "formatted_address": "Bristol, VA, USA",
+  "country": "USA",
+  "place_id": "ChIJbda4S0Z0UIgR8dvXSHnGl_0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

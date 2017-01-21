@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.6008681",
+    "lng": "-87.60698939999999"
+  },
+  "formatted_address": "South Holland, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJEwxxH5UhDogRgr19uNsVkug",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

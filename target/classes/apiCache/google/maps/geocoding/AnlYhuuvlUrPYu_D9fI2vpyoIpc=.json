@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.2919557",
+    "lng": "-81.40757099999999"
+  },
+  "formatted_address": "Kissimmee, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJ5wsVNxqE3YgRDcL9EZfN55Q",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

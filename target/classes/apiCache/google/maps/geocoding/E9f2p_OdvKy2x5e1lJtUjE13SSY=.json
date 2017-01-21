@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.1105875",
+    "lng": "-88.2072697"
+  },
+  "formatted_address": "Urbana, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJj0KEhJbXDIgRQWUMOa3LjfQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

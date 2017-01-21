@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.878711",
+    "lng": "-71.38255579999999"
+  },
+  "formatted_address": "Pawtucket, RI, USA",
+  "country": "USA",
+  "place_id": "ChIJKQPwp6lc5IkRtP60w2zCD2Q",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

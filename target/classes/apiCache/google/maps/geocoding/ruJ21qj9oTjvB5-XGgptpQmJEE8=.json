@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.68950359999999",
+    "lng": "-84.1688274"
+  },
+  "formatted_address": "Kettering, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJ8SLXDKSFQIgRpnJQASMjVq8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

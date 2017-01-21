@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.1595194",
+    "lng": "-97.99083659999999"
+  },
+  "formatted_address": "Weslaco, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJj9QyE3V3ZYYRKB3fjNsTb1o",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

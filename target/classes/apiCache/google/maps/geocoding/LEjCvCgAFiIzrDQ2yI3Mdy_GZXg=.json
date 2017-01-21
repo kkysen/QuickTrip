@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.80553099999999",
+    "lng": "-114.06719"
+  },
+  "formatted_address": "Mesquite, NV, USA",
+  "country": "USA",
+  "place_id": "ChIJA1NIcQmAyYARnD-_h-axshM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

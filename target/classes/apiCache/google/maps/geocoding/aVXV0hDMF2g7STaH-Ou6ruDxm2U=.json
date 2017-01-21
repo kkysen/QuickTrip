@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.3703197",
+    "lng": "-112.5837766"
+  },
+  "formatted_address": "Buckeye, AZ, USA",
+  "country": "USA",
+  "place_id": "ChIJDVCC3Eqr1IAR9vep3e8kbcA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

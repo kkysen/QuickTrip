@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.1403635",
+    "lng": "-80.2133808"
+  },
+  "formatted_address": "Lauderhill, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJc4xmemIG2YgRMmkCWsgns84",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

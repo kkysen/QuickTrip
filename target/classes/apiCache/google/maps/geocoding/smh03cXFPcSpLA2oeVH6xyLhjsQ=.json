@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.0978509",
+    "lng": "-70.2311655"
+  },
+  "formatted_address": "Auburn, ME 04210, USA",
+  "country": "USA",
+  "place_id": "ChIJM01IKH9pskwRPeeR9UNdQAs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

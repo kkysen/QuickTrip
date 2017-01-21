@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.7071247",
+    "lng": "-121.2810611"
+  },
+  "formatted_address": "Citrus Heights, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJk94s2tPcmoARqYZxhBexR1c",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

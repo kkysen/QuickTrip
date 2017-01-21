@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.1982836",
+    "lng": "-111.651302"
+  },
+  "formatted_address": "Flagstaff, AZ, USA",
+  "country": "USA",
+  "place_id": "ChIJMSYu2veOLYcRALPbzqE8H44",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.5944677",
+    "lng": "-83.8888647"
+  },
+  "formatted_address": "Bay City, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJJW1AvgThI4gRAjiu8iei0DQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

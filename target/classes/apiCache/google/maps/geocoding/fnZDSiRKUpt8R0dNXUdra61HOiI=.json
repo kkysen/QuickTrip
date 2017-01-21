@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.2000701",
+    "lng": "-85.8227413"
+  },
+  "formatted_address": "Shively, KY, USA",
+  "country": "USA",
+  "place_id": "ChIJb75_MZETaYgR6cWzQvciS50",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

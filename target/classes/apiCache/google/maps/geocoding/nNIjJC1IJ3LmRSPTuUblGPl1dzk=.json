@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.394817",
+    "lng": "-73.4540111"
+  },
+  "formatted_address": "Danbury, CT, USA",
+  "country": "USA",
+  "place_id": "ChIJ75gTLYRV3YkR7dNTBAuOwaE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

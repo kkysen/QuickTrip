@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.58746439999999",
+    "lng": "-109.2029043"
+  },
+  "formatted_address": "Rock Springs, WY 82901, USA",
+  "country": "USA",
+  "place_id": "ChIJGYvC9ehYWocRcDcwJ4H-JQc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

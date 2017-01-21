@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.76371109999999",
+    "lng": "-72.6850932"
+  },
+  "formatted_address": "Hartford, CT, USA",
+  "country": "USA",
+  "place_id": "ChIJpVER8hFT5okRmVl96ahKjsw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

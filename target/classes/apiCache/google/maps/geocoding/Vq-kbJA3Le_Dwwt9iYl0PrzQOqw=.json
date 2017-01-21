@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.7179578",
+    "lng": "-116.9515856"
+  },
+  "formatted_address": "Post Falls, ID 83854, USA",
+  "country": "USA",
+  "place_id": "ChIJKVbzi2TCYVMRpH1z8HLmtFI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

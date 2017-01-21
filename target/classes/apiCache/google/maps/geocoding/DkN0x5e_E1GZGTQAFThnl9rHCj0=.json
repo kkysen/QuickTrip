@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.5827699",
+    "lng": "-117.409215"
+  },
+  "formatted_address": "Adelanto, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJO52bmEpjw4ARnMKlg5bPvhE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

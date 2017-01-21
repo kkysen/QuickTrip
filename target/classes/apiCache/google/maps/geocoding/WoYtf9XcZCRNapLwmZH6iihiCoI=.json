@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.4667034",
+    "lng": "-87.41390919999999"
+  },
+  "formatted_address": "Terre Haute, IN, USA",
+  "country": "USA",
+  "place_id": "ChIJ79yRikdlbYgRiO_jX2eoP4A",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

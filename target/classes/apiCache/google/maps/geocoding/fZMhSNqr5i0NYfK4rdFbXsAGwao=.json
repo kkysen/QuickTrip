@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "30.8327022",
+    "lng": "-83.2784851"
+  },
+  "formatted_address": "Valdosta, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJvUM_-v1m7ogRdj9S49PnCxc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

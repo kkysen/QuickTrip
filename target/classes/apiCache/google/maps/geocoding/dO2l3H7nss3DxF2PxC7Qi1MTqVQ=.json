@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.966673",
+    "lng": "-94.6169012"
+  },
+  "formatted_address": "Leawood, KS, USA",
+  "country": "USA",
+  "place_id": "ChIJP_Z9xcfpwIcRamlRQSVbLnU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

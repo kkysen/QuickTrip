@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.4489396",
+    "lng": "-82.7079605"
+  },
+  "formatted_address": "Sandusky, OH 44870, USA",
+  "country": "USA",
+  "place_id": "ChIJR0Ueq2BBOogRDzISZpCEKv8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

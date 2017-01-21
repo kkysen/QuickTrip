@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "29.7030024",
+    "lng": "-98.1244531"
+  },
+  "formatted_address": "New Braunfels, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJHQnM4-6bXIYRZzUSSiOc7Vk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.9556923",
+    "lng": "-80.0053176"
+  },
+  "formatted_address": "High Point, NC, USA",
+  "country": "USA",
+  "place_id": "ChIJ60G4cccLU4gR3xCZBC2K7vI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

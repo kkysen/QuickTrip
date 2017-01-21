@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.0112014",
+    "lng": "-80.14949009999999"
+  },
+  "formatted_address": "Hollywood, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJpzH_x2-p2YgRaLi3db561wc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

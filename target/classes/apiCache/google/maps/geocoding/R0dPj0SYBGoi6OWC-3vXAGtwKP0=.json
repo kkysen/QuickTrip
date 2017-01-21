@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.9778795",
+    "lng": "-91.6656232"
+  },
+  "formatted_address": "Cedar Rapids, IA, USA",
+  "country": "USA",
+  "place_id": "ChIJUUIvoHpf5IcRwN3mLENg7lU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

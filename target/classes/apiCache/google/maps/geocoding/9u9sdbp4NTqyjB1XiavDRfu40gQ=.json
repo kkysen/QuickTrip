@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.9550296",
+    "lng": "-87.94006569999999"
+  },
+  "formatted_address": "Bensenville, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJiXHgQZKzD4gR-D-v7o7FA_c",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

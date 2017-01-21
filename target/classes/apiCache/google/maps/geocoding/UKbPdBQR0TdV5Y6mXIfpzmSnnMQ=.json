@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "46.2856907",
+    "lng": "-119.2844621"
+  },
+  "formatted_address": "Richland, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJU7EhBLN6mFQR8T5dErZnkmY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

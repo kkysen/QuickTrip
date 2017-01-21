@@ -51,16 +51,16 @@ public abstract class GoogleApiPostRequest<R> extends GoogleApiRequest<R> {
         return deserializeFromReader(new InputStreamReader(postInputStream(url)));
     }
     
-//    @Override
-//    protected R deserializeFromUrl(final String hashContaininUrl) throws ClientProtocolException, IOException {
-//        final String realUrl = hashContaininUrl.replaceFirst("hashCode=-?[0-9]*&", "");
-//        return deserializeFromReader(new InputStreamReader(postInputStream(realUrl)));
-//    }
+    //    @Override
+    //    protected R deserializeFromUrl(final String hashContaininUrl) throws ClientProtocolException, IOException {
+    //        final String realUrl = hashContaininUrl.replaceFirst("hashCode=-?[0-9]*&", "");
+    //        return deserializeFromReader(new InputStreamReader(postInputStream(realUrl)));
+    //    }
     
-//    @Override
-//    protected final void reflectQuery() {
-//        // do nothing
-//    }
+    //    @Override
+    //    protected final void reflectQuery() {
+    //        // do nothing
+    //    }
     
     @Override
     protected final void modifyQuery(final QueryParams query) {

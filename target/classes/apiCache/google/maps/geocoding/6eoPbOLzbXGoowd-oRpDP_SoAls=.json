@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.1391927",
+    "lng": "-87.9289591"
+  },
+  "formatted_address": "Wheeling, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJ8zbpPz-7D4gRDx1lcqprT60",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.3107774",
+    "lng": "-80.25322489999999"
+  },
+  "formatted_address": "Parkland, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJeRR-aRkb2YgRXbJAhwvY5Hk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

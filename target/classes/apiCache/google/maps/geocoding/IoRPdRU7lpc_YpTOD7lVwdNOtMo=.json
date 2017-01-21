@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.3683798",
+    "lng": "-82.10764859999999"
+  },
+  "formatted_address": "Elyria, OH 44035, USA",
+  "country": "USA",
+  "place_id": "ChIJxSxaBBiZMIgRtrB_eqhK8KU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

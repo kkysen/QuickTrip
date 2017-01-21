@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.1461248",
+    "lng": "-82.7567679"
+  },
+  "formatted_address": "Tarpon Springs, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJ30IJb_2MwogRtyS_4Ax_KfQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

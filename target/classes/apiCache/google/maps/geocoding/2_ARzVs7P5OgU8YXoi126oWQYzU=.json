@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "29.1383165",
+    "lng": "-80.9956105"
+  },
+  "formatted_address": "Port Orange, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJX2zfTqvZ5ogRpkrKjln7a7k",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

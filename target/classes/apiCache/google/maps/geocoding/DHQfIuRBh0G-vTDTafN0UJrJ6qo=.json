@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.0768141",
+    "lng": "-80.6692352"
+  },
+  "formatted_address": "Indian Trail, NC, USA",
+  "country": "USA",
+  "place_id": "ChIJSf0hKxclVIgRVDpA_XEIa3Q",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

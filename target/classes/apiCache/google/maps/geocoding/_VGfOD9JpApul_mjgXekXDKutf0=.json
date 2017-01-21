@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.0394982",
+    "lng": "-84.20327669999999"
+  },
+  "formatted_address": "Troy, OH 45373, USA",
+  "country": "USA",
+  "place_id": "ChIJI12RHwN3P4gRBQuOglWXaQM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

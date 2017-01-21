@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "45.0791325",
+    "lng": "-93.14716670000001"
+  },
+  "formatted_address": "Shoreview, MN 55126, USA",
+  "country": "USA",
+  "place_id": "ChIJPfbRREEos1IRVtFDp-9jseE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.1662831",
+    "lng": "-87.9631308"
+  },
+  "formatted_address": "Buffalo Grove, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJ3xc-tw28D4gR1ebdNnlvuJM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

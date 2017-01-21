@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.6334247",
+    "lng": "-71.31617179999999"
+  },
+  "formatted_address": "Lowell, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJP00s4kmk44kRa5ZSf3715d0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

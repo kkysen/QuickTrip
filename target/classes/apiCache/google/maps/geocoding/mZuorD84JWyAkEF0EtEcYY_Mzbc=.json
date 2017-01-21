@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.1978624",
+    "lng": "-70.8736698"
+  },
+  "formatted_address": "Dover, NH, USA",
+  "country": "USA",
+  "place_id": "ChIJ54EkW9mW4okRsDEWlIbIFwc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.6177725",
+    "lng": "-114.5882607"
+  },
+  "formatted_address": "Blythe, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ5xLRa0Mh0YARriWyWuzCaiw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

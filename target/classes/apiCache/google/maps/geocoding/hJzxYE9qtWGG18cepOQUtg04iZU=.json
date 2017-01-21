@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.6365107",
+    "lng": "-123.1059282"
+  },
+  "formatted_address": "Albany, OR, USA",
+  "country": "USA",
+  "place_id": "ChIJv0fYEV4XwFQRAKdgafDZ1R8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

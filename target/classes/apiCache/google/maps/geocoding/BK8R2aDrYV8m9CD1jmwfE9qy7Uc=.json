@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.84229670000001",
+    "lng": "-90.704279"
+  },
+  "formatted_address": "Jonesboro, AR, USA",
+  "country": "USA",
+  "place_id": "ChIJL-zX3N8o1IcR5u4R_rT1NGA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

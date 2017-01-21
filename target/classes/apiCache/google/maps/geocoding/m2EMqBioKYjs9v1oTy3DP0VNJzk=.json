@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.5933696",
+    "lng": "-87.3464271"
+  },
+  "formatted_address": "Gary, IN, USA",
+  "country": "USA",
+  "place_id": "ChIJ36TrSWnCEYgRRRbQQZhzwz4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

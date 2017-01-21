@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.3396367",
+    "lng": "-122.7010984"
+  },
+  "formatted_address": "Rohnert Park, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJd_ag-mpKhIARx1I-A6I4iCQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

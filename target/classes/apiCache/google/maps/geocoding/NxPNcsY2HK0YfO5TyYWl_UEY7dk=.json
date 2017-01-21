@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.1420358",
+    "lng": "-81.79481029999999"
+  },
+  "formatted_address": "Naples, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJrdfCc5vh2ogRqpos1xhTP2c",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

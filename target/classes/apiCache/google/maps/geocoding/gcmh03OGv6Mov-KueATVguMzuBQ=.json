@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.8500284",
+    "lng": "-88.3125738"
+  },
+  "formatted_address": "Batavia, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJQ-DbM7j8DogRJCXW8TgXle4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

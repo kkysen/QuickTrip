@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.2638324",
+    "lng": "-122.0230146"
+  },
+  "formatted_address": "Saratoga, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJqT9-TMRKjoARzFYL1IfICIM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

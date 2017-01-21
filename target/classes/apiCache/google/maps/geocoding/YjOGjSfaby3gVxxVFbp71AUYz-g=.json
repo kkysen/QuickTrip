@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.7003208",
+    "lng": "-70.3002024"
+  },
+  "formatted_address": "Barnstable, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJ5cWOf7Yz-4kRc20Tu-9Iduo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -17,7 +17,7 @@ import com.google.gson.stream.JsonWriter;
  * @author Khyber Sen
  */
 public abstract class TypeReaderAdapter<T> extends TypeAdapterReaderHelper<T> {
-        
+    
     private final Map<String, IOFunction<JsonReader, Object>> propertyReaders = new HashMap<>();
     
     protected final void addPropertyReader(final String name,

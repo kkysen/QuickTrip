@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.40843",
+    "lng": "-71.0536625"
+  },
+  "formatted_address": "Everett, MA 02149, USA",
+  "country": "USA",
+  "place_id": "ChIJabkkUApx44kRwFMuh8-HEQc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

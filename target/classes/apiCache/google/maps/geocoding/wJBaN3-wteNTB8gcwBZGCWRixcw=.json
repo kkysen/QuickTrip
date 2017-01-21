@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.826489",
+    "lng": "-74.10680909999999"
+  },
+  "formatted_address": "Rutherford, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJkUqt1aP4wokRAB032V1oBsw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

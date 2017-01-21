@@ -100,7 +100,8 @@ class Type<T> {
     }
     
     public List<String> toStringList(final List<Field> fields, final T t, final String sep) {
-        final Set<Map.Entry<String, String>> stringFieldEntries = getAllStringFieldEntries(fields, t).entrySet();
+        final Set<Map.Entry<String, String>> stringFieldEntries = getAllStringFieldEntries(fields,
+                t).entrySet();
         final List<String> stringList = new ArrayList<>(fields.size());
         for (final Map.Entry<String, String> entry : stringFieldEntries) {
             stringList.add(entry.getKey() + sep + entry.getValue());

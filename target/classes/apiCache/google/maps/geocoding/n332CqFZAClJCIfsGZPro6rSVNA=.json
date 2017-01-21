@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.94781580000001",
+    "lng": "-90.3712395"
+  },
+  "formatted_address": "Galesburg, IL 61401, USA",
+  "country": "USA",
+  "place_id": "ChIJuSuWGuW94YcRMJ9m0RBCDYA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

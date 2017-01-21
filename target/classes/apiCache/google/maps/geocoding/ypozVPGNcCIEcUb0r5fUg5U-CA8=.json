@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.0286093",
+    "lng": "-96.83139779999999"
+  },
+  "formatted_address": "Junction City, KS, USA",
+  "country": "USA",
+  "place_id": "ChIJTdVc-0ZJvIcRC9opO4xa54I",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

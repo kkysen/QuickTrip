@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.5999998",
+    "lng": "-81.33923519999999"
+  },
+  "formatted_address": "Winter Park, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJxSmm2xtw54gRIO71LJWCP8Y",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

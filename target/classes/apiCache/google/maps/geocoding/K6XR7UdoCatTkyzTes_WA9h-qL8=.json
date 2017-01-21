@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.2819461",
+    "lng": "-118.4389719"
+  },
+  "formatted_address": "San Fernando, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ70i_U1GQwoAR17cofW3ioUs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

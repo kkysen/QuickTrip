@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.7607793",
+    "lng": "-111.8910474"
+  },
+  "formatted_address": "Salt Lake City, UT, USA",
+  "country": "USA",
+  "place_id": "ChIJ7THRiJQ9UocRyjFNSKC3U1s",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

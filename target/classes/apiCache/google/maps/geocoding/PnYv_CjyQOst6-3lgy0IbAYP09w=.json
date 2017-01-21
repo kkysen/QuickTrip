@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.7589478",
+    "lng": "-84.1916069"
+  },
+  "formatted_address": "Dayton, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJAxTdrtWAQIgR5EwO8pLjQKY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

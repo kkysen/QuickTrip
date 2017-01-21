@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.4901024",
+    "lng": "-71.31282849999999"
+  },
+  "formatted_address": "Newport, RI, USA",
+  "country": "USA",
+  "place_id": "ChIJa5cJBbe65YkRIW8vLPeWXs4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

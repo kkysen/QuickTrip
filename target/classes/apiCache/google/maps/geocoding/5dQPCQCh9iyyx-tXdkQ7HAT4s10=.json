@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.4774818",
+    "lng": "-104.9013617"
+  },
+  "formatted_address": "Windsor, CO, USA",
+  "country": "USA",
+  "place_id": "ChIJsb6n3U5KaYcRTHfrdZVqsgU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

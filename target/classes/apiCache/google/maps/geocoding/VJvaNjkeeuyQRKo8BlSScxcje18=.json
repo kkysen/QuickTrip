@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.4459271",
+    "lng": "-74.42293409999999"
+  },
+  "formatted_address": "Middletown, NY 10940, USA",
+  "country": "USA",
+  "place_id": "ChIJ0_OJn8Qyw4kRYslMaAW7okk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

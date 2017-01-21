@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.0629915",
+    "lng": "-88.12271989999999"
+  },
+  "formatted_address": "Hoffman Estates, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJxfOAMxgGD4gRbnYjjZNLjuQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

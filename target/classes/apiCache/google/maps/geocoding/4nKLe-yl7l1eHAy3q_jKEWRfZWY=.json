@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.3875968",
+    "lng": "-71.0994968"
+  },
+  "formatted_address": "Somerville, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJZeH1eyl344kRA3v52Jl3kHo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

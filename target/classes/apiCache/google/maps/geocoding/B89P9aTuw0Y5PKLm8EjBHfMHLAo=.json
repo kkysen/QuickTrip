@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.7974273",
+    "lng": "-121.2160526"
+  },
+  "formatted_address": "Manteca, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJCUWMJENAkIARjMxOe6Wp4p0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

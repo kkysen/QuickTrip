@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.1074198",
+    "lng": "-122.5697032"
+  },
+  "formatted_address": "Novato, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJjZ6kWd-7hYARSbhzxmcUtwU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

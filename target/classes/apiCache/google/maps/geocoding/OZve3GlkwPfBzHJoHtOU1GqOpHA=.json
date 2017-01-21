@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.0466779",
+    "lng": "-97.34503649999999"
+  },
+  "formatted_address": "Newton, KS, USA",
+  "country": "USA",
+  "place_id": "ChIJK4MPG3ATu4cRNLO6ZTyyank",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

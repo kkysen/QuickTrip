@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.6454116",
+    "lng": "-85.3782795"
+  },
+  "formatted_address": "Opelika, AL, USA",
+  "country": "USA",
+  "place_id": "ChIJA-N6gCSTjIgRJUTlNzGjC1E",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

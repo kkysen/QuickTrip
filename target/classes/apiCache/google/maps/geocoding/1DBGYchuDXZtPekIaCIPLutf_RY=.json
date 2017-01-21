@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.1808392",
+    "lng": "-118.3089661"
+  },
+  "formatted_address": "Burbank, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJlcUYKBWVwoAR1IofkK-RdzA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.4605917",
+    "lng": "-83.1346478"
+  },
+  "formatted_address": "Ferndale, MI 48220, USA",
+  "country": "USA",
+  "place_id": "ChIJ-YlP2uLOJIgRXpFsGNpiphs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

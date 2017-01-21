@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.30427780000001",
+    "lng": "-73.9923596"
+  },
+  "formatted_address": "Long Branch, NJ 07740, USA",
+  "country": "USA",
+  "place_id": "ChIJsREPHhMuwokRpUZ4Bg5JQlA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

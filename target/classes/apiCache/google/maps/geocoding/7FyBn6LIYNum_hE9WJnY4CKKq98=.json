@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.6845104",
+    "lng": "-80.6675577"
+  },
+  "formatted_address": "Belle Glade, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJJZ4BGn1Q2YgRIKdkLfzdBwc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

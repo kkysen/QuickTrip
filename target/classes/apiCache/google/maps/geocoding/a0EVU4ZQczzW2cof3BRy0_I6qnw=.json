@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.4553461",
+    "lng": "-76.5104973"
+  },
+  "formatted_address": "Oswego, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJEapKYeRi14kR6mYAw46fM9w",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

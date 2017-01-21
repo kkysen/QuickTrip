@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "45.0060767",
+    "lng": "-93.15661070000002"
+  },
+  "formatted_address": "Roseville, MN 55113, USA",
+  "country": "USA",
+  "place_id": "ChIJ1_-7rbkrs1IRLzKVMYFsANM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

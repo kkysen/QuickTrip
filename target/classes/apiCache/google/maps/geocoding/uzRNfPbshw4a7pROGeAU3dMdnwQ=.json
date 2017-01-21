@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.4850848",
+    "lng": "-80.14257809999999"
+  },
+  "formatted_address": "Fairmont, WV 26554, USA",
+  "country": "USA",
+  "place_id": "ChIJcXFfqtp9SogRa5FHTSFxd9o",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

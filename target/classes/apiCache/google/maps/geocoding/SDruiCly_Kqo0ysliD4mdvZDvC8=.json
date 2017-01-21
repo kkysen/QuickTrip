@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "31.9973456",
+    "lng": "-102.0779146"
+  },
+  "formatted_address": "Midland, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJD9GlkTlh-YYR-RsGf-HtFUc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

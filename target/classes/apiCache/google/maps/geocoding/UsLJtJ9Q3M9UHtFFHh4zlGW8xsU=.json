@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "45.3573429",
+    "lng": "-122.6067583"
+  },
+  "formatted_address": "Oregon City, OR 97045, USA",
+  "country": "USA",
+  "place_id": "ChIJpbwTNaZ5lVQRrZW-t-PxZiE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

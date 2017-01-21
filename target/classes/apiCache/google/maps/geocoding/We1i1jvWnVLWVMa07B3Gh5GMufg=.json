@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.7973962",
+    "lng": "-93.5272861"
+  },
+  "formatted_address": "Shakopee, MN, USA",
+  "country": "USA",
+  "place_id": "ChIJ2cWktVgM9ocRmuScS_2coLE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

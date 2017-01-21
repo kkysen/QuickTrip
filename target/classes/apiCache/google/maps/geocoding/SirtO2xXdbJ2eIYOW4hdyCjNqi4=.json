@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.0036719",
+    "lng": "-80.34700900000001"
+  },
+  "formatted_address": "New Castle, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJqYcJzGeOM4gRErHxDiFdW2U",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

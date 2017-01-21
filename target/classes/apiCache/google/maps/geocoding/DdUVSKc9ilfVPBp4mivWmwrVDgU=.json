@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.1283442",
+    "lng": "-117.2086513"
+  },
+  "formatted_address": "Highland, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJB-BI9J5M24ARDYYeQ0Bv1NY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

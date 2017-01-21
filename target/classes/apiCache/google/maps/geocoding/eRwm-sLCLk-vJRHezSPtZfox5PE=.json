@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.1394858",
+    "lng": "-83.1782587"
+  },
+  "formatted_address": "Trenton, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJK27CchE5O4gR6zbBKZP5Xg8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

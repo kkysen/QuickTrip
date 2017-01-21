@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.4454641",
+    "lng": "-121.8232958"
+  },
+  "formatted_address": "Dixon, CA 95620, USA",
+  "country": "USA",
+  "place_id": "ChIJ-SScZZ4lhYARpo54GqppgpQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

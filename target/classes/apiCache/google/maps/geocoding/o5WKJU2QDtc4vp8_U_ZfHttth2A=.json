@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.3861159",
+    "lng": "-80.7419984"
+  },
+  "formatted_address": "Cocoa, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJ-5fwup2r4IgRHnBzpu2e8Cc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

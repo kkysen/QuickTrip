@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.8084605",
+    "lng": "-98.1128223"
+  },
+  "formatted_address": "Mineral Wells, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJRZ0UV2D1UYYRtddVxzoysWU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.7795455",
+    "lng": "-74.02375119999999"
+  },
+  "formatted_address": "Union City, NJ 07087, USA",
+  "country": "USA",
+  "place_id": "ChIJlS0E8YJXwokRgBdC98AFoAs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

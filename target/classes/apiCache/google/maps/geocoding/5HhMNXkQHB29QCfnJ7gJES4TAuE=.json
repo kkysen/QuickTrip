@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.3031837",
+    "lng": "-77.4605399"
+  },
+  "formatted_address": "Fredericksburg, VA 22401, USA",
+  "country": "USA",
+  "place_id": "ChIJJeDquuvBtokRoZGmIQpFpn8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

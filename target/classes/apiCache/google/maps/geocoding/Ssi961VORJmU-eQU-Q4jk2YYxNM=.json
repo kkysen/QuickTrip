@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.5862583",
+    "lng": "-98.38987259999999"
+  },
+  "formatted_address": "Hastings, NE, USA",
+  "country": "USA",
+  "place_id": "ChIJHxFzwWChmYcRWoZX_QPYTdk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

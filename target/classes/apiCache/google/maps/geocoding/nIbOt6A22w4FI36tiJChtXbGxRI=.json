@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.5186678",
+    "lng": "-97.63226390000001"
+  },
+  "formatted_address": "Bethany, OK, USA",
+  "country": "USA",
+  "place_id": "ChIJaZK_z2QFsocRh_LCoA6g9tI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

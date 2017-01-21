@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.5361559",
+    "lng": "-100.9598709"
+  },
+  "formatted_address": "Pampa, TX 79065, USA",
+  "country": "USA",
+  "place_id": "ChIJ_6lJ-TRIB4cRaBDM36yMkJI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.6283928",
+    "lng": "-84.15938179999999"
+  },
+  "formatted_address": "Centerville, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJW2OqA9dYQIgRaIwsVS1hBbM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

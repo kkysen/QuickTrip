@@ -19,21 +19,21 @@ public class WholeNumberField extends TextField {
     private ObjectProperty<Long> pMax;
     
     @SuppressWarnings("unchecked")
-	public WholeNumberField(final long max) {
+    public WholeNumberField(final long max) {
         this.max = max;
         maxString = String.valueOf(max);
         
         //For fxgraph support
         /*try {
-			pMax = JavaBeanObjectPropertyBuilder.create()
-					.bean(pMax)
-					.name("max")
-					.getter(WholeNumberField.class.getMethod("getPMax"))
-					.setter(WholeNumberField.class.getMethod("setPMax", Long.class))
-					.build();
-		} catch (NoSuchMethodException e) {
-			e.printStackTrace();
-		}*/
+        	pMax = JavaBeanObjectPropertyBuilder.create()
+        			.bean(pMax)
+        			.name("max")
+        			.getter(WholeNumberField.class.getMethod("getPMax"))
+        			.setter(WholeNumberField.class.getMethod("setPMax", Long.class))
+        			.build();
+        } catch (NoSuchMethodException e) {
+        	e.printStackTrace();
+        }*/
     }
     
     public WholeNumberField() {
@@ -76,19 +76,19 @@ public class WholeNumberField extends TextField {
     }
     
     public void setPMax(final Long Max) {
-    	System.out.println("IT WORKS");
+        System.out.println("IT WORKS");
     }
     
     public void setMax(final long max) {
-    	this.max = max;
-    	maxString = String.valueOf(max);
+        this.max = max;
+        maxString = String.valueOf(max);
     }
     
     @Override
     public void clear() {
-    	
-    	super.clear();
-    	final WholeNumberField field = this;
+        
+        super.clear();
+        final WholeNumberField field = this;
     }
     
 }

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.6103334",
+    "lng": "-88.31476099999999"
+  },
+  "formatted_address": "Murray, KY 42071, USA",
+  "country": "USA",
+  "place_id": "ChIJ92xYe5hSeogReMMEZkJ2ums",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

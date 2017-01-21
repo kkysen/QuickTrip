@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.8957957",
+    "lng": "-117.0172826"
+  },
+  "formatted_address": "Barstow, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJVZRUTENwxIARd-LvKjMsQRs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

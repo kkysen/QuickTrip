@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.007765",
+    "lng": "-80.2962555"
+  },
+  "formatted_address": "Pembroke Pines, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJq8aMv5im2YgRNTaW0ULP4ps",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

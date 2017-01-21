@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.9941938",
+    "lng": "-88.29229959999999"
+  },
+  "formatted_address": "South Elgin, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJf1QrxJkED4gRrkTEQfS2OlI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

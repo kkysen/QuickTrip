@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.0200114",
+    "lng": "-117.9495083"
+  },
+  "formatted_address": "La Puente, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJGbd3VkbWwoARlwhuaE5h9TM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

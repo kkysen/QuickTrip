@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.03398620000001",
+    "lng": "-73.76290969999999"
+  },
+  "formatted_address": "White Plains, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJ2TWj4iKUwokRbPxbGhAEFFQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

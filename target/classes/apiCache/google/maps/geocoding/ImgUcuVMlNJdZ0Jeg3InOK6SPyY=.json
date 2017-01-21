@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.7766642",
+    "lng": "-96.79698789999999"
+  },
+  "formatted_address": "Dallas, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJS5dFe_cZTIYRj2dH9qSb7Lk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

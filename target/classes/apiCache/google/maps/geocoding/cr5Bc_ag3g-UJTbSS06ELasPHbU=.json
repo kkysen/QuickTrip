@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.1250929",
+    "lng": "-72.749538"
+  },
+  "formatted_address": "Westfield, MA 01085, USA",
+  "country": "USA",
+  "place_id": "ChIJETbhTW8f54kRp3YOV7BgSMY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

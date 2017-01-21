@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.4495065",
+    "lng": "-97.3967019"
+  },
+  "formatted_address": "Midwest City, OK, USA",
+  "country": "USA",
+  "place_id": "ChIJIZKHQGY8socRV8VySq4Wj9E",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

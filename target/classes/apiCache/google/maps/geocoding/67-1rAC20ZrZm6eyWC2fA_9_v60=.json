@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.67176480000001",
+    "lng": "-72.94927029999999"
+  },
+  "formatted_address": "Bristol, CT 06010, USA",
+  "country": "USA",
+  "place_id": "ChIJp6GRxEu654kRJwy7dYth-WI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

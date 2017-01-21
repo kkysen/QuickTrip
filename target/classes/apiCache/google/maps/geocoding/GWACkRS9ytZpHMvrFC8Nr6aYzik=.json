@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.485921",
+    "lng": "-73.0506972"
+  },
+  "formatted_address": "Naugatuck, CT 06770, USA",
+  "country": "USA",
+  "place_id": "ChIJ3dSom1rC54kRI7J-xmz4P1U",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

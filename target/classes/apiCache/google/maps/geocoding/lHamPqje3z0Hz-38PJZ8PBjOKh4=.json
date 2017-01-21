@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.9304352",
+    "lng": "-84.37331469999999"
+  },
+  "formatted_address": "Sandy Springs, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJMcKiwB0M9YgRHd4CZ_L66ak",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

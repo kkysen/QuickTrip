@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.8406946",
+    "lng": "-83.6324022"
+  },
+  "formatted_address": "Macon, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJDeOBiEv484gRoaS_8Tx9se4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

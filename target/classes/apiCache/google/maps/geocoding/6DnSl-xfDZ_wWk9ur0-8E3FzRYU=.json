@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "31.3271189",
+    "lng": "-89.29033919999999"
+  },
+  "formatted_address": "Hattiesburg, MS, USA",
+  "country": "USA",
+  "place_id": "ChIJ3yio1UncnIgRyrUcLZK_sXQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

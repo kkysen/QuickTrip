@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.5023028",
+    "lng": "-97.9578128"
+  },
+  "formatted_address": "Duncan, OK, USA",
+  "country": "USA",
+  "place_id": "ChIJxULOEUdZrYcRZeFlJJgk048",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

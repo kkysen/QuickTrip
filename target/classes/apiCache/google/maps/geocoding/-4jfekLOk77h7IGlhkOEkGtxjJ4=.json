@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.19475389999999",
+    "lng": "-92.5832496"
+  },
+  "formatted_address": "Kirksville, MO 63501, USA",
+  "country": "USA",
+  "place_id": "ChIJIwC7QOYR6IcRAtGC45SdrnQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

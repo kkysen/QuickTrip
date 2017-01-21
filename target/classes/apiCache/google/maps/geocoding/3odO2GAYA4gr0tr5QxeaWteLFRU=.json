@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.9974219",
+    "lng": "-121.7124536"
+  },
+  "formatted_address": "Oakley, CA 94561, USA",
+  "country": "USA",
+  "place_id": "ChIJGWVgnPBVhYARqMFDEL11yXc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

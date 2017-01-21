@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.8358492",
+    "lng": "-118.3406288"
+  },
+  "formatted_address": "Torrance, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ096zWNFK3YARHmYKTm7TS60",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

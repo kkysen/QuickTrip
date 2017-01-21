@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.41895660000001",
+    "lng": "-80.58951669999999"
+  },
+  "formatted_address": "Weirton, WV 26062, USA",
+  "country": "USA",
+  "place_id": "ChIJ7S5QMr0wNIgRYX6C_6eLca0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

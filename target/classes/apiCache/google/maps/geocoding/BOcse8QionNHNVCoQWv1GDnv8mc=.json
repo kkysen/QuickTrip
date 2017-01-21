@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.0835407",
+    "lng": "-81.09983419999999"
+  },
+  "formatted_address": "Savannah, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJWQbyePx1-4gRvCBgA1FnDE4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

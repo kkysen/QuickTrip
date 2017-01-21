@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.6818745",
+    "lng": "-121.7680088"
+  },
+  "formatted_address": "Livermore, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJcSBaOIblj4ARcdhryzEi05g",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

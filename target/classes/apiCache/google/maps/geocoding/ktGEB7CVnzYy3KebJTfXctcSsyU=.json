@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.6709727",
+    "lng": "-80.4742261"
+  },
+  "formatted_address": "Salisbury, NC, USA",
+  "country": "USA",
+  "place_id": "ChIJa5SpJdfyU4gRyxNp5DrINpY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

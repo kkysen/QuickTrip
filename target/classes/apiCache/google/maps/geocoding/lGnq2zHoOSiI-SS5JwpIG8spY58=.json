@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.654656",
+    "lng": "-122.4077498"
+  },
+  "formatted_address": "South San Francisco, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ7-z-QwV5j4ARXTNW53l1Ovg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

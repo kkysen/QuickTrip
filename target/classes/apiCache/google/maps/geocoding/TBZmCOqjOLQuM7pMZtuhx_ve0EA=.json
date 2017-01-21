@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.2225668",
+    "lng": "-97.4394777"
+  },
+  "formatted_address": "Norman, OK, USA",
+  "country": "USA",
+  "place_id": "ChIJ5-6Tf7ZjsocR-Fyoqz8jW0Q",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

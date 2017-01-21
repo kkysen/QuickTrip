@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.3111112",
+    "lng": "-94.92246369999999"
+  },
+  "formatted_address": "Leavenworth, KS, USA",
+  "country": "USA",
+  "place_id": "ChIJ5fY80gB8wIcRk5ZwvV8FvuA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

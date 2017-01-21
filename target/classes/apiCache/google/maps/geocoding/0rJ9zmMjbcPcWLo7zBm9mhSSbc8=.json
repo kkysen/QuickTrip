@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.0558235",
+    "lng": "-95.68901849999999"
+  },
+  "formatted_address": "Topeka, KS, USA",
+  "country": "USA",
+  "place_id": "ChIJKXrs2uQCv4cR8KfjatDnK74",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

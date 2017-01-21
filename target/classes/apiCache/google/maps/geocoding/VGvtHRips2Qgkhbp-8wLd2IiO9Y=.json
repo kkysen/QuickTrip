@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.0664167",
+    "lng": "-87.9372908"
+  },
+  "formatted_address": "Mt Prospect, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJM2JHxpa6D4gRGCkbLYZQIsQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

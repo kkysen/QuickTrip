@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.132576",
+    "lng": "-97.6311006"
+  },
+  "formatted_address": "San Benito, TX 78586, USA",
+  "country": "USA",
+  "place_id": "ChIJQ82crl-Db4YR4Rsqk7NEeVc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

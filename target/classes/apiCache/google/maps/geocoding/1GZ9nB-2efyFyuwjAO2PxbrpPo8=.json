@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.079273",
+    "lng": "-85.1393513"
+  },
+  "formatted_address": "Fort Wayne, IN, USA",
+  "country": "USA",
+  "place_id": "ChIJS4Ei_93kFYgRk_dCdhR7B4A",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

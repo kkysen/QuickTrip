@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.4487364",
+    "lng": "-99.73314390000002"
+  },
+  "formatted_address": "Abilene, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJRWkGKjmOVoYRX6kjIr_m2Qc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

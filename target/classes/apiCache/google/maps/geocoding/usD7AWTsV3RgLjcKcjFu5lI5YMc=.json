@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.7153424",
+    "lng": "-80.0533746"
+  },
+  "formatted_address": "West Palm Beach, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJwa2VtczV2IgR3mvhH7XH7xU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

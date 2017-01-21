@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.6589912",
+    "lng": "-74.3473717"
+  },
+  "formatted_address": "Westfield, NJ 07090, USA",
+  "country": "USA",
+  "place_id": "ChIJYU6Pmu6ww4kRdRs4-Crn5Zw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

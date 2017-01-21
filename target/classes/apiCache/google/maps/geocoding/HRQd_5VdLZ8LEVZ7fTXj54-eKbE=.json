@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.7995738",
+    "lng": "-97.26918169999999"
+  },
+  "formatted_address": "Haltom City, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJtfr1hj5xToYRwAGMp6xUxIQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

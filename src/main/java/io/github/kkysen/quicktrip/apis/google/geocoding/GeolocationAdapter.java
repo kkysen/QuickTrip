@@ -10,14 +10,13 @@ import java.util.Map;
 
 import com.google.gson.stream.JsonReader;
 
-
 /**
  * 
  * 
  * @author Khyber Sen
  */
 public class GeolocationAdapter extends TypeReaderAdapter<Geolocation> {
-
+    
     private static final LatLngAdapter latLngAdapter = new LatLngAdapter();
     
     private Geolocation geolocation;
@@ -49,7 +48,6 @@ public class GeolocationAdapter extends TypeReaderAdapter<Geolocation> {
         addPropertyReader("formatted_address", this::readAddress);
         addPropertyReader("place_id", this::readPlaceId);
     }
-
     
     @Override
     public void read() throws IOException, MissingInformationException {

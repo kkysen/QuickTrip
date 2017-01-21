@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.2917069",
+    "lng": "-85.5872286"
+  },
+  "formatted_address": "Kalamazoo, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJuZIxSXmdF4gRCTBXSdL4fNo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

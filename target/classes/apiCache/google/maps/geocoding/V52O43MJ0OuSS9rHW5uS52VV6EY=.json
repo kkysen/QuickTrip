@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.32674069999999",
+    "lng": "-78.9219698"
+  },
+  "formatted_address": "Johnstown, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJ-YXbqi8Ry4kRFeBP5xHlsZQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

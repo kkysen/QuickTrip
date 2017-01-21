@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.1164204",
+    "lng": "-88.2433829"
+  },
+  "formatted_address": "Champaign, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJG2mX3o3QDIgRz791tEd49TA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

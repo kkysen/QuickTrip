@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.6035669",
+    "lng": "-98.39592909999999"
+  },
+  "formatted_address": "Lawton, OK, USA",
+  "country": "USA",
+  "place_id": "ChIJRQ0hWeIerYcRUk5y8sb6LGE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

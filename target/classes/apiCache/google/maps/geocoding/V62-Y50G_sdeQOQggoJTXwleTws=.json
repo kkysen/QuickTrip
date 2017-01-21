@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.2445263",
+    "lng": "-80.206436"
+  },
+  "formatted_address": "Margate, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJ16VVFesE2YgRE82PxHdJykQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

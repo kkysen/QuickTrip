@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.2382474",
+    "lng": "-122.040244"
+  },
+  "formatted_address": "Suisun City, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJgTP535sVhYARgPQ5w8ms6QM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

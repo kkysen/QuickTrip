@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "45.2611",
+    "lng": "-93.45"
+  },
+  "formatted_address": "Ramsey, MN 55303, USA",
+  "country": "USA",
+  "place_id": "ChIJUY-8SEMVs1IRz6-0Ye4bhI4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

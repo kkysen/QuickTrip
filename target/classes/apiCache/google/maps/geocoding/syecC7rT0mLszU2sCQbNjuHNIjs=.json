@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.4047987",
+    "lng": "-103.2052272"
+  },
+  "formatted_address": "Clovis, NM 88101, USA",
+  "country": "USA",
+  "place_id": "ChIJERANc37eAocRP1vRsKI7dzY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.1298517",
+    "lng": "-80.4089389"
+  },
+  "formatted_address": "Christiansburg, VA 24073, USA",
+  "country": "USA",
+  "place_id": "ChIJwY2LMAOTTYgRYznFCU2i8oI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

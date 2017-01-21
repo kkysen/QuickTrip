@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.1200325",
+    "lng": "-87.8611531"
+  },
+  "formatted_address": "Kankakee, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJK4qQtbLCDYgR3KKCyKHcFP4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

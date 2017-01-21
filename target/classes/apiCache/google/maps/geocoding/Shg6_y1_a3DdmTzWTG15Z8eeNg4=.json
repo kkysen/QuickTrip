@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.1192068",
+    "lng": "-117.086421"
+  },
+  "formatted_address": "Escondido, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJe0PCgV7z24AR38WWdw_I0QE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

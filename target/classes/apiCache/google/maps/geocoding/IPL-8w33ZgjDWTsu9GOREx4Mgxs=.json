@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.4234599",
+    "lng": "-120.3103494"
+  },
+  "formatted_address": "Wenatchee, WA 98801, USA",
+  "country": "USA",
+  "place_id": "ChIJQ08F3UPMm1QRkNEzRgJjbnQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

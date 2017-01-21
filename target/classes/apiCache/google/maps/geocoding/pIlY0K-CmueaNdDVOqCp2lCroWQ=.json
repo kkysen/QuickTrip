@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.4789246",
+    "lng": "-87.45476050000001"
+  },
+  "formatted_address": "Schererville, IN, USA",
+  "country": "USA",
+  "place_id": "ChIJhdtWjfLjEYgROkymlhrqFdw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

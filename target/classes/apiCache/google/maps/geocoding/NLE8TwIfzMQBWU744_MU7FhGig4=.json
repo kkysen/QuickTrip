@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.9775142",
+    "lng": "-118.1870156"
+  },
+  "formatted_address": "Bell, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJkW_58pTOwoARGiQ2VqD0rhA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.6789476",
+    "lng": "-115.4988834"
+  },
+  "formatted_address": "Calexico, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJBZvPqtJl14ARl7hvYSwwTl4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.5649781",
+    "lng": "-111.8389726"
+  },
+  "formatted_address": "Sandy, UT, USA",
+  "country": "USA",
+  "place_id": "ChIJSW5OwfhkUocRmVRxEMt64l8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

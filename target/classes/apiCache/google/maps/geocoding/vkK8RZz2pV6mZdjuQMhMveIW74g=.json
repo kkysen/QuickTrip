@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.4169974",
+    "lng": "-81.6059581"
+  },
+  "formatted_address": "Garfield Heights, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJO5ymDYDjMIgRjsJElP-wEho",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

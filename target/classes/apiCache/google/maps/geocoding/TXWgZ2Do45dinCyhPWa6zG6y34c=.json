@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.6804893",
+    "lng": "-73.4553119"
+  },
+  "formatted_address": "Massapequa Park, NY 11762, USA",
+  "country": "USA",
+  "place_id": "ChIJBwrjXYB_wokRWXeRXuGRjS0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

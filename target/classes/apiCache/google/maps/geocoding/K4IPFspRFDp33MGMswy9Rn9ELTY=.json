@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.8823215",
+    "lng": "-74.08319709999999"
+  },
+  "formatted_address": "Lodi, NJ 07644, USA",
+  "country": "USA",
+  "place_id": "ChIJn6bxvnn5wokREsR-jnDGfeE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

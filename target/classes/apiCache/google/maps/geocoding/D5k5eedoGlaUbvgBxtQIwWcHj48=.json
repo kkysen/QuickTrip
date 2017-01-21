@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.3381252",
+    "lng": "-79.9789404"
+  },
+  "formatted_address": "Baldwin, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJSyQf-IDwNIgRhOEQ_8Kw620",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

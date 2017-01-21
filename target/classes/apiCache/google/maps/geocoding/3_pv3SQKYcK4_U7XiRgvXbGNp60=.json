@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.88644679999999",
+    "lng": "-78.8783689"
+  },
+  "formatted_address": "Buffalo, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJoeXfUmES04kRcYEfGKUEI5g",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

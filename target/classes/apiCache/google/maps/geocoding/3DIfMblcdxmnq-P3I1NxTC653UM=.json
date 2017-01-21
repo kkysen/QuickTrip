@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.9167654",
+    "lng": "-74.17181099999999"
+  },
+  "formatted_address": "Paterson, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJgUIFaTT8wokR2iT7x2DRyr4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

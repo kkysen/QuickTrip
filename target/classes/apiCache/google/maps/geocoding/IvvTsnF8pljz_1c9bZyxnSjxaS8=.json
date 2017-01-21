@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.01602930000001",
+    "lng": "-92.40830220000001"
+  },
+  "formatted_address": "Ottumwa, IA 52501, USA",
+  "country": "USA",
+  "place_id": "ChIJi8oJXSkc5ocRuhFPiDkPnBw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.5941238",
+    "lng": "-119.3409457"
+  },
+  "formatted_address": "Wasco, CA 93280, USA",
+  "country": "USA",
+  "place_id": "ChIJkwGqB2L-6oARpRr5lK_2yAM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

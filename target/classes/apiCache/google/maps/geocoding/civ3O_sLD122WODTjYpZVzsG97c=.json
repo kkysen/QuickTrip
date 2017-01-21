@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.1433723",
+    "lng": "-117.1661449"
+  },
+  "formatted_address": "San Marcos, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJd_xUiKiK24ARR3u05cNO57A",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

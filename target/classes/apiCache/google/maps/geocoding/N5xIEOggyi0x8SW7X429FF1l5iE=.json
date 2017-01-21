@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.3968557",
+    "lng": "-84.59634319999999"
+  },
+  "formatted_address": "Peachtree City, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJm1Zr3pHB9IgRqkZ_PWCs_ZQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

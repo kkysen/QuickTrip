@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.6337136",
+    "lng": "-74.4073736"
+  },
+  "formatted_address": "Plainfield, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJ5fwnzfm5w4kRN7sWzWrnYio",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.742551",
+    "lng": "-84.1052256"
+  },
+  "formatted_address": "Lima, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJoyp4B0nyPogRwimm_62QoXA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

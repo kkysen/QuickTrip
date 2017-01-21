@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.2411499",
+    "lng": "-83.61299389999999"
+  },
+  "formatted_address": "Ypsilanti, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJrfq42W2oPIgRUTRKX0D3xvk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.240056",
+    "lng": "-81.44066699999999"
+  },
+  "formatted_address": "Hudson, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJNTqF3svZMIgRrdf5T8KCdZE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

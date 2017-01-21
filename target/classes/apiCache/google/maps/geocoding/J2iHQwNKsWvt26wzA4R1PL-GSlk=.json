@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.9479786",
+    "lng": "-122.0607963"
+  },
+  "formatted_address": "Pleasant Hill, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJEzRzzFJhhYARGTDJkLuzUEI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

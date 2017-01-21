@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.4208305",
+    "lng": "-119.6981901"
+  },
+  "formatted_address": "Santa Barbara, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ1YMtb8cU6YARSHa612Q60cg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

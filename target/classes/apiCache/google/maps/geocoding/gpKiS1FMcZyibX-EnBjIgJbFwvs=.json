@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "29.0258191",
+    "lng": "-80.9269984"
+  },
+  "formatted_address": "New Smyrna Beach, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJW7YAVysp54gRfMg7Njkyu8E",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

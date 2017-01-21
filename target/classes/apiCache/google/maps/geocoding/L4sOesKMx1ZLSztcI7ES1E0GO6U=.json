@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.1339449",
+    "lng": "-81.48455849999999"
+  },
+  "formatted_address": "Cuyahoga Falls, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJaRso9X3YMIgRMub3IcP-tHQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

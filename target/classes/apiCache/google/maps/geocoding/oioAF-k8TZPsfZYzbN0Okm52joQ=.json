@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.9547861",
+    "lng": "-82.81211909999999"
+  },
+  "formatted_address": "Reynoldsburg, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJWRBj_QliOIgRR6j7J5EM2p8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

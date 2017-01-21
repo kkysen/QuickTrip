@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.2949636",
+    "lng": "-93.268827"
+  },
+  "formatted_address": "Faribault, MN 55021, USA",
+  "country": "USA",
+  "place_id": "ChIJWZcPdED39ocR-3T7hMbGeEM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

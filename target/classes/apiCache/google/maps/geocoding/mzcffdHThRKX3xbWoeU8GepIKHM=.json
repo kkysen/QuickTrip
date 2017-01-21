@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.6822756",
+    "lng": "-91.59606429999999"
+  },
+  "formatted_address": "Coralville, IA, USA",
+  "country": "USA",
+  "place_id": "ChIJ_wLmGu1D5IcRbKUV6bJiap8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.7394103",
+    "lng": "-93.12577230000001"
+  },
+  "formatted_address": "Rosemount, MN 55068, USA",
+  "country": "USA",
+  "place_id": "ChIJOwP4ntU29ocR-EgyWESNTfg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

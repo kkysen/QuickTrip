@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.9700171",
+    "lng": "-73.71763369999999"
+  },
+  "formatted_address": "Harrison, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJRXu0a-mWwokRjJQmycJ8bFQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

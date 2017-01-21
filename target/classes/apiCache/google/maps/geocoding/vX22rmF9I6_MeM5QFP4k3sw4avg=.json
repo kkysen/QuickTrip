@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.4914236",
+    "lng": "-87.6744891"
+  },
+  "formatted_address": "Park Forest, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJiSeCMREaDogRWhqGSLc3X4o",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.049365",
+    "lng": "-122.1585777"
+  },
+  "formatted_address": "Benicia, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJM2Ay-7VthYARXaGvVQcLLpw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

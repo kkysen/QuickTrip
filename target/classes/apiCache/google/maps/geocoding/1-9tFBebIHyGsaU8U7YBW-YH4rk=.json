@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.1540091",
+    "lng": "-97.06473219999999"
+  },
+  "formatted_address": "Corinth, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJN12tkSM1TIYRgLTs_Q4DhRI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

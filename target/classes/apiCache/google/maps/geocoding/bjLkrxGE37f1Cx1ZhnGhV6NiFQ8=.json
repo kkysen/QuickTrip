@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.933692",
+    "lng": "-72.2781409"
+  },
+  "formatted_address": "Keene, NH, USA",
+  "country": "USA",
+  "place_id": "ChIJcxohhHh04YkRvfPCx65MU6A",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

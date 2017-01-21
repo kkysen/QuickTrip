@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.244039",
+    "lng": "-77.41026069999999"
+  },
+  "formatted_address": "Colonial Heights, VA 23834, USA",
+  "country": "USA",
+  "place_id": "ChIJ6aeCQUwIsYkRq3DhonRjUqA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

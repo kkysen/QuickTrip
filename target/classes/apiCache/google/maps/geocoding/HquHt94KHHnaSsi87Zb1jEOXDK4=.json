@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.6138253",
+    "lng": "-122.4869194"
+  },
+  "formatted_address": "Pacifica, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJeZZK0S93j4AROMShF38vsEQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

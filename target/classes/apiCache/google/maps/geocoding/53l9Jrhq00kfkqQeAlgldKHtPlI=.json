@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.5349112",
+    "lng": "-119.7526886"
+  },
+  "formatted_address": "Sparks, NV, USA",
+  "country": "USA",
+  "place_id": "ChIJk2yJCdQ-mYAR-W2FUJpZifE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.8028661",
+    "lng": "-86.9716741"
+  },
+  "formatted_address": "Athens, AL, USA",
+  "country": "USA",
+  "place_id": "ChIJkSds-AaLYogRepbBu02vxV8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

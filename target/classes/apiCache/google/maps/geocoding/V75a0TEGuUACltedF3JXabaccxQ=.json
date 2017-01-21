@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.3134397",
+    "lng": "-82.3534727"
+  },
+  "formatted_address": "Johnson City, TN, USA",
+  "country": "USA",
+  "place_id": "ChIJW6NBUdt8WogRy2MFfAwq5jw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

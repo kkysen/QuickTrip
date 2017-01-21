@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.3302284",
+    "lng": "-119.2920585"
+  },
+  "formatted_address": "Visalia, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJKYfr04LYlIARDkgLAe7jklU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

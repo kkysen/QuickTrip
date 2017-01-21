@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.7443293",
+    "lng": "-92.8513706"
+  },
+  "formatted_address": "Hastings, MN 55033, USA",
+  "country": "USA",
+  "place_id": "ChIJpxj0GUzB94cRfmJCUQLmFrE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

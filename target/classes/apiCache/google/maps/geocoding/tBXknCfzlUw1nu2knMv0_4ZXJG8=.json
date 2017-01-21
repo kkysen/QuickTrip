@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.2001086",
+    "lng": "-90.5709323"
+  },
+  "formatted_address": "Clarksdale, MS, USA",
+  "country": "USA",
+  "place_id": "ChIJxQ438xHfKoYR1osBZK4Z0I8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.5843235",
+    "lng": "-78.80001279999999"
+  },
+  "formatted_address": "Fuquay Varina, NC, USA",
+  "country": "USA",
+  "place_id": "ChIJvYMNtA6PrIkRyCzgpnBRmHM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

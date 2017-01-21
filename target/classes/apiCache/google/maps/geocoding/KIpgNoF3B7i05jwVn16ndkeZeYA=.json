@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.0639616",
+    "lng": "-80.7209149"
+  },
+  "formatted_address": "Wheeling, WV 26003, USA",
+  "country": "USA",
+  "place_id": "ChIJ6cWQe8faNYgRmeXW7Gfth7s",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

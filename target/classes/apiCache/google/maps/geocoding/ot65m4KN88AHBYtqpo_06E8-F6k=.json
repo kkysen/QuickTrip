@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.2546373",
+    "lng": "-121.2999485"
+  },
+  "formatted_address": "Galt, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ09aqk_egmoAR8Z4So9KHZYw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

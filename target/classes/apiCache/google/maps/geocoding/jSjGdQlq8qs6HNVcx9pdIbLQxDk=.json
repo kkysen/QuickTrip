@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "25.8195424",
+    "lng": "-80.3553302"
+  },
+  "formatted_address": "Doral, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJKTNg-m-82YgRsGXwW2cvKLE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

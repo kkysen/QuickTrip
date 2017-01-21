@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.2856247",
+    "lng": "-85.8241312"
+  },
+  "formatted_address": "New Albany, IN 47150, USA",
+  "country": "USA",
+  "place_id": "ChIJkXhncDxsaYgRehs-G9Ny42k",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

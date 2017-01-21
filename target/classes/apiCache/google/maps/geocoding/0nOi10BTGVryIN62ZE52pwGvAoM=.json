@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.0534302",
+    "lng": "-73.5387341"
+  },
+  "formatted_address": "Stamford, CT, USA",
+  "country": "USA",
+  "place_id": "ChIJC7zHsmShwokRbrc0nIuGQ4c",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

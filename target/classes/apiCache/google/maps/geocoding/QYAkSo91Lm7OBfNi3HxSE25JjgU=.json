@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.3272928",
+    "lng": "-96.9253004"
+  },
+  "formatted_address": "Shawnee, OK, USA",
+  "country": "USA",
+  "place_id": "ChIJ95aDX4i3s4cRN3bEUIs2eok",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

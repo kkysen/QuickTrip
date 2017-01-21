@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.7249296",
+    "lng": "-122.1560768"
+  },
+  "formatted_address": "San Leandro, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ3WY6BH-Fj4ARslfX2g1JquU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

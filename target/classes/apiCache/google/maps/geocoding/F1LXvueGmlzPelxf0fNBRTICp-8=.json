@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.18360819999999",
+    "lng": "-96.57166939999999"
+  },
+  "formatted_address": "Manhattan, KS, USA",
+  "country": "USA",
+  "place_id": "ChIJLWPDRO-3vYcR78cSc0hdGKk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

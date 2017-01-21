@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.612661",
+    "lng": "-77.3663538"
+  },
+  "formatted_address": "Greenville, NC, USA",
+  "country": "USA",
+  "place_id": "ChIJQUWZOarCrokRAjUjEs1HIgM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

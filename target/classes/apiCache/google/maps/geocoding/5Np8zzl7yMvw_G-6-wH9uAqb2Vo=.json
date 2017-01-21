@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.5034394",
+    "lng": "-82.6501332"
+  },
+  "formatted_address": "Anderson, SC, USA",
+  "country": "USA",
+  "place_id": "ChIJ-758miZsWIgR3wpuVhP9xQc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

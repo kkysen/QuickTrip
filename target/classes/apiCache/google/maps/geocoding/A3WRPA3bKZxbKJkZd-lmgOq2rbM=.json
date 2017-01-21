@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.843947",
+    "lng": "-84.12466080000002"
+  },
+  "formatted_address": "Huber Heights, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJv4Ktljl9P4gRwDzoFx-gGgc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.755543",
+    "lng": "-105.2210997"
+  },
+  "formatted_address": "Golden, CO, USA",
+  "country": "USA",
+  "place_id": "ChIJ92xohxKYa4cR3FWAIFRGxhQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

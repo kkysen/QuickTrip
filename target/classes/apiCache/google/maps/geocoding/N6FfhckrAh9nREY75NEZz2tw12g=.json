@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.840798",
+    "lng": "-93.2982799"
+  },
+  "formatted_address": "Bloomington, MN, USA",
+  "country": "USA",
+  "place_id": "ChIJh5n0Cfok9ocRvAU53EyXcjo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

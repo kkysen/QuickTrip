@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.8961821",
+    "lng": "-104.9811468"
+  },
+  "formatted_address": "Northglenn, CO, USA",
+  "country": "USA",
+  "place_id": "ChIJsaz7kmgLbIcR8D7WrumXBQc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

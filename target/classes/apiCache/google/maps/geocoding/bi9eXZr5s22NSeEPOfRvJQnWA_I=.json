@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.5200518",
+    "lng": "-81.556235"
+  },
+  "formatted_address": "Cleveland Heights, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJoyh8pLf7MIgRlIwC3eq9pFM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

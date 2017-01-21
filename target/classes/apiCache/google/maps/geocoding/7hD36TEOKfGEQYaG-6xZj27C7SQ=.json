@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.7684342",
+    "lng": "-74.1454214"
+  },
+  "formatted_address": "Kearny, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJyTQTE6FWwokR56aQi9p0ndI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.143245",
+    "lng": "-81.8552196"
+  },
+  "formatted_address": "Medina, OH 44256, USA",
+  "country": "USA",
+  "place_id": "ChIJE21bNuC3MIgRFf4V9n46wjc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

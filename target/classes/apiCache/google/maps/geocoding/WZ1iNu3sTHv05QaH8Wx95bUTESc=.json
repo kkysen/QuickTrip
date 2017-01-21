@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.0324025",
+    "lng": "-87.74162459999999"
+  },
+  "formatted_address": "Skokie, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJvS4uVAC4D4gRL08TCKT3lM8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

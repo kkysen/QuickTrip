@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.4418834",
+    "lng": "-122.1430195"
+  },
+  "formatted_address": "Palo Alto, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJORy6nXuwj4ARz3b1NVL1Hw4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

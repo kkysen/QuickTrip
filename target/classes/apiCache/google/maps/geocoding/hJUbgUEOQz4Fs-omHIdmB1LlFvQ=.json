@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.7653662",
+    "lng": "-71.46756599999999"
+  },
+  "formatted_address": "Nashua, NH, USA",
+  "country": "USA",
+  "place_id": "ChIJhb_6LeSw44kRVeqLQhEIZrY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

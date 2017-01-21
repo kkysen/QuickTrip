@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.6528654",
+    "lng": "-78.7625185"
+  },
+  "formatted_address": "Cumberland, MD 21502, USA",
+  "country": "USA",
+  "place_id": "ChIJKQGUscSOyokR4hRwWJaM3Js",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

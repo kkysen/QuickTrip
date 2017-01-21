@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.4333909",
+    "lng": "-96.49814669999999"
+  },
+  "formatted_address": "Fremont, NE 68025, USA",
+  "country": "USA",
+  "place_id": "ChIJB5iJf8FgkYcRrQO-6hz_AzY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

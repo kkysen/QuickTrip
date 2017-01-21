@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.6362152",
+    "lng": "-70.93420499999999"
+  },
+  "formatted_address": "New Bedford, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJgRwjDWrk5IkRuZNhYNSfm38",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

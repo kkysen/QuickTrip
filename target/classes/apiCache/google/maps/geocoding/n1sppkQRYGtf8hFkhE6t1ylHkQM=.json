@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.1954331",
+    "lng": "-79.7625625"
+  },
+  "formatted_address": "Florence, SC, USA",
+  "country": "USA",
+  "place_id": "ChIJ6Q_xH9ZmVYgRKh7Z9YE7PKw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

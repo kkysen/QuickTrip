@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.3470671",
+    "lng": "-79.86412319999999"
+  },
+  "formatted_address": "McKeesport, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJS5tsmvi5NIgRrUy9-Sibxc8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

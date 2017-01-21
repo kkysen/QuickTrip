@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.0831301",
+    "lng": "-73.78456509999999"
+  },
+  "formatted_address": "Saratoga Springs, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJOdRbx0443okRqKKUG2pFHWQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.3071645",
+    "lng": "-111.9602196"
+  },
+  "formatted_address": "North Ogden, UT, USA",
+  "country": "USA",
+  "place_id": "ChIJS6ZDi5sMU4cR3iAv3fiGOwM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

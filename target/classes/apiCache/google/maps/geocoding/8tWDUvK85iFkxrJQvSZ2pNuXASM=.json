@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.5467012",
+    "lng": "-83.21131919999999"
+  },
+  "formatted_address": "Birmingham, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJJ5ENuV7HJIgRVYi7ZbxrPIo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

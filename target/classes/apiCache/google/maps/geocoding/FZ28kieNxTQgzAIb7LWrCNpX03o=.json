@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.8994088",
+    "lng": "-97.1150732"
+  },
+  "formatted_address": "Watertown, SD 57201, USA",
+  "country": "USA",
+  "place_id": "ChIJa88y1dHXzFIRzRUOgdgFr-k",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

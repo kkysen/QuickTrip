@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.0256101",
+    "lng": "-81.72985190000001"
+  },
+  "formatted_address": "Wadsworth, OH 44281, USA",
+  "country": "USA",
+  "place_id": "ChIJHUm6tdXRMIgRe-_cb0-JNPc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

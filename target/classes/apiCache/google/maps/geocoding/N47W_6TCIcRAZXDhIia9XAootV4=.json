@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.0121221",
+    "lng": "-92.4801989"
+  },
+  "formatted_address": "Rochester, MN, USA",
+  "country": "USA",
+  "place_id": "ChIJSyxfo0tf94cRPcZhVhcclfA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

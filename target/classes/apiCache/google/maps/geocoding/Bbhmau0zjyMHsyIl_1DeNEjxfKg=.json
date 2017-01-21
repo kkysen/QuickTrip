@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.4355977",
+    "lng": "-112.3496021"
+  },
+  "formatted_address": "Avondale, AZ, USA",
+  "country": "USA",
+  "place_id": "ChIJ80Sw0_QvK4cRD09DqRlMNUU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

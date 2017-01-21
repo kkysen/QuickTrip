@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.1305373",
+    "lng": "-113.5082867"
+  },
+  "formatted_address": "Washington, UT, USA",
+  "country": "USA",
+  "place_id": "ChIJM8ibgoBZyoARipTj-GvKL3M",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

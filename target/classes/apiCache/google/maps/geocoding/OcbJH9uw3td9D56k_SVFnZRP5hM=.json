@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.3942655",
+    "lng": "-104.5230242"
+  },
+  "formatted_address": "Roswell, NM, USA",
+  "country": "USA",
+  "place_id": "ChIJVe2sZRNl4oYRftfPdOQLG-Q",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

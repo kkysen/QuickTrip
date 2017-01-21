@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "45.5579451",
+    "lng": "-94.16324039999999"
+  },
+  "formatted_address": "St Cloud, MN, USA",
+  "country": "USA",
+  "place_id": "ChIJ9QLLgqmKtFIRRH-L0A7mtFU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

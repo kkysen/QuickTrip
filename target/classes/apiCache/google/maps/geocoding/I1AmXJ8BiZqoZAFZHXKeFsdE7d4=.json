@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.715738",
+    "lng": "-117.1610838"
+  },
+  "formatted_address": "San Diego, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJSx6SrQ9T2YARed8V_f0hOg0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

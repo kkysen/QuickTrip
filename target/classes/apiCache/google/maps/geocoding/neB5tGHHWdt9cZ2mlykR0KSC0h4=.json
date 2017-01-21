@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.1361187",
+    "lng": "-117.865339"
+  },
+  "formatted_address": "Glendora, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJX7Ts8w0mw4AR7I7B-b7UyPA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

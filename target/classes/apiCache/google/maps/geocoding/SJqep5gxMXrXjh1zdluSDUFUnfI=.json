@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.2978794",
+    "lng": "-83.8240663"
+  },
+  "formatted_address": "Gainesville, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJseinWA1fX4gROdScxQxkHFA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

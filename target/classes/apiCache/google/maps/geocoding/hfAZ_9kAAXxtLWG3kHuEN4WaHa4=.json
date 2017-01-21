@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.4194699",
+    "lng": "-83.9508068"
+  },
+  "formatted_address": "Saginaw, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJr1jnhkHCI4gRrPWue22U4yk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.3636331",
+    "lng": "-87.84479379999999"
+  },
+  "formatted_address": "Waukegan, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJLYJWuJySD4gRX_WsTDZrdBs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

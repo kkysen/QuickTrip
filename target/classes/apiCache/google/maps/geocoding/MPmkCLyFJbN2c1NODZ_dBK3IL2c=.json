@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.7748275",
+    "lng": "-84.2963123"
+  },
+  "formatted_address": "Decatur, GA 30030, USA",
+  "country": "USA",
+  "place_id": "ChIJ6SD-FDwH9YgRAHjRfNzgUjE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

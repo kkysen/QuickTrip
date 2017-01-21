@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.271192",
+    "lng": "-80.2706044"
+  },
+  "formatted_address": "Coral Springs, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJZeB2GTQF2YgRKyApkbWwB4k",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

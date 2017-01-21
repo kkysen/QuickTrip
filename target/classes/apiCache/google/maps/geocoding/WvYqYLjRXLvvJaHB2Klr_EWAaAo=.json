@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.9211836",
+    "lng": "-93.46874889999999"
+  },
+  "formatted_address": "Minnetonka, MN, USA",
+  "country": "USA",
+  "place_id": "ChIJUQgaEjMe9ocRH1c_CV3xBno",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

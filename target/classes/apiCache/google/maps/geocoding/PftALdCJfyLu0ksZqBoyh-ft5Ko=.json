@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.3275697",
+    "lng": "-80.0394977"
+  },
+  "formatted_address": "Bethel Park, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJsWEsfAr5NIgRs646D130IvY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

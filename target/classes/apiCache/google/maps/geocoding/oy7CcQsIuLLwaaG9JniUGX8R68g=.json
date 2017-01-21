@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.9259463",
+    "lng": "-75.1196199"
+  },
+  "formatted_address": "Camden, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJQwA2LhnJxokRhoaToXZr498",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

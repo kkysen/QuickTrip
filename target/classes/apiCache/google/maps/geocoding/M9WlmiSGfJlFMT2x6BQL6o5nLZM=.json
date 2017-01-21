@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.9827565",
+    "lng": "-95.969402"
+  },
+  "formatted_address": "Bay City, TX 77414, USA",
+  "country": "USA",
+  "place_id": "ChIJLeDDPw25QYYR-lcm_nbKZxU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

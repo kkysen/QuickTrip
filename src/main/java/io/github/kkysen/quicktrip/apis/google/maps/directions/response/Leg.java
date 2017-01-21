@@ -25,7 +25,7 @@ public class Leg {
     
     private static final String GOOGLE_MAPS_BASE_URL = "https://www.google.com/maps/dir/";
     
-    private final Distance distance;
+    //private final Distance distance;
     
     @JsonAdapter(SecondsAdapter.class)
     private final Duration duration;

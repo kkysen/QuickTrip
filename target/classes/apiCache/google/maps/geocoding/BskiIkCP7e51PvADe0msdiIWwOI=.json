@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.1014451",
+    "lng": "-81.441779"
+  },
+  "formatted_address": "Tallmadge, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJSTN_5l0oMYgRmc6_eOP4uX0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

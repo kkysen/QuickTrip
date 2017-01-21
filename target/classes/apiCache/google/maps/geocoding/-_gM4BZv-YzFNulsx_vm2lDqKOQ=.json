@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.2170534",
+    "lng": "-74.7429384"
+  },
+  "formatted_address": "Trenton, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJubs9LUhDwYkRvNdciX9WFs8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

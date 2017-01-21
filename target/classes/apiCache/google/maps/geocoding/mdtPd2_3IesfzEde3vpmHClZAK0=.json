@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.7947731",
+    "lng": "-116.9625269"
+  },
+  "formatted_address": "El Cajon, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJY4MJe7FZ2YARYycM1mqd9wo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

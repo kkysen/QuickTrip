@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.6763545",
+    "lng": "-86.25198979999999"
+  },
+  "formatted_address": "South Bend, IN, USA",
+  "country": "USA",
+  "place_id": "ChIJE9NhSsQyEYgRBDKjb7PZSpc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

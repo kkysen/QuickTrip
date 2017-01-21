@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.4974694",
+    "lng": "-94.16801579999999"
+  },
+  "formatted_address": "Fort Dodge, IA 50501, USA",
+  "country": "USA",
+  "place_id": "ChIJbwMLwDWI7YcRLcStA46aSns",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

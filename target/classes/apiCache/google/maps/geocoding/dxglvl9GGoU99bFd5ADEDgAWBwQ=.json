@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.4798757",
+    "lng": "-79.1802994"
+  },
+  "formatted_address": "Sanford, NC, USA",
+  "country": "USA",
+  "place_id": "ChIJyRxaboyjrIkRGJYnsPWU4DM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

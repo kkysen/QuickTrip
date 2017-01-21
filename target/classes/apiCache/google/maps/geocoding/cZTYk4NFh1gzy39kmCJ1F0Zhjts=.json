@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.2528768",
+    "lng": "-122.4442906"
+  },
+  "formatted_address": "Tacoma, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJZ5VlK-5UkFQRgp6w6wecIWI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "46.8771863",
+    "lng": "-96.7898034"
+  },
+  "formatted_address": "Fargo, ND, USA",
+  "country": "USA",
+  "place_id": "ChIJRXFnhI3LyFIRyqqRJ6UwqoE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

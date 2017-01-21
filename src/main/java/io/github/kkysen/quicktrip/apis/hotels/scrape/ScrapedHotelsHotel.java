@@ -58,7 +58,8 @@ public class ScrapedHotelsHotel implements Hotel {
         }
         final Elements taLogos = detailsRespModule.getElementsByClass("ta-logo");
         if (taLogos.size() == 0) {
-            final String ratingStr = detailsRespModule.getElementsByClass("guest-rating-value").get(0).text();
+            final String ratingStr = detailsRespModule.getElementsByClass("guest-rating-value")
+                    .get(0).text();
             return Double.parseDouble(ratingStr.substring(0, 3));
         }
         final String ratingStr = taLogos.get(0).text();
@@ -93,7 +94,8 @@ public class ScrapedHotelsHotel implements Hotel {
     
     @Override
     public String toString() {
-        return "ScrapedHotelsHotel [price=" + price + ", name=" + name + ", address=" + address + ", distance="
+        return "ScrapedHotelsHotel [price=" + price + ", name=" + name + ", address=" + address
+                + ", distance="
                 + distance + ", rating=" + rating + ", imgUrl=" + imgUrl + "]";
     }
     

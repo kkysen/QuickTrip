@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.9792645",
+    "lng": "-74.11653129999999"
+  },
+  "formatted_address": "Ridgewood, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJOYyoQ6XkwokRsJcmXQpaGAc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

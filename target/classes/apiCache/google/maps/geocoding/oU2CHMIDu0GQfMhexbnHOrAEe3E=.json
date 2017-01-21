@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "29.5688411",
+    "lng": "-97.9647269"
+  },
+  "formatted_address": "Seguin, TX 78155, USA",
+  "country": "USA",
+  "place_id": "ChIJx_07MBq4XIYRTNRJ0QrQ2Jo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.353355",
+    "lng": "-88.09341449999999"
+  },
+  "formatted_address": "Round Lake, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJf7lRSoqcD4gRierjs5neCHY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.7014389",
+    "lng": "-90.14871989999999"
+  },
+  "formatted_address": "Granite City, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJU5inffVR34cRFOXCaJH8Kcg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.8553772",
+    "lng": "-121.9709579"
+  },
+  "formatted_address": "Monroe, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJpXe_91ammlQR4ZooLovz93c",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

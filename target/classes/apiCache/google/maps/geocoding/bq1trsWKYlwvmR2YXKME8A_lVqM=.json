@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.8703596",
+    "lng": "-117.9242966"
+  },
+  "formatted_address": "Fullerton, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJY8uBw3Qq3YARSupgHoFTnPU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

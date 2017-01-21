@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.5331066",
+    "lng": "-81.57901369999999"
+  },
+  "formatted_address": "East Cleveland, OH, USA",
+  "country": "USA",
+  "place_id": "ChIJi9QgDIb-MIgROMxngOm_-i4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

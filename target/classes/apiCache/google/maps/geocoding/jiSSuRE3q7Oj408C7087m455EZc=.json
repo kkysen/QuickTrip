@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.5794343",
+    "lng": "-118.1164613"
+  },
+  "formatted_address": "Palmdale, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJtd1w7IRXwoAROuASrS15bGo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

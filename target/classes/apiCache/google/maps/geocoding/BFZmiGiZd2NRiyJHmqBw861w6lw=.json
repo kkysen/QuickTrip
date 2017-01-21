@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.3909071",
+    "lng": "-110.966488"
+  },
+  "formatted_address": "Oro Valley, AZ, USA",
+  "country": "USA",
+  "place_id": "ChIJfTIBJToM1oYRRH-sDpZPWJQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

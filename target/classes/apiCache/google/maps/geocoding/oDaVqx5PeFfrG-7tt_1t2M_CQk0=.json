@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.1544432",
+    "lng": "-96.0422378"
+  },
+  "formatted_address": "Papillion, NE, USA",
+  "country": "USA",
+  "place_id": "ChIJix_kDN2Kk4cR6Nb0b8RgCoI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

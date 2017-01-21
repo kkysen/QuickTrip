@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "30.42007079999999",
+    "lng": "-86.61703079999999"
+  },
+  "formatted_address": "Fort Walton Beach, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJfTigqtIWkYgRx2eePA-tpuM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

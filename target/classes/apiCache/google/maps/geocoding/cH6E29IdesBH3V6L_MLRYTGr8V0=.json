@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.93123360000001",
+    "lng": "-96.4597089"
+  },
+  "formatted_address": "Rockwall, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJp4bgl80BTIYRazC-XrvdLYo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

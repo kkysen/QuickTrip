@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.6639916",
+    "lng": "-74.2107006"
+  },
+  "formatted_address": "Elizabeth, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJHQVC7l9NwokRrQNrUhtZhTI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

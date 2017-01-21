@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.2042586",
+    "lng": "-72.6162009"
+  },
+  "formatted_address": "Holyoke, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJp0b2Msje5okRm5MR88RQB2U",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

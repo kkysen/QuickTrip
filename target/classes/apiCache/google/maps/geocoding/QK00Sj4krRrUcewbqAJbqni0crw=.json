@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.1394513",
+    "lng": "-117.9772873"
+  },
+  "formatted_address": "Duarte, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJqe6-YuDYwoAR7XKVWP58PtI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.9896967",
+    "lng": "-76.93776"
+  },
+  "formatted_address": "College Park, MD, USA",
+  "country": "USA",
+  "place_id": "ChIJmUZxDR7Et4kRlW3TbeMNjOs",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

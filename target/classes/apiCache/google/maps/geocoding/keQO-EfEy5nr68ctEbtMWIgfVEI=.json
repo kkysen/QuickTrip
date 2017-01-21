@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.9577016",
+    "lng": "-121.2907796"
+  },
+  "formatted_address": "Stockton, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJgSFEe3MNkIAR2MtPBNH1dlg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

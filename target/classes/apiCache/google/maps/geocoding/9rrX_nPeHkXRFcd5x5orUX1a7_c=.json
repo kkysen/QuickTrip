@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.688432",
+    "lng": "-75.22073229999999"
+  },
+  "formatted_address": "Easton, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJX1hwGIJrxIkRK8iPdCcyIDc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

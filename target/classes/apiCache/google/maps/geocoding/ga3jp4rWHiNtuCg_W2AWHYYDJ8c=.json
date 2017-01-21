@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.0695391",
+    "lng": "-72.61481169999999"
+  },
+  "formatted_address": "Agawam, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJYZuYV9rj5okRmkpu-nqAcAw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

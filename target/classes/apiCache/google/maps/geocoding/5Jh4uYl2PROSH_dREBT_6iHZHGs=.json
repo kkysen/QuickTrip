@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.4435903",
+    "lng": "-122.2960726"
+  },
+  "formatted_address": "SeaTac, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJ02RZx2xbkFQRRrZSrR2yIng",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.9530215",
+    "lng": "-92.9952153"
+  },
+  "formatted_address": "Maplewood, MN, USA",
+  "country": "USA",
+  "place_id": "ChIJEa7jfoHUslIRje69fa-szY0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

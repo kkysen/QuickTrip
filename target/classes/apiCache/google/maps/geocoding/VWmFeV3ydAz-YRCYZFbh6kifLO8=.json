@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.9312099",
+    "lng": "-73.89874689999999"
+  },
+  "formatted_address": "Yonkers, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJoa9DCQjAwokRotrYpIRzlr4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

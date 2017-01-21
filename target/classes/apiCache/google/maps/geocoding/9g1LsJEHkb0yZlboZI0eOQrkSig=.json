@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "27.950575",
+    "lng": "-82.45717759999999"
+  },
+  "formatted_address": "Tampa, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJ4dG5s4K3wogRY7SWr4kTX6c",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

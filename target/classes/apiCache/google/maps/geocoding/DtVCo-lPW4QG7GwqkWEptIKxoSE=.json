@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.80118210000001",
+    "lng": "-68.77781379999999"
+  },
+  "formatted_address": "Bangor, ME 04401, USA",
+  "country": "USA",
+  "place_id": "ChIJvSkREEZLrkwRd3avp7AYCU0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

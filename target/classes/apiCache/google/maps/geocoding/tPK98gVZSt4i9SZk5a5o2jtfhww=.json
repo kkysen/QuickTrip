@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.7805388",
+    "lng": "-116.4668036"
+  },
+  "formatted_address": "Cathedral City, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJQ8IyCwEd24ARfZgDp1sNFoM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

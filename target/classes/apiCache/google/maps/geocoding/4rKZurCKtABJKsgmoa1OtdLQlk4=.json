@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "47.9445396",
+    "lng": "-122.3045815"
+  },
+  "formatted_address": "Mukilteo, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJBSYAsmMBkFQRFk6BsXaHVPY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

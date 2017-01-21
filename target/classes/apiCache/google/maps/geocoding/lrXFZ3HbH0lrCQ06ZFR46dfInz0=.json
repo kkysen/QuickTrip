@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.8108408",
+    "lng": "-94.9271868"
+  },
+  "formatted_address": "Gardner, KS 66030, USA",
+  "country": "USA",
+  "place_id": "ChIJw36VHm6jwIcRmX4TMe5uqLQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

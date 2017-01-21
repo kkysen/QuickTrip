@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.7509488",
+    "lng": "-77.47526669999999"
+  },
+  "formatted_address": "Manassas, VA, USA",
+  "country": "USA",
+  "place_id": "ChIJi9Zl1IBbtokRUuf7tl6bUoM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

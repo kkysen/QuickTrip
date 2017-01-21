@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.3732921",
+    "lng": "-119.0187125"
+  },
+  "formatted_address": "Bakersfield, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJDcuUuchr6oARyHT-mAkMNlk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

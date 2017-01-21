@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.2163937",
+    "lng": "-119.0376023"
+  },
+  "formatted_address": "Camarillo, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJu5REjxA26IAR52xlig9BWW4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

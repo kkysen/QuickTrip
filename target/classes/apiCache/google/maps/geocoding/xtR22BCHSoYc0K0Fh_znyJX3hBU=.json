@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.1144992",
+    "lng": "-83.1779746"
+  },
+  "formatted_address": "Tiffin, OH 44883, USA",
+  "country": "USA",
+  "place_id": "ChIJEWEQuKLPO4gR2S6hN5LCHw4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.4974085",
+    "lng": "-82.89636039999999"
+  },
+  "formatted_address": "St Clair Shores, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJ22XUHeQnJYgRvg4-amTgtSA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

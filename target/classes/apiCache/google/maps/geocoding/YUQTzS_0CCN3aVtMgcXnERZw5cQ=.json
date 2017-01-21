@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.891565",
+    "lng": "-121.2930079"
+  },
+  "formatted_address": "Lincoln, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJm2t7nw8Tm4ARFda4oA7CWJA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

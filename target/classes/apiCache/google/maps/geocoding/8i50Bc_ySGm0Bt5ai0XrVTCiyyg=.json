@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.0834313",
+    "lng": "-71.396725"
+  },
+  "formatted_address": "Franklin, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJEz53PJVv5IkRIpGreqOTnZk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

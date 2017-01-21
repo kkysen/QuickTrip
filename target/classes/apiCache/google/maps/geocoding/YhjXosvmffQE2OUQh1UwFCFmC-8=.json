@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.2576066",
+    "lng": "-88.7033859"
+  },
+  "formatted_address": "Tupelo, MS, USA",
+  "country": "USA",
+  "place_id": "ChIJoV_eKS5Mh4gRT509-0DM8ec",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.5815719",
+    "lng": "-121.4943996"
+  },
+  "formatted_address": "Sacramento, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ-ZeDsnLGmoAR238ZdKpqH5I",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

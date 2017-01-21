@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.2459149",
+    "lng": "-75.88130749999999"
+  },
+  "formatted_address": "Wilkes-Barre, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJpZYjoIoaxYkRErXlKabKdyo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

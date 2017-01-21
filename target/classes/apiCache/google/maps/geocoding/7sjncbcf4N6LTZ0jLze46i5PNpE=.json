@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.637765",
+    "lng": "-99.33404419999999"
+  },
+  "formatted_address": "Altus, OK, USA",
+  "country": "USA",
+  "place_id": "ChIJTy3cGOxkq4cRJ9LseS12sKw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

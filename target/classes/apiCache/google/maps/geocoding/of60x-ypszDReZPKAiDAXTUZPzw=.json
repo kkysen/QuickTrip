@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.7762015",
+    "lng": "-71.0772796"
+  },
+  "formatted_address": "Haverhill, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJ736muywC44kRIw3795MLNbM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

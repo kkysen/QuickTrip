@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.0369867",
+    "lng": "-117.2919818"
+  },
+  "formatted_address": "Encinitas, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJtzLW474L3IARngTAtvs_xow",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

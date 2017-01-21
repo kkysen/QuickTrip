@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.1865478",
+    "lng": "-73.19517669999999"
+  },
+  "formatted_address": "Bridgeport, CT, USA",
+  "country": "USA",
+  "place_id": "ChIJGTd4lioJ6IkRzs5PCaf8i98",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

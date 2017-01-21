@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.9791793",
+    "lng": "-118.032844"
+  },
+  "formatted_address": "Whittier, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ94d6VYbTwoARWiRAwUd9qCc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

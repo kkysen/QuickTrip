@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "46.7207737",
+    "lng": "-92.10407959999999"
+  },
+  "formatted_address": "Superior, WI, USA",
+  "country": "USA",
+  "place_id": "ChIJuYjDvAdRrlIRCV7CU2lM-Fo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

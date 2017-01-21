@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.9537029",
+    "lng": "-93.08995779999999"
+  },
+  "formatted_address": "St Paul, MN, USA",
+  "country": "USA",
+  "place_id": "ChIJnzfp5M7UslIRKS7aP9KRcsg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

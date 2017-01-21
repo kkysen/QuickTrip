@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.36883",
+    "lng": "-122.0363496"
+  },
+  "formatted_address": "Sunnyvale, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJO13QqUW2j4ARosN83Sb7jXY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

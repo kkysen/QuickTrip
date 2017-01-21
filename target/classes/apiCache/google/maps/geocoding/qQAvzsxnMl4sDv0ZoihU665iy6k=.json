@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.0186323",
+    "lng": "-82.1128641"
+  },
+  "formatted_address": "Plant City, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJmRzozoY23YgRLJ1oKbp0Nmg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

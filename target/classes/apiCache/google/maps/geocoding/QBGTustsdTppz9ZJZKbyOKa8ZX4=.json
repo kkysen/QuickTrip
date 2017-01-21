@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.6220542",
+    "lng": "-84.36909179999999"
+  },
+  "formatted_address": "Forest Park, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJk4UpFSr89IgR-v76AC4X-aM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

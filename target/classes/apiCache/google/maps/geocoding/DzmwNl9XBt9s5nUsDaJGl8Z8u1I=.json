@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.2726203",
+    "lng": "-121.1739212"
+  },
+  "formatted_address": "Redmond, OR 97756, USA",
+  "country": "USA",
+  "place_id": "ChIJu1GMTtTUuFQRGHlrwGDSOJQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

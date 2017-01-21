@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.0962143",
+    "lng": "-79.0377388"
+  },
+  "formatted_address": "Niagara Falls, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJtzPmKepj04kRs6rFueRal2E",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

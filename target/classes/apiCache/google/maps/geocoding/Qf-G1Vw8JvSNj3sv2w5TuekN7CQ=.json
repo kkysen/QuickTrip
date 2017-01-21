@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.6527292",
+    "lng": "-74.2592769"
+  },
+  "formatted_address": "Roselle, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJ8ePmRoiyw4kRc-RnqqJozZQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

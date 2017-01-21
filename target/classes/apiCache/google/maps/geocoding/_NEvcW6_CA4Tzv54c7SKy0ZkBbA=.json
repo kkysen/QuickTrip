@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.9270367",
+    "lng": "-73.9973608"
+  },
+  "formatted_address": "Kingston, NY 12401, USA",
+  "country": "USA",
+  "place_id": "ChIJJ4HJLQEP3YkRE8kyWFqJ10E",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

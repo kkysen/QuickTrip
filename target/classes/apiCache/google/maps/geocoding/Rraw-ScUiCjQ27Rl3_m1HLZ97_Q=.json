@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.910231",
+    "lng": "-121.7568946"
+  },
+  "formatted_address": "Watsonville, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ45W--bgIjoARpaFiI4bORds",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

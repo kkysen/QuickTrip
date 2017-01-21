@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.9204354",
+    "lng": "-80.3414693"
+  },
+  "formatted_address": "Sumter, SC, USA",
+  "country": "USA",
+  "place_id": "ChIJxVJPA7lo_4gRLmDerR6ncfM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

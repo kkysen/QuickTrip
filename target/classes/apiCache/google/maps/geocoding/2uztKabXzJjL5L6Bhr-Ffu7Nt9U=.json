@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.2967362",
+    "lng": "-85.759963"
+  },
+  "formatted_address": "Clarksville, IN, USA",
+  "country": "USA",
+  "place_id": "ChIJxWHgbvltaYgRtE88_gwIk4c",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

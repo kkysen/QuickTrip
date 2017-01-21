@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.7262016",
+    "lng": "-71.1908924"
+  },
+  "formatted_address": "Methuen, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJTcBpumIH44kRdVRxQA6FoDQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

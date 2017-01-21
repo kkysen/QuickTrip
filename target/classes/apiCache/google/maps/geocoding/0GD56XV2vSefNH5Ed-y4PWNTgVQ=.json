@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.1975048",
+    "lng": "-119.1770516"
+  },
+  "formatted_address": "Oxnard, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJn2clE-ZN6IARRbZe-sBJgFk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

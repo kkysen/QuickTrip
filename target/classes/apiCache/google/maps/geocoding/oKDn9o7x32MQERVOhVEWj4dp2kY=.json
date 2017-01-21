@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.5631924",
+    "lng": "-97.1416768"
+  },
+  "formatted_address": "Mansfield, TX, USA",
+  "country": "USA",
+  "place_id": "ChIJFzYGA7VhToYRsTvycZych1o",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

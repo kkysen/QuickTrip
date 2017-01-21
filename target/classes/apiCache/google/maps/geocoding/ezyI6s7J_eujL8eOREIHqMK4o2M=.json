@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.3928151",
+    "lng": "-83.0496438"
+  },
+  "formatted_address": "Hamtramck, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJxdBtmEHSJIgR9iv09YeyAe0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

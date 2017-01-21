@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.4614625",
+    "lng": "-80.0728201"
+  },
+  "formatted_address": "Delray Beach, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJ42rskPzf2IgRuLhuUygBeMc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

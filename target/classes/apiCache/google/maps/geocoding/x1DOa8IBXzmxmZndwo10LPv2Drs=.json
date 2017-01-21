@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.9735346",
+    "lng": "-122.5310874"
+  },
+  "formatted_address": "San Rafael, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJL3oJNmeXhYARVCbi5iBNAb4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

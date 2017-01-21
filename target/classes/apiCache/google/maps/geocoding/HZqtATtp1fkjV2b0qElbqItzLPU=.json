@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.9786566",
+    "lng": "-115.530267"
+  },
+  "formatted_address": "Brawley, CA 92227, USA",
+  "country": "USA",
+  "place_id": "ChIJdZIog5RP14AR8djOTTicqrE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

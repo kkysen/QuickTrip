@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "31.3445471",
+    "lng": "-109.5453447"
+  },
+  "formatted_address": "Douglas, AZ 85607, USA",
+  "country": "USA",
+  "place_id": "ChIJzeAejmX42YYR541F3z9FvL0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

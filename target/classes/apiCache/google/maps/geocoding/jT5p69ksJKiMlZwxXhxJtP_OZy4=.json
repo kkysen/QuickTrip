@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "27.7518284",
+    "lng": "-82.6267345"
+  },
+  "formatted_address": "St. Petersburg, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJQao6aWPmwogR_4vUvANAzAQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

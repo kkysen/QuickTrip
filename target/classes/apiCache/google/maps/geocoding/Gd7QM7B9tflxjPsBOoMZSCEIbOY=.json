@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.4758825",
+    "lng": "-73.21207199999999"
+  },
+  "formatted_address": "Burlington, VT, USA",
+  "country": "USA",
+  "place_id": "ChIJ5VWbtlV6ykwRjkkOchnlX8M",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -20,7 +20,7 @@ import lombok.RequiredArgsConstructor;
 public class Route {
     
     private final Bounds bounds;
-        
+    
     private final List<Leg> legs;
     
     @SerializedName("overview_polyline")

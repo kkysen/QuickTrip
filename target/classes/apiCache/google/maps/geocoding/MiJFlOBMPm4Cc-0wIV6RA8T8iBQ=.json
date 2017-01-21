@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.0362218",
+    "lng": "-85.0322444"
+  },
+  "formatted_address": "LaGrange, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJGyIxVJtWi4gRGj_A_4JnBOA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

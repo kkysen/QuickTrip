@@ -56,7 +56,8 @@ public class DrivingDirections extends GoogleApiResponse {
     private void postDeserializeWaypointsAndLegs() {
         final Leg firstLeg = legs.get(0);
         final Waypoint firstWaypoint = waypoints.get(0);
-        firstWaypoint.setAddressLocationFromLeg(firstLeg.getStartLatLng(), firstLeg.getEndAddress());
+        firstWaypoint.setAddressLocationFromLeg(firstLeg.getStartLatLng(),
+                firstLeg.getEndAddress());
         for (int i = 0; i < numLegs; i++) {
             final Leg leg = legs.get(i);
             final Waypoint waypoint = waypoints.get(i);

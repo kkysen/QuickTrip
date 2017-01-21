@@ -7,7 +7,8 @@ import java.nio.file.Path;
 public abstract class GoogleMapsRequest<R> extends GoogleApiRequest<R> {
     
     private static final String MAPS_REQUEST_TYPE = "$MAPS_REQUEST_TYPE";
-    private static final String URL = "https://maps.googleapis.com/maps/api/" + MAPS_REQUEST_TYPE + "/json";
+    private static final String URL = "https://maps.googleapis.com/maps/api/" + MAPS_REQUEST_TYPE
+            + "/json";
     
     @Override
     protected final String getBaseUrl() {

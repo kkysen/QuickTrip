@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.7062128",
+    "lng": "-73.61873970000001"
+  },
+  "formatted_address": "Hempstead, NY 11550, USA",
+  "country": "USA",
+  "place_id": "ChIJYZwtguJ8wokRUv4yho1zZpA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.7971939",
+    "lng": "-106.9561791"
+  },
+  "formatted_address": "Sheridan, WY 82801, USA",
+  "country": "USA",
+  "place_id": "ChIJZa1vPJT6NVMRe9URe_5HOik",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

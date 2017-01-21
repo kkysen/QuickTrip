@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "31.7607195",
+    "lng": "-93.08627489999999"
+  },
+  "formatted_address": "Natchitoches, LA, USA",
+  "country": "USA",
+  "place_id": "ChIJbYVDeVKHMIYRLUO-EHIuS04",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

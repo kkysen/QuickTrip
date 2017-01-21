@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.0726354",
+    "lng": "-79.7919754"
+  },
+  "formatted_address": "Greensboro, NC, USA",
+  "country": "USA",
+  "place_id": "ChIJeXvHOD8ZU4gRyBK-eJTEuZM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

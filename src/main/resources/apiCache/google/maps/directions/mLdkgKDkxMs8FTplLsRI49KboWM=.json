@@ -76,7 +76,6 @@
     },
     "legs": [
       {
-        "distance": {},
         "duration": 44149,
         "start_address": "Brooklyn, NY, USA",
         "start_location": {
@@ -115,7 +114,6 @@
         "googleMapsUrl": "https://www.google.com/maps/dir/Chicago, IL, USA/Brooklyn, NY, USA"
       },
       {
-        "distance": {},
         "duration": 44419,
         "start_address": "Chicago, IL, USA",
         "start_location": {
@@ -165,7 +163,6 @@
   },
   "legs": [
     {
-      "distance": {},
       "duration": 44149,
       "start_address": "Brooklyn, NY, USA",
       "start_location": {
@@ -204,7 +201,6 @@
       "googleMapsUrl": "https://www.google.com/maps/dir/Chicago, IL, USA/Brooklyn, NY, USA"
     },
     {
-      "distance": {},
       "duration": 44419,
       "start_address": "Chicago, IL, USA",
       "start_location": {

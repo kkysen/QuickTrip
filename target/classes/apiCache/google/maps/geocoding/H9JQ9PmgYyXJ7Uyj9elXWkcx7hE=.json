@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.9356016",
+    "lng": "-91.4098726"
+  },
+  "formatted_address": "Quincy, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJNzsu05z33YcRvmS0zCC4ZV8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

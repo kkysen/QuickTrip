@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.954737",
+    "lng": "-118.2120161"
+  },
+  "formatted_address": "South Gate, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJH7dFoxHMwoAR0mrfGYQGQ5E",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

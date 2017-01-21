@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.9114882",
+    "lng": "-73.7823549"
+  },
+  "formatted_address": "New Rochelle, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJtVa61YmNwokRotp-ajvDes8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

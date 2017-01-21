@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.033625",
+    "lng": "-117.0430865"
+  },
+  "formatted_address": "Yucaipa, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJP7oo1BxR24AR_qisu9QeKXo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.5859718",
+    "lng": "-79.39502279999999"
+  },
+  "formatted_address": "Danville, VA, USA",
+  "country": "USA",
+  "place_id": "ChIJr6_NF_ixUogRCGV4G_-me_g",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

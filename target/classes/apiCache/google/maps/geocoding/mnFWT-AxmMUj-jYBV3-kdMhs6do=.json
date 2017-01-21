@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.849557",
+    "lng": "-75.3557457"
+  },
+  "formatted_address": "Chester, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJJ8YhYsfnxokRBSQtLd-VndE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

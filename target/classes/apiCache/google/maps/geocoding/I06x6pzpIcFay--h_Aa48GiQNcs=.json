@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.00287609999999",
+    "lng": "-71.51478390000001"
+  },
+  "formatted_address": "Woonsocket, RI 02895, USA",
+  "country": "USA",
+  "place_id": "ChIJvf6fnoBq5IkR-re-YHuxXvA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.3125963",
+    "lng": "-95.61609"
+  },
+  "formatted_address": "Claremore, OK, USA",
+  "country": "USA",
+  "place_id": "ChIJy9VjooJQtocRUFUS_6MxGwc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "32.0723861",
+    "lng": "-84.23268759999999"
+  },
+  "formatted_address": "Americus, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJwZvXeQhX8ogRj3RFe95eUFI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

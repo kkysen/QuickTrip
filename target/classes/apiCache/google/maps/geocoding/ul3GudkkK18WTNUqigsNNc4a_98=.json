@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.5432837",
+    "lng": "-119.3870656"
+  },
+  "formatted_address": "Dinuba, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJ6RD-YfcXlYARmUy1HjYL25s",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

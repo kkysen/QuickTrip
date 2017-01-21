@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.6159285",
+    "lng": "-70.6619888"
+  },
+  "formatted_address": "Gloucester, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJMQBzhoIk44kR7cJvMKu31eo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

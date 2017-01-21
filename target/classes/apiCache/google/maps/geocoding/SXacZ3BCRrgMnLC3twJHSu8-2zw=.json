@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.5296329",
+    "lng": "-119.8138027"
+  },
+  "formatted_address": "Reno, NV, USA",
+  "country": "USA",
+  "place_id": "ChIJnaCSkq5AmYARh_c4dM7FxUA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

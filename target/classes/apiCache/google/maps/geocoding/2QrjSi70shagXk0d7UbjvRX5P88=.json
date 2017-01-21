@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "31.3403775",
+    "lng": "-110.9342532"
+  },
+  "formatted_address": "Nogales, AZ 85621, USA",
+  "country": "USA",
+  "place_id": "ChIJ78y8Aran1oYRd9n5T3wK3FU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "30.4582829",
+    "lng": "-91.1403196"
+  },
+  "formatted_address": "Baton Rouge, LA, USA",
+  "country": "USA",
+  "place_id": "ChIJy3RfMmc4JIYRHZpXkdvxIyE",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

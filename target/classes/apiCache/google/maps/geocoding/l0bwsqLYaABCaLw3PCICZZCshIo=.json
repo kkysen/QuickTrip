@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "46.7297771",
+    "lng": "-117.1817377"
+  },
+  "formatted_address": "Pullman, WA 99163, USA",
+  "country": "USA",
+  "place_id": "ChIJlU3hshSBn1QR8AAEJBabpIY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

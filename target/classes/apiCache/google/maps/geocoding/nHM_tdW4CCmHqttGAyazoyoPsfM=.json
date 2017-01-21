@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.7799273",
+    "lng": "-121.9780153"
+  },
+  "formatted_address": "San Ramon, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJT6zq_3ztj4ARrT4l-bvuYvU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

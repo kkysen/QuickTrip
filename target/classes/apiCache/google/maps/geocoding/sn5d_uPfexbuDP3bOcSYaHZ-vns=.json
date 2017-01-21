@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.6916132",
+    "lng": "-112.0010501"
+  },
+  "formatted_address": "West Valley City, UT, USA",
+  "country": "USA",
+  "place_id": "ChIJs4g1-t2MUocR5ax4jZl0e_U",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

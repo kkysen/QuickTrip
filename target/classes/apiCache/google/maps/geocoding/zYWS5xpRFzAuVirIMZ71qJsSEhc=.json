@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.3736158",
+    "lng": "-71.10973349999999"
+  },
+  "formatted_address": "Cambridge, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJX8wwy6Vw44kRh2xoiWSOOsU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

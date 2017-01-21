@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.0855572",
+    "lng": "-93.2259349"
+  },
+  "formatted_address": "Owatonna, MN 55060, USA",
+  "country": "USA",
+  "place_id": "ChIJ45D-YETm9ocRO4BAfgOjvBY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

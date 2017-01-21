@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.100351",
+    "lng": "-70.21477639999999"
+  },
+  "formatted_address": "Lewiston, ME, USA",
+  "country": "USA",
+  "place_id": "ChIJH5Yye8BrskwREH3m2FoLdfM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "39.8386516",
+    "lng": "-86.0252612"
+  },
+  "formatted_address": "Lawrence, IN, USA",
+  "country": "USA",
+  "place_id": "ChIJxXbnCZ5La4gRcD74a6n7DAc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

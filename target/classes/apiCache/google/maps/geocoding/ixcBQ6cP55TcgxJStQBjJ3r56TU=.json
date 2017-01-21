@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "46.6020711",
+    "lng": "-120.5058987"
+  },
+  "formatted_address": "Yakima, WA, USA",
+  "country": "USA",
+  "place_id": "ChIJ_0QW0F1il1QRS3uecQ6GOxo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

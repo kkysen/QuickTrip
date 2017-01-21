@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.03272339999999",
+    "lng": "-97.41375529999999"
+  },
+  "formatted_address": "Norfolk, NE 68701, USA",
+  "country": "USA",
+  "place_id": "ChIJwRjn28k_kIcRNOb2D4bJbMA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.32810050000001",
+    "lng": "-87.4988882"
+  },
+  "formatted_address": "Madisonville, KY 42431, USA",
+  "country": "USA",
+  "place_id": "ChIJsWMwtFz-b4gRp9mfaIJErrc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

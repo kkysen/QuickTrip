@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "36.1398102",
+    "lng": "-96.108891"
+  },
+  "formatted_address": "Sand Springs, OK, USA",
+  "country": "USA",
+  "place_id": "ChIJB9oH3efAtocRgAVxcuOu9zI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.9317335",
+    "lng": "-76.5660529"
+  },
+  "formatted_address": "Auburn, NY 13021, USA",
+  "country": "USA",
+  "place_id": "ChIJ-YnQABes0IkRcTG6VsuqH5o",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

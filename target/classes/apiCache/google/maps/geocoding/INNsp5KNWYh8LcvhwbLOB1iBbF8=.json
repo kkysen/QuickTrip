@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "26.052311",
+    "lng": "-80.1439343"
+  },
+  "formatted_address": "Dania Beach, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJtWMtIj2q2YgR4ofe1LhXA-A",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

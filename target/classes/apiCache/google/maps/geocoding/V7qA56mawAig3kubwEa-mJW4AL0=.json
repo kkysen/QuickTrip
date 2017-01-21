@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.5536468",
+    "lng": "-87.451984"
+  },
+  "formatted_address": "Highland, IN, USA",
+  "country": "USA",
+  "place_id": "ChIJR4XluDPnEYgR3dC771dBpjI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

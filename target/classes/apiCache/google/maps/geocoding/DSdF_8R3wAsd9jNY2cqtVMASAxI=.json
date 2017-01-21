@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "44.0247062",
+    "lng": "-88.5426136"
+  },
+  "formatted_address": "Oshkosh, WI, USA",
+  "country": "USA",
+  "place_id": "ChIJKYy36lnpA4gR2vFLGXZcwSw",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

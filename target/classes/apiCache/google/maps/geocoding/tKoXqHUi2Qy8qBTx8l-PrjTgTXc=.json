@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "28.6611089",
+    "lng": "-81.3656242"
+  },
+  "formatted_address": "Altamonte Springs, FL, USA",
+  "country": "USA",
+  "place_id": "ChIJcUuJA25x54gRn8cTG3TC7Bk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

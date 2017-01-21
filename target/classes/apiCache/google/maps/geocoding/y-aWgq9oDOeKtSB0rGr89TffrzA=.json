@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.8906553",
+    "lng": "-71.3922785"
+  },
+  "formatted_address": "Central Falls, RI 02863, USA",
+  "country": "USA",
+  "place_id": "ChIJ6Yo9C5JC5IkR_R6DDezaVEk",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

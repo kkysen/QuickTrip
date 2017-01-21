@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "48.51260449999999",
+    "lng": "-122.6126718"
+  },
+  "formatted_address": "Anacortes, WA 98221, USA",
+  "country": "USA",
+  "place_id": "ChIJa5bInNF4hVQRmJHjZJKWHbI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "35.6368759",
+    "lng": "-120.6545022"
+  },
+  "formatted_address": "Paso Robles, CA 93446, USA",
+  "country": "USA",
+  "place_id": "ChIJvcTFFo_d7IAR79XMkfgilEY",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

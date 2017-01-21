@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "38.682219",
+    "lng": "-104.7008056"
+  },
+  "formatted_address": "Fountain, CO, USA",
+  "country": "USA",
+  "place_id": "ChIJv3PqDPVqE4cRE31HXmB5HXg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.883988",
+    "lng": "-74.56210249999999"
+  },
+  "formatted_address": "Dover, NJ, USA",
+  "country": "USA",
+  "place_id": "ChIJ3Q8RC0x1w4kRFjkzC4-sEXA",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

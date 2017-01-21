@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.6414716",
+    "lng": "-70.2408811"
+  },
+  "formatted_address": "South Portland, ME, USA",
+  "country": "USA",
+  "place_id": "ChIJW0d_oaSbskwR_P3HMJqiGXU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

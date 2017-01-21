@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.6084305",
+    "lng": "-75.4901833"
+  },
+  "formatted_address": "Allentown, PA, USA",
+  "country": "USA",
+  "place_id": "ChIJ4dxKn5I5xIkRoSRoJEvf-eo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

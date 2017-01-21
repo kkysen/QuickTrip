@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.1131514",
+    "lng": "-74.04375210000001"
+  },
+  "formatted_address": "Spring Valley, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJjY_TcFXdwokR3tiHLhdKBY4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

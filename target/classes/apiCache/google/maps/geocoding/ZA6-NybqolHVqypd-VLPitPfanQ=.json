@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.6279558",
+    "lng": "-79.39121159999999"
+  },
+  "formatted_address": "825 Lakeshore Ave, Toronto, ON M5V 1A1, Canada",
+  "country": "Canada",
+  "place_id": "ChIJtfJlmzA1K4gR5HpnOUkfBWI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

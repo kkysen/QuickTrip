@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.6096698",
+    "lng": "-111.9391031"
+  },
+  "formatted_address": "West Jordan, UT, USA",
+  "country": "USA",
+  "place_id": "ChIJb7pe7fiOUocRYEE0vGOVIgc",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "33.0314508",
+    "lng": "-111.3873431"
+  },
+  "formatted_address": "Florence, AZ, USA",
+  "country": "USA",
+  "place_id": "ChIJEcj2DKQQKocRITtwlIKejSU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

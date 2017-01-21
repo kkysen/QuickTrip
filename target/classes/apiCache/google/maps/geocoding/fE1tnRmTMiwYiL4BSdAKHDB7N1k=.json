@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "43.6155825",
+    "lng": "-84.2472116"
+  },
+  "formatted_address": "Midland, MI, USA",
+  "country": "USA",
+  "place_id": "ChIJFwfbA5yAIYgRkAqyIuSDbHo",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

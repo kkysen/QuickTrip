@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.8215929",
+    "lng": "-121.9999606"
+  },
+  "formatted_address": "Danville, CA, USA",
+  "country": "USA",
+  "place_id": "ChIJhwVQCRLzj4AR1S-D85d7Wxg",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

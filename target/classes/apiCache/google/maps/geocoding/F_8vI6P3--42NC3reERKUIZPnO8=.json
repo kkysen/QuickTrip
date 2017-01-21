@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.0659329",
+    "lng": "-84.67687960000001"
+  },
+  "formatted_address": "Acworth, GA, USA",
+  "country": "USA",
+  "place_id": "ChIJ5SwYpkkV9YgRP7wgDLyCZX8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "41.7469749",
+    "lng": "-88.0503406"
+  },
+  "formatted_address": "Woodridge, IL, USA",
+  "country": "USA",
+  "place_id": "ChIJGdIlYINaDogRUNK6tO3FRh4",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

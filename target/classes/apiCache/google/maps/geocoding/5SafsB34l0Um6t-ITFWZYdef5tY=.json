@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "42.5750883",
+    "lng": "-71.998133"
+  },
+  "formatted_address": "Gardner, MA, USA",
+  "country": "USA",
+  "place_id": "ChIJN8D3Hs1Y4YkRnVIpC1RpJIQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

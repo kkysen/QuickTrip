@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.6409891",
+    "lng": "-73.77432019999999"
+  },
+  "formatted_address": "Perimeter Rd, Jamaica, NY 11430, USA",
+  "country": "USA",
+  "place_id": "ChIJMzxEK1xmwokR3R4iYnF8KsU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

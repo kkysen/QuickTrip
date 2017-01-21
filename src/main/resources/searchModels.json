@@ -2,6 +2,40 @@
   {
     "origin": {
       "latLng": {
+        "lat": "41.8781136",
+        "lng": "-87.6297982"
+      },
+      "formatted_address": "Chicago, IL, USA",
+      "country": "USA",
+      "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    "startDate": "2017-01-21",
+    "destinations": [
+      {
+        "location": {
+          "latLng": {
+            "lat": "37.7749295",
+            "lng": "-122.4194155"
+          },
+          "formatted_address": "San Francisco, CA, USA",
+          "country": "USA",
+          "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+          "status": "OK",
+          "ok": true,
+          "impossible": false
+        },
+        "numDays": 2
+      }
+    ],
+    "budget": 500,
+    "numPeople": 3
+  },
+  {
+    "origin": {
+      "latLng": {
         "lat": "40.6781784",
         "lng": "-73.94415789999999"
       },

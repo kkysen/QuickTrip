@@ -9,6 +9,7 @@ import java.io.IOException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.time.Duration;
+import java.util.ArrayList;
 import java.util.List;
 
 import org.apache.commons.lang3.tuple.Pair;
@@ -61,18 +62,23 @@ public class GoogleGeocodingRequest extends GoogleMapsRequest<Geolocation> {
         adapters.add(Pair.of(Geolocation.class, new GeolocationAdapter()));
     }
     
+    public static List<Geolocation> cache(final Path placesFile, int limit) throws IOException {
+        final List<String> places = MyFiles.readLines(placesFile);
+        limit = limit > places.size() ? places.size() : limit;
+        final GoogleGeocodingRequest request = new GoogleGeocodingRequest("");
+        final List<Geolocation> locations = new ArrayList<>(limit);
+        for (final String place : places.subList(0, limit)) {
+            System.out.print(place + ": ");
+            request.address = place;
+            request.clearResponse();
+            locations.add(request.getResponse());
+        }
+        return locations;
+    }
+    
     public static void main(final String[] args) throws IOException {
         System.out.println("caching major cities");
-        final List<String> cities = MyFiles
-                .readLines(Paths.get("C:/Users/kkyse/Downloads/Top5000Population.csv")).subList(0, 2000);
-        System.out.println(cities.size());
-        final GoogleGeocodingRequest request = new GoogleGeocodingRequest("");
-        for (final String city : cities) {
-            System.out.print(city + ": ");
-            request.address = city;
-            request.clearResponse();
-            request.getResponse();
-        }
+        cache(Paths.get("C:/Users/kkyse/Downloads/Top5000Population.csv"), 5000);
     }
     
 }

@@ -66,18 +66,17 @@
   "route": {
     "bounds": {
       "northeast": {
-        "lat": "41.9005082",
+        "lat": "41.9007886",
         "lng": "-87.6297872"
       },
       "southwest": {
-        "lat": "37.7706074",
-        "lng": "-122.4059319"
+        "lat": "37.7730141",
+        "lng": "-122.4219802"
       }
     },
     "legs": [
       {
-        "distance": {},
-        "duration": 110159,
+        "duration": 110207,
         "start_address": "Chicago, IL, USA",
         "start_location": {
           "lat": "41.8781139",
@@ -115,7 +114,6 @@
         "googleMapsUrl": "https://www.google.com/maps/dir/San Francisco, CA, USA/Chicago, IL, USA"
       },
       {
-        "distance": {},
         "duration": 109827,
         "start_address": "San Francisco, CA, USA",
         "start_location": {
@@ -155,7 +153,7 @@
       }
     ],
     "overview_polyline": {
-      "points": "eir~FdezuOdlMpymB{xMfnqAvsAxclBtyUjneCvvWb}~@d{OlhY}|JfoNg|Ezi_Bm|Dz}`A_jElx|E|Ghb~Cp_GrqjArqBzdf@fpPzed@jrHhetAoF|`xB_GdahBt`]rb]ftVzkv@lqTvlj@zvi@dw`AvgMr|yAwFl|zEbgRx~gB|nHhflBq{EncrA}wiA`i_EoiDntfEhtLn|gCg_Nzv~B{fNr`u@ew@`mgA`{If|oBvwI|jvCgsGrhcAu~Zzb[gdStox@egi@hsnAseXvwjAmgFzbfC`tW|r_DmoEvmbCdnMvmpAzaO~hg@sdFdhWjcCdcu@tkXjj|@vjU~lgBlaIvpaAzny@|tlApf_@~|Fz_EhzYx`DvrdAzYh|t@lqGnva@al[|c~Az|Qjsp@gb@~mbAqf@|`kB}dy@z}vAeiLbt{AftW|gzA`mp@fj_CznMtye@_yCb}`AffI~{u@{aTnmYai^x|l@qkRdqr@~jDv|e@~qp@lcy@toLfq\\ju`@|cP|ct@j|]rjTzj_@tdk@f~y@dml@tvv@byDfn_@ppIppl@v`B~en@heBvlVp~MdtLhlPzsXpS|d^tcPlypAjz[f_h@~lr@xah@r`i@~fdAx|Qdjm@nna@twk@x}d@~kl@|gi@v|TfjUwvDrjJtwTyfI}cPmk`@}bCuwg@uoZ{nx@_teAsc[uslAk~pAcvrAaz[{ib@wwOmsTuvBqef@osLirjAadWoqPqiDwij@mvNcteB{~aAu|hBcvh@mhl@kkj@goa@mlq@{rYyji@gdj@cdM___@onOshd@vbRyn_@ja]wr|@v{Us|[jNsof@`gBa~oA{kMesc@qnNocy@o}]i|w@ym^ctcBn}GklcBzt}@sxyA}uCsxrE`|@m~h@`jJ{nv@go@ytl@agJozq@twGw}OkdEg}c@zmCi_`@e{Ooz[qca@tUojq@i_kAgv]q_fDarYebt@wfA}xw@{sDyabAmwSwgtAxiEygjCcgXiefCviG}t|BbWuwt@riR}qe@fdl@upxAfyXqg~@va\\_ha@scCsdhF_eM}gxBxcTgpqBvrOupxC}rPehnBs~BycuAp~Rok`Cpck@oroBdvUwo{AxqCsfw@}sN}tdBiyLgbmCqCu~iEkgWwjrAwyb@wnm@wbRmtk@_iWw}p@c}[}fc@nRe_qCzW}svAwiRaxbBetL{|{@gcCeidA}h@eunEvwGkf|DvgPuttC`wAozM_}UulVikOugs@k{Tcj`CkwGajrAppSqkvAosNcw`CaPijH"
+      "points": "eir~FdezuOdlMpymB{xMfnqAvsAxclBtyUjneCvvWb}~@d{OlhY}|JfoNg|Ezi_Bm|Dz}`A_jElx|E|Ghb~Cp_GrqjArqBzdf@fpPzed@jrHhetAoF|`xB_GdahBt`]rb]ftVzkv@lqTvlj@zvi@dw`AvgMr|yAwFl|zEbgRx~gBjrAxj_E}wiA`i_EoiDntfEhtLn|gCg_Nzv~Ba_Ptn}B`{If|oBvwI|jvCgsGrhcAu~Zzb[gdStox@egi@hsnAseXvwjAmgFzbfC`tW|r_DmoEvmbCdnMvmpAzaO~hg@sdFdhWjcCdcu@tkXjj|@vjU~lgBlaIvpaAzny@|tlApf_@~|Fz_EhzYvwBja^avCvm]vhKtucAmcBxvr@atTxydAtdQd`o@imAlhpCugA~_m@my~@xoyAe}ChjaBhb]dqvAvw]jw~@jzMvax@tfN~}d@uuBzeoAz_Gb~ZypMjgSs`PbyTeoZbcq@mzRhan@`yTpmq@zur@v_~@~j{@dsX|~`@lc`@zy`@|ae@~bf@hqaAnj`@vmm@pcD|xYdgNjlp@eMvjo@bd@p_RbhUvhDttL`w`@}Uz|`@{Ubug@`qQ~w`@pv]vhg@pe{@bhw@zsd@hj|@hbr@tuzAfwd@dwe@ruk@tcNxqVfiUerKqpWyuTpxDe`VyqRoqc@{d^}iy@ivgAmn`@ktmAc~gAcvaAajXclc@yaP}lZe_@aqe@kxHu|iAssZ{nP{}Aufo@crSe{cBq{uA_qlBiwWwlf@yalAkz`@q_k@{it@kh]}ho@qe@grc@rhKw__@dbf@slaAj~Sy~[aiJi{n@|qC{abA_qM{of@gvo@ur_C{{T{xa@ekAa_~@~cEuj`AlyUo`m@|nf@syfA~}BijmCcqFsg~AzcSw~tAayNgl^umBgws@daGq`KwoC{u`@vMkqf@yvVquPgn\\grBs~n@}wlAmqFqzoAo~_@c{bBmqQazaB}bFwgaAguLgwzAyrDqy|CofOw||BrnGupbCxaZgvjAdpm@}qwAvoQuzx@rd^iuj@axL}kcF{}G_xeCdeTiaiB`{H{l`DwcGotiBkfCmqlBx_Zq~sB|rk@{lbBnjLqywAnsBm}_AkdWg~aBiiFmsvIop_@_voAwsa@wih@apI_ef@or`@s~q@awPiiM_U}qg@xIckfC_EcbzAcxS{`uAw_Hwc\\a`Cuv`@ioAohqAwZy}rEn}GialDlzGu~~AtyJmik@g|\\gvk@i|M}s|@cuRs{wBayEgefB`fRyssAixMq|qB"
     },
     "summary": "I-80 W",
     "warnings": [],
@@ -165,8 +163,7 @@
   },
   "legs": [
     {
-      "distance": {},
-      "duration": 110159,
+      "duration": 110207,
       "start_address": "Chicago, IL, USA",
       "start_location": {
         "lat": "41.8781139",
@@ -204,7 +201,6 @@
       "googleMapsUrl": "https://www.google.com/maps/dir/San Francisco, CA, USA/Chicago, IL, USA"
     },
     {
-      "distance": {},
       "duration": 109827,
       "start_address": "San Francisco, CA, USA",
       "start_location": {

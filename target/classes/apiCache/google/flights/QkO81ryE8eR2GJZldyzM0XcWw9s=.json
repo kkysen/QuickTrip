@@ -1,10 +1,10 @@
 {
   "trips": {
-    "requestId": "pO2rHWPNbNpYNwtfS0PqyX",
+    "requestId": "G8dk2GDNYmNyhfvZ70PrFl",
     "tripOption": [
       {
-        "saleTotal": "USD3192.12",
-        "id": "4xwHOAN8vbCUb38uVzHtE6001",
+        "saleTotal": "USD3769.17",
+        "id": "coP37sv2fxOOeA4chKoF77001",
         "slice": [
           {
             "duration": 794,
@@ -77,10 +77,10 @@
         ],
         "pricing": [
           {
-            "baseFareTotal": "USD949.47",
-            "saleFareTotal": "USD949.47",
-            "saleTaxTotal": "USD114.57",
-            "saleTotal": "USD1064.04"
+            "baseFareTotal": "USD1128.40",
+            "saleFareTotal": "USD1128.40",
+            "saleTaxTotal": "USD127.99",
+            "saleTotal": "USD1256.39"
           }
         ]
       }

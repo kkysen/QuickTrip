@@ -1,5 +1,151 @@
 {
   "trips": {
-    "requestId": "iHiaK4pGhkMrpreP70PqyX"
+    "requestId": "sNgFYc32xVJv7wo3E0PrFk",
+    "tripOption": [
+      {
+        "saleTotal": "USD4190.10",
+        "id": "TKh4HCPuSz7OLtegMNtkwL001",
+        "slice": [
+          {
+            "duration": 1418,
+            "segment": [
+              {
+                "duration": 78,
+                "flight": {
+                  "carrier": "B6",
+                  "number": "347"
+                },
+                "id": "GQjHZxmRMeIbuYB1",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LRFb82Bi2ENccM9Y",
+                    "arrivalTime": "2017-01-21T18:35-08:00",
+                    "departureTime": "2017-01-21T17:17-08:00",
+                    "origin": "OAK",
+                    "destination": "LGB",
+                    "originTerminal": "1",
+                    "duration": "78"
+                  }
+                ],
+                "connectionDuration": 46
+              },
+              {
+                "duration": 104,
+                "flight": {
+                  "carrier": "B6",
+                  "number": "2132"
+                },
+                "id": "GEn9YXLZqNCU2R0L",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LNE8-bL-xLSMox37",
+                    "arrivalTime": "2017-01-21T22:05-07:00",
+                    "departureTime": "2017-01-21T19:21-08:00",
+                    "origin": "LGB",
+                    "destination": "SLC",
+                    "destinationTerminal": "1",
+                    "duration": "104"
+                  }
+                ],
+                "connectionDuration": 101
+              },
+              {
+                "duration": 254,
+                "flight": {
+                  "carrier": "B6",
+                  "number": "802"
+                },
+                "id": "G5ACYHARRSyuPWT2",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "Lgmp+DcOOHfWVXvS",
+                    "arrivalTime": "2017-01-22T06:00-05:00",
+                    "departureTime": "2017-01-21T23:46-07:00",
+                    "origin": "SLC",
+                    "destination": "MCO",
+                    "originTerminal": "1",
+                    "duration": "254"
+                  }
+                ],
+                "connectionDuration": 81
+              },
+              {
+                "duration": 167,
+                "flight": {
+                  "carrier": "B6",
+                  "number": "52"
+                },
+                "id": "GdGfB-rL4Up+VpLz",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LRSi9joGglJyG1p7",
+                    "arrivalTime": "2017-01-22T10:08-05:00",
+                    "departureTime": "2017-01-22T07:21-05:00",
+                    "origin": "MCO",
+                    "destination": "BOS",
+                    "destinationTerminal": "C",
+                    "duration": "167"
+                  }
+                ],
+                "connectionDuration": 187
+              },
+              {
+                "duration": 112,
+                "flight": {
+                  "carrier": "PD",
+                  "number": "944"
+                },
+                "id": "GfcDZBrKSFNa4P3a",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "L7qlDz3SzkS+al68",
+                    "arrivalTime": "2017-01-22T15:07-05:00",
+                    "departureTime": "2017-01-22T13:15-05:00",
+                    "origin": "BOS",
+                    "destination": "YTZ",
+                    "originTerminal": "E",
+                    "duration": "112"
+                  }
+                ],
+                "connectionDuration": 178
+              },
+              {
+                "duration": 110,
+                "flight": {
+                  "carrier": "PD",
+                  "number": "395"
+                },
+                "id": "Gmozf2rir1ww0hvS",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "Lh2gby120ylQvVVP",
+                    "arrivalTime": "2017-01-22T18:55-06:00",
+                    "departureTime": "2017-01-22T18:05-05:00",
+                    "origin": "YTZ",
+                    "destination": "MDW",
+                    "duration": "110"
+                  }
+                ],
+                "connectionDuration": 0
+              }
+            ]
+          }
+        ],
+        "pricing": [
+          {
+            "baseFareTotal": "USD1247.48",
+            "saleFareTotal": "USD1247.48",
+            "saleTaxTotal": "USD149.22",
+            "saleTotal": "USD1396.70"
+          }
+        ]
+      }
+    ]
   }
 }

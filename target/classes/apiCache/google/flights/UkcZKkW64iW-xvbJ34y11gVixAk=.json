@@ -1,32 +1,52 @@
 {
   "trips": {
-    "requestId": "25bnbIew5mkw1blPM0PqyX",
+    "requestId": "4Kc98TXyx1WKKniKp0PrFk",
     "tripOption": [
       {
-        "saleTotal": "USD849.60",
-        "id": "1TCMyeUHJ2IOoFv6iYf1s9001",
+        "saleTotal": "USD1421.40",
+        "id": "U714G9BsJETQqP8z2auHNF001",
         "slice": [
           {
-            "duration": 237,
+            "duration": 465,
             "segment": [
               {
-                "duration": 237,
+                "duration": 120,
                 "flight": {
-                  "carrier": "UA",
-                  "number": "995"
+                  "carrier": "AS",
+                  "number": "223"
                 },
-                "id": "GpgyDiU2CZl2HgWS",
+                "id": "GkyINHGSVzen4YJV",
                 "cabin": "COACH",
                 "leg": [
                   {
-                    "id": "LAfepLqYZQpZVe-o",
-                    "arrivalTime": "2017-01-22T05:12-06:00",
-                    "departureTime": "2017-01-21T23:15-08:00",
+                    "id": "LjZzvdqkzvNMaUKh",
+                    "arrivalTime": "2017-01-21T23:00-08:00",
+                    "departureTime": "2017-01-21T21:00-08:00",
                     "origin": "SFO",
+                    "destination": "SEA",
+                    "originTerminal": "I",
+                    "duration": "120"
+                  }
+                ],
+                "connectionDuration": 105
+              },
+              {
+                "duration": 240,
+                "flight": {
+                  "carrier": "AS",
+                  "number": "20"
+                },
+                "id": "GLv7DA0HtpCfWY0i",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LkMlzFgYz7Fo604-",
+                    "arrivalTime": "2017-01-22T06:45-06:00",
+                    "departureTime": "2017-01-22T00:45-08:00",
+                    "origin": "SEA",
                     "destination": "ORD",
-                    "originTerminal": "3",
-                    "destinationTerminal": "1",
-                    "duration": "237"
+                    "destinationTerminal": "3",
+                    "duration": "240"
                   }
                 ],
                 "connectionDuration": 0
@@ -36,10 +56,10 @@
         ],
         "pricing": [
           {
-            "baseFareTotal": "USD250.23",
-            "saleFareTotal": "USD250.23",
-            "saleTaxTotal": "USD32.97",
-            "saleTotal": "USD283.20"
+            "baseFareTotal": "USD419.53",
+            "saleFareTotal": "USD419.53",
+            "saleTaxTotal": "USD54.27",
+            "saleTotal": "USD473.80"
           }
         ]
       }

@@ -23,7 +23,8 @@ public class Flights implements AnnealingState {
         flights = new ArrayList<>();
         for (final List<Flight> flightPool : possibleFlights) {
             if (flightPool.size() == 0) {
-                throw new NullPointerException();
+                //throw new NullPointerException();
+                return;
             }
             flightPool.sort(
                     (flight1, flight2) -> flight1.getDuration().compareTo(flight2.getDuration()));

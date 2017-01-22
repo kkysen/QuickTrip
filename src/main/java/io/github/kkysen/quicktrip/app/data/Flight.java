@@ -30,6 +30,8 @@ public interface Flight {
     public default void setDestinationLocations() {
         getOrigin().setLocation(getStartAirport().getGeolocation());
         getDestination().setLocation(getEndAirport().getGeolocation());
+        System.out.println("origin airport: " + getOrigin().getAddress());
+        System.out.println("destiination airport: " + getDestination().getAddress());
     }
     
 }

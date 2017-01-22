@@ -1,0 +1,111 @@
+{
+  "trips": {
+    "requestId": "5Gz4MRST9wWRej6Ls0PrNd",
+    "tripOption": [
+      {
+        "saleTotal": "USD2336.61",
+        "id": "YXqIVmW95u8Lo3dzOxB6oC001",
+        "slice": [
+          {
+            "duration": 1000,
+            "segment": [
+              {
+                "duration": 95,
+                "flight": {
+                  "carrier": "PD",
+                  "number": "386"
+                },
+                "id": "GvZGKuQjITMzmp-6",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "L1ruLzzD5EKRi33A",
+                    "arrivalTime": "2017-01-31T12:55-05:00",
+                    "departureTime": "2017-01-31T10:20-06:00",
+                    "origin": "MDW",
+                    "destination": "YTZ",
+                    "duration": "95"
+                  }
+                ],
+                "connectionDuration": 120
+              },
+              {
+                "duration": 93,
+                "flight": {
+                  "carrier": "PD",
+                  "number": "945"
+                },
+                "id": "Gnxl3fgH4qaPrsGR",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LRvO8QMXkFAyacZZ",
+                    "arrivalTime": "2017-01-31T16:28-05:00",
+                    "departureTime": "2017-01-31T14:55-05:00",
+                    "origin": "YTZ",
+                    "destination": "BOS",
+                    "destinationTerminal": "E",
+                    "duration": "93"
+                  }
+                ],
+                "connectionDuration": 149
+              },
+              {
+                "duration": 79,
+                "flight": {
+                  "carrier": "B6",
+                  "number": "1317"
+                },
+                "id": "G7eXf9gqv861fOSW",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LrmvmbdlWNhKvvEb",
+                    "arrivalTime": "2017-01-31T20:16-05:00",
+                    "departureTime": "2017-01-31T18:57-05:00",
+                    "origin": "BOS",
+                    "destination": "JFK",
+                    "originTerminal": "C",
+                    "destinationTerminal": "5",
+                    "duration": "79"
+                  }
+                ],
+                "connectionDuration": 84
+              },
+              {
+                "duration": 380,
+                "flight": {
+                  "carrier": "B6",
+                  "number": "1323"
+                },
+                "id": "GErDtWPgYTxX8NVA",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LmEHktAsu16tLWnX",
+                    "arrivalTime": "2017-02-01T01:00-08:00",
+                    "departureTime": "2017-01-31T21:40-05:00",
+                    "origin": "JFK",
+                    "destination": "LAX",
+                    "originTerminal": "5",
+                    "destinationTerminal": "3",
+                    "duration": "380"
+                  }
+                ],
+                "connectionDuration": 0
+              }
+            ]
+          }
+        ],
+        "pricing": [
+          {
+            "baseFareTotal": "USD680.38",
+            "saleFareTotal": "USD680.38",
+            "saleTaxTotal": "USD98.49",
+            "saleTotal": "USD778.87"
+          }
+        ]
+      }
+    ]
+  }
+}

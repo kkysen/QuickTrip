@@ -1,0 +1,201 @@
+{
+  "numWaypoints": 4,
+  "numLegs": 3,
+  "geocoded_waypoints": [
+    {
+      "latLng": {
+        "lat": "34.2012706",
+        "lng": "-118.3621941"
+      },
+      "formatted_address": "2800 N Clybourn Ave, Burbank, CA 91505, USA",
+      "country": "USA",
+      "place_id": "ChIJK_SWG7OVwoARF5Ds4aHPjp8",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    {
+      "latLng": {
+        "lat": "34.0512814",
+        "lng": "-118.2652649"
+      },
+      "formatted_address": "1135 W 7th St, Los Angeles, CA 90057, USA",
+      "country": "USA",
+      "place_id": "ChIJi3F_vLrHwoARUK6e1mSQYoE",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    {
+      "latLng": {
+        "lat": "37.7854238",
+        "lng": "-122.4085092"
+      },
+      "formatted_address": "127 Ellis St, San Francisco, CA 94102, USA",
+      "country": "USA",
+      "place_id": "ChIJVZm9XY-AhYARlqX604bAAeA",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    {
+      "latLng": {
+        "lat": "37.7749901",
+        "lng": "-122.4194926"
+      },
+      "formatted_address": "San Francisco, CA, USA",
+      "country": "USA",
+      "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    }
+  ],
+  "origin": {
+    "latLng": {
+      "lat": "34.2012706",
+      "lng": "-118.3621941"
+    },
+    "formatted_address": "2800 N Clybourn Ave, Burbank, CA 91505, USA",
+    "country": "USA",
+    "place_id": "ChIJK_SWG7OVwoARF5Ds4aHPjp8",
+    "status": "OK",
+    "ok": true,
+    "impossible": false
+  },
+  "destination": {
+    "latLng": {
+      "lat": "37.7749901",
+      "lng": "-122.4194926"
+    },
+    "formatted_address": "San Francisco, CA, USA",
+    "country": "USA",
+    "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+    "status": "OK",
+    "ok": true,
+    "impossible": false
+  },
+  "legs": [
+    {
+      "duration": 1609,
+      "start_address": "2800 N Clybourn Ave, Burbank, CA 91505, USA",
+      "start_location": {
+        "lat": "34.2012706",
+        "lng": "-118.3621941"
+      },
+      "startLocation": {
+        "latLng": {
+          "lat": "34.2012706",
+          "lng": "-118.3621941"
+        },
+        "formatted_address": "2800 N Clybourn Ave, Burbank, CA 91505, USA",
+        "country": "USA",
+        "place_id": "ChIJK_SWG7OVwoARF5Ds4aHPjp8",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "end_address": "1135 W 7th St, Los Angeles, CA 90057, USA",
+      "end_location": {
+        "lat": "34.0512814",
+        "lng": "-118.2652649"
+      },
+      "endLocation": {
+        "latLng": {
+          "lat": "34.0512814",
+          "lng": "-118.2652649"
+        },
+        "formatted_address": "1135 W 7th St, Los Angeles, CA 90057, USA",
+        "country": "USA",
+        "place_id": "ChIJi3F_vLrHwoARUK6e1mSQYoE",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "googleMapsUrl": "https://www.google.com/maps/dir/2800 N Clybourn Ave, Burbank, CA 91505, USA/1135 W 7th St, Los Angeles, CA 90057, USA"
+    },
+    {
+      "duration": 20523,
+      "start_address": "1135 W 7th St, Los Angeles, CA 90057, USA",
+      "start_location": {
+        "lat": "34.0512814",
+        "lng": "-118.2652649"
+      },
+      "startLocation": {
+        "latLng": {
+          "lat": "34.0512814",
+          "lng": "-118.2652649"
+        },
+        "formatted_address": "1135 W 7th St, Los Angeles, CA 90057, USA",
+        "country": "USA",
+        "place_id": "ChIJi3F_vLrHwoARUK6e1mSQYoE",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "end_address": "127 Ellis St, San Francisco, CA 94102, USA",
+      "end_location": {
+        "lat": "37.7854238",
+        "lng": "-122.4085092"
+      },
+      "endLocation": {
+        "latLng": {
+          "lat": "37.7854238",
+          "lng": "-122.4085092"
+        },
+        "formatted_address": "127 Ellis St, San Francisco, CA 94102, USA",
+        "country": "USA",
+        "place_id": "ChIJVZm9XY-AhYARlqX604bAAeA",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "googleMapsUrl": "https://www.google.com/maps/dir/1135 W 7th St, Los Angeles, CA 90057, USA/127 Ellis St, San Francisco, CA 94102, USA"
+    },
+    {
+      "duration": 484,
+      "start_address": "127 Ellis St, San Francisco, CA 94102, USA",
+      "start_location": {
+        "lat": "37.7854238",
+        "lng": "-122.4085092"
+      },
+      "startLocation": {
+        "latLng": {
+          "lat": "37.7854238",
+          "lng": "-122.4085092"
+        },
+        "formatted_address": "127 Ellis St, San Francisco, CA 94102, USA",
+        "country": "USA",
+        "place_id": "ChIJVZm9XY-AhYARlqX604bAAeA",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "end_address": "San Francisco, CA, USA",
+      "end_location": {
+        "lat": "37.7749901",
+        "lng": "-122.4194926"
+      },
+      "endLocation": {
+        "latLng": {
+          "lat": "37.7749901",
+          "lng": "-122.4194926"
+        },
+        "formatted_address": "San Francisco, CA, USA",
+        "country": "USA",
+        "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "googleMapsUrl": "https://www.google.com/maps/dir/127 Ellis St, San Francisco, CA 94102, USA/San Francisco, CA, USA"
+    }
+  ],
+  "waypointOrder": [
+    0,
+    1
+  ],
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

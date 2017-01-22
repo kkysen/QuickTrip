@@ -1,0 +1,201 @@
+{
+  "numWaypoints": 4,
+  "numLegs": 3,
+  "geocoded_waypoints": [
+    {
+      "latLng": {
+        "lat": "34.2012706",
+        "lng": "-118.3621941"
+      },
+      "formatted_address": "2800 N Clybourn Ave, Burbank, CA 91505, USA",
+      "country": "USA",
+      "place_id": "ChIJK_SWG7OVwoARF5Ds4aHPjp8",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    {
+      "latLng": {
+        "lat": "34.052579",
+        "lng": "-118.2639122"
+      },
+      "formatted_address": "1111 Wilshire Blvd, Los Angeles, CA 90017, USA",
+      "country": "USA",
+      "place_id": "ChIJDdhO_a_HwoARUQwYiHILn90",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    {
+      "latLng": {
+        "lat": "37.7890475",
+        "lng": "-122.4069078"
+      },
+      "formatted_address": "340 Stockton St, San Francisco, CA 94108, USA",
+      "country": "USA",
+      "place_id": "ChIJI38rNomAhYARCcXyOG7nP9A",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    {
+      "latLng": {
+        "lat": "37.7749901",
+        "lng": "-122.4194926"
+      },
+      "formatted_address": "San Francisco, CA, USA",
+      "country": "USA",
+      "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    }
+  ],
+  "origin": {
+    "latLng": {
+      "lat": "34.2012706",
+      "lng": "-118.3621941"
+    },
+    "formatted_address": "2800 N Clybourn Ave, Burbank, CA 91505, USA",
+    "country": "USA",
+    "place_id": "ChIJK_SWG7OVwoARF5Ds4aHPjp8",
+    "status": "OK",
+    "ok": true,
+    "impossible": false
+  },
+  "destination": {
+    "latLng": {
+      "lat": "37.7749901",
+      "lng": "-122.4194926"
+    },
+    "formatted_address": "San Francisco, CA, USA",
+    "country": "USA",
+    "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+    "status": "OK",
+    "ok": true,
+    "impossible": false
+  },
+  "legs": [
+    {
+      "duration": 1549,
+      "start_address": "2800 N Clybourn Ave, Burbank, CA 91505, USA",
+      "start_location": {
+        "lat": "34.2012706",
+        "lng": "-118.3621941"
+      },
+      "startLocation": {
+        "latLng": {
+          "lat": "34.2012706",
+          "lng": "-118.3621941"
+        },
+        "formatted_address": "2800 N Clybourn Ave, Burbank, CA 91505, USA",
+        "country": "USA",
+        "place_id": "ChIJK_SWG7OVwoARF5Ds4aHPjp8",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "end_address": "1111 Wilshire Blvd, Los Angeles, CA 90017, USA",
+      "end_location": {
+        "lat": "34.052579",
+        "lng": "-118.2639122"
+      },
+      "endLocation": {
+        "latLng": {
+          "lat": "34.052579",
+          "lng": "-118.2639122"
+        },
+        "formatted_address": "1111 Wilshire Blvd, Los Angeles, CA 90017, USA",
+        "country": "USA",
+        "place_id": "ChIJDdhO_a_HwoARUQwYiHILn90",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "googleMapsUrl": "https://www.google.com/maps/dir/2800 N Clybourn Ave, Burbank, CA 91505, USA/1111 Wilshire Blvd, Los Angeles, CA 90017, USA"
+    },
+    {
+      "duration": 20632,
+      "start_address": "1111 Wilshire Blvd, Los Angeles, CA 90017, USA",
+      "start_location": {
+        "lat": "34.052579",
+        "lng": "-118.2639122"
+      },
+      "startLocation": {
+        "latLng": {
+          "lat": "34.052579",
+          "lng": "-118.2639122"
+        },
+        "formatted_address": "1111 Wilshire Blvd, Los Angeles, CA 90017, USA",
+        "country": "USA",
+        "place_id": "ChIJDdhO_a_HwoARUQwYiHILn90",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "end_address": "340 Stockton St, San Francisco, CA 94108, USA",
+      "end_location": {
+        "lat": "37.7890475",
+        "lng": "-122.4069078"
+      },
+      "endLocation": {
+        "latLng": {
+          "lat": "37.7890475",
+          "lng": "-122.4069078"
+        },
+        "formatted_address": "340 Stockton St, San Francisco, CA 94108, USA",
+        "country": "USA",
+        "place_id": "ChIJI38rNomAhYARCcXyOG7nP9A",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "googleMapsUrl": "https://www.google.com/maps/dir/1111 Wilshire Blvd, Los Angeles, CA 90017, USA/340 Stockton St, San Francisco, CA 94108, USA"
+    },
+    {
+      "duration": 705,
+      "start_address": "340 Stockton St, San Francisco, CA 94108, USA",
+      "start_location": {
+        "lat": "37.7890475",
+        "lng": "-122.4069078"
+      },
+      "startLocation": {
+        "latLng": {
+          "lat": "37.7890475",
+          "lng": "-122.4069078"
+        },
+        "formatted_address": "340 Stockton St, San Francisco, CA 94108, USA",
+        "country": "USA",
+        "place_id": "ChIJI38rNomAhYARCcXyOG7nP9A",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "end_address": "San Francisco, CA, USA",
+      "end_location": {
+        "lat": "37.7749901",
+        "lng": "-122.4194926"
+      },
+      "endLocation": {
+        "latLng": {
+          "lat": "37.7749901",
+          "lng": "-122.4194926"
+        },
+        "formatted_address": "San Francisco, CA, USA",
+        "country": "USA",
+        "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "googleMapsUrl": "https://www.google.com/maps/dir/340 Stockton St, San Francisco, CA 94108, USA/San Francisco, CA, USA"
+    }
+  ],
+  "waypointOrder": [
+    0,
+    1
+  ],
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,201 @@
+{
+  "numWaypoints": 4,
+  "numLegs": 3,
+  "geocoded_waypoints": [
+    {
+      "latLng": {
+        "lat": "40.6411503",
+        "lng": "-73.787722"
+      },
+      "formatted_address": "Perimeter Rd, Jamaica, NY 11430, USA",
+      "country": "USA",
+      "place_id": "ChIJ9yNidVhmwokReK5cZrKuxUQ",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    {
+      "latLng": {
+        "lat": "34.0512814",
+        "lng": "-118.2652649"
+      },
+      "formatted_address": "1135 W 7th St, Los Angeles, CA 90057, USA",
+      "country": "USA",
+      "place_id": "ChIJi3F_vLrHwoARUK6e1mSQYoE",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    {
+      "latLng": {
+        "lat": "37.789167",
+        "lng": "-122.4091083"
+      },
+      "formatted_address": "524 Sutter St, San Francisco, CA 94102, USA",
+      "country": "USA",
+      "place_id": "ChIJPUownY6AhYARe5B1g_JXZ8o",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    {
+      "latLng": {
+        "lat": "37.7749901",
+        "lng": "-122.4194926"
+      },
+      "formatted_address": "San Francisco, CA, USA",
+      "country": "USA",
+      "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    }
+  ],
+  "origin": {
+    "latLng": {
+      "lat": "40.6411503",
+      "lng": "-73.787722"
+    },
+    "formatted_address": "Perimeter Rd, Jamaica, NY 11430, USA",
+    "country": "USA",
+    "place_id": "ChIJ9yNidVhmwokReK5cZrKuxUQ",
+    "status": "OK",
+    "ok": true,
+    "impossible": false
+  },
+  "destination": {
+    "latLng": {
+      "lat": "37.7749901",
+      "lng": "-122.4194926"
+    },
+    "formatted_address": "San Francisco, CA, USA",
+    "country": "USA",
+    "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+    "status": "OK",
+    "ok": true,
+    "impossible": false
+  },
+  "legs": [
+    {
+      "duration": 145934,
+      "start_address": "Perimeter Rd, Jamaica, NY 11430, USA",
+      "start_location": {
+        "lat": "40.6411503",
+        "lng": "-73.787722"
+      },
+      "startLocation": {
+        "latLng": {
+          "lat": "40.6411503",
+          "lng": "-73.787722"
+        },
+        "formatted_address": "Perimeter Rd, Jamaica, NY 11430, USA",
+        "country": "USA",
+        "place_id": "ChIJ9yNidVhmwokReK5cZrKuxUQ",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "end_address": "1135 W 7th St, Los Angeles, CA 90057, USA",
+      "end_location": {
+        "lat": "34.0512814",
+        "lng": "-118.2652649"
+      },
+      "endLocation": {
+        "latLng": {
+          "lat": "34.0512814",
+          "lng": "-118.2652649"
+        },
+        "formatted_address": "1135 W 7th St, Los Angeles, CA 90057, USA",
+        "country": "USA",
+        "place_id": "ChIJi3F_vLrHwoARUK6e1mSQYoE",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "googleMapsUrl": "https://www.google.com/maps/dir/Perimeter Rd, Jamaica, NY 11430, USA/1135 W 7th St, Los Angeles, CA 90057, USA"
+    },
+    {
+      "duration": 20635,
+      "start_address": "1135 W 7th St, Los Angeles, CA 90057, USA",
+      "start_location": {
+        "lat": "34.0512814",
+        "lng": "-118.2652649"
+      },
+      "startLocation": {
+        "latLng": {
+          "lat": "34.0512814",
+          "lng": "-118.2652649"
+        },
+        "formatted_address": "1135 W 7th St, Los Angeles, CA 90057, USA",
+        "country": "USA",
+        "place_id": "ChIJi3F_vLrHwoARUK6e1mSQYoE",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "end_address": "524 Sutter St, San Francisco, CA 94102, USA",
+      "end_location": {
+        "lat": "37.789167",
+        "lng": "-122.4091083"
+      },
+      "endLocation": {
+        "latLng": {
+          "lat": "37.789167",
+          "lng": "-122.4091083"
+        },
+        "formatted_address": "524 Sutter St, San Francisco, CA 94102, USA",
+        "country": "USA",
+        "place_id": "ChIJPUownY6AhYARe5B1g_JXZ8o",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "googleMapsUrl": "https://www.google.com/maps/dir/1135 W 7th St, Los Angeles, CA 90057, USA/524 Sutter St, San Francisco, CA 94102, USA"
+    },
+    {
+      "duration": 652,
+      "start_address": "524 Sutter St, San Francisco, CA 94102, USA",
+      "start_location": {
+        "lat": "37.789167",
+        "lng": "-122.4091083"
+      },
+      "startLocation": {
+        "latLng": {
+          "lat": "37.789167",
+          "lng": "-122.4091083"
+        },
+        "formatted_address": "524 Sutter St, San Francisco, CA 94102, USA",
+        "country": "USA",
+        "place_id": "ChIJPUownY6AhYARe5B1g_JXZ8o",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "end_address": "San Francisco, CA, USA",
+      "end_location": {
+        "lat": "37.7749901",
+        "lng": "-122.4194926"
+      },
+      "endLocation": {
+        "latLng": {
+          "lat": "37.7749901",
+          "lng": "-122.4194926"
+        },
+        "formatted_address": "San Francisco, CA, USA",
+        "country": "USA",
+        "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "googleMapsUrl": "https://www.google.com/maps/dir/524 Sutter St, San Francisco, CA 94102, USA/San Francisco, CA, USA"
+    }
+  ],
+  "waypointOrder": [
+    0,
+    1
+  ],
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

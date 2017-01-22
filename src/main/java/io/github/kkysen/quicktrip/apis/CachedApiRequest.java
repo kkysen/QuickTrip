@@ -23,13 +23,10 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.time.Duration;
 import java.time.Instant;
-import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Base64;
-import java.util.Deque;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Iterator;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
@@ -506,45 +503,6 @@ public abstract class CachedApiRequest<R> implements Request<R> {
     }
     
     /**
-     *
-     *
-     * @author Khyber Sen
-     */
-    private static final class KeyManager implements Iterable<String> {
-        
-        private final Deque<String> keys = new ArrayDeque<>();
-        
-        public KeyManager() {}
-        
-        public boolean addKey(final String key) {
-            if (keys.contains(key)) {
-                return false;
-            }
-            keys.add(key);
-            return true;
-        }
-        
-        public String get() {
-            return keys.getFirst();
-        }
-        
-        public void rotate() {
-            keys.addFirst(keys.pollLast());
-        }
-        
-        public String next() {
-            rotate();
-            return get();
-        }
-        
-        @Override
-        public Iterator<String> iterator() {
-            return keys.iterator();
-        }
-        
-    }
-    
-    /**
      * the one and only {@link RequestCache} that caches all the requests made
      */
     private static final RequestCache requestCache = new RequestCache();
@@ -561,13 +519,12 @@ public abstract class CachedApiRequest<R> implements Request<R> {
     }
     
     private final QueryParams query = new QueryParams();
-    
-    private final KeyManager apiKeys = new KeyManager();
-    
+
     /**
      * @return the Class of type R of this request's response
      */
     protected abstract Class<? extends R> getResponseClass();
+    
     
     /**
      * If getPojoClass does not work because of generics, return null.
@@ -607,12 +564,18 @@ public abstract class CachedApiRequest<R> implements Request<R> {
      */
     protected abstract List<String> getApiKeys();
     
+    protected KeyManager getKeyManager() {
+        return new KeyManager(getApiKeys());
+    }
+    
     /**
      * @return the relative Path of the directory in which this request should
      *         be cached. The absolute Path is {@value #CACHE_DIR} +
      *         {@link #getRelativeCachePath()}.
      */
     protected abstract Path getRelativeCachePath();
+    
+    private KeyManager apiKeys;
     
     private String apiKeyQueryName;
     private String apiKey;
@@ -678,13 +641,12 @@ public abstract class CachedApiRequest<R> implements Request<R> {
     
     private void findUrl() {
         baseUrl = getBaseUrl();
-        final List<String> apiKeyList = getApiKeys();
-        if (apiKeyList == null || apiKeyList.size() == 0) {
+        apiKeys = getKeyManager();
+        if (apiKeys.isEmpty()) {
             apiKey = null;
             setUrlWithApiKey();
             return;
         }
-        apiKeyList.forEach(apiKeys::addKey);
         apiKeyQueryName = getApiKeyQueryName();
         for (final String apiKey : apiKeys) {
             this.apiKey = apiKey;

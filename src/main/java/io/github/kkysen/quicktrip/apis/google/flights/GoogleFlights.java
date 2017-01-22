@@ -26,7 +26,7 @@ import lombok.RequiredArgsConstructor;
 public class GoogleFlights {
     
     private Trip trips;
-    //private List<Option> sortedOptions;
+    //private List<GoogleFlight> sortedOptions;
     //private int duration;
     //private  ports;
     
@@ -93,8 +93,8 @@ public class GoogleFlights {
     }*/
     
     //for each option, pricae, duration
-    public List<Option> sortOptions() {
-        final List<Option> sortedOptions = trips.getTripOption().stream()
+    public List<GoogleFlight> sortOptions() {
+        final List<GoogleFlight> sortedOptions = trips.getTripOption().stream()
                 .sorted((first, second) -> {
                     //signum gets the sign of the value
                     return (int) Math.signum(
@@ -105,8 +105,11 @@ public class GoogleFlights {
         return sortedOptions;
     }
     
-    private List<Option> shortestFlights() {
-        final List<Option> flights = trips.getTripOption();
+    private List<GoogleFlight> shortestFlights() {
+        final List<GoogleFlight> flights = trips.getTripOption();
+        for (final Flight flight : flights) {
+            System.out.println(flight.getDuration().getSeconds());
+        }
         flights.sort((flight1, flight2) -> {
             return flight1.getDuration().compareTo(flight2.getDuration());
         });
@@ -120,7 +123,7 @@ public class GoogleFlights {
         return shortestFlights();
     }
     
-    public Option getOption(final int index) {
+    public GoogleFlight getOption(final int index) {
         return sortOptions().get(index);
     }
     

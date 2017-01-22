@@ -129,7 +129,7 @@ public class GoogleFlightsRequest extends GoogleApiPostRequest<GoogleFlights> {
     
     public static List<Flight> near(final Geolocation origin, final Geolocation destination,
             final LocalDate date, final int numPeople) throws ApiRequestException {
-        final List<Flight> flights = new ArrayList<>(Airports.NUM_NEAR * Airports.NUM_NEAR);
+        final List<Flight> flights = new ArrayList<>(Airports.NUM_NEAR_RETURN * Airports.NUM_NEAR_RETURN);
         final List<Airport> originAirports = AIRPORTS.near(origin);
         System.out.println(originAirports);
         final List<Airport> destinationAirports = AIRPORTS.near(destination);

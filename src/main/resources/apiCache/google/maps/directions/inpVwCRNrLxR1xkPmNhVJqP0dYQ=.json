@@ -1,0 +1,201 @@
+{
+  "numWaypoints": 4,
+  "numLegs": 3,
+  "geocoded_waypoints": [
+    {
+      "latLng": {
+        "lat": "40.6411503",
+        "lng": "-73.787722"
+      },
+      "formatted_address": "Perimeter Rd, Jamaica, NY 11430, USA",
+      "country": "USA",
+      "place_id": "ChIJ9yNidVhmwokReK5cZrKuxUQ",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    {
+      "latLng": {
+        "lat": "34.0586474",
+        "lng": "-118.2613844"
+      },
+      "formatted_address": "285 Lucas Ave, Los Angeles, CA 90026, USA",
+      "country": "USA",
+      "place_id": "ChIJDXPy1qjHwoARSe3mpvQRpj0",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    {
+      "latLng": {
+        "lat": "37.7855035",
+        "lng": "-122.4078893"
+      },
+      "formatted_address": "114 Powell St, San Francisco, CA 94102, USA",
+      "country": "USA",
+      "place_id": "ChIJT9c7UI-AhYARhlULETZarHQ",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    {
+      "latLng": {
+        "lat": "37.7749901",
+        "lng": "-122.4194926"
+      },
+      "formatted_address": "San Francisco, CA, USA",
+      "country": "USA",
+      "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    }
+  ],
+  "origin": {
+    "latLng": {
+      "lat": "40.6411503",
+      "lng": "-73.787722"
+    },
+    "formatted_address": "Perimeter Rd, Jamaica, NY 11430, USA",
+    "country": "USA",
+    "place_id": "ChIJ9yNidVhmwokReK5cZrKuxUQ",
+    "status": "OK",
+    "ok": true,
+    "impossible": false
+  },
+  "destination": {
+    "latLng": {
+      "lat": "37.7749901",
+      "lng": "-122.4194926"
+    },
+    "formatted_address": "San Francisco, CA, USA",
+    "country": "USA",
+    "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+    "status": "OK",
+    "ok": true,
+    "impossible": false
+  },
+  "legs": [
+    {
+      "duration": 145886,
+      "start_address": "Perimeter Rd, Jamaica, NY 11430, USA",
+      "start_location": {
+        "lat": "40.6411503",
+        "lng": "-73.787722"
+      },
+      "startLocation": {
+        "latLng": {
+          "lat": "40.6411503",
+          "lng": "-73.787722"
+        },
+        "formatted_address": "Perimeter Rd, Jamaica, NY 11430, USA",
+        "country": "USA",
+        "place_id": "ChIJ9yNidVhmwokReK5cZrKuxUQ",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "end_address": "285 Lucas Ave, Los Angeles, CA 90026, USA",
+      "end_location": {
+        "lat": "34.0586474",
+        "lng": "-118.2613844"
+      },
+      "endLocation": {
+        "latLng": {
+          "lat": "34.0586474",
+          "lng": "-118.2613844"
+        },
+        "formatted_address": "285 Lucas Ave, Los Angeles, CA 90026, USA",
+        "country": "USA",
+        "place_id": "ChIJDXPy1qjHwoARSe3mpvQRpj0",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "googleMapsUrl": "https://www.google.com/maps/dir/Perimeter Rd, Jamaica, NY 11430, USA/285 Lucas Ave, Los Angeles, CA 90026, USA"
+    },
+    {
+      "duration": 20423,
+      "start_address": "285 Lucas Ave, Los Angeles, CA 90026, USA",
+      "start_location": {
+        "lat": "34.0586474",
+        "lng": "-118.2613844"
+      },
+      "startLocation": {
+        "latLng": {
+          "lat": "34.0586474",
+          "lng": "-118.2613844"
+        },
+        "formatted_address": "285 Lucas Ave, Los Angeles, CA 90026, USA",
+        "country": "USA",
+        "place_id": "ChIJDXPy1qjHwoARSe3mpvQRpj0",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "end_address": "114 Powell St, San Francisco, CA 94102, USA",
+      "end_location": {
+        "lat": "37.7855035",
+        "lng": "-122.4078893"
+      },
+      "endLocation": {
+        "latLng": {
+          "lat": "37.7855035",
+          "lng": "-122.4078893"
+        },
+        "formatted_address": "114 Powell St, San Francisco, CA 94102, USA",
+        "country": "USA",
+        "place_id": "ChIJT9c7UI-AhYARhlULETZarHQ",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "googleMapsUrl": "https://www.google.com/maps/dir/285 Lucas Ave, Los Angeles, CA 90026, USA/114 Powell St, San Francisco, CA 94102, USA"
+    },
+    {
+      "duration": 504,
+      "start_address": "114 Powell St, San Francisco, CA 94102, USA",
+      "start_location": {
+        "lat": "37.7855035",
+        "lng": "-122.4078893"
+      },
+      "startLocation": {
+        "latLng": {
+          "lat": "37.7855035",
+          "lng": "-122.4078893"
+        },
+        "formatted_address": "114 Powell St, San Francisco, CA 94102, USA",
+        "country": "USA",
+        "place_id": "ChIJT9c7UI-AhYARhlULETZarHQ",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "end_address": "San Francisco, CA, USA",
+      "end_location": {
+        "lat": "37.7749901",
+        "lng": "-122.4194926"
+      },
+      "endLocation": {
+        "latLng": {
+          "lat": "37.7749901",
+          "lng": "-122.4194926"
+        },
+        "formatted_address": "San Francisco, CA, USA",
+        "country": "USA",
+        "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "googleMapsUrl": "https://www.google.com/maps/dir/114 Powell St, San Francisco, CA 94102, USA/San Francisco, CA, USA"
+    }
+  ],
+  "waypointOrder": [
+    0,
+    1
+  ],
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

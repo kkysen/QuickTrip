@@ -17,7 +17,7 @@ public class Trip {
     //private Data data;
     
     @SerializedName("tripOption")
-    private List<Option> tripOption;
+    private List<GoogleFlight> tripOption;
     
     @Override
     public String toString() {

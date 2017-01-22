@@ -4,6 +4,7 @@ import io.github.kkysen.quicktrip.apis.google.GoogleApiResponse;
 import io.github.kkysen.quicktrip.json.Json;
 
 import java.util.List;
+import java.util.StringJoiner;
 
 import com.google.gson.annotations.SerializedName;
 
@@ -84,6 +85,19 @@ public class DrivingDirections extends GoogleApiResponse {
         super.preSerialize();
         routes = null;
         route = null;
+    }
+    
+    public String waypointsToString() {
+        final StringJoiner sj = new StringJoiner(" -> ");
+        for (final Waypoint waypoint : waypoints) {
+            sj.add(waypoint.getAddress());
+        }
+        return sj.toString();
+    }
+    
+    @Override
+    public String toString() {
+        return "DrivingDirections [" + waypointsToString() + "]";
     }
     
 }

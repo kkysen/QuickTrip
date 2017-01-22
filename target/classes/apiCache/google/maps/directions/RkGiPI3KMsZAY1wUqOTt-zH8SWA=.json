@@ -1,0 +1,98 @@
+{
+  "numWaypoints": 2,
+  "numLegs": 1,
+  "geocoded_waypoints": [
+    {
+      "latLng": {
+        "lat": "41.8781139",
+        "lng": "-87.6297872"
+      },
+      "formatted_address": "Chicago, IL, USA",
+      "country": "USA",
+      "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    {
+      "latLng": {
+        "lat": "41.8781139",
+        "lng": "-87.6297872"
+      },
+      "formatted_address": "Chicago, IL, USA",
+      "country": "USA",
+      "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    }
+  ],
+  "origin": {
+    "latLng": {
+      "lat": "41.8781139",
+      "lng": "-87.6297872"
+    },
+    "formatted_address": "Chicago, IL, USA",
+    "country": "USA",
+    "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+    "status": "OK",
+    "ok": true,
+    "impossible": false
+  },
+  "destination": {
+    "latLng": {
+      "lat": "41.8781139",
+      "lng": "-87.6297872"
+    },
+    "formatted_address": "Chicago, IL, USA",
+    "country": "USA",
+    "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+    "status": "OK",
+    "ok": true,
+    "impossible": false
+  },
+  "legs": [
+    {
+      "duration": 0,
+      "start_address": "Chicago, IL, USA",
+      "start_location": {
+        "lat": "41.8781139",
+        "lng": "-87.6297872"
+      },
+      "startLocation": {
+        "latLng": {
+          "lat": "41.8781139",
+          "lng": "-87.6297872"
+        },
+        "formatted_address": "Chicago, IL, USA",
+        "country": "USA",
+        "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "end_address": "Chicago, IL, USA",
+      "end_location": {
+        "lat": "41.8781139",
+        "lng": "-87.6297872"
+      },
+      "endLocation": {
+        "latLng": {
+          "lat": "41.8781139",
+          "lng": "-87.6297872"
+        },
+        "formatted_address": "Chicago, IL, USA",
+        "country": "USA",
+        "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "googleMapsUrl": "https://www.google.com/maps/dir/Chicago, IL, USA/Chicago, IL, USA"
+    }
+  ],
+  "waypointOrder": [],
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

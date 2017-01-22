@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.7891425",
+    "lng": "-122.4065639"
+  },
+  "formatted_address": "340 Stockton St, San Francisco, CA 94108, USA",
+  "country": "USA",
+  "place_id": "ChIJI38rNomAhYARCcXyOG7nP9A",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

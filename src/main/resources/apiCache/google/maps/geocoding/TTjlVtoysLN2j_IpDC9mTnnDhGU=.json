@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "34.2010558",
+    "lng": "-118.3614697"
+  },
+  "formatted_address": "2800 N Clybourn Ave, Burbank, CA 91505, USA",
+  "country": "USA",
+  "place_id": "ChIJK_SWG7OVwoARF5Ds4aHPjp8",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

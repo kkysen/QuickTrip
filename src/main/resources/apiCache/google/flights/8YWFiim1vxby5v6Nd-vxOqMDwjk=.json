@@ -1,0 +1,207 @@
+{
+  "trips": {
+    "requestId": "PN5NYwwbyV7wpIvJq0PrO5",
+    "tripOption": [
+      {
+        "saleTotal": "USD2424.48",
+        "id": "UF3bGxQSolUNiAu38cB2pR001",
+        "slice": [
+          {
+            "duration": 875,
+            "segment": [
+              {
+                "duration": 97,
+                "flight": {
+                  "carrier": "PD",
+                  "number": "384"
+                },
+                "id": "GLj88DsZGXIJ8k-k",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "L-EziJZrmpFtGJew",
+                    "arrivalTime": "2017-01-31T10:37-05:00",
+                    "departureTime": "2017-01-31T08:00-06:00",
+                    "origin": "MDW",
+                    "destination": "YTZ",
+                    "duration": "97"
+                  }
+                ],
+                "connectionDuration": 83
+              },
+              {
+                "duration": 90,
+                "flight": {
+                  "carrier": "PD",
+                  "number": "131"
+                },
+                "id": "GA2YDYyW8sUwrN8d",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LVO5wGv3iR8qvEVj",
+                    "arrivalTime": "2017-01-31T13:30-05:00",
+                    "departureTime": "2017-01-31T12:00-05:00",
+                    "origin": "YTZ",
+                    "destination": "EWR",
+                    "destinationTerminal": "B",
+                    "duration": "90"
+                  }
+                ],
+                "connectionDuration": 218
+              },
+              {
+                "duration": 387,
+                "flight": {
+                  "carrier": "B6",
+                  "number": "359"
+                },
+                "id": "GWsBeU00gYZzY8Ab",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LbNiKdbL-llcPj6g",
+                    "arrivalTime": "2017-01-31T20:35-08:00",
+                    "departureTime": "2017-01-31T17:08-05:00",
+                    "origin": "JFK",
+                    "destination": "BUR",
+                    "originTerminal": "5",
+                    "duration": "387"
+                  }
+                ],
+                "connectionDuration": 0
+              }
+            ]
+          }
+        ],
+        "pricing": [
+          {
+            "baseFareTotal": "USD711.44",
+            "saleFareTotal": "USD711.44",
+            "saleTaxTotal": "USD96.72",
+            "saleTotal": "USD808.16"
+          }
+        ],
+        "airports": [
+          {
+            "type": "LARGE",
+            "name": "Chicago Midway International Airport",
+            "location": {
+              "lat": "41.7859993",
+              "lng": "-87.75240326"
+            },
+            "elevation": "620",
+            "continent": "NA",
+            "country": "US",
+            "region": "US-IL",
+            "municipality": "Chicago",
+            "gpsCode": "KMDW",
+            "iataCode": "MDW",
+            "localCode": "MDW"
+          },
+          {
+            "type": "LARGE",
+            "name": "Newark Liberty International Airport",
+            "location": {
+              "lat": "40.69250107",
+              "lng": "-74.16870117"
+            },
+            "elevation": "18",
+            "continent": "NA",
+            "country": "US",
+            "region": "US-NJ",
+            "municipality": "Newark",
+            "gpsCode": "KEWR",
+            "iataCode": "EWR",
+            "localCode": "EWR"
+          },
+          {
+            "type": "MEDIUM",
+            "name": "Billy Bishop Toronto City Centre Airport",
+            "location": {
+              "lat": "43.62749863",
+              "lng": "-79.39620209"
+            },
+            "elevation": "252",
+            "continent": "NA",
+            "country": "CA",
+            "region": "CA-ON",
+            "municipality": "Toronto",
+            "gpsCode": "CYTZ",
+            "iataCode": "YTZ",
+            "localCode": ""
+          },
+          {
+            "type": "LARGE",
+            "name": "John F Kennedy International Airport",
+            "location": {
+              "lat": "40.63980103",
+              "lng": "-73.77890015"
+            },
+            "elevation": "13",
+            "continent": "NA",
+            "country": "US",
+            "region": "US-NY",
+            "municipality": "New York",
+            "gpsCode": "KJFK",
+            "iataCode": "JFK",
+            "localCode": "JFK"
+          },
+          {
+            "type": "MEDIUM",
+            "name": "Bob Hope Airport",
+            "location": {
+              "lat": "34.20069885",
+              "lng": "-118.3590012"
+            },
+            "elevation": "778",
+            "continent": "NA",
+            "country": "US",
+            "region": "US-CA",
+            "municipality": "Burbank",
+            "gpsCode": "KBUR",
+            "iataCode": "BUR",
+            "localCode": "BUR"
+          }
+        ],
+        "duration": {
+          "seconds": 52500,
+          "nanos": 0
+        },
+        "price": 2424,
+        "startAirport": {
+          "type": "LARGE",
+          "name": "Chicago Midway International Airport",
+          "location": {
+            "lat": "41.7859993",
+            "lng": "-87.75240326"
+          },
+          "elevation": "620",
+          "continent": "NA",
+          "country": "US",
+          "region": "US-IL",
+          "municipality": "Chicago",
+          "gpsCode": "KMDW",
+          "iataCode": "MDW",
+          "localCode": "MDW"
+        },
+        "endAirport": {
+          "type": "MEDIUM",
+          "name": "Bob Hope Airport",
+          "location": {
+            "lat": "34.20069885",
+            "lng": "-118.3590012"
+          },
+          "elevation": "778",
+          "continent": "NA",
+          "country": "US",
+          "region": "US-CA",
+          "municipality": "Burbank",
+          "gpsCode": "KBUR",
+          "iataCode": "BUR",
+          "localCode": "BUR"
+        }
+      }
+    ]
+  }
+}

@@ -28,7 +28,8 @@ public class Airports {
     private static final Path ORIGINAL_PATH = DIR.resolve("airport-codes.csv");
     private static final Path PATH = DIR.resolve("airports.csv");
     
-    public static final int NUM_NEAR = 1;
+    public static final int NUM_NEAR_SEARCH = 3;
+    public static final int NUM_NEAR_RETURN = 1;
     
     static {
         try {
@@ -133,7 +134,8 @@ public class Airports {
         do {
             airports = inRadius(location, radius).collect(Collectors.toList());
             radius += 10;
-        } while (airports.size() < NUM_NEAR);
+        } while (airports.size() < NUM_NEAR_SEARCH);
+        airports = airports.subList(0, NUM_NEAR_RETURN);
         return airports;
     }
     

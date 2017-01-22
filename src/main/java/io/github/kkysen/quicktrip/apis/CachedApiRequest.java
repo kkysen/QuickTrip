@@ -899,4 +899,8 @@ public abstract class CachedApiRequest<R> implements Request<R> {
         return Reflect.toString(this);
     }
     
+    protected ApiRequestException createException() {
+        return new ApiRequestException(this, new IOException());
+    }
+    
 }

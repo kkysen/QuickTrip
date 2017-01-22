@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.7877337",
+    "lng": "-122.4107138"
+  },
+  "formatted_address": "545 Post St, San Francisco, CA 94102, USA",
+  "country": "USA",
+  "place_id": "ChIJDQ_gQo6AhYARQX08-5sL7vM",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

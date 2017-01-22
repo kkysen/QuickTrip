@@ -211,7 +211,7 @@ public class Itinerary implements Closeable {
     
     private void setAirportLocations() {
         flights.forEach(Flight::setDestinationLocations);
-    }
+    } 
     
     private void setHotelLocations() {
         for (final Destination dest : hotelDestinations) {

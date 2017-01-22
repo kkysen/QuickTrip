@@ -1,0 +1,201 @@
+{
+  "numWaypoints": 4,
+  "numLegs": 3,
+  "geocoded_waypoints": [
+    {
+      "latLng": {
+        "lat": "41.8781139",
+        "lng": "-87.6297872"
+      },
+      "formatted_address": "Chicago, IL, USA",
+      "country": "USA",
+      "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    {
+      "latLng": {
+        "lat": "34.0440401",
+        "lng": "-118.2579266"
+      },
+      "formatted_address": "888 S Olive St, Los Angeles, CA 90014, USA",
+      "country": "USA",
+      "place_id": "ChIJAX90CMrHwoAR-82JcMvzPHE",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    {
+      "latLng": {
+        "lat": "37.7892599",
+        "lng": "-122.4083335"
+      },
+      "formatted_address": "480 Sutter St, San Francisco, CA 94108, USA",
+      "country": "USA",
+      "place_id": "ChIJk7iKoY6AhYARFkpJjmY4264",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    {
+      "latLng": {
+        "lat": "41.8781139",
+        "lng": "-87.6297872"
+      },
+      "formatted_address": "Chicago, IL, USA",
+      "country": "USA",
+      "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    }
+  ],
+  "origin": {
+    "latLng": {
+      "lat": "41.8781139",
+      "lng": "-87.6297872"
+    },
+    "formatted_address": "Chicago, IL, USA",
+    "country": "USA",
+    "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+    "status": "OK",
+    "ok": true,
+    "impossible": false
+  },
+  "destination": {
+    "latLng": {
+      "lat": "41.8781139",
+      "lng": "-87.6297872"
+    },
+    "formatted_address": "Chicago, IL, USA",
+    "country": "USA",
+    "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+    "status": "OK",
+    "ok": true,
+    "impossible": false
+  },
+  "legs": [
+    {
+      "duration": 102989,
+      "start_address": "Chicago, IL, USA",
+      "start_location": {
+        "lat": "41.8781139",
+        "lng": "-87.6297872"
+      },
+      "startLocation": {
+        "latLng": {
+          "lat": "41.8781139",
+          "lng": "-87.6297872"
+        },
+        "formatted_address": "Chicago, IL, USA",
+        "country": "USA",
+        "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "end_address": "888 S Olive St, Los Angeles, CA 90014, USA",
+      "end_location": {
+        "lat": "34.0440401",
+        "lng": "-118.2579266"
+      },
+      "endLocation": {
+        "latLng": {
+          "lat": "34.0440401",
+          "lng": "-118.2579266"
+        },
+        "formatted_address": "888 S Olive St, Los Angeles, CA 90014, USA",
+        "country": "USA",
+        "place_id": "ChIJAX90CMrHwoAR-82JcMvzPHE",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "googleMapsUrl": "https://www.google.com/maps/dir/Chicago, IL, USA/888 S Olive St, Los Angeles, CA 90014, USA"
+    },
+    {
+      "duration": 20707,
+      "start_address": "888 S Olive St, Los Angeles, CA 90014, USA",
+      "start_location": {
+        "lat": "34.0440401",
+        "lng": "-118.2579266"
+      },
+      "startLocation": {
+        "latLng": {
+          "lat": "34.0440401",
+          "lng": "-118.2579266"
+        },
+        "formatted_address": "888 S Olive St, Los Angeles, CA 90014, USA",
+        "country": "USA",
+        "place_id": "ChIJAX90CMrHwoAR-82JcMvzPHE",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "end_address": "480 Sutter St, San Francisco, CA 94108, USA",
+      "end_location": {
+        "lat": "37.7892599",
+        "lng": "-122.4083335"
+      },
+      "endLocation": {
+        "latLng": {
+          "lat": "37.7892599",
+          "lng": "-122.4083335"
+        },
+        "formatted_address": "480 Sutter St, San Francisco, CA 94108, USA",
+        "country": "USA",
+        "place_id": "ChIJk7iKoY6AhYARFkpJjmY4264",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "googleMapsUrl": "https://www.google.com/maps/dir/888 S Olive St, Los Angeles, CA 90014, USA/480 Sutter St, San Francisco, CA 94108, USA"
+    },
+    {
+      "duration": 109997,
+      "start_address": "480 Sutter St, San Francisco, CA 94108, USA",
+      "start_location": {
+        "lat": "37.7892599",
+        "lng": "-122.4083335"
+      },
+      "startLocation": {
+        "latLng": {
+          "lat": "37.7892599",
+          "lng": "-122.4083335"
+        },
+        "formatted_address": "480 Sutter St, San Francisco, CA 94108, USA",
+        "country": "USA",
+        "place_id": "ChIJk7iKoY6AhYARFkpJjmY4264",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "end_address": "Chicago, IL, USA",
+      "end_location": {
+        "lat": "41.8781139",
+        "lng": "-87.6297872"
+      },
+      "endLocation": {
+        "latLng": {
+          "lat": "41.8781139",
+          "lng": "-87.6297872"
+        },
+        "formatted_address": "Chicago, IL, USA",
+        "country": "USA",
+        "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "googleMapsUrl": "https://www.google.com/maps/dir/480 Sutter St, San Francisco, CA 94108, USA/Chicago, IL, USA"
+    }
+  ],
+  "waypointOrder": [
+    0,
+    1
+  ],
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

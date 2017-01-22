@@ -28,7 +28,7 @@ public class Airports {
     private static final Path ORIGINAL_PATH = DIR.resolve("airport-codes.csv");
     private static final Path PATH = DIR.resolve("airports.csv");
     
-    public static final int NUM_NEAR = 3;
+    public static final int NUM_NEAR = 1;
     
     static {
         try {

@@ -1,5 +1,7 @@
 package io.github.kkysen.quicktrip.apis.google;
 
+import io.github.kkysen.quicktrip.apis.ExceededDailyQuotaException;
+
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
@@ -35,6 +37,9 @@ public abstract class GoogleApiPostRequest<R> extends GoogleApiRequest<R> {
         postRequest.addHeader("Accept", "application/json");
         final HttpClient httpClient = HttpClientBuilder.create().build();
         final HttpResponse response = httpClient.execute(postRequest);
+        if (response.getStatusLine().getStatusCode() == 403) {
+            throw new ExceededDailyQuotaException(createException());
+        }
         InputStream in;
         try {
             in = response.getEntity().getContent();

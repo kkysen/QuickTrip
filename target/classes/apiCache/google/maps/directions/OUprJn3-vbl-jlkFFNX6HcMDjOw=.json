@@ -1,0 +1,150 @@
+{
+  "numWaypoints": 3,
+  "numLegs": 2,
+  "geocoded_waypoints": [
+    {
+      "latLng": {
+        "lat": "37.6172888",
+        "lng": "-122.3842487"
+      },
+      "formatted_address": "101 San Francisco International Airport Tram, San Francisco, CA 94128, USA",
+      "country": "USA",
+      "place_id": "ChIJFZB7s5J3j4ARS5BvhklRdiU",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    {
+      "latLng": {
+        "lat": "37.7880171",
+        "lng": "-122.4108018"
+      },
+      "formatted_address": "545 Post St, San Francisco, CA 94102, USA",
+      "country": "USA",
+      "place_id": "ChIJDQ_gQo6AhYARQX08-5sL7vM",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    {
+      "latLng": {
+        "lat": "41.9813575",
+        "lng": "-87.90517199999999"
+      },
+      "formatted_address": "Chicago, IL 60666, USA",
+      "country": "USA",
+      "place_id": "ChIJBZRKFCK0D4gR6iziHH4xEaE",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    }
+  ],
+  "origin": {
+    "latLng": {
+      "lat": "37.6172888",
+      "lng": "-122.3842487"
+    },
+    "formatted_address": "101 San Francisco International Airport Tram, San Francisco, CA 94128, USA",
+    "country": "USA",
+    "place_id": "ChIJFZB7s5J3j4ARS5BvhklRdiU",
+    "status": "OK",
+    "ok": true,
+    "impossible": false
+  },
+  "destination": {
+    "latLng": {
+      "lat": "41.9813575",
+      "lng": "-87.90517199999999"
+    },
+    "formatted_address": "Chicago, IL 60666, USA",
+    "country": "USA",
+    "place_id": "ChIJBZRKFCK0D4gR6iziHH4xEaE",
+    "status": "OK",
+    "ok": true,
+    "impossible": false
+  },
+  "legs": [
+    {
+      "duration": 1460,
+      "start_address": "101 San Francisco International Airport Tram, San Francisco, CA 94128, USA",
+      "start_location": {
+        "lat": "37.6172888",
+        "lng": "-122.3842487"
+      },
+      "startLocation": {
+        "latLng": {
+          "lat": "37.6172888",
+          "lng": "-122.3842487"
+        },
+        "formatted_address": "101 San Francisco International Airport Tram, San Francisco, CA 94128, USA",
+        "country": "USA",
+        "place_id": "ChIJFZB7s5J3j4ARS5BvhklRdiU",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "end_address": "545 Post St, San Francisco, CA 94102, USA",
+      "end_location": {
+        "lat": "37.7880171",
+        "lng": "-122.4108018"
+      },
+      "endLocation": {
+        "latLng": {
+          "lat": "37.7880171",
+          "lng": "-122.4108018"
+        },
+        "formatted_address": "545 Post St, San Francisco, CA 94102, USA",
+        "country": "USA",
+        "place_id": "ChIJDQ_gQo6AhYARQX08-5sL7vM",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "googleMapsUrl": "https://www.google.com/maps/dir/101 San Francisco International Airport Tram, San Francisco, CA 94128, USA/545 Post St, San Francisco, CA 94102, USA"
+    },
+    {
+      "duration": 109542,
+      "start_address": "545 Post St, San Francisco, CA 94102, USA",
+      "start_location": {
+        "lat": "37.7880171",
+        "lng": "-122.4108018"
+      },
+      "startLocation": {
+        "latLng": {
+          "lat": "37.7880171",
+          "lng": "-122.4108018"
+        },
+        "formatted_address": "545 Post St, San Francisco, CA 94102, USA",
+        "country": "USA",
+        "place_id": "ChIJDQ_gQo6AhYARQX08-5sL7vM",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "end_address": "Chicago, IL 60666, USA",
+      "end_location": {
+        "lat": "41.9813575",
+        "lng": "-87.90517199999999"
+      },
+      "endLocation": {
+        "latLng": {
+          "lat": "41.9813575",
+          "lng": "-87.90517199999999"
+        },
+        "formatted_address": "Chicago, IL 60666, USA",
+        "country": "USA",
+        "place_id": "ChIJBZRKFCK0D4gR6iziHH4xEaE",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "googleMapsUrl": "https://www.google.com/maps/dir/545 Post St, San Francisco, CA 94102, USA/Chicago, IL 60666, USA"
+    }
+  ],
+  "waypointOrder": [
+    0
+  ],
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

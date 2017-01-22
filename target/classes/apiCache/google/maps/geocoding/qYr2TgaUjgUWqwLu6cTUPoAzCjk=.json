@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.6214691",
+    "lng": "-122.3789066"
+  },
+  "formatted_address": "101 San Francisco International Airport Tram, San Francisco, CA 94128, USA",
+  "country": "USA",
+  "place_id": "ChIJFZB7s5J3j4ARS5BvhklRdiU",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

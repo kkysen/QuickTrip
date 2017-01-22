@@ -5,8 +5,6 @@ import io.github.kkysen.quicktrip.optimization.simulatedAnnealing.AnnealingState
 import java.util.ArrayList;
 import java.util.List;
 
-import lombok.Getter;
-
 /**
  * 
  * 
@@ -16,7 +14,7 @@ public class Flights implements AnnealingState {
     
     private final List<List<Flight>> possibleFlights;
     
-    private final @Getter List<Flight> flights;
+    private final List<Flight> flights;
     
     public Flights(final List<List<Flight>> possibleFlights) {
         this.possibleFlights = possibleFlights;
@@ -24,7 +22,12 @@ public class Flights implements AnnealingState {
         // temp for now w/o annealing
         flights = new ArrayList<>();
         for (final List<Flight> flightPool : possibleFlights) {
-            flights.add(flightPool.size() == 0 ? null : flightPool.get(0));
+            if (flightPool.size() == 0) {
+                throw new NullPointerException();
+            }
+            flightPool.sort(
+                    (flight1, flight2) -> flight1.getDuration().compareTo(flight2.getDuration()));
+            flights.add(flightPool.get(0));
         }
     }
     

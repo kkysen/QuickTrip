@@ -4,12 +4,24 @@
   "geocoded_waypoints": [
     {
       "latLng": {
+        "lat": "41.8781139",
+        "lng": "-87.6297872"
+      },
+      "formatted_address": "Chicago, IL, USA",
+      "country": "USA",
+      "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    {
+      "latLng": {
         "lat": "37.7749901",
         "lng": "-122.4194926"
       },
       "formatted_address": "San Francisco, CA, USA",
       "country": "USA",
-      "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+      "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
       "status": "OK",
       "ok": true,
       "impossible": false
@@ -21,18 +33,6 @@
       },
       "formatted_address": "Chicago, IL, USA",
       "country": "USA",
-      "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
-      "status": "OK",
-      "ok": true,
-      "impossible": false
-    },
-    {
-      "latLng": {
-        "lat": "37.7749901",
-        "lng": "-122.4194926"
-      },
-      "formatted_address": "San Francisco, CA, USA",
-      "country": "USA",
       "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
       "status": "OK",
       "ok": true,
@@ -41,10 +41,10 @@
   ],
   "origin": {
     "latLng": {
-      "lat": "37.7749901",
-      "lng": "-122.4194926"
+      "lat": "41.8781139",
+      "lng": "-87.6297872"
     },
-    "formatted_address": "San Francisco, CA, USA",
+    "formatted_address": "Chicago, IL, USA",
     "country": "USA",
     "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
     "status": "OK",
@@ -53,113 +53,15 @@
   },
   "destination": {
     "latLng": {
-      "lat": "37.7749901",
-      "lng": "-122.4194926"
+      "lat": "41.8781139",
+      "lng": "-87.6297872"
     },
-    "formatted_address": "San Francisco, CA, USA",
+    "formatted_address": "Chicago, IL, USA",
     "country": "USA",
     "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
     "status": "OK",
     "ok": true,
     "impossible": false
-  },
-  "route": {
-    "bounds": {
-      "northeast": {
-        "lat": "41.9007886",
-        "lng": "-87.6297872"
-      },
-      "southwest": {
-        "lat": "37.7730141",
-        "lng": "-122.4219802"
-      }
-    },
-    "legs": [
-      {
-        "duration": 110207,
-        "start_address": "Chicago, IL, USA",
-        "start_location": {
-          "lat": "41.8781139",
-          "lng": "-87.6297872"
-        },
-        "startLocation": {
-          "latLng": {
-            "lat": "37.7749901",
-            "lng": "-122.4194926"
-          },
-          "formatted_address": "San Francisco, CA, USA",
-          "country": "USA",
-          "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
-          "status": "OK",
-          "ok": true,
-          "impossible": false
-        },
-        "end_address": "San Francisco, CA, USA",
-        "end_location": {
-          "lat": "37.7749901",
-          "lng": "-122.4194926"
-        },
-        "endLocation": {
-          "latLng": {
-            "lat": "41.8781139",
-            "lng": "-87.6297872"
-          },
-          "formatted_address": "Chicago, IL, USA",
-          "country": "USA",
-          "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
-          "status": "OK",
-          "ok": true,
-          "impossible": false
-        },
-        "googleMapsUrl": "https://www.google.com/maps/dir/San Francisco, CA, USA/Chicago, IL, USA"
-      },
-      {
-        "duration": 109827,
-        "start_address": "San Francisco, CA, USA",
-        "start_location": {
-          "lat": "37.7749901",
-          "lng": "-122.4194926"
-        },
-        "startLocation": {
-          "latLng": {
-            "lat": "41.8781139",
-            "lng": "-87.6297872"
-          },
-          "formatted_address": "Chicago, IL, USA",
-          "country": "USA",
-          "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
-          "status": "OK",
-          "ok": true,
-          "impossible": false
-        },
-        "end_address": "Chicago, IL, USA",
-        "end_location": {
-          "lat": "41.8781139",
-          "lng": "-87.6297872"
-        },
-        "endLocation": {
-          "latLng": {
-            "lat": "37.7749901",
-            "lng": "-122.4194926"
-          },
-          "formatted_address": "San Francisco, CA, USA",
-          "country": "USA",
-          "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
-          "status": "OK",
-          "ok": true,
-          "impossible": false
-        },
-        "googleMapsUrl": "https://www.google.com/maps/dir/Chicago, IL, USA/San Francisco, CA, USA"
-      }
-    ],
-    "overview_polyline": {
-      "points": "eir~FdezuOdlMpymB{xMfnqAvsAxclBtyUjneCvvWb}~@d{OlhY}|JfoNg|Ezi_Bm|Dz}`A_jElx|E|Ghb~Cp_GrqjArqBzdf@fpPzed@jrHhetAoF|`xB_GdahBt`]rb]ftVzkv@lqTvlj@zvi@dw`AvgMr|yAwFl|zEbgRx~gBjrAxj_E}wiA`i_EoiDntfEhtLn|gCg_Nzv~Ba_Ptn}B`{If|oBvwI|jvCgsGrhcAu~Zzb[gdStox@egi@hsnAseXvwjAmgFzbfC`tW|r_DmoEvmbCdnMvmpAzaO~hg@sdFdhWjcCdcu@tkXjj|@vjU~lgBlaIvpaAzny@|tlApf_@~|Fz_EhzYvwBja^avCvm]vhKtucAmcBxvr@atTxydAtdQd`o@imAlhpCugA~_m@my~@xoyAe}ChjaBhb]dqvAvw]jw~@jzMvax@tfN~}d@uuBzeoAz_Gb~ZypMjgSs`PbyTeoZbcq@mzRhan@`yTpmq@zur@v_~@~j{@dsX|~`@lc`@zy`@|ae@~bf@hqaAnj`@vmm@pcD|xYdgNjlp@eMvjo@bd@p_RbhUvhDttL`w`@}Uz|`@{Ubug@`qQ~w`@pv]vhg@pe{@bhw@zsd@hj|@hbr@tuzAfwd@dwe@ruk@tcNxqVfiUerKqpWyuTpxDe`VyqRoqc@{d^}iy@ivgAmn`@ktmAc~gAcvaAajXclc@yaP}lZe_@aqe@kxHu|iAssZ{nP{}Aufo@crSe{cBq{uA_qlBiwWwlf@yalAkz`@q_k@{it@kh]}ho@qe@grc@rhKw__@dbf@slaAj~Sy~[aiJi{n@|qC{abA_qM{of@gvo@ur_C{{T{xa@ekAa_~@~cEuj`AlyUo`m@|nf@syfA~}BijmCcqFsg~AzcSw~tAayNgl^umBgws@daGq`KwoC{u`@vMkqf@yvVquPgn\\grBs~n@}wlAmqFqzoAo~_@c{bBmqQazaB}bFwgaAguLgwzAyrDqy|CofOw||BrnGupbCxaZgvjAdpm@}qwAvoQuzx@rd^iuj@axL}kcF{}G_xeCdeTiaiB`{H{l`DwcGotiBkfCmqlBx_Zq~sB|rk@{lbBnjLqywAnsBm}_AkdWg~aBiiFmsvIop_@_voAwsa@wih@apI_ef@or`@s~q@awPiiM_U}qg@xIckfC_EcbzAcxS{`uAw_Hwc\\a`Cuv`@ioAohqAwZy}rEn}GialDlzGu~~AtyJmik@g|\\gvk@i|M}s|@cuRs{wBayEgefB`fRyssAixMq|qB"
-    },
-    "summary": "I-80 W",
-    "warnings": [],
-    "waypoint_order": [
-      0
-    ]
   },
   "legs": [
     {
@@ -171,10 +73,10 @@
       },
       "startLocation": {
         "latLng": {
-          "lat": "37.7749901",
-          "lng": "-122.4194926"
+          "lat": "41.8781139",
+          "lng": "-87.6297872"
         },
-        "formatted_address": "San Francisco, CA, USA",
+        "formatted_address": "Chicago, IL, USA",
         "country": "USA",
         "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
         "status": "OK",
@@ -188,17 +90,17 @@
       },
       "endLocation": {
         "latLng": {
-          "lat": "41.8781139",
-          "lng": "-87.6297872"
+          "lat": "37.7749901",
+          "lng": "-122.4194926"
         },
-        "formatted_address": "Chicago, IL, USA",
+        "formatted_address": "San Francisco, CA, USA",
         "country": "USA",
         "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
         "status": "OK",
         "ok": true,
         "impossible": false
       },
-      "googleMapsUrl": "https://www.google.com/maps/dir/San Francisco, CA, USA/Chicago, IL, USA"
+      "googleMapsUrl": "https://www.google.com/maps/dir/Chicago, IL, USA/San Francisco, CA, USA"
     },
     {
       "duration": 109827,
@@ -209,10 +111,10 @@
       },
       "startLocation": {
         "latLng": {
-          "lat": "41.8781139",
-          "lng": "-87.6297872"
+          "lat": "37.7749901",
+          "lng": "-122.4194926"
         },
-        "formatted_address": "Chicago, IL, USA",
+        "formatted_address": "San Francisco, CA, USA",
         "country": "USA",
         "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
         "status": "OK",
@@ -226,17 +128,17 @@
       },
       "endLocation": {
         "latLng": {
-          "lat": "37.7749901",
-          "lng": "-122.4194926"
+          "lat": "41.8781139",
+          "lng": "-87.6297872"
         },
-        "formatted_address": "San Francisco, CA, USA",
+        "formatted_address": "Chicago, IL, USA",
         "country": "USA",
         "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
         "status": "OK",
         "ok": true,
         "impossible": false
       },
-      "googleMapsUrl": "https://www.google.com/maps/dir/Chicago, IL, USA/San Francisco, CA, USA"
+      "googleMapsUrl": "https://www.google.com/maps/dir/San Francisco, CA, USA/Chicago, IL, USA"
     }
   ],
   "waypointOrder": [

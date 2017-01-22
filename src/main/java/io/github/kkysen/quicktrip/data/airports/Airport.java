@@ -1,6 +1,8 @@
 package io.github.kkysen.quicktrip.data.airports;
 
 import io.github.kkysen.quicktrip.apis.google.LatLng;
+import io.github.kkysen.quicktrip.apis.google.geocoding.Geolocation;
+import io.github.kkysen.quicktrip.apis.google.geocoding.GoogleGeocodingRequest;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -9,7 +11,6 @@ import java.util.List;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import lombok.Setter;
-import lombok.ToString;
 
 /**
  * 
@@ -18,7 +19,6 @@ import lombok.ToString;
  */
 @RequiredArgsConstructor
 @Getter
-@ToString
 public class Airport {
     
     /**
@@ -108,6 +108,15 @@ public class Airport {
             return false;
         }
         return true;
+    }
+    
+    public Geolocation getGeolocation() {
+        return new GoogleGeocodingRequest(location).getResponseSafely();
+    }
+    
+    @Override
+    public String toString() {
+        return "Airport [" + iataCode + " @ " + name;
     }
     
     public static void main(final String[] args) {

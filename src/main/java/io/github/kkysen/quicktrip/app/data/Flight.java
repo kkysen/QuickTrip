@@ -19,4 +19,17 @@ public interface Flight {
     
     public int getPrice();
     
+    public Destination getOrigin();
+    
+    public void setOrigin(Destination origin);
+    
+    public Destination getDestination();
+    
+    public void setDestination(Destination destination);
+    
+    public default void setDestinationLocations() {
+        getOrigin().setLocation(getStartAirport().getGeolocation());
+        getDestination().setLocation(getEndAirport().getGeolocation());
+    }
+    
 }

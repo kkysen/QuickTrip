@@ -1,0 +1,48 @@
+{
+  "trips": {
+    "requestId": "2cQpsJTw4dAzvAZ7H0PrHQ",
+    "tripOption": [
+      {
+        "saleTotal": "USD189.60",
+        "id": "WhcMr1EeKgNLtOuJmetzuC001",
+        "slice": [
+          {
+            "duration": 278,
+            "segment": [
+              {
+                "duration": 278,
+                "flight": {
+                  "carrier": "F9",
+                  "number": "1273"
+                },
+                "id": "GGjb9PAYqGx12cXu",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "Lw21jgpkc0F1yrYx",
+                    "arrivalTime": "2017-01-30T19:53-08:00",
+                    "departureTime": "2017-01-30T17:15-06:00",
+                    "origin": "ORD",
+                    "destination": "LAX",
+                    "originTerminal": "3",
+                    "destinationTerminal": "3",
+                    "duration": "278"
+                  }
+                ],
+                "connectionDuration": 0
+              }
+            ]
+          }
+        ],
+        "pricing": [
+          {
+            "baseFareTotal": "USD45.58",
+            "saleFareTotal": "USD45.58",
+            "saleTaxTotal": "USD17.62",
+            "saleTotal": "USD63.20"
+          }
+        ]
+      }
+    ]
+  }
+}

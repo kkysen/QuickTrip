@@ -2,6 +2,7 @@ package io.github.kkysen.quicktrip.apis;
 
 import io.github.kkysen.quicktrip.Constants;
 import io.github.kkysen.quicktrip.io.MyFiles;
+import io.github.kkysen.quicktrip.json.PostProcessableFactory;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -18,7 +19,10 @@ import com.google.gson.GsonBuilder;
 public abstract class AbstractJsonRequest<R> extends CachedApiRequest<R> {
     
     protected static final Gson GSON = new Gson();
-    protected static final Gson PRETTY_GSON = new GsonBuilder().setPrettyPrinting().create();
+    protected static final Gson PRETTY_GSON = new GsonBuilder()
+            .setPrettyPrinting()
+            .registerTypeAdapterFactory(new PostProcessableFactory())
+            .create();
     
     @Override
     protected final String getFileExtension() {

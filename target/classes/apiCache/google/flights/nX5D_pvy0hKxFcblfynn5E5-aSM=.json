@@ -1,0 +1,48 @@
+{
+  "trips": {
+    "requestId": "JoMx4IShQSWMrxe2N0PrHM",
+    "tripOption": [
+      {
+        "saleTotal": "USD198.60",
+        "id": "YjlImf4sbV7NIUz1cWztuT001",
+        "slice": [
+          {
+            "duration": 240,
+            "segment": [
+              {
+                "duration": 240,
+                "flight": {
+                  "carrier": "UA",
+                  "number": "390"
+                },
+                "id": "GNdA6SF+T7jUyOip",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LOfvJmiegQI7jJ8Y",
+                    "arrivalTime": "2017-02-01T22:10-06:00",
+                    "departureTime": "2017-02-01T16:10-08:00",
+                    "origin": "SFO",
+                    "destination": "ORD",
+                    "originTerminal": "3",
+                    "destinationTerminal": "1",
+                    "duration": "240"
+                  }
+                ],
+                "connectionDuration": 0
+              }
+            ]
+          }
+        ],
+        "pricing": [
+          {
+            "baseFareTotal": "USD48.37",
+            "saleFareTotal": "USD48.37",
+            "saleTaxTotal": "USD17.83",
+            "saleTotal": "USD66.20"
+          }
+        ]
+      }
+    ]
+  }
+}

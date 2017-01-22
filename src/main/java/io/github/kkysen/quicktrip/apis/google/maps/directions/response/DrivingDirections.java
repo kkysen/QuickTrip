@@ -28,9 +28,10 @@ public class DrivingDirections extends GoogleApiResponse {
     
     private @Getter(AccessLevel.NONE) List<Route> routes; // will be set to null
     
+    private transient Route route;
+    
     private Waypoint origin;
     private Waypoint destination;
-    private Route route;
     private List<Leg> legs;
     private List<Integer> waypointOrder;
     
@@ -55,15 +56,13 @@ public class DrivingDirections extends GoogleApiResponse {
     
     private void postDeserializeWaypointsAndLegs() {
         final Leg firstLeg = legs.get(0);
-        final Waypoint firstWaypoint = waypoints.get(0);
-        firstWaypoint.setAddressLocationFromLeg(firstLeg.getStartLatLng(),
-                firstLeg.getEndAddress());
+        origin.setAddressLocationFromLeg(firstLeg.getStartLatLng(), firstLeg.getStartAddress());
         for (int i = 0; i < numLegs; i++) {
             final Leg leg = legs.get(i);
             final Waypoint waypoint = waypoints.get(i);
             final Waypoint nextWaypoint = waypoints.get(i + 1);
-            waypoint.setAddressLocationFromLeg(leg.getEndLatLng(), leg.getEndAddress());
-            nextWaypoint.setAddressLocationFromLeg(leg.getStartLatLng(), leg.getStartAddress());
+            waypoint.setAddressLocationFromLeg(leg.getStartLatLng(), leg.getStartAddress());
+            nextWaypoint.setAddressLocationFromLeg(leg.getEndLatLng(), leg.getEndAddress());
             leg.setStartLocation(waypoint);
             leg.setEndLocation(nextWaypoint);
             leg.setGoogleMapsUrl();
@@ -84,6 +83,7 @@ public class DrivingDirections extends GoogleApiResponse {
     public void preSerialize() {
         super.preSerialize();
         routes = null;
+        route = null;
     }
     
 }

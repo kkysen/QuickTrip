@@ -12,6 +12,89 @@
       "ok": true,
       "impossible": false
     },
+    "startDate": "2017-01-30",
+    "destinations": [
+      {
+        "location": {
+          "latLng": {
+            "lat": "37.7749295",
+            "lng": "-122.4194155"
+          },
+          "formatted_address": "San Francisco, CA, USA",
+          "country": "USA",
+          "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+          "status": "OK",
+          "ok": true,
+          "impossible": false
+        },
+        "numDays": 2
+      },
+      {
+        "location": {
+          "latLng": {
+            "lat": "34.0522342",
+            "lng": "-118.2436849"
+          },
+          "formatted_address": "Los Angeles, CA, USA",
+          "country": "USA",
+          "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+          "status": "OK",
+          "ok": true,
+          "impossible": false
+        },
+        "numDays": 2
+      }
+    ],
+    "budget": 2000,
+    "numPeople": 3
+  },
+  {
+    "origin": {
+      "latLng": {
+        "lat": "41.8781136",
+        "lng": "-87.6297982"
+      },
+      "formatted_address": "Chicago, IL, USA",
+      "country": "USA",
+      "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    "startDate": "2017-01-30",
+    "destinations": [
+      {
+        "location": {
+          "latLng": {
+            "lat": "37.7749295",
+            "lng": "-122.4194155"
+          },
+          "formatted_address": "San Francisco, CA, USA",
+          "country": "USA",
+          "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+          "status": "OK",
+          "ok": true,
+          "impossible": false
+        },
+        "numDays": 2
+      }
+    ],
+    "budget": 1000,
+    "numPeople": 3
+  },
+  {
+    "origin": {
+      "latLng": {
+        "lat": "41.8781136",
+        "lng": "-87.6297982"
+      },
+      "formatted_address": "Chicago, IL, USA",
+      "country": "USA",
+      "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
     "startDate": "2017-01-21",
     "destinations": [
       {

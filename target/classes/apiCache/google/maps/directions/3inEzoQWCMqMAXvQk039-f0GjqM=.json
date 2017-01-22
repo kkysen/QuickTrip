@@ -1,0 +1,150 @@
+{
+  "numWaypoints": 3,
+  "numLegs": 2,
+  "geocoded_waypoints": [
+    {
+      "latLng": {
+        "lat": "37.6172888",
+        "lng": "-122.3842487"
+      },
+      "formatted_address": "101 San Francisco International Airport Tram, San Francisco, CA 94128, USA",
+      "country": "USA",
+      "place_id": "ChIJFZB7s5J3j4ARS5BvhklRdiU",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    {
+      "latLng": {
+        "lat": "37.7749901",
+        "lng": "-122.4194926"
+      },
+      "formatted_address": "San Francisco, CA, USA",
+      "country": "USA",
+      "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    {
+      "latLng": {
+        "lat": "41.9813575",
+        "lng": "-87.90517199999999"
+      },
+      "formatted_address": "Chicago, IL 60666, USA",
+      "country": "USA",
+      "place_id": "ChIJBZRKFCK0D4gR6iziHH4xEaE",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    }
+  ],
+  "origin": {
+    "latLng": {
+      "lat": "37.6172888",
+      "lng": "-122.3842487"
+    },
+    "formatted_address": "101 San Francisco International Airport Tram, San Francisco, CA 94128, USA",
+    "country": "USA",
+    "place_id": "ChIJFZB7s5J3j4ARS5BvhklRdiU",
+    "status": "OK",
+    "ok": true,
+    "impossible": false
+  },
+  "destination": {
+    "latLng": {
+      "lat": "41.9813575",
+      "lng": "-87.90517199999999"
+    },
+    "formatted_address": "Chicago, IL 60666, USA",
+    "country": "USA",
+    "place_id": "ChIJBZRKFCK0D4gR6iziHH4xEaE",
+    "status": "OK",
+    "ok": true,
+    "impossible": false
+  },
+  "legs": [
+    {
+      "duration": 1239,
+      "start_address": "101 San Francisco International Airport Tram, San Francisco, CA 94128, USA",
+      "start_location": {
+        "lat": "37.6172888",
+        "lng": "-122.3842487"
+      },
+      "startLocation": {
+        "latLng": {
+          "lat": "37.6172888",
+          "lng": "-122.3842487"
+        },
+        "formatted_address": "101 San Francisco International Airport Tram, San Francisco, CA 94128, USA",
+        "country": "USA",
+        "place_id": "ChIJFZB7s5J3j4ARS5BvhklRdiU",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "end_address": "San Francisco, CA, USA",
+      "end_location": {
+        "lat": "37.7749901",
+        "lng": "-122.4194926"
+      },
+      "endLocation": {
+        "latLng": {
+          "lat": "37.7749901",
+          "lng": "-122.4194926"
+        },
+        "formatted_address": "San Francisco, CA, USA",
+        "country": "USA",
+        "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "googleMapsUrl": "https://www.google.com/maps/dir/101 San Francisco International Airport Tram, San Francisco, CA 94128, USA/San Francisco, CA, USA"
+    },
+    {
+      "duration": 109328,
+      "start_address": "San Francisco, CA, USA",
+      "start_location": {
+        "lat": "37.7749901",
+        "lng": "-122.4194926"
+      },
+      "startLocation": {
+        "latLng": {
+          "lat": "37.7749901",
+          "lng": "-122.4194926"
+        },
+        "formatted_address": "San Francisco, CA, USA",
+        "country": "USA",
+        "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "end_address": "Chicago, IL 60666, USA",
+      "end_location": {
+        "lat": "41.9813575",
+        "lng": "-87.90517199999999"
+      },
+      "endLocation": {
+        "latLng": {
+          "lat": "41.9813575",
+          "lng": "-87.90517199999999"
+        },
+        "formatted_address": "Chicago, IL 60666, USA",
+        "country": "USA",
+        "place_id": "ChIJBZRKFCK0D4gR6iziHH4xEaE",
+        "status": "OK",
+        "ok": true,
+        "impossible": false
+      },
+      "googleMapsUrl": "https://www.google.com/maps/dir/San Francisco, CA, USA/Chicago, IL 60666, USA"
+    }
+  ],
+  "waypointOrder": [
+    0
+  ],
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -16,6 +16,7 @@ import java.lang.reflect.Field;
 import java.lang.reflect.Type;
 import java.net.URLEncoder;
 import java.nio.file.Files;
+import java.nio.file.NoSuchFileException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.security.MessageDigest;
@@ -802,21 +803,33 @@ public abstract class CachedApiRequest<R> implements Request<R> {
      */
     protected abstract void cache(Path path, R response) throws IOException;
     
+    private void loadCachedResponse() throws IOException {
+        System.out.print("cached");
+        System.out.println(": " + getClass().getSimpleName() + ": " + url);
+        final Path cachePath = requestCache.getPath(url);
+        response = deserializeFromFile(cachePath);
+    }
+    
+    private void loadNewResponse() throws IOException {
+        System.out.print("new");
+        System.out.println(": " + getClass().getSimpleName() + ": " + url);
+        response = deserializeFromUrl(url);
+        requestCache.put(this);
+        final Path cachePath = requestCache.getPath(url);
+        cache(cachePath, response);
+        //requestCache.serializeTypeToken(cachePath);
+    }
+    
     private void loadResponse() {
         try {
             if (isCached) {
-                System.out.print("cached");
-                System.out.println(": " + getClass().getSimpleName() + ": " + url);
-                final Path cachePath = requestCache.getPath(url);
-                response = deserializeFromFile(cachePath);
+                try {
+                    loadCachedResponse();
+                } catch (final NoSuchFileException e) {
+                    loadNewResponse(); // cached file has been deleted
+                }
             } else {
-                System.out.print("new");
-                System.out.println(": " + getClass().getSimpleName() + ": " + url);
-                response = deserializeFromUrl(url);
-                requestCache.put(this);
-                final Path cachePath = requestCache.getPath(url);
-                cache(cachePath, response);
-                //requestCache.serializeTypeToken(cachePath);
+                loadNewResponse();
             }
         } catch (final IOException e) {
             throw new RuntimeIOException(e);

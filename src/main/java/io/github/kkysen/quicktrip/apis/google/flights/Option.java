@@ -1,5 +1,6 @@
 package io.github.kkysen.quicktrip.apis.google.flights;
 
+import io.github.kkysen.quicktrip.app.data.Destination;
 import io.github.kkysen.quicktrip.app.data.Flight;
 import io.github.kkysen.quicktrip.data.airports.Airport;
 import io.github.kkysen.quicktrip.data.airports.Airports;
@@ -15,6 +16,7 @@ import java.util.stream.Collectors;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
+import lombok.Setter;
 
 /**
  * 
@@ -30,6 +32,9 @@ public class Option implements Flight {
     private String id;
     private List<Slice> slice;
     private List<Pricing> pricing;
+    
+    private @Setter Destination origin;
+    private @Setter Destination destination;
     
     @Override
     public Duration getDuration() {

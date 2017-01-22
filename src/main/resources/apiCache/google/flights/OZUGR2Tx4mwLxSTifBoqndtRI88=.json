@@ -1,0 +1,68 @@
+{
+  "trips": {
+    "requestId": "vSfTf7sU7eP4pxrxf0PrHM",
+    "tripOption": [
+      {
+        "saleTotal": "USD467.40",
+        "id": "erZiqgKNjYBNKqGRG6If1I001",
+        "slice": [
+          {
+            "duration": 495,
+            "segment": [
+              {
+                "duration": 285,
+                "flight": {
+                  "carrier": "AS",
+                  "number": "27"
+                },
+                "id": "GKZUOzDZYxZ6kOQC",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LtK0UnacQflOyDFv",
+                    "arrivalTime": "2017-01-30T08:45-08:00",
+                    "departureTime": "2017-01-30T06:00-06:00",
+                    "origin": "ORD",
+                    "destination": "SEA",
+                    "originTerminal": "3",
+                    "duration": "285"
+                  }
+                ],
+                "connectionDuration": 85
+              },
+              {
+                "duration": 125,
+                "flight": {
+                  "carrier": "AS",
+                  "number": "312"
+                },
+                "id": "GQusHecPKLol-8qq",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LNylb0svzA9PA+oZ",
+                    "arrivalTime": "2017-01-30T12:15-08:00",
+                    "departureTime": "2017-01-30T10:10-08:00",
+                    "origin": "SEA",
+                    "destination": "OAK",
+                    "destinationTerminal": "1",
+                    "duration": "125"
+                  }
+                ],
+                "connectionDuration": 0
+              }
+            ]
+          }
+        ],
+        "pricing": [
+          {
+            "baseFareTotal": "USD123.72",
+            "saleFareTotal": "USD123.72",
+            "saleTaxTotal": "USD32.08",
+            "saleTotal": "USD155.80"
+          }
+        ]
+      }
+    ]
+  }
+}

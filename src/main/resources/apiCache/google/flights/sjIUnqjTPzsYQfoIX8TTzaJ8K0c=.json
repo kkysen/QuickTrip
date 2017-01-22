@@ -1,0 +1,89 @@
+{
+  "trips": {
+    "requestId": "MDLSu3bdfaQIp3FXM0PrHM",
+    "tripOption": [
+      {
+        "saleTotal": "USD2073.78",
+        "id": "DCtClDsFYONTwFCOpFEASD001",
+        "slice": [
+          {
+            "duration": 794,
+            "segment": [
+              {
+                "duration": 95,
+                "flight": {
+                  "carrier": "PD",
+                  "number": "386"
+                },
+                "id": "GKOTdknsl05Pi78+",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LZXp+Gy8Q0joyIMV",
+                    "arrivalTime": "2017-01-30T12:55-05:00",
+                    "departureTime": "2017-01-30T10:20-06:00",
+                    "origin": "MDW",
+                    "destination": "YTZ",
+                    "duration": "95"
+                  }
+                ],
+                "connectionDuration": 120
+              },
+              {
+                "duration": 93,
+                "flight": {
+                  "carrier": "PD",
+                  "number": "945"
+                },
+                "id": "GF9vnsP5R1mRacBW",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LCChLlu122BuhPZv",
+                    "arrivalTime": "2017-01-30T16:28-05:00",
+                    "departureTime": "2017-01-30T14:55-05:00",
+                    "origin": "YTZ",
+                    "destination": "BOS",
+                    "destinationTerminal": "E",
+                    "duration": "93"
+                  }
+                ],
+                "connectionDuration": 72
+              },
+              {
+                "duration": 414,
+                "flight": {
+                  "carrier": "B6",
+                  "number": "833"
+                },
+                "id": "GXDn4hzUFDSB6n0j",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LKumS69ZkbvdXLXk",
+                    "arrivalTime": "2017-01-30T21:34-08:00",
+                    "departureTime": "2017-01-30T17:40-05:00",
+                    "origin": "BOS",
+                    "destination": "SFO",
+                    "originTerminal": "C",
+                    "destinationTerminal": "I",
+                    "duration": "414"
+                  }
+                ],
+                "connectionDuration": 0
+              }
+            ]
+          }
+        ],
+        "pricing": [
+          {
+            "baseFareTotal": "USD602.70",
+            "saleFareTotal": "USD602.70",
+            "saleTaxTotal": "USD88.56",
+            "saleTotal": "USD691.26"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "51.5073509",
+    "lng": "-0.1277583"
+  },
+  "formatted_address": "London, UK",
+  "country": "UK",
+  "place_id": "ChIJdd4hrwug2EcRmSrV3Vo6llI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "55.755826",
+    "lng": "37.6173"
+  },
+  "formatted_address": "Moscow, Russia",
+  "country": "Russia",
+  "place_id": "ChIJybDUc_xKtUYRTM9XV8zWRD0",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

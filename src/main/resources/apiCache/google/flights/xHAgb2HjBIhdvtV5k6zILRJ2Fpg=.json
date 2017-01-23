@@ -1,0 +1,191 @@
+{
+  "trips": {
+    "requestId": "bGjoHeN3TPCpQhRNT0PrjZ",
+    "tripOption": [
+      {
+        "saleTotal": "USD1676.70",
+        "id": "LrHf9e1wQg6U3Z3KZwvLyN001",
+        "slice": [
+          {
+            "duration": 819,
+            "segment": [
+              {
+                "duration": 369,
+                "flight": {
+                  "carrier": "AS",
+                  "number": "1"
+                },
+                "id": "Gus+lMmQuPgkp-lQ",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LplHFSNtPBxm+-bU",
+                    "arrivalTime": "2017-01-28T11:09-08:00",
+                    "departureTime": "2017-01-28T08:00-05:00",
+                    "origin": "DCA",
+                    "destination": "SEA",
+                    "originTerminal": "B",
+                    "duration": "369"
+                  }
+                ],
+                "connectionDuration": 230
+              },
+              {
+                "duration": 48,
+                "flight": {
+                  "carrier": "AS",
+                  "number": "2151"
+                },
+                "id": "GFKo-19DmLnLXUYs",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LnUYX8zqthMe3I4+",
+                    "arrivalTime": "2017-01-28T15:47-08:00",
+                    "departureTime": "2017-01-28T14:59-08:00",
+                    "origin": "SEA",
+                    "destination": "PDX",
+                    "duration": "48"
+                  }
+                ],
+                "connectionDuration": 53
+              },
+              {
+                "duration": 119,
+                "flight": {
+                  "carrier": "AS",
+                  "number": "2563"
+                },
+                "id": "Gv7TVTOS2lff-Ck3",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "LFeKggm1cHAyuB+e",
+                    "arrivalTime": "2017-01-28T18:39-08:00",
+                    "departureTime": "2017-01-28T16:40-08:00",
+                    "origin": "PDX",
+                    "destination": "OAK",
+                    "destinationTerminal": "1",
+                    "duration": "119"
+                  }
+                ],
+                "connectionDuration": 0
+              }
+            ]
+          }
+        ],
+        "pricing": [
+          {
+            "baseFareTotal": "USD494.88",
+            "saleFareTotal": "USD494.88",
+            "saleTaxTotal": "USD64.02",
+            "saleTotal": "USD558.90"
+          }
+        ],
+        "airports": [
+          {
+            "type": "LARGE",
+            "name": "Ronald Reagan Washington National Airport",
+            "location": {
+              "lat": "38.85210037",
+              "lng": "-77.03769684"
+            },
+            "elevation": "15",
+            "continent": "NA",
+            "country": "US",
+            "region": "US-DC",
+            "municipality": "Washington",
+            "gpsCode": "KDCA",
+            "iataCode": "DCA",
+            "localCode": "DCA"
+          },
+          {
+            "type": "LARGE",
+            "name": "Portland International Airport",
+            "location": {
+              "lat": "45.58869934",
+              "lng": "-122.5979996"
+            },
+            "elevation": "31",
+            "continent": "NA",
+            "country": "US",
+            "region": "US-OR",
+            "municipality": "Portland",
+            "gpsCode": "KPDX",
+            "iataCode": "PDX",
+            "localCode": "PDX"
+          },
+          {
+            "type": "LARGE",
+            "name": "Metropolitan Oakland International Airport",
+            "location": {
+              "lat": "37.72129822",
+              "lng": "-122.2210007"
+            },
+            "elevation": "9",
+            "continent": "NA",
+            "country": "US",
+            "region": "US-CA",
+            "municipality": "Oakland",
+            "gpsCode": "KOAK",
+            "iataCode": "OAK",
+            "localCode": "OAK"
+          },
+          {
+            "type": "LARGE",
+            "name": "Seattle Tacoma International Airport",
+            "location": {
+              "lat": "47.44900131",
+              "lng": "-122.3089981"
+            },
+            "elevation": "433",
+            "continent": "NA",
+            "country": "US",
+            "region": "US-WA",
+            "municipality": "Seattle",
+            "gpsCode": "KSEA",
+            "iataCode": "SEA",
+            "localCode": "SEA"
+          }
+        ],
+        "duration": {
+          "seconds": 49140,
+          "nanos": 0
+        },
+        "price": 1676,
+        "startAirport": {
+          "type": "LARGE",
+          "name": "Ronald Reagan Washington National Airport",
+          "location": {
+            "lat": "38.85210037",
+            "lng": "-77.03769684"
+          },
+          "elevation": "15",
+          "continent": "NA",
+          "country": "US",
+          "region": "US-DC",
+          "municipality": "Washington",
+          "gpsCode": "KDCA",
+          "iataCode": "DCA",
+          "localCode": "DCA"
+        },
+        "endAirport": {
+          "type": "LARGE",
+          "name": "Seattle Tacoma International Airport",
+          "location": {
+            "lat": "47.44900131",
+            "lng": "-122.3089981"
+          },
+          "elevation": "433",
+          "continent": "NA",
+          "country": "US",
+          "region": "US-WA",
+          "municipality": "Seattle",
+          "gpsCode": "KSEA",
+          "iataCode": "SEA",
+          "localCode": "SEA"
+        }
+      }
+    ]
+  }
+}

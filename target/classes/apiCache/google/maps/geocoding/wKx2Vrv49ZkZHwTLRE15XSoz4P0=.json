@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "37.7193603",
+    "lng": "-122.2216699"
+  },
+  "formatted_address": "178 Air Cargo Way, Oakland, CA 94621, USA",
+  "country": "USA",
+  "place_id": "ChIJT2XP0qqFj4ARaPJ7dWMdbzQ",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

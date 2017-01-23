@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "40.6781784",
+    "lng": "-73.94415789999999"
+  },
+  "formatted_address": "Brooklyn, NY, USA",
+  "country": "USA",
+  "place_id": "ChIJCSF8lBZEwokRhngABHRcdoI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}

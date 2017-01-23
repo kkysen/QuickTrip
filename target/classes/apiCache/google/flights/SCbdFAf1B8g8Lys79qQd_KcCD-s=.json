@@ -1,0 +1,193 @@
+{
+  "trips": {
+    "requestId": "mSvlmriEDdQUV1sbc0PrjZ",
+    "tripOption": [
+      {
+        "saleTotal": "USD2168.73",
+        "id": "gIVBbuIUw05TSvEe7BKwhC001",
+        "slice": [
+          {
+            "duration": 646,
+            "segment": [
+              {
+                "duration": 76,
+                "flight": {
+                  "carrier": "B6",
+                  "number": "347"
+                },
+                "id": "GaAppcfFr8xsencQ",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "L-2-hxcWNDTV2j8g",
+                    "arrivalTime": "2017-01-23T19:16-08:00",
+                    "departureTime": "2017-01-23T18:00-08:00",
+                    "origin": "OAK",
+                    "destination": "LGB",
+                    "originTerminal": "1",
+                    "duration": "76"
+                  }
+                ],
+                "connectionDuration": 107
+              },
+              {
+                "duration": 314,
+                "flight": {
+                  "carrier": "B6",
+                  "number": "404"
+                },
+                "id": "GA555aMlIs94Eco3",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "L4Ad5fE+CrDIqbzr",
+                    "arrivalTime": "2017-01-24T05:17-05:00",
+                    "departureTime": "2017-01-23T21:03-08:00",
+                    "origin": "LGB",
+                    "destination": "BOS",
+                    "destinationTerminal": "C",
+                    "duration": "314"
+                  }
+                ],
+                "connectionDuration": 43
+              },
+              {
+                "duration": 106,
+                "flight": {
+                  "carrier": "B6",
+                  "number": "1600"
+                },
+                "id": "GLbFqpP517S4eosr",
+                "cabin": "COACH",
+                "leg": [
+                  {
+                    "id": "Lu7K+a6sa2PSZvyA",
+                    "arrivalTime": "2017-01-24T07:46-05:00",
+                    "departureTime": "2017-01-24T06:00-05:00",
+                    "origin": "BOS",
+                    "destination": "DCA",
+                    "originTerminal": "C",
+                    "destinationTerminal": "B",
+                    "duration": "106"
+                  }
+                ],
+                "connectionDuration": 0
+              }
+            ]
+          }
+        ],
+        "pricing": [
+          {
+            "baseFareTotal": "USD647.45",
+            "saleFareTotal": "USD647.45",
+            "saleTaxTotal": "USD75.46",
+            "saleTotal": "USD722.91"
+          }
+        ],
+        "airports": [
+          {
+            "type": "LARGE",
+            "name": "Ronald Reagan Washington National Airport",
+            "location": {
+              "lat": "38.85210037",
+              "lng": "-77.03769684"
+            },
+            "elevation": "15",
+            "continent": "NA",
+            "country": "US",
+            "region": "US-DC",
+            "municipality": "Washington",
+            "gpsCode": "KDCA",
+            "iataCode": "DCA",
+            "localCode": "DCA"
+          },
+          {
+            "type": "MEDIUM",
+            "name": "Long Beach /Daugherty Field/ Airport",
+            "location": {
+              "lat": "33.81769943",
+              "lng": "-118.1520004"
+            },
+            "elevation": "60",
+            "continent": "NA",
+            "country": "US",
+            "region": "US-CA",
+            "municipality": "Long Beach",
+            "gpsCode": "KLGB",
+            "iataCode": "LGB",
+            "localCode": "LGB"
+          },
+          {
+            "type": "LARGE",
+            "name": "General Edward Lawrence Logan International Airport",
+            "location": {
+              "lat": "42.36429977",
+              "lng": "-71.00520325"
+            },
+            "elevation": "20",
+            "continent": "NA",
+            "country": "US",
+            "region": "US-MA",
+            "municipality": "Boston",
+            "gpsCode": "KBOS",
+            "iataCode": "BOS",
+            "localCode": "BOS"
+          },
+          {
+            "type": "LARGE",
+            "name": "Metropolitan Oakland International Airport",
+            "location": {
+              "lat": "37.72129822",
+              "lng": "-122.2210007"
+            },
+            "elevation": "9",
+            "continent": "NA",
+            "country": "US",
+            "region": "US-CA",
+            "municipality": "Oakland",
+            "gpsCode": "KOAK",
+            "iataCode": "OAK",
+            "localCode": "OAK"
+          }
+        ],
+        "duration": {
+          "seconds": 38760,
+          "nanos": 0
+        },
+        "price": 2168,
+        "startAirport": {
+          "type": "LARGE",
+          "name": "Ronald Reagan Washington National Airport",
+          "location": {
+            "lat": "38.85210037",
+            "lng": "-77.03769684"
+          },
+          "elevation": "15",
+          "continent": "NA",
+          "country": "US",
+          "region": "US-DC",
+          "municipality": "Washington",
+          "gpsCode": "KDCA",
+          "iataCode": "DCA",
+          "localCode": "DCA"
+        },
+        "endAirport": {
+          "type": "LARGE",
+          "name": "Metropolitan Oakland International Airport",
+          "location": {
+            "lat": "37.72129822",
+            "lng": "-122.2210007"
+          },
+          "elevation": "9",
+          "continent": "NA",
+          "country": "US",
+          "region": "US-CA",
+          "municipality": "Oakland",
+          "gpsCode": "KOAK",
+          "iataCode": "OAK",
+          "localCode": "OAK"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "numWaypoints": 0,
+  "numLegs": 0,
+  "geocoded_waypoints": [
+    {
+      "place_id": "ChIJXSModoWLGGARILWiCfeu2M0",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    {
+      "place_id": "ChIJCSF8lBZEwokRhngABHRcdoI",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    },
+    {
+      "place_id": "ChIJXSModoWLGGARILWiCfeu2M0",
+      "status": "OK",
+      "ok": true,
+      "impossible": false
+    }
+  ],
+  "status": "ZERO_RESULTS",
+  "ok": false,
+  "impossible": true
+}

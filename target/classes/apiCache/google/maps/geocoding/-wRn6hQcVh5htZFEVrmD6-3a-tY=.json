@@ -1,0 +1,12 @@
+{
+  "latLng": {
+    "lat": "31.230416",
+    "lng": "121.473701"
+  },
+  "formatted_address": "Shanghai, China",
+  "country": "China",
+  "place_id": "ChIJMzz1sUBwsjURoWTDI5QSlQI",
+  "status": "OK",
+  "ok": true,
+  "impossible": false
+}
